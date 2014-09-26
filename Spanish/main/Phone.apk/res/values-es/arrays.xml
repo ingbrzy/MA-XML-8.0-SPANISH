@@ -7,7 +7,7 @@
   </string-array>
   <string-array name="ims_call_types">
     <item>Voz</item>
-    <item>Video</item>
+    <item>Vídeo</item>
   </string-array>
   <string-array name="sip_call_options_entries">
     <item>@string/sip_call_options_entry_1</item>
@@ -98,9 +98,9 @@
     <item>Mostrar número</item>
   </string-array>
   <string-array name="clir_values">
-    <item>DEFAULT</item>
-    <item>HIDE</item>
-    <item>SHOW</item>
+    <item>DEFECTO</item>
+    <item>OCULTAR</item>
+    <item>MOSTRAR</item>
   </string-array>
   <string-array name="preferred_network_mode_choices">
     <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
@@ -153,13 +153,13 @@
     <item>0</item>
   </string-array>
   <string-array name="list_language_entries">
-    <item>English</item>
-    <item>French</item>
-    <item>Spanish</item>
-    <item>Japanese</item>
-    <item>Korean</item>
-    <item>Chinese</item>
-    <item>Hebrew</item>
+    <item>Inglés</item>
+    <item>Francés</item>
+    <item>Español</item>
+    <item>Japonés</item>
+    <item>Coreano</item>
+    <item>Chino</item>
+    <item>Hebreo</item>
   </string-array>
   <string-array name="list_language_values">
     <item>1</item>
@@ -200,7 +200,7 @@
   </string-array>
   <string-array name="dtmf_tone_entries">
     <item>Normal</item>
-    <item>Long</item>
+    <item>Largo</item>
   </string-array>
   <string-array name="dtmf_tone_values">
     <item>0</item>
@@ -211,14 +211,14 @@
     <item>ABSENTNUMBER</item>
   </string-array>
   <string-array name="voicemail_notification_vibrate_when_entries">
-    <item>Always</item>
-    <item>Only when silent</item>
-    <item>Never</item>
+    <item>Siempre</item>
+    <item>Sólo cuando silenciado</item>
+    <item>Nunca</item>
   </string-array>
   <string-array name="voicemail_notification_vibrate_when_values">
-    <item>always</item>
-    <item>silent</item>
-    <item>never</item>
+    <item>siempre</item>
+    <item>silenciado</item>
+    <item>nunca</item>
   </string-array>
   <string-array name="answer_widget_entries_miui">
     <item>@string/answer_widget_sliding_vertical_miui</item>
@@ -350,9 +350,9 @@
     <item>@string/clir_choices_show_number_miui</item>
   </string-array>
   <string-array name="clir_values_miui">
-    <item>DEFAULT</item>
-    <item>HIDE</item>
-    <item>SHOW</item>
+    <item>DEFECTO</item>
+    <item>OCULTAR</item>
+    <item>MOSTRAR</item>
   </string-array>
   <string-array name="tty_mode_entries_miui">
     <item>@string/tty_mode_entries_off_miui</item>
