@@ -12,17 +12,20 @@
   <string name="app_name">Autenticador Xiaomi</string>
   <string name="app_name_lockpattern">Patrón de bloqueo</string>
   <string name="app_name_short">Authenticator</string>
-  <string name="authenticator_invalid_tip">\"您可能在网页端关闭了登录保护，或激活了另一令牌，此令牌失效
+  <string name="authenticator_invalid_tip">\"Usted puede terminar cerrado la página de inicio de sesión para proteger, o activar otra señal de que el fracaso
+En caso de duda, por favor visite el sitio web oficial de mijo buscar ayuda de servicio al cliente en línea
+    
+    您可能在网页端关闭了登录保护，或激活了另一令牌，此令牌失效
 
 如有疑问，请访问小米官网寻求线上客服帮助\"</string>
-  <string name="authenticator_invalid_title">帐户：%1$s令牌失效</string>
+  <string name="authenticator_invalid_title">Usuario：%1$s no es válido</string>
   <string name="authenticator_page_reactivation">Reactivar</string>
-  <string name="button_add_account">Agregue una cuenta</string>
+  <string name="button_add_account">Agregar una cuenta</string>
   <string name="button_add_account_manual_entry">Agregar manualmente la cuenta</string>
-  <string name="button_add_account_scan_barcode">Escáner de código de barras</string>
+  <string name="button_add_account_scan_barcode">Escanear código de barras</string>
   <string name="button_back">Atrás</string>
-  <string name="button_exit_howitworks_flow">Salida</string>
-  <string name="button_how_it_works">Vea cómo funciona</string>
+  <string name="button_exit_howitworks_flow">Salir</string>
+  <string name="button_how_it_works">Ver cómo funciona</string>
   <string name="button_next">Siguiente</string>
   <string name="button_uninstall_old_app">Desinstalar</string>
   <string name="cancel">Cancelar</string>
@@ -33,14 +36,14 @@
   <string name="context_menu_remove_account">Quitar</string>
   <string name="continue_btn">Continuar</string>
   <string name="copy_to_clipboard">Copiar en el portapapeles</string>
-  <string name="correct_enter_password">密码输入正确</string>
-  <string name="correct_enter_update_password">原密码输入正确</string>
+  <string name="correct_enter_password">Introducir contraseña</string>
+  <string name="correct_enter_update_password">Contraseña actualizada</string>
   <string name="counter_pin">Obtener código</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Sus datos se han importado con éxito de la aplicación Xiaomi Authenticator obsoleta. Ahora es seguro desinstalar la versión anterior de la aplicación haciendo clic abajo.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importación tuvo éxito</string>
   <string name="decoding_exception">Excepción al descodificar</string>
-  <string name="details_patternforgotten">\"重新激活：
-登陆 account.xiaomi.com，登陆保护管理页面，点击“重新激活”\"</string>
+  <string name="details_patternforgotten">\"Reactivar：
+Regístrese en account.xiaomi.com，Protección de las páginas de destino，Pulse en "Reactivar”\"</string>
   <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Introduzca el nombre de la cuenta</string>
   <string name="enter_key_hint">Introduzca su clave</string>
@@ -67,9 +70,9 @@
   <string name="install_button">Instalar</string>
   <string name="install_dialog_message">Para escanear códigos de barras que contienen claves, debe instalar el escáner de código de barras ZXing.</string>
   <string name="install_dialog_title">¿Instalar scanner de código de barras?</string>
-  <string name="jump_createpattern_tip">跳过设置密码，帐户将存在一定的安全隐患，建议您不要选择跳过</string>
-  <string name="jump_lockpattern_title">注意</string>
-  <string name="jump_updatepattern_tip">关闭手势密码，帐户将存在一定的安全隐患，建议您不要选择关闭</string>
+  <string name="jump_createpattern_tip">Por defecto se le pedirá que establezca una contraseña de seguridad. Se recomienda que no elija Saltar，</string>
+  <string name="jump_lockpattern_title">Preste atención</string>
+  <string name="jump_updatepattern_tip">Aunque Vd. puede no fijar un patrón, se recomienda no saltar este paso por seguridad.</string>
   <string name="lockpassword_choose_your_pattern_header">Elija su patrón</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirme su patrón</string>
   <string name="lockpassword_input_your_pattern_header">Introduzca su patrón</string>
@@ -93,30 +96,30 @@
   <string name="lockpattern_tutorial_continue_label">Siguiente</string>
   <string name="lockpattern_tutorial_jump_label">Ir a</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Olvidó la contraseña del patrón&lt;/u&gt;</string>
-  <string name="login">登录</string>
+  <string name="login">Iniciar sesión</string>
   <string name="main_preference_screen_title">Ajustes</string>
   <string name="mycard_scan_barcode">Escáner de código de MiID</string>
-  <string name="new_pattern_tip">请输入&lt;font color=#fb3500&gt;新&lt;/font&gt;手势密码图案，至少连接四个点</string>
+  <string name="new_pattern_tip">Por favor, introduzca&lt;font color=#fb3500&gt;nuevo&lt;/font&gt;patrón de bloqueo. Al menos cuatro puntos de conexión</string>
   <string name="ok">Correcto</string>
   <string name="ok_button">Correcto</string>
-  <string name="open_camera_exception_dialog_content">系统相机出现问题，可能需要重启设备。</string>
+  <string name="open_camera_exception_dialog_content">Problemas con la cámara. Es posible que deba reiniciar el dispositivo</string>
   <string name="open_camera_exception_dialog_title">fallo de cámara</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Proyecto Open-source</string>
-  <string name="original_pattern_tip">请输入&lt;font color=#fb3500&gt;原&lt;/font&gt;手势密码图案</string>
-  <string name="password_error">请检查您的密码</string>
-  <string name="password_forget">忘了?</string>
-  <string name="password_hint">请输入小米帐户登录密码</string>
+  <string name="original_pattern_tip">Por favor introduce&lt;font color=#fb3500&gt;el anterior&lt;/font&gt;patrón de bloqueo</string>
+  <string name="password_error">Por favor verifique su contraseña</string>
+  <string name="password_forget">¿Ha olvidado su contraseña?</string>
+  <string name="password_hint">Por favor, introduzca cuenta y contraseña</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Política de privacidad</string>
-  <string name="progress_loading">正在处理&#8230;</string>
+  <string name="progress_loading">Procesando…&#8230;</string>
   <string name="remove_Xiaomi_account_dialog_message">Eliminar esta cuenta &lt;b&gt;eliminará su capacidad&lt;/b&gt; para generar códigos, sin embargo &lt;b&gt;no&lt;/b&gt; desactivará la verificación en 2-pasos. Esto podría impedirle acceder a su cuenta. &lt;p&gt; Antes de eliminarla: &lt;ul&gt; &lt;li&gt;desactive la verificación en 2-pasos para esta cuenta, o&lt;/li&gt; &lt;li&gt;Asegúrese de que tiene Vd. un mecanismo alternativo para generar códigos.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account_dialog_button_remove">Eliminar cuenta</string>
   <string name="remove_account_dialog_message">Eliminar esta cuenta &lt;b&gt;eliminará su capacidad&lt;/b&gt; para generar códigos, sin embargo &lt;b&gt;no&lt;/b&gt; desactivará la autenticación de 2-factores. Esto podría impedirle acceder a su cuenta. &lt;p&gt; Antes de eliminarla: &lt;ul&gt; &lt;li&gt;Desactive la autenticación de 2-factores para esta cuenta, o&lt;/li&gt; &lt;li&gt;Asegúrese de que tiene Vd. un mecanismo alternativo para generar códigos.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account_dialog_title">¿Eliminar %1$s?</string>
   <string name="rename">Renombrar</string>
   <string name="rename_message">Renombrar %1$s</string>
-  <string name="resetbtn_patternforgotten">立即重置</string>
+  <string name="resetbtn_patternforgotten">Restablecer</string>
   <string name="save_key_message">Guardar clave para</string>
   <string name="scan_barcode">Escanear MiID</string>
   <string name="scan_barcode_info">Coloque y escanee un código de barras MiID dentro de este visor.</string>
@@ -124,8 +127,8 @@
   <string name="security_setting">Ajustes de Seguridad</string>
   <string name="settings_menu_item">Ajustes</string>
   <string name="submit">Guardar</string>
-  <string name="success_reset_password">密码重置成功</string>
-  <string name="success_set_password">密码设置成功</string>
+  <string name="success_reset_password">Contraseña restablecida con éxito</string>
+  <string name="success_set_password">Contraseña cambiada correctamente</string>
   <string name="summary_lockpattern">Necesita un Patrón de bloqueo único para MiCredit</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Términos del servicio</string>
@@ -146,12 +149,12 @@
 
 Los ajustes de Fecha &amp; Hora en este dispositivo no se han cambiado.\"</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Fecha-Hora corregidas</string>
-  <string name="tip1_patternforgotten">卸载小米安全令牌，重新安装和激活</string>
-  <string name="tip2_patternforgotten">点击下方按钮“立即重置”，清空原帐户数据，重新激活</string>
-  <string name="tip_lockpattern">为保障小米令牌安全，请设置令牌开启时的手势密码，至少连接四个点</string>
+  <string name="tip1_patternforgotten">Patrón de bloqueo Xiaomi: desinstalar, reinstalar y activar</string>
+  <string name="tip2_patternforgotten">Toque en el botón de abajo "Reiniciar ahora" para restablecer completamente la cuenta. Tendrá que reactivarla</string>
+  <string name="tip_lockpattern">Por favor, establezca un patrón de bloqueo que conecte, al menos, cuantro puntos</string>
   <string name="title_change_lockpattern">Configurar patrón de bloqueo</string>
-  <string name="title_createpattern">设置开启密码</string>
-  <string name="title_forgetpattern">忘记开启密码</string>
+  <string name="title_createpattern">Establecer patrón de bloqueo</string>
+  <string name="title_forgetpattern">¿Olvidó el patrón de bloqueo?</string>
   <string name="title_gesture">Patrón de bloqueo</string>
   <string name="title_lockpattern">Necesita Patrón de bloqueo</string>
   <string name="title_myaccount">Mi cuenta: %s</string>
@@ -159,15 +162,15 @@ Los ajustes de Fecha &amp; Hora en este dispositivo no se han cambiado.\"</strin
   <string name="title_nopassword_dialog">Límite diario</string>
   <string name="title_password">Contraseña</string>
   <string name="title_password_threshold">Límite diario = ￥ %1$s</string>
-  <string name="title_patternforgotten">\"忘记密码了？
-您可以：\"</string>
-  <string name="title_updatepattern">修改开启密码</string>
+  <string name="title_patternforgotten">\"¿Olvidó el patrón de bloqueo?
+Vd. puede：\"</string>
+  <string name="title_updatepattern">Modificar patrón de bloqueo</string>
   <string name="title_visible_pattern">Hacer visible el patrón</string>
   <string name="type_prompt">Tipo de clave</string>
   <string name="update_pattern_jump">&lt;u&gt;&amp;#20851;&amp;#38381;&amp;#25163;&amp;#21183;&amp;#23494;&amp;#30721;&lt;/u&gt;</string>
   <string name="version_preference_title">Versión</string>
-  <string name="welcome_page_alert">&lt;font color=#fb3500&gt;注：&lt;/font&gt;请勿随意删除令牌，否则将无法登录。</string>
-  <string name="welcome_page_details">\"— 保护帐户信息不被他人恶意盗取。
-— 避免由于手机丢失或邮箱丢失引发的帐户安全问题。\"</string>
-  <string name="welcome_page_title">用于开启小米帐户登录保护</string>
+  <string name="welcome_page_alert">&lt;font color=#fb3500&gt;Nota:&lt;/font&gt;Por favor, no elimine el patrón, de lo contrario no podrá iniciar sesión</string>
+  <string name="welcome_page_details">\"- Proteja su información del robo malicioso de terceros.
+- La pérdida del teléfono puede causarle problemas de seguridad en sus cuentas de correo, redes sociales, etc.\"</string>
+  <string name="welcome_page_title">Bienvenido a la cuenta de protección de acceso de Xiaomi</string>
 </resources>

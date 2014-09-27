@@ -25,27 +25,27 @@
     <item>:-I</item>
   </string-array>
   <string-array name="default_smiley_names">
-    <item>Happy</item>
-    <item>Sad</item>
-    <item>Winking</item>
-    <item>Tongue sticking out</item>
-    <item>Surprised</item>
-    <item>Kissing</item>
-    <item>Yelling</item>
-    <item>Cool</item>
-    <item>Money mouth</item>
-    <item>Foot in mouth</item>
-    <item>Embarrassed</item>
-    <item>Angel</item>
-    <item>Undecided</item>
-    <item>Crying</item>
-    <item>Lips are sealed</item>
-    <item>Laughing</item>
-    <item>Confused</item>
-    <item>Heart</item>
-    <item>Mad</item>
-    <item>Smirk</item>
-    <item>Poker face</item>
+    <item>Feliz</item>
+    <item>Triste</item>
+    <item>Guiño</item>
+    <item>Lengua colgando</item>
+    <item>Sorprendido</item>
+    <item>Beso</item>
+    <item>Chillando</item>
+    <item>Gafas</item>
+    <item>Avergonzado</item>
+    <item>Enfadado</item>
+    <item>Ceñudo</item>
+    <item>Ángel</item>
+    <item>Indeciso</item>
+    <item>Llorando</item>
+    <item>Mis labios están sellados</item>
+    <item>Riendo</item>
+    <item>Sorprendido</item>
+    <item>Corazón</item>
+    <item>Loco</item>
+    <item>Escéptico</item>
+    <item>Cara de póker</item>
   </string-array>
   <string-array name="prefEntries_ringtone_repeat">
     <item>1x</item>
@@ -62,17 +62,17 @@
     <item>10</item>
   </string-array>
   <string-array name="contact_entries">
-    <item>Name</item>
-    <item>Nickname</item>
-    <item>Phone</item>
-    <item>E-mail</item>
-    <item>Organization</item>
-    <item>IM</item>
-    <item>SIP Phone</item>
-    <item>Birthday</item>
-    <item>Website</item>
-    <item>Address</item>
-    <item>Note</item>
+    <item>Nombre</item>
+    <item>Nick</item>
+    <item>Teléfono</item>
+    <item>Correo-e</item>
+    <item>Organización</item>
+    <item>MI</item>
+    <item>Teléfono SIP</item>
+    <item>Cumpleaños</item>
+    <item>SitioWeb</item>
+    <item>Dirección</item>
+    <item>Notas</item>
   </string-array>
   <string-array name="contact_values">
     <item>vnd.android.cursor.item/name</item>
@@ -88,8 +88,8 @@
     <item>vnd.android.cursor.item/note</item>
   </string-array>
   <string-array name="entries_date_type">
-    <item>Time received</item>
-    <item>Time sent</item>
+    <item>Hora recibido</item>
+    <item>Hora enviado</item>
   </string-array>
   <string-array name="resent_via_entries_sms">
     <item>Via message</item>
@@ -104,26 +104,26 @@
     <item>1</item>
   </string-array>
   <string-array name="select_dialog_items">
-    <item>1 second</item>
-    <item>2 seconds</item>
-    <item>3 seconds</item>
-    <item>4 seconds</item>
-    <item>5 seconds</item>
-    <item>6 seconds</item>
-    <item>7 seconds</item>
-    <item>8 seconds</item>
-    <item>9 seconds</item>
-    <item>10 seconds</item>
-    <item>Other</item>
+    <item>1 segundo</item>
+    <item>2 segundos</item>
+    <item>3 segundos</item>
+    <item>4 segundos</item>
+    <item>5 segundos</item>
+    <item>6 segundos</item>
+    <item>7 segundos</item>
+    <item>8 segundos</item>
+    <item>9 segundos</item>
+    <item>10 segundos</item>
+    <item>Otro</item>
   </string-array>
   <string-array name="prefEntries_vibrateWhen">
-    <item>Always</item>
-    <item>Only when silent</item>
-    <item>Never</item>
+    <item>Siempre</item>
+    <item>Cuando silenciado</item>
+    <item>Nunca</item>
   </string-array>
   <string-array name="prefValues_vibrateWhen">
-    <item>always</item>
-    <item>silent</item>
-    <item>never</item>
+    <item>siempre</item>
+    <item>silenciado</item>
+    <item>nunca</item>
   </string-array>
 </resources>
