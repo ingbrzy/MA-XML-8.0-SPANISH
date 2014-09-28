@@ -854,4 +854,15 @@ Incremento de tamaño: %2$s\"</string>
   <string name="xiaomi_update_dialog_title">%1$s ¡actualización!</string>
   <string name="yes">Si</string>
   <string name="zip_viewer_no_file">Vacío</string>
+     <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
+(%s)"</string>
+     <string name="eas_hotmail_email">hotmail.com</string>
+     <string name="eas_outlook_email">outlook.com</string>
+     <string name="email_feedback_uri" />
+     <string name="no_contacts">Empty</string>
+     <string name="tryrefreshing">Try to Refreshing…</string>
+     <string name="veiled_address" />
+     <string name="veiled_alternate_text" />
+     <string name="veiled_alternate_text_unknown_person" />
+     <string name="veiled_summary_unknown_person" />
 </resources>

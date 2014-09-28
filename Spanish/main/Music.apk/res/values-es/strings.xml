@@ -220,4 +220,13 @@
   <string name="unknown_artist_name">Artista desconocido</string>
   <string name="valid_period">"Válido: "</string>
   <string name="vip_recommend_title">Obtén música de mayor calidad</string>
+     <string name="add_music">Add songs</string>
+     <string name="please_download_first">You need to download this song before you can set it as a ringtone</string>
+     <string name="priority_storage">Use external SD card</string>
+     <string name="priority_storage_summary">Automatically download to external SD card if available</string>
+     <string name="ringtone_not_support">"This song's format is not supported"</string>
+     <string name="set_as_ring">Set as ringtone</string>
+     <string name="set_ringtones_failed">"Couldn't set ringtone"</string>
+     <string name="set_ringtones_successful">%s set as ringtone</string>
+     <string name="sleep_mode_canceled">Sleep mode has been turned off</string>
 </resources>
