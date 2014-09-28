@@ -6,24 +6,24 @@
     <item>TCP</item>
   </string-array>
   <string-array name="ims_call_cap_types">
-    <item>Voice</item>
+    <item>Voz</item>
     <item>Video</item>
   </string-array>
   <string-array name="ims_call_types">
-    <item>Voice</item>
+    <item>Voz</item>
     <item>Video</item>
-    <item>CSVoice</item>
+    <item>CSVoz</item>
   </string-array>
   <string-array name="ims_video_cs_call_types">
     <item>Video</item>
-    <item>CSVoice</item>
+    <item>CSVoz</item>
   </string-array>
   <string-array name="ims_voice_cs_call_types">
-    <item>Voice</item>
-    <item>CSVoice</item>
+    <item>Voz</item>
+    <item>CSVoz</item>
   </string-array>
   <string-array name="cs_call_type">
-    <item>CSVoice</item>
+    <item>CSVoz</item>
   </string-array>
   <string-array name="sip_call_options_entries">
     <item>@string/sip_call_options_entry_1</item>
@@ -135,6 +135,11 @@
     <item>@string/clir_choices_hide_number</item>
     <item>@string/clir_choices_show_number</item>
   </string-array>
+  <string-array name="clir_values">
+    <item>POR DEFECTO</item>
+    <item>NO MOSTRAR</item>
+    <item>MOSTRAR</item>
+  </string-array>
   <string-array name="cdma_call_waiting_entries">
     <item>@string/enable</item>
     <item>@string/disable</item>
@@ -151,7 +156,7 @@
     <item>GSM</item>
     <item>TD-SCDMA</item>
     <item>LTE</item>
-    <item>Modo triple</item>
+    <item>TODOS</item>
   </string-array>
   <string-array name="uplmn_prefer_network_mode_values">
     <item>0</item>
@@ -176,13 +181,13 @@
     <item>GSM/WCDMA/LTE</item>
     <item>CDMA + LTE/EvDo</item>
     <item>CDMA/EvDo/GSM/WCDMA</item>
-    <item>EvDo only</item>
+    <item>Sólo EvDo</item>
     <item>CDMA w/o EvDo</item>
     <item>CDMA/EvDo auto</item>
     <item>GSM/WCDMA auto</item>
-    <item>WCDMA only</item>
-    <item>GSM only</item>
-    <item>GSM/WCDMA preferred</item>
+    <item>Sólo WCDMA</item>
+    <item>Sólo GSM</item>
+    <item>GSM/WCDMA preferentemente</item>
   </string-array>
   <string-array name="preferred_network_mode_values">
     <item>22</item>
@@ -210,8 +215,8 @@
     <item>0</item>
   </string-array>
   <string-array name="cdma_system_select_choices">
-    <item>Home only</item>
-    <item>Automatic</item>
+    <item>Sólo local</item>
+    <item>Automático</item>
   </string-array>
   <string-array name="cdma_subscription_choices">
     <item>RUIM/SIM</item>
@@ -226,13 +231,13 @@
     <item>2</item>
   </string-array>
   <string-array name="list_language_entries">
-    <item>English</item>
-    <item>French</item>
-    <item>Spanish</item>
-    <item>Japanese</item>
-    <item>Korean</item>
-    <item>Chinese</item>
-    <item>Hebrew</item>
+    <item>Inglés</item>
+    <item>Francés</item>
+    <item>Español</item>
+    <item>Japonés</item>
+    <item>Coreano</item>
+    <item>Chino</item>
+    <item>Hebreo</item>
   </string-array>
   <string-array name="list_language_values">
     <item>1</item>
@@ -248,8 +253,8 @@
     <item>ABSENTNUMBER</item>
   </string-array>
   <string-array name="voicemail_notification_vibrate_when_values">
-    <item>always</item>
-    <item>silent</item>
-    <item>never</item>
+    <item>Siempre</item>
+    <item>Silencio</item>
+    <item>Nunca</item>
   </string-array>
 </resources>
