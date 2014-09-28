@@ -444,7 +444,6 @@
   <string name="general_preference_text_zoom_tiny">Pequeño</string>
   <string name="generic_attachment_problem">"No puede adjuntar archivo."</string>
   <string name="header_category_account">Configuración de la cuenta</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Otros</string>
   <string name="header_label_general_preferences">Configuración general</string>
   <string name="help_and_info">Ayuda</string>
@@ -465,7 +464,6 @@
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_more">Cargar más</string>
   <string name="loading_conversation">Cargando&#8230;</string>
   <string name="loading_conversations">Cargando&#8230;</string>
@@ -486,14 +484,6 @@
   <string name="mailbox_name_display_starred">Comenzar</string>
   <string name="mailbox_name_display_trash">Basura</string>
   <string name="mailbox_name_display_unread">No leído</string>
-  <string name="mailbox_name_server_all_unread">No leído</string>
-  <string name="mailbox_name_server_drafts">Borradores</string>
-  <string name="mailbox_name_server_inbox">Bandeja de entrada</string>
-  <string name="mailbox_name_server_junk">Basura</string>
-  <string name="mailbox_name_server_outbox">Buzón de salida</string>
-  <string name="mailbox_name_server_sent">Enviado</string>
-  <string name="mailbox_name_server_starred">Comenzar</string>
-  <string name="mailbox_name_server_trash">Basura</string>
   <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opciones de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Días de correo para sincronizar</string>
@@ -696,8 +686,6 @@ CC: %4$s
   <string name="quick_responses_empty_view">No hay respuestas rápidas</string>
   <string name="quote_begin">&lt; div class = \"cite\" &gt;</string>
   <string name="quoted_text">Incluir texto citado</string>
-  <string name="quoted_text_background_color_string">@android: color/blanco</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Citar texto</string>
   <string name="read_string">conversación leer</string>
   <string name="recent_folders_heading">Carpetas recientes</string>
