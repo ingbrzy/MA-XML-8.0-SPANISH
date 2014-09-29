@@ -613,9 +613,9 @@ CC: %4$s
   <string name="password_expired_dialog_content_fmt">Los datos de %s se están borrando en tu dispositivo. Puedes restaurarlos al cambiar el  PIN de pantalla de bloqueo o contraseña. ¿Quieres cambiarla ahora?</string>
   <string name="password_expired_dialog_title">Contraseña de pantalla de bloqueo expirada</string>
   <string name="password_expired_ticker">El PIN de la pantalla de bloque o contraseña ha expirado.</string>
-  <string name="permission_access_provider_desc">Permitir a la aplicación acceder a su correo electrónico, nombres de usuario y contraseñas</string>
+  <string name="permission_access_provider_desc">La aplicación podrá acceder a su correo electrónico, nombres de usuario y contraseñas</string>
   <string name="permission_access_provider_label">Datos de acceso del usuario</string>
-  <string name="permission_read_attachment_desc">"Permitir a la aplicación leer los archivos adjuntos de tus correos electronicos"</string>
+  <string name="permission_read_attachment_desc">"La aplicación podrá leer los archivos adjuntos de sus correos electronicos"</string>
   <string name="permission_read_attachment_label">Leer archivos adjuntos</string>
   <string name="phone">teléfono</string>
   <string name="photo_load_failed">"No se pudo cargar la imagen"</string>

@@ -85,8 +85,8 @@
   <string name="pbap_authentication_timeout_message">Hubo un tiempo de espera al introducir la clave con %1$s</string>
   <string name="pbap_session_key_dialog_header">Clave Bluetooth requerida</string>
   <string name="pbap_session_key_dialog_title">Introducir clave para %1$s</string>
-  <string name="permdesc_bluetoothShareManager">Permitir a la aplicación acceder al administrador BluetoothShare y usarlo para transferir archivos.</string>
-  <string name="permdesc_bluetoothWhitelist">Permitir a la aplicación poner al dispositivo Bluetooth en la lista blanca, permitiendo al dispositivo enviar archivos a este dispositivo sin la confirmación del usuario.</string>
+  <string name="permdesc_bluetoothShareManager">La aplicación podrá acceder al administrador BluetoothShare y usarlo para transferir archivos.</string>
+  <string name="permdesc_bluetoothWhitelist">La aplicación podrá poner al dispositivo Bluetooth en la lista blanca, permitiéndole enviar archivos a este dispositivo sin la confirmación del usuario.</string>
   <string name="permdesc_handoverStatus">Permite recibir información del estado de transferencia Bluetooth.</string>
   <string name="permlab_bluetoothShareManager">Accede al gestor de descargas.</string>
   <string name="permlab_bluetoothWhitelist">Acceso a la lista blanca de dispositivos bluetooth.</string>

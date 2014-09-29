@@ -101,8 +101,8 @@ Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, p
   <string name="HIPS_Perm_CallState">Estado del teléfono</string>
   <string name="HIPS_Perm_CallState_Desc">Obtener estado del teléfono</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s app(s) puede obtener estado del teléfono</string>
-  <string name="HIPS_Perm_Call_Desc">Directamente hacer, contestar o colgar llamadas</string>
-  <string name="HIPS_Perm_Call_Hint">%1$s app(s) puede hacer, contestar o colgar llamadas</string>
+  <string name="HIPS_Perm_Call_Desc">Directamente iniciar, contestar o colgar llamadas</string>
+  <string name="HIPS_Perm_Call_Hint">%1$s app(s) puede iniciar, contestar o colgar llamadas</string>
   <string name="HIPS_Perm_Call_Number">llamar %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">borrar notificación de llamadas perdidas</string>
   <string name="HIPS_Perm_Contact">Contactos</string>
