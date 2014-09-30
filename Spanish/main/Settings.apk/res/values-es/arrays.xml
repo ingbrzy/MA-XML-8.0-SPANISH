@@ -163,7 +163,7 @@
   </string-array>
   <string-array name="usage_stats_display_order_types">
     <item>Tiempo de uso</item>
-    <item>Launch count</item>
+    <item>Número de usos</item>
     <item>Nombre de App</item>
   </string-array>
   <string-array name="wifi_eap_entries">
@@ -173,12 +173,12 @@
     <item>PWD</item>
   </string-array>
   <string-array name="wifi_peap_phase2_entries">
-    <item>None</item>
+    <item>Ninguno</item>
     <item>MSCHAPV2</item>
     <item>GTC</item>
   </string-array>
   <string-array name="wifi_phase2_entries">
-    <item>None</item>
+    <item>Ninguno</item>
     <item>PAP</item>
     <item>MSCHAP</item>
     <item>MSCHAPV2</item>
@@ -186,7 +186,7 @@
   </string-array>
   <string-array name="wifi_ip_settings">
     <item>DHCP</item>
-    <item>Static</item>
+    <item>Estática</item>
   </string-array>
   <string-array name="wifi_proxy_settings">
     <item>Ninguno</item>
@@ -234,62 +234,62 @@
     <item>Ubicación</item>
     <item>Personal</item>
     <item>Mensajería</item>
-    <item>Los medios de comunicación</item>
+    <item>Multimedia</item>
     <item>Dispositivo</item>
   </string-array>
   <string-array name="app_ops_summaries">
-    <item>coarse location</item>
-    <item>fine location</item>
+    <item>Localización aproximada</item>
+    <item>Localizción precisa</item>
     <item>GPS</item>
-    <item>vibrate</item>
-    <item>read contacts</item>
-    <item>modify contacts</item>
-    <item>read call log</item>
-    <item>modify call log</item>
-    <item>read calendar</item>
-    <item>modify calendar</item>
-    <item>wi-fi scan</item>
-    <item>notification</item>
-    <item>cell scan</item>
-    <item>call phone</item>
-    <item>read SMS</item>
-    <item>write SMS</item>
-    <item>receive SMS</item>
-    <item>receive emergency SMS</item>
-    <item>receive MMS</item>
-    <item>receive WAP push</item>
-    <item>send SMS</item>
-    <item>read ICC SMS</item>
-    <item>write ICC SMS</item>
-    <item>modify settings</item>
-    <item>draw on top</item>
-    <item>access notifications</item>
-    <item>camera</item>
-    <item>record audio</item>
-    <item>play audio</item>
-    <item>read clipboard</item>
-    <item>modify clipboard</item>
-    <item>media buttons</item>
-    <item>audio focus</item>
-    <item>master volume</item>
-    <item>voice volume</item>
-    <item>ring volume</item>
-    <item>media volume</item>
-    <item>alarm volume</item>
-    <item>notification volume</item>
-    <item>bluetooth volume</item>
-    <item>keep awake</item>
-    <item>monitor location</item>
-    <item>monitor high power location</item>
+    <item>Vibrar</item>
+    <item>Leer contactos</item>
+    <item>Modificar contactos</item>
+    <item>Leer el registro de llamadas</item>
+    <item>Modificar el registro de Llamadas</item>
+    <item>Leer el Calendario</item>
+    <item>Modificar el calendario</item>
+    <item>Buscar redes WiFi</item>
+    <item>Notificar</item>
+    <item>Búsqueda en célula</item>
+    <item>Llamada telefónica</item>
+    <item>Leer SMS</item>
+    <item>Escribir SMS</item>
+    <item>Recibir SMS</item>
+    <item>Recibir SMS de emergencia</item>
+    <item>Recibir MMS</item>
+    <item>Recibir WAP push</item>
+    <item>Enviar SMS</item>
+    <item>Leer ICC SMS</item>
+    <item>Escribir ICC SMS</item>
+    <item>Modificar ajustes</item>
+    <item>Dibujar en la parte superior</item>
+    <item>Acceder a Notificaciones</item>
+    <item>Cámara de fotos</item>
+    <item>Grabar audio</item>
+    <item>Reproducir audio</item>
+    <item>Leer el portapapeles</item>
+    <item>Modificar el portapapeles</item>
+    <item>Botones multimedia</item>
+    <item>Enfocar audio</item>
+    <item>Volumen maestro</item>
+    <item>Volumen de voz</item>
+    <item>Volumen de llamada</item>
+    <item>Volumen multimedia</item>
+    <item>Volumen de la alarma</item>
+    <item>Volumen de notificación</item>
+    <item>Volumen Bluetooth</item>
+    <item>Mantener despierto</item>
+    <item>Monitorizar ubicación</item>
+    <item>Monitorizar ubicación con precisión</item>
   </string-array>
   <string-array name="app_ops_labels">
-    <item>Location</item>
-    <item>Location</item>
-    <item>Location</item>
-    <item>Vibrate</item>
-    <item>Read contacts</item>
-    <item>Modify contacts</item>
-    <item>Read call log</item>
+    <item>Ubicación</item>
+    <item>Ubicación</item>
+    <item>Ubicación</item>
+    <item>Vibrar</item>
+    <item>Leer contactos</item>
+    <item>Modificar contactos</item>
+    <item>Leer el registro de llamadas</item>
     <item>Modificar el registro de llamadas</item>
     <item>Leer calendario</item>
     <item>Modificar calendario</item>
@@ -317,7 +317,7 @@
     <item>Botones multimedia</item>
     <item>Enfoque audio</item>
     <item>Volumen principal</item>
-    <item>Volumen de la voz</item>
+    <item>Volumen de voz</item>
     <item>Volumen del timbre</item>
     <item>Volumen multimedia</item>
     <item>Volumen de la alarma</item>
@@ -340,23 +340,23 @@
     <item>Monospace</item>
   </string-array>
   <string-array name="captioning_font_size_selector_titles">
-    <item>Very small</item>
-    <item>Small</item>
+    <item>Muy pequeña</item>
+    <item>Pequeña</item>
     <item>Normal</item>
-    <item>Large</item>
-    <item>Very large</item>
+    <item>Grande</item>
+    <item>Muy grande</item>
   </string-array>
   <string-array name="captioning_edge_type_selector_titles">
     <item>None</item>
-    <item>Outline</item>
-    <item>Drop shadow</item>
+    <item>Subrayar</item>
+    <item>Sombrear</item>
   </string-array>
   <string-array name="captioning_preset_selector_titles">
-    <item>White on black</item>
-    <item>Black on white</item>
-    <item>Yellow on black</item>
-    <item>Yellow on blue</item>
-    <item>Custom</item>
+    <item>Blanco sobre negro</item>
+    <item>Negro sobre blanco</item>
+    <item>Amarillo sobre negro</item>
+    <item>Amarillo sobre azul</item>
+    <item>Personalizado</item>
   </string-array>
   <string-array name="select_runtime_summaries">
     <item>Use Dalvik</item>
@@ -499,13 +499,21 @@
     <item>White</item>
     <item>Violet</item>
   </string-array>
+  <string-array name="screen_key_press_action">
+    <item>Mostrar bandeja de aplicaciones recientes</item>
+    <item>Mostrar menu</item>
+  </string-array>
+  <string-array name="screen_key_press_action_value">
+    <item>recent_panel</item>
+    <item>show_menu</item>
+  </string-array>
   <string-array name="screen_key_long_press_action">
     <item>None</item>
-    <item>Show recent apps tray</item>
-    <item>Launch Assistant</item>
-    <item>Launch Google now</item>
-    <item>Close current app</item>
-    <item>Show menu</item>
+    <item>Mostrar bandeja de aplicacicones recientes</item>
+    <item>Lanzar Asistente</item>
+    <item>Lanzar Google now</item>
+    <item>Cerrar app actual</item>
+    <item>Mostrar menú</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout">
     <item>0.5 second</item>

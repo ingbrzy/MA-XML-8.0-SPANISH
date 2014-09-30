@@ -29,17 +29,23 @@
   <string name="error_unknown">"No se puede iniciar sesión"</string>
   <string name="find_device">Encontrar dispositivo activado</string>
   <string name="find_device_disabled_notice">Puedes activar la función de Encontrar dispositivo en Ajustes &gt; Cuentas &amp; Sincronización &gt; Mi Cloud</string>
-  <string name="find_device_disabled_title">Desactivado</string>
+  <string name="find_device_disabled_title">Encontrar Dispositivo desactivado</string>
   <string name="find_device_disabling">Apagando&#8230;</string>
-  <string name="find_device_dspt">Bloquea o borra este dispositivo de forma remota.</string>
+  <string name="find_device_dspt">Localizar, bloquear o borrar el dispositivo de forma remota.</string>
+  <string name="find_device_dspt_provision">"Si pierde su dispositivo, puede ir a "</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_3">" para localizar, bloquear o borrarlo.
+    
+Puede habilitar o deshabilitar esta característica en cualquier momento en Ajustes."</string>
   <string name="find_device_enabling">Encendiendo&#8230;</string>
-  <string name="find_device_error_network">Comprueba tu conexión de datos y vuelve a intentarlo.</string>
+  <string name="find_device_error_network">Compruebe su conexión de datos y vuelva a intentarlo.</string>
   <string name="find_device_error_server">Algo falló en nuestros servidores.</string>
   <string name="find_device_noise_title">Localizar el sonido del dispositivo</string>
   <string name="find_device_notice_p1">Ir a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">\"para encontrar, bloquear, o restaurar tu teléfono.
-Si cambias de tarjeta SIM se debe realizar una nueva activación.\"</string>
+  <string name="find_device_notice_p3">"para localizar, bloquear, o borrar su teléfono.
+Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el servicio."</string>
+  <string name="find_device_send_sms_alert">Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el servicio.</string>
   <string name="find_device_stop_noise">Toca OK para silenciar</string>
   <string name="find_device_success_title">Encontrar dispositivo</string>
   <string name="header_data_and_synchronization">Datos &amp; sincronización</string>
@@ -74,6 +80,11 @@ Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espaci
   <string name="micloud_warn_low_title">Casi sin espacio&#8230;</string>
   <string name="micloud_web_discription_01">Inicia sesión en i.mi.com</string>
   <string name="micloud_web_discription_02">para guardar y acceder a tus archivos desde cualquier parte</string>
+  <string name="mx_dspt">Mi Mensajes</string>
+  <string name="mx_dspt_provision">"Mi Mensajes le permite enviar mensajes a otros usuarios MIUI sin incurrir en los costes de los SMS.
+
+Puede habilitar o deshabilitar esta característica en cualquier momento en Ajustes."</string>
+	+ <string name="mx_sub_dspt_provision">Mi Mensajes</string>
   <string name="next">Siguiente</string>
   <string name="noRemind">"No recordar"</string>
   <string name="no_sim">Tarjeta SIM no detectada</string>
@@ -83,6 +94,7 @@ Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espaci
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Sólo utilizar Wi-fi para sincronizar fotos</string>
   <string name="pref_title_sync_my_profile_title">Sincronizar perfil</string>
+  <string name="privacy_policy">Política de Privacidad</string>
   <string name="restoreSync">Sincronizar ahora</string>
   <string name="start_micloud">Comenzar</string>
   <string name="sub_alert_notif_dspt_add">"%s no han sido sincronizados."</string>
@@ -91,6 +103,12 @@ Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espaci
   <string name="sub_sync_item_sms_summary">"Sincronizar mensajes que contengan fotos, audio u otro contenido multimedia únicamente cuando estés conectado a una red WLAN"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Utilizar sólo WLAN para sincronizar MMS</string>
   <string name="sync_dspt">Habilitar sincronización</string>
+  <string name="sync_dspt_provision">"Mi Nube sincroniza sus fotos, SMS, notas y más, entre sus dispositivos Mi. También puede acceder a ellos desde cualquier Navegador en "</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision3">".
+
+Puede habilitar o deshabilitar esta característica en cualquier momento en Ajustes.
+"</string>
   <string name="sync_item_sms_summary">Sincronizar tus SMS enviados y recibidos en este teléfono</string>
   <string name="sync_item_sms_title">Sincronizar mensajes</string>
   <string name="sync_off">Apagado</string>
@@ -105,6 +123,10 @@ Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espaci
   <string name="sync_sub_int_dspt">El mensaje de activación está sujeto a cargos de datos internacionales.</string>
   <string name="title_reg">Crear una cuenta</string>
   <string name="unactivated_user">Desactivado</string>
+  <string name="user_agreement">Acuerdo de Usuario</string>
+  <string name="user_agreement_p6">"El uso de esta característica está sujeto a "</string>
+  <string name="user_agreement_p7">"los Términos de Servicio de Mi Nube"</string>
+  <string name="user_agreement_p8">.</string>
   <string name="vcode">Código de verificación</string>
   <string name="verify">Verificar</string>
   <string name="wipe_data_dialog_msg_separator">,&#160;</string>
@@ -125,6 +147,8 @@ Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espaci
      <string name="internet">Internet</string>
      <string name="internet_disconnected">No hay conexión de datos</string>
      <string name="less_flow_mode">Data saver</string>
+     <string name="license_host_unreachable">"No se pudo conectar a la red. Para ver esta información ahora, vaya a %s."</string>
+     <string name="loading">Cargando</string>
      <string name="micloud">Mi Cloud</string>
      <string name="micloud_first_login_summary" />
      <string name="micloud_first_login_title" />

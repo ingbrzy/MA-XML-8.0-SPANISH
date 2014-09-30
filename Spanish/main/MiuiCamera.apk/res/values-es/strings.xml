@@ -260,8 +260,8 @@
   <string name="pref_camera_front_fb_title">Mejorar el tono de la piel</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_hdr_type_entry_live">Directo</string>
-  <string name="pref_camera_hdr_type_entry_normal">Normal</string>
+  <string name="pref_camera_hdr_type_entry_live">HDR en vivo</string>
+  <string name="pref_camera_hdr_type_entry_normal">HDR Normal</string>
   <string name="pref_camera_hdr_type_title">Tipo HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
@@ -286,7 +286,8 @@
   <string name="pref_camera_jpegquality_title">Calidad de imagen</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Enfoque</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Disparar ráfagas</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Mantenga pulsado el botón del obturador</string>
+  <string name="pref_camera_long_pressing_burst_shooting_title">Pulsación larga en el botón del obturador</string>
+  <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_movie_solid_title">Replica cine</string>
   <string name="pref_camera_multilevel_entry_high">Alta</string>
   <string name="pref_camera_multilevel_entry_higher">Superior</string>
@@ -406,6 +407,8 @@
   <string name="pref_grp_restore_settings">Restaurar la configuración</string>
   <string name="pref_manual_exposure_title">Exposición manual</string>
   <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
+  <string name="pref_qc_focus_position_title">Enfocar</string>
+  <string name="pref_qc_focus_position_value_default">0</string>
   <string name="pref_scan_qrcode_title">Escanear el código QR</string>
   <string name="pref_setting_title">Ajustes</string>
   <string name="pref_settings_mode">Modo de cámara</string>
@@ -482,6 +485,8 @@
   <string name="simple_mode_button_text_fast_video">Cerrar cámara a velocidad lenta</string>
   <string name="simple_mode_button_text_hand_night">Cerrar modo noche</string>
   <string name="simple_mode_button_text_hdr">Cerrar modo HDR</string>
+  <string name="simple_mode_button_text_manual">Cerrar modo Manual</string>
+  <string name="simple_mode_button_text_manual_mode">Cerrar Manual</string>
   <string name="simple_mode_button_text_panorama">Cerrar modo panorámica</string>
   <string name="simple_mode_button_text_slow_video">Cerrar cámara a velocidad rápida</string>
   <string name="simple_mode_button_text_ubifocus">Cerrar modo de reenfoque</string>

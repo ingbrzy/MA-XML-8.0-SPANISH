@@ -1814,6 +1814,8 @@ Estos ajustes afectan a todos los usuarios de este teléfono.\"</string>
   <string name="screen_key_long_press">Pulsación larga de botones de navegación</string>
   <string name="screen_key_long_press_action">Función Trigger</string>
   <string name="screen_key_long_press_timeout">Definir tiempo para pulsación larga</string>
+  <string name="screen_key_press">Pulsar botones de navegación</string>
+  <string name="screen_key_press_action">Funcion Trigger</string>
   <string name="screen_never_timeout_title">No suspender nunca</string>
   <string name="screen_on_proximity_sensor_summary">"Bloquear el teléfono automáticamente cuando se meta en un bolsillo"</string>
   <string name="screen_on_proximity_sensor_title">Prevenir llamadas accidentales</string>
@@ -2086,8 +2088,12 @@ Una credencial de confianza instalada hace esto posible.\"</string>
   <string name="status_serialno">serial no</string>
   <string name="status_service_state">Estado del servicio</string>
   <string name="status_signal_strength">Intensidad de señal</string>
+  <string name="status_sim">Estado de SIM</string>
+  <string name="status_sim_1">SIM1</string>
+  <string name="status_sim_2">SIM2</string>
+  <string name="status_summary">Toque para ver detalles</string>
   <string name="status_unavailable">No disponible</string>
-  <string name="status_up_time">Up time</string>
+  <string name="status_up_time">Tiempo en funcionamiento</string>
   <string name="status_wifi_mac_address">Dirección WLAN MAC</string>
   <string name="status_wimax_mac_address">Dirección 4G MAC</string>
   <string name="storage_format">Formatear</string>
@@ -2529,7 +2535,7 @@ Añada una palabra tocando el botón de añadir (+)\"</string>
   <string name="wifi_context_menu_change_wapi_certificate">Cambiar certificado WAPI</string>
   <string name="wifi_context_menu_connect">Connectar</string>
   <string name="wifi_context_menu_forget">Volver</string>
-  <string name="wifi_disabled_generic">Desconetado/string>
+  <string name="wifi_disabled_generic">Desconetado</string>
   <string name="wifi_disabled_help">WLAN se desconectó, calidad de conexión baja</string>
   <string name="wifi_disabled_network_failure">Impedir conexiones a internet con poca cobertura</string>
   <string name="wifi_disabled_password_failure">Problema de validación</string>
@@ -2765,6 +2771,7 @@ La configuración del teléfono puede necesitar gran tránsito de datos.\"</stri
   <string name="wifi_status">Estado</string>
   <string name="wifi_status_test">Estado de WLAN</string>
   <string name="wifi_stopping">Apagando WLAN&#8230;</string>
+  <string name="wifi_subnet_mask">Máscara de subred</string>
   <string name="wifi_suspend_optimizations">Optimización de WLAN</string>
   <string name="wifi_suspend_optimizations_summary">Minimiza el uso de la batería cuando la WLAN está encendida</string>
   <string name="wifi_tether_checkbox_text">Punto de acceso portatil</string>

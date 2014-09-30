@@ -17,6 +17,11 @@
   <string name="camera_problem3">La cámara fuerza cierres</string>
   <string name="camera_problem4">"No se puede cambiar entre las cámaras trasera y delantera"</string>
   <string name="camera_problem5">La cámara dejó de funcionar</string>
+  <string name="cta_cancel">Cancelar</string>
+  <string name="cta_confirm">Confirmar</string>
+  <string name="cta_dialog_content">InformarBug necesita conectar a la red para realizar su servicio incluyendo, aunque no sólo, acceso a Internet. ¿Quiere continuar?</string>
+  <string name="cta_dialog_title">Aviso de Red</string>
+  <string name="cta_not_show_again">"No mostrar de nuevo"</string>
   <string name="description">"Si no encuentras tu problema en los errores comunes, descríbelo aquí"</string>
   <string name="discard_draft_dialog_button_cancel">Quédate aquí</string>
   <string name="discard_draft_dialog_button_discard">Descartar</string>
@@ -66,7 +71,8 @@
   <string name="system_app_select">Aplicaciones integradas</string>
   <string name="systemui">Barra de notificación</string>
   <string name="title_hot_problem">Errores comunes</string>
-  <string name="toast_description_required">Necesitas escribir una descripción</string>
+  <string name="toast_description_required">Debe escribir una descripción</string>
+  <string name="toast_feedback_network_unavailable">"No se puede conectar a la Red"</string>
   <string name="toast_feedback_pending_wlan">"El mensaje se enviará cuando estés conectado a una red WLAN"</string>
   <string name="toast_feedback_submitted">Se ha enviado el informe</string>
   <string name="toast_feedbackservice_in_submit">Enviar comentarios anteriores&#8230;</string>

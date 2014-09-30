@@ -63,6 +63,8 @@
   <string name="error_unknown">"No se puede iniciar sesión"</string>
   <string name="error_user_name">Nombre de usuario no válido</string>
   <string name="error_verify_code">El código ingresado es incorrecto</string>
+  <string name="facebook">facebook</string>
+  <string name="failed_get_mibi_info">No se pudo conseguir Crédito Mi</string>
   <string name="failed_to_send_activate_email">"No puede enviar el email de activación"</string>
   <string name="find_device_dspt">Bloquea o borra este dispositivo de forma remota.</string>
   <string name="find_password_on_web_msg">Visite account.mi.com para restablecer su contraseña.</string>
@@ -72,6 +74,7 @@
   <string name="get_verify_code">Obtener código</string>
   <string name="getting_verify_code">Conseguir</string>
   <string name="header_data_and_synchronization">Datos &amp; sincronización</string>
+  <string name="hide_mibi_info">La información de Crédito Mi se ha ocultado</string>
   <string name="i_know">Correcto</string>
   <string name="input_captcha_hint">Introduzca código</string>
   <string name="input_password_hint">Introducir contraseña</string>
@@ -90,6 +93,7 @@
   <string name="login_notice">Iniciando sesión&#8230;</string>
   <string name="login_step2_title">verificación de 2 pasos</string>
   <string name="login_title">Inicie sesión en su cuenta Mi</string>
+  <string name="mibi_balance">%s Créditos Mi</string>
   <string name="micloud_account">Mi cuenta</string>
   <string name="micloud_account_details">Información de cuenta</string>
   <string name="micloud_account_label">Cuenta: %1$s</string>

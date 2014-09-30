@@ -144,6 +144,8 @@
   <string name="top_secret_build">Alto secreto</string>
   <string name="unstable_build">Inestable</string>
   <string name="update_comment_title">Comentario</string>
+  <string name="update_downfull_no_info_sum">No se pudo descargar. Por favor, marque el botón Actualizar.</string>
++ <string name="update_downfull_no_info_title">No se pudo descargar</string>
   <string name="update_feedback">Actualizar opinión</string>
   <string name="update_feedback_expired">\"Te perdiste la ronda de comentarios de esta semana. Pero podrás participar de nuevo el próximo martes\"</string>
   <string name="update_feel">¿Qué te parece?</string>
@@ -173,6 +175,7 @@
      <string name="button_text_check">Comprobar</string>
      <string name="button_text_later_reboot">Reiniciar después</string>
      <string name="button_text_reboot">Reiniciar ahora</string>
+     <string name="button_text_reboot_hm">Después de reiniciar</string>
      <string name="button_text_update">Actualizar</string>
      <string name="cancel_download">¿Detener la descarga de esta actualización?</string>
      <string name="check_new_version">Comprobar</string>

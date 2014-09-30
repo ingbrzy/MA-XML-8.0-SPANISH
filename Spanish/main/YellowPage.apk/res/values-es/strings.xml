@@ -34,6 +34,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Entrante: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Saliente: "</string>
   <string name="check_network">Configuración de red</string>
+  <string name="choose_upload">Elija archivo para subir</string>
   <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">¿Borrar todos los registros de llamadas?</string>
   <string name="confirm_delete_call_log_title">¿Borrar registro de llamadas?</string>
@@ -113,6 +114,11 @@
   <string name="express_inquiry_provider_info">Funciona con</string>
   <string name="express_inquiry_serial_number_indication">Número de seguimiento</string>
   <string name="express_inquiry_serial_number_prefix">"Número: "</string>
+  <string name="express_inquiry_trace">Seguimiento</string>
+  <string name="express_inquiry_trace_success">Seguimiento realizado</string>
+  <string name="express_inquiry_trace_user_notice_content">"Le avisaremos cuando el esado de su pedido cambie."</string>
+  <string name="express_inquiry_untrace">No seguimiento</string>
+  <string name="express_inquiry_untrace_success">No seguimiento realizado</string>
   <string name="express_no_address">Vacío</string>
   <string name="express_no_order_info">No hay información de orden</string>
   <string name="express_no_tracking_number">Pendiente</string>
@@ -169,11 +175,15 @@
   <string name="general_recent_title">Recientes</string>
   <string name="general_yellow_page_title">General</string>
   <string name="group_name_data_source">Fuente</string>
+  <string name="group_name_enroll"/>
   <string name="group_name_gallery">Galería</string>
+  <string name="group_name_management">Gestionar</string>
   <string name="group_name_more">Miscelánea</string>
   <string name="group_name_service">Servicio</string>
   <string name="group_name_shop_info">Información</string>
   <string name="group_name_shop_recommendation">Cercanos</string>
+  <string name="group_name_title"/>
+  <string name="hms_no_subject_view">(Sin asunto)</string>
   <string name="hms_notification">Mensajes</string>
   <string name="locating_fail">"No se puede establecer su localización"</string>
   <string name="login_before_use">Tienes que iniciar sesión primero</string>
@@ -181,7 +191,6 @@
   <string name="mark_number_custom_dialog_maintitle">Confirmar o corregir etiqueta</string>
   <string name="mark_number_dialog_maintitle">Número de la etiqueta y subir</string>
   <string name="mark_title_null_hint">Introduzca una etiqueta</string>
-  <string name="menu_about_yellow_page">Acerca de</string>
   <string name="menu_add_black_list">Agregar a lista de bloqueo</string>
   <string name="menu_add_to_favorite">Agregar a Favoritos</string>
   <string name="menu_call_ip_number">Marcar para llamada IP (marcar %s)</string>
@@ -189,6 +198,7 @@
   <string name="menu_correct_yellow_page">Corrección</string>
   <string name="menu_delete_call_log">Borrar los registros de llamadas</string>
   <string name="menu_delete_one">Eliminar del registro de llamadas</string>
+  + <string name="menu_enroll_in_yellow_page">Abrir sesión en Páginas Amarillas Mi</string>
   <string name="menu_remove_black_list">Quitar de la lista de bloqueos</string>
   <string name="menu_remove_from_favorite">Eliminar de favoritos</string>
   <string name="minimum_price">De %d RMB</string>
@@ -301,6 +311,7 @@ Total: RMB %3$s \"</string>
   <string name="turn_on_yellowpage_service_title">Utilizar el servicio de directorio</string>
   <string name="upload_and_verify_fraud_num_off">Esta característica ha sido cerrada</string>
   <string name="upload_and_verify_fraud_num_on">Compartir información de telemarketing bloqueado</string>
+  <string name="uploads_disabled">Las subidas de archivos están deshabilitadas</string>
   <string name="user_agreement2">" Condiciones de Uso"</string>
   <string name="user_agreement4">Política de privacidad</string>
   <string name="user_notice_identify_summary_format">"El teléfono utilizará de base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la WLAN. Tocando \"De acuerdo\" aceptas %1$s y %2$s de Xiaomi."</string>
