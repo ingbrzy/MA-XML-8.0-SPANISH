@@ -394,7 +394,6 @@
   <string name="pref_content_search_engine">Establecer motor de búsqueda para la barra de título</string>
   <string name="pref_content_search_engine_summary">Elige un motor de búsqueda</string>
   <string name="pref_content_title">Contenido de la página</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Precargar resultados de la búsqueda</string>
   <string name="pref_data_preload_summary">: Permitir al navegador precargar resultados de búsqueda de alta confianza en segundo plano</string>
   <string name="pref_data_preload_title">Resultados de búsqueda precargando</string>
@@ -443,7 +442,6 @@
   <string name="pref_general_setting_title">Ajustes</string>
   <string name="pref_general_title">General</string>
   <string name="pref_gesture_title">Gestos</string>
-  <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
   <string name="pref_images_preload_dialogtitle">Precargar imágenes</string>
   <string name="pref_images_preload_summary">Permitir al navegador la precarga de imágenes si el servidor lo permite</string>
   <string name="pref_images_preload_title">Precargar imágenes</string>
@@ -459,7 +457,6 @@
   <string name="pref_inverted_summary">Negro se convierte en blanco y viceversa</string>
   <string name="pref_key_gesture_title">Botones &amp; gestos</string>
   <string name="pref_key_title">Botón de ajustes</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Precargar páginas web</string>
   <string name="pref_link_prefetch_summary">: Permitir el navegador precargar las páginas Web enlazadas</string>
   <string name="pref_link_prefetch_title">Precargar páginas web</string>
@@ -516,7 +513,6 @@
   <string name="pref_ua_string">Cadena de agente de usuario</string>
   <string name="pref_ua_title">Gestor de agentes de usuario</string>
   <string name="pref_version_summary">Versión: %s</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_dialogtitle">Precargando el video</string>
   <string name="pref_video_preload_summary">: Permitir al navegador la precarga de videos si el servidor lo permite</string>
   <string name="pref_video_preload_title">Precarga de videos</string>
