@@ -249,7 +249,7 @@
   <string name="cannot_move_special_mailboxes_toast">"No se pueden mover los mensajes del buzón de salida, borradores y enviados"</string>
   <string name="cant_move_or_change_labels">"No se puede mover porque la selección contiene varias cuentas."</string>
   <string name="cc">Cc</string>
-  <string name="cc_attribution">Cc: %1$sbr</string>
+  <string name="cc_attribution">Cc: %1$s</string>
   <string name="cc_bcc">Cc/Cco</string>
   <string name="cc_heading">"Cc: "</string>
   <string name="change_account_confirm">La cuenta \"%1$s\" se eliminarán del correo WPS.</string>
@@ -408,11 +408,9 @@
   <string name="folder_trash_name_en0">Basura</string>
   <string name="folder_trash_name_en1">Mensajes eliminados</string>
   <string name="folder_trash_name_en2">Mensaje borrado</string>
-  <string name="formatted_email_address">%1$s</string>
-  <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Adelante</string>
   <string name="forward_attachment">Adelante</string>
-  <string name="forward_attribution">---------- Mensaje reenviado ----------brDe: %1$sbrFecha: %2$sbrAsunto: %3$sbrPara: %4$sbr</string>
+  <string name="forward_attribution">---------- Mensaje reenviado ----------De: %1$s Fecha: %2$s Asunto: %3$s Para: %4$s</string>
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">"No se pudo reenviar uno o mas archivos adjuntos."</string>
   <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
@@ -664,7 +662,6 @@ CC: %4$s
   <string name="quick_4">"Fijemos una reunión para hablar de esto."</string>
   <string name="quick_reply_dialog_title">Por favor, elija</string>
   <string name="quick_responses_empty_view">No hay respuestas rápidas</string>
-  <string name="quote_begin"> div class = \"cite\" </string>
   <string name="quoted_text">Incluir texto citado</string>
   <string name="quoted_text_label">Citar texto</string>
   <string name="read_string">conversación leer</string>
@@ -795,7 +792,7 @@ CC: %4$s
   <string name="validation_failed_prompt">Error de validación, por favor configure el servidor %s</string>
   <string name="via_domain">a través de %1$s</string>
   <string name="view_more_conversations">Ver más conversaciones</string>
-  <string name="wait_for_manual_sync_body">\"Esta cuenta no está configurada para sincronizar automáticamente. Toque \" b Sincronizar ahora /b  para sincronizar el correo una vez, o  b Cambiar ajustes de sincronización /b  para configurar la sincronización automática de esta cuenta.</string>
+  <string name="wait_for_manual_sync_body">\"Esta cuenta no está configurada para sincronizar automáticamente. Toque \" Sincronizar ahora  para sincronizar el correo una vez, o Cambiar ajustes de sincronización para configurar la sincronización automática de esta cuenta.</string>
   <string name="wait_for_sync_body">Su correo electrónico aparecerá en breve.</string>
   <string name="wait_for_sync_body_2">Exchange Server le preguntará dentro de 1 – 30 segundos.Confirme la configuración de seguridad y active. Preste atención a las alertas del sistema.</string>
   <string name="wait_for_sync_body_txt_array_1">Exchange Server le preguntará en</string>
