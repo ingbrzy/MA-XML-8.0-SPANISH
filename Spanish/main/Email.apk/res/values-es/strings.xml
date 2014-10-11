@@ -23,10 +23,6 @@
   <string name="account_folder_list_summary_inbox">Bandeja de entrada</string>
   <string name="account_folder_list_summary_outbox">Buzón de salida</string>
   <string name="account_folder_list_summary_starred">Comenzar</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">"No se pudo crear la cuenta. Ya existe una cuenta con el mismo nombre."</string>
   <string name="account_password_spaces_error">"Esta contraseña comienza o termina con uno o más espacios en blanco. Muchos servidores no admiten contraseñas con espacios en blanco."</string>
   <string name="account_security_dialog_content_fmt">%s requiere que actualice la configuración de seguridad.</string>
@@ -232,7 +228,6 @@
   <string name="attachments_header">Archivos adjuntos</string>
   <string name="auth_error_notification_text">Toque para editar la configuración de la cuenta para %s</string>
   <string name="auth_error_notification_title">Error de autenticación</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">\"Configurar las preferencias de avance automático
 (después de eliminar, etc.)\"</string>
   <string name="auto_advance_label">Avance automático</string>
@@ -254,7 +249,7 @@
   <string name="cannot_move_special_mailboxes_toast">"No se pueden mover los mensajes del buzón de salida, borradores y enviados"</string>
   <string name="cant_move_or_change_labels">"No se puede mover porque la selección contiene varias cuentas."</string>
   <string name="cc">Cc</string>
-  <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
+  <string name="cc_attribution">Cc: %1$sbr</string>
   <string name="cc_bcc">Cc/Cco</string>
   <string name="cc_heading">"Cc: "</string>
   <string name="change_account_confirm">La cuenta \"%1$s\" se eliminarán del correo WPS.</string>
@@ -317,9 +312,7 @@
   <string name="copy_number">Copiar el numero telefónico</string>
   <string name="create_action">Nuevo</string>
   <string name="custom_from_account_label">Enviar el mensaje como:</string>
-  <string name="date">2888/88/88</string>
   <string name="date_heading">"Fecha: "</string>
-  <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoy, %1$s</string>
   <string name="date_message_received_yesterday">Ayer, %1$s</string>
   <string name="debug_clear_webview_cache">Borrar la caché del WebView</string>
@@ -367,14 +360,10 @@
   <string name="download_confirm_title">Descargar adjuntos</string>
   <string name="download_failed">"No se puede descargar. Toque para volver a intentar."</string>
   <string name="downloading_message_body">Descargando correo, espere por favor&#8230;</string>
-  <string name="draft_count_format">&#160;&#160;(%1$s)</string>
   <string name="drawer_close">Cerrar el cajón de navegación</string>
   <string name="drawer_open">Abrir cajón de navegación</string>
   <string name="eas_template">dominio\\usuario</string>
   <string name="edit_quick_response_dialog">Respuesta rápida</string>
-  <string name="elided_padding_token">&#160;</string>
-  <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"No se puede encontrar la cuenta"</string>
   <string name="empty_email_tip">"No se puede enviar un mensaje vacío"</string>
   <string name="empty_spam">Vaciar spam</string>
@@ -398,7 +387,6 @@
   <string name="file_not_found">"No se puede encontrar el archivo"</string>
   <string name="file_not_found_reDownload">"No se puede encontrar el archivo"</string>
   <string name="file_rar_not_support">"No se pueden abrir archivos rar encriptados"</string>
-  <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="folder_drafts_name_cn0">Borrador</string>
   <string name="folder_drafts_name_cn1">Borradores</string>
   <string name="folder_drafts_name_en0">Borradores</string>
@@ -420,11 +408,11 @@
   <string name="folder_trash_name_en0">Basura</string>
   <string name="folder_trash_name_en1">Mensajes eliminados</string>
   <string name="folder_trash_name_en2">Mensaje borrado</string>
-  <string name="formatted_email_address">&lt;%1$s&gt;</string>
+  <string name="formatted_email_address">%1$s</string>
   <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Adelante</string>
   <string name="forward_attachment">Adelante</string>
-  <string name="forward_attribution">---------- Mensaje reenviado ----------&lt;br&gt;De: %1$s&lt;br&gt;Fecha: %2$s&lt;br&gt;Asunto: %3$s&lt;br&gt;Para: %4$s&lt;br&gt;</string>
+  <string name="forward_attribution">---------- Mensaje reenviado ----------brDe: %1$sbrFecha: %2$sbrAsunto: %3$sbrPara: %4$sbr</string>
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">"No se pudo reenviar uno o mas archivos adjuntos."</string>
   <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
@@ -449,21 +437,14 @@
   <string name="help_and_info">Ayuda</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hide_folders">Ocultar carpetas</string>
-  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-  <string name="hierarchical_folder_parent_top_ellip">%1$s∕&#8230;∕%2$s∕</string>
-  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="ignore_spam_warning">Ignorar, confió en este mensaje</string>
   <string name="imap_name">IMAP</string>
   <string name="inbox_folders_heading">Carpetas locales</string>
   <string name="info">Información</string>
   <string name="input_password_prompt">Ingresa tu contraseña</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="kilobytes">%s KB</string>
-  <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_more">Cargar más</string>
   <string name="loading_conversation">Cargando&#8230;</string>
   <string name="loading_conversations">Cargando&#8230;</string>
@@ -562,7 +543,6 @@ CC: %4$s
   <string name="more_string">+ %1$s</string>
   <string name="more_than_999">999 +</string>
   <string name="move_to_selection_dialog_title">Se mudó a otra carpeta</string>
-  <string name="multiple_new_message_notification_item">&lt; b &gt; %1$s &lt; /b &gt; \"%2$s\"</string>
   <string name="mute">Mudo</string>
   <string name="name_or_number_is_error">Error de usuario o contraseña</string>
   <string name="network_error">No hay conexión</string>
@@ -684,7 +664,7 @@ CC: %4$s
   <string name="quick_4">"Fijemos una reunión para hablar de esto."</string>
   <string name="quick_reply_dialog_title">Por favor, elija</string>
   <string name="quick_responses_empty_view">No hay respuestas rápidas</string>
-  <string name="quote_begin">&lt; div class = \"cite\" &gt;</string>
+  <string name="quote_begin"> div class = \"cite\" </string>
   <string name="quoted_text">Incluir texto citado</string>
   <string name="quoted_text_label">Citar texto</string>
   <string name="read_string">conversación leer</string>
@@ -778,7 +758,6 @@ CC: %4$s
   <string name="str_select_none">Deseleccionar todo</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Asunto</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="swipe_down_to_refresh">Deslice hacia abajo para actualizar</string>
   <string name="sync_error">"No se pudo sincronizar."</string>
   <string name="sync_error_message">"El dispositivo no tiene suficiente espacio de almacenamiento para sincronizar."</string>
@@ -816,7 +795,7 @@ CC: %4$s
   <string name="validation_failed_prompt">Error de validación, por favor configure el servidor %s</string>
   <string name="via_domain">a través de %1$s</string>
   <string name="view_more_conversations">Ver más conversaciones</string>
-  <string name="wait_for_manual_sync_body">\"Esta cuenta no está configurada para sincronizar automáticamente. Toque \"&lt; b &gt;Sincronizar ahora&lt; /b &gt; para sincronizar el correo una vez, o &lt; b &gt;Cambiar ajustes de sincronización&lt; /b &gt; para configurar la sincronización automática de esta cuenta.</string>
+  <string name="wait_for_manual_sync_body">\"Esta cuenta no está configurada para sincronizar automáticamente. Toque \" b Sincronizar ahora /b  para sincronizar el correo una vez, o  b Cambiar ajustes de sincronización /b  para configurar la sincronización automática de esta cuenta.</string>
   <string name="wait_for_sync_body">Su correo electrónico aparecerá en breve.</string>
   <string name="wait_for_sync_body_2">Exchange Server le preguntará dentro de 1 – 30 segundos.Confirme la configuración de seguridad y active. Preste atención a las alertas del sistema.</string>
   <string name="wait_for_sync_body_txt_array_1">Exchange Server le preguntará en</string>
@@ -830,7 +809,6 @@ CC: %4$s
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Otros</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">La contraseña es incorrecta</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Almacenamiento no disponible, por favor revise la tarjeta SD.</string>
@@ -844,8 +822,6 @@ Incremento de tamaño: %2$s\"</string>
   <string name="zip_viewer_no_file">Vacío</string>
      <string name="account_setup_failed_dlg_server_message_fmt">"No se puede contactar con el servidor.
 (%s)"</string>
-     <string name="eas_hotmail_email">hotmail.com</string>
-     <string name="eas_outlook_email">outlook.com</string>
      <string name="email_feedback_uri" />
      <string name="no_contacts">Vacío</string>
      <string name="tryrefreshing">Intente Refrescar</string>
