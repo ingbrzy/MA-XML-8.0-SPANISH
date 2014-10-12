@@ -220,7 +220,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="backup_lock_settings_picker_title">Elegir bloqueo de la copia de seguridad</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
   <string name="backup_pw_set_button_text">Establecer contraseña de la copia de seguridad</string>
-  <string name="backup_section_title">Copia de seguridad &amp; restaurar</string>
+  <string name="backup_section_title">Copia de seguridad y restauración</string>
   <string name="band_mode_failed">No realizado</string>
   <string name="band_mode_loading">Cargando lista de bandas&#8230;</string>
   <string name="band_mode_set">Establecer</string>
@@ -710,9 +710,9 @@ Este ajuste afecta a todos los usuarios de este teléfono.\"</string>
   <string name="data_usage_uninstalled_apps">Aplicaciones desinstaladas</string>
   <string name="data_usage_uninstalled_apps_users">Aplicaciones y usuarios desinstalados</string>
   <string name="data_usage_warning_editor_title">Establecer alerta de uso de datos</string>
-  <string name="date_and_time">Ajustes de fecha &amp; hora</string>
+  <string name="date_and_time">Ajustes de fecha y hora</string>
   <string name="date_and_time_settings_summary">Establecer fecha, hora, zona horaria &amp; formato</string>
-  <string name="date_and_time_settings_title">Fecha &amp; hora</string>
+  <string name="date_and_time_settings_title">Fecha y hora</string>
   <string name="date_and_time_settings_title_setup_wizard">Establecer fecha y hora</string>
   <string name="date_picker_title">Fecha</string>
   <string name="date_time_24hour">Usar formato 24 horas</string>
@@ -1054,7 +1054,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="immediately_destroy_activities_summary">Destruye toda actividad en cuanto el usuario la deja</string>
   <string name="ims_reg_required_off">Desactivar petición de registro IMS</string>
   <string name="ims_reg_required_on">Activar petición de registro IMS</string>
-  <string name="incoming_call_breathing_light_color_title">Color del LED para llamadas</string>
+  <string name="incoming_call_breathing_light_color_title">Color para llamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frecuencia de parpadeo del LED para llamadas</string>
   <string name="incoming_call_volume_title">Tono de llamada</string>
   <string name="input_method">Método de entrada</string>
@@ -1370,7 +1370,7 @@ Para eliminar música, fotos y otros datos de usuario, el \"&lt;b&gt;almacenamie
   <string name="miui_screensaver_state_on">Encendido</string>
   <string name="miui_screensaver_title">Protector de pantalla</string>
   <string name="miui_screensaver_usage">El protector de pantalla comenzara transcurridos 5 segundos desde que se apague la pantalla</string>
-  <string name="mms_breathing_light_color_title">Color de la luz para los mensajes</string>
+  <string name="mms_breathing_light_color_title">Color para mensajes</string>
   <string name="mms_breathing_light_freq_title">Frecuencia de flasheo del LED de los mensajes</string>
   <string name="mobile_connect_to_internet">Conectar a internet</string>
   <string name="mobile_insert_sim_card">Insertar una tarjeta SIM y reiniciar</string>
@@ -1483,11 +1483,11 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="noise_suppression">Supresión de ruido ambiental</string>
   <string name="normal_date_format">Regional (%s)</string>
   <string name="not_installed">Sin instalar</string>
-  <string name="notification_breathing_light_color_title">Color de luz de notificación</string>
+  <string name="notification_breathing_light_color_title">Color para notificaciones</string>
   <string name="notification_breathing_light_freq_title">Frecuencia del flash de notificación LED</string>
   <string name="notification_listener_security_warning_summary">%1$s podrá leer todas las notificaciones enviadas por el sistema o cualquier otra aplicación, notificaciones que pueden incluir información personal como nombres de contactos o mensajes que le han enviado. Estará también aurtorizado a desechar esas notificaciones o ejecutar acciones dentro de las mismas.</string>
   <string name="notification_listener_security_warning_title">Activar %1$s?</string>
-  <string name="notification_pulse_title">Notificación de pulso de luz</string>
+  <string name="notification_pulse_title">Notificación LED</string>
   <string name="notification_sound_dialog_title">Sonido de notificación por defecto</string>
   <string name="notification_sound_title">Sonido de notificación por defecto</string>
   <string name="notification_volume_title">Notificación</string>
