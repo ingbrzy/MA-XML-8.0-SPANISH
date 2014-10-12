@@ -904,7 +904,7 @@ Este ajuste afecta a todos los usuarios de este teléfono.\"</string>
   <string name="enable_mobile_data_when_opening_hotspot">¿Activar también conexión de datos móviles?</string>
   <string name="enable_opengl_traces_title">Activar trazas OpenGL</string>
   <string name="enable_service_title">¿Usar %1$s?</string>
-  <string name="enable_snapshot_screenlock">Pulsación larga en atras para captura de pantalla</string>
+  <string name="enable_snapshot_screenlock">Pulsación larga en atras abre la cámara</string>
   <string name="enable_terminal_summary">Habilitar aplicación de terminal que ofrece acceso a una consola local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activar</string>
@@ -1563,8 +1563,8 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="pref_button_light">Iluminación de botones</string>
   <string name="pref_button_light_summary">Indicador de teclas Menu, Home y volver</string>
   <string name="pref_operational_key">Teclas operacionales</string>
-  <string name="pref_volume_wake_summary">El dispositivo despierta pulsando las teclas de volumen</string>
-  <string name="pref_volume_wake_title">Despertar con teclas de volumen</string>
+  <string name="pref_volume_wake_summary">El dispositivo se enciende  pulsando las teclas de volumen</string>
+  <string name="pref_volume_wake_title">Encender con las teclas de volumen</string>
   <string name="preference_change_password_title">Cambiar contraseña</string>
   <string name="preferred_app_settings">Ajustes de aplicaciones por defecto</string>
   <string name="preferred_app_settings_default">Por defecto</string>
@@ -1813,7 +1813,7 @@ Estos ajustes afectan a todos los usuarios de este teléfono.\"</string>
   <string name="screen_compatibility_text">Está aplicación no está pensada para su pantalla. Puede controlar como se ajusta a su pantalla.</string>
   <string name="screen_key_long_press">Pulsación larga de botones de navegación</string>
   <string name="screen_key_long_press_action">Función Trigger</string>
-  <string name="screen_key_long_press_timeout">Definir tiempo para pulsación larga</string>
+  <string name="screen_key_long_press_timeout">Definir tiempo para la pulsación larga</string>
   <string name="screen_key_press">Pulsar botones de navegación</string>
   <string name="screen_key_press_action">Funcion Trigger</string>
   <string name="screen_never_timeout_title">No suspender nunca</string>
@@ -2234,7 +2234,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="turn_off_radio">Apagar radio</string>
   <string name="turn_off_security_lock">Quitar bloqueo</string>
   <string name="turn_on_radio">Encender radio</string>
-  <string name="under_keyguard">Bloquear pantalla</string>
+  <string name="under_keyguard">Con la pantalla bloqueada</string>
   <string name="uninstall_all_users_text">Desinstalar para todos los usuarios</string>
   <string name="uninstall_text">Desinstalar</string>
   <string name="unknown">Unknown</string>
@@ -2660,7 +2660,7 @@ Permitir esto a todas las aplicaciones que quieran encender escaneo?\"</string>
   <string name="wifi_scan_notify_text_location_on">"Para mejorar la precisión de localización y para otros propósitos, Google y otras aplicaciones pueden escanear en busca de redes cercanas, incluso si WLAN está apagada. Si no quiere que esto suceda, vaya a Advanced &gt; Scaneo siempre activado."</string>
   <string name="wifi_secured_first_item">Asegurado con %1$s</string>
   <string name="wifi_secured_second_item">, Asegurado con %1$s</string>
-  <string name="wifi_security">Securidad</string>
+  <string name="wifi_security">Seguridad</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
