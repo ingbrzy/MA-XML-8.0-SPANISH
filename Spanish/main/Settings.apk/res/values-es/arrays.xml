@@ -134,7 +134,7 @@
   </string-array>
   <string-array name="wifi_frequency_band_entries">
     <item>Auto</item>
-    <item>5GHz sólo</item>
+    <item>Sólo 5GHz</item>
     <item>Sólo 2,4 GHz</item>
   </string-array>
   <string-array name="usage_stats_display_order_types">
@@ -335,145 +335,145 @@
     <item>Personalizado</item>
   </string-array>
   <string-array name="select_runtime_summaries">
-    <item>Use Dalvik</item>
-    <item>Use ART</item>
-    <item>Use ART debug build</item>
+    <item>Utilizar Dalvik</item>
+    <item>Utilizar ART</item>
+    <item>Utilizar ART debug build</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
-    <item>Never check</item>
-    <item>Check for DRM content only</item>
-    <item>Always check</item>
+    <item>No comprobar</item>
+    <item>Comprobar sólo contenido DRM</item>
+    <item>Comprobar siempre</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
-    <item>Never use HDCP checking</item>
-    <item>Use HDCP checking for DRM content only</item>
-    <item>Always use HDCP checking</item>
+    <item>Nunca utilizar chequeo HDCP</item>
+    <item>Utilizar chequeo HDCP solo para contenido DRM</item>
+    <item>Siempre utilizar chequeo HDCP</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
-    <item>Animation off</item>
+    <item>Sin Animación</item>
     <item>Escala de animación .5x</item>
-    <item>Animación escala 1 x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Escala de animación 1 x</item>
+    <item>Escala de animación 1.5x</item>
+    <item>Escala de animación 2x</item>
+    <item>Escala de animación 5x</item>
+    <item>Escala de animación 10x</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Sin Animación</item>
+    <item>Escala de animación .5x</item>
+    <item>Escala de animación 1x</item>
+    <item>Escala de animación 1.5x</item>
+    <item>Escala de animación 2x</item>
+    <item>Escala de animación 5x</item>
+    <item>Escala de animación 10x</item>
   </string-array>
   <string-array name="animator_duration_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Sin Animación</item>
+    <item>Escala de animación .5x</item>
+    <item>Escala de animación 1x</item>
+    <item>Escala de animación 1.5x</item>
+    <item>Escala de animación 2x</item>
+    <item>Escala de animación 5x</item>
+    <item>Escala de animación 10x</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
-    <item>None</item>
+    <item>Ninguno</item>
     <item>Logcat</item>
-    <item>Systrace (Graphics)</item>
-    <item>Call stack on glGetError</item>
+    <item>Systrace (Gráficos)</item>
+    <item>Pila de llamadas en glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
-    <item>Off</item>
-    <item>Draw non-rectangular clip region in blue</item>
-    <item>Highlight tested drawing commands in green</item>
+    <item>Apagado</item>
+    <item>Dibujar regiones no rectangulares de los clip en azul</item>
+    <item>Remarcar comandos de dibujo testeados en verde</item>
   </string-array>
   <string-array name="track_frame_time_entries">
-    <item>Off</item>
-    <item>On screen as bars</item>
-    <item>On screen as lines</item>
-    <item>In adb shell dumpsys gfxinfo</item>
+    <item>Apagado</item>
+    <item>En pantalla como barras</item>
+    <item>En pantalla como líneas</item>
+    <item>En adb shell dumpsys gfxinfo</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
-    <item>Off</item>
-    <item>Show overdraw areas</item>
-    <item>Show areas for Deuteranomaly</item>
-    <item>Show overdraw counter</item>
+    <item>Apagado</item>
+    <item>Mostrar áreas sobre dibujadas</item>
+    <item>Mostrar áreas para Deuteranomaly</item>
+    <item>Mostrar contador de redibujado</item>
   </string-array>
   <string-array name="app_process_limit_entries">
-    <item>Standard limit</item>
-    <item>No background processes</item>
-    <item>At most 1 process</item>
-    <item>At most 2 processes</item>
-    <item>At most 3 processes</item>
-    <item>At most 4 processes</item>
+    <item>Límite estándar</item>
+    <item>Sin procesos en segundo plano</item>
+    <item>Al menos 1 proceso</item>
+    <item>Al menos 2 procesos</item>
+    <item>Al menos 3 procesos</item>
+    <item>Al menos 4 procesos</item>
   </string-array>
   <string-array name="vpn_states">
-    <item>Disconnected</item>
-    <item>Initializing&#8230;</item>
-    <item>Connecting&#8230;</item>
-    <item>Connected</item>
-    <item>Timeout</item>
-    <item>Unsuccessful</item>
+    <item>Desconectado</item>
+    <item>Inicializando&#8230;</item>
+    <item>Conectando&#8230;</item>
+    <item>Conectado</item>
+    <item>Tiempo agotado</item>
+    <item>Sin éxito</item>
   </string-array>
   <string-array name="user_content_ratings_entries">
-    <item>Ascended being</item>
-    <item>Human</item>
+    <item>Ser superior</item>
+    <item>Humano</item>
     <item>Neanderthal</item>
-    <item>Chimp</item>
-    <item>Monkey</item>
+    <item>Chimpancé</item>
+    <item>Mono</item>
   </string-array>
   <string-array name="ram_states">
     <item>normal</item>
-    <item>moderate</item>
-    <item>low</item>
-    <item>critical</item>
+    <item>moderado</item>
+    <item>bajo</item>
+    <item>crítico</item>
   </string-array>
   <string-array name="haptic_feedback_level_entries">
-    <item>Strong</item>
-    <item>Medium</item>
-    <item>Light</item>
+    <item>Fuerte</item>
+    <item>Medio</item>
+    <item>Suave</item>
   </string-array>
   <string-array name="media_feedback_level_entries">
-    <item>Strong</item>
-    <item>Medium</item>
-    <item>Light</item>
+    <item>Fuerte</item>
+    <item>Medio</item>
+    <item>Suave</item>
   </string-array>
   <string-array name="battery_indicator_style_entries">
-    <item>Graphical</item>
-    <item>Percentage</item>
-    <item>Top bar</item>
+    <item>Gráfico</item>
+    <item>Porcentaje</item>
+    <item>Barra superior</item>
   </string-array>
   <string-array name="usb_connection_mode_entries">
-    <item>Ask upon connection</item>
-    <item>Charge only</item>
-    <item>Mount SD card</item>
+    <item>Preguntar al conectar</item>
+    <item>Solo carga</item>
+    <item>Montar tarjeta SD</item>
   </string-array>
   <string-array name="led_freq_entries">
-    <item>2 seconds</item>
-    <item>3 seconds</item>
-    <item>4 seconds</item>
-    <item>5 seconds</item>
-    <item>6 seconds</item>
-    <item>7 seconds</item>
-    <item>8 seconds</item>
-    <item>9 seconds</item>
+    <item>2 segundos</item>
+    <item>3 segundos</item>
+    <item>4 segundos</item>
+    <item>5 segundos</item>
+    <item>6 segundos</item>
+    <item>7 segundos</item>
+    <item>8 segundos</item>
+    <item>9 segundos</item>
   </string-array>
   <string-array name="mi1_led_color_entries">
-    <item>Blue</item>
-    <item>Red</item>
-    <item>Green</item>
-    <item>Pink</item>
-    <item>Violet</item>
-    <item>Purple</item>
+    <item>Azul</item>
+    <item>Rojo</item>
+    <item>Verde</item>
+    <item>Rosa</item>
+    <item>Violeta</item>
+    <item>Lila</item>
   </string-array>
   <string-array name="led_color_entries">
-    <item>Blue</item>
-    <item>Red</item>
-    <item>Yellow</item>
-    <item>Green</item>
+    <item>Azul</item>
+    <item>Rojo</item>
+    <item>Amarillo</item>
+    <item>Verde</item>
     <item>Cyan</item>
-    <item>White</item>
-    <item>Violet</item>
+    <item>Blanco</item>
+    <item>Violeta</item>
   </string-array>
   <string-array name="screen_key_press_action">
     <item>Mostrar bandeja de aplicaciones recientes</item>
@@ -484,7 +484,7 @@
     <item>show_menu</item>
   </string-array>
   <string-array name="screen_key_long_press_action">
-    <item>None</item>
+    <item>Nada</item>
     <item>Mostrar bandeja de aplicacicones recientes</item>
     <item>Lanzar Asistente</item>
     <item>Lanzar Google now</item>
@@ -492,34 +492,34 @@
     <item>Mostrar menú</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout">
-    <item>0.5 second</item>
-    <item>1 second</item>
-    <item>1.5 seconds</item>
-    <item>2 seconds</item>
+    <item>0.5 segundos</item>
+    <item>1 segundo</item>
+    <item>1.5 segundos</item>
+    <item>2 segundos</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
-    <item>1 second</item>
-    <item>2 seconds</item>
-    <item>5 seconds</item>
-    <item>10 seconds</item>
-    <item>20 seconds</item>
-    <item>Always</item>
+    <item>1 segundo</item>
+    <item>2 segundos</item>
+    <item>5 segundos</item>
+    <item>10 segundos</item>
+    <item>20 segundos</item>
+    <item>Siempre</item>
   </string-array>
   <string-array name="wfd_status">
-    <item>Starting session&#8230;</item>
-    <item>Session started</item>
-    <item>Tearing down&#8230;</item>
-    <item>"Can't start session"</item>
-    <item>Timed out. Retrying&#8230;</item>
-    <item>Device connected</item>
+    <item>Iniciando sesión&#8230;</item>
+    <item>Sesión iniciada</item>
+    <item>Cancelando&#8230;</item>
+    <item>"No se puede iniciar sesión"</item>
+    <item>Tiempo agotado. Reintentando&#8230;</item>
+    <item>Dispositivo conectado</item>
   </string-array>
   <string-array name="power_mode_entries">
-    <item>Performance</item>
-    <item>Balanced</item>
+    <item>Rendimiento</item>
+    <item>Equilibrado</item>
   </string-array>
   <string-array name="msd_pc_system">
-    <item>Windows XP and older</item>
-    <item>Windows Vista and newer</item>
+    <item>Windows XP y anterior</item>
+    <item>Windows Vista y posterior</item>
     <item>OSX</item>
     <item>Linux</item>
   </string-array>
@@ -530,7 +530,7 @@
     <item></item>
   </string-array>
   <string-array name="msd_pc_system_install_summary">
-    <item>2.Follow the onscreen instructions</item>
+    <item>2.Siga las instrucciones en pantalla</item>
     <item></item>
     <item></item>
     <item></item>
@@ -538,101 +538,101 @@
   <string-array name="msd_pc_system_install_finish_summary">
     <item>@string/msd_pc_system_install_finish_summary_xp</item>
     <item>@string/msd_pc_system_install_finish_summary_vista</item>
-    <item>USB mass storage will open automatically when connected to a computer.</item>
+    <item>Almacenamiento USB se abrirá automáticamente al conectarlo a un ordenador.</item>
     <item></item>
   </string-array>
   <string-array name="msd_pc_system_retry_xp">
     <item>@string/msd_install_retry_connect</item>
-    <item>Reinstall MiPhoneManager.</item>
+    <item>Reinstalar MiPhoneManager.</item>
   </string-array>
   <string-array name="msd_pc_system_retry_vista">
     <item>@string/msd_install_retry_connect</item>
   </string-array>
   <string-array name="msd_pc_system_retry_linux">
-    <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-    <item>Create a directory: mkdir /media/mtp</item>
-    <item>Confirm user group permissions in the current fuse user group</item>
-    <item>Sign in again</item>
-    <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
-    <item>\"Uninstall device: fusermount -u /media/mtp
-Note: Only for Ubuntu 8.04!\"</item>
+    <item>Instalar utilidad: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+    <item>Crear directorio: mkdir /media/mtp</item>
+    <item>Confirmar permisos de grupo de usuarios en el grupo actual</item>
+    <item>Iniciar sesión de nuevo</item>
+    <item>Acceder a dispositivo montado: mtpfs /media/mtp via file explorer; same as local directory</item>
+    <item>\"Desinstalar dispositivo: fusermount -u /media/mtp
+Nota: Solo para Ubuntu 8.04!\"</item>
   </string-array>
   <string-array name="screen_color_title">
-    <item>Warm</item>
-    <item>Standard</item>
-    <item>Cool</item>
+    <item>Cálido</item>
+    <item>Estándar</item>
+    <item>Frío</item>
   </string-array>
   <string-array name="screen_saturation_title">
-    <item>Brilliant</item>
-    <item>Standard</item>
+    <item>Brillante</item>
+    <item>Estándar</item>
   </string-array>
   <string-array name="perm_hips_action">
-    <item>Allow</item>
-    <item>Ask</item>
-    <item>Deny</item>
+    <item>Permitir</item>
+    <item>Preguntar</item>
+    <item>Denegar</item>
   </string-array>
   <string-array name="startup_hips_action">
-    <item>Allow</item>
-    <item>Deny</item>
+    <item>Permitir</item>
+    <item>Denegar</item>
   </string-array>
   <string-array name="entries_color_calibration">
     <item>sRGB</item>
-    <item>Native</item>
+    <item>Nativo</item>
   </string-array>
   <string-array name="values_color_calibration">
     <item>0</item>
     <item>1</item>
   </string-array>
   <string-array name="phone_call_noise_suppression_title">
-    <item>Single-mic noise suppression</item>
-    <item>Dual-mic noise suppression</item>
+    <item>Un solo micrófono para supresión de ruido</item>
+    <item>Doble micrófono para supresión de ruido</item>
   </string-array>
   <string-array name="change_security_lock_picker_key">
     <item>facial</item>
-    <item>pattern</item>
-    <item>numerical</item>
-    <item>mixed</item>
+    <item>patrón</item>
+    <item>numérico</item>
+    <item>combinado</item>
   </string-array>
   <string-array name="change_security_lock_picker">
-    <item>Face unlock</item>
-    <item>Pattern</item>
+    <item>Desbloqueo facial</item>
+    <item>Patrón</item>
     <item>PIN</item>
-    <item>Password</item>
+    <item>Contraseña</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
-    <item>Automatically connect</item>
-    <item>Manually connect</item>
-    <item>Always ask</item>
+    <item>Conectar automáticamente</item>
+    <item>Conectar manualmente</item>
+    <item>Preguntar siempre</item>
   </string-array>
   <string-array name="slideshow_time_entries">
-    <item>5 minutes</item>
-    <item>15 minutes</item>
-    <item>30 minutes</item>
-    <item>1 hour</item>
-    <item>Unlimited</item>
+    <item>5 minutos</item>
+    <item>15 minutos</item>
+    <item>30 minutos</item>
+    <item>1 hora</item>
+    <item>Ilimitado</item>
   </string-array>
   <string-array name="preferred_app_entries">
-    <item>Launcher</item>
+    <item>Lanzador</item>
     <item>Dial</item>
-    <item>Messaging</item>
-    <item>Browser</item>
-    <item>Camera</item>
-    <item>Gallery</item>
-    <item>Music</item>
+    <item>Mensajes</item>
+    <item>Navegador</item>
+    <item>Cámara</item>
+    <item>Galería</item>
+    <item>Música</item>
     <item>Email</item>
   </string-array>
   <string-array name="network_speed_slow_summary">
-    <item>Network is slow due to too much traffic</item>
-    <item>Network is slow due to weak signal strength</item>
+    <item>La red va lenta por que hay mucho trafico</item>
+    <item>La red va lenta por que la intensidad de la señal es débil</item>
     <item>Moving&#8230;</item>
   </string-array>
   <string-array name="priority_storage_entries">
-    <item>Internal storage</item>
-    <item>External storage</item>
+    <item>Memoria interna</item>
+    <item>Memoria externa</item>
   </string-array>
   <string-array name="miracast_policies">
-    <item>Shorter delay</item>
-    <item>Standard</item>
-    <item>Better quality</item>
+    <item>Menor retardo</item>
+    <item>Estándar</item>
+    <item>La mejor calidad</item>
   </string-array>
 </resources>
