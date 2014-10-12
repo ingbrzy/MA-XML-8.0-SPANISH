@@ -26,7 +26,7 @@
   <string name="alertdialogtitle">Resultado...</string>
   <string name="allContactdeleteFailed">¡¡¡Error al eliminar todos los contactos de la SIM!!!</string>
   <string name="allContactdeleteSuccess">Ha eliminado con éxito todos los contactos de SIM</string>
-  <string name="always_enable_mms">Siempre recibir MMS</string>
+  <string name="always_enable_mms">Recibir siempre MMS</string>
   <string name="always_enable_mms_summary">Recibir MMS, incluso cuando están desactivados los datos</string>
   <string name="answer_features_setting_category">Responder</string>
   <string name="answer_state_setting_summary">Otras opciones de llamada entrante</string>
@@ -690,10 +690,10 @@ Su tarjeta SIM será borrada después de otro intento fallido.\"</string>
   <string name="rnw2_unlock_failed">Petición de desbloqueo RUIM red2 no aceptado.</string>
   <string name="rnw2_unlock_success">Petición de desbloqueo RUIM red2 aceptado.</string>
   <string name="roaming">Roaming de datos</string>
-  <string name="roaming_disable">No conectar a los servicios de datos en roaming</string>
-  <string name="roaming_enable">Conectar a los servicios de datos en roaming</string>
+  <string name="roaming_disable">No usar servicios de datos en roaming</string>
+  <string name="roaming_enable">Usar servicios de datos en roaming</string>
   <string name="roaming_reenable_message">"Has perdido la conectividad de datos porque has abandonado la Red de tu operador sin activar el Roaming de datos." </string>
-  <string name="roaming_warning">¿Permitir roaming de datos?  Puede derivar en cargos adicionales de roaming!</string>
+  <string name="roaming_warning">¿Permitir roaming de datos? ¡Puede derivar en cargos adicionales de roaming!</string>
   <string name="rsp_unlock_failed">Petición de desbloqueo de servicios de operador RUIM no aceptado.</string>
   <string name="rsp_unlock_success">Petición de desbloqueo de servicios de operador RUIM  aceptado.</string>
   <string name="ruim_unlock_failed">Petición de desbloqueo de RUIM no aceptado.</string>

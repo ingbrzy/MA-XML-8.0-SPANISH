@@ -9,7 +9,7 @@
   <string name="ac_set_apps_title">Bloqueo de aplicaciones</string>
   <string name="accelerometer_summary_off">No cambiar la orientación automáticamente al girar el teléfono</string>
   <string name="accelerometer_summary_on">Cambiar la orientación automáticamente al girar el teléfono</string>
-  <string name="accelerometer_title">Rotación automática pantalla</string>
+  <string name="accelerometer_title">Rotación automática de pantalla</string>
   <string name="access_control_app_entry_multiple">Abrir %s</string>
   <string name="access_control_app_entry_single">Abrir aplicación</string>
   <string name="access_control_need_password">\"%s ha sido protegido\"</string>
@@ -101,7 +101,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="allow_mock_location_summary">Permitir ubicaciones simuladas</string>
   <string name="always_allow_bind_appwidgets_text">"Ha elegido permitir a esta aplicación crear widgets y acceder a sus datos."</string>
   <string name="android_beam_disabled_summary">Compartir contenidos por NFC requiere que el NFC esté habilitado</string>
-  <string name="android_beam_explained">Puede transmitir a otro dispositivo una página web, un vídeo, u otro contenido que esté en su pantalla juntándolos (normalmente trasera con trasera).</string>
+  <string name="android_beam_explained">Puede transmitir a otro dispositivo una página web, un vídeo u otro contenido que esté en su pantalla acercándolos hasta tocarse (normalmente trasera con trasera).</string>
   <string name="android_beam_label">Transmisión Android</string>
   <string name="android_beam_off_summary">Compartir contenido por NFC deshabilitado</string>
   <string name="android_beam_on_summary">Compartir contenido por NFC habilitado</string>
@@ -470,7 +470,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="breathing_light_color_menu_title">Color del LED</string>
   <string name="breathing_light_color_summary">Color del LED para nuevas notificaciones</string>
   <string name="breathing_light_freq_summary">Parpadear cuando hay nuevas notificaciones</string>
-  <string name="breathing_light_freq_title">Frecuancia de parpadeo del LED</string>
+  <string name="breathing_light_freq_title">Frecuencia de parpadeo del LED</string>
   <string name="brightness">Luminosidad</string>
   <string name="brightness_auto_adjust_off">La intensidad del brillo de la pantalla será constante en todos los ambientes</string>
   <string name="brightness_auto_adjust_on">La intensidad del brillo de la pantalla variará según la luminosidad en cada situación</string>
@@ -656,7 +656,7 @@ Para elegir qué tipo de información se sincronizara para cada cuenta, ir a los
   <string name="data_usage_cycle">Ciclo de uso de datos</string>
   <string name="data_usage_cycle_editor_positive">Establecer</string>
   <string name="data_usage_cycle_editor_subtitle">Fecha de cada mes:</string>
-  <string name="data_usage_cycle_editor_title">Resetear fecha del ciclo de uso de datos</string>
+  <string name="data_usage_cycle_editor_title">Restablecer fecha del ciclo de uso de datos</string>
   <string name="data_usage_disable_3g_limit">Establecer límite de datos 2G-3G</string>
   <string name="data_usage_disable_4g_limit">Establecer límite de datos 4G</string>
   <string name="data_usage_disable_mobile">¿Desactivar datos móviles?</string>
@@ -687,7 +687,7 @@ Cuando el consumo de datos contabilizado por el teléfono y el proporcionado por
   <string name="data_usage_metered_title">Hotspots móviles</string>
   <string name="data_usage_metered_wifi">Redes Wifi</string>
   <string name="data_usage_metered_wifi_disabled">Para seleccionar hotspots, Encienda la Wifi.</string>
-  <string name="data_usage_pick_cycle_day">Resetear día del mes del ciclo de uso de datos:</string>
+  <string name="data_usage_pick_cycle_day">Restablecer día del mes del ciclo de uso de datos:</string>
   <string name="data_usage_received_sent">%1$s recibidos, %2$s enviados</string>
   <string name="data_usage_restrict_background">"Si restringe el uso de datos móviles en segundo plano, algunas aplicaciones y servicios dejarán de funcionar a menos que se conecte a una red Wifi."</string>
   <string name="data_usage_restrict_background_multiuser">\"Si restringe el uso de datos móviles en segundo plano, algunas aplicaciones y servicios dejarán de funcionar a menos que se conecte a una red Wifi.
@@ -716,9 +716,9 @@ Este ajuste afecta a todos los usuarios de este teléfono.\"</string>
   <string name="date_and_time_settings_title_setup_wizard">Establecer fecha y hora</string>
   <string name="date_picker_title">Fecha</string>
   <string name="date_time_24hour">Usar formato 24 horas</string>
-  <string name="date_time_auto">Fecha y hora automaticas</string>
-  <string name="date_time_auto_summaryOff">No utilizar la hora proporcionada por el proovedor de red</string>
-  <string name="date_time_auto_summaryOn">Utilizar la hora proporcionada por el proovedor de red</string>
+  <string name="date_time_auto">Fecha y hora automáticas</string>
+  <string name="date_time_auto_summaryOff">No utilizar la hora proporcionada por el operador de red</string>
+  <string name="date_time_auto_summaryOn">Utilizar la hora proporcionada por el operador de red</string>
   <string name="date_time_date_format">Elegir el formato de fecha</string>
   <string name="date_time_set_date">Establecer fecha</string>
   <string name="date_time_set_time">Establecer hora</string>
@@ -779,7 +779,7 @@ Este ajuste afecta a todos los usuarios de este teléfono.\"</string>
   <string name="dialog_content_login">Se necesita una cuenta Xiaommi para actualizar, ¿iniciar sesión?</string>
   <string name="dialog_no">No</string>
   <string name="dialog_title_color_calibration">Corrección de color preestablecida</string>
-  <string name="dialog_title_font_size">Tamaño de fuente</string>
+  <string name="dialog_title_font_size">Tamaño de letra</string>
   <string name="dialog_title_hdmi_color_calibration">Corrección de color preestablecida</string>
   <string name="dialog_title_login">Iniciar sesión en la cuenta Xiaomi</string>
   <string name="dialog_yes">Sí</string>
@@ -803,7 +803,7 @@ Este ajuste afecta a todos los usuarios de este teléfono.\"</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivado</string>
   <string name="disconnect">Desconectar</string>
-  <string name="display_font_size_label">Tamaño de fuente:</string>
+  <string name="display_font_size_label">Tamaño de letra:</string>
   <string name="display_label">Pantalla</string>
   <string name="display_order_text">Ordenar por:</string>
   <string name="display_preview_label">Vista previa:</string>
@@ -832,7 +832,7 @@ Este ajuste afecta a todos los usuarios de este teléfono.\"</string>
   <string name="dndm_repeated_call_summary_3min">Sonar cuando se reciba una segunda llamada del mismo número en menos de 3 minutos</string>
   <string name="dndm_repeated_call_summary_none">Silenciar llamadas repetidas del mismo número</string>
   <string name="dndm_special_call_setting_group">Excepciones</string>
-  <string name="dndm_summary">Las llamadas y notificaciones que se reciban mientras el teléfono esta bloqueado serán silenciadas</string>
+  <string name="dndm_summary">Las llamadas y notificaciones que se reciban mientras el teléfono está bloqueado serán silenciadas</string>
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Permitir llamadas de excepciones</string>
@@ -1111,9 +1111,9 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="keyboard_layout_picker_title">Diseños del teclado</string>
   <string name="keyboard_settings_category">Métodos de entrada de teclado</string>
   <string name="keyboard_settings_title">Teclado Android</string>
-  <string name="language_keyboard_settings_title">Idioma de entrada</string>
+  <string name="language_keyboard_settings_title">Idioma y entrada</string>
   <string name="language_picker_title">Idioma</string>
-  <string name="language_settings">Idioma de entrada</string>
+  <string name="language_settings">Idioma y entrada</string>
   <string name="language_settings_category">Ajustes de Idioma</string>
   <string name="large_font">Grande</string>
   <string name="last_synced">Última sincronización %1$s</string>
@@ -1141,7 +1141,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="local_backup_section_summary">Copia de seguridad de los ajustes de sistema, cuentas y aplicaciones</string>
   <string name="local_backup_section_title">Copia de seguridad local</string>
   <string name="locale_default">Por defecto</string>
-  <string name="location_access_summary">Las aplicaciones pueden obtener su información de localización</string>
+  <string name="location_access_summary">Las aplicaciones pueden obtener información de su localización</string>
   <string name="location_access_title">Acceso a localización</string>
   <string name="location_category_location_services">Servicios de localización</string>
   <string name="location_category_recent_location_requests">Últimas peticiones de localización</string>
@@ -1156,7 +1156,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="location_mode_location_off_title">Localización apagada</string>
   <string name="location_mode_screen_title">Modo de localización</string>
   <string name="location_mode_sensors_only_description">Utilizar el GPS para determinar la localización</string>
-  <string name="location_mode_sensors_only_title">Solo dispositivo</string>
+  <string name="location_mode_sensors_only_title">Sólo dispositivo</string>
   <string name="location_mode_title">Modo</string>
   <string name="location_neighborhood_level">Permitir a las aplicaciones usar los datos de la Wifi y redes móviles para determinar su localización</string>
   <string name="location_neighborhood_level_wifi">Localización determinada por la Wifi</string>
@@ -1257,8 +1257,8 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
 Ha iniciado sesión en las siguientes cuentas:
 \"</string>
   <string name="master_clear_all">"¿Eliminar todos los datos de la memoria interna del teléfono? ¡Esta acción no se puede deshacer!"</string>
-  <string name="master_clear_button_text">Resetear teléfono</string>
-  <string name="master_clear_confirm_title">¿Resetear?</string>
+  <string name="master_clear_button_text">Restablecer teléfono</string>
+  <string name="master_clear_confirm_title">¿Restablecer?</string>
   <string name="master_clear_desc">\"Esto borará todos los datos de la \"&lt;b&gt;memoria interna&lt;/b&gt;\"del teléfono, incluyendo:
 
 \"&lt;li&gt;Su cuenta Google&lt;/li&gt;\"
@@ -1295,7 +1295,7 @@ Para eliminar música, fotos y otros datos de usuario, el \"&lt;b&gt;almacenamie
   <string name="media_volume_title">Multimedia</string>
   <string name="medium_font">Mediana</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplicaciones (Datos de aplicación y contenido multimedia)</string>
+  <string name="memory_apps_usage">Aplicaciones (Datos y contenido multimedia)</string>
   <string name="memory_available">Disponible</string>
   <string name="memory_available_read_only">Disponible (solo lectura)</string>
   <string name="memory_calculating_size">Calculando&#8230;</string>
@@ -1304,9 +1304,9 @@ Para eliminar música, fotos y otros datos de usuario, el \"&lt;b&gt;almacenamie
   <string name="memory_dcim_usage">Imágenes, videos</string>
   <string name="memory_downloads_usage">Descargas</string>
   <string name="memory_media_cache_usage">Datos en caché</string>
-  <string name="memory_media_misc_usage">Miscelania</string>
+  <string name="memory_media_misc_usage">Miscelánea</string>
   <string name="memory_media_usage">Multimedia</string>
-  <string name="memory_music_usage">Audio (música, tonos de llamada, podcasts, etc.)</string>
+  <string name="memory_music_usage">Audio (música, tonos, podcasts, etc.)</string>
   <string name="memory_size">Espacio total</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="menu_cancel">Descartar</string>
@@ -1369,7 +1369,7 @@ Para eliminar música, fotos y otros datos de usuario, el \"&lt;b&gt;almacenamie
   <string name="miui_screensaver_state_off">Apagado</string>
   <string name="miui_screensaver_state_on">Encendido</string>
   <string name="miui_screensaver_title">Protector de pantalla</string>
-  <string name="miui_screensaver_usage">El protector de pantalla comenzara transcurridos 5 segundos desde que se apague la pantalla</string>
+  <string name="miui_screensaver_usage">El protector de pantalla comenzará transcurridos 5 segundos desde que se apague la pantalla</string>
   <string name="mms_breathing_light_color_title">Color para mensajes</string>
   <string name="mms_breathing_light_freq_title">Frecuencia de flasheo del LED de los mensajes</string>
   <string name="mobile_connect_to_internet">Conectar a internet</string>
@@ -1549,7 +1549,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="power_cell">Teléfono en espera</string>
   <string name="power_idle">Teléfono inactivo</string>
   <string name="power_mgr">Energía</string>
-  <string name="power_mode">Ajsutes de Energía</string>
+  <string name="power_mode">Ajustes de Energía</string>
   <string name="power_mode_balanced_title">Activar modo balanceado de energía</string>
   <string name="power_phone">Llamadas de voz</string>
   <string name="power_screen">Pantalla</string>
@@ -1566,7 +1566,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="pref_volume_wake_summary">El dispositivo se enciende  pulsando las teclas de volumen</string>
   <string name="pref_volume_wake_title">Encender con las teclas de volumen</string>
   <string name="preference_change_password_title">Cambiar contraseña</string>
-  <string name="preferred_app_settings">Ajustes de aplicaciones por defecto</string>
+  <string name="preferred_app_settings">Aplicaciones predeterminadas</string>
   <string name="preferred_app_settings_default">Por defecto</string>
   <string name="preferred_app_settings_reset">Restaurar aplicaciones por defecto?</string>
   <string name="preferred_app_settings_reset_message">Todas las aplicaciones por defecto seran restauradas a los ajustes iniciales de MIUI.</string>
@@ -1622,10 +1622,10 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="privacy_settings_title">Copia de seguridad y restablecer</string>
   <string name="private_gallery_need_to_unlock">Introducir contraseña:</string>
   <string name="private_gallery_recording_intro_header">Trazar patrón de desbloqueo:</string>
-  <string name="private_gallery_reset_by_account">Para resetear su contraseña, inicie sesión en su Mi Account</string>
+  <string name="private_gallery_reset_by_account">Para restablecer su contraseña, inicie sesión en su Mi Account</string>
   <string name="private_sms_need_to_unlock">Introducir contraseña:</string>
   <string name="private_sms_recording_intro_header">Trazar un patrón de desbleo:</string>
-  <string name="private_sms_reset_by_account">Para resetear su contraseña, inicie sesión en su Mi Account</string>
+  <string name="private_sms_reset_by_account">Para restablecer su contraseña, inicie sesión en su Mi Account</string>
   <string name="process_kernel_label">Sistema Android</string>
   <string name="process_mediaserver_label">Servidor multimedia</string>
   <string name="process_provider_in_use_description">Proveedor %1$s se está usando.</string>
@@ -1635,7 +1635,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="process_stats_memory_status">La memoria del dispositivo es actualmente de %1$s</string>
   <string name="process_stats_run_time">Tiempo en ejecución</string>
   <string name="process_stats_summary">Estadísticas Geeky sobre los procesos en ejecución</string>
-  <string name="process_stats_summary_title">Stadísticas de procesos</string>
+  <string name="process_stats_summary_title">Estadísticas de procesos</string>
   <string name="process_stats_total_duration">%1$s aplicaciones sobre %2$s</string>
   <string name="process_stats_type_background">Segundo plano</string>
   <string name="process_stats_type_cached">En caché</string>
@@ -1700,7 +1700,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="radioInfo_service_out">Fuera de servicio</string>
   <string name="radioInfo_unknown">desconocido</string>
   <string name="radio_controls_summary">Administrar Wifi, Bluetooth, Modo avión, Redes móviles y VPNs</string>
-  <string name="radio_controls_title">Mas</string>
+  <string name="radio_controls_title">Más</string>
   <string name="radio_info_band_mode_label">Seleccione banda de radio</string>
   <string name="radio_info_call_redirect_label">Llamada redireccionada:</string>
   <string name="radio_info_call_status_label">Estado de llamada:</string>
@@ -1734,7 +1734,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="really_remove_account_message">Al borrar esta cuenta se borrarán todos los mensajes, contactos y otros datos del teléfono!</string>
   <string name="really_remove_account_title">Borrar cuenta?</string>
   <string name="rebootiing_for_updates">Reiniciando&#8230;</string>
-  <string name="recent_location_requests_summary">Las aplicaciones a continuación solicitan acceder a tu información de localización</string>
+  <string name="recent_location_requests_summary">Aplicaciones que han solicitado acceder a su localización</string>
   <string name="recent_location_requests_title">Acceso a localización</string>
   <string name="recognizer_settings_summary">"Ajustes para '%s'"</string>
   <string name="recognizer_settings_title">Busqueda por voz</string>
@@ -1745,9 +1745,9 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="remove_account_label">Borrar cuenta</string>
   <string name="remove_device_admin">Desactivado</string>
   <string name="remove_from_frequently_fragment">Borrar %s de ajustes rápidos?</string>
-  <string name="reset_app_preferences">Resetear preferencias de aplicaciones</string>
-  <string name="reset_app_preferences_button">Resetear aplicaciones</string>
-  <string name="reset_app_preferences_desc">\"Esto reseteará todas las preferencias para:
+  <string name="reset_app_preferences">Restablecer preferencias de aplicaciones</string>
+  <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
+  <string name="reset_app_preferences_desc">\"Esto restablecerá todas las preferencias para:
 
  \"&lt;li&gt;Aplicaciones deshabilitadas&lt;/li&gt;\"
  \"&lt;li&gt;Notificaciones de aplicaciones deshabilitadas&lt;/li&gt;\"
@@ -1756,7 +1756,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
  \"&lt;li&gt;Restricciones de cualquier permiso&lt;/li&gt;\"
 
  No se perderá ningún dato de aplicación.\"</string>
-  <string name="reset_app_preferences_title">Resetear preferencias de aplicación?</string>
+  <string name="reset_app_preferences_title">Restablecer preferencias de aplicación?</string>
   <string name="reset_legacy_password_settings_preface_text">Tiene que cambiar la contraseña de pantalla de bloqueo.</string>
   <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
   <string name="restore_default_apn">Restaurando ajustes APN por defecto.</string>
@@ -1817,7 +1817,7 @@ Estos ajustes afectan a todos los usuarios de este teléfono.\"</string>
   <string name="screen_key_press">Pulsar botones de navegación</string>
   <string name="screen_key_press_action">Funcion Trigger</string>
   <string name="screen_never_timeout_title">No suspender nunca</string>
-  <string name="screen_on_proximity_sensor_summary">"Bloquear el teléfono automáticamente cuando se meta en un bolsillo"</string>
+  <string name="screen_on_proximity_sensor_summary">"Bloquear el teléfono automáticamente al guardarlo en el bolsillo"</string>
   <string name="screen_on_proximity_sensor_title">Prevenir llamadas accidentales</string>
   <string name="screen_saturation">Saturación de color</string>
   <string name="screen_timeout">Suspender</string>
@@ -2009,12 +2009,12 @@ Posiblemente PIN incorrecto.\"</string>
   <string name="sms_received_sound_dialog_title">Escoger sonido para mensaje recibido</string>
   <string name="sms_received_sound_title">Mensaje recibido</string>
   <string name="sort_order_alpha">Ordenar por nombre</string>
-  <string name="sort_order_size">Ordenar por tamaña</string>
+  <string name="sort_order_size">Ordenar por tamaño</string>
   <string name="sound_category_call_ringtone_vibrate_title">Tono de llamada y vibrar</string>
-  <string name="sound_category_calls_and_notification_title">Tono de y notificaciones</string>
+  <string name="sound_category_calls_and_notification_title">Llamadas y notificaciones</string>
   <string name="sound_category_notification_title">Notificaciones</string>
   <string name="sound_category_sound_title">General</string>
-  <string name="sound_category_system_title">Systema</string>
+  <string name="sound_category_system_title">Sistema</string>
   <string name="sound_effects_enable_title">Sonido al tocar</string>
   <string name="sound_settings">Sonidos</string>
   <string name="spellchecker_language">Idioma</string>
@@ -2048,13 +2048,13 @@ Una credencial de confianza instalada hace esto posible.\"</string>
   <string name="status_bar_settings_advanced">Ajustes avanzados</string>
   <string name="status_bar_settings_all_app_display_loading">Cargando&#8230;</string>
   <string name="status_bar_settings_basic_settings">Ajustes básicos</string>
-  <string name="status_bar_settings_custom_carrier">Editar nombre de proveedor</string>
+  <string name="status_bar_settings_custom_carrier">Editar el nombre del operador</string>
   <string name="status_bar_settings_custom_notification">Administrar notificaciones</string>
   <string name="status_bar_settings_custom_wifi_name">Editar nombre de Wifi</string>
   <string name="status_bar_settings_expandable_under_keyguard">Disponible en bloqueo de pantalla</string>
   <string name="status_bar_settings_no_carrier">Vacío</string>
   <string name="status_bar_settings_notification_bar">Notificación emergente</string>
-  <string name="status_bar_settings_show_carrier">Mostrar el proveedor de servicios</string>
+  <string name="status_bar_settings_show_carrier">Mostrar el nombre del operador</string>
   <string name="status_bar_settings_show_carrier_summary">Solo mostrar en bloqueo de pantalla</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalles de flujo</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
@@ -2158,7 +2158,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Seleccionar zona horaria</string>
   <string name="timezone_settings">Zona horaria</string>
-  <string name="title_color_calibration">Ajsutes de corrección de color</string>
+  <string name="title_color_calibration">Ajustes de corrección de color</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font_size">Tamaño de letra</string>
   <string name="title_hdmi_color_calibration">Ajustes de corrección de color</string>
@@ -2207,12 +2207,12 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="tts_engine_error_reselect">Escoger otro motor</string>
   <string name="tts_engine_name_is_disabled_summary">%s desactivado</string>
   <string name="tts_engine_name_is_enabled_summary">%s activado</string>
-  <string name="tts_engine_name_settings">%s ajsutes</string>
+  <string name="tts_engine_name_settings">%s ajustes</string>
   <string name="tts_engine_network_required">Este idioma necesita una conexión de red activa para su funcionamiento.</string>
   <string name="tts_engine_preference_section_title">Motor preferido</string>
   <string name="tts_engine_security_warning">Este motor de síntesis de voz puede recoger todo el texto que se hable, incluyendo datos personales, contraseñas y números de tarjetas de crédito. Lo usa el motor de %s . Habilitar este motor de síntesis de voz?</string>
   <string name="tts_engine_settings_button">Lanzar ajustes de motor</string>
-  <string name="tts_engine_settings_section">Ajsutes de motor</string>
+  <string name="tts_engine_settings_section">Ajustes de motor</string>
   <string name="tts_engine_settings_title">Ajustes para %s</string>
   <string name="tts_engines_section">Motores</string>
   <string name="tts_general_section_title">General</string>
@@ -2434,7 +2434,7 @@ Añada una palabra tocando el botón de añadir (+)\"</string>
   <string name="virus_scanner_select_trust_lib">Seleccionar definiciones de virus</string>
   <string name="virus_scanner_title">Escaner de virus</string>
   <string name="virus_scanner_update_lib">Actualizar definiciones</string>
-  <string name="voice_category">Speech</string>
+  <string name="voice_category">Locución</string>
   <string name="voice_input_output_settings">Entrada y salida de voz</string>
   <string name="voice_input_output_settings_title">Ajustes de entrada y salida de voz</string>
   <string name="voice_search_settings_title">Búsqueda por voz</string>
@@ -2446,8 +2446,8 @@ Añada una palabra tocando el botón de añadir (+)\"</string>
   <string name="volume_media_mute">Silenciar música y otros contenidos</string>
   <string name="volume_notification_description">Notificaciones</string>
   <string name="volume_notification_mute">Silenciar notificaciones</string>
-  <string name="volume_restore">Resetear niveles</string>
-  <string name="volume_restore_alert">Todos los niveles de volumen serán reseteados.</string>
+  <string name="volume_restore">Restablecer niveles</string>
+  <string name="volume_restore_alert">Todos los niveles de volumen serán restablecidos.</string>
   <string name="volume_ring_description">Tono de llamada y notificaciones</string>
   <string name="volume_ring_mute">Silenciar tono de llamada y notificationes</string>
   <string name="volume_system_description">Camera shutter, bloqueo de pantalla, y otras notificaciones de sistema</string>
@@ -2495,9 +2495,9 @@ Añada una palabra tocando el botón de añadir (+)\"</string>
   <string name="vpn_username">Nombre de usuario</string>
   <string name="wait_for_debugger">Esperando a desarrollador</string>
   <string name="wait_for_debugger_summary">Esperando debugger para adjuntar antes de ejecutar</string>
-  <string name="wallpaper_desktop">Pantalla de inicio</string>
-  <string name="wallpaper_live">Fondo de pantalla animado</string>
-  <string name="wallpaper_lockscreen">Bloqueo de pantalla</string>
+  <string name="wallpaper_desktop">Escritorio</string>
+  <string name="wallpaper_live">Animado</string>
+  <string name="wallpaper_lockscreen">Bloqueo</string>
   <string name="wallpaper_settings_fragment_title">Escoger fondo de pantalla desde</string>
   <string name="wallpaper_settings_title">Fondo de pantalla</string>
   <string name="welcome">Bienvenido</string>
@@ -2510,7 +2510,7 @@ Añada una palabra tocando el botón de añadir (+)\"</string>
   <string name="wfd_menu_search">Buscar dispositivos</string>
   <string name="wfd_menu_searching">Buscando&#8230;</string>
   <string name="wfd_menu_teardown">Parar</string>
-  <string name="wfd_settings_description">Conectar a pantalla via Wifi</string>
+  <string name="wfd_settings_description">Conectar a pantalla vía Wifi</string>
   <string name="wfd_settings_title">Pantalla inalámbrica</string>
   <string name="wfd_wps_keypad">Pulsar botón preferido</string>
   <string name="wfd_wps_pbc">Prefiero teclear PIN</string>
@@ -2601,7 +2601,7 @@ Añada una palabra tocando el botón de añadir (+)\"</string>
   <string name="wifi_menu_connect">Conectar a red</string>
   <string name="wifi_menu_forget">Olvidar red</string>
   <string name="wifi_menu_modify">Modificar red</string>
-  <string name="wifi_menu_more_options">Mas opciones</string>
+  <string name="wifi_menu_more_options">Más opciones</string>
   <string name="wifi_menu_p2p">Wifi Directo</string>
   <string name="wifi_menu_scan">Escanear</string>
   <string name="wifi_menu_wfd">Pantalla inalámbrica</string>
@@ -2632,7 +2632,7 @@ Añada una palabra tocando el botón de añadir (+)\"</string>
   <string name="wifi_p2p_remembered_groups">Grupo conocido</string>
   <string name="wifi_p2p_settings_title">Wifi Directo</string>
   <string name="wifi_p2p_wps_setup">WPS configuración</string>
-  <string name="wifi_password">Constrseña</string>
+  <string name="wifi_password">Contraseña</string>
   <string name="wifi_poor_network_detection">Impedir conexiones de baja calidad</string>
   <string name="wifi_poor_network_detection_summary">"No usar una red Wifi si no tiene buena conexión"</string>
   <string name="wifi_priority_changed" formatted="false">Old priority value = %s | New value = %s</string>
