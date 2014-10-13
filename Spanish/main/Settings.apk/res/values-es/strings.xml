@@ -471,10 +471,10 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="breathing_light_color_summary">Color del LED para nuevas notificaciones</string>
   <string name="breathing_light_freq_summary">Parpadear cuando hay nuevas notificaciones</string>
   <string name="breathing_light_freq_title">Frecuencia de parpadeo del LED</string>
-  <string name="brightness">Luminosidad</string>
+  <string name="brightness">Brillo</string>
   <string name="brightness_auto_adjust_off">La intensidad del brillo de la pantalla será constante en todos los ambientes</string>
   <string name="brightness_auto_adjust_on">La intensidad del brillo de la pantalla variará según la luminosidad en cada situación</string>
-  <string name="brightness_summary">Ajustar la luminosidad de la pantalla</string>
+  <string name="brightness_summary">Ajustar el brillo de la pantalla</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Activar HCI Snoop log Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Capturar todos los paquetes HCI Bluetooth en un fichero</string>
@@ -1692,8 +1692,8 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="radioInfo_phone_idle">Inactico</string>
   <string name="radioInfo_phone_offhook">Llamando</string>
   <string name="radioInfo_phone_ringing">Ringing</string>
-  <string name="radioInfo_roaming_in">Roaming</string>
-  <string name="radioInfo_roaming_not">Not roaming</string>
+  <string name="radioInfo_roaming_in">Itinerancia</string>
+  <string name="radioInfo_roaming_not">Sin itinerancia</string>
   <string name="radioInfo_service_emergency">Solo llamadas de emergencia</string>
   <string name="radioInfo_service_in">En servicio</string>
   <string name="radioInfo_service_off">Radio off</string>
@@ -1723,7 +1723,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="radio_info_ppp_resets_label">Reseteos de PPP desde arranque:</string>
   <string name="radio_info_ppp_sent_label">PPP enviados:</string>
   <string name="radio_info_radio_resets_label">Reseteos de radio:</string>
-  <string name="radio_info_roaming_label">Roaming:</string>
+  <string name="radio_info_roaming_label">Itinerancia:</string>
   <string name="radio_info_set_perferred_label">Establecer tipo de red preferida:</string>
   <string name="radio_info_signal_location_label">Localización:</string>
   <string name="radio_info_signal_strength_label">Intensidad de señal:</string>
@@ -1781,14 +1781,14 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="ringtone_slot_setting_title">Ajustes de SIM unica</string>
   <string name="ringtone_title">Timbre de teléfono</string>
   <string name="ringtone_uniform_setting_title">Ajustes de dual SIM</string>
-  <string name="roaming">Datos en roaming</string>
-  <string name="roaming_disable">No conectar a los servicios de datos cuando se esté en roaming</string>
-  <string name="roaming_enable">Conectar a los servicios de datos cuando se esté en roaming</string>
-  <string name="roaming_reenable_message">Se perdió la conexión de datos porque dejó su red local con el roaming apagado.</string>
-  <string name="roaming_reenable_title">Permitir uso de datos roaming?</string>
+  <string name="roaming">Datos en itinerancia</string>
+  <string name="roaming_disable">No conectar a los servicios de datos cuando se esté en itinerancia</string>
+  <string name="roaming_enable">Conectar a los servicios de datos cuando se esté en itinerancia</string>
+  <string name="roaming_reenable_message">Se perdió la conexión de datos porque dejó su red local con la itinerancia apagada.</string>
+  <string name="roaming_reenable_title">¿Permitir uso de datos en itinerancia?</string>
   <string name="roaming_turn_it_on_button">Encender?</string>
-  <string name="roaming_warning">Cuando permite datos roaming, usted puede recibir cargos extra considerables!</string>
-  <string name="roaming_warning_multiuser">\"Cuando permite datos roaming, usted puede recibir cargos extra considerables!
+  <string name="roaming_warning">Cuando permite datos en itinerancia, ¡Vd. puede incurrir en cargos extra considerables!</string>
+  <string name="roaming_warning_multiuser">\"Cuando permite datos en itinerancia, ¡Vd. puede incurrir en cargos extra considerables!
 
 Estos ajustes afectan a todos los usuarios de este teléfono.\"</string>
   <string name="rssi_label">RSSI:</string>
@@ -2083,7 +2083,7 @@ Una credencial de confianza instalada hace esto posible.\"</string>
   <string name="status_number">Mi número de teléfono</string>
   <string name="status_operator">Red</string>
   <string name="status_prl_version">Versión PRL</string>
-  <string name="status_roaming">Roaming</string>
+  <string name="status_roaming">Itinerancia</string>
   <string name="status_serial_number">Número de serie</string>
   <string name="status_serialno">serial no</string>
   <string name="status_service_state">Estado del servicio</string>

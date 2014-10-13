@@ -624,7 +624,7 @@ CC: %4$s
   <string name="policy_password_expiration">Exigir que las contraseñas caduquen</string>
   <string name="policy_password_history">Restringir la reutilización de contraseñas recientes</string>
   <string name="policy_require_encryption">Requerir cifrado de dispositivo</string>
-  <string name="policy_require_manual_sync_roaming">Sólo permite sincronización manual en roaming</string>
+  <string name="policy_require_manual_sync_roaming">Sólo permite sincronización manual en itinerancia</string>
   <string name="policy_require_password">Requerir contraseña del dispositivo</string>
   <string name="policy_require_sd_encryption">Requerir cifrado de tarjeta SD</string>
   <string name="policy_require_smime">Requerir mensajes SMIME</string>
@@ -690,7 +690,7 @@ CC: %4$s
   <string name="report_rendering_problem_desc">Este mensaje se ve mal.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
-  <string name="require_manual_sync_message">La sincronización offline para esta cuenta está deshabilitada en roaming.</string>
+  <string name="require_manual_sync_message">La sincronización offline para esta cuenta está deshabilitada en itinerancia.</string>
   <string name="respond_inline">Responder en línea</string>
   <string name="resume_draft">Editar</string>
   <string name="retry">Reintentar</string>

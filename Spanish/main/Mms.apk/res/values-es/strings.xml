@@ -310,7 +310,7 @@
   <string name="pref_summary_manage_sim_messages">Administrar los mensajes almacenados en la tarjeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Recuperar automáticamente MMS</string>
   <string name="pref_summary_mms_read_reports">Solicitar un reporte de lectura para cada mensaje enviado</string>
-  <string name="pref_summary_mms_retrieval_during_roaming">Recuperar automáticamente mensajes roaming</string>
+  <string name="pref_summary_mms_retrieval_during_roaming">Recuperar automáticamente mensajes itinerancia</string>
   <string name="pref_summary_mx_feedback">Reportar errores y enviar feedback directamente a Xiaomi</string>
   <string name="pref_summary_notification_body_enabled">Mostrar previsulización de mensajes en pantalla de bloqueo y barra de estado</string>
   <string name="pref_summary_notification_body_enabled_when_secure">"No puedes previsualizar mensajes en modo invitado"</string>
@@ -332,7 +332,7 @@
   <string name="pref_title_mms_auto_retrieval">Auto-recuperación MMS</string>
   <string name="pref_title_mms_delete">Límite de mensaje multimedia</string>
   <string name="pref_title_mms_read_reports">Leer informes</string>
-  <string name="pref_title_mms_retrieval_during_roaming">auto-recuperación de roaming</string>
+  <string name="pref_title_mms_retrieval_during_roaming">auto-recuperación de itinerancia</string>
   <string name="pref_title_notification_body_enabled">Previsualizar mensajes</string>
   <string name="pref_title_ringtone_repeat">Numero de rings</string>
   <string name="pref_title_show_recent_contacts">Mostrar contactos recientes</string>
@@ -405,7 +405,7 @@
   <string name="send">Enviar</string>
   <string name="send_hms_editor_hints">Mi mensaje</string>
   <string name="send_message_dlg_check_hint">"No mostrar de nuevo"</string>
-  <string name="send_message_dlg_mgs">Aviso CMCC: tenemos que registrar su plataforma de administración de dispositivos para proporcionar el servicio gratuito de post (post-service es una plataforma de CMCC que permite administrar los terminales. Te ofrece el servicio de configuración remota y actualización de la aplicación). Se enviará un mensaje gratis de información de los dispositivos de registro. El mensaje será enviado una vez y no es necesario los datos personales (no mandar de Hong Kong, Macao, Taiwan y roaming internacional). Seleccione \"OK\" si de acuerdo con registrar y utilizar el servicio. Seleccione \"Cancelar\" para volver y no se proporcionará ningún servicio de CMCC.</string>
+  <string name="send_message_dlg_mgs">Aviso CMCC: tenemos que registrar su plataforma de administración de dispositivos para proporcionar el servicio gratuito de post (post-service es una plataforma de CMCC que permite administrar los terminales. Te ofrece el servicio de configuración remota y actualización de la aplicación). Se enviará un mensaje gratis de información de los dispositivos de registro. El mensaje será enviado una vez y no es necesario los datos personales (no mandar de Hong Kong, Macao, Taiwan e itinerancia internacional). Seleccione \"OK\" si de acuerdo con registrar y utilizar el servicio. Seleccione \"Cancelar\" para volver y no se proporcionará ningún servicio de CMCC.</string>
   <string name="send_message_dlg_title">Administración de dispositivos</string>
   <string name="send_message_notification_msg">Pulse para ver detalles.</string>
   <string name="send_message_notification_tickerText">Solicitando permiso</string>
