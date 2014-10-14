@@ -24,7 +24,7 @@
   <string name="accessibility_menu">Menú</string>
   <string name="accessibility_no_data">Sin datos.</string>
   <string name="accessibility_no_phone">Sin teléfono.</string>
-  <string name="accessibility_no_wifi">Sin WLAN.</string>
+  <string name="accessibility_no_wifi">Sin Wifi.</string>
   <string name="accessibility_no_wimax">Sin WiMAX.</string>
   <string name="accessibility_phone_four_bars">Tlf. 4 barras.</string>
   <string name="accessibility_phone_one_bar">Tlf. 1 barra.</string>
@@ -37,10 +37,10 @@
   <string name="accessibility_ringer_vibrate">Vibración.</string>
   <string name="accessibility_search_light">Búsqueda</string>
   <string name="accessibility_tty_enabled">Teletipo activado.</string>
-  <string name="accessibility_wifi_one_bar">WLAN 1 barra.</string>
-  <string name="accessibility_wifi_signal_full">Máx. señal WLAN.</string>
-  <string name="accessibility_wifi_three_bars">WLAN tres barras.</string>
-  <string name="accessibility_wifi_two_bars">WLAN 2 barras.</string>
+  <string name="accessibility_wifi_one_bar">Wifi una barra.</string>
+  <string name="accessibility_wifi_signal_full">Máx. señal Wifi.</string>
+  <string name="accessibility_wifi_three_bars">Wifi tres barras.</string>
+  <string name="accessibility_wifi_two_bars">Wifi dos barras.</string>
   <string name="accessibility_wimax_one_bar">WiMAX 1 barra.</string>
   <string name="accessibility_wimax_signal_full">Máx señal WiMAX.</string>
   <string name="accessibility_wimax_three_bars">WiMAX 3 barras.</string>
@@ -167,7 +167,7 @@ Use únicamente el cargador suministrado.\"</string>
   <string name="status_bar_settings_airplane">Modo avión</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">No hay conexión a internet</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN conectada</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Wifi conectada</string>
   <string name="status_bar_style_settings">Notificaciones</string>
   <string name="status_bar_toggle_ac">Acceso</string>
   <string name="status_bar_toggle_auto_brightness">Automático</string>
@@ -195,8 +195,8 @@ Use únicamente el cargador suministrado.\"</string>
   <string name="status_bar_toggle_syncing">Sincronizando</string>
   <string name="status_bar_toggle_torch">Linterna</string>
   <string name="status_bar_toggle_vibrate">Vibración</string>
-  <string name="status_bar_toggle_wifi">WLAN</string>
-  <string name="status_bar_toggle_wifi_ap">WLAN</string>
+  <string name="status_bar_toggle_wifi">Wifi</string>
+  <string name="status_bar_toggle_wifi_ap">Wifi</string>
   <string name="title_usb_accessory">Accesorio USB</string>
   <string name="torch_activity_hint">Presione [icon] en la pantalla de bloqueo para encender la linterna</string>
   <string name="torch_activity_name">Linterna</string>
