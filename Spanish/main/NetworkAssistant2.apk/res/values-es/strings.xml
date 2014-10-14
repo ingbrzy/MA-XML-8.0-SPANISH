@@ -12,7 +12,7 @@
   <string name="app_mobile">Datos</string>
   <string name="app_name">Uso de datos</string>
   <string name="app_version">Versión</string>
-  <string name="app_wifi">WLAN</string>
+  <string name="app_wifi">Wifi</string>
   <string name="background_traffic">Fondo %s</string>
   <string name="begin_date">Restablecer fecha de ciclo de datos</string>
   <string name="cancel_button">Cancelar</string>
@@ -79,9 +79,9 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="firewall_fragment_tab_title_nonsys">Instalado</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
   <string name="firewall_rule_group_title_mobile">Datos</string>
-  <string name="firewall_rule_group_title_wifi">WLAN</string>
+  <string name="firewall_rule_group_title_wifi">Wifi</string>
   <string name="firewall_service_network_blocked">%1$s está restringido para usar %2$s redes</string>
-  <string name="force_stop_dlg_text">"Si restringe los datos móviles en segundo plano algunas aplicaciones y servicios no funcionarán a menos que se conecte a una WLAN."</string>
+  <string name="force_stop_dlg_text">"Si restringe los datos móviles en segundo plano algunas aplicaciones y servicios no funcionarán a menos que se conecte a una Wifi."</string>
   <string name="force_stop_dlg_title">Restringir datos en segundo plano</string>
   <string name="foreground_traffic">Traer a primer plano %s</string>
   <string name="free_time_traffic">Límite de datos en hora valle</string>
