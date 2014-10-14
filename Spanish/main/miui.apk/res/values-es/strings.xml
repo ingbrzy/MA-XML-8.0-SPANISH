@@ -346,19 +346,19 @@
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">MMMM d</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-  <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
   <string name="fmt_date_numeric_month">M</string>
   <string name="fmt_date_numeric_month_day">M-d</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">yyyy-M</string>
-  <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+  <string name="fmt_date_numeric_year_month">M-yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">MMM d</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="fmt_date_time">D T</string>
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
@@ -467,7 +467,7 @@
   <string name="pm">PM</string>
   <string name="privacy_policy">Política de privacidad</string>
   <string name="saturday">Sábado</string>
-  <string name="saturday_short">Sat</string>
+  <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">S</string>
   <string name="select_all">Seleccionar todo</string>
   <string name="select_item">Seleccionar elementos</string>
@@ -571,7 +571,7 @@
   <string name="user_manual">Guía del usuario</string>
   <string name="website">Página web</string>
   <string name="wednesday">Miércoles</string>
-  <string name="wednesday_short">Mie</string>
-  <string name="wednesday_shortest">M</string>
+  <string name="wednesday_short">Mié</string>
+  <string name="wednesday_shortest">X</string>
   <string name="yesterday">Ayer</string>
 </resources>
