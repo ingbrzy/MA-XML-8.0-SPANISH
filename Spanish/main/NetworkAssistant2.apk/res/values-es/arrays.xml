@@ -19,9 +19,9 @@
     <item>Ayer (datos)</item>
     <item>Hoy (datos)</item>
     <item>Este mes (datos)</item>
-    <item>Ayer WLAN</item>
-    <item>Hoy WLAN</item>
-    <item>Este mes WLAN</item>
+    <item>Wifi ayer</item>
+    <item>Wifi hoy</item>
+    <item>Wifi este mes</item>
   </string-array>
   <string-array name="date_of_app">
     <item>Ayer (datos)</item>
@@ -38,18 +38,18 @@
     <item>9 segundos</item>
   </string-array>
   <string-array name="traffic_type">
-    <item>"Uso móvil "</item>
-    <item>"Uso WLAN "</item>
-    <item>"Datos guardados "</item>
+    <item>"Uso móvil"</item>
+    <item>"Uso Wifi"</item>
+    <item>"Datos guardados"</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
-    <item>"Uso móvil "</item>
-    <item>"Uso WLAN "</item>
+    <item>"Uso móvil"</item>
+    <item>"Uso Wifi"</item>
   </string-array>
   <string-array name="traffic_sort_type">
-    <item>"Uso de datos móviles "</item>
-    <item>"Uso WLAN "</item>
-    <item>"Datos guardados "</item>
+    <item>"Uso de datos móviles"</item>
+    <item>"Uso Wifi"</item>
+    <item>"Datos guardados"</item>
   </string-array>
   <string-array name="traffic_setting_sms_template">
     <item>Conseguir la plantilla de mensaje automáticamente</item>
