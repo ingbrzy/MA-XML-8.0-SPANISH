@@ -284,9 +284,9 @@
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Error</string>
   <string name="menu_item_notification_power_text">Energía</string>
-  <string name="menu_item_notification_title">Mostrar en notificación fantasma</string>
+  <string name="menu_item_notification_title">Mostrar en menú desplegable</string>
   <string name="menu_item_settings_title">Ajustes</string>
-  <string name="menu_item_shortcut_summary">Situar características usadas frecuentemente en tu pantalla de inicio</string>
+  <string name="menu_item_shortcut_summary">Situar características usadas frecuentemente en su Escritorio</string>
   <string name="menu_item_shortcut_title">Administrar accesos directos</string>
   <string name="menu_item_uninstall">Desinstalar</string>
   <string name="menu_item_virus_cloud_scan_summary">Usar definiciones de virus en linea para escaneo</string>
@@ -352,8 +352,8 @@
   <string name="power_center_ontime_boot">Hora de encendido</string>
   <string name="power_center_ontime_shutdown">Hora de apagado</string>
   <string name="power_center_repeat">Repetir</string>
-  <string name="power_center_state_off">Apagar</string>
-  <string name="power_center_state_on">Encneder</string>
+  <string name="power_center_state_off">Inactivo</string>
+  <string name="power_center_state_on">Activado</string>
   <string name="power_center_time_to_boot">Hora de encendido</string>
   <string name="power_center_time_to_shutdown">Hora de apagado</string>
   <string name="power_center_title">Energia</string>
@@ -468,7 +468,7 @@
   <string name="power_save_low_battery_percentage_ten">10%</string>
   <string name="power_save_low_battery_percentage_thirty">30%</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
-  <string name="power_save_low_battery_seekbar_title">Cambiar perfil de uso batería cuando quede menos del %1$d%% de energía</string>
+  <string name="power_save_low_battery_seekbar_title">Cambiar perfil de uso de la batería cuando quede menos del %1$d%% de energía</string>
   <string name="power_save_low_battery_title">Economizador de batería</string>
   <string name="power_save_on_time_auto_save_title">Programar cambio de perfil</string>
   <string name="power_save_on_time_default_time">00:00</string>
@@ -478,7 +478,7 @@
   <string name="power_save_on_time_option_recovery_title">Cuando este periodo acabe, cambiar a</string>
   <string name="power_save_on_time_option_summary">Al final de este periodo el dispositivo volverá al ultimo perfil usado</string>
   <string name="power_save_on_time_option_title">Durante este periodo cambiar a</string>
-  <string name="power_save_on_time_start_time_summary">Empezar</string>
+  <string name="power_save_on_time_start_time_summary">Inicio</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Programar cambio de pefil</string>
   <string name="power_screen">Pantalla</string>
@@ -491,7 +491,7 @@
   <string name="power_subtitle_ontime">Perfil de batería se cambió como estaba programado.</string>
   <string name="power_wifi">Wi‑Fi</string>
   <string name="pref_category_title_auto_update_cleanup_db">Limpiar ajustes de actualización de base de datos</string>
-  <string name="pref_category_title_cleanup_white_list">Limpiar archivos residuales de lista de excepciones</string>
+  <string name="pref_category_title_cleanup_white_list">Lista de excepciones a Archivos Residuales</string>
   <string name="pref_category_title_garbage_cleanup_check">Ajustes de limpieza</string>
   <string name="pref_category_title_module_settings">Ajustes de reglas</string>
   <string name="pref_category_title_reference_settings">Ajustes relacionados</string>
@@ -583,7 +583,7 @@
   <string name="usage_type_on_time">Tiempo encendido</string>
   <string name="usage_type_phone">Teléfono</string>
   <string name="usage_type_video">Video</string>
-  <string name="usage_type_wake_lock">Mantener encendido</string>
+  <string name="usage_type_wake_lock">Activo</string>
   <string name="usage_type_wifi_running">Wi‑Fi funcionando</string>
   <string name="virus_list_header_title">%d virus detectados</string>
   <string name="white_list_ad_header">Añadir archivos: %d</string>

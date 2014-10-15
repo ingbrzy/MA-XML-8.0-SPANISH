@@ -2036,7 +2036,7 @@ Para más información contacte con su adminstrados.\"</string>
 Una credencial de confianza instalada hace esto posible.\"</string>
   <string name="status_awake_time">Tiempo activo</string>
   <string name="status_bar_and_notification_bar">Notificación emergente y en barra de estado</string>
-  <string name="status_bar_filter_item_description">Para configurar notificaciones, ir a Ajustes generales &gt; Notificaaciones &gt; Administrar notificaciones</string>
+  <string name="status_bar_filter_item_description">Para configurar notificaciones, ir a Ajustes generales &gt; Notificaciones &gt; Administrar notificaciones</string>
   <string name="status_bar_filter_item_preview_image">Vista previa</string>
   <string name="status_bar_key_position_custom">Posición de tecla personalizada</string>
   <string name="status_bar_screen_button_key">Teclas virtuales en pantalla</string>
@@ -2058,10 +2058,10 @@ Una credencial de confianza instalada hace esto posible.\"</string>
   <string name="status_bar_settings_show_carrier_summary">Solo mostrar en bloqueo de pantalla</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalles de flujo</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
-  <string name="status_bar_settings_show_notificationBar_notification">Mostrar en notificación emergente</string>
+  <string name="status_bar_settings_show_notificationBar_notification">Mostrar en menú desplegable</string>
   <string name="status_bar_settings_show_screenshot_notification">Mostrar notificación screenshot</string>
-  <string name="status_bar_settings_show_statusBar_notification">Mostrar con teclado bloqueado</string>
-  <string name="status_bar_settings_show_statusBar_notification_summary">La notificación aparecerá en parte alta de la pantalla y desaparecerá automáticamente</string>
+  <string name="status_bar_settings_show_statusBar_notification">Mostrar en barra de estado</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">La notificación aparecerá en la parte alta de la pantalla y desaparecerá automáticamente</string>
   <string name="status_bar_settings_show_wifi_name">Mostrar Wifi</string>
   <string name="status_bar_settings_status_bar">Barra de estado</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Cerrar después de pulsación</string>
@@ -2282,7 +2282,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="usage_time_label">Tiempo de uso</string>
   <string name="usage_type_audio">Audio</string>
   <string name="usage_type_cpu">CPU total</string>
-  <string name="usage_type_cpu_foreground">CPU Segundo plano</string>
+  <string name="usage_type_cpu_foreground">CPU en primer plano</string>
   <string name="usage_type_data_recv">Datos móviles recibidos</string>
   <string name="usage_type_data_send">Datos móviles enviados</string>
   <string name="usage_type_data_wifi_recv">Datos Wi‑Fi recibidos</string>
@@ -2292,7 +2292,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="usage_type_on_time">Tiempo encendido</string>
   <string name="usage_type_phone">Teléfono</string>
   <string name="usage_type_video">Video</string>
-  <string name="usage_type_wake_lock">Mantener encendido</string>
+  <string name="usage_type_wake_lock">Activo</string>
   <string name="usage_type_wifi_running">Wifi funcionando</string>
   <string name="usb_connection_category">Conectar como</string>
   <string name="usb_host_mode_subtext">Usar mandos de juegos y otros periféricos en el puerto USB puede acortar la vida de la batería</string>
@@ -2300,7 +2300,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="usb_label_installer_cd">Instalar herramienta de transferencia de archivos</string>
   <string name="usb_msd_driver_installer_summary">Obtener drivers para Windows y OSX</string>
   <string name="usb_msd_driver_installer_title">Driver de instalación de discos (MSD)</string>
-  <string name="usb_msd_summary">Transferir archivos via Windows o OSX</string>
+  <string name="usb_msd_summary">Transferir archivos vía Windows u OSX</string>
   <string name="usb_msd_title">Dispositivo de almacenamiento masivo</string>
   <string name="usb_mtp_summary">Permite transferir archivos multimedia en Windows, o usando Android File Transfer en Mac (see www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Dispositivo multimedia (MTP)</string>
