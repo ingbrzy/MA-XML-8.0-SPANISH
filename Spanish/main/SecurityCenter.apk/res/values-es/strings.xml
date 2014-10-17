@@ -491,19 +491,19 @@
   <string name="power_subtitle_ontime">Perfil de batería se cambió como estaba programado.</string>
   <string name="power_wifi">Wi‑Fi</string>
   <string name="pref_category_title_auto_update_cleanup_db">Limpiar ajustes de actualización de base de datos</string>
-  <string name="pref_category_title_cleanup_white_list">Lista de excepciones a Archivos Residuales</string>
+  <string name="pref_category_title_cleanup_white_list">Lista de archivos residuales excluidos</string>
   <string name="pref_category_title_garbage_cleanup_check">Ajustes de limpieza</string>
   <string name="pref_category_title_module_settings">Ajustes de reglas</string>
   <string name="pref_category_title_reference_settings">Ajustes relacionados</string>
   <string name="pref_category_title_securitycenter_settings">Ajustes de centro de seguridad</string>
   <string name="pref_category_title_virus_lib_auto_update">Ajustes de definición de virus</string>
   <string name="pref_summary_auto_update_cleanup_db">Actualizado en: %s</string>
-  <string name="pref_summary_cleanup_white_list">Los archivos residuales en lista de excepciones serán ignorados</string>
+  <string name="pref_summary_cleanup_white_list">Los archivos residuales incluidos en esta  lista de excepciones serán ignorados</string>
   <string name="pref_summary_expand_cache_group">Grupos en la lista de caché se expandirán por defecto</string>
   <string name="pref_summary_garbage_cleanup_check_size">Avisarme cuando los archivos residuales alcancen un tamaño determinado</string>
   <string name="pref_summary_garbage_cleanup_check_time">Avisarme cuando la fecha alcance un periodo determinado</string>
   <string name="pref_title_auto_update_cleanup_db">Actualización automática</string>
-  <string name="pref_title_cleanup_white_list">Limpiar archivos residuales excluidos</string>
+  <string name="pref_title_cleanup_white_list">Limpiar lista de archivos residuales excluidos</string>
   <string name="pref_title_expand_cache_group">Expandir los grupos de caché</string>
   <string name="pref_title_garbage_cleanup_check_size">Alerta por tamaño de archivos residuales</string>
   <string name="pref_title_garbage_cleanup_check_time">Alerta archivos residuales</string>
@@ -591,5 +591,5 @@
   <string name="white_list_cache_header">Archivos en caché: %d</string>
   <string name="white_list_large_file_header">Archivos pesados: %d</string>
   <string name="white_list_residual_header">Archivos residuales: %d</string>
-  <string name="white_list_title">Lista exclusiones</string>
+  <string name="white_list_title">Lista de exclusiones</string>
 </resources>
