@@ -22,7 +22,7 @@
   <string name="account_folder_list_summary_drafts">Borradores</string>
   <string name="account_folder_list_summary_inbox">Bandeja de entrada</string>
   <string name="account_folder_list_summary_outbox">Buzón de salida</string>
-  <string name="account_folder_list_summary_starred">Favoritos</string>
+  <string name="account_folder_list_summary_starred">Destacados</string>
   <string name="account_name_toast">"No se pudo crear la cuenta. Ya existe una cuenta con el mismo nombre."</string>
   <string name="account_password_spaces_error">"Esta contraseña comienza o termina con uno o más espacios en blanco. Muchos servidores no admiten contraseñas con espacios en blanco."</string>
   <string name="account_security_dialog_content_fmt">%s requiere que actualice la configuración de seguridad.</string>
@@ -460,7 +460,7 @@
   <string name="mailbox_name_display_junk">Correo basura</string>
   <string name="mailbox_name_display_outbox">Buzón de salida</string>
   <string name="mailbox_name_display_sent">Enviado</string>
-  <string name="mailbox_name_display_starred">Favoritos</string>
+  <string name="mailbox_name_display_starred">Destacados</string>
   <string name="mailbox_name_display_trash">Basura</string>
   <string name="mailbox_name_display_unread">No leído</string>
   <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
