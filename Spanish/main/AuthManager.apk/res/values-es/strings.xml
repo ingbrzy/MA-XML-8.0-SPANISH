@@ -139,7 +139,7 @@ Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, p
   <string name="HIPS_Perm_Network_Recv">Recibir datos</string>
   <string name="HIPS_Perm_Network_Send">Enviar datos</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Dirección desconocida</string>
-  <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
+  <string name="HIPS_Perm_Network_WIFIEvent">Wifi</string>
   <string name="HIPS_Perm_Notification">Notificaciones automáticas</string>
   <string name="HIPS_Perm_Notification_Desc">La aplicación podrá utilizar las notificaciones automáticas</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s aplicaciones pueden utilizar las notificaciones automáticas</string>
@@ -190,12 +190,12 @@ Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, p
   <string name="HIPS_Perm_VideoRecorder">Cámara</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">La aplicación podrá acceder a la cámara</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicaciones pueden acceder a la cámara</string>
-  <string name="HIPS_Perm_WIFINetwork">WLAN</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">La aplicación podrá usar WLAN para conectarse a internet</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicaciones pueden usar WLAN para conectarse a internet</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">WLAN</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">La aplicación podrá activar WLAN</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplicaciones pueden activar WLAN</string>
+  <string name="HIPS_Perm_WIFINetwork">Wifi</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">La aplicación podrá usar Wifi para conectarse a internet</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicaciones pueden usar Wifi para conectarse a internet</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Wifi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">La aplicación podrá activar Wifi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplicaciones pueden activar Wifi</string>
   <string name="HIPS_Perm_Wakelock">Dormir</string>
   <string name="HIPS_Perm_Wakelock_Desc">La aplicación podrá impedir la dormida del dispositivo</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplicación puede impedir la dormida del dispositivo</string>
