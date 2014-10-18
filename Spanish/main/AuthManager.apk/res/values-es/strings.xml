@@ -32,7 +32,7 @@ Necesitas instalar una versión de desarrollo de MIUI para tener permisos de roo
   <string name="Dashboard_Su_Enable_Content">\"Activando esta opción permitirá a las aplicaciones solicitar permisos de root.
 Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, perdida de datos personales, del sistema o incluso daño en el hardware, por favor se cuidadoso. ¿Esta seguro de activarlo?\"</string>
   <string name="Dashboard_Su_Enable_Title">Acceso root</string>
-  <string name="Generic_Canceling">Cancellando…</string>
+  <string name="Generic_Canceling">Cancelando…</string>
   <string name="Generic_Check">Verificar</string>
   <string name="Generic_Clean">Limpiar</string>
   <string name="Generic_Configuration">Configuración</string>
@@ -140,9 +140,9 @@ Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, p
   <string name="HIPS_Perm_Network_Send">Enviar datos</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Dirección desconocida</string>
   <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
-  <string name="HIPS_Perm_Notification">Notificaciones push</string>
-  <string name="HIPS_Perm_Notification_Desc">La aplicación podrá utilizar las notificaciones push</string>
-  <string name="HIPS_Perm_Notification_Hint">%1$s aplicaciones pueden utilizar las notificaciones push</string>
+  <string name="HIPS_Perm_Notification">Notificaciones automáticas</string>
+  <string name="HIPS_Perm_Notification_Desc">La aplicación podrá utilizar las notificaciones automáticas</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s aplicaciones pueden utilizar las notificaciones automáticas</string>
   <string name="HIPS_Perm_PhoneID">Dispositivo</string>
   <string name="HIPS_Perm_PhoneID_Desc">"La aplicación podrá obtener el IMEI del dispositivo y el IMSI"</string>
   <string name="HIPS_Perm_PhoneID_Hint">"%1$s aplicaciones pueden obtener el IMEI del dispositivo y el IMSI"</string>

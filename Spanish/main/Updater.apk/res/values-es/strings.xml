@@ -34,8 +34,8 @@
   <string name="check_new_version">Comprobar</string>
   <string name="check_update">Comprobar actualizaciones</string>
   <string name="check_update_policy">Ajustes</string>
-  <string name="check_update_when_wifi_available">Utilizar solo WLAN para comprobar actualizaciones</string>
-  <string name="check_update_when_wifi_available_sum">Usar sólo WLAN para comprobar si hay actualizaciones</string>
+  <string name="check_update_when_wifi_available">Utilizar solo Wifi para comprobar actualizaciones</string>
+  <string name="check_update_when_wifi_available_sum">Usar sólo Wifi para comprobar si hay actualizaciones</string>
   <string name="checking_for_updates">Buscando actualizaciones…</string>
   <string name="choose_recommend">Comentario de usuario</string>
   <string name="comment_invalid">Califica esta actualización (selecciona las estrellas)</string>
@@ -96,7 +96,7 @@
   <string name="loading">Solicitando…</string>
   <string name="log_share">Compartir</string>
   <string name="md5_check_cancelled">Chequeo MD5 cancelado</string>
-  <string name="menu_title_check_update">Usar sólo la WLAN para comprobar si hay actualizaciones</string>
+  <string name="menu_title_check_update">Usar sólo la Wifi para comprobar si hay actualizaciones</string>
   <string name="menu_title_current_version_log">Resumen de actualizaciones</string>
   <string name="menu_title_download_current_rom">Descargar el paquete de actualización</string>
   <string name="menu_title_pick_rom_file">Seleccionar el paquete de actualización</string>
@@ -130,7 +130,7 @@
   <string name="no_updates_found">"Estas ejecutando la última versión de MIUI :)"</string>
   <string name="no_updates_warning">No se han encontrado actualizaciones</string>
   <string name="no_updates_warning2">"Tranquilo, le dejaremos saber si hay una actualización :)"</string>
-  <string name="no_wifi_msg">"Ya no está conectado a una WLAN. Si continúa la descarga con la red móvil de datos se incrementará mucho su uso de datos."</string>
+  <string name="no_wifi_msg">"Ya no está conectado a una Wifi. Si continúa la descarga con la red móvil de datos se incrementará mucho su uso de datos."</string>
   <string name="no_wifi_title">Aviso de uso de datos</string>
   <string name="not_recommend">"No lo recomendaría"</string>
   <string name="notification_downloading">Descargando actualización…</string>
@@ -149,7 +149,7 @@
   <string name="particular_build">Particular</string>
   <string name="pause">Pausar</string>
   <string name="paused_queued_for_network">Esperando conexión de red</string>
-  <string name="paused_queued_for_wifi">Esperando conexión WLAN</string>
+  <string name="paused_queued_for_wifi">Esperando conexión Wifi</string>
   <string name="previous">Anterior</string>
   <string name="progress_title_checking">Comprobando actualizaciones…</string>
   <string name="reboot">Reiniciar</string>
@@ -172,9 +172,9 @@
   <string name="set_installfail_msg">Descargar esta actualización con su conexión móvil de datos incrementará su uso de datos.</string>
   <string name="set_installfail_title">¿Quiere intentar la descarga de nuevo?</string>
   <string name="set_installfail_title_full">Actualización fallida</string>
-  <string name="set_network_msg">Conectar a una WLAN antes de descargar esta actualización.</string>
+  <string name="set_network_msg">Conectar a una Wifi antes de descargar esta actualización.</string>
   <string name="set_network_title">Conectar a una red</string>
-  <string name="set_only_wifi">Establecer Comprobar actualización sólo con WLAN</string>
+  <string name="set_only_wifi">Establecer Comprobar actualización sólo con Wifi</string>
   <string name="share">Compartir</string>
   <string name="share_qq">Post de Tencent Weibo</string>
   <string name="share_sina">Post en Sina Weibo</string>

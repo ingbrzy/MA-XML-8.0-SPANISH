@@ -386,7 +386,7 @@
   <string name="pref_content_block_float_popups">Bloquear ventanas emergentes</string>
   <string name="pref_content_block_popups">Bloquear ventanas emergentes</string>
   <string name="pref_content_cloud_speedup">Cargar contenido más rápido utilizando servidores proxy</string>
-  <string name="pref_content_fontsize_setting">Configuración de fuente</string>
+  <string name="pref_content_fontsize_setting">Configuración de letra</string>
   <string name="pref_content_homepage">Establecer página de inicio</string>
   <string name="pref_content_javascript">Habilitar JavaScript</string>
   <string name="pref_content_load_page">Abrir páginas en vista general</string>
@@ -438,7 +438,7 @@
   <string name="pref_file_download_save_title">Descargas</string>
   <string name="pref_fling_on_border_enabled">Deslice desde el borde</string>
   <string name="pref_fling_on_border_enabled_title_summary">Deslice desde el borde derecho o izquierdo de la pantalla para cambiar entre las pestañas</string>
-  <string name="pref_font_size_category">Tamaño del texto</string>
+  <string name="pref_font_size_category">Tamaño de letra</string>
   <string name="pref_force_userscalable">Forzar zoom</string>
   <string name="pref_force_userscalable_summary">"Anular la solicitud del sitio para controlar el comportamiento del zoom"</string>
   <string name="pref_general_autofill_title">Autoajustar</string>
@@ -459,7 +459,7 @@
   <string name="pref_inverted_category">Renderización de pantalla invertida</string>
   <string name="pref_inverted_contrast">Contraste</string>
   <string name="pref_inverted_summary">Negro se convierte en blanco y viceversa</string>
-  <string name="pref_key_gesture_title">Botones &amp; gestos</string>
+  <string name="pref_key_gesture_title">Botones y gestos</string>
   <string name="pref_key_title">Botón de ajustes</string>
   <string name="pref_link_prefetch_dialogtitle">Precargar páginas web</string>
   <string name="pref_link_prefetch_summary">: Permitir el navegador precargar las páginas Web enlazadas</string>
@@ -468,7 +468,7 @@
   <string name="pref_link_prefetch_value_never">NUNCA</string>
   <string name="pref_link_prefetch_value_never_summary">Nunca precargar paginas web enlazadas</string>
   <string name="pref_link_prefetch_value_wifi_only">SOLO_WIFI</string>
-  <string name="pref_min_font_size">Tamaño mínimo de fuente</string>
+  <string name="pref_min_font_size">Tamaño mínimo de letra</string>
   <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_other_title">Otros</string>
   <string name="pref_privacy_clear_cache">Borrar cache</string>
@@ -495,7 +495,7 @@
   <string name="pref_privacy_enable_geolocation_summary">Permitir sitios solicitar acceso a su localización</string>
   <string name="pref_privacy_formdata_title">Datos de formulario</string>
   <string name="pref_privacy_location_title">Ubicación</string>
-  <string name="pref_privacy_security_title">Privacidad &amp; seguridad</string>
+  <string name="pref_privacy_security_title">Privacidad y seguridad</string>
   <string name="pref_reading_mode_enabled_title">Modo de lectura</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript debe estar habilitado</string>
   <string name="pref_save_bandwidth_mode_summary">"El navegador no usará redes móviles para precargar páginas o para visualizar imágenes"</string>
@@ -526,7 +526,7 @@
   <string name="pref_volume_key_action">Botones de volumen: página anterior/siguiente</string>
   <string name="pref_volume_key_enabled">Botones de volumen</string>
   <string name="pref_volume_key_operation">Funciones de los botones volumen</string>
-  <string name="pref_webapp_settings_fontsize">Tamaño de la fuente</string>
+  <string name="pref_webapp_settings_fontsize">Tamaño de letra</string>
   <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
   <string name="pref_webapp_settings_hidebottombar">Ocultar la barra inferior</string>
   <string name="pref_webapp_settings_hidebottombar_key">pref_webapp_settings_hidebottombar_key</string>
@@ -691,7 +691,7 @@
   <string name="video_title">Video</string>
   <string name="view_certificate">Ver certificado</string>
   <string name="voice_sub_title">"¿No sé que decir? Trate de abrir mi.com!"</string>
-  <string name="voice_title">Di tus ordenes…</string>
+  <string name="voice_title">Diga sus órdenes…</string>
   <string name="voice_title_distinguish">Procesando…</string>
   <string name="voice_title_listening">Escuchando…</string>
   <string name="voice_title_please">Comience a hablar…</string>

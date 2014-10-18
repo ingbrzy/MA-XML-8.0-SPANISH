@@ -83,7 +83,7 @@
   <string name="call_barring_sum">Ajustes de restricción de llamadas de voz</string>
   <string name="call_description_recording">Grabando llamada</string>
   <string name="call_forwarding_number_hint">Introduzca el número al que reenviar las llamadas entrantes</string>
-  <string name="call_forwarding_settings">Ajustes de reenvío de llamadas</string>
+  <string name="call_forwarding_settings">Ajustes de desvío de llamadas</string>
   <string name="call_record_add_numbers">Añadir números</string>
   <string name="call_record_auto_always">Todos los números</string>
   <string name="call_record_auto_scenario_title">Configuración de auto-grabación</string>
@@ -134,7 +134,7 @@
   <string name="card_title_conditionalCF">Reenvío  condicional de llamadas habilitado</string>
   <string name="card_title_cugcall">Llamada CUG</string>
   <string name="card_title_deflectedcall">Llamada desviada</string>
-  <string name="card_title_forwardcheckreceived">Chequeo de reenvío recibido</string>
+  <string name="card_title_forwardcheckreceived">Chequeo de desvío recibido</string>
   <string name="card_title_forwarded_MTcall">Llamada entrante reenviada</string>
   <string name="card_title_incoming_barred">Llamdas entrantes restringidas</string>
   <string name="card_title_multipartycall">Llamada a tres</string>
@@ -225,7 +225,7 @@
   <string name="dialer_default_package">com.android.contacts</string>
   <string name="dialog_network_priority_title">Prioridad</string>
   <string name="disable">Desactivar</string>
-  <string name="disable_all_cf">Desactivar todas las funciones de reenvío de llamada</string>
+  <string name="disable_all_cf">Desactivar todas las funciones de desvío de llamada</string>
   <string name="disable_cfb_forbidden">"Su operador no permite deshabilitar el desvío de llamadas cuando el teléfono está ocupado."</string>
   <string name="disable_cfnrc_forbidden">"Su operador no permite deshabilitar el desvío de llamadas cuando el teléfono está fuera de cobertura."</string>
   <string name="disable_cfnry_forbidden">"Su operador no soporta desactivar desvío de llamadas cuando su teléfono no responde."</string>
@@ -318,9 +318,9 @@
   <string name="fdn_enabled">Números de Marcación Fija habilitados</string>
   <string name="fdn_invalid_number">"FDN no fue actualizado porque el número no puede exceder de 20 dígitos."</string>
   <string name="fdn_summary">Restringir llamadas salientes a los FDNs listados o a números con ciertos prefijos</string>
-  <string name="fw_change_failed">\"No se pudo cambiar el número de reenvío.
+  <string name="fw_change_failed">\"No se pudo cambiar el número de desvío.
 Contacte con su operadora si el problema persiste.\"</string>
-  <string name="fw_get_in_vm_failed">\"No se pudo recuperar y guardar la configuración del actual número de reenvío.
+  <string name="fw_get_in_vm_failed">\"No se pudo recuperar y guardar la configuración del actual número de desvío.
 ¿Cambiar al nuevo proveedor de todos modos?\"</string>
   <string name="general_news_settings">Noticias generales</string>
   <string name="general_setting">Ajustes</string>

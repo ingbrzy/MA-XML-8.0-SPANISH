@@ -18,7 +18,7 @@
   <string name="advertisements_disable">Avisos deshabilitados</string>
   <string name="advertisements_enable">Avisos habilitados</string>
   <string name="alert_dialog_close">Cerrar el perfil</string>
-  <string name="alert_dialog_dismiss">Rechazar</string>
+  <string name="alert_dialog_dismiss">Descartar</string>
   <string name="alert_dialog_in_ecm_call">"La acción seleccionada no está disponible durante una llamada de emergencia."</string>
   <string name="alert_dialog_no">No</string>
   <string name="alert_dialog_ok">OK</string>
@@ -66,7 +66,7 @@
   <string name="callFailed_unobtainable_number">Número no válido</string>
   <string name="callFailed_userBusy">Línea ocupada</string>
   <string name="callUnanswered_forwarded">Llamada no respondida y reenviada</string>
-  <string name="call_forwarding_settings">Configuraciones de reenvío de llamadas</string>
+  <string name="call_forwarding_settings">Configuraciones de desvío de llamadas</string>
   <string name="call_lost">La llamada se ha perdido.</string>
   <string name="call_record_button_label">Grabando: %s</string>
   <string name="call_record_wait_label">Esperando</string>
@@ -235,9 +235,9 @@
   <string name="fraud_call_answer">Responder</string>
   <string name="fraud_call_decline">Rechazar</string>
   <string name="fraud_call_waring">Cuidado: Vd. debe siempre comprobar antes la identidad del contacto por teléfono o vídeo antes de responder a cualquier mensaje que incluya su información personal.</string>
-  <string name="fw_change_failed">\"No se pudo cambiar el número de reenvío.
+  <string name="fw_change_failed">\"No se pudo cambiar el número de desvío.
 Contacte con su operadora si el problema persiste.\"</string>
-  <string name="fw_get_in_vm_failed">\"No se pudo recuperar y guardar la configuración del actual número de reenvío.
+  <string name="fw_get_in_vm_failed">\"No se pudo recuperar y guardar la configuración del actual número de desvío.
 ¿Cambiar al nuevo proveedor de todos modos?\"</string>
   <string name="general_news_settings">Noticias generales</string>
   <string name="get_pin2">Introduzca el PIN2</string>
@@ -272,7 +272,7 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="invalidPin2">Introduzca un PIN2 de 4 a 8 números.</string>
   <string name="invalidPuk2">Introduzca un PUK de 8 números.</string>
   <string name="ivr_menu_dialing_msg">Reenviando…</string>
-  <string name="ivr_menu_dialing_msg_no_mute">Ir al servicio seleccionado…[Corrección de error automática está activada]</string>
+  <string name="ivr_menu_dialing_msg_no_mute">Ir al servicio seleccionado…[Corrección automática de error activada]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Pulse %s</string>
   <string name="ivr_menu_list_title">Menú de voz</string>
   <string name="labelCDMAMore">Configuración de llamadas CDMA</string>
@@ -342,7 +342,7 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="no_vm_number">Falta el número del buzón de voz</string>
   <string name="no_vm_number_msg">Ningún número de buzón de voz almacenado en la tarjeta SIM.</string>
   <string name="no_voip">Llamadas por Internet no soportadas</string>
-  <string name="no_wifi_available">Necesita estar conectado a una red WLAN para llamadas por Internet (use la configuración de conexiones WiFi &amp; Redes).</string>
+  <string name="no_wifi_available">Necesita estar conectado a una red WLAN para llamadas por Internet (use la configuración de conexiones WiFi y Redes).</string>
   <string name="no_wifi_available_title">Ninguna conexión WLAN</string>
   <string name="non_ivr_menu_collapse_menu">Contraer menú</string>
   <string name="non_ivr_menu_view_menu">Ver menú</string>
@@ -455,7 +455,7 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="port_title">Número de Puerto</string>
   <string name="prefer_2g">Utilizar sólo redes 2G</string>
   <string name="prefer_2g_summary">Ahorra batería</string>
-  <string name="preference_category_ringtone">Tono de llamada &amp; Vibración</string>
+  <string name="preference_category_ringtone">Tono de llamada y Vibración</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Modo de red preferido: CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Modo de red preferido: CDMA / EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Modo de red preferido: CDMA solamente</string>
@@ -544,7 +544,7 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="simContacts_empty">No hay contactos en la tarjeta SIM.</string>
   <string name="simContacts_emptyLoading">Leyendo la tarjeta SIM…</string>
   <string name="simContacts_title">Seleccionar contactos para importar</string>
-  <string name="sim_ndp_dismiss_text">Rechazar</string>
+  <string name="sim_ndp_dismiss_text">Descartar</string>
   <string name="sim_ndp_unlock_text">Desbloquear</string>
   <string name="sip_account_list">Cuentas SIP</string>
   <string name="sip_accounts">Cuentas de llamada por Internet (SIP)</string>
