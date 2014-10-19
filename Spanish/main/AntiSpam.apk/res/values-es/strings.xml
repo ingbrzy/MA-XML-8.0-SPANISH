@@ -34,6 +34,7 @@
   <string name="SMS_MODENAME">Lista de bloqueo predeterminada</string>
   <string name="SMS_PREFIX">Bloqueo de prefijos</string>
   <string name="SMSpass">Permitir mensajes</string>
+  <string name="STRANGER_BLOCK">Lista de bloqueo de Extraños</string>
   <string name="ad_block_hint">%d bloqueado</string>
   <string name="ad_install_monitor">Buscar adware en las apps</string>
   <string name="ad_install_monitor_hint">Buscar adware al instalar aplicaciones</string>
@@ -57,6 +58,7 @@
   <string name="blacklist_prefix_add_hint">Bloquear todos los números que comienzan con este prefijo</string>
   <string name="block_message_number">Mensajes: %d</string>
   <string name="block_phone_number">Llamadas: %d</string>
+  <string name="button_to_setting">Ajustes</string>
   <string name="call_delete_hint">¿Eliminar todas las llamadas bloqueadas del número seleccionado?</string>
   <string name="cancle">Cancelar</string>
   <string name="close_callwait">Apagado</string>
@@ -95,6 +97,7 @@
   <string name="dlg_import_blacklist">Añadiendo a la lista de bloqueo…</string>
   <string name="dlg_import_whitelist">Añadiendo a las excepciones…</string>
   <string name="dlg_keyword_ok">Guardar</string>
+  <string name="dlg_message_not_open_stranger_identify">Necesita activar Identificar números ocultos en &gt; Ajustes, antes de poder incluir un número.</string>
   <string name="dlg_no_block">¿Desbloquear este número?</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
   <string name="dlg_remove_address_blacklist">¿Quitar esta ubicación de la lista de bloqueo y restaurar mensajes relacionados a la bandeja de entrada?</string>
@@ -106,6 +109,7 @@
   <string name="dlg_remove_whitelist_ing">Eliminando de excepciones…</string>
   <string name="dlg_retore">¿Restaurar al buzón de mensajes?</string>
   <string name="dlg_retore_ok">Restaurar</string>
+  <string name="dlg_title_not_open_stranger_identify">Activar Identificar números ocultos</string>
   <string name="dlg_white_address_antispam_message">¿Agregar esta ubicación a las excepciones?</string>
   <string name="dlg_white_antispam_hint">Excepciones</string>
   <string name="dlg_white_antispam_message">¿Añadir este número a las excepciones?</string>
@@ -122,6 +126,19 @@
   <string name="info_unantispam_sms">Permitir mensajes</string>
   <string name="label_callwait">Llamada en espera</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_agent">Agente de ventas</string>
+  <string name="mark_agent_block">Marcado como agente</string>
+  <string name="mark_express">Correo</string>
+  <string name="mark_express_block">Marcado como correo</string>
+  <string name="mark_fraud">Fraude</string>
+  <string name="mark_fraud_block">Marcado como fraude</string>
+  <string name="mark_meal">Entrega de alimentos</string>
+  <string name="mark_meal_block">Marcado como entrega de alimentos</string>
+  <string name="mark_number_info">"
+Observe que a veces estas llamadas pueden ser útiles (p.ej. cuando Vd. está realmente buscando un apartamento).
+Bloquee sólo números de los que no quiere recibir llamadas jamás."</string>
+  <string name="mark_sell">Telemarketer</string>
+  <string name="mark_sell_block">Marked as telemarketer</string>
   <string name="marked_by_others">"%d otros usuarios lo marcaron como "</string>
   <string name="marked_by_user">"lo marcaste como "</string>
   <string name="menu_add">Añadir</string>
@@ -253,6 +270,7 @@
   <string name="st_title_man_editwhitelist">Elija un código de ubicación para agregar a las excepciones</string>
   <string name="st_title_man_head_addblacklist">Añadir prefijo de número de teléfono a lista de bloques</string>
   <string name="st_title_man_head_addwhitelist">Añadir prefijo de número de teléfono a las excepciones</string>
+  <string name="st_title_markednumber_group">Número marcado en lista de bloqueo</string>
   <string name="st_title_mode_choose_group">Reglas de lista de bloqueo</string>
   <string name="st_title_not_sim">Vacío</string>
   <string name="st_title_open_antispam">Lista de bloqueo</string>
