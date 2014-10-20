@@ -401,9 +401,6 @@
   <string name="pref_data_preload_dialogtitle">Precargar resultados de la búsqueda</string>
   <string name="pref_data_preload_summary">: Permitir al navegador precargar resultados de búsqueda de alta confianza en segundo plano</string>
   <string name="pref_data_preload_title">Resultados de búsqueda precargando</string>
-  <string name="pref_data_preload_value_always">SIEMPRE</string>
-  <string name="pref_data_preload_value_never">NUNCA</string>
-  <string name="pref_data_preload_value_wifi_only">SOLO_WIFI</string>
   <string name="pref_data_title">Gestión de ancho de banda</string>
   <string name="pref_default_text_encoding">Codificación de texto</string>
   <string name="pref_default_text_encoding_default">UTF-8</string>
@@ -449,11 +446,8 @@
   <string name="pref_images_preload_dialogtitle">Precargar imágenes</string>
   <string name="pref_images_preload_summary">Permitir al navegador la precarga de imágenes si el servidor lo permite</string>
   <string name="pref_images_preload_title">Precargar imágenes</string>
-  <string name="pref_images_preload_value_always">2</string>
   <string name="pref_images_preload_value_always_summary">Siempre permitir al navegador la precarga de imágenes</string>
-  <string name="pref_images_preload_value_never">0</string>
   <string name="pref_images_preload_value_never_summary">Nunca precargar imágenes</string>
-  <string name="pref_images_preload_value_wifi_only">1</string>
   <string name="pref_images_preload_value_wifi_only_summary">Permitir navegador precargar imágenes cuando se conecta a la WLAN</string>
   <string name="pref_inverted">Renderización invertida</string>
   <string name="pref_inverted_category">Renderización de pantalla invertida</string>
@@ -464,8 +458,6 @@
   <string name="pref_link_prefetch_dialogtitle">Precargar páginas web</string>
   <string name="pref_link_prefetch_summary">: Permitir el navegador precargar las páginas Web enlazadas</string>
   <string name="pref_link_prefetch_title">Precargar páginas web</string>
-  <string name="pref_link_prefetch_value_always">SIEMPRE</string>
-  <string name="pref_link_prefetch_value_never">NUNCA</string>
   <string name="pref_link_prefetch_value_never_summary">Nunca precargar paginas web enlazadas</string>
   <string name="pref_link_prefetch_value_wifi_only">SOLO_WIFI</string>
   <string name="pref_min_font_size">Tamaño mínimo de letra</string>
@@ -520,9 +512,6 @@
   <string name="pref_video_preload_dialogtitle">Precargando el video</string>
   <string name="pref_video_preload_summary">: Permitir al navegador la precarga de videos si el servidor lo permite</string>
   <string name="pref_video_preload_title">Precarga de videos</string>
-  <string name="pref_video_preload_value_always">SIEMPRE</string>
-  <string name="pref_video_preload_value_never">NUNCA</string>
-  <string name="pref_video_preload_value_wifi_only">SOLO_WIFI</string>
   <string name="pref_volume_key_action">Botones de volumen: página anterior/siguiente</string>
   <string name="pref_volume_key_enabled">Botones de volumen</string>
   <string name="pref_volume_key_operation">Funciones de los botones volumen</string>
@@ -700,14 +689,7 @@
   <string name="webapp_add_to_desktop">¿Añadir esta aplicación a tu pantalla de inicio?</string>
   <string name="webapp_add_to_favorite_toast">Agregado a favoritos</string>
   <string name="webapp_addtodeskpop_append">Añadido</string>
-  <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
-  <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
-  <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
-  <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
-  <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
-  <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
   <string name="webapp_app_name">Tienda de pequeñas aplicaciones web</string>
-  <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
   <string name="webapp_dialog_title">Añadir aplicación a la pantalla de inicio</string>
   <string name="webapp_menu_addtodesk">Añadir a la pantalla de inicio</string>
   <string name="webapp_menu_already_addtodesk">Añadido a la pantalla de inicio</string>
@@ -716,7 +698,6 @@
   <string name="webapp_menu_nightmode">Modo noche</string>
   <string name="webapp_menu_settings">Ajustes</string>
   <string name="webapp_menu_share">Compartir</string>
-  <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
   <string name="webapp_settings_title">Ajustes</string>
   <string name="webapp_webapp_favortes_title">Favoritos</string>
   <string name="webpage_bookmark_title">Marcador</string>
