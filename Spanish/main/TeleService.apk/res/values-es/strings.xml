@@ -221,8 +221,6 @@
   <string name="dial_emergency_error">Llamada no enviada. ¡%s no es un número de emergencia!</string>
   <string name="dial_pad_autocomplete">Autocompletar marcación</string>
   <string name="dial_related_setting_catory">Marcar</string>
-  <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
-  <string name="dialer_default_package">com.android.contacts</string>
   <string name="dialog_network_priority_title">Prioridad</string>
   <string name="disable">Desactivar</string>
   <string name="disable_all_cf">Desactivar todas las funciones de desvío de llamada</string>
@@ -345,10 +343,6 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="ims_menu_save">Guardar</string>
   <string name="ims_service_capability">Habilitar/Deshabilitar el servicio IMS</string>
   <string name="ims_service_capability_title">Habilitar/Deshabilitar el servicio IMS</string>
-  <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
-  <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
-  <string name="incall_default_package">com.android.incallui</string>
-  <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
   <string name="incall_error_call_failed">Llamada no enviada.</string>
   <string name="incall_error_emergency_only">No registrado en la red.</string>
   <string name="incall_error_no_phone_number_supplied">Llamada no enviada, se introdujo un número no válido.</string>
