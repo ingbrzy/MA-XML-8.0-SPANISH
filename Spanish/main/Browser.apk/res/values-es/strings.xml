@@ -503,8 +503,6 @@
   <string name="pref_set_homepage_to">Establecer</string>
   <string name="pref_setting_title">Configuración de página</string>
   <string name="pref_text_zoom">Escalado del texto</string>
-  <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">Cadena de agente de usuario</string>
   <string name="pref_ua_title">Gestor de agentes de usuario</string>
   <string name="pref_version_summary">Versión: %s</string>
@@ -730,4 +728,10 @@
   <string name="webview_today">Hoy</string>
   <string name="webview_yesterday">Ayer</string>
   <string name="week_picker_dialog_title">Establecer semana</string>
+  <string name="block_ads_choice_block">Bloquear</string>
+  <string name="block_ads_choice_continue">Continuar</string>
+  <string name="block_ads_message">¿Quiere bloquear la publicidad de esta web?</string>
+  <string name="block_ads_title">El contenido puede contener publicidad</string>
+  <string name="bookmark_url_already_exisit">"Esta URL ya está marcada"</string>
+  <string name="quicklink_bookmark_save">Guardar en</string>
 </resources>

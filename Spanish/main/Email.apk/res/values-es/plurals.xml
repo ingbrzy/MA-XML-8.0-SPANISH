@@ -10,8 +10,8 @@
     <item quantity="one">¿Archivar esta conversación?</item>
   </plurals>
   <plurals name="confirm_delete_conversation">
-    <item quantity="other">Desea eliminar estas %1$d conversaciones?</item>
-    <item quantity="one">¿Desea eliminar esta conversación?</item>
+    <item quantity="other">¿Borrar estas %1$d conversaciones?</item>
+    <item quantity="one">¿Borrar esta conversación?</item>
   </plurals>
   <plurals name="confirm_delete_conversation_with_sub">
     <item quantity="other">Estas conversaciones contienen elementos combinados. ¿eliminarlos de todos modos?</item>
@@ -19,7 +19,7 @@
   </plurals>
   <plurals name="confirm_discard_drafts_conversation">
     <item quantity="other">¿Descartar los borradores de estas %1$d conversaciones?</item>
-    <item quantity="one">Descartar los borradores de esta conversación?</item>
+    <item quantity="one">¿Descartar el borrador de esta conversación?</item>
   </plurals>
   <plurals name="contact_num_selected">
     <item quantity="other">%d seleccionados</item>
