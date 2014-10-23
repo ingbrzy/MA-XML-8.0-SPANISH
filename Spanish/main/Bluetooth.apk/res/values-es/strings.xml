@@ -13,6 +13,7 @@
   <string name="bt_enable_line1">Para utilizar los servicios de Bluetooth, primero debes activar Bluetooth.</string>
   <string name="bt_enable_line2">¿Encender Bluetooth ahora?</string>
   <string name="bt_enable_ok">Encender</string>
+  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">Correcto</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"No hay suficiente espacio en el almacenamiento USB para guardar el archivo \"%1$s\""</string>
@@ -36,6 +37,7 @@
   <string name="download_line1">Desde: \"%1$s\"</string>
   <string name="download_line2">Archivo: %1$s</string>
   <string name="download_line3">Tamaño del archivo: %1$s</string>
+  <string name="download_line4"/>
   <string name="download_line5">Recibiendo archivo…</string>
   <string name="download_ok">Ocultar</string>
   <string name="download_succ_line5">Archivo recibido</string>
@@ -90,6 +92,8 @@
   <string name="permlab_bluetoothShareManager">Accede al gestor de descargas.</string>
   <string name="permlab_bluetoothWhitelist">Acceso a la lista blanca de dispositivos bluetooth.</string>
   <string name="permlab_handoverStatus">Recibir transmisiones BT.</string>
+  <string name="process"/>
+  <string name="sharedUserId"/>
   <string name="start_server">Iniciar servidor TCP</string>
   <string name="status_canceled">Transferencia cancelada por el usuario.</string>
   <string name="status_connection_error">Conexión sin éxito.</string>
@@ -124,8 +128,4 @@
   <string name="upload_succ_line5">Archivo enviado</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Envío de %1$s completado.</string>
-  <string name="bt_enable_title" />
-  <string name="download_line4" />
-  <string name="process" />
-  <string name="sharedUserId" />
 </resources>

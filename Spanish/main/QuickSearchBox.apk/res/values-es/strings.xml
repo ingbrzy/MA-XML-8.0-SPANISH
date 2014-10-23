@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Búsqueda</string>
+  <string name="apps_search_activity"/>
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_shortcuts">Borrar accesos directos</string>
   <string name="clear_shortcuts_agree">Borrar accesos directos</string>
   <string name="clear_shortcuts_disagree">"No borrar accesos directos"</string>
@@ -25,6 +27,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google Search</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="menu_help">Ayuda</string>
   <string name="menu_settings">Ajustes de busqueda</string>
   <string name="remove_from_history">Quiere borrar esta entrada del historial de busqueda?</string>

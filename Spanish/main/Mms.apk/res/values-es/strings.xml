@@ -175,6 +175,7 @@
   <string name="has_invalid_recipient">Destinatarios no válidos: &lt; %1$s &gt;</string>
   <string name="hidden_sender_address">Remitente oculto</string>
   <string name="hint_search_sms">%d mensajes</string>
+  <string name="hms_add_image_progress_message">Procesando…</string>
   <string name="hms_first_use_tips">Para recibir mensajes de servicio, usted necesita estar conectado a una red WLAN</string>
   <string name="importing_progress_private_message">Importar mensajes...</string>
   <string name="in_sms">Mensaje</string>
@@ -190,6 +191,8 @@
   <string name="loading_mms">Cargando…</string>
   <string name="manage_permission_app_label">Permisos del dispositivo</string>
   <string name="me">Yo</string>
+  <string name="menu_add_black">Bloquear este número</string>
+  <string name="menu_add_contact">Añadir a contacto existente</string>
   <string name="menu_call">Llamada</string>
   <string name="menu_compose_new">Componer</string>
   <string name="menu_contact">Contacto</string>
@@ -197,7 +200,9 @@
   <string name="menu_edit">Editar</string>
   <string name="menu_forward">Adelante</string>
   <string name="menu_lock">Bloquear</string>
+  <string name="menu_mark">Marcar</string>
   <string name="menu_more">Más</string>
+  <string name="menu_new_contact">Nuevo contacto</string>
   <string name="menu_new_manual">Introduzca número de teléfono</string>
   <string name="menu_pick_from_contact">Seleccione contactos</string>
   <string name="menu_preferences">Ajustes</string>
@@ -512,6 +517,7 @@
   <string name="user_agreement5">Al presionar OK, usted acepta los términos expuestos en este documento.</string>
   <string name="view">Ver</string>
   <string name="view_bookmark">Ver mensaje original</string>
+  <string name="view_hms_attachment_fail">"No se pudo descargar la imagen"</string>
   <string name="view_hms_details">Detalles</string>
   <string name="view_message_details">Ver detalles</string>
   <string name="wap_push_title">"[WAP Push] "</string>

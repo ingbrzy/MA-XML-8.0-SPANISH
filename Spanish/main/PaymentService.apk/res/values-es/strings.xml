@@ -154,19 +154,21 @@ Por favor contacte con el servicio de atención al cliente de Xiaomi.\"</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
   <string name="lockpattern_need_to_confirm">Dibuje de nuevo su patrón para confirmar:</string>
   <string name="lockpattern_need_to_confirm_wrong">"Los patrones no coinciden. Inténtelo de nuevo:"</string>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Contraseña errónea, le quedan %d intentos más&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong">Contraseña errónea, le quedan %d intentos más</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer" />
   <string name="lockpattern_pattern_confirmed_header">Su nuevo patrón de desbloqueo:</string>
   <string name="lockpattern_pattern_entered_header">Patrón registrado.</string>
   <string name="lockpattern_recording_incorrect_too_short">Conecte al menos %d puntos. Inténtelo de nuevo:</string>
   <string name="lockpattern_recording_inprogress">Retire el dedo al terminar.</string>
   <string name="lockpattern_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
-  <string name="lockpattern_retry_text">&lt;u&gt;Contraseña para restablecer el patrón&lt;/u&gt;</string>
+  <string name="lockpattern_retry_text">Contraseña para restablecer el patrón</string>
   <string name="lockpattern_settings_help_how_to_record">Cómo dibujar un patrón de desbloqueo</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Inténtelo de nuevo en %d segundos.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;¡Demasiados intentos fallidos!&lt;/font&gt;</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Siguiente</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Olvidó la clave del patrón&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text">Olvidó la clave del patrón</string>
   <string name="login">Iniciar sesión</string>
   <string name="memu_refresh">Actualizar</string>
   <string name="mibi_license_message">"Vd. va a usar Credito Mi, que es un servicio proporcionado por Xiaomi Inc. Antes de que pueda usar este servicio, debe Vd. aceptar los Términos del Acuerdo de Servicio declarados en %1$s. Toque Ok si está Vd. de acuerdo con los términos y condiciones descritos en el %1$s. Necesita Vd. una conexión de Internete para usar Crédito Mi."</string>
@@ -180,7 +182,7 @@ Por favor contacte con el servicio de atención al cliente de Xiaomi.\"</string>
   <string name="msg_order_hint_1_1">Después de que toque Confirmar compra, su teléfono</string>
   <string name="msg_order_hint_1_2">contactará automáticamente con su proveedor de servicios.</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">Recargar vía mensaje de texto puede ser más caro: &lt;font color=red&gt;￥%1$d = %2$d Crédito Mi&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">Recargar vía mensaje de texto puede ser más caro: ￥%1$d = %2$d Créditos Mi</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">El operador cobra una tarifa de ￥%1$s por recargar</string>
   <string name="msg_picker_hint_3_1">3.</string>

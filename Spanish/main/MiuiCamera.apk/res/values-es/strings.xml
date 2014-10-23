@@ -15,6 +15,7 @@
   <string name="accessibility_more_ptions_closed">Opciones avanzadas deshabilitadas</string>
   <string name="accessibility_more_ptions_opened">Opciones avanzadas habilitadas</string>
   <string name="accessibility_open_more_ptions">Habilitar opciones avanzadas</string>
+  <string name="accessibility_panorama_review_cancel">Cancelar</string>
   <string name="accessibility_review_thumbnail">Foto más reciente</string>
   <string name="accessibility_scroll_button_slider">Cámara-Video-intercambiador</string>
   <string name="accessibility_setting_button">Botón opciones</string>
@@ -29,6 +30,7 @@
   <string name="app_details">Detalles de la aplicación:</string>
   <string name="auto">Automático</string>
   <string name="bg_replacement_message">\"Coloque el dispositivo sobre una superficie estable y retírese del encuadre por un momento\"</string>
+  <string name="burst_shoot_exit_button_text">Cerrar disparo en Ráfaga</string>
   <string name="camera_disabled">La cámara ha sido desactivada</string>
   <string name="camera_error_title">Error de cámara</string>
   <string name="camera_face_beauty_simple_mode_close">i:0</string>
@@ -47,6 +49,7 @@
   <string name="confirm_change_to_expert_mode_message">¿Cambiar al modo avanzado?</string>
   <string name="confirm_change_to_simple_mode_message">¿Cambiar al modo sencillo?</string>
   <string name="confirm_location_message">¿Etiquetar tus fotos y vídeos con las localizaciones dónde fueron tomados?</string>
+  <string name="confirm_location_title">Guardar localización</string>
   <string name="confirm_restore_message">"¿Restaurar la configuración por defecto de la cámara?"</string>
   <string name="confirm_restore_title">Restaurar valores predeterminados</string>
   <string name="connect_wifi">Conectar a esta red</string>
@@ -190,6 +193,7 @@
   <string name="pref_advanced_settings">Avanzado</string>
   <string name="pref_audio_indicator_entry_off">Desactivar audio</string>
   <string name="pref_audio_indicator_entry_on">Activar audio</string>
+  <string name="pref_burst_shoot_title">Disparo en Ráfaga</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Ajustes de la cámara</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
@@ -208,6 +212,7 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Promedio de marco</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medición de puntos</string>
   <string name="pref_camera_autoexposure_title">Ajustes de exposición automática</string>
+  <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Amanecer</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Otoño</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Ojo de pez</string>
@@ -217,8 +222,11 @@
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
+  <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_planet">Miniatura</string>
+  <string name="pref_camera_coloreffect_entry_posterize"/>
+  <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_entry_seventy">años 70</string>
   <string name="pref_camera_coloreffect_entry_sketch">Dibujo</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vivid</string>
@@ -227,6 +235,7 @@
   <string name="pref_camera_coloreffect_title">Filtros</string>
   <string name="pref_camera_contrast_title">Contraste</string>
   <string name="pref_camera_countdown_title">Cuenta regresiva</string>
+  <string name="pref_camera_current_k_value">Valor actual</string>
   <string name="pref_camera_default_suffix">(Por defecto)</string>
   <string name="pref_camera_denoise_title">Modo de reducción de ruido de onda</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
@@ -399,6 +408,9 @@
   <string name="pref_capture_settings">Cámara</string>
   <string name="pref_exposure_title">Exposición</string>
   <string name="pref_face_beauty_title">Tonos de piel</string>
+  <string name="pref_front_mirror_entry_auto">Automático</string>
+  <string name="pref_front_mirror_entry_off">Apagado</string>
+  <string name="pref_front_mirror_entry_on">Encendido</string>
   <string name="pref_front_mirror_title">Espejar cámara frontal</string>
   <string name="pref_grp_advanced_settings">Ajustes avanzados</string>
   <string name="pref_grp_capture_settings">Configuración de captura</string>
