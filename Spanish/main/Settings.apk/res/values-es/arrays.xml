@@ -407,6 +407,14 @@
     <item>Al menos 3 procesos</item>
     <item>Al menos 4 procesos</item>
   </string-array>
+  <string-array name="vpn_types_long">
+    <item>PPTP VPN</item>
+    <item>L2TP/IPSec VPN con claves pre-compartidas</item>
+    <item>L2TP/IPSec VPN con certificados</item>
+    <item>IPSec VPN con claves pre-compartidas y autentificación Xauth</item>
+    <item>IPSec VPN con certificados y autentificación Xauth</item>
+    <item>IPSec VPN con certificados y autentificación híbrida</item>
+  </string-array>
   <string-array name="vpn_states">
     <item>Desconectado</item>
     <item>Inicializando&#8230;</item>
@@ -421,6 +429,11 @@
     <item>Neanderthal</item>
     <item>Chimpancé</item>
     <item>Mono</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item>Preguntar</item>
+    <item>Nunca permitir</item>
+    <item>Siempre permitir</item>
   </string-array>
   <string-array name="ram_states">
     <item>normal</item>
@@ -458,13 +471,14 @@
     <item>8 segundos</item>
     <item>9 segundos</item>
   </string-array>
-  <string-array name="mi1_led_color_entries">
-    <item>Azul</item>
-    <item>Rojo</item>
-    <item>Verde</item>
-    <item>Rosa</item>
-    <item>Violeta</item>
-    <item>Lila</item>
+  <string-array name="led_color_values">
+    <item>blue</item>
+    <item>red</item>
+    <item>yellow</item>
+    <item>green</item>
+    <item>cyan</item>
+    <item>white</item>
+    <item>\#FFAA00AA</item>
   </string-array>
   <string-array name="led_color_entries">
     <item>Azul</item>
@@ -474,6 +488,16 @@
     <item>Cyan</item>
     <item>Blanco</item>
     <item>Violeta</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Ninguno</item>
+    <item>720x480 mdpi</item>
+    <item>720x480 mdpi (seguro)</item>
+    <item>1280x720 tvdpi</item>
+    <item>1280x720 tvdpi (seguro)</item>
+    <item>1920x1080 xhdpi</item>
+    <item>1920x1080 xhdpi (seguro)</item>
+    <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
   </string-array>
   <string-array name="screen_key_press_action">
     <item>Mostrar bandeja de aplicaciones recientes</item>

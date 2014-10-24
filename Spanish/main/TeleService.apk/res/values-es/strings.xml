@@ -82,7 +82,7 @@
   <string name="bf_news_settings">Noticias financieras y negocios</string>
   <string name="call_barring_sum">Ajustes de restricción de llamadas de voz</string>
   <string name="call_description_recording">Grabando llamada</string>
-  <string name="call_forwarding_number_hint">Introduzca el número al que reenviar las llamadas entrantes</string>
+  <string name="call_forwarding_number_hint">Introduzca el número al que desviar las llamadas entrantes</string>
   <string name="call_forwarding_settings">Ajustes de desvío de llamadas</string>
   <string name="call_record_add_numbers">Añadir números</string>
   <string name="call_record_auto_always">Todos los números</string>
@@ -131,7 +131,7 @@
   <string name="card_title_callonhold_released">Llamada liberada</string>
   <string name="card_title_callretrieved">Llamada recuperada</string>
   <string name="card_title_clir_suppression_rejected">Supresión de CLIR rechazada</string>
-  <string name="card_title_conditionalCF">Reenvío  condicional de llamadas habilitado</string>
+  <string name="card_title_conditionalCF">Desvío  condicional de llamadas habilitado</string>
   <string name="card_title_cugcall">Llamada CUG</string>
   <string name="card_title_deflectedcall">Llamada desviada</string>
   <string name="card_title_forwardcheckreceived">Chequeo de desvío recibido</string>
@@ -139,7 +139,9 @@
   <string name="card_title_incoming_barred">Llamdas entrantes restringidas</string>
   <string name="card_title_multipartycall">Llamada a tres</string>
   <string name="card_title_outgoing_barred">Llamadas salientes restringidas</string>
-  <string name="card_title_unconditionalCF">Reenvío incondicional de llamadas habilitado</string>
+  <string name="card_title_unconditionalCF">Desvío incondicional de llamadas habilitado</string>
+  <string name="carrier_settings"/>
+  <string name="carrier_settings_menu"/>
   <string name="cb_sms_settings">Ajustes de difusión móvil de SMS</string>
   <string name="cdma_activate_device">Activar dispositivo</string>
   <string name="cdma_display_precise_call_state_message">"Si su proveedor de red no soporta esta función, el estado de la llamada puede ser inexacto."</string>
@@ -158,6 +160,7 @@
   <string name="cell_broadcast_sms">Difusión en célula SMS</string>
   <string name="cfb_title">Desvío si ocupado</string>
   <string name="cfnrc_title">Desvío si fuera de cobertura</string>
+  <string name="cfnrc_title_cta">Desvío si fuera de cobertura</string>
   <string name="cfnry_title">Desvío si no responde</string>
   <string name="cfu_title">Desvío incondicional</string>
   <string name="change_num">Actualizar</string>
@@ -171,6 +174,7 @@
   <string name="close_profile">Cerrar</string>
   <string name="cloud_antispam_title">Identificar números desconocidos</string>
   <string name="command_error_fdn_failure">Necesita apagar la FDN antes</string>
+  <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirm_password_label">Confirmar nueva contraseña</string>
   <string name="confirm_pin2_label">Confirmar nuevo PIN2</string>
   <string name="confirm_pin_label">Confirmar nuevo PIN</string>
@@ -444,6 +448,8 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="msim_not_set_summary">Sin ajustes</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Marcar</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="msim_set_icc_card_error">Error de tarjet ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Durante una llamada,  no se puede establecer</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Error de tarjeta SIM,  inténtelo de nuevo más tarde</string>
   <string name="msim_setting_categery_title">Información de tarjeta SIM</string>
@@ -453,6 +459,7 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="msim_setting_sim_info_editor_title">Modificar información de tarjeta</string>
   <string name="msim_sim_lock">Bloqueada</string>
   <string name="msim_sim_radio_off">Deshabilitado</string>
+  <string name="msim_switch_data_conn_toast">Los ajustes de red se han cambiado a red 4g preferida. Puede cambiar esto en los ajustes de la SIM.</string>
   <string name="multi_category_disable">Categoría múltiple deshabilitada</string>
   <string name="multi_category_enable">Categoría múltiple deshabilitada</string>
   <string name="name">Nombre</string>
@@ -595,7 +602,8 @@ El teléfono se bloqueará automáticamente después de otro intento fallido\"</
   <string name="preferred_network_mode_title">Tipo de red preferida</string>
   <string name="preferred_network_type_3g_only_warning">"No podrá conectarse a la red si su tarjeta SIM no tiene activada la función 3G."</string>
   <string name="preferred_network_type_cdma">CDMA</string>
-  <string name="preferred_network_type_pref_entries_3g_preferred">Redes 3G preferiblemente</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred">Red 3G preferiblemente</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Red 3G(CDMA) preferiblemente</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Redes 4G preferiblemente</string>
   <string name="preferred_network_type_pref_entries_auto">Automatico</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>

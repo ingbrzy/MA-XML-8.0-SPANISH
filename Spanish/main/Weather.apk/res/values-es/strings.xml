@@ -3,8 +3,8 @@
   <string name="act_aqi_src_port">"%1$s %2$s %3$s"</string>
   <string name="act_find_city_hint">Introduzca la ubicación</string>
   <string name="act_find_city_hot_title">Agregar</string>
-  <string name="act_set_city_find_side">Localizando...</string>
-  <string name="act_set_city_find_side_error">"No se puede localizar el dispositivo"</string>
+  <string name="act_set_city_find_side">Ubicando...</string>
+  <string name="act_set_city_find_side_error">"No se puede ubicar el dispositivo"</string>
   <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_find_city_added">Agregado</string>
   <string name="act_weather_find_city_click_retry">Reintentar</string>
@@ -21,7 +21,8 @@
   <string name="activity_main_update_time">Actualizado %1$s</string>
   <string name="activity_main_update_time_right_now">Ahora</string>
   <string name="activity_weather_main_null_data">- -</string>
-  <string name="activity_weathermain_locationg">Localizando</string>
+  <string name="activity_weathermain_locationg">Ubicando</string>
+  <string name="activity_weathermain_locationg_error">"No se pudo ubicar"</string>
   <string name="add_city">Añadir</string>
   <string name="app_label">Proveedor del tiempo</string>
   <string name="app_name">Tiempo</string>
