@@ -35,7 +35,7 @@
   <string name="err_type_signal">Problemas de red</string>
   <string name="err_type_suggestion">Sugerencias</string>
   <string name="err_type_systemapp">Aplicaciones MIUI</string>
-  <string name="err_type_wifi">WLAN</string>
+  <string name="err_type_wifi">WiFi</string>
   <string name="hot_problem">Ver errores comunes</string>
   <string name="hot_problem_empty">Vacío</string>
   <string name="loading_apps">Creando lista…</string>
@@ -72,19 +72,19 @@
   <string name="title_hot_problem">Errores comunes</string>
   <string name="toast_description_required">Debe escribir una descripción</string>
   <string name="toast_feedback_network_unavailable">"No se puede conectar a la Red"</string>
-  <string name="toast_feedback_pending_wlan">"El mensaje se enviará cuando estés conectado a una red WLAN"</string>
+  <string name="toast_feedback_pending_wlan">"El mensaje se enviará cuando estés conectado a una red WiFi"</string>
   <string name="toast_feedback_submitted">Se ha enviado el informe</string>
   <string name="toast_feedbackservice_in_submit">Enviar comentarios anteriores…</string>
   <string name="toast_pending_log_collection">Sigo recibiendo registros…</string>
   <string name="toast_report_copied_to_clipboard">Informe copiado en el portapapeles</string>
   <string name="toast_report_sent_failed">"No se puede enviar el informe"</string>
   <string name="toast_report_sent_succeed">Se ha enviado el informe</string>
-  <string name="wifi_problem1">"No se puede conectar automáticamente a una WLAN segura"</string>
-  <string name="wifi_problem2">La señal WLAN es débil</string>
-  <string name="wifi_problem3">La señal WLAN se desconecta inesperadamente</string>
+  <string name="wifi_problem1">"No se puede conectar automáticamente a una WiFi segura"</string>
+  <string name="wifi_problem2">La señal WiFi es débil</string>
+  <string name="wifi_problem3">La señal WiFi se desconecta inesperadamente</string>
   <string name="wifi_problem4">"No se puede conectar a la red"</string>
   <string name="wlan_unavailable_dialog_button_ok">Espera</string>
   <string name="wlan_unavailable_dialog_button_sent">Enviar</string>
-  <string name="wlan_unavailable_dialog_content">Enviar este informe usará %s de tus datos móviles. Puedes enviarlo ahora o esperar a estar conectado a una conexión WLAN.</string>
+  <string name="wlan_unavailable_dialog_content">Enviar este informe usará %s de tus datos móviles. Puedes enviarlo ahora o esperar a estar conectado a una conexión WiFi.</string>
   <string name="wlan_unavailable_dialog_title">Uso de datos</string>
 </resources>

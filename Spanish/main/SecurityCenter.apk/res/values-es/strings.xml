@@ -371,11 +371,11 @@
   <string name="power_chooser_check_box_title">Aplicar perfil</string>
   <string name="power_chooser_mine_summary">Añadir perfil</string>
   <string name="power_chooser_mine_title">Personalizar</string>
-  <string name="power_chooser_sleep_summary">Desactivar todas las funciones de red (llamadas, SMS, WLAN, y servicios de datos) exceptuando la alarma del reloj</string>
+  <string name="power_chooser_sleep_summary">Desactivar todas las funciones de red (llamadas, SMS, WiFi, y servicios de datos) exceptuando la alarma del reloj</string>
   <string name="power_chooser_sleep_title">Dormir</string>
   <string name="power_chooser_smart_summary">Cerrar todos los procesos en segundo plano de la pantalla de bloqueo</string>
   <string name="power_chooser_smart_title">Por defecto</string>
-  <string name="power_chooser_standby_summary">Desactivar WLAN y servicios de datos</string>
+  <string name="power_chooser_standby_summary">Desactivar WiFi y servicios de datos</string>
   <string name="power_chooser_standby_title">Maratón</string>
   <string name="power_chooser_title">Perfiles de Batería</string>
   <string name="power_chooser_user_define_summary">Añadir perfil</string>
@@ -545,7 +545,7 @@
   <string name="summary_permission">Proteger mi privacidad de aplicaciones de terceras partes potencialmente m aliciosas</string>
   <string name="summary_usb">Evitar la propagación de virus desde otros dispositivos</string>
   <string name="summary_virus">Encontrados %2$d virus</string>
-  <string name="summary_virus_update">Actualizar definición de virus automáticamente cuando se esté conectado a WLAN</string>
+  <string name="summary_virus_update">Actualizar definición de virus automáticamente cuando se esté conectado a WiFi</string>
   <string name="system_check_content">%1$d elementos sospechosos</string>
   <string name="system_header_title">Borrar %1$d procesos para liberar %2$s de memoria</string>
   <string name="text_antivirus">Usar definiciones de virus en línea</string>
@@ -595,7 +595,7 @@
   <string name="usage_type_cpu_foreground">CPU en primer plano</string>
   <string name="usage_type_data_recv">Recibidos datos móviles</string>
   <string name="usage_type_data_send">Enviados datos móviles</string>
-  <string name="usage_type_data_wifi_recv">Recibidos datos Wi-Fi</string>
+  <string name="usage_type_data_wifi_recv">Recibidos datos WiFi</string>
   <string name="usage_type_data_wifi_send">Enviados datos Wi‑Fi</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Tiempo sin señal</string>

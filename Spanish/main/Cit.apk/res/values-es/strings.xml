@@ -215,7 +215,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
   <string name="cit_tool_nfc_st_run">Ejecutar</string>
   <string name="cit_tool_nfc_st_stop">Parar</string>
-  <string name="cit_tool_wifi">Herramienta de prueba de WLAN</string>
+  <string name="cit_tool_wifi">Herramienta de prueba de WiFi</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1 + 2</string>
   <string name="cit_tool_wifi_chain_2">2</string>
@@ -274,11 +274,11 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_vibrator_play_touch_pattern">Vibración</string>
   <string name="cit_vibrator_short">Vibración corta</string>
   <string name="cit_vibrator_show_advanced">Mostrar opciones avanzadas</string>
-  <string name="cit_wifi_address_check_summary">Abajo se muestra la dirección de la red WLAN a la que el teléfono está conectado actualmente. Confirme que es correcta la información resaltada en verde.</string>
-  <string name="cit_wifi_address_check_title">Dirección WLAN</string>
-  <string name="cit_wifi_address_error">"No pudo recibir una dirección WLAN. Asegúrese de que está activada la WLAN."</string>
-  <string name="cit_wifi_ap_scan_check_summary">Abajo se encuentra la información de los dispositivos en el área que se detectaron la AP WLAN. Confirmar que es correcta la información resaltada en verde.</string>
-  <string name="cit_wifi_ap_scan_check_title">WLAN AP Scan</string>
+  <string name="cit_wifi_address_check_summary">Abajo se muestra la dirección de la red WiFi a la que el teléfono está conectado actualmente. Confirme que es correcta la información resaltada en verde.</string>
+  <string name="cit_wifi_address_check_title">Dirección WiFi</string>
+  <string name="cit_wifi_address_error">"No pudo recibir una dirección WiFi. Asegúrese de que está activada la WiFi."</string>
+  <string name="cit_wifi_ap_scan_check_summary">Abajo se encuentra la información de los dispositivos en el área que se detectaron la AP WiFi. Confirmar que es correcta la información resaltada en verde.</string>
+  <string name="cit_wifi_ap_scan_check_title">WiFi AP Scan</string>
   <string name="cit_wifi_ap_scan_retry">Escaneando otra vez...</string>
   <string name="cit_wifi_ap_scanning">Escaneando…</string>
   <string name="cit_wifi_fail_to_scan">"No se podía buscar redes"</string>

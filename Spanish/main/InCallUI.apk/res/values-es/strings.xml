@@ -342,8 +342,8 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="no_vm_number">Falta el número del buzón de voz</string>
   <string name="no_vm_number_msg">Ningún número de buzón de voz almacenado en la tarjeta SIM.</string>
   <string name="no_voip">Llamadas por Internet no soportadas</string>
-  <string name="no_wifi_available">Necesita estar conectado a una red WLAN para llamadas por Internet (use la configuración de conexiones WiFi y Redes).</string>
-  <string name="no_wifi_available_title">Ninguna conexión WLAN</string>
+  <string name="no_wifi_available">Necesita estar conectado a una red WiFi para llamadas por Internet (use la configuración de conexiones WiFi y Redes).</string>
+  <string name="no_wifi_available_title">Ninguna conexión WiFi</string>
   <string name="non_ivr_menu_collapse_menu">Contraer menú</string>
   <string name="non_ivr_menu_view_menu">Ver menú</string>
   <string name="not_a_valid_port">El número de puerto debe estar dentro de 1000 y 65534.</string>
@@ -415,7 +415,7 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="ota_listen">Siga las instrucciones habladas hasta que oiga que la activación está completa.</string>
   <string name="ota_next">Siguiente</string>
   <string name="ota_progress">Espere mientras se programa el teléfono.</string>
-  <string name="ota_skip_activation_dialog_message">"Si usted omite la activación, no podrá hacer llamadas o conectarse a redes móviles de datos (aunque se puede conectar a redes WLAN). Hasta que active su teléfono, se le pedirá que lo haga cada vez que lo encienda."</string>
+  <string name="ota_skip_activation_dialog_message">"Si usted omite la activación, no podrá hacer llamadas o conectarse a redes móviles de datos (aunque se puede conectar a redes WiFi). Hasta que active su teléfono, se le pedirá que lo haga cada vez que lo encienda."</string>
   <string name="ota_skip_activation_dialog_skip_label">Omitir</string>
   <string name="ota_skip_activation_dialog_title">¿Omitir la activación?</string>
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
@@ -494,7 +494,7 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="registration_status_failed_try_later">Registro de cuenta fallido: (%s); Intentará más tarde</string>
   <string name="registration_status_invalid_credentials">Registro de cuenta  fallido: Nombre de usuario o contraseña incorrectos.</string>
   <string name="registration_status_no_data">El registro de la cuenta se detuvo porque no hay conexión a Internet.</string>
-  <string name="registration_status_no_wifi_data">El registro de la cuenta se detuvo porque no hay conexión WLAN.</string>
+  <string name="registration_status_no_wifi_data">El registro de la cuenta se detuvo porque no hay conexión WiFi.</string>
   <string name="registration_status_not_receiving">No se reciben llamadas.</string>
   <string name="registration_status_not_running">Registro de la cuenta fallido.</string>
   <string name="registration_status_registering">Registrando…</string>
@@ -559,7 +559,7 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="sip_call_options_entry_3">Preguntar para cada llamada</string>
   <string name="sip_call_options_title">Usar llamadas por Internet</string>
   <string name="sip_call_options_wifi_only_entry_1">Para todas las llamadas</string>
-  <string name="sip_call_options_wifi_only_title">Usar llamadas por Internet (WLAN sólo)</string>
+  <string name="sip_call_options_wifi_only_title">Usar llamadas por Internet (WiFi sólo)</string>
   <string name="sip_edit_new_title">Detalles de la cuenta SIP</string>
   <string name="sip_edit_title">Detalles de la cuenta SIP</string>
   <string name="sip_menu_add">Añadir</string>

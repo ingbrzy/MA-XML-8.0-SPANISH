@@ -32,7 +32,7 @@
   <string name="account_set_up_notice">A pocos pasos, puede configurar una cuenta de correo electrónico para la mayoría de</string>
   <string name="account_settings_action">Configuración de la cuenta</string>
   <string name="account_settings_background_attachments_label">Descargar datos adjuntos</string>
-  <string name="account_settings_background_attachments_summary">Auto-descargar datos adjuntos de los mensajes recientes si se encuentra conectado a una red WLAN</string>
+  <string name="account_settings_background_attachments_summary">Auto-descargar datos adjuntos de los mensajes recientes si se encuentra conectado a una red WiFi</string>
   <string name="account_settings_data_usage">Uso de datos</string>
   <string name="account_settings_description_label">Nombre de la cuenta</string>
   <string name="account_settings_edit_quick_responses_label">Respuestas rápidas</string>
@@ -136,7 +136,7 @@
   <string name="account_setup_names_user_name_empty_error">"Este campo no puede estar en blanco."</string>
   <string name="account_setup_names_user_name_label">Tu nombre (aparece en los mensajes salientes)</string>
   <string name="account_setup_need_password_verification">Su cuenta ha sido abierta con una contraseña secundaria de autenticación, es necesario volver a autenticarse</string>
-  <string name="account_setup_options_background_attachments_label">Descargar automáticamente los datos adjuntos cuando se conecta a una red WLAN</string>
+  <string name="account_setup_options_background_attachments_label">Descargar automáticamente los datos adjuntos cuando se conecta a una red WiFi</string>
   <string name="account_setup_options_headline">Opciones de cuenta</string>
   <string name="account_setup_options_mail_check_frequency_10min">Cada 10 minutos</string>
   <string name="account_setup_options_mail_check_frequency_15min">Cada 15 minutos</string>
@@ -510,8 +510,8 @@
   <string name="menu_search">Buscar</string>
   <string name="menu_settings">Ajustes</string>
   <string name="menu_show_original">Revertir tamaño automático</string>
-  <string name="message_body_auto_download_complete">Descargar automáticamente el correo al usar WLAN</string>
-  <string name="message_body_auto_download_tip">"Actualmente estás usando WLAN. Se descargará automáticamente correo electrónico"</string>
+  <string name="message_body_auto_download_complete">Descargar automáticamente el correo al usar WiFi</string>
+  <string name="message_body_auto_download_tip">"Actualmente estás usando WiFi. Se descargará automáticamente correo electrónico"</string>
   <string name="message_body_download_failed">Tiempo de espera cuando se descarga el correo electrónico</string>
   <string name="message_compose_fwd_header_fmt">\"
 
@@ -557,7 +557,7 @@ CC: %4$s
   <string name="no_conversations">No hay mensajes</string>
   <string name="no_mails">Vacío</string>
   <string name="no_matched_attachment">Nada coincide con su búsqueda</string>
-  <string name="no_wifi_promot">No WLAN se utiliza ahora, por favor, mantener un ojo en el flujo de tráfico</string>
+  <string name="no_wifi_promot">No WiFi se utiliza ahora, por favor, mantener un ojo en el flujo de tráfico</string>
   <string name="non_synced_folder_description">Para ver las conversaciones, sincronizar esta carpeta.</string>
   <string name="not_subject">(Sin asunto)</string>
   <string name="not_synced_title">Cuenta no sincronizado</string>
@@ -620,7 +620,7 @@ CC: %4$s
   <string name="policy_dont_allow_text_messaging">"No se permiten mensajes de texto"</string>
   <string name="policy_dont_allow_unsigned_apps">"No se permiten aplicaciones sin firmar"</string>
   <string name="policy_dont_allow_unsigned_installers">"No permitir instaladores de aplicaciones sin firmar"</string>
-  <string name="policy_dont_allow_wifi">"No permitir WLAN"</string>
+  <string name="policy_dont_allow_wifi">"No permitir WiFi"</string>
   <string name="policy_email_age">Limitar el número de mensajes de correo electrónico sincronizados</string>
   <string name="policy_html_truncation">Limitar tamaño de correo electrónico HTML</string>
   <string name="policy_max_attachment_size">Limitar tamaño de archivos adjuntos</string>

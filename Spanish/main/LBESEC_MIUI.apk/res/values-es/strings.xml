@@ -139,7 +139,7 @@ Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, p
   <string name="HIPS_Perm_Network_Recv">Recibir datos</string>
   <string name="HIPS_Perm_Network_Send">enviar datos</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Dirección desconocida</string>
-  <string name="HIPS_Perm_Network_WIFIEvent">utilizando la red WIFI</string>
+  <string name="HIPS_Perm_Network_WIFIEvent">utilizando la red WiFi</string>
   <string name="HIPS_Perm_Notification">Enviar notificaciones</string>
   <string name="HIPS_Perm_Notification_Desc">Enviar notificaciones</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s aplicación(es) tienen permitido enviar notificaciones</string>
@@ -191,12 +191,12 @@ Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, p
   <string name="HIPS_Perm_VideoRecorder">Utilizar la cámara</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">Utilizar la cámara</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s app(s) puede utilizar la cámara</string>
-  <string name="HIPS_Perm_WIFINetwork">Red WIFI</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">Red WIFI</string>
+  <string name="HIPS_Perm_WIFINetwork">Red WiFi</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">Red WiFi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicación(es) tienen permitido acceder a internet a través de la red WiFi</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Activar WIFI</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">activar WIFI</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s app(s) tiene permitido activar WIFI</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Activar WiFi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">activar WiFi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s app(s) tiene permitido activar WiFi</string>
   <string name="HIPS_Perm_Wakelock">Wakelock</string>
   <string name="HIPS_Perm_Wakelock_Desc">Impedir que el sistema vaya a modo sleep</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s app(s) tiene permitido impedir que el sistema vaya a modo sleep</string>

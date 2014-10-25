@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Gestor de descargas</string>
-  <string name="auto_restart_under_wifi">Wi-Fi descargará automáticamente este archivo</string>
+  <string name="auto_restart_under_wifi">WiFi descargará automáticamente este archivo</string>
   <string name="button_cancel_download">Cancelar</string>
   <string name="button_queue_for_wifi">Cola</string>
   <string name="button_start_now">Comenzar ahora</string>
@@ -17,7 +17,7 @@
   <string name="download_unknown_title">&lt;Sin título&gt;</string>
   <string name="notification_download_complete">Descarga completada.</string>
   <string name="notification_download_failed">Descarga fallida.</string>
-  <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere red Wi-Fi.</string>
+  <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere red WiFi.</string>
   <string name="notification_paused_in_background">Pausado en segundo plano.</string>
   <string name="permdesc_accessAllDownloads">Permite a la aplicación ver y modificar todas las descargas iniciadas por cualquier aplicación en el sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Permite a la aplicación descargar archivos en la caché de descarga, que no se pueden eliminar automáticamente cuando el gestor de descargas necesita más espacio."</string>
@@ -34,8 +34,8 @@
   <string name="permlab_downloadWithoutNotification">descargar archivos sin notificación</string>
   <string name="permlab_seeAllExternal">Ver todas las descargas del almacenamiento USB</string>
   <string name="root_downloads">Descargas</string>
-  <string name="wifi_recommended_body" formatted="false">\"Iniciar esta descarga de %s puede resultar en el uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.   Toque %s para iniciar esta descarga la próxima vez que este conectado a una red Wi-Fi.\"</string>
+  <string name="wifi_recommended_body" formatted="false">\"Iniciar esta descarga de %s puede resultar en el uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.   Toque %s para iniciar esta descarga la próxima vez que este conectado a una red WiFi.\"</string>
   <string name="wifi_recommended_title">¿Poner en cola para descargar más tarde?</string>
-  <string name="wifi_required_body" formatted="false">\"Debe usar Wi-Fi para completar esta descarga de %s.   Toque %s para iniciar esta descarga la próxima vez que estás conectado a una red Wi-Fi.\"</string>
+  <string name="wifi_required_body" formatted="false">\"Debe usar WiFi para completar esta descarga de %s.   Toque %s para iniciar esta descarga la próxima vez que estás conectado a una red WiFi.\"</string>
   <string name="wifi_required_title">Descarga demasiado grande para la red del operador</string>
 </resources>

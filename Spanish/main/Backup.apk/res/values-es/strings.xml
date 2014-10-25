@@ -11,7 +11,7 @@
   <string name="auto_backup_choose_empty">No hay copias de seguridad</string>
   <string name="auto_backup_choose_title">Elegir elementos de la copia de seguridad</string>
   <string name="auto_backup_date">Frecuencia de copia de seguridad</string>
-  <string name="auto_backup_only_wifi">Únicamente al conectarse a WLAN</string>
+  <string name="auto_backup_only_wifi">Únicamente al conectarse a WiFi</string>
   <string name="auto_backup_open">Copias de seguridad automáticas</string>
   <string name="auto_backup_progress">Haciendo copia de seguridad...</string>
   <string name="auto_backup_select_user_apps">Elija las aplicaciones</string>
@@ -142,7 +142,7 @@
   <string name="sc_precondition_failed">Tienes que asociar tu cuenta Mi con una dirección válida de correo electrónico</string>
   <string name="sc_request_timeout">Agotado el tiempo de solicitud</string>
   <string name="sc_service_unavailable">Mi Cloud no accesible</string>
-  <string name="sc_unaccess_password_file">"No guardar la contraseña WLAN"</string>
+  <string name="sc_unaccess_password_file">"No guardar la contraseña WiFi"</string>
   <string name="sc_unauthorized">Por favor identifíquese de nuevo</string>
   <string name="sd_not_available">Tarjeta SD no detectada</string>
   <string name="sdcard_no_enough_space">No hay suficiente espacio</string>
@@ -190,6 +190,6 @@
   <string name="unit_byte">"  bytes"</string>
   <string name="unit_piece">"  ítems"</string>
   <string name="unknown_hint">Desconocido</string>
-  <string name="wifi_title">Configuración WLAN</string>
+  <string name="wifi_title">Configuración WiFi</string>
   <string name="xiaomi_account_type">com.Xiaomi</string>
 </resources>

@@ -497,8 +497,8 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="no_voip">Llamadas por Internet no soportadas</string>
   <string name="no_volte">No se pueden hacer llamas IMS</string>
   <string name="no_vt_allowed">Para hacer una llamada de video, encender el modo TTY</string>
-  <string name="no_wifi_available">Necesitas estar conectado a una red WLAN para hacer llamadas por Internet (usar los ajustes de la red Wifi).</string>
-  <string name="no_wifi_available_title">No hay conexión WLAN</string>
+  <string name="no_wifi_available">Necesitas estar conectado a una red WiFi para hacer llamadas por Internet (usar los ajustes de la red WiFi).</string>
+  <string name="no_wifi_available_title">No hay conexión WiFi</string>
   <string name="not_a_valid_port">El número de puerto debe estar entre 1000 y 65534.</string>
   <string name="not_allowed">"Tu tarjeta SIM no permite una conexión a esta red."</string>
   <string name="not_voice_capable">Llamada de voz no soportada</string>
@@ -532,7 +532,7 @@ Puede tardar más de 5 minutos.\"</string>
   <string name="ota_listen">Siga las instrucciones habladas hasta que escuche que la activación esta completada.</string>
   <string name="ota_next">Siguiente</string>
   <string name="ota_progress">Espere mientras su teléfono esta siendo programado. </string>
-  <string name="ota_skip_activation_dialog_message">"Si omite la activación, no podrá realizar llamadas o conectarse a la red de datos móviles (aunque podrá conectarse a redes WLAN). Hasta que no active su teléfono, se le preguntará si activarlo cada vez que lo encienda."</string>
+  <string name="ota_skip_activation_dialog_message">"Si omite la activación, no podrá realizar llamadas o conectarse a la red de datos móviles (aunque podrá conectarse a redes WiFi). Hasta que no active su teléfono, se le preguntará si activarlo cada vez que lo encienda."</string>
   <string name="ota_skip_activation_dialog_skip_label">Omitir</string>
   <string name="ota_skip_activation_dialog_title">¿Omitir activación? </string>
   <string name="ota_spc_failure">EXCESS SPC FALLO</string>
@@ -640,7 +640,7 @@ Su tarjeta SIM será borrada después de otro intento fallido.\"</string>
   <string name="registration_status_failed_try_later">Registro de la cuenta no realizado: (%s); se probará más tarde</string>
   <string name="registration_status_invalid_credentials">Registro de la cuenta no realizado: usuario o contraseña incorrectos. </string>
   <string name="registration_status_no_data">El registro de la cuenta se ha cancelado porque no hay conexión a Internet.</string>
-  <string name="registration_status_no_wifi_data">El registro de la cuenta se ha cancelado porque no hay una conexión WLAN.</string>
+  <string name="registration_status_no_wifi_data">El registro de la cuenta se ha cancelado porque no hay una conexión WiFi.</string>
   <string name="registration_status_not_receiving">No recibiendo llamadas.</string>
   <string name="registration_status_not_running">Registro de la cuenta no realizado.</string>
   <string name="registration_status_registering">Registrando</string>
@@ -738,7 +738,7 @@ Su tarjeta SIM será borrada después de otro intento fallido.\"</string>
   <string name="sip_call_options_entry_3">Preguntarme para cada llamada</string>
   <string name="sip_call_options_title">Usar llamadas por Internet</string>
   <string name="sip_call_options_wifi_only_entry_1">Para todas las llamadas</string>
-  <string name="sip_call_options_wifi_only_title">Usar llamadas por Internet (solo WLAN)</string>
+  <string name="sip_call_options_wifi_only_title">Usar llamadas por Internet (solo WiFi)</string>
   <string name="sip_edit_new_title">Detalles de la cuenta SIP</string>
   <string name="sip_edit_title">Detalles de la cuenta SIP</string>
   <string name="sip_menu_add">Añadir</string>

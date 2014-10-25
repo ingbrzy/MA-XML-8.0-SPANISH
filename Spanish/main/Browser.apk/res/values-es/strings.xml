@@ -326,7 +326,7 @@
   <string name="miuichromium_error_page_reload">Recargar</string>
   <string name="miuichromium_error_page_title">"No se puede encontrar esta página"</string>
   <string name="miuichromium_error_page_url">Ver la página: URL</string>
-  <string name="miuichromium_error_page_wlan">Configuración WLAN</string>
+  <string name="miuichromium_error_page_wlan">Configuración WiFi</string>
   <string name="miuichromium_save_password_message">¿Recordar esta contraseña?</string>
   <string name="miuichromium_save_password_never">Nunca</string>
   <string name="miuichromium_save_password_notnow">Ahora no</string>
@@ -336,9 +336,9 @@
   <string name="move_to_up_folder">Subir un nivel</string>
   <string name="name">Etiqueta</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Conectarse a esta red</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Notificaciones de WLAN</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_title">"Si estás utilizando la conexión de datos móviles, MIUI le notificará cuando exista una red WLAN cercana"</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Abrir red WLAN disponible</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Notificaciones de WiFi</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">"Si estás utilizando la conexión de datos móviles, MIUI le notificará cuando exista una red WiFi cercana"</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Abrir red WiFi disponible</string>
   <string name="new_folder_name_lable">Nombre del grupo</string>
   <string name="new_incognito_tab">Nueva pestaña incógnito</string>
   <string name="new_tab">Nueva ventana</string>
@@ -448,7 +448,7 @@
   <string name="pref_images_preload_title">Precargar imágenes</string>
   <string name="pref_images_preload_value_always_summary">Siempre permitir al navegador la precarga de imágenes</string>
   <string name="pref_images_preload_value_never_summary">Nunca precargar imágenes</string>
-  <string name="pref_images_preload_value_wifi_only_summary">Permitir navegador precargar imágenes cuando se conecta a la WLAN</string>
+  <string name="pref_images_preload_value_wifi_only_summary">Permitir navegador precargar imágenes cuando se conecta a la WiFi</string>
   <string name="pref_inverted">Renderización invertida</string>
   <string name="pref_inverted_category">Renderización de pantalla invertida</string>
   <string name="pref_inverted_contrast">Contraste</string>
@@ -666,7 +666,7 @@
   <string name="url_suggest_indicator_bookmark">Marcadores/historial</string>
   <string name="url_suggest_indicator_hoturl">Popular</string>
   <string name="url_suggest_indicator_mostvisited">Más visitados</string>
-  <string name="use_cellular_network_alert_message">"WLAN no está disponible. ¿Utilizar la red de datos móviles en su lugar?"</string>
+  <string name="use_cellular_network_alert_message">"WiFi no está disponible. ¿Utilizar la red de datos móviles en su lugar?"</string>
   <string name="use_cellular_network_alert_title">Uso de datos</string>
   <string name="user_defined_webpage">Agregar a la página de inicio</string>
   <string name="user_defined_webpage_title">Agregar a la página de inicio</string>
