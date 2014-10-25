@@ -74,13 +74,13 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el
   <string name="micloud_dspt_provision">Usa Mi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con amigos.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_full_influence_dspt">\"Todas tus fotos, vídeos, notas y aplicaciones permanecerán respaldadas en la nube.
+  <string name="micloud_full_influence_dspt">"Todas tus fotos, vídeos, notas y aplicaciones permanecerán respaldadas en la nube.
 
 De esta manera, si pierdes o dañas tu dispositivo, tus datos permanecerán seguros.
 
 Cuando tu nube está llena, tus datos antiguos no irán a ninguna parte. Sin embargo, cualquier contenido que añadas (ej. fotos, vídeos, notas y aplicaciones) no será respaldado.
 
-Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espacio a nuevos o adquirir espacio de almacenamiento adicional.\"</string>
+Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espacio a nuevos o adquirir espacio de almacenamiento adicional."</string>
   <string name="micloud_full_influence_title">Cuando tu Mi Cloud está lleno…</string>
   <string name="micloud_main_data_unsynced">%d elementos a sincronizar</string>
   <string name="micloud_main_last_sync_time">Última sincronización</string>
@@ -95,8 +95,8 @@ Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espaci
   <string name="micloud_sec_dspt">y compartir cosas con amigos.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;¿Qué ocurre cuando me quedo sin espacio?&lt;/u&gt;</string>
   <string name="micloud_storage_usage" formatted="false">Usado %s/Espacio total %s</string>
-  <string name="micloud_title_dspt" formatted="false">\"%s total
- %s usados | %s restantes\"</string>
+  <string name="micloud_title_dspt" formatted="false">"%s total
+ %s usados | %s restantes"</string>
   <string name="micloud_title_dspt_remain">%s restantes</string>
   <string name="micloud_title_full_dspt">"¡Has alcanzado tu límite de almacenamiento!"</string>
   <string name="micloud_unlogin_for_time_summary"/>

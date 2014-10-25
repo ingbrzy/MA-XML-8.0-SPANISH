@@ -2,9 +2,9 @@
 <resources>
   <string name="Parse_error_dlg_text">Hay un problema al buscar el paquete.</string>
   <string name="Parse_error_dlg_title">Error de búsquea</string>
-  <string name="allow_source_dlg_text">\"%1$s quiere instalar otras aplicaciones.
+  <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
 
-¿Permitir ahora y en adelante?\"</string>
+¿Permitir ahora y en adelante?"</string>
   <string name="allow_source_dlg_title">¿Permitir nuevas fuentes para las aplicaciones?</string>
   <string name="app_name">Insalador de Paquetes</string>
   <string name="app_not_found_dlg_text">La aplicación no se encuentra en la lista de aplicaciones instaladas.</string>
@@ -12,16 +12,16 @@
   <string name="auto_startup_dialog_msg">Esta aplicación puede empezar sin su permiso.</string>
   <string name="caller_app">Llamante: %1$s</string>
   <string name="cancel">Cancelar</string>
-  <string name="dlg_app_replacement_statement">\"La aplicación que está instalando reemplazará a otra aplicación.
+  <string name="dlg_app_replacement_statement">"La aplicación que está instalando reemplazará a otra aplicación.
 
-Todos los datos previos del usuario se conservarán.\"</string>
-  <string name="dlg_app_replacement_statement_with_version">\"%1$s (%2$s) reemplazará la versión actualmente instalada (%3$s). Los contenidos del Usuario serán conservados.
-¿Está seguro de que quiere instalarla?\"</string>
+Todos los datos previos del usuario se conservarán."</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) reemplazará la versión actualmente instalada (%3$s). Los contenidos del Usuario serán conservados.
+¿Está seguro de que quiere instalarla?"</string>
   <string name="dlg_app_replacement_title">Reemplazar la aplicación</string>
   <string name="dlg_ok">De acuerdo</string>
-  <string name="dlg_sys_app_replacement_statement">\"Esta es una aplicación de sistema. ¿Seguro que quiere reemplazarla?
+  <string name="dlg_sys_app_replacement_statement">"Esta es una aplicación de sistema. ¿Seguro que quiere reemplazarla?
 
-Todos los datos previos del usuario se conservarán.\"</string>
+Todos los datos previos del usuario se conservarán."</string>
   <string name="done">Hecho</string>
   <string name="high_risk_perms">Permisos de alto riesgo</string>
   <string name="install">Instalar</string>

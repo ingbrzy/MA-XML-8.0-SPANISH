@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_detail">\"Cuenta Xiaomi: %1$s\"</string>
+  <string name="account_detail">"Cuenta Xiaomi: %1$s"</string>
   <string name="app_name">Mi crédito</string>
   <string name="balance_payment">%1$s créditos Mi</string>
   <string name="balance_title">Balance</string>
@@ -86,16 +86,16 @@
   <string name="detail_recharge_time">Fecha</string>
   <string name="detail_recharge_title">Historial de Recargas</string>
   <string name="ensure">确定</string>
-  <string name="error_account_changed_summary">\"La información de su cuenta ha cambiado.
-Por favor inicie sesión de nuevo.\"</string>
+  <string name="error_account_changed_summary">"La información de su cuenta ha cambiado.
+Por favor inicie sesión de nuevo."</string>
   <string name="error_account_changed_title">La cuenta ha cambiado</string>
   <string name="error_auth_summary">Error de acceso, por favor inicie sesión de nuevo.</string>
-  <string name="error_cert_date_summary">\"Error de fecha en el Certificado. 
-Por favor compruebe la fecha de su dispositivo e inténtelo de nuevo.\"</string>
+  <string name="error_cert_date_summary">"Error de fecha en el Certificado. 
+Por favor compruebe la fecha de su dispositivo e inténtelo de nuevo."</string>
   <string name="error_common_summary">Error de Sistema. Por favor inténtelo de nuevo más tarde.</string>
   <string name="error_expired_summary">Su pedido ha expirado</string>
-  <string name="error_frozen_summary">\"Su cuenta está bloqueada. 
-Por favor contacte con el servicio de atención al cliente de Xiaomi.\"</string>
+  <string name="error_frozen_summary">"Su cuenta está bloqueada. 
+Por favor contacte con el servicio de atención al cliente de Xiaomi."</string>
   <string name="error_has_bought_summary">Vd. ya ha comprado este producto.</string>
   <string name="error_illegal_order_summary">Error en el pedido. Por favor inténtelo de nuevo más tarde.</string>
   <string name="error_mili_summary">Saldo insuficiente.</string>
@@ -127,8 +127,8 @@ Por favor contacte con el servicio de atención al cliente de Xiaomi.\"</string>
   <string name="hfb_confirm_code">验证码：</string>
   <string name="hfb_customer_service_phone">客服电话：</string>
   <string name="hfb_customer_service_phone_number">4006125880</string>
-  <string name="hfb_fail_hint">\"* 如未收到短信请咨询中国移动通信账户支付客服中心：4006125880(只收市话费，无长途话费)； 125880只支付移动手机，0.3元/分，无长途话费。 
-* 有短信签名功能的手机，请回复前去掉签名的自动附加功能，以免回复系统无法识别拒绝支付。\"</string>
+  <string name="hfb_fail_hint">"* 如未收到短信请咨询中国移动通信账户支付客服中心：4006125880(只收市话费，无长途话费)； 125880只支付移动手机，0.3元/分，无长途话费。 
+* 有短信签名功能的手机，请回复前去掉签名的自动附加功能，以免回复系统无法识别拒绝支付。"</string>
   <string name="hfb_fail_label">购买失败</string>
   <string name="hfb_get_confirm_code">获取验证码</string>
   <string name="hfb_goods_name">商品名称：</string>
@@ -258,9 +258,9 @@ Por favor contacte con el servicio de atención al cliente de Xiaomi.\"</string>
   <string name="progress_success_recharge_summary">Balance en la cuenta: %1$s Créditos Mi.</string>
   <string name="progress_success_recharge_title">%1$s Recarga de Crédito Mi completada</string>
   <string name="progress_voucher_creating">Recarga de tarjeta de Crédito Mi…</string>
-  <string name="progress_warning_check_with_contact">\"El pago no ha llegado a su cuenta aún. 
+  <string name="progress_warning_check_with_contact">"El pago no ha llegado a su cuenta aún. 
 Lo volveremos a comprobar dentro de dos días laborables.
-Centreo de atención al cliente：400-100-5678\"</string>
+Centreo de atención al cliente：400-100-5678"</string>
   <string name="progress_warning_waiting">"El pago no ha llegado a su cuenta aún."</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Tarjeta Bancaria</string>

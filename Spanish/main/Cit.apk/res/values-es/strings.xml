@@ -8,28 +8,28 @@
   <string name="cit_OTG_waiting_out">Desconecte el dispositivo USB OTG ahora</string>
   <string name="cit_ac_charger_in">Carga por AC</string>
   <string name="cit_ac_charger_out">Cargador AC desconectado</string>
-  <string name="cit_accelermeter_sensor_check_summary">\"Mueve rápidamente el dispositivo en una dirección. Abajo se muestran valores de coordenadas X，Y，Z. (si el teléfono está en movimiento: X representa izquierda/derecha, Y representa delante y detras, Z representa arriba y abajo). Antes de calibrar el dispositivo, coloquelo sobre una superficie plana.\"</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Mueve rápidamente el dispositivo en una dirección. Abajo se muestran valores de coordenadas X，Y，Z. (si el teléfono está en movimiento: X representa izquierda/derecha, Y representa delante y detras, Z representa arriba y abajo). Antes de calibrar el dispositivo, coloquelo sobre una superficie plana."</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerómetro</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Prueba de retroalimentación del micrófono posterior</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Prueba de retroalimentación del micrófono principal</string>
   <string name="cit_audio_lb_phonecall_title">Simulación llamada de prueba</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">\"prueba de retroalimentación del micrófono posterior. Gira el teléfono, habla al micrófono, deberías escuchar tu voz por el altavoz\"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">\"Prueba de retroalimentación del micrófono principal.  Sostenga el teléfono como si usted estuviera haciendo una llamada, hable por el micrófono principal, oirá la voz con eco\"</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"prueba de retroalimentación del micrófono posterior. Gira el teléfono, habla al micrófono, deberías escuchar tu voz por el altavoz"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prueba de retroalimentación del micrófono principal.  Sostenga el teléfono como si usted estuviera haciendo una llamada, hable por el micrófono principal, oirá la voz con eco"</string>
   <string name="cit_audio_lb_summary_phonecall">Test de llamada simulada.
 
 Sostenga el teléfono como si hiciera una llamada y hable al microfono principal, debería oir su voz por el receptor. Haga la prueba en un ambiente silencioso</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">\"prueba de retroalimentación del micrófono posterior. Gira el teléfono, habla al micrófono, deberías escuchar tu voz por el altavoz\"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"prueba de retroalimentación del micrófono posterior. Gira el teléfono, habla al micrófono, deberías escuchar tu voz por el altavoz"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Prueba de retroalimentación, microfono superior</string>
   <string name="cit_audio_loopback_check_one_title">Prueba de retroalimentación micrófono principal receptor</string>
   <string name="cit_audio_loopback_check_summary_first">Prueba de retroalimentación, receptor microfono principal
 
 Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería oir su voz por el receptor</string>
-  <string name="cit_audio_loopback_check_summary_second">\"Prueba de regeneración altavoz micrófono secundario.  Apagar el teléfono para que la entrada de auriculares es hacia abajo. Hable en el receptor. Deberías oír tu voz jugó a través del altavoz externo. \"</string>
+  <string name="cit_audio_loopback_check_summary_second">"Prueba de regeneración altavoz micrófono secundario.  Apagar el teléfono para que la entrada de auriculares es hacia abajo. Hable en el receptor. Deberías oír tu voz jugó a través del altavoz externo. "</string>
   <string name="cit_audio_loopback_check_two_title">Prueba de regeneración secundaria micrófono altavoz</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Prueba de reducción de ruido ambiental</string>
   <string name="cit_audio_loopback_next">Siguiente</string>
   <string name="cit_audio_loopback_previous">Anterior</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">\"Prueba de reducción de ruido ambiente sostenga el teléfono como si estás contestando una llamada, hablar en el micrófono. Debe oír su voz con reducir el ruido de fondo jugado a través del receptor\".</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Prueba de reducción de ruido ambiente sostenga el teléfono como si estás contestando una llamada, hablar en el micrófono. Debe oír su voz con reducir el ruido de fondo jugado a través del receptor".</string>
   <string name="cit_battery_temp_fail">Temperatura de la batería no es normal (valor = %d)</string>
   <string name="cit_battery_temp_pass">Temperatura de la batería es normal</string>
   <string name="cit_batterylight_blue">Azul</string>
@@ -52,7 +52,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_button_light_on">Luz de los botones encendida</string>
   <string name="cit_calibration_fail">Error de calibración</string>
   <string name="cit_calibration_pass">Calibración realizada</string>
-  <string name="cit_camera_calibration_summary">\"Instrucciones de la prueba: 1 Pulse el botón de calibración abajo para cámara interfaz 2 Oprima atrás el botón enter para salir de la cámara interfaz 3 habrá una etiqueta de paso calibrado para indicar que la OEI ha sido calibrada\"</string>
+  <string name="cit_camera_calibration_summary">"Instrucciones de la prueba: 1 Pulse el botón de calibración abajo para cámara interfaz 2 Oprima atrás el botón enter para salir de la cámara interfaz 3 habrá una etiqueta de paso calibrado para indicar que la OEI ha sido calibrada"</string>
   <string name="cit_camera_sdcard_error">"No se puede tomar fotografía. La tarjeta SD está llena."</string>
   <string name="cit_charger_plugin_check_summary">Cuando se conecta el cargador USB el texto \"carga via USB/AC\" debería mostrarse más abajo.</string>
   <string name="cit_charger_plugin_check_title">Cargador (conectar)</string>
@@ -77,11 +77,11 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_fm_open_2">Inicio FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Abriendo Bluetooth...</string>
   <string name="cit_fm_start_service">Iniciar audio</string>
-  <string name="cit_front_camera_check_summary">\"Instrucciones de la prueba: 1 Pulse el botón de cámara más abajo para entrar en frontal cámara interfaz 2 Tap el obturador botón 3 toque el icono del cheque. El sistema guardará la foto automáticamente. 4. la foto que tomaste debe ser exhibida por debajo. Pulse eliminar para completar la prueba\".</string>
+  <string name="cit_front_camera_check_summary">"Instrucciones de la prueba: 1 Pulse el botón de cámara más abajo para entrar en frontal cámara interfaz 2 Tap el obturador botón 3 toque el icono del cheque. El sistema guardará la foto automáticamente. 4. la foto que tomaste debe ser exhibida por debajo. Pulse eliminar para completar la prueba".</string>
   <string name="cit_front_camera_check_title">Cámara frontal</string>
   <string name="cit_gps_check_summary">La correspondiente información GPS debe ser exhibida por debajo.</string>
   <string name="cit_gps_check_title">GPS</string>
-  <string name="cit_gps_disabled">\"GPS no se ha iniciado toque la pantalla para iniciar el GPS...\"</string>
+  <string name="cit_gps_disabled">"GPS no se ha iniciado toque la pantalla para iniciar el GPS..."</string>
   <string name="cit_gps_satellite_count">Numero de satelites: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
@@ -127,7 +127,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_light_sensor_check_title">Sensor de luz</string>
   <string name="cit_magnetic_sensor_check_summary">Los valores para X，Y，Z, coordenadas deben aparecer debajo de</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
-  <string name="cit_main_camera_check_summary">\"Instrucciones de la prueba: 1 Pulse brevemente el botón de cámara más abajo para entrar en cámara posterior interfaz 2 Asegúrese de que el flash esté habilitado 3 Tap el obturador botón 4 toque el icono del cheque. El sistema guardará la foto automáticamente. 5. la foto que tomaste debe mostrarse por debajo. Pulse eliminar para completar la prueba\".</string>
+  <string name="cit_main_camera_check_summary">"Instrucciones de la prueba: 1 Pulse brevemente el botón de cámara más abajo para entrar en cámara posterior interfaz 2 Asegúrese de que el flash esté habilitado 3 Tap el obturador botón 4 toque el icono del cheque. El sistema guardará la foto automáticamente. 5. la foto que tomaste debe mostrarse por debajo. Pulse eliminar para completar la prueba".</string>
   <string name="cit_main_camera_check_title">Cámara trasera</string>
   <string name="cit_name">Pruebas de hardware</string>
   <string name="cit_not_available">"Esta prueba no está disponible en esta versión de MIUI"</string>
@@ -146,7 +146,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_power_check_title">Indicador de batería</string>
   <string name="cit_pressure_sensor_check_summary">Valor de presión debe aparecer debajo de</string>
   <string name="cit_pressure_sensor_check_title">Sensor de presión</string>
-  <string name="cit_proximity_sensor_check_summary">\"Cubrir el sensor de proximidad (ubicado en la parte superior del teléfono cerca del receptor) con la mano, luego mueve la mano lejos. Debe aumentar el valor de 0,0 cuando te mueves tu mano más lejos el dispositivo. Durante la calibración, asegúrese de que no hay nada entre el sensor y la mano (e.g. protector de pantalla o guantes).\"</string>
+  <string name="cit_proximity_sensor_check_summary">"Cubrir el sensor de proximidad (ubicado en la parte superior del teléfono cerca del receptor) con la mano, luego mueve la mano lejos. Debe aumentar el valor de 0,0 cuando te mueves tu mano más lejos el dispositivo. Durante la calibración, asegúrese de que no hay nada entre el sensor y la mano (e.g. protector de pantalla o guantes)."</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidad</string>
   <string name="cit_reset_check_summary">Esta prueba reiniciará el dispositivo. Se perderán todos los datos de prueba anterior.</string>
   <string name="cit_reset_check_title">Prueba de reiniciar</string>
@@ -154,7 +154,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_sd_fail">Se ha producido un error.</string>
   <string name="cit_sd_mount">Montar tarjeta SD</string>
   <string name="cit_sd_mount_sucess">Tarjeta SD montada</string>
-  <string name="cit_sd_mp3_not_existed">\"No existe en la tarjeta SD llamada\"music.mp3\"después de colocar\"music.mp3\"en el directorio de la tarjeta SD, toque la pantalla para jugar\".</string>
+  <string name="cit_sd_mp3_not_existed">"No existe en la tarjeta SD llamada\"music.mp3\"después de colocar\"music.mp3\"en el directorio de la tarjeta SD, toque la pantalla para jugar".</string>
   <string name="cit_sd_plugged_in">Detecta la tarjeta SD, retire la tarjeta SD ahora</string>
   <string name="cit_sd_plugged_out">Se ha eliminado la tarjeta SD, inserte la tarjeta SD ahora</string>
   <string name="cit_sd_plugin_check_summary">El texto \"Tarjeta SD detectada, retire la tarjeta SD ahora\" debe ser exhibido por debajo.</string>

@@ -102,7 +102,7 @@
   <string name="file_too_large">El archivo es demasiado grande para cargar</string>
   <string name="finished">Completa</string>
   <string name="folder_exist">La carpeta ya existe.</string>
-  <string name="forward_to_web_recycle_prompt">&lt; a href = \"%1$s\" &gt; toque &lt; /a &gt; para ir a la papelera de reciclaje</string>
+  <string name="forward_to_web_recycle_prompt"><a href="%1$s"> toque </a> para ir a la papelera de reciclaje</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras y números, mayúsculas y minúsculas</string>
   <string name="ftp_anonymous_login">Inicio de sesión anónimo</string>
   <string name="ftp_invalid_username_or_password">Contraseña o nombre de usuario no válido.</string>
@@ -121,8 +121,8 @@
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">No hay espacio suficiente.</string>
   <string name="kuaipan_prompt">Aviso</string>
-  <string name="kuaipan_prompt_message">\"
-Lamentablemente el server está en mantenimiento. Por favor inténtelo más tarde…\"</string>
+  <string name="kuaipan_prompt_message">"
+Lamentablemente el server está en mantenimiento. Por favor inténtelo más tarde…"</string>
   <string name="kuaipan_tech_support">Iniciar sesión en kuaipan.cn</string>
   <string name="load_err">"No se puede cargar"</string>
   <string name="loading">Cargando…</string>
@@ -188,9 +188,9 @@ Lamentablemente el server está en mantenimiento. Por favor inténtelo más tard
   <string name="no_wifi_hint">No hay conexión</string>
   <string name="notif_server_starting">Iniciando servidor FTP…</string>
   <string name="notif_title">El servidor FTP esta corriendo</string>
-  <string name="open_changed_file_message">\"El archivo que estas tratando de abrir ha sido modificado. Por favor:
+  <string name="open_changed_file_message">"El archivo que estas tratando de abrir ha sido modificado. Por favor:
 1. Descargar el archivo de nuevo para actualizarlo.
-2.Subirlo a tu cuenta de KuaiPan\"</string>
+2.Subirlo a tu cuenta de KuaiPan"</string>
   <string name="open_changed_file_title">Cambio aplicado.</string>
   <string name="open_file_failed">No se pudo abrir</string>
   <string name="operate_confirm_in_3g">¿Usar conexión de datos móviles para descargar este gran fichero?</string>
@@ -256,8 +256,8 @@ Lamentablemente el server está en mantenimiento. Por favor inténtelo más tard
   <string name="show_message">Necesitas descargar este archivo antes de poder abrirlo.</string>
   <string name="sign_description">Iniciando sesión…</string>
   <string name="signin_error">"No se puede conectar al servidor. Compruebe su conexión de red."</string>
-  <string name="signin_success">\"¡Te registraste!
-Se agrego %1$s de espacio\"</string>
+  <string name="signin_success">"¡Te registraste!
+Se agrego %1$s de espacio"</string>
   <string name="space_info">KuaiPan: %1$s disponible, %2$s en total</string>
   <string name="space_usage">Espacio utilizado</string>
   <string name="start_server">Iniciar el servidor</string>

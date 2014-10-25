@@ -15,7 +15,7 @@
   <string name="experimental_validate_warning">Gracias por ayudar a mejorar MIUI!</string>
   <string name="find_device_check_sim">Comprobando tarjeta SIM...</string>
   <string name="find_device_turn_off_flight_mode">Desactivar el modo avión</string>
-  <string name="find_device_turn_off_flight_mode_instructions">\"El dispositivo ha sido bloqueado. Por favor desactivar el modo avión.\"</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"El dispositivo ha sido bloqueado. Por favor desactivar el modo avión."</string>
   <string name="forget_password_string">Olvidar contraseña</string>
   <string name="incorrect_pincode">Código PIN erróneo</string>
   <string name="incorrect_pincode_remaining_attempts">Código PIN erróneo, %d intentos restantes</string>
@@ -34,10 +34,10 @@
   <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
   <string name="lockscreen_charging_msg">Cargando</string>
   <string name="lockscreen_emergency_call">Llamada de emergencia</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">\"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, el teléfono se reiniciará a valores de fábrica y se perderán todos los datos de usuario.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">\"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, se le pedirá que desbloquee el teléfono iniciando sesión en su cuenta.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, el teléfono se reiniciará a valores de fábrica y se perderán todos los datos de usuario.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, se le pedirá que desbloquee el teléfono iniciando sesión en su cuenta.
 
-Inténtelo de nuevo en %d segundos.\"</string>
+Inténtelo de nuevo en %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Ha intentado desbloquear incorrectamente el teléfono %d veces. El teléfono se reiniciará ahora a valores de fábrica.</string>
   <string name="lockscreen_forgot_pattern_button_text">Olvidar</string>
   <string name="lockscreen_glogin_checking_password">Comprobando…</string>

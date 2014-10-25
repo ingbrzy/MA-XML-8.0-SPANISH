@@ -55,12 +55,12 @@
   <string name="datausage_purchase_pay_confirm">Comprar</string>
   <string name="datausage_purchase_pay_hint">Para cancelar, marque %s</string>
   <string name="datausage_purchase_pkglist_networkerror">"No se pudo conectar a la red. Compruebe su conexión de datos y pruebe otra vez."</string>
-  <string name="datausage_purchase_pkglist_nodata">\"Hay\ un conflicto entre su actual paquete de datos y el paquete de datos que Vd.\está intentando comprar.
- Solicite más información a su proveedor de servicios.\"</string>
+  <string name="datausage_purchase_pkglist_nodata">"Hay\ un conflicto entre su actual paquete de datos y el paquete de datos que Vd.\está intentando comprar.
+ Solicite más información a su proveedor de servicios."</string>
   <string name="datausage_purchase_pkglist_servererror">¡Vaya! Algo ha ido mal con nuestro server.</string>
   <string name="datausage_purchase_result_failed">"No se pudo comprar más datos. Pida más información a su operador de telefonía. "</string>
-  <string name="datausage_purchase_result_ok">\"Vd. compró %s
-Para más información mire el mensaje que habrá recibido de su proveedor de servicios\"</string>
+  <string name="datausage_purchase_result_ok">"Vd. compró %s
+Para más información mire el mensaje que habrá recibido de su proveedor de servicios"</string>
   <string name="datausage_purchase_time_in">" Conectado "</string>
   <string name="datausage_purchase_title_confirm">Detalles de compra</string>
   <string name="datausage_purchase_title_order">Datos adicionales de compra</string>
@@ -97,8 +97,8 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="lock_screen_traffic_warn_title">Aviso de uso de datos</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">"No se ha establecido límite de datos"</string>
-  <string name="main_alert_message_slot_no_data_connection">\"La ranura de la SIM no\ admite 
-conexión a datos móviles\"</string>
+  <string name="main_alert_message_slot_no_data_connection">"La ranura de la SIM no\ admite 
+conexión a datos móviles"</string>
   <string name="main_button_idel_traffic">Hora valle</string>
   <string name="main_button_normal_traffic">Hora punta</string>
   <string name="main_button_usage_adjust">Establecer límite de uso de datos</string>
@@ -114,10 +114,10 @@ conexión a datos móviles\"</string>
   <string name="main_primary_message_traffic_overlimit_purchase">Necesita recargar</string>
   <string name="main_primary_message_traffic_purchase">Necesita recargar</string>
   <string name="main_primary_message_traffic_warning">Cerca del límite de uso de datos</string>
-  <string name="main_secondary_message_traffic_detail_leisure">\"
-Consumo en horas valle: %1$s queda | %2$s usado\"</string>
-  <string name="main_secondary_message_traffic_detail_normal">\"
-Consumo en horas punta: %1$s%2$s queda | %3$s usado\"</string>
+  <string name="main_secondary_message_traffic_detail_leisure">"
+Consumo en horas valle: %1$s queda | %2$s usado"</string>
+  <string name="main_secondary_message_traffic_detail_normal">"
+Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="main_secondary_message_traffic_over">sobrepasado</string>
   <string name="main_secondary_message_traffic_remain">quedan</string>
   <string name="main_secondary_message_traffic_used_leisure">%s datos en hora valle usados</string>
@@ -268,13 +268,13 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado\"</string>
   <string name="text_day"/>
   <string name="tips_dialog_title">"¿No conoce su límite?"</string>
   <string name="tips_message">"Si no tiene claros los detalles de su plan WiFi puede verlos llamando al %2$s (%1$s)."</string>
-  <string name="traffic_config_alert_body">\"La contabilidad de su operador muestra que Vd. ha usado %s
-¿Actualizar la información de uso de datos?\"</string>
+  <string name="traffic_config_alert_body">"La contabilidad de su operador muestra que Vd. ha usado %s
+¿Actualizar la información de uso de datos?"</string>
   <string name="traffic_config_alert_body_leisure">"La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hora valle este mes, esto difiere de los %2$s que Vd. ha establecido manualmente."</string>
-  <string name="traffic_config_alert_body_leisure_notset">\"
-La contabilidad de su operador muestra que a Vd. le quedan %s de datos de hora valle. Vd. no ha puesto un límite para los datos en hora valle.\"</string>
-  <string name="traffic_config_alert_body_normal">\"
-La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hora punta este mes, esto difiere de los %2$s que Vd. ha establecido manualmente.\"</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+La contabilidad de su operador muestra que a Vd. le quedan %s de datos de hora valle. Vd. no ha puesto un límite para los datos en hora valle."</string>
+  <string name="traffic_config_alert_body_normal">"
+La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hora punta este mes, esto difiere de los %2$s que Vd. ha establecido manualmente."</string>
   <string name="traffic_config_alert_cancel">Cancelar</string>
   <string name="traffic_config_alert_nomore">"No mostrar de nuevo"</string>
   <string name="traffic_config_alert_ok">De acuerdo</string>

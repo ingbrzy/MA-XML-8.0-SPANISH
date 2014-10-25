@@ -11,7 +11,7 @@
   <string name="accelerometer_title">Rotación automática de pantalla</string>
   <string name="access_control_app_entry_multiple">Abrir %s</string>
   <string name="access_control_app_entry_single">Abrir aplicación</string>
-  <string name="access_control_need_password">\"%s ha sido protegido\"</string>
+  <string name="access_control_need_password">"%s ha sido protegido"</string>
   <string name="access_control_need_to_unlock">Contraseña requerida:</string>
   <string name="access_control_no_back_footer">Toque [icon] para salir</string>
   <string name="access_control_password_title">Contraseña</string>
@@ -21,13 +21,13 @@
   <string name="accessibility_enable">Accesibilidad</string>
   <string name="accessibility_feature_state_off">Apagado</string>
   <string name="accessibility_feature_state_on">Encendido</string>
-  <string name="accessibility_global_gesture_preference_description">\"Cuando esta función está activada, rápidamente puede activar las funciones de accesibilidad en dos pasos: 
+  <string name="accessibility_global_gesture_preference_description">"Cuando esta función está activada, rápidamente puede activar las funciones de accesibilidad en dos pasos: 
 
 Paso 1: Presione y mantenga presionado el botón de encendido hasta que oiga un sonido o una vibración.  
 
 Paso 2: Presione y sostenga con dos dedos hasta que oiga confirmación.  
 
-Si el dispositivo tiene múltiples usuarios, usando el acceso directo en la pantalla de bloqueo temporalmente permite accesibilidad hasta que el dispositivo está desbloqueado.\"</string>
+Si el dispositivo tiene múltiples usuarios, usando el acceso directo en la pantalla de bloqueo temporalmente permite accesibilidad hasta que el dispositivo está desbloqueado."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Apagado</string>
   <string name="accessibility_global_gesture_preference_summary_on">Encendido</string>
   <string name="accessibility_global_gesture_preference_title">Método abreviado de accesibilidad</string>
@@ -44,7 +44,7 @@ Mientras está en zoom+, se puede:
 
 También puede ampliar lo que está bajo su dedo manteniéndolo sobre la pantalla tras un toque triple. En este estado ampliado, se puede arrastrar el dedo para explorar distintas partes de la pantalla. Al levantar el dedo se volverá a la situación previa.
 
-Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclado y la barra de navegación.\"</string>
+Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclado y la barra de navegación."</string>
   <string name="accessibility_screen_magnification_title">Gestos para ampliar</string>
   <string name="accessibility_service_default_description">Sin descripción.</string>
   <string name="accessibility_service_no_apps_message">TalkBack proporciona realimentación hablada como ayuda a los usuarios con discapacidad visual. ¿Quiere instalarlo gratis desde la Play Store?</string>
@@ -144,10 +144,10 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="app_factory_reset_dlg_text">Todas las actualizaciones de esta aplicación de sistema Android serán desinstaladas.</string>
   <string name="app_factory_reset_dlg_title">¿Desinstalar actualizaciones? </string>
   <string name="app_feedback">Reportar error</string>
-  <string name="app_floating_window_dlg_disable">\"Desactivar %1$s ajustes de la ventana flotante detendrá la aplicación.
-¿Desactivar ventanas flotantes?\"</string>
-  <string name="app_floating_window_dlg_enable">\"Activar %1$s ajustes de la ventana activa requiere reiniciar la aplicación. También puede parar la aplicación manualmente. 
-¿Activar ventanas activas?\"</string>
+  <string name="app_floating_window_dlg_disable">"Desactivar %1$s ajustes de la ventana flotante detendrá la aplicación.
+¿Desactivar ventanas flotantes?"</string>
+  <string name="app_floating_window_dlg_enable">"Activar %1$s ajustes de la ventana activa requiere reiniciar la aplicación. También puede parar la aplicación manualmente. 
+¿Activar ventanas activas?"</string>
   <string name="app_forward_locked">La aplicación tiene protección de copia. </string>
   <string name="app_install_location_summary">Cambiar la ruta de instalación preferida para nuevas aplicaciones.</string>
   <string name="app_install_location_title">Ruta de instalación preferida</string>
@@ -194,7 +194,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="auto_launch_label">Iniciar por defecto</string>
   <string name="auto_launch_label_generic">Por defecto</string>
   <string name="auto_punctuate">Auto-puntuar</string>
-  <string name="auto_punctuate_summary">Pulsa la tecla Espacio dos veces para insertar\".\"</string>
+  <string name="auto_punctuate_summary">Pulsa la tecla Espacio dos veces para insertar.</string>
   <string name="auto_replace">Auto-remplazar</string>
   <string name="auto_replace_summary">Corregir palabras mal escritas</string>
   <string name="auto_restore_summary">Cuando se reinstale una aplicación, restaurar copia de seguridad de los ajustes y datos.</string>
@@ -613,18 +613,18 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="crypt_keeper_button_text">Encriptar teléfono</string>
   <string name="crypt_keeper_confirm_title">¿Encriptar?</string>
   <string name="crypt_keeper_cooldown">Pruebe de nuevo en ^1 segundos. </string>
-  <string name="crypt_keeper_desc">\"Puede encriptar sus cuentas, ajustes, aplicaciones descargadas, multimedia y otros ficheros. Una vez que encripte su teléfono, necesitará introducir el PIN numérico o la contraseña para desencriptarlo cada vez que lo encienda. No puede desencriptar su teléfono a menos que realice un reseteo de fabrica, borrando todos sus datos.
+  <string name="crypt_keeper_desc">"Puede encriptar sus cuentas, ajustes, aplicaciones descargadas, multimedia y otros ficheros. Una vez que encripte su teléfono, necesitará introducir el PIN numérico o la contraseña para desencriptarlo cada vez que lo encienda. No puede desencriptar su teléfono a menos que realice un reseteo de fabrica, borrando todos sus datos.
 
-La encriptación tarda una hora o más. Debe iniciarla con la batería cargada y mantener el teléfono conectado al cargador hasta que la encriptación termine. Si interrumpe el proceso, perderá algunos o todos los datos.\"</string>
+La encriptación tarda una hora o más. Debe iniciarla con la batería cargada y mantener el teléfono conectado al cargador hasta que la encriptación termine. Si interrumpe el proceso, perderá algunos o todos los datos."</string>
   <string name="crypt_keeper_dialog_need_password_message">Necesita establecer un PIN o contraseña para desbloquear la pantalla antes de iniciar la encriptación.</string>
   <string name="crypt_keeper_dialog_need_password_title">No hay PIN o contraseña para el desbloqueo</string>
   <string name="crypt_keeper_encrypt_summary">Pedir PIN numérico o contraseña para desencriptar el teléfono cada vez que lo encienda</string>
   <string name="crypt_keeper_encrypt_title">Encriptar teléfono</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
   <string name="crypt_keeper_enter_password">Escriba su contraseña</string>
-  <string name="crypt_keeper_failed_summary">\"La encriptación se ha interrumpido y no puede continuar. Como resultado, los datos de su teléfono ya no son accesibles.
+  <string name="crypt_keeper_failed_summary">"La encriptación se ha interrumpido y no puede continuar. Como resultado, los datos de su teléfono ya no son accesibles.
 
-Para seguir utilizando su teléfono, necesita realizar un reinicio de fábrica. Cuando configure su teléfono después del reinicio, podra restaurar cualquier copia de seguridad realizada previamente en su cuenta Google.\"</string>
+Para seguir utilizando su teléfono, necesita realizar un reinicio de fábrica. Cuando configure su teléfono después del reinicio, podra restaurar cualquier copia de seguridad realizada previamente en su cuenta Google."</string>
   <string name="crypt_keeper_failed_title">La encriptación ha fallado</string>
   <string name="crypt_keeper_final_desc">"La operación de encriptación es irreversible y si la interrumpe, perderá datos. La encriptación tarda una hora o más, durante el proceso el teléfono se reiniciará varias veces."</string>
   <string name="crypt_keeper_low_charge_text">Cargue su batería y pruebe de nuevo.</string>
@@ -643,19 +643,19 @@ Para seguir utilizando su teléfono, necesita realizar un reinicio de fábrica. 
   <string name="data_usage_app_restrict_background">Restringir uso de datos en segundo plano</string>
   <string name="data_usage_app_restrict_background_summary">Desactivar datos en segundo plano para redes moviles. Las redes No-moviles se utilizaran si estan disponibles.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir el uso de datos en segundo plano para esta aplicación, establezca primero un límite de uso de datos.</string>
-  <string name="data_usage_app_restrict_dialog">\"Esta característica puede ocasionar que una aplicación que dependa del uso de datos en segundo plano deje de funcionar cuando solo hay disponibles redes de datos moviles.
+  <string name="data_usage_app_restrict_dialog">"Esta característica puede ocasionar que una aplicación que dependa del uso de datos en segundo plano deje de funcionar cuando solo hay disponibles redes de datos moviles.
 
-Puede encontrar un control para el uso de datos mas apropiado en los ajustes disponibles dentro de cada aplicación.\"</string>
+Puede encontrar un control para el uso de datos mas apropiado en los ajustes disponibles dentro de cada aplicación."</string>
   <string name="data_usage_app_restrict_dialog_title">¿Restringir uso de datos en segundo plano?</string>
   <string name="data_usage_app_restricted">Restringido</string>
   <string name="data_usage_app_settings">Ver ajustes de la aplicación</string>
   <string name="data_usage_auto_sync_off_dialog">"Esto alargará la duración de la batería, pero tendra que sincronizar cada cuenta manualmente para obtener información reciente. Y no recibira notificaciones cuando las haya."</string>
   <string name="data_usage_auto_sync_off_dialog_title">¿Desactivar sincronización de datos automatica?</string>
-  <string name="data_usage_auto_sync_on_dialog">\"Cualquier modificación que haga en sus cuentas en la Web automaticamente se copiara en su teléfono.
+  <string name="data_usage_auto_sync_on_dialog">"Cualquier modificación que haga en sus cuentas en la Web automaticamente se copiara en su teléfono.
 
 Algunas cuentas pueden copiar automaticamente cualquier modificación que haga en el telefono a la Web. Las cuentas Google funcionan asi.
 
-Para elegir qué tipo de información se sincronizara para cada cuenta, ir a los ajustes de las cuentas.\"</string>
+Para elegir qué tipo de información se sincronizara para cada cuenta, ir a los ajustes de las cuentas."</string>
   <string name="data_usage_auto_sync_on_dialog_title">¿Activar sincronización de datos automatica?</string>
   <string name="data_usage_change_cycle">Cambiar ciclo…</string>
   <string name="data_usage_cycle">Ciclo de uso de datos</string>
@@ -673,9 +673,9 @@ Para elegir qué tipo de información se sincronizara para cada cuenta, ir a los
   <string name="data_usage_enable_mobile">Datos móviles</string>
   <string name="data_usage_label_background">Segundo plano</string>
   <string name="data_usage_label_foreground">Primer plano</string>
-  <string name="data_usage_limit_dialog_mobile">\"Su conexión de datos móviles se desactivará cuando se alcance el límite establecido.
+  <string name="data_usage_limit_dialog_mobile">"Su conexión de datos móviles se desactivará cuando se alcance el límite establecido.
 
-Cuando el consumo de datos contabilizado por el teléfono y el proporcionado por su operador son diferentes, considere el utilizar un límite de datos mas conservador.\"</string>
+Cuando el consumo de datos contabilizado por el teléfono y el proporcionado por su operador son diferentes, considere el utilizar un límite de datos mas conservador."</string>
   <string name="data_usage_limit_dialog_title">Limitando el uso de datos</string>
   <string name="data_usage_limit_editor_title">Establecer límite de uso de datos</string>
   <string name="data_usage_list_mobile">Móvil</string>
@@ -695,9 +695,9 @@ Cuando el consumo de datos contabilizado por el teléfono y el proporcionado por
   <string name="data_usage_pick_cycle_day">Restablecer día del mes del ciclo de uso de datos:</string>
   <string name="data_usage_received_sent">%1$s recibidos, %2$s enviados</string>
   <string name="data_usage_restrict_background">"Si restringe el uso de datos móviles en segundo plano, algunas aplicaciones y servicios dejarán de funcionar a menos que se conecte a una red WiFi."</string>
-  <string name="data_usage_restrict_background_multiuser">\"Si restringe el uso de datos móviles en segundo plano, algunas aplicaciones y servicios dejarán de funcionar a menos que se conecte a una red WiFi.
+  <string name="data_usage_restrict_background_multiuser">"Si restringe el uso de datos móviles en segundo plano, algunas aplicaciones y servicios dejarán de funcionar a menos que se conecte a una red WiFi.
 
-Este ajuste afecta a todos los usuarios de este teléfono.\"</string>
+Este ajuste afecta a todos los usuarios de este teléfono."</string>
   <string name="data_usage_restrict_background_title">¿Restringir uso de datos en segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">"Restringir el uso de datos en segundo plano solo es posible si ha activado un límite de uso de datos."</string>
   <string name="data_usage_summary_title">Uso de datos</string>
@@ -915,9 +915,9 @@ Este ajuste afecta a todos los usuarios de este teléfono.\"</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activar</string>
   <string name="enable_wifi_display">Activar pantalla inalámbrica</string>
-  <string name="enforce_read_external_confirm_message">\"Cuando el almacenamiento USB esta protegido, las aplicaciones tienen que pedir permiso para leer del almacenamiento externo.
+  <string name="enforce_read_external_confirm_message">"Cuando el almacenamiento USB esta protegido, las aplicaciones tienen que pedir permiso para leer del almacenamiento externo.
 
-Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus desarrolladores.\"</string>
+Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus desarrolladores."</string>
   <string name="enforce_read_external_confirm_title">¿Proteger almacenamiento USB?</string>
   <string name="enforce_read_external_summary">Las aplicaciones tienen que pedir permiso para leer del almacenamiento USB</string>
   <string name="enforce_read_external_title">Proteger almacenamiento USB</string>
@@ -1266,10 +1266,10 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="manageapplications_settings_summary">Gestionar y eliminar aplicaciones instaladas</string>
   <string name="manageapplications_settings_title">Gestionar aplicaciones</string>
   <string name="manually_add_network">Añadir red</string>
-  <string name="master_clear_accounts">\"
+  <string name="master_clear_accounts">"
 
 Ha iniciado sesión en las siguientes cuentas:
-\"</string>
+"</string>
   <string name="master_clear_all">"¿Eliminar todos los datos de la memoria interna del teléfono? ¡Esta acción no se puede deshacer!"</string>
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
@@ -1281,9 +1281,9 @@ Ha iniciado sesión en las siguientes cuentas:
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Música&lt;/li&gt;\"
 \"&lt;li&gt;Fotos&lt;/li&gt;\"
 \"&lt;li&gt;Otros datos de usuario&lt;/li&gt;</string>
-  <string name="master_clear_desc_erase_external_storage">\"
+  <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar música, fotos y otros datos de usuario, el \"&lt;b&gt;almacenamiento USB&lt;/b&gt; debe ser borrado.</string>
+Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamiento USB&lt;/b&gt; debe ser borrado.</string>
   <string name="master_clear_erase_application_progress">Eliminando aplicaciones</string>
   <string name="master_clear_failed">"El reseteo no se realizó porque el servicio de eliminación del sistema no esta disponible."</string>
   <string name="master_clear_final_button_text">Eliminar todo</string>
@@ -1407,8 +1407,8 @@ Para eliminar música, fotos y otros datos de usuario, el \"&lt;b&gt;almacenamie
   <string name="msd_driver_download_mac_url">Obtenga los controladores de http://www.android.com/filetransfer/</string>
   <string name="msd_driver_download_xp">Windows: Descargar Mi Phone Manager para usar su teléfono como un dispositivo de almacenamiento USB.</string>
   <string name="msd_driver_download_xp_url">Obtenga los controladores de http://zhushou.mi.com/</string>
-  <string name="msd_help_summary">\"¿No puede conectar a su dispositivo?
-Seleccionar sistema operativo:\"</string>
+  <string name="msd_help_summary">"¿No puede conectar a su dispositivo?
+Seleccionar sistema operativo:"</string>
   <string name="msd_help_title">Ayuda</string>
   <string name="msd_install">¿Reinstalar controlador?</string>
   <string name="msd_install_download_zhushou">"He descargado Mi Phone Manager"</string>
@@ -1422,8 +1422,8 @@ Seleccionar sistema operativo:\"</string>
   <string name="msd_install_status_undo">Instalar controlador</string>
   <string name="msd_install_succeed">Controlador instalado</string>
   <string name="msd_pc_system_install_finish_summary_vista">Para Windows Vista o superior, cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacenamiento USB.</string>
-  <string name="msd_pc_system_install_finish_summary_xp">\"Despues de instalar el controlador
-cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacenamiento USB.\"</string>
+  <string name="msd_pc_system_install_finish_summary_xp">"Despues de instalar el controlador
+cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacenamiento USB."</string>
   <string name="msd_pc_system_install_summary_xp">1. Ejecutar setup.exe para instalar</string>
   <string name="msg_wlan_signal_found">¿Conectar a %s?</string>
   <string name="mtp_ptp_mode_summary">La función MTP o PTP esta activa</string>
@@ -1606,8 +1606,8 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="print_failed_state_title_template">Error de impresora %1$s</string>
   <string name="print_feature_state_off">Apagar</string>
   <string name="print_feature_state_on">Encender</string>
-  <string name="print_job_summary">\"%1$s
-%2$s\"</string>
+  <string name="print_job_summary">"%1$s
+%2$s"</string>
   <string name="print_menu_item_add_printer">Añadir impresora</string>
   <string name="print_menu_item_add_printers">Añadir impresoras</string>
   <string name="print_menu_item_add_service">Añadir servicio</string>
@@ -1767,7 +1767,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="remove_from_frequently_fragment">Borrar %s de ajustes rápidos?</string>
   <string name="reset_app_preferences">Restablecer preferencias de aplicaciones</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
-  <string name="reset_app_preferences_desc">\"Esto restablecerá todas las preferencias para:
+  <string name="reset_app_preferences_desc">"Esto restablecerá todas las preferencias para:
 
  \"&lt;li&gt;Aplicaciones deshabilitadas&lt;/li&gt;\"
  \"&lt;li&gt;Notificaciones de aplicaciones deshabilitadas&lt;/li&gt;\"
@@ -1775,7 +1775,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
  \"&lt;li&gt;Restricciones de datos en segundo plano para aplicaciones&lt;/li&gt;\"
  \"&lt;li&gt;Restricciones de cualquier permiso&lt;/li&gt;\"
 
- No se perderá ningún dato de aplicación.\"</string>
+ No se perderá ningún dato de aplicación."</string>
   <string name="reset_app_preferences_title">Restablecer preferencias de aplicación?</string>
   <string name="reset_legacy_password_settings_preface_text">Tiene que cambiar la contraseña de pantalla de bloqueo.</string>
   <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
@@ -1809,9 +1809,9 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="roaming_reenable_title">¿Permitir uso de datos en itinerancia?</string>
   <string name="roaming_turn_it_on_button">Encender?</string>
   <string name="roaming_warning">Cuando permite datos en itinerancia, ¡Vd. puede incurrir en cargos extra considerables!</string>
-  <string name="roaming_warning_multiuser">\"Cuando permite datos en itinerancia, ¡Vd. puede incurrir en cargos extra considerables!
+  <string name="roaming_warning_multiuser">"Cuando permite datos en itinerancia, ¡Vd. puede incurrir en cargos extra considerables!
 
-Estos ajustes afectan a todos los usuarios de este teléfono.\"</string>
+Estos ajustes afectan a todos los usuarios de este teléfono."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Usuario borrado</string>
   <string name="running_process_item_user_label">Usuario: %1$s</string>
@@ -1990,8 +1990,8 @@ Estos ajustes afectan a todos los usuarios de este teléfono.\"</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar información de usuario en pantalla de bloqueo</string>
   <string name="silent_mode_title">Modo silencio</string>
   <string name="sim_bad_pin">PIN incorrecto</string>
-  <string name="sim_change_failed">\"No se puedo cambiar PIN.
-Posiblemente PIN incorrecto.\"</string>
+  <string name="sim_change_failed">"No se puedo cambiar PIN.
+Posiblemente PIN incorrecto."</string>
   <string name="sim_change_failed_enable_sim_lock">Habilitar bloqueo de SIM</string>
   <string name="sim_change_pin">PIN del SIM</string>
   <string name="sim_change_succeeded">El código PIN se cambió correctamente</string>
@@ -2003,8 +2003,8 @@ Posiblemente PIN incorrecto.\"</string>
   <string name="sim_enter_old">PIN Antiguo</string>
   <string name="sim_enter_pin">Código PIN</string>
   <string name="sim_lock_change_not_supported">"No se puede cambiar bloqueo SIM."</string>
-  <string name="sim_lock_failed">\"No se puede cambiar el estado de bloqueo del SIM.
-Posiblemente PIN incorrecto.\"</string>
+  <string name="sim_lock_failed">"No se puede cambiar el estado de bloqueo del SIM.
+Posiblemente PIN incorrecto."</string>
   <string name="sim_lock_off">Pedir PIN para usar el teléfono</string>
   <string name="sim_lock_on">PIN para usas el teléfono</string>
   <string name="sim_lock_settings">Ajustes de bloqueo de SIM</string>
@@ -2046,17 +2046,17 @@ Posiblemente PIN incorrecto.\"</string>
   <string name="spellcheckers_settings_title">Corrector ortográfico</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Monitoreando redes</string>
-  <string name="ssl_ca_cert_info_message">\"Este dispositivo está gestionado por:
+  <string name="ssl_ca_cert_info_message">"Este dispositivo está gestionado por:
 %s
 
 Su administrador es capaz de monitorizar su actividad de red, incluyendo emails, aplicaciones y webs seguras.
 
-Para más información contacte con su adminstrados.\"</string>
+Para más información contacte con su adminstrados."</string>
   <string name="ssl_ca_cert_settings_button">Chequear credenciales de confianza</string>
   <string name="ssl_ca_cert_warning">Red puede ser monitoreada</string>
-  <string name="ssl_ca_cert_warning_message">\"Terceras partes son capaces de monitorizar la red, incluyendo mails, apps, and webs seguras.
+  <string name="ssl_ca_cert_warning_message">"Terceras partes son capaces de monitorizar la red, incluyendo mails, apps, and webs seguras.
 
-Una credencial de confianza instalada hace esto posible.\"</string>
+Una credencial de confianza instalada hace esto posible."</string>
   <string name="status_awake_time">Tiempo activo</string>
   <string name="status_bar_and_notification_bar">Notificación emergente y en barra de estado</string>
   <string name="status_bar_filter_item_description">Para configurar notificaciones, ir a Ajustes generales &gt; Notificaciones &gt; Administrar notificaciones</string>
@@ -2153,10 +2153,10 @@ Una credencial de confianza instalada hace esto posible.\"</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancelar sincronización</string>
   <string name="sync_menu_sync_now">Sincronizar ahora</string>
-  <string name="sync_one_time_sync">\"Toque para sincronizar ahora
-%1$s\"</string>
-  <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\"&gt;Welcome to Google sync!&lt;/font&gt;\" 
-Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Google approach to syncing data to allow access to your contacts, citas y más donde quiera que estés. \"</string>
+  <string name="sync_one_time_sync">"Toque para sincronizar ahora
+%1$s"</string>
+  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Welcome to Google sync!&lt;/font&gt;" 
+Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Google approach to syncing data to allow access to your contacts, citas y más donde quiera que estés. "</string>
   <string name="sync_settings">Sincronizar</string>
   <string name="sync_wifi_label">WiFi</string>
   <string name="sync_wifi_only">Solo WiFi</string>
@@ -2351,14 +2351,14 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="user_add_user_item_summary">Diferentes Usuarios tienen sus propias aplicaciones y contenidosUsers have their own apps and content</string>
   <string name="user_add_user_item_title">Usuario</string>
   <string name="user_add_user_menu">Añadir usuario al perfil</string>
-  <string name="user_add_user_message_long">\"Puede compartir este dispositivo con otra gente creando usuarios adicionales. Cada usuario tiene su espacio, que puede ser personalizado con sus propias aplicaciones, fondos de pantalla y más. El usuario también puede usar ajustes de la tablet como la WiFi que afectarán a todos. 
+  <string name="user_add_user_message_long">"Puede compartir este dispositivo con otra gente creando usuarios adicionales. Cada usuario tiene su espacio, que puede ser personalizado con sus propias aplicaciones, fondos de pantalla y más. El usuario también puede usar ajustes de la tablet como la WiFi que afectarán a todos. 
 
 Después de crear un nuevo usuario, esa persona necesita pasar un proceso de configuración.
 
-Cualquier usuario puede camibiar permisos de aplicación en nombre de todos los demás.\"</string>
-  <string name="user_add_user_message_short">\"Después de crear un nuevo usuario, es persona necesita pasar un proceso de configuración.
+Cualquier usuario puede camibiar permisos de aplicación en nombre de todos los demás."</string>
+  <string name="user_add_user_message_short">"Después de crear un nuevo usuario, es persona necesita pasar un proceso de configuración.
 
-Cualquier usuario puede aceptar actualizaciones y permisos en nombre del resto.\"</string>
+Cualquier usuario puede aceptar actualizaciones y permisos en nombre del resto."</string>
   <string name="user_add_user_title">Añadir nuevo usuario</string>
   <string name="user_add_user_type_title">Añadir</string>
   <string name="user_adding_new_user">Añadiendo…</string>
@@ -2385,8 +2385,8 @@ Cualquier usuario puede aceptar actualizaciones y permisos en nombre del resto.\
   <string name="user_dict_settings_context_menu_delete_title">Borrar</string>
   <string name="user_dict_settings_context_menu_edit_title">Editar</string>
   <string name="user_dict_settings_edit_dialog_title">Editar palabra</string>
-  <string name="user_dict_settings_empty_text">\"No hay ningún diccionario
-Añada una palabra tocando el botón de añadir (+)\"</string>
+  <string name="user_dict_settings_empty_text">"No hay ningún diccionario
+Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="user_dict_settings_more_languages">Más idiomas…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Diccionario personal</string>
@@ -2680,9 +2680,9 @@ Añada una palabra tocando el botón de añadir (+)\"</string>
 Dejar a los servicios de localización de Google y otras aplicaciones buscar redes, incluso cuando la WiFi esté apagada"</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Denegar</string>
-  <string name="wifi_scan_always_turnon_message">\"Para mejorar la precisión de localización y para otros propósitos, %1$s quiere conectar el escaneo de redes, incluso si la WiFi está apagada.
+  <string name="wifi_scan_always_turnon_message">"Para mejorar la precisión de localización y para otros propósitos, %1$s quiere conectar el escaneo de redes, incluso si la WiFi está apagada.
 
-Permitir esto a todas las aplicaciones que quieran encender escaneo?\"</string>
+Permitir esto a todas las aplicaciones que quieran encender escaneo?"</string>
   <string name="wifi_scan_notify_remember_choice">"No mostrar de nuevo"</string>
   <string name="wifi_scan_notify_text_location_off">"Las Aplicaciones pueden escanear en busca de redes cercanas, incluso si la WiFi está apagada. Si no quiere que eso suceda vaya a Advanced &gt; Scaneo siempre conectado."</string>
   <string name="wifi_scan_notify_text_location_on">"Para mejorar la precisión de localización y para otros propósitos, Google y otras aplicaciones pueden escanear en busca de redes cercanas, incluso si la WiFi está apagada. Si no quiere que esto suceda, vaya a Advanced &gt; Scaneo siempre activado."</string>
@@ -2720,9 +2720,9 @@ Permitir esto a todas las aplicaciones que quieran encender escaneo?\"</string>
   <string name="wifi_setup_back">Volver</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
-  <string name="wifi_setup_description_connected">Toque &lt;b&gt;Siguiente&lt;/b&gt;\" para continuar con configuración.
+  <string name="wifi_setup_description_connected">Toque &lt;b&gt;Siguiente&lt;/b&gt;" para continuar con configuración.
 
-Toque \"&lt;b&gt;Atras&lt;/b&gt; para conectar a una red WiFi diferente.</string>
+Toque "&lt;b&gt;Atras&lt;/b&gt; para conectar a una red WiFi diferente.</string>
   <string name="wifi_setup_description_connecting">Concectando, esto puede llevar unos minutos…</string>
   <string name="wifi_setup_detail">Detalles de red</string>
   <string name="wifi_setup_eap_not_supported">"No se puede configurar una conexión EAP WiFi durante la configuración.Despues usted puede ir a Ajustes &gt; WiFi y Redes."</string>
@@ -2753,7 +2753,7 @@ Toque \"&lt;b&gt;Atras&lt;/b&gt; para conectar a una red WiFi diferente.</string
   <string name="wifi_share_action_turn_on">Compartir WiFi</string>
   <string name="wifi_share_action_turn_on_summary">Para compartir inicie sesión en su Mi Account</string>
   <string name="wifi_share_add">Compartir WiFi</string>
-  <string name="wifi_share_add_summary">\"Cuando comparte sus redes públicas,
+  <string name="wifi_share_add_summary">"Cuando comparte sus redes públicas,
  puede usar las redes de otros usuarios."</string>
   <string name="wifi_share_connect">Conectar</string>
   <string name="wifi_share_connected_summary">"Está conectado a una red WiFi pública que es compartida por otro usuario"</string>
@@ -2783,9 +2783,9 @@ Toque \"&lt;b&gt;Atras&lt;/b&gt; para conectar a una red WiFi diferente.</string
   <string name="wifi_signal">Intensidad de señal</string>
   <string name="wifi_signal_found_msg">¿Conectar a punto de acceso WiFi?</string>
   <string name="wifi_skip_anyway">Saltar de todos modos</string>
-  <string name="wifi_skipped_message">\"CUIDADO: Puede suponer gastos extra por parte de su operador.
+  <string name="wifi_skipped_message">"CUIDADO: Puede suponer gastos extra por parte de su operador.
 
-La configuración del teléfono puede necesitar gran tráfico de datos.\"</string>
+La configuración del teléfono puede necesitar gran tráfico de datos."</string>
   <string name="wifi_speed">Velocidad de conexión</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">Introduzca la SSID</string>
