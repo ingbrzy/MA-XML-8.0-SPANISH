@@ -85,35 +85,35 @@ Regístrese en account.xiaomi.com，Protección de las páginas de destino，Pul
   <string name="lockpattern_recording_inprogress">Levante el dedo cuando haya terminado.</string>
   <string name="lockpattern_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
   <string name="lockpattern_redraw_button_text">Redibujar</string>
-  <string name="lockpattern_retry_text">&lt;u&gt;Restablecer la clave del patrón&lt;/u&gt;</string>
+  <string name="lockpattern_retry_text">Restablecer la clave del patrón</string>
   <string name="lockpattern_settings_help_how_to_record">Cómo dibujar un patrón de desbloqueo</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Intentelo de nuevo en %d segundos.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;¡Demasiados intentos fallidos!&lt;/font&gt;</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_close_label">Cerrar</string>
   <string name="lockpattern_tutorial_continue_label">Siguiente</string>
   <string name="lockpattern_tutorial_jump_label">Ir a</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Olvidó la contraseña del patrón&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text">Olvidó la contraseña del patrón</string>
   <string name="login">Iniciar sesión</string>
   <string name="main_preference_screen_title">Ajustes</string>
   <string name="mycard_scan_barcode">Escáner de código de MiID</string>
-  <string name="new_pattern_tip">Por favor, introduzca&lt;font color=#fb3500&gt;nuevo&lt;/font&gt;patrón de bloqueo. Al menos cuatro puntos de conexión</string>
+  <string name="new_pattern_tip">Por favor, introduzca nuevo patrón de bloqueo. Al menos cuatro puntos de conexión</string>
   <string name="ok">Correcto</string>
   <string name="ok_button">Correcto</string>
   <string name="open_camera_exception_dialog_content">Problemas con la cámara. Es posible que deba reiniciar el dispositivo</string>
   <string name="open_camera_exception_dialog_title">fallo de cámara</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Proyecto Open-source</string>
-  <string name="original_pattern_tip">Por favor introduce&lt;font color=#fb3500&gt;el anterior&lt;/font&gt;patrón de bloqueo</string>
+  <string name="original_pattern_tip">Por favor introduzca el anterior patrón de bloqueo</string>
   <string name="password_error">Por favor verifique su contraseña</string>
   <string name="password_forget">¿Ha olvidado su contraseña?</string>
   <string name="password_hint">Por favor, introduzca cuenta y contraseña</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Política de privacidad</string>
   <string name="progress_loading">Procesando……</string>
-  <string name="remove_Xiaomi_account_dialog_message">Eliminar esta cuenta &lt;b&gt;eliminará su capacidad&lt;/b&gt; para generar códigos, sin embargo &lt;b&gt;no&lt;/b&gt; desactivará la verificación en 2-pasos. Esto podría impedirle acceder a su cuenta. &lt;p&gt; Antes de eliminarla: &lt;ul&gt; &lt;li&gt;desactive la verificación en 2-pasos para esta cuenta, o&lt;/li&gt; &lt;li&gt;Asegúrese de que tiene Vd. un mecanismo alternativo para generar códigos.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_Xiaomi_account_dialog_message">Eliminar esta cuenta eliminará su capacidad para generar códigos, sin embargo no desactivará la verificación en 2-pasos. Esto podría impedirle acceder a su cuenta. Antes de eliminarla: desactive la verificación en 2-pasos para esta cuenta, o asegúrese de que tiene Vd. un mecanismo alternativo para generar códigos.</string>
   <string name="remove_account_dialog_button_remove">Eliminar cuenta</string>
-  <string name="remove_account_dialog_message">Eliminar esta cuenta &lt;b&gt;eliminará su capacidad&lt;/b&gt; para generar códigos, sin embargo &lt;b&gt;no&lt;/b&gt; desactivará la autenticación de 2-factores. Esto podría impedirle acceder a su cuenta. &lt;p&gt; Antes de eliminarla: &lt;ul&gt; &lt;li&gt;Desactive la autenticación de 2-factores para esta cuenta, o&lt;/li&gt; &lt;li&gt;Asegúrese de que tiene Vd. un mecanismo alternativo para generar códigos.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_account_dialog_message">Eliminar esta cuenta eliminará su capacidad para generar códigos, sin embargo desactivará la autenticación de 2-pasos. Esto podría impedirle acceder a su cuenta. Antes de eliminarla: Desactive la autenticación de 2-pasos para esta cuenta, o asegúrese de que tiene Vd. un mecanismo alternativo para generar códigos.</string>
   <string name="remove_account_dialog_title">¿Eliminar %1$s?</string>
   <string name="rename">Renombrar</string>
   <string name="rename_message">Renombrar %1$s</string>
@@ -131,7 +131,7 @@ Regístrese en account.xiaomi.com，Protección de las páginas de destino，Pul
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Términos del servicio</string>
   <string name="timesync_about_feature_preference_title">Acerca de esta característica</string>
-  <string name="timesync_about_feature_screen_details">"Si Vd. pulsa &amp; quot;Sincronizar ahora&amp;quot;, Authenticator intentará sincronizar su reloj interno con los servidores de Google. Los ajustes de Fecha &amp;Hora del dispositivo no se cambiarán. &lt;p&gt; Authenticator no transmite ningún dato personal o información de su cuenta mientras sincroniza su reloj interno con los servidores de Google. &lt;p&gt; &lt;b&gt;Por qué esto es útil&lt;/b&gt; &lt;p&gt; Authenticator genera códigos de verificación 2-pasos basados en 1) la hora actual, y 2) un número secreto conocido por la aplicación y el servidor. &lt;p&gt; si Authenticator y el servidor no coinciden en qué hora es, los códigos que genera la aplicación no se aceptarán cuando Vd. intenta iniciar sesión. &lt;p&gt; Por defecto Authenticator utiliza los ajustes de Fecha &amp; Hora del dispositivo, y en la mayoría de los casos Vd. será capaz de generar códigos válidos asegurándose de que la Hora, la Fecha, y configuración de zona horaria estén configurados correctamente. Sin embargo, cuando se producen desajustes de tiempo, pueden ser difíciles de solucionar (especialmente si usas tiempo proporcionado por red o zonas horarias)."</string>
+  <string name="timesync_about_feature_screen_details">"Si Vd. pulsa "Sincronizar ahora", Authenticator intentará sincronizar su reloj interno con los servidores de Google. Los ajustes de Fecha y Hora del dispositivo no se cambiarán. Authenticator no transmite ningún dato personal o información de su cuenta mientras sincroniza su reloj interno con los servidores de Google. ¿Por qué esto es útil? Authenticator genera códigos de verificación 2-pasos basados en 1) la hora actual, y 2) un número secreto conocido por la aplicación y el servidor, si Authenticator y el servidor no coinciden en qué hora es, los códigos que genera la aplicación no se aceptarán cuando Vd. intenta iniciar sesión. Por defecto Authenticator utiliza los ajustes de Fecha y Hora del dispositivo, y en la mayoría de los casos Vd. será capaz de generar códigos válidos asegurándose de que la Hora, la Fecha, y configuración de zona horaria estén configurados correctamente. Sin embargo, cuando se producen desajustes de tiempo, pueden ser difíciles de solucionar (especialmente si usa tiempo proporcionado por red o zonas horarias)."</string>
   <string name="timesync_about_feature_screen_title">Acerca de esta característica</string>
   <string name="timesync_preference_screen_summary">"Sincronizar el reloj interno del Authenticator con los servidores"</string>
   <string name="timesync_preference_screen_title">Corrección de Fecha-Hora para los códigos</string>
@@ -145,7 +145,7 @@ Regístrese en account.xiaomi.com，Protección de las páginas de destino，Pul
   <string name="timesync_sync_now_time_already_correct_dialog_title">Fecha-Hora ya correctas</string>
   <string name="timesync_sync_now_time_corrected_dialog_details">\"El reloj interno del Authenticator ha sido ajustado para coincidir con la hora proporcionada por los servidores. 
 
-Los ajustes de Fecha &amp; Hora en este dispositivo no se han cambiado.\"</string>
+Los ajustes de Fecha y Hora en este dispositivo no se han cambiado.\"</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Fecha-Hora corregidas</string>
   <string name="tip1_patternforgotten">Patrón de bloqueo Xiaomi: desinstalar, reinstalar y activar</string>
   <string name="tip2_patternforgotten">Toque en el botón de abajo "Reiniciar ahora" para restablecer completamente la cuenta. Tendrá que reactivarla</string>
@@ -167,7 +167,7 @@ Vd. puede：\"</string>
   <string name="type_prompt">Tipo de clave</string>
   <string name="update_pattern_jump">&lt;u&gt;&amp;#20851;&amp;#38381;&amp;#25163;&amp;#21183;&amp;#23494;&amp;#30721;&lt;/u&gt;</string>
   <string name="version_preference_title">Versión</string>
-  <string name="welcome_page_alert">&lt;font color=#fb3500&gt;Nota:&lt;/font&gt;Por favor, no elimine el patrón, de lo contrario no podrá iniciar sesión</string>
+  <string name="welcome_page_alert">Nota: Por favor, no elimine el patrón, de lo contrario no podrá iniciar sesión</string>
   <string name="welcome_page_details">\"- Proteja su información del robo malicioso de terceros.
 - La pérdida del teléfono puede causarle problemas de seguridad en sus cuentas de correo, redes sociales, etc.\"</string>
   <string name="welcome_page_title">Bienvenido a la cuenta de protección de acceso de Xiaomi</string>
