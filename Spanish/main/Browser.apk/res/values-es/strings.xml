@@ -73,7 +73,10 @@
   <string name="autologin_bar_text">Iniciar sesión como</string>
   <string name="back">Atrás</string>
   <string name="block">Bloquear</string>
-  <string name="bookmark_URL_already_exisit">"Ya has marcado esta URL"</string>
+  <string name="block_ads_choice_block">Bloquear</string>
+  <string name="block_ads_choice_continue">Continuar</string>
+  <string name="block_ads_message">¿Quiere bloquear la publicidad de esta web?</string>
+  <string name="block_ads_title">El contenido puede contener publicidad</string>
   <string name="bookmark_add_group_text_header">Agregar %1$d al grupo</string>
   <string name="bookmark_add_to">Añadir a</string>
   <string name="bookmark_cannot_save_url">"Esta URL no puede ser marcada."</string>
@@ -92,6 +95,7 @@
   <string name="bookmark_to_readmodelist_not_saved">"No se puede guardar en lista de lectura"</string>
   <string name="bookmark_to_readmodelist_saved">Guardado en lista de lectura</string>
   <string name="bookmark_url">URL http://</string>
+  <string name="bookmark_URL_already_exisit">"Ya has marcado esta URL"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Esta URL no es válida."</string>
   <string name="bookmarks">Favoritos</string>
@@ -528,6 +532,7 @@
   <string name="profiler_stopped_toast">Administrador de perfiles terminado. Los resultados son %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Ajustar fondo de pantalla…</string>
   <string name="qr_code_title">Código QR</string>
+  <string name="quicklink_bookmark_save">Guardar en</string>
   <string name="quicklink_not_saved">"No se puede agregar a la página de inicio"</string>
   <string name="quicklink_saved">Añadido a la página de inicio</string>
   <string name="quicklink_saved_before">Ya se ha agregado este sitio</string>
@@ -728,10 +733,4 @@
   <string name="webview_today">Hoy</string>
   <string name="webview_yesterday">Ayer</string>
   <string name="week_picker_dialog_title">Establecer semana</string>
-  <string name="block_ads_choice_block">Bloquear</string>
-  <string name="block_ads_choice_continue">Continuar</string>
-  <string name="block_ads_message">¿Quiere bloquear la publicidad de esta web?</string>
-  <string name="block_ads_title">El contenido puede contener publicidad</string>
-  <string name="bookmark_url_already_exisit">"Esta URL ya está marcada"</string>
-  <string name="quicklink_bookmark_save">Guardar en</string>
 </resources>

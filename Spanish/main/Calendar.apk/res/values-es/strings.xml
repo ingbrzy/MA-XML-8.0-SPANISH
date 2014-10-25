@@ -40,10 +40,14 @@
   <string name="attendees_label">Invitados</string>
   <string name="birthday_calendar_display_name">Recordatorio de cumpleaños</string>
   <string name="birthday_event_description">"Hoy es el cumpleaños de %1$s!"</string>
+  <string name="birthday_event_description_detail_leap"/>
+  <string name="birthday_event_description_detail_smart"/>
+  <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 días hasta el cumpleaños (%3$s)</string>
   <string name="birthday_notification_text_today">"No te olvides de decir ¡feliz cumpleaños!"</string>
   <string name="birthday_notification_title_three_days_later">"El cumpleaños de %1$s's se acerca"</string>
-  <string name="birthday_notification_title_today">"cumpleaños de %1$s"</string>
+  <string name="birthday_notification_title_today">"Cumpleaños de %1$s"</string>
+  <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
   <string name="button_online">Orden</string>
@@ -149,6 +153,8 @@
   <string name="menu_general_preferences">Configuración general</string>
   <string name="menu_preferences">Ajustes</string>
   <string name="menu_select_visible_calendars">Calendarios para mostrar</string>
+  <string name="miui_chinese_week_range_double"/>
+  <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Nuevo</string>
   <string name="modify_all">Cambiar todos los eventos de la serie</string>
   <string name="modify_all_following">Cambiar esto y todos los eventos futuros</string>
@@ -287,10 +293,4 @@
   <string name="yearly">Anual (cada %s)</string>
   <string name="yearly_plain">Anual</string>
   <string name="zhushen">zhushen</string>
-  <string name="birthday_event_description_detail_leap"/>
-  <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_type_term_lunar"/>
-  <string name="miui_chinese_week_range_double"/>
-  <string name="miui_chinese_week_range_single"/>
 </resources>

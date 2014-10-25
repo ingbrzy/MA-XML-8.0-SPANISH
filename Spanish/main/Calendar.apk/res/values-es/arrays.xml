@@ -7,21 +7,15 @@
     <item>Mensaje de texto</item>
     <item>Alarma</item>
   </string-array>
-  <integer-array name="reminder_methods_values">
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-  </integer-array>
   <string-array name="reminder_minutes_labels">
-    <item>Ningún recordatorio</item>
+    <item>Sin aviso</item>
     <item>0 minutos</item>
     <item>5 minutos</item>
     <item>10 minutos</item>
     <item>15 minutos</item>
     <item>30 minutos</item>
     <item>1 hora</item>
-    <item>1 dia</item>
+    <item>1 día</item>
     <item>2 días</item>
     <item>1 semana</item>
   </string-array>
@@ -38,7 +32,7 @@
     <item>10080</item>
   </integer-array>
   <string-array name="preferences_default_reminder_labels">
-    <item>Sin alarma</item>
+    <item>Sin aviso</item>
     <item>0 minutos</item>
     <item>5 minutos</item>
     <item>10 minutos</item>
@@ -66,12 +60,6 @@
     <item>Sábado</item>
     <item>Domingo</item>
     <item>Lunes</item>
-  </string-array>
-  <string-array name="preferences_week_start_day_values">
-    <item>-1</item>
-    <item>7</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="timezone_labels">
     <item>Islas Marshall</item>
@@ -159,117 +147,26 @@
     <item>Fiji</item>
     <item>Tonga</item>
   </string-array>
-  <string-array name="timezone_values">
-    <item>Pacífico/Majuro</item>
-    <item>Pacífico/Midway</item>
-    <item>Pacífico/Honolulú</item>
-    <item>America/Anchorage</item>
-    <item>America/Los_Angeles</item>
-    <item>America/Tijuana</item>
-    <item>America/Phoenix</item>
-    <item>America/Chihuahua</item>
-    <item>America/Denver</item>
-    <item>America/Costa_Rica</item>
-    <item>America/Chicago</item>
-    <item>America/Ciudad_México</item>
-    <item>America/Regina</item>
-    <item>America/Bogotá</item>
-    <item>America/Nueva_York</item>
-    <item>América/Caracas</item>
-    <item>América/Barbados</item>
-    <item>América/Halifax</item>
-    <item>América/Manaos</item>
-    <item>América/Santiago</item>
-    <item>América/St_Johns</item>
-    <item>América/Sao_Paulo</item>
-    <item>América/Argentina/Buenos_Aires</item>
-    <item>América/Godthab</item>
-    <item>América/Montevideo</item>
-    <item>Atlántico/Georgias_Sur</item>
-    <item>Atlántico/Azores</item>
-    <item>Atlántico/Cabo_Verde</item>
-    <item>África/Casablanca</item>
-    <item>Europa/Londres</item>
-    <item>Europa/Amsterdam</item>
-    <item>Europe/Belgrado</item>
-    <item>Europa/Bruselas</item>
-    <item>Europe/Sarajevo</item>
-    <item>África/Windhoek</item>
-    <item>África/Brazzaville</item>
-    <item>Asia/Amán</item>
-    <item>Europe/Atenas</item>
-    <item>Asia/Beirut</item>
-    <item>Africa/El Cairo</item>
-    <item>Europa/Helsinki</item>
-    <item>Asia/Jerusalén</item>
-    <item>Europa/Minsk</item>
-    <item>África/Harare</item>
-    <item>Asia/Baghdad</item>
-    <item>Europa/Moscú</item>
-    <item>Asia/Kuwait</item>
-    <item>Africa/Nairobi</item>
-    <item>Asia/Teherán</item>
-    <item>Asia/Baku</item>
-    <item>Asia/Tbilisi</item>
-    <item>Asia/Yerevan</item>
-    <item>Asia/Dubai</item>
-    <item>Asia/Kabul</item>
-    <item>Asia/Karachi</item>
-    <item>Asia/Oral</item>
-    <item>Asia/Yekaterinburg</item>
-    <item>Asia/Calcuta</item>
-    <item>Asia/Colombo</item>
-    <item>Asia/Katmandú</item>
-    <item>Asia/Almaty</item>
-    <item>Asia/Rangoon</item>
-    <item>Asia/Krasnoyarsk</item>
-    <item>Asia/Bangkok</item>
-    <item>Asia/Shanghai</item>
-    <item>Asia/Hong_Kong</item>
-    <item>Asia/Irkutsk</item>
-    <item>Asia/Kuala_Lumpur</item>
-    <item>Australia/Perth</item>
-    <item>Asia/Taipei</item>
-    <item>Asia/Seúl</item>
-    <item>Asia/Tokyo</item>
-    <item>Asia/Yakutsk</item>
-    <item>Australia/Adelaida</item>
-    <item>Australia/Darwin</item>
-    <item>Australia/Brisbane</item>
-    <item>Australia/Hobart</item>
-    <item>Australia/Sydney</item>
-    <item>Asia/Vladivostok</item>
-    <item>Pacífico/Guam</item>
-    <item>Asia/Magadan</item>
-    <item>Pacífico/Auckland</item>
-    <item>Pacífico/Fiji</item>
-    <item>Pacífico/Tongatapu</item>
-  </string-array>
   <string-array name="availability">
     <item>Ocupado</item>
     <item>Disponible</item>
     <item>Tentativa</item>
   </string-array>
-  <integer-array name="availability_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </integer-array>
   <string-array name="visibility">
     <item>Por defecto</item>
     <item>Privado</item>
     <item>Público</item>
   </string-array>
   <string-array name="ordinal_labels">
-    <item>primero</item>
-    <item>segundo</item>
-    <item>tercero</item>
-    <item>cuarto</item>
-    <item>último</item>
+    <item>1º.</item>
+    <item>2º.</item>
+    <item>3º.</item>
+    <item>4º.</item>
+    <item>Últ.</item>
   </string-array>
   <string-array name="response_labels1">
     <item>No hay respuesta</item>
-    <item>Si</item>
+    <item>Sí</item>
     <item>Quizás</item>
     <item>No</item>
   </string-array>
@@ -278,18 +175,13 @@
     <item>Este y futuros eventos</item>
     <item>Todos los eventos</item>
   </string-array>
-  <integer-array name="delete_repeating_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </integer-array>
   <string-array name="delete_repeating_labels_no_selected">
     <item>Este y futuros eventos</item>
     <item>Todos los eventos</item>
   </string-array>
   <string-array name="change_response_labels">
     <item>Sólo este evento</item>
-    <item>Todos los eventos de la serie</item>
+    <item>Toda la serie</item>
   </string-array>
   <string-array name="buttons_list">
     <item>Día</item>
@@ -298,10 +190,10 @@
     <item>Agenda</item>
   </string-array>
   <string-array name="quick_response_defaults">
-    <item>Ejecución con sólo un par de minutos de retraso.</item>
-    <item>Estate allí en 10 minutos.</item>
-    <item>Adelante y empieza sin mí.</item>
-    <item>"Lo siento, que no puedo hacerlo. Vamos a tener que reprogramar."</item>
+    <item>Retraso de un par de minutos.</item>
+    <item>Estoy allí en 10 minutos.</item>
+    <item>Empieza sin mí.</item>
+    <item>"Lo siento, no puedo ir. Vamos a tener que reprogramar."</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Siempre</item>
@@ -312,22 +204,4 @@
     <item>Negro transparente</item>
     <item>Fondo blanco</item>
   </string-array>
-  <integer-array name="online_reminder_minutes_values">
-    <item>0</item>
-    <item>5</item>
-    <item>10</item>
-    <item>15</item>
-    <item>30</item>
-    <item>60</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>10080</item>
-  </integer-array>
-  <integer-array name="online_reminder_minutes_values_allday">
-    <item>0</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>4320</item>
-    <item>10080</item>
-  </integer-array>
 </resources>

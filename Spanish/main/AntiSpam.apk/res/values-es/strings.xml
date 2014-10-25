@@ -33,6 +33,7 @@
   <string name="SMS_KEYWORDS">Bloqueo de palabras clave</string>
   <string name="SMS_MODENAME">Lista de bloqueo predeterminada</string>
   <string name="SMS_PREFIX">Bloqueo de prefijos</string>
+  <string name="SMS_SERVICE">Servicio de lista de bloqueo</string>
   <string name="SMSpass">Permitir mensajes</string>
   <string name="STRANGER_BLOCK">Lista de bloqueo de Extraños</string>
   <string name="ad_block_hint">%d bloqueado</string>
@@ -62,13 +63,6 @@
   <string name="call_delete_hint">¿Eliminar todas las llamadas bloqueadas del número seleccionado?</string>
   <string name="cancle">Cancelar</string>
   <string name="close_callwait">Apagado</string>
-  <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL );</string>
-  <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
-  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER );</string>
-  <string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
-  <string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
-  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
-  <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT );</string>
   <string name="customizer_mode_user_define_name">Mis reglas</string>
   <string name="dlg_add_blacklist">¿Bloquear este número?</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$sy %2$sotros contactos ya están en tu lista de excepciones.</string>
@@ -205,6 +199,7 @@ Bloquee sólo números de los que no quiere recibir llamadas jamás."</string>
   <string name="st_antispam_title_contact_sms">Mensajes de contactos</string>
   <string name="st_antispam_title_contactandanoy_group">Ajustes</string>
   <string name="st_antispam_title_null_incoming">Números privados</string>
+  <string name="st_antispam_title_service_sms">Servicio de notificaciones</string>
   <string name="st_antispam_title_whitelist">Excepciones</string>
   <string name="st_block_all">Bloquear llamadas y mensajes</string>
   <string name="st_block_mute">Bloquear llamadas y silenciar mensajes</string>
@@ -287,6 +282,4 @@ Bloquee sólo números de los que no quiere recibir llamadas jamás."</string>
   <string name="user_define_title">Agregar reglas</string>
   <string name="whitelist_prefix_add_hint">Añadir todos los números con prefijo a excepciones</string>
   <string name="wl_no_whitelist">No hay excepciones</string>
-  <string name="SMS_SERVICE">Servicio de lista de bloqueo</string>
-  <string name="st_antispam_title_service_sms">Servicio de notificaciones</string>
 </resources>
