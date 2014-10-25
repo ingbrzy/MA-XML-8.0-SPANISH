@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">Moviendo los datos del usuario... Esto puede tardar unos minutos.</string>
+  <string name="account_bind_prompt">Moviendo los datos del usuario… Esto puede tardar unos minutos.</string>
   <string name="add_task">Agregar tareas</string>
   <string name="adding_upload_tasks">Agregamdo tareas #8230;</string>
   <string name="already_signin_description">"Ya viste esto hoy."</string>
@@ -102,7 +102,7 @@
   <string name="file_too_large">El archivo es demasiado grande para cargar</string>
   <string name="finished">Completa</string>
   <string name="folder_exist">La carpeta ya existe.</string>
-  <string name="forward_to_web_recycle_prompt"><a href="%1$s"> toque </a> para ir a la papelera de reciclaje</string>
+  <string name="forward_to_web_recycle_prompt">&lt; a href = \"%1$s\" &gt; toque &lt; /a &gt; para ir a la papelera de reciclaje</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras y números, mayúsculas y minúsculas</string>
   <string name="ftp_anonymous_login">Inicio de sesión anónimo</string>
   <string name="ftp_invalid_username_or_password">Contraseña o nombre de usuario no válido.</string>
@@ -256,8 +256,8 @@ Lamentablemente el server está en mantenimiento. Por favor inténtelo más tard
   <string name="show_message">Necesitas descargar este archivo antes de poder abrirlo.</string>
   <string name="sign_description">Iniciando sesión…</string>
   <string name="signin_error">"No se puede conectar al servidor. Compruebe su conexión de red."</string>
-  <string name="signin_success">"¡Te registraste!
-Se agrego %1$s de espacio"</string>
+  <string name="signin_success">"¡Ha sido Vd. registrado!
+Se agregó %1$s de espacio"</string>
   <string name="space_info">KuaiPan: %1$s disponible, %2$s en total</string>
   <string name="space_usage">Espacio utilizado</string>
   <string name="start_server">Iniciar el servidor</string>
@@ -276,7 +276,7 @@ Se agrego %1$s de espacio"</string>
   <string name="tab_local">Local</string>
   <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_path">Camino</string>
-  <string name="tab_phone">Vista de lista</string>
+  <string name="tab_phone">Teléfono</string>
   <string name="tab_sys_size">Almacenamiento total</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">No se encontró una aplicación para manejar esta acción.</string>

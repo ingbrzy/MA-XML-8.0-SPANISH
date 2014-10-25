@@ -19,7 +19,7 @@
   <string name="cant_remove_retained_app">"No se puede desinstalar esta aplicación"</string>
   <string name="cant_remove_system_app">"No se puede desinstalar la aplicación del sistema"</string>
   <string name="chooser_wallpaper">Elegir fondo de pantalla desde</string>
-  <string name="confirm_btn_label">OK</string>
+  <string name="confirm_btn_label">Aceptar</string>
   <string name="current_wallpaper">Actual</string>
   <string name="custom_wallpaper_picker">Navegar</string>
   <string name="default_folder_title_game">Juegos</string>
@@ -95,7 +95,6 @@
   <string name="guide_install_app_msg">"La aplicación no está instalada en el teléfono. ¿Encontrar y descargar la aplicación ahora?"</string>
   <string name="guide_install_app_title">Instalar la aplicación</string>
   <string name="guide_tips_editing_mode">Toque y mantenga para recoger un widget</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="install">Instalar</string>
   <string name="invalid_contact_shortcut">Contacto no válido</string>
   <string name="loading_desktop">Cargando lanzador</string>
@@ -150,7 +149,7 @@
   <string name="process"/>
   <string name="reset_scene_prompt">Pantalla se restablecerá a disposición por defecto.</string>
   <string name="resource_select">Seleccionar</string>
-  <string name="screen_button_disabled_message">Botones de navegación discapacitados. Para volver a activarlos, toque Home y el botón de encendido simultáneamente.</string>
+  <string name="screen_button_disabled_message">Botones de navegación desactivados. Para volver a activarlos, toque Home y el botón de encendido simultáneamente.</string>
   <string name="screen_button_enabled_message">Botones de navegación activados.</string>
   <string name="screen_rotation_freeze_message">Rotación automática desactivada.</string>
   <string name="scroll_tip_format_when_announce_accessibility">Página %1$d, %2$d apps</string>

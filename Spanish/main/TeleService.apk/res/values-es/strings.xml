@@ -20,9 +20,9 @@
   <string name="alert_dialog_dismiss">Ignorar</string>
   <string name="alert_dialog_in_ecm_call">"La acción seleccionada no está disponible durante una llamada de emergencia."</string>
   <string name="alert_dialog_no">No</string>
-  <string name="alert_dialog_ok">Correcto</string>
+  <string name="alert_dialog_ok">Aceptar</string>
   <string name="alert_dialog_yes">Sí</string>
-  <string name="alertdialogtitle">Resultado...</string>
+  <string name="alertdialogtitle">Resultado…</string>
   <string name="allContactdeleteFailed">¡¡¡Error al eliminar todos los contactos de la SIM!!!</string>
   <string name="allContactdeleteSuccess">Ha eliminado con éxito todos los contactos de SIM</string>
   <string name="always_enable_mms">Recibir siempre MMS</string>
@@ -67,7 +67,7 @@
   <string name="autoip_current_areacode_summary">Código de área de su ubicación actual</string>
   <string name="autoip_exception">"Números que no necesitan prefijo IP"</string>
   <string name="autoip_exception_summary">%d total</string>
-  <string name="autoip_exception_summary_more">,... total %d</string>
+  <string name="autoip_exception_summary_more">,… total %d</string>
   <string name="autoip_no_exceptions">"Añadir números que no requieran un prefijo IP"</string>
   <string name="autoip_prefix">Prefijo de número de IP</string>
   <string name="autoip_prefix_summary">"Prefijo IP del operador: %s"</string>
@@ -112,6 +112,7 @@
   <string name="call_waiting_summary">Durante una llamada, avisarme sobre otras llamadas entrantes</string>
   <string name="call_waiting_title">Llamada en espera</string>
   <string name="call_waiting_tone_continuously">Reproducir sonido de notificación continuamente</string>
+  <string name="call_waiting_tone_stop_summary"/>
   <string name="call_waiting_tone_title">Notificación de llamada espera</string>
   <string name="call_waiting_tone_twice_and_vibrate">Reproducir sonido de notificación y vibrar dos veces</string>
   <string name="call_waiting_tone_twice_only">Reproducir sonido de notificación dos veces</string>
@@ -398,7 +399,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="list_language_dtitle">Idiomas</string>
   <string name="list_language_summary">Seleccione el idioma de noticias</string>
   <string name="list_language_title">Idioma</string>
-  <string name="load_networks_progress">Buscando...</string>
+  <string name="load_networks_progress">Buscando…</string>
   <string name="local_disable">Noticias locales deshabilitadas</string>
   <string name="local_enable">Noticias locales habilitadas</string>
   <string name="local_weather_disable">Clima local deshabilitado</string>
@@ -477,7 +478,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="network_settings_forbidden">%s (prohibida)</string>
   <string name="network_settings_information">Información</string>
   <string name="network_settings_next">Siguiente</string>
-  <string name="network_settings_query_failed_message">Solicitud de red fallida.  Pulsar Cancelar para usar su red preferida o pulsar OK para reintentar.</string>
+  <string name="network_settings_query_failed_message">Solicitud de red fallida. Pulse Cancelar para usar su red preferida o pulse \"Aceptar\" para reintentar.</string>
   <string name="network_settings_sel_sub">Ajustes SUBS</string>
   <string name="network_settings_select_automatic_hint">"No se puede acceder a la red seleccionada. Se usará en su lugar la red preferida."</string>
   <string name="network_settings_turn_off">Apagar</string>
@@ -516,7 +517,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="number">Número</string>
   <string name="nw_subset_unlock_failed">La solicitud de desbloqueo Subset de la Red SIM no ha tenido éxito.</string>
   <string name="nw_subset_unlock_success">Desbloqueo de la Red Subset de la SIM realizado. </string>
-  <string name="ok">OK</string>
+  <string name="ok">Aceptar</string>
   <string name="old_password_label">Contraseña anterior (4 digitos) </string>
   <string name="old_pin2_label">PIN2 anterior</string>
   <string name="old_pin_label">Pin anterior</string>
@@ -528,7 +529,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="ota_hfa_activation_dialog_message">"El teléfono esta activando su servicio de datos.
 
 Puede tardar más de 5 minutos."</string>
-  <string name="ota_hfa_activation_title">Activando...</string>
+  <string name="ota_hfa_activation_title">Activando…</string>
   <string name="ota_listen">Siga las instrucciones habladas hasta que escuche que la activación esta completada.</string>
   <string name="ota_next">Siguiente</string>
   <string name="ota_progress">Espere mientras su teléfono esta siendo programado. </string>
@@ -635,7 +636,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="register_automatically">Registro automatico</string>
   <string name="register_on_network">Registrando en %s</string>
   <string name="registration_done">Registrado en la red.</string>
-  <string name="registration_status_checking_status">Comprobando estado...</string>
+  <string name="registration_status_checking_status">Comprobando estado…</string>
   <string name="registration_status_done">Recibiendo llamadas.</string>
   <string name="registration_status_failed_try_later">Registro de la cuenta no realizado: (%s); se probará más tarde</string>
   <string name="registration_status_invalid_credentials">Registro de la cuenta no realizado: usuario o contraseña incorrectos. </string>
@@ -729,10 +730,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="sip_accounts">Cuentas (SIP) para llamadas por Internet</string>
   <string name="sip_accounts_title">Cuentas SIP</string>
   <string name="sip_add_account_tip_text">Para realizar llamadas por Internet, añada una cuenta SIP</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Enviar siempre</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Para todas las llamadas cuando la conexión de datos esta activa</string>
   <string name="sip_call_options_entry_2">Solo para llamadas por Internet</string>
   <string name="sip_call_options_entry_3">Preguntarme para cada llamada</string>

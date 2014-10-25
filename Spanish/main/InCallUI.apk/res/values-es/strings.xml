@@ -21,8 +21,8 @@
   <string name="alert_dialog_dismiss">Descartar</string>
   <string name="alert_dialog_in_ecm_call">"La acción seleccionada no está disponible durante una llamada de emergencia."</string>
   <string name="alert_dialog_no">No</string>
-  <string name="alert_dialog_ok">OK</string>
-  <string name="alert_dialog_yes">Si</string>
+  <string name="alert_dialog_ok">Aceptar</string>
+  <string name="alert_dialog_yes">Sí</string>
   <string name="antispam_marked_count">Informado por %1$d usuarios MIUI</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_provider">Identificado por %s</string>
@@ -367,7 +367,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="notification_voicemail_title">Buzón de voz nuevo</string>
   <string name="notification_voicemail_title_count">Nuevo buzón de voz (%d)</string>
   <string name="number">Número</string>
-  <string name="ok">Correcto</string>
+  <string name="ok">Aceptar</string>
   <string name="oldPin2Label">PIN2 antiguo</string>
   <string name="oldPinLabel">PIN Antiguo</string>
   <string name="onHold">En espera</string>
@@ -489,7 +489,7 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="register_automatically">Registro automático…</string>
   <string name="register_on_network">Registrándose en %s…</string>
   <string name="registration_done">Registrado en la red.</string>
-  <string name="registration_status_checking_status">Comprobando el estado de...</string>
+  <string name="registration_status_checking_status">Comprobando el estado de…</string>
   <string name="registration_status_done">Recibiendo llamadas.</string>
   <string name="registration_status_failed_try_later">Registro de cuenta fallido: (%s); Intentará más tarde</string>
   <string name="registration_status_invalid_credentials">Registro de cuenta  fallido: Nombre de usuario o contraseña incorrectos.</string>
@@ -510,7 +510,7 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="respond_via_sms_canned_response_3">"Le llamaré más tarde."</string>
   <string name="respond_via_sms_canned_response_4">"No puedo hablar ahora. ¿Me puede llamar más tarde?"</string>
   <string name="respond_via_sms_confirmation_format">Mensaje enviado a %s.</string>
-  <string name="respond_via_sms_custom_message">Escribe tu propio...</string>
+  <string name="respond_via_sms_custom_message">Escribe tu propio…</string>
   <string name="respond_via_sms_edittext_dialog_title">Respuesta rápida</string>
   <string name="respond_via_sms_menu_reset_default_activity">Reiniciar a valores por defecto de la aplicación</string>
   <string name="respond_via_sms_setting_summary"/>
@@ -550,10 +550,7 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="sip_account_list">Cuentas SIP</string>
   <string name="sip_accounts">Cuentas de llamada por Internet (SIP)</string>
   <string name="sip_accounts_title">Cuentas</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Enviar siempre</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Para todas las llamadas cuando la red de datos está disponible</string>
   <string name="sip_call_options_entry_2">Sólo para llamadas por Internet</string>
   <string name="sip_call_options_entry_3">Preguntar para cada llamada</string>

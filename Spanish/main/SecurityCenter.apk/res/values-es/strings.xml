@@ -111,8 +111,6 @@
   <string name="cache_title_empty_folder2">Carpeta vacía</string>
   <string name="cache_title_system_cache">Caché del sistema</string>
   <string name="cancel">Cancelar</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="cta_button_text_agree">De acuerdo</string>
   <string name="cta_button_text_cancel">Cancelar</string>
   <string name="cta_checkbox_title">"No mostrar de nuevo"</string>
@@ -276,6 +274,10 @@
   <string name="last_checked_date2">El escaneo más reciente fue %d días atrás</string>
   <string name="last_checked_default">El escaneo más reciente fue %s días atrás</string>
   <string name="legal_workday">Vaciones</string>
+  <string name="legal_workday_invalidate">Fecha expirada (Actualmente llamadas de Lunes a Viernes)</string>
+  <string name="legal_workday_invalidate_message">(Fecha expirada, toque para actualizar la conexión)</string>
+  <string name="legal_workday_message">(Skip holidays smartly)</string>
+
   <string name="memeory_check_content">%1$d apps, memoria %2$s</string>
   <string name="menu_item_about_content">Versión: %s</string>
   <string name="menu_item_about_summary">Versión: %s</string>
@@ -323,7 +325,7 @@
   <string name="notification_title_firewall_blocked">Bloqueada</string>
   <string name="notification_title_of_garbage_cleanup">Alarma, los archivos residuales ocupan mucho espacio</string>
   <string name="notification_title_of_low_memory">Almacenamiento del sistema usado: %s</string>
-  <string name="ok">De acuerdo</string>
+  <string name="ok">Aceptar</string>
   <string name="optimizecenter_data_support">Desarrollado por Clean Master</string>
   <string name="packages_subtitle">Paquetes incluidos</string>
   <string name="percentage">%d%%</string>
@@ -390,7 +392,7 @@
   <string name="power_customizer_cancel">Cancelar</string>
   <string name="power_customizer_delete">Borrar</string>
   <string name="power_customizer_my_mode">Personalizar</string>
-  <string name="power_customizer_ok">De acuerdo</string>
+  <string name="power_customizer_ok">Aceptar</string>
   <string name="power_customizer_save">Guardar</string>
   <string name="power_customizer_sleep_mode">Sleep</string>
   <string name="power_customizer_smart_mode">Por defecto</string>
@@ -416,7 +418,7 @@
   <string name="power_dialog_delete_dialog_cannot_delete_on_time">Su dispositivo esta programado para cambiar a este perfil más tarde. Tiene que cambiar los ajsutes de batería antes de que pueda borrar esta configuración.</string>
   <string name="power_dialog_delete_dialog_delete">Borrar este perfil de batería?</string>
   <string name="power_dialog_delete_dialog_title">Borrar perfil</string>
-  <string name="power_dialog_ok">De acuerdo</string>
+  <string name="power_dialog_ok">Aceptar</string>
   <string name="power_dialog_screen_brightness_automatic">Ajustar brillo automáticamente</string>
   <string name="power_dialog_screen_brightness_automatic_off">El brillo de la pantalla permanecerá constante sin tener en cuenta la luz ambiental. </string>
   <string name="power_dialog_screen_brightness_automatic_on">El brillo de la pantalla se ajustará en función de la luz ambiental.</string>

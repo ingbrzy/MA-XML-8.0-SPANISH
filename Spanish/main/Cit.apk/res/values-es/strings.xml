@@ -47,7 +47,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_bluetooth_scanning">Buscando dispositivos cercanos (podría llevar alrededor de 4 segundos)…</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">"Hecho. No buscar dispositivos Bluetooth cercanos."</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Se ha producido un error mientras se buscaban dispositivos Bluetooth.</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">Abriendo dispositivo Bluetooth...</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Abriendo dispositivo Bluetooth…</string>
   <string name="cit_button_light_off">Luz de los botones apagada</string>
   <string name="cit_button_light_on">Luz de los botones encendida</string>
   <string name="cit_calibration_fail">Error de calibración</string>
@@ -75,13 +75,13 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_fm_not_supported">"Este dispositivo no admite FM"</string>
   <string name="cit_fm_open_1">Start FM - 88.2</string>
   <string name="cit_fm_open_2">Inicio FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Abriendo Bluetooth...</string>
+  <string name="cit_fm_open_bluetooth">Abriendo Bluetooth…</string>
   <string name="cit_fm_start_service">Iniciar audio</string>
   <string name="cit_front_camera_check_summary">"Instrucciones de la prueba: 1 Pulse el botón de cámara más abajo para entrar en frontal cámara interfaz 2 Tap el obturador botón 3 toque el icono del cheque. El sistema guardará la foto automáticamente. 4. la foto que tomaste debe ser exhibida por debajo. Pulse eliminar para completar la prueba".</string>
   <string name="cit_front_camera_check_title">Cámara frontal</string>
   <string name="cit_gps_check_summary">La correspondiente información GPS debe ser exhibida por debajo.</string>
   <string name="cit_gps_check_title">GPS</string>
-  <string name="cit_gps_disabled">"GPS no se ha iniciado toque la pantalla para iniciar el GPS..."</string>
+  <string name="cit_gps_disabled">"GPS no se ha iniciado toque la pantalla para iniciar el GPS…"</string>
   <string name="cit_gps_satellite_count">Numero de satelites: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
@@ -279,7 +279,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_wifi_address_error">"No pudo recibir una dirección WiFi. Asegúrese de que está activada la WiFi."</string>
   <string name="cit_wifi_ap_scan_check_summary">Abajo se encuentra la información de los dispositivos en el área que se detectaron la AP WiFi. Confirmar que es correcta la información resaltada en verde.</string>
   <string name="cit_wifi_ap_scan_check_title">WiFi AP Scan</string>
-  <string name="cit_wifi_ap_scan_retry">Escaneando otra vez...</string>
+  <string name="cit_wifi_ap_scan_retry">Escaneando otra vez…</string>
   <string name="cit_wifi_ap_scanning">Escaneando…</string>
   <string name="cit_wifi_fail_to_scan">"No se podía buscar redes"</string>
   <string name="cit_wifi_state_refresh">Actualizar</string>

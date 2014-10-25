@@ -15,7 +15,6 @@
   <string name="abc_searchview_description_voice">Búsqueda por voz</string>
   <string name="abc_shareactionprovider_share_with">Compartir con</string>
   <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-  <string name="account_cache_provider">Cache de proveedor de cuenta</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya estás usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_folder_list_summary_drafts">Borradores</string>
@@ -314,6 +313,7 @@
   <string name="create_action">Nuevo</string>
   <string name="custom_from_account_label">Enviar el mensaje como:</string>
   <string name="date_heading">"Fecha: "</string>
+  <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Hoy, %1$s</string>
   <string name="date_message_received_yesterday">Ayer, %1$s</string>
   <string name="debug_clear_webview_cache">Borrar la caché del WebView</string>
@@ -361,6 +361,7 @@
   <string name="download_confirm_title">Descargar adjuntos</string>
   <string name="download_failed">"No se puede descargar. Toque para volver a intentar."</string>
   <string name="downloading_message_body">Descargando correo, espere por favor…</string>
+  <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Cerrar el cajón de navegación</string>
   <string name="drawer_open">Abrir cajón de navegación</string>
   <string name="eas_template">dominio\\usuario</string>
@@ -389,6 +390,7 @@
   <string name="file_not_found">"No se puede encontrar el archivo"</string>
   <string name="file_not_found_reDownload">"No se puede encontrar el archivo"</string>
   <string name="file_rar_not_support">"No se pueden abrir archivos rar encriptados"</string>
+  <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="folder_drafts_name_cn0">Borrador</string>
   <string name="folder_drafts_name_cn1">Borradores</string>
   <string name="folder_drafts_name_en0">Borradores</string>
@@ -416,7 +418,6 @@
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">"No se pudo reenviar uno o mas archivos adjuntos."</string>
   <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">De</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de borrar</string>
@@ -442,13 +443,17 @@
   <string name="imap_name">IMAP</string>
   <string name="inbox_folders_heading">Carpetas locales</string>
   <string name="info">Información</string>
-  <string name="input_password_prompt">Ingresa tu contraseña</string>
+  <string name="input_password_prompt">Introduce tu contraseña</string>
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="kilobytes">%s KB</string>
+  <string name="label_notification_ticker" formatted="false">%s: %s</string>
+  <string name="load_from_remote">Continuar la búsqueda en el servidor</string>
   <string name="load_more">Cargar más</string>
   <string name="loading_conversation">Cargando…</string>
   <string name="loading_conversations">Cargando…</string>
+  <string name="loading_from_remote">Buscando en el servidor…</string>
   <string name="local_search">Búsqueda local</string>
+  <string name="local_search_result">%s correos encontrados en los correos locales</string>
   <string name="login">Inicio de sesión</string>
   <string name="login_failed_ticker">%s inicio de sesión infructuoso.</string>
   <string name="login_failed_title">"No se puede iniciar sesión"</string>
@@ -531,18 +536,18 @@ CC: %4$s
   <string name="message_invite_accept">asistir</string>
   <string name="message_invite_calendar_view">Vista de calendario</string>
   <string name="message_invite_decline">nonparticipator</string>
-  <string name="message_invite_label_attending">¿Va?</string>
+  <string name="message_invite_label_attending">¿Participa?</string>
   <string name="message_invite_tentative">Quizás</string>
   <string name="message_invite_title">Invitar al calendario</string>
   <string name="message_saved">Mensaje guardado como borrador.</string>
   <string name="message_type_name">Mensaje</string>
   <string name="message_view_attachment_background_load">Serán descargados antes de enviar uno o más archivos adjuntos en el mensaje reenviado.</string>
-  <string name="mock_content_provider">Burlarse de proveedor de contenidos</string>
   <string name="more_atts_total">%1$d archivos adjuntos</string>
   <string name="more_info_attachment">Información</string>
   <string name="more_string">+ %1$s</string>
   <string name="more_than_999">999 +</string>
   <string name="move_to_selection_dialog_title">Se mudó a otra carpeta</string>
+  <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="mute">Mudo</string>
   <string name="name_or_number_is_error">Error de usuario o contraseña</string>
   <string name="network_error">No hay conexión</string>
@@ -571,8 +576,8 @@ CC: %4$s
   <string name="notification_action_undo_delete">Eliminado</string>
   <string name="notification_action_undo_remove_label">Quitada la etiqueta</string>
   <string name="notification_exchange_calendar_added">Calendario de intercambio añadido</string>
-  <string name="ok">Correcto</string>
-  <string name="okay_action">Correcto</string>
+  <string name="ok">Aceptar</string>
+  <string name="okay_action">Aceptar</string>
   <string name="other_mail">Otro correo</string>
   <string name="outbox_alert_button_confirm">Editar</string>
   <string name="outbox_alert_button_no_resend">"No enviar"</string>
@@ -584,7 +589,7 @@ CC: %4$s
   <string name="outbox_alert_mailbox_not_found">Dirección de correo electrónico no encontrado</string>
   <string name="outbox_alert_title_sent_failed">"No puede enviar correo"</string>
   <string name="outbox_no_mails">No hay mensajes en el buzón de salida</string>
-  <string name="parase_setup_data">Obteniendo datos...</string>
+  <string name="parase_setup_data">Obteniendo datos…</string>
   <string name="password_changed_prompt">"No se puede iniciar sesión"</string>
   <string name="password_expire_warning_content_title">Contraseña de pantalla de bloqueo expirada</string>
   <string name="password_expire_warning_dialog_content_fmt">Necesitas cambiar tu PIN de pantalla de bloqueo o contraseña pronto, o los datos de %s se borrarán. ¿Quieres cambiarla ahora?</string>
@@ -594,6 +599,9 @@ CC: %4$s
   <string name="password_expired_dialog_content_fmt">Los datos de %s se están borrando en tu dispositivo. Puedes restaurarlos al cambiar el  PIN de pantalla de bloqueo o contraseña. ¿Quieres cambiarla ahora?</string>
   <string name="password_expired_dialog_title">Contraseña de pantalla de bloqueo expirada</string>
   <string name="password_expired_ticker">El PIN de la pantalla de bloque o contraseña ha expirado.</string>
+  <string name="perference_change_pw">Actualizar contraseña</string>
+  <string name="perference_change_pw_notnull_tips">La contraseña no puede estar en blanco</string>
+  <string name="perference_change_pw_ok_tips">Contraseña actualizada correctamente</string>
   <string name="permission_access_provider_desc">La aplicación podrá acceder a su correo electrónico, nombres de usuario y contraseñas</string>
   <string name="permission_access_provider_label">Datos de acceso del usuario</string>
   <string name="permission_read_attachment_desc">"La aplicación podrá leer los archivos adjuntos de sus correos electronicos"</string>
@@ -647,6 +655,7 @@ CC: %4$s
   <string name="preferences_signature_dialog_title">Firma</string>
   <string name="preferences_signature_summary_not_set">No definido</string>
   <string name="preferences_signature_title">Firma</string>
+  <string name="prefetched_got_it">"Lo tengo"</string>
   <string name="preview_attachment">Vista previa</string>
   <string name="previous_action">Atrás</string>
   <string name="prompt_title">Puntero</string>
@@ -671,10 +680,12 @@ CC: %4$s
   <string name="recipient_error_dialog_title">Error de destinatario</string>
   <string name="recipient_needed">Agregar a al menos un destinatario.</string>
   <string name="refresh">Actualizar</string>
-  <string name="refreshing">Sincronización de...</string>
+  <string name="refreshing">Sincronización de…</string>
   <string name="refreshing_done">Sincronización completa</string>
   <string name="release_to_refresh">Soltar para refrescar</string>
   <string name="remote_folders_heading">Carpetas del servidor</string>
+  <string name="remote_search">Todos los correos del servidor</string>
+  <string name="remote_search_result">%s correos encontrados en el servidor</string>
   <string name="remove_account">Eliminar cuenta</string>
   <string name="remove_account_confirm">La cuenta \"%1$s\" se eliminarán del correo WPS.</string>
   <string name="remove_folder">Borrado de %1$s</string>
@@ -682,14 +693,9 @@ CC: %4$s
   <string name="reply">Responder</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">En %s, %s escribió:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Responder a: "</string>
   <string name="report">Informe</string>
   <string name="report_phishing">Denunciar phishing</string>
-  <string name="report_rendering_improvement">Tiene buena pinta</string>
-  <string name="report_rendering_improvement_desc">Este mensaje se ve bien.</string>
-  <string name="report_rendering_problem">Se ve mal</string>
-  <string name="report_rendering_problem_desc">Este mensaje se ve mal.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
   <string name="require_manual_sync_message">La sincronización offline para esta cuenta está deshabilitada en itinerancia.</string>
@@ -824,9 +830,4 @@ Incremento de tamaño: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s ¡actualización!</string>
   <string name="yes">Si</string>
   <string name="zip_viewer_no_file">Vacío</string>
-  <string name="date_message_received">%1$s %2$s</string>
-  <string name="draft_count_format"> (%1$s)</string>
-  <string name="filtered_tag">[%1$s]%2$s</string>
-  <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
 </resources>

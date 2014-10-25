@@ -292,7 +292,6 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="battery_stats_charging_label">Cargando</string>
   <string name="battery_stats_duration">%1$s desde que se desenchufó</string>
   <string name="battery_stats_gps_on_label">GPS encendido</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s en batería</string>
   <string name="battery_stats_phone_signal_label">Señal de red  móvil</string>
   <string name="battery_stats_screen_on_label">Pantalla encendida</string>
@@ -803,7 +802,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
   <string name="disable_overlays">Desactivar superposiciones Hardware</string>
   <string name="disable_overlays_summary">Utilizar la GPU siempre para la composición de la pantalla</string>
   <string name="disable_power_key_long_press_under_keyguard">Desactivar el menu del botón de encendido</string>
-  <string name="disable_service_message">Pulsando OK detendrá %1$s.</string>
+  <string name="disable_service_message">Pulsando \"Aceptar\" detendrá %1$s.</string>
   <string name="disable_service_title">¿Detener %1$s?</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivado</string>
@@ -819,7 +818,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
   <string name="dlg_confirm_unmount_title">¿Desmontar almacenamiento USB?</string>
   <string name="dlg_error_unmount_text">"No se pudo desmontar el almacenamiento USB.  Pruebe de nuevo más tarde."</string>
   <string name="dlg_error_unmount_title"/>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">Aceptar</string>
   <string name="dndm_auto_button_title">Temporizar el modo no molestar</string>
   <string name="dndm_auto_setting_group">Programado</string>
   <string name="dndm_auto_time_setting">Establecer tiempo</string>
@@ -887,7 +886,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
   <string name="downloading_description">Descargando</string>
   <string name="drive_mode">Modo coche</string>
   <string name="drive_mode_auto_reply">Respuesta rápida</string>
-  <string name="drive_mode_auto_sms_reply_content">"No puedo hablar ahora mismo... Te llamo luego"</string>
+  <string name="drive_mode_auto_sms_reply_content">"No puedo hablar ahora mismo… Te llamo luego"</string>
   <string name="drive_mode_auto_sms_reply_content_title">Respuesta rápida</string>
   <string name="drive_mode_calling_auto_sms_reply">Responder a las llamadas</string>
   <string name="drive_mode_invert_stop_report">Gire el teléfono para silenciar</string>
@@ -1365,7 +1364,7 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
   <string name="miracast_menu_teardown">Abandonar</string>
   <string name="miracast_nickname">Establecer nuevo nombre:</string>
   <string name="miracast_no_sinks_found">No hay pantallas inalambricas cercanas</string>
-  <string name="miracast_search_for_displays">Buscando pantallas inalambricas...</string>
+  <string name="miracast_search_for_displays">Buscando pantallas inalambricas…</string>
   <string name="miracast_settings_category">Ajustes de pantalla inalámbrica</string>
   <string name="miracast_setup_cancel">Cancelar</string>
   <string name="miracast_setup_save">Guardar</string>
@@ -1412,7 +1411,7 @@ Seleccionar sistema operativo:"</string>
   <string name="msd_help_title">Ayuda</string>
   <string name="msd_install">¿Reinstalar controlador?</string>
   <string name="msd_install_download_zhushou">"He descargado Mi Phone Manager"</string>
-  <string name="msd_install_finish">OK</string>
+  <string name="msd_install_finish">Aceptar</string>
   <string name="msd_install_next">Siguiente</string>
   <string name="msd_install_retry">"Si su ordenador sigue sin detectar el dispositivo, pruebe lo siguiente:"</string>
   <string name="msd_install_retry_connect">Reconectar cable USB.</string>
@@ -1667,7 +1666,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="proxy_clear_text">Borrar</string>
   <string name="proxy_defaultView_text">Restaurar valores por defecto</string>
   <string name="proxy_error">Atención</string>
-  <string name="proxy_error_dismiss">OK</string>
+  <string name="proxy_error_dismiss">Aceptar</string>
   <string name="proxy_error_empty_host_set_port">El campo a portar debe estar vacío si el campo donde se va a acoger está vacío.</string>
   <string name="proxy_error_empty_port">Tiene que completar el campo "puerto".</string>
   <string name="proxy_error_invalid_exclusion_list">"La lista de exclusión que tecleó no está formulada correctamente. Separe con comas cada dominio a excluir."</string>
@@ -1687,7 +1686,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="quick_launch_clear_cancel_button">Cancelar</string>
   <string name="quick_launch_clear_dialog_message">Su acceso directo para %1$s (%2$s) será borrado.</string>
   <string name="quick_launch_clear_dialog_title">Borrar</string>
-  <string name="quick_launch_clear_ok_button">OK</string>
+  <string name="quick_launch_clear_ok_button">Aceptar</string>
   <string name="quick_launch_display_mode_applications">Aplicaciones</string>
   <string name="quick_launch_display_mode_shortcuts">Accesos directos</string>
   <string name="quick_launch_no_shortcut">Sin accesos directos</string>
@@ -1999,7 +1998,7 @@ Posiblemente PIN incorrecto."</string>
   <string name="sim_enable_sim_lock">Bloquear tarjeta SIM</string>
   <string name="sim_enter_cancel">Cancelar</string>
   <string name="sim_enter_new">PIN Nuevo</string>
-  <string name="sim_enter_ok">OK</string>
+  <string name="sim_enter_ok">Aceptar</string>
   <string name="sim_enter_old">PIN Antiguo</string>
   <string name="sim_enter_pin">Código PIN</string>
   <string name="sim_lock_change_not_supported">"No se puede cambiar bloqueo SIM."</string>
@@ -2196,7 +2195,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="touch_sensitive_summary">Hacer que la pantalla sea más sensible a la presión</string>
   <string name="touch_sensitive_title">Modo guantes</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
-  <string name="touch_sensitive_turn_off_confirm">OK</string>
+  <string name="touch_sensitive_turn_off_confirm">Aceptar</string>
   <string name="touch_sensitive_turn_off_summary">Apagar la prevención de marcado accidental también?</string>
   <string name="touch_sensitive_turn_off_title">Modo guantes encendido</string>
   <string name="touch_title">Tocar</string>
@@ -2252,7 +2251,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="tts_settings">Ajustes de busqueda por voz</string>
   <string name="tts_settings_changed_demo">Los ajustes han cambiado. Este es un ejemplo de como suena.</string>
   <string name="tts_settings_title">Salida de búsqueda por voz</string>
-  <string name="tts_status_checking">Chequeando...</string>
+  <string name="tts_status_checking">Chequeando…</string>
   <string name="tts_status_not_supported">%1$s no es soportado</string>
   <string name="tts_status_ok">%1$s es completamente soportado</string>
   <string name="tts_status_requires_network">%1$s requiere conexión de red</string>
@@ -2370,7 +2369,7 @@ Cualquier usuario puede aceptar actualizaciones y permisos en nombre del resto."
   <string name="user_confirm_remove_title">Borrar usuario?</string>
   <string name="user_delete_button">Borrar</string>
   <string name="user_delete_user_description">Borrar usuario</string>
-  <string name="user_dict_settings_add_dialog_confirm">OK</string>
+  <string name="user_dict_settings_add_dialog_confirm">Aceptar</string>
   <string name="user_dict_settings_add_dialog_less_options">Menos opciones</string>
   <string name="user_dict_settings_add_dialog_more_options">Más opciones</string>
   <string name="user_dict_settings_add_dialog_title">Añadir al diccionario</string>
@@ -2455,7 +2454,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="virus_scanner_scan">Toque para escanear</string>
   <string name="virus_scanner_scanning">Escaneando…</string>
   <string name="virus_scanner_select_Cancel">Cancelar</string>
-  <string name="virus_scanner_select_OK">OK</string>
+  <string name="virus_scanner_select_OK">Aceptar</string>
   <string name="virus_scanner_select_lib">Seleccionar definición de virus</string>
   <string name="virus_scanner_select_multi">Seleccionar más de un set de definiciónes de virus puede ralentizar la instalación y el escaneo</string>
   <string name="virus_scanner_select_single">Use solo definiciones de proveedores de confianza.</string>
@@ -2693,11 +2692,9 @@ Permitir esto a todas las aplicaciones que quieran encender escaneo?"</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Ninguno</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
@@ -2760,7 +2757,7 @@ Toque "&lt;b&gt;Atras&lt;/b&gt; para conectar a una red WiFi diferente.</string>
   <string name="wifi_share_connected_title">Red WiFi compartida MIUI</string>
   <string name="wifi_share_count">Ha compartido %d redes</string>
   <string name="wifi_share_current_network">Red en uso</string>
-  <string name="wifi_share_know">OK</string>
+  <string name="wifi_share_know">Aceptar</string>
   <string name="wifi_share_list_empty">No se encontraron redes compartidas.</string>
   <string name="wifi_share_login">Compartir red WiFi</string>
   <string name="wifi_share_login_summary">Si esta es una red pública,puede compartirla con otros usuarios de MIUI .</string>

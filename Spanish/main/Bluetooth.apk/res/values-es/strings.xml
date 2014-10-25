@@ -33,7 +33,7 @@
   <string name="download_fail_line1">Archivo no recibido</string>
   <string name="download_fail_line2">Archivo: %1$s</string>
   <string name="download_fail_line3">Razón: %1$s</string>
-  <string name="download_fail_ok">OK</string>
+  <string name="download_fail_ok">Aceptar</string>
   <string name="download_line1">Desde: \"%1$s\"</string>
   <string name="download_line2">Archivo: %1$s</string>
   <string name="download_line3">Tamaño del archivo: %1$s</string>
@@ -59,7 +59,7 @@
  ¿Aceptas el archivo?\"</string>
   <string name="incoming_file_confirm_ok">Aceptar</string>
   <string name="incoming_file_confirm_timeout_content">Hubo un tiempo de espera mientras se aceptaba un archivo entrante de \"%1$s\"</string>
-  <string name="incoming_file_confirm_timeout_ok">OK</string>
+  <string name="incoming_file_confirm_timeout_ok">Aceptar</string>
   <string name="incoming_file_confirm_title">Transferencia de archivos</string>
   <string name="incoming_file_toast_msg">Archivo entrante desde otro dispositivo. Confirma que quieres recibir este archivo.</string>
   <string name="insert_record">Insertar registro</string>
@@ -126,6 +126,6 @@
   <string name="upload_line3">Tipo de archivo: %1$s (%2$s)</string>
   <string name="upload_line5">Enviando archivo…</string>
   <string name="upload_succ_line5">Archivo enviado</string>
-  <string name="upload_succ_ok">OK</string>
+  <string name="upload_succ_ok">Aceptar</string>
   <string name="upload_success">Envío de %1$s completado.</string>
 </resources>

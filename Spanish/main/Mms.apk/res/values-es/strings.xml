@@ -22,9 +22,9 @@
   <string name="add_video">Añadir vídeo</string>
   <string name="adding_attachments">Espere mientras los elementos se agregan a la presentación de diapositivas.</string>
   <string name="adding_attachments_title">Agregando archivos adjuntos</string>
-  <string name="adding_recipients">Agregar destinatarios...</string>
+  <string name="adding_recipients">Agregar destinatarios…</string>
   <string name="alert_dlg_cancel_button">Cancelar</string>
-  <string name="alert_dlg_ok_button">OK</string>
+  <string name="alert_dlg_ok_button">Aceptar</string>
   <string name="app_label">Mensajes</string>
   <string name="app_name">Administración de dispositivos</string>
   <string name="attach_image">Fotos</string>
@@ -36,9 +36,9 @@
   <string name="attach_take_photo">Tomar foto</string>
   <string name="attach_video">Video</string>
   <string name="back_to_message_list">Volver a la lista de mensajes</string>
-  <string name="batch_adding_progress_message">Agregando...</string>
+  <string name="batch_adding_progress_message">Agregando…</string>
   <string name="batch_delete_confirm_dialog_message">Borrar %1$s mensajes?</string>
-  <string name="batch_deleting_message_progress_message">Eliminando...</string>
+  <string name="batch_deleting_message_progress_message">Eliminando…</string>
   <string name="batch_deleting_progress_message">Eliminando…</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="bookmark">Favorito</string>
@@ -94,7 +94,7 @@
   <string name="context_menu_view_mms">Ver MMS</string>
   <string name="conversation">Mensajes</string>
   <string name="conversation_style">bubble</string>
-  <string name="converting_to_picture_message">Convirtiendo  a mensaje multimedia...</string>
+  <string name="converting_to_picture_message">Convirtiendo a mensaje multimedia…</string>
   <string name="converting_to_text_message">Convirtiendo a mensaje de texto…</string>
   <string name="copy_message_text">Copiar texto</string>
   <string name="copy_message_text_success">Texto copiado</string>
@@ -148,7 +148,7 @@
   <string name="feedback_description_hint">Escriba su mensaje aquí</string>
   <string name="feedback_submit">Enviar feedback</string>
   <string name="festival">Respuestas rápidas</string>
-  <string name="festival_continue">OK</string>
+  <string name="festival_continue">Aceptar</string>
   <string name="festival_networking_desc">Esta función necesita conectarse a internet para funcionar.</string>
   <string name="festival_never_remind">"No mostrar de nuevo."</string>
   <string name="festival_sms_category_count_format">%s</string>
@@ -177,7 +177,7 @@
   <string name="hint_search_sms">%d mensajes</string>
   <string name="hms_add_image_progress_message">Procesando…</string>
   <string name="hms_first_use_tips">Para recibir mensajes de servicio, usted necesita estar conectado a una red WiFi</string>
-  <string name="importing_progress_private_message">Importar mensajes...</string>
+  <string name="importing_progress_private_message">Importar mensajes…</string>
   <string name="in_sms">Mensaje</string>
   <string name="insufficient_drm_rights">Insuficientes derechos DRM.</string>
   <string name="invalid_conversation">Conversación no válida</string>
@@ -186,7 +186,7 @@
   <string name="invalid_recipient_message">"Corregir destinatarios o no recibiran el mensaje."</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Diseño de presentación "</string>
-  <string name="loading_all_messages">Cargando mensajes...</string>
+  <string name="loading_all_messages">Cargando mensajes…</string>
   <string name="loading_conversations">Cargando conversaciones…</string>
   <string name="loading_mms">Cargando…</string>
   <string name="manage_permission_app_label">Permisos del dispositivo</string>
@@ -350,7 +350,7 @@
   <string name="pref_title_vcard">Enviar via vCard</string>
   <string name="pref_title_wake_up_screen">Activar pantalla</string>
   <string name="preferences_title">Ajustes</string>
-  <string name="prepare_send">Preparando para enviar...</string>
+  <string name="prepare_send">Preparando para enviar…</string>
   <string name="preview">Vista previa</string>
   <string name="preview_slideshow">Vista previa</string>
   <string name="priority_high">Alta</string>
@@ -387,7 +387,7 @@
   <string name="restore_blocked_message">Restaurar mensaje</string>
   <string name="restore_to_phone_memory_failed">"No se pudo restaurar"</string>
   <string name="restored_to_phone_memory">Restaurado</string>
-  <string name="retrive_hms_tips">Recuperar...</string>
+  <string name="retrive_hms_tips">Recuperar…</string>
   <string name="save">Guardar</string>
   <string name="save_ringtone">Guardar como tono de llamada</string>
   <string name="save_to_sim">Guardar en la tarjeta SIM</string>
@@ -414,7 +414,7 @@
   <string name="send">Enviar</string>
   <string name="send_hms_editor_hints">Mi mensaje</string>
   <string name="send_message_dlg_check_hint">"No mostrar de nuevo"</string>
-  <string name="send_message_dlg_mgs">Aviso CMCC: tenemos que registrar su plataforma de administración de dispositivos para proporcionar el servicio gratuito de post (post-service es una plataforma de CMCC que permite administrar los terminales. Te ofrece el servicio de configuración remota y actualización de la aplicación). Se enviará un mensaje gratis de información de los dispositivos de registro. El mensaje será enviado una vez y no es necesario los datos personales (no mandar de Hong Kong, Macao, Taiwan e itinerancia internacional). Seleccione \"OK\" si de acuerdo con registrar y utilizar el servicio. Seleccione \"Cancelar\" para volver y no se proporcionará ningún servicio de CMCC.</string>
+  <string name="send_message_dlg_mgs">Aviso CMCC: tenemos que registrar su plataforma de administración de dispositivos para proporcionar el servicio gratuito de post (post-service es una plataforma de CMCC que permite administrar los terminales. Te ofrece el servicio de configuración remota y actualización de la aplicación). Se enviará un mensaje gratis de información de los dispositivos de registro. El mensaje será enviado una vez y no es necesario los datos personales (no mandar de Hong Kong, Macao, Taiwan e itinerancia internacional). Seleccione \"Aceptar\" si está de acuerdo con registrar y utilizar el servicio. Seleccione \"Cancelar\" para volver y no se proporcionará ningún servicio de CMCC.</string>
   <string name="send_message_dlg_title">Administración de dispositivos</string>
   <string name="send_message_notification_msg">Pulse para ver detalles.</string>
   <string name="send_message_notification_tickerText">Solicitando permiso</string>
@@ -514,7 +514,7 @@
   <string name="user_agreement2">" Acuerdo de usuario"</string>
   <string name="user_agreement3">" y "</string>
   <string name="user_agreement4">Política de privacidad</string>
-  <string name="user_agreement5">Al presionar OK, usted acepta los términos expuestos en este documento.</string>
+  <string name="user_agreement5">Al presionar \"Aceptar\", usted acepta los términos expuestos en este documento.</string>
   <string name="view">Ver</string>
   <string name="view_bookmark">Ver mensaje original</string>
   <string name="view_hms_attachment_fail">"No se pudo descargar la imagen"</string>

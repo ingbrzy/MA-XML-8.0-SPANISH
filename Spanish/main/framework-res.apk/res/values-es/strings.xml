@@ -61,8 +61,8 @@
   <string name="allow">Permitir</string>
   <string name="alwaysUse">Usar siempre para esta acción</string>
   <string name="android_system_label">Sistema Android</string>
-  <string name="android_upgrading_apk">Optimizando aplicación %1$d de %2$d...</string>
-  <string name="android_upgrading_complete">Finalizando inicio...</string>
+  <string name="android_upgrading_apk">Optimizando aplicación %1$d de %2$d…</string>
+  <string name="android_upgrading_complete">Finalizando inicio…</string>
   <string name="android_upgrading_starting_apps">Iniciando aplicaciones</string>
   <string name="android_upgrading_title">Actualizando Android</string>
   <string name="anr_activity_application">"La aplicación %2$s no responde.
@@ -129,6 +129,7 @@
   <string name="choose_account_label">Selecciona una cuenta</string>
   <string name="chooser_wallpaper">Cambiar fondo de pantalla</string>
   <string name="clearDefaultHintMsg">Para borrar los valores predeterminados, accede a Ajustes del sistema &gt; Aplicaciones &gt; Descargadas.</string>
+  <string name="common_last_name_prefixes"/>
   <string name="common_name">Nombre común:</string>
   <string name="configure_input_methods">Configurar métodos de entrada</string>
   <string name="contentServiceSync">Sincronización</string>
@@ -206,7 +207,7 @@ con %s"</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="ellipsis">…</string>
-  <string name="ellipsis_two_dots">...</string>
+  <string name="ellipsis_two_dots">…</string>
   <string name="emailTypeCustom">Personalizado</string>
   <string name="emailTypeHome">Casa</string>
   <string name="emailTypeMobile">Móvil</string>
@@ -227,7 +228,7 @@ con %s"</string>
   <string name="expires_on">Fecha de caducidad:</string>
   <string name="ext_media_badremoval_notification_message">Desactiva el almacenamiento USB antes de extraerlo para evitar pérdidas de datos.</string>
   <string name="ext_media_badremoval_notification_title">USB extraído inesperadamente</string>
-  <string name="ext_media_checking_notification_message">Comprobando errores...</string>
+  <string name="ext_media_checking_notification_message">Comprobando errores…</string>
   <string name="ext_media_checking_notification_title">Preparando almacenamiento USB</string>
   <string name="ext_media_nofs_notification_message">Almacenamiento USB vacío o con sistema de archivos no admitido</string>
   <string name="ext_media_nofs_notification_title">Almacenamiento USB vacío</string>
@@ -282,6 +283,7 @@ con %s"</string>
   <string name="granularity_label_line">línea</string>
   <string name="granularity_label_link">enlace</string>
   <string name="granularity_label_word">palabra</string>
+  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Hardware</string>
   <string name="heavy_weight_notification">%1$s en ejecución</string>
   <string name="heavy_weight_notification_detail">Toca esta opción para cambiar a la aplicación.</string>
@@ -435,11 +437,14 @@ Inténtalo de nuevo en %d segundos."</string>
   <string name="launch_warning_replace">%1$s se está ejecutando.</string>
   <string name="launch_warning_title">Aplicación redireccionada</string>
   <string name="list_delimeter">", "</string>
-  <string name="loading">Cargando...</string>
+  <string name="loading">Cargando…</string>
+  <string name="locale_replacement"/>
+  <string name="lock_pattern_view_aspect">cuadrado</string>
   <string name="lockscreen_access_pattern_cell_added">Se ha añadido una celda.</string>
   <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
   <string name="lockscreen_access_pattern_detected">Patrón completado</string>
   <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
+  <string name="lockscreen_airplane_mode_on">Modo Avión</string>
   <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_carrier_default">Sin servicio</string>
   <string name="lockscreen_charged">Cargada</string>
@@ -452,7 +457,7 @@ Inténtalo de nuevo en %d segundos."</string>
   <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Si has olvidado tu nombre de usuario o tu contraseña,
 accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
-  <string name="lockscreen_glogin_checking_password">Comprobando...</string>
+  <string name="lockscreen_glogin_checking_password">Comprobando…</string>
   <string name="lockscreen_glogin_forgot_pattern">Desbloqueo de cuenta</string>
   <string name="lockscreen_glogin_instructions">Para desbloquear el teléfono, inicia sesión con tu cuenta de Google.</string>
   <string name="lockscreen_glogin_invalid_input">Nombre de usuario o contraseña no válido</string>
@@ -478,10 +483,11 @@ accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_plugged_in">Cargando (%d%%)</string>
   <string name="lockscreen_return_to_call">Volver a llamada</string>
   <string name="lockscreen_screen_locked">Pantalla bloqueada</string>
+  <string name="lockscreen_sim_error_message_short">Tarjeta no válida.</string>
   <string name="lockscreen_sim_locked_message">Introduce el código PIN.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Consulta la guía del usuario o ponte en contacto con el servicio de atención al cliente.</string>
   <string name="lockscreen_sim_puk_locked_message">La tarjeta SIM está bloqueada con el código PUK.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM...</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
   <string name="lockscreen_sound_off_label">Desactivar sonido</string>
   <string name="lockscreen_sound_on_label">Activar sonido</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Espera %d segundos y vuelve a intentarlo.</string>
@@ -514,10 +520,10 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="media_route_chooser_title_for_remote_display">Enviar pantalla a dispositivo</string>
   <string name="media_route_controller_disconnect">Desconectar</string>
   <string name="media_route_status_available">Disponible</string>
-  <string name="media_route_status_connecting">Conectando...</string>
+  <string name="media_route_status_connecting">Conectando…</string>
   <string name="media_route_status_in_use">En uso</string>
   <string name="media_route_status_not_available">No disponible</string>
-  <string name="media_route_status_scanning">Analizando...</string>
+  <string name="media_route_status_scanning">Analizando…</string>
   <string name="media_shared">Un equipo está utilizando actualmente el almacenamiento USB.</string>
   <string name="media_unknown_state">Estado de medio externo desconocido</string>
   <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Ka</string>
@@ -772,7 +778,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_manageUsers">Permite a las aplicaciones administrar los usuarios del dispositivo, p. ej., buscarlos, crearlos y eliminarlos.</string>
   <string name="permdesc_markNetworkSocket">Permite que la aplicación modifique marcas de socket para enrutamiento</string>
   <string name="permdesc_masterClear">Permite que la aplicación restablezca por completo el sistema a su configuración de fábrica borrando todos los datos, los ajustes y las aplicaciones instaladas.</string>
-  <string name="permdesc_mediaContentControl">Permite que la aplicación controle la reproducción de archivos multimedia y acceda a información de este tipo de archivos (título, autor...).</string>
+  <string name="permdesc_mediaContentControl">Permite que la aplicación controle la reproducción de archivos multimedia y acceda a información de este tipo de archivos (título, autor…).</string>
   <string name="permdesc_mediaStorageWrite">Permite que la aplicación modifique el contenido del almacenamiento multimedia interno.</string>
   <string name="permdesc_modifyAudioSettings">Permite que la aplicación modifique la configuración de audio global (por ejemplo, el volumen y el altavoz de salida).</string>
   <string name="permdesc_modifyNetworkAccounting">Permite que la aplicación modifique cómo se registra el uso de red en relación con las aplicaciones. Las aplicaciones normales no deben usar este permiso.</string>
@@ -930,6 +936,8 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permgrouplab_voicemail">Buzón de voz</string>
   <string name="permgrouplab_wallpaper">Fondo de pantalla</string>
   <string name="permgrouplab_writeDictionary">Escribir en el diccionario del usuario</string>
+  <string name="permission">Permiso</string>
+  <string name="permission_remember_choice">Recordar</string>
   <string name="permission_request_notification_title">Permiso solicitado</string>
   <string name="permission_request_notification_with_subtitle">"Permiso solicitado
 para la cuenta %s"</string>
@@ -1170,6 +1178,8 @@ para la cuenta %s"</string>
   <string name="phoneTypeWork">Trabajo</string>
   <string name="phoneTypeWorkMobile">Móvil del trabajo</string>
   <string name="phoneTypeWorkPager">Busca del trabajo</string>
+  <string name="pinpuk_attempts">"
+Intentos restantes:"</string>
   <string name="policydesc_disableCamera">Evitar el uso de las cámaras del dispositivo</string>
   <string name="policydesc_disableKeyguardFeatures">Evita el uso de algunas funciones durante el bloqueo.</string>
   <string name="policydesc_encryptedStorage">Exige que se encripten los datos de la aplicación almacenados.</string>
@@ -1202,11 +1212,14 @@ para la cuenta %s"</string>
   <string name="preposition_for_year">en %s</string>
   <string name="print_service_installed_message">Tocar para habilitar</string>
   <string name="print_service_installed_title">El servicio %s se ha instalado</string>
-  <string name="progress_erasing">Borrando almacenamiento USB...</string>
-  <string name="progress_unmounting">Desactivando almacenamiento USB...</string>
+  <string name="progress_erasing">Borrando almacenamiento USB…</string>
+  <string name="progress_nomediapresent">No hay medios extraíbles…</string>
+  <string name="progress_unmounting">Desactivando almacenamiento USB…</string>
   <string name="quick_contacts_not_available">No se ha encontrado ninguna aplicación para ver este contacto.</string>
   <string name="reason_service_unavailable">Servicio de impresión no habilitado</string>
   <string name="reason_unknown">desconocido</string>
+  <string name="reboot_confirm">Su teléfono rearrancará.</string>
+  <string name="reboot_progress">Rearrancando…</string>
   <string name="reboot_safemode_confirm">¿Quieres reiniciar el sistema en modo seguro? Se inhabilitarán todas las aplicaciones externas que hayas instalado. Esas aplicaciones se restaurarán la próxima vez que reinicies del sistema.</string>
   <string name="reboot_safemode_title">Reiniciar en modo seguro</string>
   <string name="recent_tasks_title">Reciente</string>
@@ -1226,7 +1239,7 @@ para la cuenta %s"</string>
   <string name="relationTypeSister">Hermana</string>
   <string name="relationTypeSpouse">Cónyuge</string>
   <string name="relative_time">%1$s, %2$s</string>
-  <string name="replace">Sustituir...</string>
+  <string name="replace">Sustituir…</string>
   <string name="report">Informar</string>
   <string name="reset">Restablecer</string>
   <string name="restr_pin_confirm_pin">Confirma tu nuevo PIN</string>
@@ -1286,7 +1299,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="select_keyboard_layout_notification_message">Toca para seleccionar un diseño de teclado.</string>
   <string name="select_keyboard_layout_notification_title">Selecciona un diseño de teclado</string>
   <string name="sendText">Selecciona una acción para el texto</string>
-  <string name="sending">Enviando...</string>
+  <string name="sending">Enviando…</string>
   <string name="serial_number">Número de serie:</string>
   <string name="serviceClassData">Datos</string>
   <string name="serviceClassDataAsync">Asíncronos</string>
@@ -1311,7 +1324,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="shareactionprovider_share_with_application">Compartir con %s</string>
   <string name="shutdown_confirm">El teléfono se apagará.</string>
   <string name="shutdown_confirm_question">¿Seguro que quieres apagar el teléfono?</string>
-  <string name="shutdown_progress">Apagando...</string>
+  <string name="shutdown_progress">Apagando…</string>
   <string name="silent_mode">Modo silencio</string>
   <string name="silent_mode_ring">Timbre activado</string>
   <string name="silent_mode_silent">Timbre desactivado</string>
@@ -1329,7 +1342,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="skip_button_label">Saltar</string>
   <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; está enviando un gran número de mensajes SMS. ¿Quieres permitir que está aplicación siga enviando mensajes?</string>
   <string name="sms_control_no">Denegar</string>
-  <string name="sms_control_title">Enviando mensajes SMS...</string>
+  <string name="sms_control_title">Enviando mensajes SMS…</string>
   <string name="sms_control_yes">Permitir</string>
   <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;Se aplicar&amp;#225;n cargos en tu cuenta m&amp;#243;vil.&lt;/font&gt;</string>
   <string name="sms_short_code_confirm_allow">Enviar</string>
@@ -1375,6 +1388,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="time_picker_increment_hour_button">Aumentar horas</string>
   <string name="time_picker_increment_minute_button">Aumentar minutos</string>
   <string name="time_picker_increment_set_pm_button">Establecer p.m.</string>
+  <string name="transient_navigation_confirmation_long">Barra desde el borde de la pantalla para mostrar la barra de sistema</string>
   <string name="turn_off_radio">Desactivar función inalámbrica</string>
   <string name="turn_on_radio">Activar conexión inalámbrica</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Toca dos veces para acceder al control de zoom.</string>
@@ -1488,6 +1502,8 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="weeks">semanas</string>
   <string name="whichApplication">Completar acción utilizando</string>
   <string name="whichHomeApplication">Seleccionar una aplicación en la pantalla de inicio</string>
+  <string name="widget_default_class_name"/>
+  <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Iniciar sesión en red WiFi</string>
   <string name="wifi_display_notification_connected_message">Conectado a %1$s</string>
   <string name="wifi_display_notification_connected_title">Enviando pantalla</string>

@@ -7,10 +7,23 @@
   <string name="alert_notif_title_dspt">Sin sincronizar</string>
   <string name="app_name">Mi Cloud</string>
   <string name="app_sync_off">Sincronización de aplicaciones desactivada</string>
+  <string name="apple_10gb">20GB</string>
+  <string name="apple_cloud">Servicio en la Nube de Apple</string>
+  <string name="apple_cloud_eng">iCloud</string>
+  <string name="apple_cloud_price">Aprox. 9 EUR al año</string>
   <string name="bad_authentication">Contraseña o nombre de usuario no válidos</string>
   <string name="btn_return">Atrás</string>
   <string name="button_cancel">Cancelar</string>
+  <string name="buy_space_sulotion_auto_renew">Renovación Automática</string>
+  <string name="buy_space_sulotion_message">Va a comprar %sGB</string>
+  <string name="buy_space_sulotion_not_auto_renew">No renovar automáticamente</string>
+  <string name="buy_space_sulotion_renew_message">Válido para %s</string>
+  <string name="buy_space_sulotion_renew_title">Seleccione el modo de renovación</string>
+  <string name="buy_space_sulotion_title">Solución de almacenamiento en la Nube</string>
   <string name="cloud_find_device">Encontrar dispositivo</string>
+  <string name="cloud_space_upgrade_message">Toque para obtener %s GB de espacio gratis este mes</string>
+  <string name="cloud_space_upgrade_no_quota_info">Fecha errónea, por favor inténtelo de nuevo</string>
+  <string name="cloud_space_upgrade_title">¡Obtenga Espacio Gratis en la Nube!</string>
   <string name="cloud_sync_setting_summary_standard">Usar la conexión de datos móviles para sincronizar SMS, información de Contactos y registro de llamadas. Usar WiFi para sincronizar fotos, vídeos, MMS, datos de aplicaciones, fotos de Contactos y más.</string>
   <string name="cloud_sync_setting_summary_wlan">Sincronizar sólo cuando esté conectado a WiFi</string>
   <string name="cmcc_micloud_dspt">Usar Mi Cloud para sincronizar datos, localizar tu dispositivo,</string>
@@ -42,7 +55,7 @@
   <string name="find_device_dspt_provision">"Si pierde su dispositivo, puede ir a "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_3">" para localizar, bloquear o borrarlo.
-    
+ 
 Puede habilitar o deshabilitar esta característica en cualquier momento en Ajustes."</string>
   <string name="find_device_enabling">Encendiendo…</string>
   <string name="find_device_error_network">Compruebe su conexión de datos y vuelva a intentarlo.</string>
@@ -53,14 +66,22 @@ Puede habilitar o deshabilitar esta característica en cualquier momento en Ajus
   <string name="find_device_notice_p3">"para localizar, bloquear, o borrar su teléfono.
 Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el servicio."</string>
   <string name="find_device_send_sms_alert">Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el servicio.</string>
-  <string name="find_device_stop_noise">Toca OK para silenciar</string>
+  <string name="find_device_stop_noise">Toca Aceptar para silenciar</string>
   <string name="find_device_success_title">Encontrar dispositivo</string>
   <string name="finish">De acuerdo</string>
   <string name="flight_mode">Modo Avión</string>
+  <string name="free_space_has_received">Ya ha recibido espacio Gratis este mes</string>
+  <string name="free_space_receive_fail">"No se puede actualizar o ya ha sido actualizado"</string>
   <string name="full_space">No hay espacio suficiente</string>
+  <string name="get_first_month_gb">Obtener %s espacio gratis por primera vez</string>
+  <string name="get_this_month_gb">Obtener %s espacio gratis este mes</string>
+  <string name="google_100gb">100GB</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">Aprox. 18 EUR al año</string>
   <string name="header_data_and_synchronization">Datos y sincronización</string>
   <string name="header_other_settings">Otros</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">Aceptar</string>
   <string name="internet">Internet</string>
   <string name="internet_disconnected">No hay conexión de datos</string>
   <string name="less_flow_mode">Data saver</string>
@@ -74,14 +95,14 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el
   <string name="micloud_dspt_provision">Usa Mi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con amigos.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_full_influence_dspt">"Todas tus fotos, vídeos, notas y aplicaciones permanecerán respaldadas en la nube.
+  <string name="micloud_full_influence_dspt">"Todas sus fotos, vídeos, notas y aplicaciones permanecerán respaldadas en la nube.
 
-De esta manera, si pierdes o dañas tu dispositivo, tus datos permanecerán seguros.
+De esta manera, si pierde o daña su dispositivo, sus datos permanecerán seguros.
 
-Cuando tu nube está llena, tus datos antiguos no irán a ninguna parte. Sin embargo, cualquier contenido que añadas (ej. fotos, vídeos, notas y aplicaciones) no será respaldado.
+Cuando su nube está llena, sus datos antiguos no irán a ninguna parte. Sin embargo, cualquier contenido que añada (ej. fotos, vídeos, notas y aplicaciones) ya no será respaldado.
 
-Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espacio a nuevos o adquirir espacio de almacenamiento adicional."</string>
-  <string name="micloud_full_influence_title">Cuando tu Mi Cloud está lleno…</string>
+Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio a nuevos o adquirir espacio de almacenamiento adicional."</string>
+  <string name="micloud_full_influence_title">Cuando su Mi Cloud está llena…</string>
   <string name="micloud_main_data_unsynced">%d elementos a sincronizar</string>
   <string name="micloud_main_last_sync_time">Última sincronización</string>
   <string name="micloud_main_network_error">"No se pudo conectar a la red"</string>
@@ -91,6 +112,7 @@ Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espaci
   <string name="micloud_main_sync_on_wifi">Usar WiFi</string>
   <string name="micloud_main_sync_stop">Detener la sincronización</string>
   <string name="micloud_more">Aprende más</string>
+  <string name="micloud_other_product_price">Precio de otros productos similares:</string>
   <string name="micloud_proceed">Continuar</string>
   <string name="micloud_sec_dspt">y compartir cosas con amigos.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;¿Qué ocurre cuando me quedo sin espacio?&lt;/u&gt;</string>
@@ -110,6 +132,10 @@ Para solucionar esto, puedes limpiar algunos archivos antiguos para dejar espaci
   <string name="micloud_warn_low_title">Casi sin espacio…</string>
   <string name="micloud_web_discription_01">Inicia sesión en i.mi.com</string>
   <string name="micloud_web_discription_02">para guardar y acceder a tus archivos desde cualquier parte</string>
+  <string name="microsoft_cloud">Servicio en la Nube de Microsoft</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">Aprox. 10 EUR al año</string>
+  <string name="more_activity_in_upgrade_space">Aprenda más en &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi Mensajes</string>
   <string name="mx_dspt_provision">"Mi Mensajes le permite enviar mensajes a otros usuarios MIUI sin incurrir en los costes de los SMS.
 
@@ -140,6 +166,7 @@ Puede habilitar o deshabilitar esta característica en cualquier momento en Ajus
   <string name="sub_alert_notif_title">Sin sincronizar</string>
   <string name="sub_sync_item_sms_summary">"Sincronizar mensajes que contengan fotos, audio u otro contenido multimedia únicamente cuando estés conectado a una red WiFi"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Utilizar sólo WiFi para sincronizar MMS</string>
+  <string name="success_upgraded_space">%s añadidos</string>
   <string name="sync">Sincronizar</string>
   <string name="sync_dspt">Habilitar sincronización</string>
   <string name="sync_dspt_provision">"Mi Nube sincroniza sus fotos, SMS, notas y más, entre sus dispositivos Mi. También puede acceder a ellos desde cualquier Navegador en "</string>
@@ -166,13 +193,21 @@ Puede habilitar o deshabilitar esta característica en cualquier momento en Ajus
   <string name="sync_sub_int_dspt">El mensaje de activación está sujeto a cargos de datos internacionales.</string>
   <string name="system_sync_off">Apagar sincronización de sistema</string>
   <string name="title_reg">Crear una cuenta</string>
+  <string name="total_space_upgraded_to">Espacio Total:%s</string>
   <string name="unactivated_user">Desactivado</string>
+  <string name="upgrade_space">Añadir espacio</string>
+  <string name="upgrade_space_gb">GB</string>
+  <string name="upgrade_space_mibipreyear">%s Mi Credit al año</string>
+  <string name="upgrade_space_successful">Actualización correcta %sGB</string>
+  <string name="upgrade_space_successful_total">Espacio Total actualizado a %sGB</string>
+  <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Acuerdo de Usuario</string>
   <string name="user_agreement_p6">"El uso de esta característica está sujeto a "</string>
   <string name="user_agreement_p7">"los Términos de Servicio de Mi Nube"</string>
   <string name="user_agreement_p8">.</string>
   <string name="vcode">Código de verificación</string>
   <string name="verify">Verificar</string>
+  <string name="view_storage_title">Ver espacio en la Nube</string>
   <string name="wifi">WiFi</string>
   <string name="wifi_disconnected">No hay WiFi</string>
   <string name="wifi_sync">Esperar a la WiFi</string>
@@ -180,39 +215,22 @@ Puede habilitar o deshabilitar esta característica en cualquier momento en Ajus
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="apple_10gb">20GB</string>
-  <string name="apple_cloud">Servicio en la Nube de Apple</string>
-  <string name="apple_cloud_eng">iCloud</string>
-  <string name="apple_cloud_price">Aprox. 9 EUR al año</string>
-  <string name="buy_space_sulotion_auto_renew">Renovación Automática</string>
-  <string name="buy_space_sulotion_message">Va a comprar %sGB</string>
-  <string name="buy_space_sulotion_not_auto_renew">No renovar automáticamente</string>
-  <string name="buy_space_sulotion_renew_message">Válido para %s</string>
-  <string name="buy_space_sulotion_renew_title">Seleccione el modo de renovación</string>
-  <string name="buy_space_sulotion_title">Solución de almacenamiento en la Nube</string>
-  <string name="cloud_space_upgrade_message">Toque para obtener %s GB de espacio gratis este mes</string>
-  <string name="cloud_space_upgrade_no_quota_info">Fecha errónea, por favor inténtelo de nuevo</string>
-  <string name="cloud_space_upgrade_title">¡Obtenga Espacio Gratis en la Nube!</string>
-  <string name="free_space_has_received">Ya ha recibido espacio Gratis este mes</string>
-  <string name="free_space_receive_fail">"No se puede actualizar o ya ha sido actualizado"</string>
-  <string name="get_first_month_gb">Obtener %s espacio gratis por primera vez</string>
-  <string name="get_this_month_gb">Obtener %s espacio gratis este mes</string>
-  <string name="google_100gb">100GB</string>
-  <string name="google_cloud">Google Drive</string>
-  <string name="google_cloud_eng">Google Drive</string>
-  <string name="google_cloud_price">Aprox. 18 EUR al año</string>
-  <string name="micloud_other_product_price">Precio de otros productos similares:</string>
-  <string name="microsoft_cloud">Servicio en la Nube de Microsoft</string>
-  <string name="microsoft_cloud_eng">One Drive</string>
-  <string name="microsoft_cloud_price">Aprox. 10 EUR al año</string>
-  <string name="more_activity_in_upgrade_space">Aprenda más en &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
-  <string name="success_upgraded_space">%s añadidos</string>
-  <string name="total_space_upgraded_to">Espacio Total:%s</string>
-  <string name="upgrade_space">Añadir espacio</string>
-  <string name="upgrade_space_gb">GB</string>
-  <string name="upgrade_space_mibipreyear">%s Mi Credit al año</string>
-  <string name="upgrade_space_successful">Actualización correcta %sGB</string>
-  <string name="upgrade_space_successful_total">Espacio Total actualizado a %sGB</string>
-  <string name="upgrade_space_tb">TB</string>
-  <string name="view_storage_title">Ver espacio en la Nube</string>
 </resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
