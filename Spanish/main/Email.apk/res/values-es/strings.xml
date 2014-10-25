@@ -95,11 +95,11 @@
   <string name="account_setup_failed_certificate_required">Se requiere un certificado de cliente. ¿Quieres conectar con el servidor con un certificado de cliente?</string>
   <string name="account_setup_failed_check_credentials_message">El servidor respondió con un error. Compruebe su nombre de usuario y contraseña, luego vuelva a intentarlo.</string>
   <string name="account_setup_failed_dlg_auth_message">Nombre de usuario o contraseña son incorrectos.</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">\"Error de inicio de sesión.
-(%s)\"</string>
+  <string name="account_setup_failed_dlg_auth_message_fmt">"Error de inicio de sesión.
+(%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">"No se puede conectar seguramente con el servidor."</string>
-  <string name="account_setup_failed_dlg_certificate_message_fmt">\"No se puede conectar seguramente con el servidor.
-(%s)\"</string>
+  <string name="account_setup_failed_dlg_certificate_message_fmt">"No se puede conectar seguramente con el servidor.
+(%s)"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Editar los detalles</string>
   <string name="account_setup_failed_dlg_server_message">"No se puede conectar al servidor."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"No se puede contactar con el servidor.
@@ -229,8 +229,8 @@
   <string name="attachments_header">Archivos adjuntos</string>
   <string name="auth_error_notification_text">Toque para editar la configuración de la cuenta para %s</string>
   <string name="auth_error_notification_title">Error de autenticación</string>
-  <string name="auto_advance_help_title">\"Configurar las preferencias de avance automático
-(después de eliminar, etc.)\"</string>
+  <string name="auto_advance_help_title">"Configurar las preferencias de avance automático
+(después de eliminar, etc.)"</string>
   <string name="auto_advance_label">Avance automático</string>
   <string name="auto_advance_summary">Elija cual pantalla se mostrara después de eliminar un mensaje</string>
   <string name="auto_sync_off">Sincronización automática apagada.</string>
@@ -513,7 +513,7 @@
   <string name="message_body_auto_download_complete">Descargar automáticamente el correo al usar WiFi</string>
   <string name="message_body_auto_download_tip">"Actualmente estás usando WiFi. Se descargará automáticamente correo electrónico"</string>
   <string name="message_body_download_failed">Tiempo de espera cuando se descarga el correo electrónico</string>
-  <string name="message_compose_fwd_header_fmt">\"
+  <string name="message_compose_fwd_header_fmt">"
 
 -------- Mensaje original --------
 Asunto: %1$s
@@ -521,7 +521,7 @@ De: %2$s
 Para: %3$s
 CC: %4$s
 
-\"</string>
+"</string>
   <string name="message_compose_insert_quick_response_list_title">Inserte una respuesta rápida</string>
   <string name="message_compose_insert_quick_response_menu_title">Inserte una respuesta rápida</string>
   <string name="message_count_spacer">  </string>
@@ -727,7 +727,7 @@ CC: %4$s
   <string name="sending">Enviando…</string>
   <string name="sending_message">Enviando el mensaje…</string>
   <string name="sent_folder_selection_title">Seleccione la carpeta de elementos enviados para el servidor %s</string>
-  <string name="ser_resp_err_map_certificate_validator_err">\"Se ha podido validar certificado de servidor \u0009 (comprobar si el ajuste es \'Tiempo de sincronización automática\')\"</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Se ha podido validar certificado de servidor \u0009 (comprobar si el ajuste es \'Tiempo de sincronización automática\')"</string>
   <string name="ser_resp_err_map_nouser">No existe ese usuario</string>
   <string name="ser_resp_err_map_or">O</string>
   <string name="ser_resp_err_map_serclosed">Servicio cerrado</string>
@@ -739,15 +739,15 @@ CC: %4$s
   <string name="show_elided">▶ Mostrar texto citado</string>
   <string name="show_images">Descargar y ver fotos</string>
   <string name="show_n_more_folders">Mostrar %1$s carpetas más</string>
-  <string name="signature">\"
+  <string name="signature">"
 
 
 
-%s\"</string>
+%s"</string>
   <string name="signin">Inicio de sesión</string>
   <string name="silent_ringtone">Silencioso</string>
-  <string name="single_new_message_notification_big_text">\"%1$s
-%2$s\"</string>
+  <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sort_attachment">Ordenar por</string>
   <string name="spaceChar">" "</string>
@@ -799,7 +799,7 @@ CC: %4$s
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">a través de %1$s</string>
   <string name="view_more_conversations">Ver más conversaciones</string>
-  <string name="wait_for_manual_sync_body">\"Esta cuenta no está configurada para sincronizar automáticamente. Toque \" Sincronizar ahora  para sincronizar el correo una vez, o Cambiar ajustes de sincronización para configurar la sincronización automática de esta cuenta.</string>
+  <string name="wait_for_manual_sync_body">"Esta cuenta no está configurada para sincronizar automáticamente. Toque " Sincronizar ahora  para sincronizar el correo una vez, o Cambiar ajustes de sincronización para configurar la sincronización automática de esta cuenta.</string>
   <string name="wait_for_sync_body">Su correo electrónico aparecerá en breve.</string>
   <string name="wait_for_sync_body_2">Exchange Server le preguntará dentro de 1 – 30 segundos.Confirme la configuración de seguridad y active. Preste atención a las alertas del sistema.</string>
   <string name="wait_for_sync_body_txt_array_1">Exchange Server le preguntará en</string>
@@ -818,9 +818,9 @@ CC: %4$s
   <string name="xiaomi_external_storage_unavailable">Almacenamiento no disponible, por favor revise la tarjeta SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">\"Nueva versión %1$s tamaño: %2$s\"</string>
-  <string name="xiaomi_update_dialog_message_diff">\"Nueva versión %1$s 
-Incremento de tamaño: %2$s\"</string>
+  <string name="xiaomi_update_dialog_message">"Nueva versión %1$s tamaño: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Nueva versión %1$s 
+Incremento de tamaño: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s ¡actualización!</string>
   <string name="yes">Si</string>
   <string name="zip_viewer_no_file">Vacío</string>
