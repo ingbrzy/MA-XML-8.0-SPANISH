@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplicaciones</string>
-  <string name="Dashboard_HIPS_Disable_Content">\"Al desactivarlo detendrá el servicio de monitoreo de solicitudes de aplicación lo que detendrá la protección de su seguridad y privacidad.
-¿Está seguro de que quiere desactivarlo?\"</string>
+  <string name="Dashboard_HIPS_Disable_Content">"Al desactivarlo detendrá el servicio de monitoreo de solicitudes de aplicación lo que detendrá la protección de su seguridad y privacidad.
+¿Está seguro de que quiere desactivarlo?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Monitor de permiso</string>
   <string name="Dashboard_Log">Registros</string>
   <string name="Dashboard_Log_Clear_Content">Se borrarán todos los registros. ¿Está seguro que habilitarlo?</string>
@@ -23,14 +23,14 @@
   <string name="Dashboard_Perm_SU_Desc">Monitoreando %1$d aplicaciones con permiso ROOT</string>
   <string name="Dashboard_Perm_SU_Disabled">Permisos ROOT están desactivados</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Acceso ROOT no esta disponible en la versión MIUI estable</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">\"Conceder permisos de ROOT a aplicaciones de terceros puede causar inestabilidad del sistema, perdida de datos personales e incluso daños en el software y hardware.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Conceder permisos de ROOT a aplicaciones de terceros puede causar inestabilidad del sistema, perdida de datos personales e incluso daños en el software y hardware.
 
-Por favor cambie a una versión de desarrollo de MIUI para habilitar el acceso ROOT\"</string>
+Por favor cambie a una versión de desarrollo de MIUI para habilitar el acceso ROOT"</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Descargar MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Permisos de ROOT</string>
-  <string name="Dashboard_Su_Enable_Content">\"Activando esta opción permitirá a las aplicaciones solicitar permisos de root.
-Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, perdida de datos personales, del sistema o incluso daño en el hardware, por favor se cuidadoso. ¿Esta seguro de activarlo?\"</string>
+  <string name="Dashboard_Su_Enable_Content">"Activando esta opción permitirá a las aplicaciones solicitar permisos de root.
+Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, perdida de datos personales, del sistema o incluso daño en el hardware, por favor se cuidadoso. ¿Esta seguro de activarlo?"</string>
   <string name="Dashboard_Su_Enable_Title">Permisos de ROOT</string>
   <string name="Generic_Canceling">Cancelando...</string>
   <string name="Generic_Check">Verificar</string>

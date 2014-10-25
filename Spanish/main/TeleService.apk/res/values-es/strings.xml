@@ -320,10 +320,10 @@
   <string name="fdn_enabled">Números de Marcación Fija habilitados</string>
   <string name="fdn_invalid_number">"FDN no fue actualizado porque el número no puede exceder de 20 dígitos."</string>
   <string name="fdn_summary">Restringir llamadas salientes a los FDNs listados o a números con ciertos prefijos</string>
-  <string name="fw_change_failed">\"No se pudo cambiar el número de desvío.
-Contacte con su operadora si el problema persiste.\"</string>
-  <string name="fw_get_in_vm_failed">\"No se pudo recuperar y guardar la configuración del actual número de desvío.
-¿Cambiar al nuevo proveedor de todos modos?\"</string>
+  <string name="fw_change_failed">"No se pudo cambiar el número de desvío.
+Contacte con su operadora si el problema persiste."</string>
+  <string name="fw_get_in_vm_failed">"No se pudo recuperar y guardar la configuración del actual número de desvío.
+¿Cambiar al nuevo proveedor de todos modos?"</string>
   <string name="general_news_settings">Noticias generales</string>
   <string name="general_setting">Ajustes</string>
   <string name="get_pin2">Introduzca el PIN2</string>
@@ -525,9 +525,9 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="ota_activate">Activado</string>
   <string name="ota_call_end">Atras</string>
   <string name="ota_failure">Programación no realizada</string>
-  <string name="ota_hfa_activation_dialog_message">\"El teléfono esta activando su servicio de datos.
+  <string name="ota_hfa_activation_dialog_message">"El teléfono esta activando su servicio de datos.
 
-Puede tardar más de 5 minutos.\"</string>
+Puede tardar más de 5 minutos."</string>
   <string name="ota_hfa_activation_title">Activando...</string>
   <string name="ota_listen">Siga las instrucciones habladas hasta que escuche que la activación esta completada.</string>
   <string name="ota_next">Siguiente</string>
@@ -541,14 +541,14 @@ Puede tardar más de 5 minutos.\"</string>
   <string name="ota_title_activate">Activar su teléfono</string>
   <string name="ota_title_activate_success">El teléfono esta activado. </string>
   <string name="ota_title_problem_with_activation">Problem with activation</string>
-  <string name="ota_touch_activate">\"Se necesita realizar una llamada especial para activar el servicio de su teléfono.
+  <string name="ota_touch_activate">"Se necesita realizar una llamada especial para activar el servicio de su teléfono.
 
-Después de pulsar “Activar”, escuché las instrucciones suministradas para activar su teléfono.\"</string>
+Después de pulsar “Activar”, escuché las instrucciones suministradas para activar su teléfono."</string>
   <string name="ota_try_again">Probar otra vez</string>
-  <string name="ota_unsuccessful">\"Su teléfono no se activo. 
+  <string name="ota_unsuccessful">"Su teléfono no se activo. 
 Posiblemente necesita encontrar un área con mejor cobertura (cerca de la ventana o en el exterior). 
 
-Probar de nuevo o llamar a atención al cliente para más opciones.\"</string>
+Probar de nuevo o llamar a atención al cliente para más opciones."</string>
   <string name="other_settings">Otros ajustes de llamada</string>
   <string name="other_settings_category">Otros</string>
   <string name="password">Contraseña</string>
@@ -567,14 +567,14 @@ Probar de nuevo o llamar a atención al cliente para más opciones.\"</string>
   <string name="pin2_changed">Se ha cambiado el PIN2 satisfactoriamente. </string>
   <string name="pin2_invalid">"FDN no se actualizo porque el PIN introducido es incorrecto."</string>
   <string name="pin2_invalid_or_name_is_too_long">Ha introducido un PIN inválido o el nombre introducido es demasiado largo</string>
-  <string name="pin2_lock_warning">\"
-Las funciones relacionadas con el PIN2 se bloquearan después de otro intento fallido\"</string>
-  <string name="pin_attempts">\"
-Quedan %d intentos.\"</string>
+  <string name="pin2_lock_warning">"
+Las funciones relacionadas con el PIN2 se bloquearan después de otro intento fallido"</string>
+  <string name="pin_attempts">"
+Quedan %d intentos."</string>
   <string name="pin_changed">El PIN de la tarjeta SIM se ha cambiado satisfactoriamente.</string>
   <string name="pin_failed">El PIN introducido es incorrecto.</string>
-  <string name="pin_lock_warning">\"
-El teléfono se bloqueará automáticamente después de otro intento fallido\"</string>
+  <string name="pin_lock_warning">"
+El teléfono se bloqueará automáticamente después de otro intento fallido"</string>
   <string name="pin_progress_change_pin">Cambiando el PIN</string>
   <string name="pin_progress_change_pin2">Cambiando el PIN2</string>
   <string name="pin_progress_set_fdn_lock">Estableciendo FDN a estado bloqueado</string>
@@ -620,8 +620,8 @@ El teléfono se bloqueará automáticamente después de otro intento fallido\"</
   <string name="pstn_phone">Llamada móvil</string>
   <string name="puk2_label">Introducir código PUK2</string>
   <string name="puk_label">Introducir código PUK</string>
-  <string name="puk_lock_warning">\"
-Su tarjeta SIM será borrada después de otro intento fallido.\"</string>
+  <string name="puk_lock_warning">"
+Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="puk_requested">Contraseña incorrecta, PIN Bloqueado! Se requiere código PUK .</string>
   <string name="puk_unlock_failed">Desbloqueo PUK no realizado. </string>
   <string name="puk_unlock_success">Desbloqueo PUK realizado.</string>
@@ -844,8 +844,8 @@ Su tarjeta SIM será borrada después de otro intento fallido.\"</string>
   <string name="ussdRunning">Código USSD funcionando</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="vibrate_on_ring_title">Vibrar cuando suene</string>
-  <string name="vm_change_failed">\"no se pudo cambiar su número de voicemail.
-Contacte con su operador si este problema persiste.\"</string>
+  <string name="vm_change_failed">"no se pudo cambiar su número de voicemail.
+Contacte con su operador si este problema persiste."</string>
   <string name="vm_changed">Número de voicemail cambiado.</string>
   <string name="voice_privacy">Privacidad de voz</string>
   <string name="voice_privacy_summary">Habilitar modo de privacidad avanzada</string>

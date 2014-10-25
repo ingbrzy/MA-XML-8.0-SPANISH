@@ -137,9 +137,9 @@
   <string name="oupeng_dialog_canceled_button_caption">Cancelar</string>
   <string name="oupeng_dialog_city_choice_title">Seleccionar ciudad</string>
   <string name="oupeng_dialog_confirmed_button_caption">Aceptar</string>
-  <string name="oupeng_dialog_exit_content">\"Si sale se producirá un error en economizadores de flujo de datos.
+  <string name="oupeng_dialog_exit_content">"Si sale se producirá un error en economizadores de flujo de datos.
 
-Seguro que quiere salir?\"</string>
+Seguro que quiere salir?"</string>
   <string name="oupeng_dialog_exit_title">Consejos</string>
   <string name="oupeng_dialog_operator_choice_title">Seleccione un operador</string>
   <string name="oupeng_dialog_province_choice_title">Seleccione provincia</string>
@@ -398,7 +398,7 @@ Seguro que quiere salir?\"</string>
   <string name="v2_dialog_app_blocked_title">Liulang Bao le recuerda</string>
   <string name="v2_ending_used_with_divider">" / "</string>
   <string name="v2_feedback_chooser_prompt">Enviar comentarios usando</string>
-  <string name="v2_feedback_disclaimer">\"Aquí hay algunos comentarios sobre mi experiencia con Opera Max Beta para Android.  Entiendo que están trabajando en hacer Max Opera aún mejor por lo que puede que no tengan tiempo para responder directamente a cada solicitud.  Escriba sus comentarios aquí...\"</string>
+  <string name="v2_feedback_disclaimer">"Aquí hay algunos comentarios sobre mi experiencia con Opera Max Beta para Android.  Entiendo que están trabajando en hacer Max Opera aún mejor por lo que puede que no tengan tiempo para responder directamente a cada solicitud.  Escriba sus comentarios aquí..."</string>
   <string name="v2_feedback_subject">Comentarios sobre ópera Max Beta</string>
   <string name="v2_first_run_1_line1">Bienvenido</string>
   <string name="v2_first_run_1_line2">Liulang Bao</string>
@@ -420,7 +420,7 @@ Seguro que quiere salir?\"</string>
   <string name="v2_geo_ip_blocked">Su localización no soporta la función de localización por IP.</string>
   <string name="v2_ipv6_not_supported_button_text_go_to_settings">Ir a configuración</string>
   <string name="v2_ipv6_not_supported_button_text_keep_ipv6_on">Mantener IPv6 activada</string>
-  <string name="v2_ipv6_not_supported_line1">\"Estamos trabajando en añadir soporte para IPv6, pero actualmente Opera Max \"&lt;b&gt;\"no\"&lt;/b&gt;será capaz de gestionar, seguir y guardar sus datos de manera segura hasta que Vd. cambie a IPv4.</string>
+  <string name="v2_ipv6_not_supported_line1">"Estamos trabajando en añadir soporte para IPv6, pero actualmente Opera Max "&lt;b&gt;\"no\"&lt;/b&gt;será capaz de gestionar, seguir y guardar sus datos de manera segura hasta que Vd. cambie a IPv4.</string>
   <string name="v2_ipv6_not_supported_line2">"No se preocupe. Haga clic en \"Ir a ajustes\". Seleccione el \"APN\" actual. Cambie el \"Protocolo de APN\" a IPv4. Empiece a ahorrar."</string>
   <string name="v2_ipv6_not_supported_notification_message">Toque para arreglar y empezar a ahorrar</string>
   <string name="v2_ipv6_not_supported_notification_title">Corte de VPN</string>
@@ -451,12 +451,12 @@ Seguro que quiere salir?\"</string>
   <string name="v2_no_network_connection">Sin conexión de red</string>
   <string name="v2_not_using_mobile_data">Recuperación automática cuando se vuelva a red móvil</string>
   <string name="v2_offline_usage_name">Tráfico desconectado</string>
-  <string name="v2_report_bug_ask_for_details">\"Proporcionar detalles de error aquí...\"</string>
+  <string name="v2_report_bug_ask_for_details">"Proporcionar detalles de error aquí..."</string>
   <string name="v2_report_bug_chooser_prompt">Informar un fallo usando</string>
-  <string name="v2_report_bug_disclaimer">\"He encontrado un fallo en Opera Max Beta para Android.  Entiendo que están trabajando en hacer Opera Max aún mejor por lo que puede que no tengan tiempo para responder directamente a cada informe.  Proporcionar detalles de error aquí...\"</string>
+  <string name="v2_report_bug_disclaimer">"He encontrado un fallo en Opera Max Beta para Android.  Entiendo que están trabajando en hacer Opera Max aún mejor por lo que puede que no tengan tiempo para responder directamente a cada informe.  Proporcionar detalles de error aquí..."</string>
   <string name="v2_report_bug_subject">Fallo en Ópera Max Beta</string>
-  <string name="v2_report_phone_info">\"Estoy usando %1$s %2$s con Android %3$s
-Mi versión de Opera Max es %4$s\"</string>
+  <string name="v2_report_phone_info">"Estoy usando %1$s %2$s con Android %3$s
+Mi versión de Opera Max es %4$s"</string>
   <string name="v2_roaming_is_off">Desconectar itinerancia</string>
   <string name="v2_roaming_is_off_prompt">Itinerancia desconectada</string>
   <string name="v2_roaming_is_on">Itinerancia conectada</string>
@@ -519,8 +519,8 @@ Mi versión de Opera Max es %4$s\"</string>
   <string name="v2_vpn_approval_line1">Con el fin de proporcionar los %1$s servicios hay que establecer una conexión VPN. Pulse aceptar para continuar.</string>
   <string name="v2_vpn_cancel_button">Cancelar</string>
   <string name="v2_vpn_not_supported">Conexiones VPN no soportadas</string>
-  <string name="v2_vpn_not_supported_line1">\"No hay conexión VPN, Liulang Bao no puede ayudarle a ahorrar tráfico de datos.
-\"&lt;a href=\"http://www.oupeng.com\"&gt;&amp;#36825;&amp;#26159;&amp;#20160;&amp;#20040;&amp;#24847;&amp;#24605;&amp;#65311;&lt;/a&gt;</string>
+  <string name="v2_vpn_not_supported_line1">"No hay conexión VPN, Liulang Bao no puede ayudarle a ahorrar tráfico de datos.
+"&lt;a href=\"http://www.oupeng.com\"&gt;&amp;#36825;&amp;#26159;&amp;#20160;&amp;#20040;&amp;#24847;&amp;#24605;&amp;#65311;&lt;/a&gt;</string>
   <string name="v2_vpn_not_supported_line2">Utilice Liulang Bao. Continue si desea registrarse y gestionar el flujo de datos móviles</string>
   <string name="v2_wifi_is_off">Cambiará a red móvil</string>
   <string name="v2_wifi_is_off_prompt">Su dispositivo está usando la red de datos móvil</string>

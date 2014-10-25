@@ -11,9 +11,9 @@
   <string name="app_name">Autenticador Xiaomi</string>
   <string name="app_name_lockpattern">Patrón de bloqueo</string>
   <string name="app_name_short">Authenticator</string>
-  <string name="authenticator_invalid_tip">\"Puede cerrar la página de inicio de sesión.
+  <string name="authenticator_invalid_tip">"Puede cerrar la página de inicio de sesión.
     
-En caso de duda, por favor visite el sitio web oficial de Xiaomi y solicite ayuda al Servicio en línea de atención al Cliente\"</string>
+En caso de duda, por favor visite el sitio web oficial de Xiaomi y solicite ayuda al Servicio en línea de atención al Cliente"</string>
   <string name="authenticator_invalid_title">Usuario：%1$s no es válido</string>
   <string name="authenticator_page_reactivation">Reactivar</string>
   <string name="button_add_account">Agregar una cuenta</string>
@@ -38,8 +38,8 @@ En caso de duda, por favor visite el sitio web oficial de Xiaomi y solicite ayud
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Sus datos se han importado con éxito de la aplicación Xiaomi Authenticator obsoleta. Ahora es seguro desinstalar la versión anterior de la aplicación haciendo clic abajo.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importación tuvo éxito</string>
   <string name="decoding_exception">Excepción al descodificar</string>
-  <string name="details_patternforgotten">\"Reactivar：
-Regístrese en account.xiaomi.com，Protección de las páginas de destino，Pulse en "Reactivar”\"</string>
+  <string name="details_patternforgotten">"Reactivar：
+Regístrese en account.xiaomi.com，Protección de las páginas de destino，Pulse en \"Reactivar\""</string>
   <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Introduzca el nombre de la cuenta</string>
   <string name="enter_key_hint">Introduzca su clave</string>
@@ -143,9 +143,9 @@ Regístrese en account.xiaomi.com，Protección de las páginas de destino，Pul
   <string name="timesync_sync_now_screen_title">Sincronizar ahora</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">"El reloj interno del Authenticator no fue ajustado porque parece estar ya en sincronía con los servidores."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Fecha-Hora ya correctas</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">\"El reloj interno del Authenticator ha sido ajustado para coincidir con la hora proporcionada por los servidores. 
+  <string name="timesync_sync_now_time_corrected_dialog_details">"El reloj interno del Authenticator ha sido ajustado para coincidir con la hora proporcionada por los servidores. 
 
-Los ajustes de Fecha y Hora en este dispositivo no se han cambiado.\"</string>
+Los ajustes de Fecha y Hora en este dispositivo no se han cambiado."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Fecha-Hora corregidas</string>
   <string name="tip1_patternforgotten">Patrón de bloqueo Xiaomi: desinstalar, reinstalar y activar</string>
   <string name="tip2_patternforgotten">Toque en el botón de abajo "Reiniciar ahora" para restablecer completamente la cuenta. Tendrá que reactivarla</string>
@@ -160,15 +160,15 @@ Los ajustes de Fecha y Hora en este dispositivo no se han cambiado.\"</string>
   <string name="title_nopassword_dialog">Límite diario</string>
   <string name="title_password">Contraseña</string>
   <string name="title_password_threshold">Límite diario = ￥ %1$s</string>
-  <string name="title_patternforgotten">\"¿Olvidó el patrón de bloqueo?
-Vd. puede：\"</string>
+  <string name="title_patternforgotten">"¿Olvidó el patrón de bloqueo?
+Vd. puede："</string>
   <string name="title_updatepattern">Modificar patrón de bloqueo</string>
   <string name="title_visible_pattern">Hacer visible el patrón</string>
   <string name="type_prompt">Tipo de clave</string>
   <string name="update_pattern_jump">&lt;u&gt;&amp;#20851;&amp;#38381;&amp;#25163;&amp;#21183;&amp;#23494;&amp;#30721;&lt;/u&gt;</string>
   <string name="version_preference_title">Versión</string>
   <string name="welcome_page_alert">Nota: Por favor, no elimine el patrón, de lo contrario no podrá iniciar sesión</string>
-  <string name="welcome_page_details">\"- Proteja su información del robo malicioso de terceros.
-- La pérdida del teléfono puede causarle problemas de seguridad en sus cuentas de correo, redes sociales, etc.\"</string>
+  <string name="welcome_page_details">"- Proteja su información del robo malicioso de terceros.
+- La pérdida del teléfono puede causarle problemas de seguridad en sus cuentas de correo, redes sociales, etc."</string>
   <string name="welcome_page_title">Bienvenido a la cuenta de protección de acceso de Xiaomi</string>
 </resources>

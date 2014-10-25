@@ -274,8 +274,8 @@
   <string name="device_bluetooth_title">Transferir contactos</string>
   <string name="device_brand_title">Elegir una marca</string>
   <string name="device_import_account_dialog_title">Elegir una cuenta</string>
-  <string name="device_import_account_dialog_title_suffix">\"
-(Encontrados %1$s contactos)\"</string>
+  <string name="device_import_account_dialog_title_suffix">"
+(Encontrados %1$s contactos)"</string>
   <string name="device_import_failed_message">"No se puede importar"</string>
   <string name="device_import_local_account">Cuenta local</string>
   <string name="device_import_message">Importando</string>
@@ -357,7 +357,7 @@
   <string name="export_to_sim2">Copiar a la segunda tarjeta SIM</string>
   <string name="export_to_sim_title">Exportando...</string>
   <string name="export_vcard_description">"Exportar vCard a la memoria interna del teléfono"</string>
-  <string name="exporting_contact_failed_message">Error al exportar información: \"%s\"\"</string>
+  <string name="exporting_contact_failed_message">Error al exportar información: \"%s\"</string>
   <string name="exporting_contact_failed_title">"No se puede exportar"</string>
   <string name="exporting_contact_list_message">Exportando a %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
@@ -581,7 +581,7 @@
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar datos de contactos utilizando la cuenta MI</string>
   <string name="noContacts">No hay contactos</string>
-  <string name="noContactsHelpText">\"No tiene ningún contacto que mostrar.
+  <string name="noContactsHelpText">"No tiene ningún contacto que mostrar.
 
 Para añadir contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
  
@@ -591,9 +591,9 @@ Para añadir contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importar/Exportar para importar contactos desde su tarjeta SIM o desde la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
-\"</string>
+"</string>
   <string name="noContactsHelpTextForCreateShortcut">"No tiene ningún contacto para mostrar."</string>
-  <string name="noContactsHelpTextWithSync">\"No tiene ningún contacto para mostrar. (Si acaba de  agregar alguna cuenta, se sincronizará en pocos minutos.)
+  <string name="noContactsHelpTextWithSync">"No tiene ningún contacto para mostrar. (Si acaba de  agregar alguna cuenta, se sincronizará en pocos minutos.)
 
 Para agregar contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
  
@@ -605,9 +605,9 @@ Para agregar contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importar/Exportar para importar contactos desde la tarjeta SIM o desde la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
-\"</string>
+"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"No tienes ningún contacto para mostrar.( Si acabaste de  agregar alguna cuenta, esta se sincronizara en pocos minutos.)"</string>
-  <string name="noContactsNoSimHelpText">\"No tienes contactos para mostrar.
+  <string name="noContactsNoSimHelpText">"No tienes contactos para mostrar.
 
 Para agregar contactos, ve a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", Luego ve a:
  
@@ -617,8 +617,8 @@ Para agregar contactos, ve a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&l
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importar/Exportar para importar tus contactos desde la tarjeta SIM o la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
-\"</string>
-  <string name="noContactsNoSimHelpTextWithSync">\"No tienes ningún contacto para mostrar.( Si acabaste de  agregar alguna cuenta, esta se sincronizara en pocos minutos.)
+"</string>
+  <string name="noContactsNoSimHelpTextWithSync">"No tienes ningún contacto para mostrar.( Si acabaste de  agregar alguna cuenta, esta se sincronizara en pocos minutos.)
 
 Para agregar contactos, ve a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", Luego ve a:
  
@@ -630,9 +630,9 @@ Para agregar contactos, ve a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&l
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importar/Exportar para importar contactos desde la tarjeta SIM o desde la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
-\"</string>
+"</string>
   <string name="noContactsWithPhoneNumbers">No hay contactos con números de teléfono</string>
-  <string name="noFavoritesHelpText">\"No tienes ningún favorito.
+  <string name="noFavoritesHelpText">"No tienes ningún favorito.
 
 Para agregar un contacto a la lista de favoritos:
 
@@ -642,13 +642,13 @@ Para agregar un contacto a la lista de favoritos:
 \"&lt;/li&gt;\" 
 \"&lt;li&gt;\"Selecciona la estrella que esta cerca del nombre del contacto
 \"&lt;/li&gt;\"
-\"</string>
+"</string>
   <string name="noGroups">No hay grupos</string>
   <string name="noMatchingContacts">No se encontraron coincidencias en los contactos.</string>
   <string name="noRecentContacts">No hay contactos recientes</string>
-  <string name="no_account_prompt">\"Gente trabaja mejor con una cuenta de Google.
+  <string name="no_account_prompt">"Gente trabaja mejor con una cuenta de Google.
 • Acceso desde cualquier navegador web.
-• Copia de seguridad de tus contactos.\"</string>
+• Copia de seguridad de tus contactos."</string>
   <string name="no_contact_details">No hay información adicional para este contacto.</string>
   <string name="no_contact_in_other_phone">No hay contactos detectados</string>
   <string name="no_contacts_dialog_message">"Los contactos pueden estar almacenados en su tarjeta SIM. Intenta importarlos desde tu tarjeta SIM a la memoria interna del teléfono y vuelve a intentarlo."</string>
@@ -798,7 +798,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="relationLabelsGroup">Relación</string>
   <string name="removePhoto">Eliminar foto</string>
   <string name="remove_blacklist">Desbloquear</string>
-  <string name="remove_duplicate">\"MIUI te ayudará a encontrar y combinar contactos duplicados.   Para empezar, toque el icono de fusión en la parte inferior de la pantalla.\"</string>
+  <string name="remove_duplicate">"MIUI te ayudará a encontrar y combinar contactos duplicados.   Para empezar, toque el icono de fusión en la parte inferior de la pantalla."</string>
   <string name="resource_account_abnormal_state">Error de cuenta. Esperar uno o dos minutos y vuelva a intentarlo.</string>
   <string name="resource_account_fail_to_add">"No se puede añadir la cuenta"</string>
   <string name="resource_account_login">Iniciar sesión</string>
@@ -947,15 +947,15 @@ Para agregar un contacto a la lista de favoritos:
   <string name="resource_trial_fail_message">Asegúrese de que el reloj del sistema se encuentre en la hora correcta.</string>
   <string name="resource_trial_fail_title">"No se pudo configurar el tiempo de la versión de prueba"</string>
   <string name="resource_trial_time">（Tiempo de la versión de prueba: %1$d minutos）</string>
-  <string name="resource_unable_to_access">\"Desafortunadamente,
-el contenido que buscas no esta actualmente disponible en su país o región.\"</string>
+  <string name="resource_unable_to_access">"Desafortunadamente,
+el contenido que buscas no esta actualmente disponible en su país o región."</string>
   <string name="resource_unknow_error">Se ha producido un error desconocido</string>
   <string name="resource_update">Actualizar</string>
   <string name="resource_user_know">Correcto</string>
   <string name="resource_waiting_download">Esperando</string>
   <string name="restore_nickname">Restaurar</string>
-  <string name="ret_sign">\"
-\"</string>
+  <string name="ret_sign">"
+"</string>
   <string name="returnCall">Devolver la llamada</string>
   <string name="ringLabelsGroup">Tono de llamada</string>
   <string name="save_photo_progress">Guardando foto…</string>
@@ -969,8 +969,8 @@ el contenido que buscas no esta actualmente disponible en su país o región.\"<
   <string name="scanning">Escaneando…</string>
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"El almacenamiento no pudo ser escaneado"</string>
-  <string name="sdcard_not_mounted_dialog_message">\"Inserte la tarjeta SD ahora.
-\"</string>
+  <string name="sdcard_not_mounted_dialog_message">"Inserte la tarjeta SD ahora.
+"</string>
   <string name="sdcard_not_mounted_dialog_title">Tarjeta SD no detectada</string>
   <string name="searchHint">Buscar contactos</string>
   <string name="search_results_searching">Buscando…</string>
@@ -1104,11 +1104,11 @@ el contenido que buscas no esta actualmente disponible en su país o región.\"<
   <string name="unknown">Desconocido</string>
   <string name="unknown_contact_name">Contacto desconocido</string>
   <string name="upgrade_in_progress">Se está actualizando la lista de contactos.</string>
-  <string name="upgrade_out_of_memory">\"Los contactos están siendo actualizados.
+  <string name="upgrade_out_of_memory">"Los contactos están siendo actualizados.
 
 El proceso de actualización requiere aproximadamente %s MB de almacenamiento interno.
 
-Elija una de las siguientes opciones: \"</string>
+Elija una de las siguientes opciones: "</string>
   <string name="upgrade_out_of_memory_retry">Reintentar actualización</string>
   <string name="upgrade_out_of_memory_uninstall">Desinstalar aplicaciones</string>
   <string name="use_photo_as_primary">Utilizar esta foto</string>

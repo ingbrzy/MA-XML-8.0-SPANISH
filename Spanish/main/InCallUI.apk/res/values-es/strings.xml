@@ -235,10 +235,10 @@
   <string name="fraud_call_answer">Responder</string>
   <string name="fraud_call_decline">Rechazar</string>
   <string name="fraud_call_waring">Cuidado: Vd. debe siempre comprobar antes la identidad del contacto por teléfono o vídeo antes de responder a cualquier mensaje que incluya su información personal.</string>
-  <string name="fw_change_failed">\"No se pudo cambiar el número de desvío.
-Contacte con su operadora si el problema persiste.\"</string>
-  <string name="fw_get_in_vm_failed">\"No se pudo recuperar y guardar la configuración del actual número de desvío.
-¿Cambiar al nuevo proveedor de todos modos?\"</string>
+  <string name="fw_change_failed">"No se pudo cambiar el número de desvío.
+Contacte con su operadora si el problema persiste."</string>
+  <string name="fw_get_in_vm_failed">"No se pudo recuperar y guardar la configuración del actual número de desvío.
+¿Cambiar al nuevo proveedor de todos modos?"</string>
   <string name="general_news_settings">Noticias generales</string>
   <string name="get_pin2">Introduzca el PIN2</string>
   <string name="goPrivate">ir a privado</string>
@@ -316,7 +316,7 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="mismatchPin">"El PIN que ha introducido no coincide. Inténtelo de nuevo."</string>
   <string name="mismatchPin2">"El PIN2 que ha introducido no coincide. Inténtelo de nuevo."</string>
   <string name="mobile_networks">Configuración de red móvil</string>
-  <string name="modify_call_failure_str">\"La solicitud de Modificación de Llamada ha fallado\"</string>
+  <string name="modify_call_failure_str">"La solicitud de Modificación de Llamada ha fallado"</string>
   <string name="modify_call_option_title">¿Qué tipo de llamada?</string>
   <string name="modify_call_option_voice">Voz solamente</string>
   <string name="modify_call_option_vt">VT</string>
@@ -424,19 +424,19 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="ota_title_activate">Active su teléfono</string>
   <string name="ota_title_activate_success">El teléfono está activado.</string>
   <string name="ota_title_problem_with_activation">Problema con la activación</string>
-  <string name="ota_touch_activate">\"Debe hacerse una llamada especial para activar su servicio telefónico.
+  <string name="ota_touch_activate">"Debe hacerse una llamada especial para activar su servicio telefónico.
 
-Después de pulsar \"Activar\", escuche las instrucciones para activar su teléfono.\"</string>
+Después de pulsar \"Activar\", escuche las instrucciones para activar su teléfono."</string>
   <string name="ota_try_again">Inténtelo de nuevo</string>
-  <string name="ota_unsuccessful">\"Su teléfono no se activó.
+  <string name="ota_unsuccessful">"Su teléfono no se activó.
 Necesitará encontrar un área con mejor cobertura (cerca de una ventana, o en el exterior).
 
-Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opciones.\"</string>
+Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opciones."</string>
   <string name="other_settings">Otros ajustes de llamada</string>
   <string name="password">Contraseña</string>
   <string name="password_title">Contraseña</string>
   <string name="pause_prompt_no">No</string>
-  <string name="pause_prompt_str">\"Enviar tonos\"</string>
+  <string name="pause_prompt_str">"Enviar tonos"</string>
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Teléfono público</string>
   <string name="phoneAppLabel">Teléfono</string>
@@ -607,19 +607,19 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="technology_news_enable">Noticias de tecnología habilitadas</string>
   <string name="third_party_account_summary">Esta cuenta está actualmente en uso por la aplicación %s.</string>
   <string name="throttle_current_usage">Datos utilizados en el período actual</string>
-  <string name="throttle_data_rate_reduced_subtext">\"%1$s máximo excedido
-Velocidad de datos reducida a %2$d Kb/s\"</string>
+  <string name="throttle_data_rate_reduced_subtext">"%1$s máximo excedido
+Velocidad de datos reducida a %2$d Kb/s"</string>
   <string name="throttle_data_usage">Uso de datos</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) de %3$s máximo del período</string>
   <string name="throttle_help">Aprender más</string>
   <string name="throttle_help_subtext">"Más información sobre la política de uso de la red de datos de tu operador móvil"</string>
   <string name="throttle_rate">Política de tasa de datos</string>
   <string name="throttle_rate_subtext">Tasa de datos reducida a %1$d Kb/s si el límite de uso de datos es excedido</string>
-  <string name="throttle_status_subtext">\"%1$s (%2$d٪) de %3$s máximo del período
-Siguiente período empieza en %4$d días (%5$s)\"</string>
+  <string name="throttle_status_subtext">"%1$s (%2$d٪) de %3$s máximo del período
+Siguiente período empieza en %4$d días (%5$s)"</string>
   <string name="throttle_time_frame">Período de uso de datos</string>
-  <string name="throttle_time_frame_subtext">\"%1$d٪ de ciclo transcurrido
-El siguiente período empieza en %2$d días (%3$s)\"</string>
+  <string name="throttle_time_frame_subtext">"%1$d٪ de ciclo transcurrido
+El siguiente período empieza en %2$d días (%3$s)"</string>
   <string name="transport">Protocolo</string>
   <string name="transport_title">Tipo de transporte</string>
   <string name="tty_mode_option_summary">Establecer el modo TTY</string>
@@ -636,8 +636,8 @@ El siguiente período empieza en %2$d días (%3$s)\"</string>
   <string name="username">Nombre de usuario</string>
   <string name="username_title">Nombre de usuario</string>
   <string name="vibrate_on_ring_title">Vibrar cuando suene el timbre</string>
-  <string name="vm_change_failed">\"No se pudo cambiar el número del buzón de voz.
-Contacte con su operadora si el problema persiste.\"</string>
+  <string name="vm_change_failed">"No se pudo cambiar el número del buzón de voz.
+Contacte con su operadora si el problema persiste."</string>
   <string name="vm_changed">Cambiado el número del buzón de voz.</string>
   <string name="voice_privacy">Privacidad de voz</string>
   <string name="voice_privacy_summary">Activar el modo de privacidad mejorada</string>
@@ -651,7 +651,7 @@ Contacte con su operadora si el problema persiste.\"</string>
   <string name="voicemail_provider">Servicio</string>
   <string name="voicemail_settings">Configurar</string>
   <string name="voicemail_settings_number_label">Número de buzón de voz</string>
-  <string name="vt_init_fail_str">\"Fallo en la inicialización VT. Actualizando la llamada a VoLTE\"</string>
-  <string name="wait_prompt_str">\"¿Enviar los siguientes tonos?\"</string>
+  <string name="vt_init_fail_str">"Fallo en la inicialización VT. Actualizando la llamada a VoLTE"</string>
+  <string name="wait_prompt_str">"¿Enviar los siguientes tonos?"</string>
   <string name="wild_prompt_str">Reemplazar carácter comodín con</string>
 </resources>
