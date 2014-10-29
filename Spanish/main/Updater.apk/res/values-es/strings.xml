@@ -134,6 +134,10 @@
   <string name="no_wifi_title">Aviso de uso de datos</string>
   <string name="not_recommend">"No lo recomendaría"</string>
   <string name="notification_downloading">Descargando actualización…</string>
+  <string name="notification_load_body_alpha">Abra sesión en su Cuenta Mi para actualizar su dispositivo.</string>
+  <string name="notification_load_body_dev">Abra sesión en su Cuenta Mi para asegurar que obtiene las actualizaciones correctas.</string>
+  <string name="notification_load_title_alpha">Abra sesión en su Cuenta Mi</string>
+  <string name="notification_load_title_dev">Abra sesión en su Cuenta Mi</string>
   <string name="notification_new_version">Actualizar a %s</string>
   <string name="notification_reboot_btn">Reiniciar</string>
   <string name="notification_reboot_des">Reinicie su dispositivo para actualizar %s.</string>
@@ -181,8 +185,8 @@
   <string name="share_update">Compartir información de la actualización</string>
   <string name="share_update_content_sign">"He actualizado MIUI a %1$s! Fui la persona %2$s que actualizó. Para el registo de cambios detallado, vaya a %3$s"</string>
   <string name="share_update_content_unsign">"He actualizado MIUI a %1$s! Para el registro de cambios detallado, vaya a %2$s"</string>
-  <string name="sign_in_add_account">Activar tu cuenta Mi</string>
-  <string name="sign_in_add_account_helper">Sincronizar tus contactos, fotos y mucho más a través de dispositivos</string>
+  <string name="sign_in_add_account">Activar su Cuenta Mi</string>
+  <string name="sign_in_add_account_helper">Sincronizar sus contactos, fotos y mucho más a través de dispositivos</string>
   <string name="sign_in_info">"Estado de actualización : %1$s %2$s usuarios ya han probado MIUI %3$s"</string>
   <string name="sign_in_info_rank_more">"Estado de actualización : %1$s Sobre %2$s usuarios ya han probado MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Estado de actualización : %1$s Sobre %2$s usuarios ya han probado MIUI %3$s"</string>
@@ -220,7 +224,8 @@
   <string name="update_feedback_end">"Olvidó que esta semana es de four-grid"</string>
   <string name="update_feedback_end_sum">Puede unirse cada Martes.</string>
   <string name="update_feedback_expired">"Te perdiste la ronda de comentarios de esta semana. Pero podrás participar de nuevo el próximo martes"</string>
-  <string name="update_feel">¿Qué te parece?</string>
+  <string name="update_feedback_need_update">Actualmente no está usando la última versión de desarrollo. Actualizce a la última versión antes de votar.</string>
+  <string name="update_feel">¿Qué le parece?</string>
   <string name="update_general">Más o menos</string>
   <string name="update_happy">Impresionante!</string>
   <string name="update_monthly_build_only">Actualizar a compilación mensual</string>
@@ -229,6 +234,8 @@
   <string name="update_success_body">Versión actual: %s</string>
   <string name="update_success_title">Actualización completada!</string>
   <string name="updater_finish_download">Descarga de ROM completada</string>
+  <string name="updater_nolog">No hay registro</string>
+  <string name="updater_nonetwork">Conéctese a la red para obtener el registro</string>
   <string name="upgrade_close">Cerrar</string>
   <string name="upgrade_kernel">Su kernel está obsoleto</string>
   <string name="upgrade_kernel_msg">"LA versión de kernel que estás utilizando no coincide con la última versión de MIUI. Es necesario actualizar la versión de kernel manualmente. Diríjase al  tutorial de actualización de Xiaomi: "</string>

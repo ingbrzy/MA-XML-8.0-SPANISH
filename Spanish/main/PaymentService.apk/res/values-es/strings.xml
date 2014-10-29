@@ -49,7 +49,7 @@
   <string name="btn_wait_call">Esperando…</string>
   <string name="btn_wait_call_count">Esperando (%1$s)</string>
   <string name="btn_wait_confirm">Esperando</string>
-  <string name="btn_wait_confirm_count">Esperando（ %1$s）</string>
+  <string name="btn_wait_confirm_count">Esperando（%1$s）</string>
   <string name="button_bind_phone">Conecte ahora</string>
   <string name="button_call">Llamar</string>
   <string name="button_cancel">Cancelar</string>
@@ -64,9 +64,6 @@
   <string name="button_sms_code">Confirmar</string>
   <string name="cancel">Cancelar</string>
   <string name="change_security_lock">Más pantallas de bloqueo</string>
-  <string name="colon">": "</string>
-  <string name="confirm_title">提示</string>
-  <string name="denomination_unit">￥</string>
   <string name="detail_consume_account">ID de compra</string>
   <string name="detail_consume_amount">Cantidad</string>
   <string name="detail_consume_name">Producto</string>
@@ -85,21 +82,20 @@
   <string name="detail_recharge_order">No. de pedido de la Recarga</string>
   <string name="detail_recharge_time">Fecha</string>
   <string name="detail_recharge_title">Historial de Recargas</string>
-  <string name="ensure">确定</string>
   <string name="error_account_changed_summary">"La información de su cuenta ha cambiado.
 Por favor inicie sesión de nuevo."</string>
   <string name="error_account_changed_title">La cuenta ha cambiado</string>
   <string name="error_auth_summary">Error de acceso, por favor inicie sesión de nuevo.</string>
-  <string name="error_cert_date_summary">"Error de fecha en el Certificado. 
-Por favor compruebe la fecha de su dispositivo e inténtelo de nuevo."</string>
+  <string name="error_cert_date_summary">Error de fecha en el Certificado. 
+Por favor compruebe la fecha de su dispositivo e inténtelo de nuevo.</string>
   <string name="error_common_summary">Error de Sistema. Por favor inténtelo de nuevo más tarde.</string>
   <string name="error_expired_summary">Su pedido ha expirado</string>
-  <string name="error_frozen_summary">"Su cuenta está bloqueada. 
-Por favor contacte con el servicio de atención al cliente de Xiaomi."</string>
+  <string name="error_frozen_summary">Su cuenta está bloqueada. 
+Por favor contacte con el servicio de atención al cliente de Xiaomi.</string>
   <string name="error_has_bought_summary">Vd. ya ha comprado este producto.</string>
   <string name="error_illegal_order_summary">Error en el pedido. Por favor inténtelo de nuevo más tarde.</string>
   <string name="error_mili_summary">Saldo insuficiente.</string>
-  <string name="error_network_summary">"No se pudo conectar a la red."</string>
+  <string name="error_network_summary">No se pudo conectar a la red.</string>
   <string name="error_server_summary">Error del Servidor. Por favor inténtelo de nuevo más tarde</string>
   <string name="error_user_id_mismatch_summary">Por favor compruebe sus datos de acceso y vuelva a intentarlo</string>
   <string name="fee">%1$s Créditos Mi</string>
@@ -234,7 +230,6 @@ Por favor contacte con el servicio de atención al cliente de Xiaomi."</string>
   <string name="prepaid_picker_hint_2_2_b">Si el valor nominal de la tarjeta de prepago no es &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la tarjeta será anulada. Xiaomi no se responsabiliza de ninguna pérdida monetaria que derivada de un error del usuario.</string>
   <string name="prepaid_picker_title_default">Selecciones cantidad</string>
   <string name="prepaid_picker_title_selected">cantidad</string>
-  <string name="processing">加载中</string>
   <string name="progress_bankcall_card_creating">Generando el pedido…</string>
   <string name="progress_bankcall_card_querying">Comprobando el tipo de cuenta…</string>
   <string name="progress_creating">Recuperando la información del pedido…</string>

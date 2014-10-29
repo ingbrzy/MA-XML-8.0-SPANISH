@@ -129,13 +129,13 @@
   <string name="deleting_fdn_contact">Eliminando número de marcación fija…</string>
   <string name="description_delete_button">retroceso</string>
   <string name="description_dial_button">Marcar</string>
-  <string name="description_direction_down_left">Abajo a la izquierda</string>
-  <string name="description_direction_down_right">Abajo a la derecha</string>
+  <string name="description_direction_down_left">Abajo izquierda</string>
+  <string name="description_direction_down_right">Abajo derecha</string>
   <string name="description_direction_left">Deslice a la izquierda para %s.</string>
   <string name="description_direction_right">Deslice a la derecha para %s.</string>
   <string name="description_direction_up">Deslice hacia arriba para %s.</string>
-  <string name="description_direction_up_left">Arriba y a la izquierda</string>
-  <string name="description_direction_up_right">Arriba y a la derecha</string>
+  <string name="description_direction_up_left">Arriba izquierda</string>
+  <string name="description_direction_up_right">Arriba derecha</string>
   <string name="description_image_button_eight">ocho</string>
   <string name="description_image_button_five">cinco</string>
   <string name="description_image_button_four">cuatro</string>
@@ -293,6 +293,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="list_language_dtitle">Idiomas</string>
   <string name="list_language_summary">Seleccione el idioma de noticias</string>
   <string name="list_language_title">Idioma</string>
+  <string name="livetalk_provider_info">Suministrado por %s</string>
   <string name="load_networks_progress">Buscando…</string>
   <string name="local_disable">Noticias locales deshabilitadas</string>
   <string name="local_enable">Noticias locales habilitadas</string>
@@ -504,7 +505,7 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="remove_sip_account">Eliminar cuenta</string>
   <string name="removing_account">Eliminando la cuenta…</string>
   <string name="requesting_unlock">Solicitando desbloqueo de red…</string>
-  <string name="reset_my_choice_hint">Puede cambiar qué cuenta de llamadas de Internet usar por defecto en el Teléfono &gt; Ajustes &gt; Ajustes de llamada de Internet &gt; Pantalla de cuentas.</string>
+  <string name="reset_my_choice_hint">Puede cambiar qué cuenta de llamadas de Internet usar por defecto en Ajustes &gt; Ajustes de llamada &gt; Ajustes de llamada por Internet &gt; Cuentas SIP.</string>
   <string name="respond_via_sms_canned_response_1">"No puedo hablar ahora. ¿Qué pasa?"</string>
   <string name="respond_via_sms_canned_response_2">"Le llamaré enseguida."</string>
   <string name="respond_via_sms_canned_response_3">"Le llamaré más tarde."</string>

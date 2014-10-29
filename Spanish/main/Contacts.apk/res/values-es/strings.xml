@@ -584,19 +584,19 @@
   <string name="noContacts">No hay contactos</string>
   <string name="noContactsHelpText">"No tiene ningún contacto que mostrar.
 
-Para añadir contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
+Para añadir contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
  
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;Cuentas\" para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nuevo contacto para crear un contacto desde cero
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;Nuevo contacto\" para crear un contacto desde cero
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importar/Exportar para importar contactos desde su tarjeta SIM o desde la tarjeta de memoria
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;Importar/Exportar\" para importar contactos desde su tarjeta SIM o desde la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">"No tiene ningún contacto para mostrar."</string>
   <string name="noContactsHelpTextWithSync">"No tiene ningún contacto para mostrar. (Si acaba de  agregar alguna cuenta, se sincronizará en pocos minutos).
 
-Para agregar contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
+Para agregar contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
  
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
@@ -1158,6 +1158,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowpage_navigation_no_content">"No se ha encontrado nada"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Ciudad</string>
   <string name="yellowpage_navigation_search_offline_hint">"Sin conexión"</string>
+  <string name="yellowpage_navigation_search_result_average_price">Promedio %d RMB</string>
   <string name="yellowpage_navigation_search_result_network_error">"No se puede conectar a la red. Comprueba tu conexión de datos e intenta de nuevo."</string>
   <string name="yellowpage_navigation_search_result_no_more">No hay más resultados</string>
   <string name="yellowpage_navigation_search_result_service_error">Servicio no disponible</string>

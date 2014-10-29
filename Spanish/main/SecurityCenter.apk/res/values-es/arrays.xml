@@ -25,22 +25,16 @@
     <item>Vibrar cuando este en silencio</item>
     <item>Siempre vibrar</item>
   </string-array>
-  <string-array name="power_dialog_vibration_items_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
+  <string-array name="cache_sort_type">
+    <item>Tamaño</item>
+    <item>Nombre</item>
   </string-array>
-  <integer-array name="alarm_repeat_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-  </integer-array>
-  <integer-array name="alarm_repeat_type_no_workdays_values">
-    <item>0</item>
-    <item>1</item>
-    <item>3</item>
-    <item>4</item>
-  </integer-array>
+  <string-array name="large_file_sort_type">
+    <item>Tamaño</item>
+    <item>Nombre</item>
+  </string-array>
+  <string-array name="installed_app_sort_type">
+    <item>Frecuencia de uso</item>
+    <item>Tamaño</item>
+  </string-array>
 </resources>

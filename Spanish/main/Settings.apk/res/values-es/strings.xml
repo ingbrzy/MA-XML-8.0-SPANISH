@@ -1272,7 +1272,7 @@ Ha iniciado sesión en las siguientes cuentas:
   <string name="master_clear_all">"¿Eliminar todos los datos de la memoria interna del teléfono? ¡Esta acción no se puede deshacer!"</string>
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
-  <string name="master_clear_desc">\"Esto borará todos los datos de la \"&lt;b&gt;memoria interna&lt;/b&gt;\"del teléfono, incluyendo:
+  <string name="master_clear_desc">\"Esto borrará todos los datos de la \"&lt;b&gt;memoria interna&lt;/b&gt;\"del teléfono, incluyendo:
 
 \"&lt;li&gt;Su cuenta Google&lt;/li&gt;\"
 \"&lt;li&gt;Datos y aplicaciones de Sistema y Ajustes&lt;/li&gt;\"
@@ -1527,8 +1527,8 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="other_personal_settings">Ajustes adicionales</string>
   <string name="other_relative">Otros permisos</string>
   <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
-  <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_edit_text_hint">Escribir el texto a mostrar en la pantalla de bloqueo</string>
+  <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Información de propietario</string>
   <string name="packages_subtitle">Paquetes incluidos</string>
   <string name="passwordIncorrect">La contraseña introducida es incorrecta</string>
@@ -2080,8 +2080,8 @@ Una credencial de confianza instalada hace esto posible."</string>
   <string name="status_bar_settings_show_carrier_summary">Solo mostrar en bloqueo de pantalla</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalles de flujo</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
-  <string name="status_bar_settings_show_notification_icon">Mostrar icono de notificación</string>
   <string name="status_bar_settings_show_notificationBar_notification">Mostrar en menú desplegable</string>
+  <string name="status_bar_settings_show_notification_icon">Mostrar icono de notificación</string>
   <string name="status_bar_settings_show_screenshot_notification">Mostrar notificación screenshot</string>
   <string name="status_bar_settings_show_statusBar_notification">Mostrar en barra de estado</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">La notificación aparecerá en la parte alta de la pantalla y desaparecerá automáticamente</string>

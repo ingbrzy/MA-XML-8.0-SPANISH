@@ -154,14 +154,16 @@
   <string name="music_settings">Música</string>
   <string name="my_account">Mi cuenta</string>
   <string name="my_music">Local</string>
-  <string name="my_music_empty">Nada que reproducir. Descarga o marca como favoritas canciones en la pestaña En Línea.</string>
+  <string name="my_music_empty">Nada que reproducir. Descargue o marque como favoritas canciones en la pestaña \"En Línea\".</string>
+  <string name="my_music_empty_goto_online">¡Su lista de reproducción está vacía! Añada canciones desde la pestaña \"En línea\"</string>
   <string name="my_playlist">Mi lista de reproducción</string>
   <string name="network_error">"No se puede conectar a la red"</string>
-  <string name="network_failure">"No se puede conectar a la red. Comprueba tu conexión de datos e inténtalo de nuevo."</string>
+  <string name="network_failure">"No se puede conectar a la red. Compruebe su conexión de datos e inténtelo de nuevo."</string>
   <string name="network_traffic">Uso de datos</string>
   <string name="no_favorites_songs">Vacío</string>
   <string name="no_local_songs">Vacío</string>
   <string name="no_local_songs_selected">"No se pueden enviar canciones porque no han sido descargadas"</string>
+  <string name="no_local_source_find">No se pueden encontrar archivos locales, ¡envío fallido!"</string>
   <string name="no_online_song_selected">No hay canciones seleccionadas</string>
   <string name="no_results_return">No hay resultados de búsqueda</string>
   <string name="no_song_downloaded">"No se pudo conectar al servidor"</string>
@@ -201,7 +203,7 @@
   <string name="sleep_mode_canceled">Modo Dormir desactivado</string>
   <string name="sleep_mode_summary">Parar el reproductor tras cierto tiempo transcurrido</string>
   <string name="sleep_mode_title">Temporizador</string>
-  <string name="song_not_find">"No se puede encontrar la canción. Comprueba tu conexión y vuelve a intentarlo."</string>
+  <string name="song_not_find">"No se puede encontrar la canción. Compruebe su conexión y vuelva a intentarlo."</string>
   <string name="source_from">Fuente: %1$s</string>
   <string name="streamloadingtext">Conectando a %s</string>
   <string name="tab_album_list">Álbum</string>
@@ -209,7 +211,7 @@
   <string name="tab_local_folder_list">Carpeta</string>
   <string name="tab_local_track_list">Canciones</string>
   <string name="tab_track_list">Pista</string>
-  <string name="take_effect_afater_restart">Necesitas reiniciar la aplicación de música para que esta configuración tenga efecto.</string>
+  <string name="take_effect_afater_restart">Necesita reiniciar la aplicación de música para que esta configuración tenga efecto.</string>
   <string name="track_list_control_download">Descargar</string>
   <string name="track_list_control_edit_add_tracks">Añadir canciones</string>
   <string name="track_list_control_edit_delete_playlist">Borrar</string>
@@ -227,5 +229,5 @@
   <string name="unknown_album_name">Álbum desconocido</string>
   <string name="unknown_artist_name">Artista desconocido</string>
   <string name="valid_period">"Válido: "</string>
-  <string name="vip_recommend_title">Obtén música de mayor calidad</string>
+  <string name="vip_recommend_title">Obtenga música de mayor calidad</string>
 </resources>

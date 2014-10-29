@@ -95,7 +95,7 @@
   <string name="bookmark_to_readmodelist_not_saved">"No se puede guardar en lista de lectura"</string>
   <string name="bookmark_to_readmodelist_saved">Guardado en lista de lectura</string>
   <string name="bookmark_url">URL http://</string>
-  <string name="bookmark_URL_already_exisit">"Ya has marcado esta URL"</string>
+  <string name="bookmark_url_already_exisit">"Ya ha marcado esta URL"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Esta URL no es válida."</string>
   <string name="bookmarks">Favoritos</string>
@@ -220,8 +220,10 @@
   <string name="edit_quicklink">Editar</string>
   <string name="empty_bookmark">Vacío</string>
   <string name="empty_bookmarks_folder">No hay favoritos</string>
-  <string name="empty_history">Vacío</string>
+  <string name="empty_history">Vacía</string>
+  <string name="empty_history_hint">Vacía</string>
   <string name="empty_snapshots_folder">No hay páginas guardadas.</string>
+  <string name="enter_developer_mode">Entrar en modo programador</string>
   <string name="enter_incongnito_mode">Entrar en modo incógnito</string>
   <string name="error_console_eval_button_text">Evaluar</string>
   <string name="error_console_eval_text_hint">Evaluar JavaScript</string>
@@ -692,6 +694,7 @@
   <string name="webapp_add_to_favorite_toast">Agregado a favoritos</string>
   <string name="webapp_addtodeskpop_append">Añadido</string>
   <string name="webapp_app_name">Tienda de pequeñas aplicaciones web</string>
+  <string name="webapp_bottom_bar_addtodesk">Añadir al escritorio</string>
   <string name="webapp_dialog_title">Añadir aplicación a la pantalla de inicio</string>
   <string name="webapp_menu_addtodesk">Añadir a la pantalla de inicio</string>
   <string name="webapp_menu_already_addtodesk">Añadido a la pantalla de inicio</string>
@@ -701,6 +704,7 @@
   <string name="webapp_menu_settings">Ajustes</string>
   <string name="webapp_menu_share">Compartir</string>
   <string name="webapp_settings_title">Ajustes</string>
+  <string name="webapp_splashview_loading">Cargando…</string>
   <string name="webapp_webapp_favortes_title">Favoritos</string>
   <string name="webpage_bookmark_title">Marcador</string>
   <string name="webpage_history_title">Historial</string>

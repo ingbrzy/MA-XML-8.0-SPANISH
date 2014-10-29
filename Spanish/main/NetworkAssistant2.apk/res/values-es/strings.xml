@@ -54,9 +54,9 @@
   <string name="datausage_purchase_pay_captcha_tips">Tras recibir su código de verificación, introdúzcalo en el recuadro de arriba y toque \"Comprar\" para completar su compra. Observe que el código sólo será válido durante 10 minutos.</string>
   <string name="datausage_purchase_pay_confirm">Comprar</string>
   <string name="datausage_purchase_pay_hint">Para cancelar, marque %s</string>
-  <string name="datausage_purchase_pkglist_networkerror">"No se pudo conectar a la red. Compruebe su conexión de datos y pruebe otra vez."</string>
-  <string name="datausage_purchase_pkglist_nodata">"Hay\ un conflicto entre su actual paquete de datos y el paquete de datos que Vd.\está intentando comprar.
- Solicite más información a su proveedor de servicios."</string>
+  <string name="datausage_purchase_pkglist_networkerror">No se pudo conectar a la red. Compruebe su conexión de datos y pruebe otra vez.</string>
+  <string name="datausage_purchase_pkglist_nodata">Hay un conflicto entre su actual paquete de datos y el paquete de datos que Vd. está intentando comprar.
+ Solicite más información a su proveedor de servicios.</string>
   <string name="datausage_purchase_pkglist_servererror">¡Vaya! Algo ha ido mal con nuestro server.</string>
   <string name="datausage_purchase_result_failed">"No se pudo comprar más datos. Pida más información a su operador de telefonía. "</string>
   <string name="datausage_purchase_result_ok">"Vd. compró %s
@@ -228,6 +228,8 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="read_number">86 artículos</string>
   <string name="read_unit">" artículos"</string>
   <string name="right_precent">100%</string>
+  <string name="sc_allow_network_dialog_message">Es necesario permitir a esta aplicación conectarse a internete para que funcione normalmente.</string>
+  <string name="sc_allow_network_dialog_tiltle">No se puede usar Data saver</string>
   <string name="setting_traffic_pkg">Establecer paquete de datos</string>
   <string name="settings">Ajustes de uso de datos</string>
   <string name="songs_number">18 canciones</string>

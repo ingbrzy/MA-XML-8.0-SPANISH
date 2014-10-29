@@ -5,6 +5,7 @@
   <string name="altitude_unit">M</string>
   <string name="app_label">Brújula</string>
   <string name="calibrate_altitude">Calibrando altitud</string>
+  <string name="calibrate_failed">Calibración de altitud fallida</string>
   <string name="calibrate_failed_no_location">"No se puede calibrar"</string>
   <string name="calibrate_failed_timeout">"No se puede conectar al servidor"</string>
   <string name="calibrate_success">Calibrado</string>
@@ -39,4 +40,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Presión</string>
   <string name="pressure_unit">hPa</string>
+  <string name="using_camera_confirm_cancel">Salir</string>
+  <string name="using_camera_confirm_message">Se va a utilizar la cámara desde la aplicación Compás.</string>
+  <string name="using_camera_confirm_ok">Acepto</string>
+  <string name="using_camera_confirm_title">Términos y Condiciones</string>
 </resources>

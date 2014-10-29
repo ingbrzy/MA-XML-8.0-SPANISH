@@ -66,13 +66,13 @@
   </string-array>
   <string-array name="wifi_status">
     <item></item>
-    <item>Escaneando&#8230;</item>
-    <item>Conectando&#8230;</item>
-    <item>Autentificando&#8230;</item>
-    <item>Obteniendo dirección IP&#8230;</item>
+    <item>Escaneando…</item>
+    <item>Conectando…</item>
+    <item>Autentificando…</item>
+    <item>Obteniendo dirección IP…</item>
     <item>Conectado</item>
     <item>Suspendido</item>
-    <item>Desconectando&#8230;</item>
+    <item>Desconectando…</item>
     <item>Desconectado</item>
     <item>No realizado</item>
     <item>Bloqueado</item>
@@ -80,23 +80,17 @@
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item></item>
-    <item>Escaneando&#8230;</item>
-    <item>Conectando con %1$s&#8230;</item>
-    <item>Autentificando con %1$s&#8230;</item>
-    <item>Obteniendo dirección IP de %1$s&#8230;</item>
+    <item>Escaneando…</item>
+    <item>Conectando con %1$s…</item>
+    <item>Autentificando con %1$s…</item>
+    <item>Obteniendo dirección IP de %1$s…</item>
     <item>Conectado a %1$s</item>
     <item>Suspendido</item>
-    <item>Desconectando de %1$s&#8230;</item>
+    <item>Desconectando de %1$s…</item>
     <item>Desconectado</item>
     <item>No realizado</item>
     <item>Bloqueado</item>
     <item>Evitar temporalmente la mala conexión</item>
-  </string-array>
-  <string-array name="wifi_eap_method">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Presione el botón</item>
@@ -114,7 +108,7 @@
     <item>2 minutos</item>
     <item>5 minutos</item>
     <item>1 hora</item>
-    <item>Sin time out</item>
+    <item>Sin límite de tiempo</item>
   </string-array>
   <string-array name="wifi_signal">
     <item>Pobre</item>
@@ -179,27 +173,10 @@
     <item>CHAP</item>
     <item>PAP o CHAP</item>
   </string-array>
-  <string-array name="apn_auth_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
-  <string-array name="apn_protocol_entries">
-    <item>IPv4</item>
-    <item>IPv6</item>
-    <item>IPv4/IPv6</item>
-  </string-array>
   <string-array name="bearer_entries">
     <item>LTE</item>
     <item>eHRPD</item>
     <item>No especificado</item>
-  </string-array>
-  <string-array name="mvno_type_entries">
-    <item>Ninguno</item>
-    <item>SPN</item>
-    <item>IMSI</item>
-    <item>GID</item>
   </string-array>
   <string-array name="app_install_location_entries">
     <item>Almacenamiento interno del dispositivo</item>
@@ -376,6 +353,16 @@
     <item>Escala de animación 5x</item>
     <item>Escala de animación 10x</item>
   </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Ninguno</item>
+    <item>720x480 mdpi</item>
+    <item>720x480 mdpi (seguro)</item>
+    <item>1280x720 tvdpi</item>
+    <item>1280x720 tvdpi (seguro)</item>
+    <item>1920x1080 xhdpi</item>
+    <item>1920x1080 xhdpi (seguro)</item>
+    <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+  </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Ninguno</item>
     <item>Logcat</item>
@@ -417,8 +404,8 @@
   </string-array>
   <string-array name="vpn_states">
     <item>Desconectado</item>
-    <item>Inicializando&#8230;</item>
-    <item>Conectando&#8230;</item>
+    <item>Inicializando…</item>
+    <item>Conectando…</item>
     <item>Conectado</item>
     <item>Tiempo agotado</item>
     <item>Sin éxito</item>
@@ -489,20 +476,6 @@
     <item>Blanco</item>
     <item>Violeta</item>
   </string-array>
-  <string-array name="overlay_display_devices_entries">
-    <item>Ninguno</item>
-    <item>720x480 mdpi</item>
-    <item>720x480 mdpi (seguro)</item>
-    <item>1280x720 tvdpi</item>
-    <item>1280x720 tvdpi (seguro)</item>
-    <item>1920x1080 xhdpi</item>
-    <item>1920x1080 xhdpi (seguro)</item>
-    <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-  </string-array>
-  <string-array name="screen_key_press_action">
-    <item>Mostrar bandeja de aplicaciones recientes</item>
-    <item>Mostrar menu</item>
-  </string-array>
   <string-array name="screen_key_long_press_action">
     <item>Nada</item>
     <item>Mostrar bandeja de aplicaciones recientes</item>
@@ -526,11 +499,11 @@
     <item>Siempre</item>
   </string-array>
   <string-array name="wfd_status">
-    <item>Iniciando sesión&#8230;</item>
+    <item>Iniciando sesión…</item>
     <item>Sesión iniciada</item>
-    <item>Cancelando&#8230;</item>
+    <item>Cancelando…</item>
     <item>"No se puede iniciar sesión"</item>
-    <item>Tiempo agotado. Reintentando&#8230;</item>
+    <item>Tiempo agotado. Reintentando…</item>
     <item>Dispositivo conectado</item>
   </string-array>
   <string-array name="power_mode_entries">
@@ -590,10 +563,6 @@ Nota: Solo para Ubuntu 8.04!"</item>
     <item>sRGB</item>
     <item>Nativo</item>
   </string-array>
-  <string-array name="values_color_calibration">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="phone_call_noise_suppression_title">
     <item>Un solo micrófono para supresión de ruido</item>
     <item>Doble micrófono para supresión de ruido</item>
@@ -629,7 +598,7 @@ Nota: Solo para Ubuntu 8.04!"</item>
   <string-array name="network_speed_slow_summary">
     <item>La red va lenta por que hay mucho trafico</item>
     <item>La red va lenta por que la intensidad de la señal es débil</item>
-    <item>Moving&#8230;</item>
+    <item>En movimiento…</item>
   </string-array>
   <string-array name="priority_storage_entries">
     <item>Memoria interna</item>
@@ -639,5 +608,9 @@ Nota: Solo para Ubuntu 8.04!"</item>
     <item>Menor retardo</item>
     <item>Estándar</item>
     <item>La mejor calidad</item>
+  </string-array>
+    <string-array name="screen_key_press_action">
+    <item>Mostrar bandeja de aplicaciones recientes</item>
+    <item>Mostrar menú</item>
   </string-array>
 </resources>
