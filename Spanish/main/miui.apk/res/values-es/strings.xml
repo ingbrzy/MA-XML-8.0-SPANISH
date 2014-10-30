@@ -324,7 +324,6 @@
   <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="early_morning">AM</string>
-  <string name="empty"/>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
   <string name="earthly_branches_hai">亥</string>
@@ -338,6 +337,7 @@
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
   <string name="email">Correo electrónico</string>
+  <string name="empty" />
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
   <string name="error_forbidden">Hay algunos problemas con su cuenta: sincronización deshabilitada.</string>
@@ -466,6 +466,8 @@
   <string name="organization">Organización</string>
   <string name="perm_payment_dspt">La aplicación podrá pagar a través del servicio de pago Xiaomi</string>
   <string name="perm_payment_lab">Servicio de pago Xiaomi</string>
+  <string name="permdesc_sendSmsNoConfirmation">Permite a la aplicación enviar SMS. Esto puede generar cargos. Aplicaciones maliciosas pueden suponerle un coste imprevisto al enviar mensajes sin su consentimiento.</string>
+  <string name="permlab_sendSmsNoConfirmation">send SMS messages with no confirmation</string>
   <string name="phone">Teléfono</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Política de privacidad</string>

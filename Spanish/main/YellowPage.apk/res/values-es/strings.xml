@@ -7,13 +7,16 @@
   <string name="account_order">Historial de pedidos</string>
   <string name="account_title">Perfil</string>
   <string name="account_type_name">Cuenta Mi</string>
+  <string name="account_unactivated">Cuenta no activada</string>
   <string name="account_updating_device">Actualizando…</string>
   <string name="account_updating_device_failed">"No se ha podido iniciar sesión"</string>
   <string name="account_verify_password">"Estás usando este servicio en otro dispositivo. Por seguridad, debes verificar tu cuenta Mi en este dispositivo."</string>
   <string name="account_yellowpage_favorite">Favoritos</string>
   <string name="account_yellowpage_recent">Ver el historial</string>
   <string name="agree">Estoy de acuerdo</string>
+  <string name="all_resources">Todos</string>
   <string name="all_services">Todo</string>
+  <string name="allow">Permitir</string>
   <string name="app_label">Directorio</string>
   <string name="app_recommendation_install">Instalar</string>
   <string name="average_price">Promedio de %d RMB</string>
@@ -48,6 +51,15 @@
   <string name="custom_mark_category">Personalizado</string>
   <string name="data_error">Se ha producido un error</string>
   <string name="delete">Eliminar</string>
+  <string name="deleting">Borrando…</string>
+  <string name="description_author">Autor</string>
+  <string name="description_designer">Diseñador</string>
+  <string name="description_download">Descargado</string>
+  <string name="description_size">Tamaño</string>
+  <string name="description_summary">Resumen</string>
+  <string name="description_uploadtime">Actualizado</string>
+  <string name="description_version">Versión</string>
+  <string name="description_version_szie">Versión: %1$s Tamaño: %2$s</string>
   <string name="do_not_remind_me">"No mostrar de nuevo"</string>
   <string name="dont_enable">Desactivar</string>
   <string name="download_completed">Descarga completa! Archivo guardado en %s</string>
@@ -60,6 +72,7 @@
   <string name="download_failed_server">Descarga fallida</string>
   <string name="download_failed_space">No hay suficiente espacio</string>
   <string name="download_failed_storage">Descarga fallida. Compruebe su tarjeta SD.</string>
+  <string name="download_preview_failed">No se pudo cargar vista previa</string>
   <string name="downloading">Descargando…</string>
   <string name="enable_now">Habilitar</string>
   <string name="exapress_save_address_to_contact">Guardar la dirección en el contacto</string>
@@ -105,8 +118,10 @@
   <string name="express_inquiry_history_remark">Observación</string>
   <string name="express_inquiry_history_remark_hint">Observación</string>
   <string name="express_inquiry_internal_failure">"Ocurrió un error. Compruebe por favor su número de seguimiento."</string>
-  <string name="express_inquiry_logistics_empty">Por favor seleccione logística.</string>
-  <string name="express_inquiry_logistics_indication">Compañía de entrega</string>
+  <string name="express_inquiry_logistics">Seleccione una Cía de transporte</string>
+  <string name="express_inquiry_logistics_empty">Por favor seleccione Cía de transporte.</string>
+  <string name="express_inquiry_logistics_indication">Compañía de transporte</string>
+  <string name="express_inquiry_logistics_select_others_indication">Otra</string>
   <string name="express_inquiry_no_history">No hay historial</string>
   <string name="express_inquiry_no_result">No hay resultados</string>
   <string name="express_inquiry_number_empty">Por favor ingrese su número de rastreo.</string>
@@ -120,20 +135,21 @@
   <string name="express_inquiry_untrace">No seguimiento</string>
   <string name="express_inquiry_untrace_success">No seguimiento realizado</string>
   <string name="express_no_address">Vacío</string>
-  <string name="express_no_order_info">No hay información de orden</string>
+  <string name="express_no_order">Número de Pedido</string>
+  <string name="express_no_order_info">No hay información de pedido</string>
   <string name="express_no_tracking_number">Pendiente</string>
-  <string name="express_order_confirmation">Confirmación de la orden</string>
+  <string name="express_order_confirmation">Confirmación del pedido</string>
   <string name="express_order_created_time">Tiempo creado</string>
   <string name="express_order_detail">Detalle</string>
   <string name="express_order_failed">Falló</string>
-  <string name="express_order_info">Información de la orden</string>
+  <string name="express_order_info">Información del pedido</string>
   <string name="express_order_internal_id">ID de pedido</string>
   <string name="express_order_ongoing">Ordenar…</string>
   <string name="express_order_result">Resultado</string>
   <string name="express_order_state_accepted">Aceptado</string>
   <string name="express_order_state_allograph">Firmado</string>
-  <string name="express_order_state_cancelled">Cancelada</string>
-  <string name="express_order_state_dispatching">Entrega</string>
+  <string name="express_order_state_cancelled">Cancelado</string>
+  <string name="express_order_state_dispatching">Entrego</string>
   <string name="express_order_state_dispatching_failed">Falló</string>
   <string name="express_order_state_failed">Fallo</string>
   <string name="express_order_state_ordered">Pedido</string>
@@ -159,12 +175,14 @@
   <string name="express_sender_name">Nombre del remitente</string>
   <string name="express_sender_region">Región del remitente</string>
   <string name="express_submit_order">Confirmar</string>
+  <string name="express_track_order">Seguimiento</string>
   <string name="express_tracking_number">Número de seguimiento</string>
   <string name="express_urge_order">Urge</string>
   <string name="express_view_order">Ver pedidos</string>
   <string name="express_view_status">Seguimiento</string>
   <string name="expresss_inquiry_all_logistics">Todo</string>
   <string name="expresss_inquiry_frequently_used_logistics">Común</string>
+  <string name="fail_to_add_account">No se pudo añadir la cuenta</string>
   <string name="fraud_number_online_identification">Bloquear telemarketing (requiere conexión a internet)</string>
   <string name="gallery">Galería</string>
   <string name="general_cancel_favorite_ok">Favorito eliminado</string>
@@ -189,6 +207,9 @@
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Sin asunto)</string>
   <string name="hms_notification">Mensajes</string>
+  <string name="loading">Loading…</string>
+  <string name="loading_resource_detail_fail">No se pudo cargar el recurso</string>
+  <string name="loading_resource_detail_info">Cargando…</string>
   <string name="locating_fail">"No se puede establecer su localización"</string>
   <string name="login_before_use">Tienes que iniciar sesión primero</string>
   <string name="login_ok">Iniciar sesión</string>
@@ -227,6 +248,8 @@
   <string name="no_price">No hay información de precio</string>
   <string name="notify_connect_summary">Mostrar aviso cuando se conecte a internet</string>
   <string name="notify_connect_title">Notificación de conexión de Internet</string>
+  <string name="online_no_network">No se pudo conectar a la red</string>
+  <string name="online_search_hint">Search for online resources</string>
   <string name="order_date_label">Fecha de pedido: %s</string>
   <string name="order_empty_hint">No hay pedidos</string>
   <string name="order_id_label">ID de pedido: %s</string>
@@ -286,11 +309,15 @@
 Total: RMB %3$s "</string>
   <string name="recharge_user_confirm_title">Confirmar</string>
   <string name="refresh">Actualizar</string>
+  <string name="remember_preference">Recordar preferencia</string>
   <string name="remind_another_time">"No mostrar de nuevo"</string>
   <string name="remind_user_confirm">Aceptar</string>
   <string name="remind_user_suspect_number_message">Cuidado: debe siempre comprobar la identidad del contacto primero por teléfono o vídeo antes de responder a cualquier mensaje que implique su información personal.</string>
   <string name="remind_user_suspect_number_title">Número sospechoso</string>
   <string name="scan">Escanear</string>
+  <string name="sdcard_not_mounted_dialog_message">"Inserte la tarjeta SD ahora.
+"</string>
+  <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
   <string name="select_package_before_buy">Seleccionar paquete</string>
   <string name="selected_category_format">Etiquetado por %2$d personas como %1$s.</string>
   <string name="send_shortcut_failed">"No se pudo enviar"</string>
@@ -307,6 +334,7 @@ Total: RMB %3$s "</string>
   <string name="sina_token_expired_warning">Su cuenta Weibo ha caducado: por favor, vuelva a conectarse</string>
   <string name="sina_token_invalid_warning">Su cuenta Weibo no es válida: por favor, vuelva a enlazar</string>
   <string name="smart_antispam">Identificar números desconocidos</string>
+  <string name="to_activate_the_account">Active su Cuenta Mi ahora</string>
   <string name="toast_finish_delete_call_log">Registro de llamadas eliminado</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="try_again">Inténtelo de nuevo</string>
@@ -325,5 +353,6 @@ Total: RMB %3$s "</string>
   <string name="user_notice_yp_detail_summary_format">"Algo de información de su directorio de etiquetas está anticuado. ¿Quiere actualizarlo? Tocando \"De acuerdo\" acepta %1$s y %2$s de Xiaomi."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Algo de información de su directorio está anticuado. ¿Quiere actualizarlo? Tocando \"De acuerdo\" acepta %1$s y %2$s de Xiaomi."</string>
   <string name="voicemail">Mensaje de voz</string>
+  <string name="web_permission_message">%1$s necesita ver su %2$s para funcionar adecuadamente.</string>
   <string name="yellow_page_website">Sitio web oficial</string>
 </resources>
