@@ -22,7 +22,6 @@
   <string name="category_document">Docs</string>
   <string name="category_favorite">Favoritos</string>
   <string name="category_log">Registros</string>
-  <string name="category_mirouter">Router</string>
   <string name="category_music">Música</string>
   <string name="category_other">Otros</string>
   <string name="category_picture">Imágenes</string>
@@ -39,7 +38,6 @@
   <string name="clean_trash_box">Vaciar papelera</string>
   <string name="cleaning">Limpiando…</string>
   <string name="close">Cerrar</string>
-  <string name="colon">": : "</string>
   <string name="compress_fail">Compresión fallida: ya existe un archivo con el mismo nombre.</string>
   <string name="compress_message">Comprimir en…</string>
   <string name="compress_title">Comprimir</string>
@@ -102,6 +100,7 @@
   <string name="file_too_large">El archivo es demasiado grande para cargar</string>
   <string name="finished">Completa</string>
   <string name="folder_exist">La carpeta ya existe.</string>
+  <string name="folder_name_illegal">Nombre de carpeta no válido</string>
   <string name="forward_to_web_recycle_prompt">&lt; a href = \"%1$s\" &gt; toque &lt; /a &gt; para ir a la papelera de reciclaje</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras y números, mayúsculas y minúsculas</string>
   <string name="ftp_anonymous_login">Inicio de sesión anónimo</string>
@@ -126,7 +125,6 @@ Lamentablemente el server está en mantenimiento. Por favor inténtelo más tard
   <string name="kuaipan_tech_support">Iniciar sesión en kuaipan.cn</string>
   <string name="load_err">"No se puede cargar"</string>
   <string name="loading">Cargando…</string>
-  <string name="local_cache_size">Tamaño de la caché local: %s</string>
   <string name="login_reg_content">Almacenar archivos y sincronizar a través de múltiples dispositivos.</string>
   <string name="login_reg_content0">Usar KuaiPan desde cualquier parte.</string>
   <string name="megabyteShort">MB</string>
@@ -274,15 +272,11 @@ Se agregó %1$s de espacio"</string>
   <string name="tab_category">Categorías</string>
   <string name="tab_expand">Expandir</string>
   <string name="tab_local">Local</string>
-  <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_path">Camino</string>
-  <string name="tab_phone">Teléfono</string>
-  <string name="tab_sys_size">Almacenamiento total</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">No se encontró una aplicación para manejar esta acción.</string>
   <string name="tools">Herramientas</string>
   <string name="trans_task">Transferencia por red</string>
-  <string name="trans_task_delete_confirm_message">¿Borrar las %1$d tareas seleccionadas?</string>
   <string name="transing">Enviando</string>
   <string name="trash_box_capacity">Papelera de reciclaje %1$s</string>
   <string name="trash_box_link">Para vaciar la basura, visite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>

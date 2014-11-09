@@ -99,6 +99,9 @@ Por favor contacte con el servicio de atención al cliente de Xiaomi.</string>
   <string name="error_server_summary">Error del Servidor. Por favor inténtelo de nuevo más tarde</string>
   <string name="error_user_id_mismatch_summary">Por favor compruebe sus datos de acceso y vuelva a intentarlo</string>
   <string name="fee">%1$s Créditos Mi</string>
+  <string name="fee_with_giftcard"> (Incluir %1$s)</string>
+  <string name="fee_with_mibi_giftcard"> %1$s-Tarjeta de regalo Mi Credit</string>
+  <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
   <string name="forget_password">&lt;u&gt;Olvidó su clave&lt;/u&gt;</string>
   <string name="format_date">MMM. dd, yyyy</string>
   <string name="format_time">MMM dd, yyyy hh:mmaa</string>
@@ -230,6 +233,7 @@ Por favor contacte con el servicio de atención al cliente de Xiaomi.</string>
   <string name="prepaid_picker_hint_2_2_b">Si el valor nominal de la tarjeta de prepago no es &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la tarjeta será anulada. Xiaomi no se responsabiliza de ninguna pérdida monetaria que derivada de un error del usuario.</string>
   <string name="prepaid_picker_title_default">Selecciones cantidad</string>
   <string name="prepaid_picker_title_selected">cantidad</string>
+  <string name="process_expired">Esta operación ha excedido el tiempo de espera.</string>
   <string name="progress_bankcall_card_creating">Generando el pedido…</string>
   <string name="progress_bankcall_card_querying">Comprobando el tipo de cuenta…</string>
   <string name="progress_creating">Recuperando la información del pedido…</string>

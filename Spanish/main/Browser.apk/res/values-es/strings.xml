@@ -24,6 +24,7 @@
   <string name="action_menu_text_nightmode_on">Modo noche</string>
   <string name="action_menu_text_setting">Ajustes</string>
   <string name="action_menu_text_share">Compartir</string>
+     <string name="action_menu_text_snapshot">Guardar página</string>
   <string name="actionbar_share">Compartir</string>
   <string name="actionbar_web_search">Búsqueda en la web</string>
   <string name="adblock_notification">%d anuncios bloqueados</string>
@@ -86,7 +87,6 @@
   <string name="bookmark_needs_title">Marcador debe tener un nombre.</string>
   <string name="bookmark_needs_url">Marcador debe tener una ubicación.</string>
   <string name="bookmark_not_saved">"No se pudo guardar en favoritos"</string>
-  <string name="bookmark_page">Guardar en favoritos la última página visitada</string>
   <string name="bookmark_rename_group">Cambiar el nombre de grupo</string>
   <string name="bookmark_saved">Guardado en favoritos</string>
   <string name="bookmark_this_page_to_readmodelist">Añadir página a la lista de lectura</string>
@@ -220,8 +220,9 @@
   <string name="edit_quicklink">Editar</string>
   <string name="empty_bookmark">Vacío</string>
   <string name="empty_bookmarks_folder">No hay favoritos</string>
-  <string name="empty_history">Vacía</string>
-  <string name="empty_history_hint">Vacía</string>
+  <string name="empty_history">Vacío</string>
+  <string name="empty_history_hint">Vacío</string>
+  <string name="empty_snapshot_hint">Vacío</string>
   <string name="empty_snapshots_folder">No hay páginas guardadas.</string>
   <string name="enter_developer_mode">Entrar en modo programador</string>
   <string name="enter_incongnito_mode">Entrar en modo incógnito</string>
@@ -650,10 +651,11 @@
   <string name="sync_item_browser_summary">Sincroniza tus datos en la nube, para poder manejar el navegador de manera fácil en diferentes dispositivos</string>
   <string name="sync_item_browser_title">Sincronizar navegador</string>
   <string name="tab_history">Historial</string>
+     <string name="tab_hotpage">Tendencia</string>
   <string name="tab_most_visited">Más visitados</string>
   <string name="tab_quicklinks">Útil</string>
   <string name="tab_snapshots">Páginas guardadas</string>
-  <string name="tab_videopage">Video</string>
+  <string name="tab_videopage">Vídeo</string>
   <string name="tab_yellowpage">Popular</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>

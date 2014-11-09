@@ -19,7 +19,6 @@
   <string name="account_xiaomi_service">Servicios</string>
   <string name="activating">Activando…</string>
   <string name="add_account">Añadir cuenta</string>
-  <string name="add_weibo_account">Agregar cuenta</string>
   <string name="alert_title_remove_account">"¿Borrar los datos que has sincronizado?"</string>
   <string name="app_name">Mi cuenta</string>
   <string name="bad_authentication">Contraseña o nombre de usuario no válido</string>
@@ -80,7 +79,6 @@
   <string name="failed_to_send_activate_email">"No puede enviar el email de activación"</string>
   <string name="find_device_dspt">Bloquea o borra este dispositivo de forma remota.</string>
   <string name="find_password_on_web_msg">Visite account.mi.com para restablecer su contraseña.</string>
-  <string name="foreign_login">&lt;u&gt; agregar código de país &lt;/u&gt;</string>
   <string name="forget_password">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
   <string name="get_back_pwd">Recuperar contraseña de la cuenta</string>
   <string name="get_verify_code">Obtener código</string>
@@ -94,7 +92,6 @@
   <string name="input_vcode_hint">Introduzca el código de verificación</string>
   <string name="input_vcode_prompt">Introduzca el código de verificación</string>
   <string name="input_verify_code_hint">Introduzca el código de verificación</string>
-  <string name="int_phone_user_notice">Agrege el código de país cuando use un número de móvil para iniciar sesión.</string>
   <string name="internet_comm">Servicios de mensajería</string>
   <string name="license_host_unreachable">"No se puede conectar a la red. Para ver esta información ahora, vaya a %s."</string>
   <string name="loading">Cargando…</string>
@@ -209,7 +206,6 @@
   <string name="remove_unactivated_account_notice">"Su cuenta no ha sido activada."</string>
   <string name="removing_account">Cerrando sesión…</string>
   <string name="scan_barcode_title">Para iniciar sesión en tu cuenta Mi, escanear el código QR</string>
-  <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Error del servicio</string>
   <string name="show_password">Mostrar contraseña</string>
   <string name="sim_changed_notification_content">"Tarjeta SIM no está activada"</string>

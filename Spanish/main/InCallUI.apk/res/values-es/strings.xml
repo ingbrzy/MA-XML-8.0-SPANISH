@@ -129,13 +129,6 @@
   <string name="deleting_fdn_contact">Eliminando número de marcación fija…</string>
   <string name="description_delete_button">retroceso</string>
   <string name="description_dial_button">Marcar</string>
-  <string name="description_direction_down_left">Abajo izquierda</string>
-  <string name="description_direction_down_right">Abajo derecha</string>
-  <string name="description_direction_left">Deslice a la izquierda para %s.</string>
-  <string name="description_direction_right">Deslice a la derecha para %s.</string>
-  <string name="description_direction_up">Deslice hacia arriba para %s.</string>
-  <string name="description_direction_up_left">Arriba izquierda</string>
-  <string name="description_direction_up_right">Arriba derecha</string>
   <string name="description_image_button_eight">ocho</string>
   <string name="description_image_button_five">cinco</string>
   <string name="description_image_button_four">cuatro</string>
@@ -148,12 +141,6 @@
   <string name="description_image_button_three">tres</string>
   <string name="description_image_button_two">dos</string>
   <string name="description_image_button_zero">cero</string>
-  <string name="description_target_answer">Responder</string>
-  <string name="description_target_answer_rx_video">Responder con RX Video</string>
-  <string name="description_target_answer_tx_video">Responder con TX Video</string>
-  <string name="description_target_answer_video">Responder con Vídeo</string>
-  <string name="description_target_decline">Rechazar</string>
-  <string name="description_target_send_sms">Enviar SMS</string>
   <string name="dial_emergency_empty_error">Llamada no enviada. ¡Marque un número de emergencia!</string>
   <string name="dial_emergency_error">Llamada no enviada. ¡%s no es un número de emergencia!</string>
   <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
@@ -219,9 +206,6 @@
   <string name="eo_enable">Oportunidades de empleo habilitadas</string>
   <string name="error_updating_title">Error en configuración de llamadas</string>
   <string name="exception_error">Error de red o de tarjeta SIM.</string>
-  <string name="fake_phone_activity_infoText_text">Número de teléfono entrante</string>
-  <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-  <string name="fake_phone_activity_placeCall_text">Llamada entrante falsa</string>
   <string name="fdn">Números de Marcación fija</string>
   <string name="fdn_activation">Activación de FDN</string>
   <string name="fdn_check_failure">"La configuración de la aplicación de Números de Marcación Fija está conectada. Como resultado, algunas funciones relacionadas con las llamadas no están funcionando."</string>
@@ -267,7 +251,6 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="incoming_call_forwarded_title">Desviar llamadas entrantes</string>
   <string name="international_disable">Noticias internacionales deshabilitadas</string>
   <string name="international_enable">Noticias internacionales habilitadas</string>
-  <string name="internet_phone">Llamada Internet</string>
   <string name="invalidPin">Introduzca un PIN de 4 a 8 números.</string>
   <string name="invalidPin2">Introduzca un PIN2 de 4 a 8 números.</string>
   <string name="invalidPuk2">Introduzca un PUK de 8 números.</string>
@@ -338,8 +321,6 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="no_change">No se realizaron cambios.</string>
   <string name="no_internet_available">Para realizar una llamada de Internet, compruebe primero la conexión a Internet.</string>
   <string name="no_internet_available_title">No hay conexión a internet</string>
-  <string name="no_sip_account_found">No hay cuentas de llamada de Internet en este teléfono. ¿Quiere añadir una ahora?</string>
-  <string name="no_sip_account_found_title">Ninguna cuenta de llamada Internet</string>
   <string name="no_vm_number">Falta el número del buzón de voz</string>
   <string name="no_vm_number_msg">Ningún número de buzón de voz almacenado en la tarjeta SIM.</string>
   <string name="no_voip">Llamadas por Internet no soportadas</string>
@@ -445,8 +426,6 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="phone_in_ecm_call_notification_text">Conexión de datos deshabilitada</string>
   <string name="phone_in_ecm_notification_title">Modo de Devolución de llamada de Emergencia</string>
   <string name="phone_info_divider">" ｜ "</string>
-  <string name="pick_outgoing_call_phone_type">Hacer una llamada</string>
-  <string name="pick_outgoing_sip_phone">Use la cuenta de llamadas de Internet:</string>
   <string name="pin2_changed">PIN2 cambiado correctamente.</string>
   <string name="pin2_invalid">"FDN no fue actualizada porque escribió Vd. un PIN incorrecto."</string>
   <string name="pin2_or_fdn_invalid">"FDN no fue actualizado. El PIN2 es incorrecto, o el número de teléfono fue rechazado."</string>
@@ -479,7 +458,6 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="progress_dialog_exiting_ecm">Saliendo del modo de Devolución de Llamada de Emergencia</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Dirección proxy saliente</string>
-  <string name="pstn_phone">Llamada de teléfono celular</string>
   <string name="puk2_requested">Contraseña incorrecta, la SIM está bloqueada. Se necesita el PUK2.</string>
   <string name="puk_requested">Contraseña incorrecta, ¡la SIM está bloqueada! Se necesita el PUK2.</string>
   <string name="puk_unlocked">La tarjeta SIM ha sido desbloqueada. Su teléfono se está desbloqueando…</string>
@@ -501,11 +479,9 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="registration_status_registering">Registrando…</string>
   <string name="registration_status_server_unreachable">Registro de cuenta fallido: Compruebe el nombre del servidor.</string>
   <string name="registration_status_still_trying">Sigo intentándolo…</string>
-  <string name="remember_my_choice">Usar siempre para hacer llamadas por Internet</string>
   <string name="remove_sip_account">Eliminar cuenta</string>
   <string name="removing_account">Eliminando la cuenta…</string>
   <string name="requesting_unlock">Solicitando desbloqueo de red…</string>
-  <string name="reset_my_choice_hint">Puede cambiar qué cuenta de llamadas de Internet usar por defecto en Ajustes &gt; Ajustes de llamada &gt; Ajustes de llamada por Internet &gt; Cuentas SIP.</string>
   <string name="respond_via_sms_canned_response_1">"No puedo hablar ahora. ¿Qué pasa?"</string>
   <string name="respond_via_sms_canned_response_2">"Le llamaré enseguida."</string>
   <string name="respond_via_sms_canned_response_3">"Le llamaré más tarde."</string>
@@ -551,7 +527,6 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="sip_account_list">Cuentas SIP</string>
   <string name="sip_accounts">Cuentas de llamada por Internet (SIP)</string>
   <string name="sip_accounts_title">Cuentas</string>
-  <string name="sip_always_send_keepalive">Enviar siempre</string>
   <string name="sip_call_options_entry_1">Para todas las llamadas cuando la red de datos está disponible</string>
   <string name="sip_call_options_entry_2">Sólo para llamadas por Internet</string>
   <string name="sip_call_options_entry_3">Preguntar para cada llamada</string>
@@ -566,7 +541,6 @@ Inténtelo de nuevo o llame al Servicio de Atención al Cliente para más opcion
   <string name="sip_receive_calls">Recibir llamadas entrantes</string>
   <string name="sip_receive_calls_summary">Reduce la duración de la batería</string>
   <string name="sip_settings">Configuración de las llamadas por internet</string>
-  <string name="sip_system_decide">Automático</string>
   <string name="sports_news_settings">Noticias deportivas</string>
   <string name="stk_cc_ss_to_dial_error">Solicitud SS modificada a solicitud DIAL.</string>
   <string name="stk_cc_ss_to_ss_error">Solicitud SS modificada a nueva solicitud SS.</string>

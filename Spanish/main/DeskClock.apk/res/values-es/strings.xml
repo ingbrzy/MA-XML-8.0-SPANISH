@@ -48,6 +48,7 @@
   <string name="delete_timezone_title">Eliminar zona horaria</string>
   <string name="dialog_confirm_abort">¿Descartar los cambios?</string>
   <string name="done">Hecho</string>
+  <string name="edit_systemtime">Editar hora del sistema</string>
   <string name="elapsed_time_format">+ %s</string>
   <string name="every_day">Diario</string>
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
@@ -66,7 +67,6 @@
   <string name="loading_ringtone">Cargando sonido…</string>
   <string name="menu_add_worldclock">Añadir reloj</string>
   <string name="menu_desk_clock">Reloj de escritorio</string>
-  <string name="menu_edit_systemtime">Hora del sistema</string>
   <string name="menu_edit_timer_item">Editar tarea</string>
   <string name="menu_item_dock_settings">Configuración de anclaje</string>
   <string name="minute">1 minuto</string>
@@ -103,6 +103,7 @@
   <string name="timer_message_with_hour">%1$d horas y %2$d minutos</string>
   <string name="timer_message_with_seconds">%1$d segundos</string>
   <string name="timer_new_item">Personalizar</string>
+  <string name="timer_notify_text">Retrasar o ignorar alarma.</string>
   <string name="timer_start_alarm">"¡El tiempo se ha acabado!"</string>
   <string name="timer_title">Temporizador</string>
   <string name="timezone_exist_error_message">"Ya se está mostrando esa zona horaria"</string>
@@ -113,5 +114,4 @@
   <string name="workday_alarm_clock">Alarma día laborable</string>
   <string name="worldclock_empty_text">Sin relojes</string>
   <string name="worldclock_title">Reloj</string>
-  <string name="timer_notify_text">Retrasar o ignorar alarma.</string>
 </resources>

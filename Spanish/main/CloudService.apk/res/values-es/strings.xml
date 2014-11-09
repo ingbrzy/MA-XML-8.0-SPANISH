@@ -14,6 +14,8 @@
   <string name="bad_authentication">Contraseña o nombre de usuario no válidos</string>
   <string name="btn_return">Atrás</string>
   <string name="button_cancel">Cancelar</string>
+  <string name="buy_space_expire">El espacio comprado expirará en %s</string>
+  <string name="buy_space_expire_concat">%1$s a %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Renovación Automática</string>
   <string name="buy_space_sulotion_message">Va a comprar %sGB</string>
   <string name="buy_space_sulotion_not_auto_renew">No renovar automáticamente</string>
@@ -54,6 +56,7 @@
   <string name="find_device_dspt">Localizar, bloquear o borrar el dispositivo de forma remota.</string>
   <string name="find_device_dspt_provision">"Si pierde su dispositivo, puede ir a "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">" para localizar, bloquear o borrarlo.
  
 Puede habilitar o deshabilitar esta característica en cualquier momento en Ajustes."</string>
@@ -87,6 +90,7 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el
   <string name="less_flow_mode">Data saver</string>
   <string name="license_host_unreachable">"No se pudo conectar a la red. Para ver esta información ahora, vaya a %s."</string>
   <string name="loading">Cargando</string>
+  <string name="loading_hint">Cargando</string>
   <string name="master_alert_notif_dspt_add">"%s no han sido sincronizados."</string>
   <string name="master_alert_notif_dspt_no">"Todo está actualizado."</string>
   <string name="master_alert_notif_title">Última sincronización hace %s días</string>
@@ -116,6 +120,10 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_proceed">Continuar</string>
   <string name="micloud_sec_dspt">y compartir cosas con amigos.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;¿Qué ocurre cuando me quedo sin espacio?&lt;/u&gt;</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Debe renovar su suscripción.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Debe renovar su suscripción.</string>
+  <string name="micloud_storage_expires_soon_title">El almacenamiento en Mi Cloud expira pronto</string>
+  <string name="micloud_storage_expires_very_soon_title">El almacenamiento en Mi Cloud expira pronto</string>
   <string name="micloud_storage_usage" formatted="false">Usado %s/Espacio total %s</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s usados | %s restantes"</string>
@@ -171,6 +179,7 @@ Puede habilitar o deshabilitar esta característica en cualquier momento en Ajus
   <string name="sync_dspt">Habilitar sincronización</string>
   <string name="sync_dspt_provision">"Mi Nube sincroniza sus fotos, SMS, notas y más, entre sus dispositivos Mi. También puede acceder a ellos desde cualquier Navegador en "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision3">".
 
 Puede habilitar o deshabilitar esta característica en cualquier momento en Ajustes.

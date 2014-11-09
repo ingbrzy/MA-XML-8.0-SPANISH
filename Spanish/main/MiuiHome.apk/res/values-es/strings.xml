@@ -26,10 +26,6 @@
   <string name="default_folder_title_recommend">Más aplicaciones</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Herramientas</string>
-  <string name="default_name">Predeterminado</string>
-  <string name="disable">Desactivar</string>
-  <string name="disable_auto_start_format">Desactivar el inicio automático de %s</string>
-  <string name="disable_auto_start_message">Desactivar el inicio automático en el arranque.</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -100,7 +96,6 @@
   <string name="loading_desktop">Cargando lanzador</string>
   <string name="lock_screen_failed_message">"No se puede aplicar"</string>
   <string name="lock_screen_success_message">Aplicado</string>
-  <string name="maml_component_customization_title">Ajustes</string>
   <string name="menu_add">Añadir</string>
   <string name="menu_back_desktop">Volver a la pantalla de inicio</string>
   <string name="menu_customize">Ajustes</string>
@@ -134,8 +129,8 @@
   <string name="pref_cell_layout_size">Diseño del icono de la aplicación</string>
   <string name="pref_enable_drawing_cache_summary">Apague para liberar memoria. Esto puede provocar un rendimiento más lento.</string>
   <string name="pref_enable_drawing_cache_title">Dibujando cache</string>
-  <string name="pref_icon_shadow_summary">Activar la aplicación sombra y efectos de reflexión de la bandeja de favoritos</string>
-  <string name="pref_icon_shadow_title">Sombras de la aplicación</string>
+  <string name="pref_icon_shadow_summary">Activar el menú emergente y efectos de reflexión de la bandeja de favoritos</string>
+  <string name="pref_icon_shadow_title">Menú emergente</string>
   <string name="pref_keep_in_memory_summary">Mantener el lanzador en ejecucion cuando la memoria es baja</string>
   <string name="pref_keep_in_memory_title">Bloquear MIUI en memoria</string>
   <string name="pref_keep_layout_summary">"Cambio de diseño de la pantalla de inicio no afectará a posiciones de apps en relación a los demás"</string>
@@ -148,10 +143,6 @@
   <string name="preferences_title">Ajustes del lanzador</string>
   <string name="process"/>
   <string name="reset_scene_prompt">Pantalla se restablecerá a disposición por defecto.</string>
-  <string name="resource_select">Seleccionar</string>
-  <string name="screen_button_disabled_message">Botones de navegación desactivados. Para volver a activarlos, toque Home y el botón de encendido simultáneamente.</string>
-  <string name="screen_button_enabled_message">Botones de navegación activados.</string>
-  <string name="screen_rotation_freeze_message">Rotación automática desactivada.</string>
   <string name="scroll_tip_format_when_announce_accessibility">Página %1$d, %2$d apps</string>
   <string name="select_frame">Marco</string>
   <string name="select_photo">Foto</string>

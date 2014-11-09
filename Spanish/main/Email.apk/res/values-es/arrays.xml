@@ -6,13 +6,19 @@
     <item>Responder a todos</item>
     <item>Reenviar</item>
   </string-array>
-  <string-array name="sync_status">
-    <item>Correcto</item>
-    <item>No hay conexión.</item>
-    <item>No se ha podido conectar.</item>
-    <item>Error de seguridad.</item>
-    <item>No se ha podido sincronizar.</item>
-    <item>Fallo del Servidor</item>
+  <string-array name="general_preference_text_zoom_summary_array">
+    <item>Texto diminuto</item>
+    <item>Texto pequeño</item>
+    <item>Texto normal</item>
+    <item>Texto grande</item>
+    <item>Texto enorme</item>
+  </string-array>
+  <string-array name="menu_att_mgr_sort_string_array">
+    <item>Recientes</item>
+    <item>Formato</item>
+    <item>Nombre</item>
+    <item>Remitente</item>
+    <item>Fecha</item>
   </string-array>
   <string-array name="moveto_folder_sections">
     <item>Sistema</item>
@@ -24,33 +30,27 @@
     <item>Más antiguo</item>
     <item>Lista de conversaciones</item>
   </string-array>
-  <string-array name="prefSummaries_autoAdvance">
-    <item>Mostrar conversación más nueva tras borrar</item>
-    <item>Mostrar conversación más antigua tras borrar</item>
-    <item>Mostrar lista de conversación tras borrar</item>
-  </string-array>
   <string-array name="prefEntries_removal_action">
     <item>Mostrar sólo \"Archivar\"</item>
     <item>Mostrar sólo \"Borrar\"</item>
     <item>Mostrar \"Archivar\" y \"Borrar\"</item>
+  </string-array>
+  <string-array name="prefSummaries_autoAdvance">
+    <item>Mostrar conversación más nueva tras borrar</item>
+    <item>Mostrar conversación más antigua tras borrar</item>
+    <item>Mostrar lista de conversación tras borrar</item>
   </string-array>
   <string-array name="prefSummaries_removal_action_summary">
     <item>Mostrar sólo \"Archivar\"</item>
     <item>Mostrar sólo \"Borrar\"</item>
     <item>Mostrar \"Archivar\" y \"Borrar\"</item>
   </string-array>
-  <string-array name="menu_att_mgr_sort_string_array">
-    <item>Recientes</item>
-    <item>Formato</item>
-    <item>Nombre</item>
-    <item>Remitente</item>
-    <item>Fecha</item>
-  </string-array>
-  <string-array name="general_preference_text_zoom_summary_array">
-    <item>Texto diminuto</item>
-    <item>Texto pequeño</item>
-    <item>Texto normal</item>
-    <item>Texto grande</item>
-    <item>Texto enorme</item>
+  <string-array name="sync_status">
+    <item>Correcto</item>
+    <item>No hay conexión.</item>
+    <item>No se ha podido conectar.</item>
+    <item>Error de seguridad.</item>
+    <item>No se ha podido sincronizar.</item>
+    <item>Fallo del Servidor</item>
   </string-array>
 </resources>

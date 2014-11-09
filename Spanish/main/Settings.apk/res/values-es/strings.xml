@@ -143,7 +143,6 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="app_factory_reset">Desinstalar actualizaciones</string>
   <string name="app_factory_reset_dlg_text">Todas las actualizaciones de esta aplicación de sistema Android serán desinstaladas.</string>
   <string name="app_factory_reset_dlg_title">¿Desinstalar actualizaciones? </string>
-  <string name="app_feedback">Reportar error</string>
   <string name="app_floating_window_dlg_disable">"Desactivar %1$s ajustes de la ventana flotante detendrá la aplicación.
 ¿Desactivar ventanas flotantes?"</string>
   <string name="app_floating_window_dlg_enable">"Activar %1$s ajustes de la ventana activa requiere reiniciar la aplicación. También puede parar la aplicación manualmente. 
@@ -1051,6 +1050,23 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="header_data_and_synchronization">Datos y Sincronización</string>
   <string name="heavy_weight_stop_description">"Esta aplicación no puede detenerse de forma segura. Si la detiene, puede perder parte de su trabajo actual."</string>
   <string name="help_label">Ayuda</string>
+     <string name="help_url_accounts" />
+     <string name="help_url_backup_reset" />
+     <string name="help_url_battery" />
+     <string name="help_url_bluetooth" />
+     <string name="help_url_choose_lockscreen" />
+     <string name="help_url_data_usage" />
+     <string name="help_url_dreams" />
+     <string name="help_url_location_access" />
+     <string name="help_url_more_networks" />
+     <string name="help_url_nfc_payment" />
+     <string name="help_url_remote_display" />
+     <string name="help_url_security" />
+     <string name="help_url_sound" />
+     <string name="help_url_tether" />
+     <string name="help_url_users" />
+     <string name="help_url_vpn" />
+     <string name="help_url_wifi" />
   <string name="hidden_ssid_label">SSID ocultos:</string>
   <string name="high_performance_notif_summary">El modo alto rendimiento esta activo.</string>
   <string name="high_performance_notif_title">Advertencia de uso de batería</string>
@@ -1127,9 +1143,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="language_settings_category">Ajustes de Idioma</string>
   <string name="large_font">Grande</string>
   <string name="last_synced">Última sincronización %1$s</string>
-  <string name="later">Reiniciar despues</string>
   <string name="launch_count_label">Contador</string>
-  <string name="launcher_settings_title">Lanzador</string>
   <string name="launching_cit">Lanzando cit, por favor espere.</string>
   <string name="launching_pho">Lanzando información del teléfono, por favor espere.</string>
   <string name="launching_rep">Reportando</string>
@@ -1344,7 +1358,6 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
   <string name="menu_stats_total">Totales de uso</string>
   <string name="menu_stats_unplugged">%1$s desde que se desenchufó</string>
   <string name="menu_use_uss">Utilizar Uss</string>
-  <string name="mione_update_success_title">Actualización completada</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast no esta disponible porque un ordenador ya está transmitiendo a este dispositivo</string>
   <string name="miracast_cancelconnect_dialog">Cancelar conexión</string>
   <string name="miracast_connection_failed_generic">LA conexión no se ha realizado correctamente</string>
@@ -1428,6 +1441,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="mtp_ptp_mode_summary">La función MTP o PTP esta activa</string>
   <string name="multi_touch_points_category_title">Puntos Multi-toque</string>
   <string name="multi_touch_points_preference">Reiniciar para activar</string>
+  <string name="music_HiFi_title">Audio Hi-Fi</string>
   <string name="music_audio_effect_settings">Ajustes de audio</string>
   <string name="music_dirac_mode_earbuds">Mi</string>
   <string name="music_dirac_mode_general">General</string>
@@ -1460,6 +1474,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipo de MVNO</string>
   <string name="nearby_wifi">Redes disponibles</string>
+  <string name="need_reboot_now">Necesita reiniciar para completar la actualización, por favor, ¡reinicie ahora!</string>
   <string name="network_assistant">Uso de datos</string>
   <string name="network_detail">%s Detalles de red</string>
   <string name="network_error">Se ha producido un error de red</string>
@@ -1593,7 +1608,6 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="preferred_application_warning_replace">Reemplazar</string>
   <string name="preferred_application_warning_title">Replazar la app %s por defecto.</string>
   <string name="preferred_application_warning_use_system">Usar %s</string>
-  <string name="preferred_launcher_title">Launcher preferido</string>
   <string name="preferred_media_app_summary">Escoger reproductor de música</string>
   <string name="preferred_sms_settings">Esta aplicación será seleccionada como la aplicacion de lecturar y composición de mensajes de texto por defecto.</string>
   <string name="preferred_sms_title">Aplicación de mensajería por defecto</string>
@@ -1691,7 +1705,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="quick_launch_display_mode_shortcuts">Accesos directos</string>
   <string name="quick_launch_no_shortcut">Sin accesos directos</string>
   <string name="quick_launch_shortcut">Buscar + %1$s</string>
-  <string name="quick_launch_summary">Establecer atajos en teclado para lanzar aplicaciones</string>
+  <string name="quick_launch_summary">Establecer atajos en teclado para abrir aplicaciones</string>
   <string name="quick_launch_title">Ejecución rápida</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Connectado</string>
@@ -1896,7 +1910,6 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
   <string name="search_key">key</string>
   <string name="search_label">Ajustes</string>
   <string name="search_language">idioma</string>
-  <string name="search_launcher">launcher</string>
   <string name="search_led">led</string>
   <string name="search_network">red</string>
   <string name="search_power_mode">modo de energía</string>
@@ -2033,7 +2046,6 @@ Posiblemente PIN incorrecto."</string>
   <string name="sort_order_alpha">Ordenar por nombre</string>
   <string name="sort_order_size">Ordenar por tamaño</string>
   <string name="sound_category_call_ringtone_vibrate_title">Tono de llamada y vibrar</string>
-  <string name="sound_category_calls_and_notification_title">Llamadas y notificaciones</string>
   <string name="sound_category_notification_title">Notificaciones</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">Sistema</string>
@@ -2093,7 +2105,6 @@ Una credencial de confianza instalada hace esto posible."</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Barra</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Página</string>
   <string name="status_bar_style_settings">Notificaciones</string>
-  <string name="status_bar_toggle_arrangement">Organizar los conmutadores</string>
   <string name="status_bt_address">Dirección Bluetooth</string>
   <string name="status_data_state">Estado de red móvil</string>
   <string name="status_icc_id">ICCID</string>
@@ -2237,7 +2248,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="tts_engine_network_required">Este idioma necesita una conexión de red activa para su funcionamiento.</string>
   <string name="tts_engine_preference_section_title">Motor preferido</string>
   <string name="tts_engine_security_warning">Este motor de síntesis de voz puede recoger todo el texto que se hable, incluyendo datos personales, contraseñas y números de tarjetas de crédito. Lo usa el motor de %s . Habilitar este motor de síntesis de voz?</string>
-  <string name="tts_engine_settings_button">Lanzar ajustes de motor</string>
+  <string name="tts_engine_settings_button">Abrir ajustes de motor</string>
   <string name="tts_engine_settings_section">Ajustes de motor</string>
   <string name="tts_engine_settings_title">Ajustes para %s</string>
   <string name="tts_engines_section">Motores</string>
@@ -2428,7 +2439,6 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="vibrate_input_devices">Activar vibración</string>
   <string name="vibrate_input_devices_summary">Redireccionar vibración al game pad cuando esté conectado.</string>
   <string name="vibrate_when_ringing_title">Vibrar y sonar</string>
-  <string name="view_install_log">Ver log de error</string>
   <string name="virus_scan">Scanear virus</string>
   <string name="virus_scan_app_continue">Continuar con el escaneo</string>
   <string name="virus_scan_app_find_risk">%d riesgos encontrados</string>
@@ -2542,6 +2552,9 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="wfd_settings_title">Pantalla inalámbrica</string>
   <string name="wfd_wps_keypad">Pulsar botón preferido</string>
   <string name="wfd_wps_pbc">Prefiero teclear PIN</string>
+  <string name="whetstone_level_reboot">Este ajuste se aplicará cuando reinicie su dispositivo</string>
+     <string name="whetstone_level_reboot_OK">Reboot</string>
+     <string name="whetstone_level_title">System memory optimization</string>
   <string name="widget_picker_title">Escoger widget</string>
   <string name="wifi_access_points">Redes WiFi</string>
   <string name="wifi_add_network">Añadir red</string>
@@ -2647,8 +2660,8 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="wifi_p2p_cancel_connect_title">Cancelar invitación?</string>
   <string name="wifi_p2p_delete_group_message">Olvidar este grupo?</string>
   <string name="wifi_p2p_device_info">Información de dispositivo</string>
-  <string name="wifi_p2p_disconnect_message">Si desconecta, su conexión con %1$s acabará.</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Si desconecta, su conexión con %1$s y otros %2$s dispositivos acabará.</string>
+  <string name="wifi_p2p_disconnect_message">Si desconecta, su conexión con %1$s finalizará.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Si desconecta, su conexión con %1$s y otros %2$s dispositivos finalizará.</string>
   <string name="wifi_p2p_disconnect_title">Desconectar?</string>
   <string name="wifi_p2p_failed_connect_message">"No se pudo conectar."</string>
   <string name="wifi_p2p_failed_rename_message">Error al renombrar dispositivo.</string>
@@ -2764,7 +2777,7 @@ Toque "&lt;b&gt;Atras&lt;/b&gt; para conectar a una red WiFi diferente.</string>
   <string name="wifi_share_login_summary">Si esta es una red pública,puede compartirla con otros usuarios de MIUI .</string>
   <string name="wifi_share_notification_summary">MIUI le ha conectado a una red WiFi pública.</string>
   <string name="wifi_share_other_network">Otras redes</string>
-  <string name="wifi_share_qrcode_finish">Acabar</string>
+  <string name="wifi_share_qrcode_finish">Finalizar</string>
   <string name="wifi_share_qrcode_summary">Usar cámara para escanear código QR</string>
   <string name="wifi_share_qrcode_title">Compartir WiFi</string>
   <string name="wifi_share_show_network">Mostrar redes</string>

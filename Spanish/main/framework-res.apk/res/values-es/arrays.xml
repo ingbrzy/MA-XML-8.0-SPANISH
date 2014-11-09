@@ -1,48 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="emailAddressTypes">
-        <item>Casa</item>
-        <item>Trabajo</item>
-        <item>Otra</item>
-        <item>Personalizar</item>
-    </string-array>
-    <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo!</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-    </string-array>
-    <string-array name="organizationTypes">
-        <item>Trabajo</item>
-        <item>Otra</item>
-        <item>Personalizar</item>
-    </string-array>
-    <string-array name="phoneTypes">
-        <item>Casa</item>
-        <item>Móvil</item>
-        <item>Trabajo</item>
-        <item>Fax del trabajo</item>
-        <item>Fax de casa</item>
-        <item>Busca</item>
-        <item>Otro</item>
-        <item>Personalizar</item>
-    </string-array>
-    <string-array name="postalAddressTypes">
-        <item>Casa</item>
-        <item>Trabajo</item>
-        <item>Otra</item>
-        <item>Personalizar</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Casa</item>
-        <item>Trabajo</item>
-        <item>Otro</item>
-        <item>Personalizar</item>
-    </string-array>
     <string-array name="app_ops_labels">
         <item>Intentando acceder a la ubicación</item>
         <item>Intentando acceder a la ubicación</item>

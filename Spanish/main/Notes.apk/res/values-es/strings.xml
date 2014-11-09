@@ -71,6 +71,7 @@
   <string name="search_setting_description">Escriba sus notas</string>
   <string name="select_account_prompt">Sincronizar notas</string>
   <string name="sina_share_fail">No se pudo enviar</string>
+  <string name="sina_share_fail_content_repeat">No se pudo compartir. El contenido ya existe…"</string>
   <string name="sina_share_pendding">Enviando…</string>
   <string name="sina_share_success">Enviada</string>
   <string name="sina_token_expired_warning">La cuenta Weibo ha expirado: Por favor, reconecte</string>
@@ -78,6 +79,9 @@
   <string name="snippet_image_stub">[Imagen]</string>
   <string name="snippet_image_template">[Imagen %1$s]</string>
   <string name="sns_action_send">Enviar</string>
+  <string name="sns_choose_quality_high">Alta (%1$s)</string>
+  <string name="sns_choose_quality_low">Baja</string>
+  <string name="sns_choose_quality_title">Elija calidad de imagen</string>
   <string name="sns_content_default">Compartir imagen</string>
   <string name="sns_desc_preview_wechat">Vista previa de mensaje WeChat</string>
   <string name="sns_desc_preview_weibo">Vista previa de mensaje Weibo</string>

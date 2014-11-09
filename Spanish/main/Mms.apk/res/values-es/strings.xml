@@ -5,7 +5,6 @@
   <string name="activity_not_found_uri">No hay aplicación para ejecutar acción</string>
   <string name="addBlackList">Añadir a la lista de bloqueo</string>
   <string name="add_attachment">Añadir archivos adjuntos</string>
-  <string name="add_bookmark">Favorito</string>
   <string name="add_contact">Contacto</string>
   <string name="add_festival">Respuestas rápidas</string>
   <string name="add_music">Añadir música</string>
@@ -249,9 +248,6 @@
   <string name="mx_activate_int_hint_malformed_info">Tu operador puede cobrar por mensaje SMS Internacional utilizado para reactivar Mi mensaje.</string>
   <string name="mx_activate_int_hint_server">Tu operador puede cobrar por mensaje SMS Internacional utilizado para reactivar Mi mensaje.</string>
   <string name="mx_activate_int_hint_sim_change">"Parece que has cambiado las tarjetas SIM. Tu operador puede cobrar por el mensaje de reactivación de Mi Message."</string>
-  <string name="mx_activate_int_popup_msg">"Mi mensaje te permite enviar mensajes de ida y vuelta con otra persona usando MIUI. Se aplican cargo habitual por uso de datos si no estás conectado a WiFi."</string>
-  <string name="mx_activate_popup_msg">"Mi mensaje te permite enviar mensajes de ida y vuelta con otra persona usando MIUI. Se aplican cargo habitual por uso de datos si no estás conectado a WiFi."</string>
-  <string name="mx_activation_done">Mi mensaje habilitado</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
   <string name="mx_auto_resend_mms_summary">"Se envia como MMS mediante conexión de datos móviles cuando no estás conectado a WiFi (se aplican cargos normales por el uso de datos)."</string>
   <string name="mx_auto_resend_sms">Enviar como MMS</string>
@@ -262,9 +258,7 @@
   <string name="mx_current_status">Estado: en línea</string>
   <string name="mx_dspt">Mi Message permite enviar y recibir mensajes con cualquier usuario de MIUI</string>
   <string name="mx_enable">Mi Message</string>
-  <string name="mx_enable_int_popup_msg">"Mi Message permite enviar y recibir mensajes con cualquier usuario de MIUI. Se aplicará la tarifa de datos correspondiente si no estas conectado a WiFi."</string>
   <string name="mx_enable_popup_msg">Envia mensajes a otros usuarios de MIUI gratis.</string>
-  <string name="mx_int_warning_notice">Su operador puede cobrar por el mensaje SMS Internacional utilizado para reactivar Mi mensaje.</string>
   <string name="mx_msg">Mi mensaje</string>
   <string name="mx_offline">Fuera de línea</string>
   <string name="mx_on_sim_1">Mensaje Mi con la SIM de la ranura 1</string>
@@ -272,7 +266,6 @@
   <string name="mx_online">En Línea</string>
   <string name="mx_reactivate">Reactivar Mi message</string>
   <string name="mx_recommend_msg">Toque para habilitar Mi message.</string>
-  <string name="mx_warning_notice">Tu operador puede aplicar costes extra por mensaje usado para reactivar Mi message.</string>
   <string name="need_download">Sincronizando…</string>
   <string name="new_message">Nuevo mensaje</string>
   <string name="new_message_arrived">Tienes un mensaje nuevo</string>

@@ -15,6 +15,7 @@
   <string name="abc_searchview_description_voice">Búsqueda por voz</string>
   <string name="abc_shareactionprovider_share_with">Compartir con</string>
   <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+  <string name="account_cache_provider">Proveedor de Cuenta Caché</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya estás usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_folder_list_summary_drafts">Borradores</string>
@@ -205,6 +206,7 @@
   <string name="archived">Archivado</string>
   <string name="att_download_failed_content">Descarga fallida</string>
   <string name="att_download_failed_title">Descarga del archivo adjunto fallida</string>
+  <string name="att_file_not_exists">¡No se encontró el archvo %s!</string>
   <string name="att_mgr_no_attachment">Vacío</string>
   <string name="att_mgr_title_order_mime">Formato</string>
   <string name="att_mgr_title_order_name">Nombre</string>
@@ -217,8 +219,12 @@
   <string name="attachment_application_vnd_ms_excel">Hoja de cálculo</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentación</string>
   <string name="attachment_audio">Audio</string>
+  <string name="attachment_canceling">Cancelando. Por favor, espere</string>
+  <string name="attachment_decoding">El adjunto se ha descargado completamente y se está decodificando ahora. Por favor, espere.</string>
+  <string name="attachment_download_all">Descargar todo</string>
   <string name="attachment_image">Imagen</string>
   <string name="attachment_mgr_name">Archivos adjuntos</string>
+  <string name="attachment_not_exists">¡El adjunto no está disponible!</string>
   <string name="attachment_not_found">"No se pudo descargar el archivo adjunto"</string>
   <string name="attachment_text">Texto</string>
   <string name="attachment_type_blocked">"Por desgracia, no se puede guardar o abrir este tipo de archivo adjunto."</string>
@@ -263,10 +269,10 @@
   <string name="clear_display_images_whitelist_dialog_message">Parar de mostrar las imágenes en linea de los remitentes anteriormente permitidos.</string>
   <string name="clear_display_images_whitelist_dialog_title">¿Borrar las aprobaciones de imagen?</string>
   <string name="clear_display_images_whitelist_title">Borrar las aprobaciones de imagen</string>
+  <string name="click_download_all_content">[ Toque para descargar  ]</string>
   <string name="collapse_recipient_details">Colapsar detalles del destinatario</string>
   <string name="colon">:</string>
   <string name="compose">Componer</string>
-  <string name="compose_help_context">componer</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado con éxito</string>
   <string name="confirm">confirmar</string>
@@ -300,7 +306,6 @@
   <string name="contextmenu_send_mail">Enviar correo electrónico</string>
   <string name="contextmenu_sharelink">Compartir enlace</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Proveedor de contenidos de conversación</string>
   <string name="conversation_folder_moved">Se trasladó a %1$s</string>
   <string name="conversation_item_mark_read">Leer</string>
   <string name="conversation_item_mark_unread">No leído</string>
@@ -351,12 +356,13 @@
   <string name="downlaod_cancel_confirm_download">Cancelar la descarga</string>
   <string name="downlaod_cancel_continue_download">Cancelar</string>
   <string name="downlaod_confirm_download">Descargar</string>
-  <string name="downlaod_nonWifi_confirm_message">Usar la conexión de datos de móvil para descargar este adjunto?</string>
+  <string name="downlaod_nonWifi_confirm_message">¿Usar la conexión de datos para descargar este adjunto?</string>
   <string name="download_again">Descargar de nuevo</string>
-  <string name="download_before_sharing">" aún no ha terminado la descarga"</string>
+  <string name="download_before_sharing">Aún no ha terminado la descarga</string>
+     <string name="download_before_view">Este mensaje no ha sido descargado.</string>
   <string name="download_cancel_confirm_title">La descarga se cancelará.</string>
   <string name="download_complete_not_cancel">Descarga completada</string>
-  <string name="download_confirm_message">Descargar %1$s adjuntos?</string>
+  <string name="download_confirm_message">¿Descargar %1$s adjuntos?</string>
   <string name="download_confirm_title">Descargar adjuntos</string>
   <string name="download_failed">"No se puede descargar. Toque para volver a intentar."</string>
   <string name="downloading_message_body">Descargando correo, espere por favor…</string>
@@ -364,6 +370,8 @@
   <string name="drawer_close">Cerrar el cajón de navegación</string>
   <string name="drawer_open">Abrir cajón de navegación</string>
   <string name="edit_quick_response_dialog">Respuesta rápida</string>
+  <string name="elided_padding_token"> </string>
+  <string name="email_feedback_uri"/>
   <string name="empty_account_tip">"No se puede encontrar la cuenta"</string>
   <string name="empty_email_tip">"No se puede enviar un mensaje vacío"</string>
   <string name="empty_spam">Vaciar spam</string>
@@ -384,10 +392,15 @@
   <string name="feedback_sent">"Gracias por sus comentarios. Vamos a seguir mejorando para usted"</string>
   <string name="fetching_attachment">Añadiendo adjunto</string>
   <string name="file_deleted_success">Archivo eliminado</string>
-  <string name="file_not_found">"No se puede encontrar el archivo"</string>
-  <string name="file_not_found_reDownload">"No se puede encontrar el archivo"</string>
+  <string name="file_not_found">No se encontró el archivo</string>
+  <string name="file_not_found_redownload">No se encontró el archivo</string>
   <string name="file_rar_not_support">"No se pueden abrir archivos rar encriptados"</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="flow_saved_dlg_do_not_show">No mostrar de nuevo</string>
+  <string name="flow_saved_dlg_i_know">De acuerdo</string>
+  <string name="flow_saved_dlg_message">%1$d nuevos mensajes. Ahorrados %2$s (datos).</string>
+  <string name="flow_saved_dlg_title">Uso de datos reducido</string>
+  <string name="flow_saved_preference_total">Ahorrado %1$s.</string>
   <string name="folder_drafts_name_cn0">Borrador</string>
   <string name="folder_drafts_name_cn1">Borradores</string>
   <string name="folder_drafts_name_en0">Borradores</string>
@@ -409,12 +422,15 @@
   <string name="folder_trash_name_en0">Basura</string>
   <string name="folder_trash_name_en1">Mensajes eliminados</string>
   <string name="folder_trash_name_en2">Mensaje borrado</string>
+  <string name="formatted_email_address">&lt;%1$s&gt;</string>
+  <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Adelante</string>
   <string name="forward_attachment">Adelante</string>
   <string name="forward_attribution">---------- Mensaje reenviado ----------De: %1$s Fecha: %2$s Asunto: %3$s Para: %4$s</string>
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">"No se pudo reenviar uno o mas archivos adjuntos."</string>
   <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
+  <string name="forward_subject_label">Rnv:</string>
   <string name="from">De</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de borrar</string>
@@ -433,6 +449,7 @@
   <string name="header_category_other">Otros</string>
   <string name="header_label_general_preferences">Configuración general</string>
   <string name="help_and_info">Ayuda</string>
+  <string name="hide_atts_remaining">Ocultar %1$d adjuntos</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hide_folders">Ocultar carpetas</string>
   <string name="hint_quick_reply_all">Responder a todos</string>
@@ -458,6 +475,11 @@
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">Correo</string>
   <string name="mail_body_turncated">Este correo electrónico es demasiado grande para cargar y solo se muestra parte de el, para visualizarlo completo use un PC</string>
+  <string name="mail_header_downloading_message_body">Descargando…</string>
+  <string name="mail_header_message_body_auto_download_complete">Contenido de correo descargado usando WiFi.</string>
+  <string name="mail_header_message_body_auto_download_tip">El contenido del correo se descargará usando WiFi.</string>
+  <string name="mail_header_message_body_download_failed">Tiempo de espera rebasado.</string>
+  <string name="mail_header_network_not_available">No tiene conexión de red.</string>
   <string name="mailbox_list_account_selector_combined_view">Bandeja de entrada combinada</string>
   <string name="mailbox_name_display_drafts">Borradores</string>
   <string name="mailbox_name_display_inbox">Bandeja de entrada</string>
@@ -465,8 +487,16 @@
   <string name="mailbox_name_display_outbox">Buzón de salida</string>
   <string name="mailbox_name_display_sent">Enviado</string>
   <string name="mailbox_name_display_starred">Destacados</string>
-  <string name="mailbox_name_display_trash">Basura</string>
+  <string name="mailbox_name_display_trash">Papelera</string>
   <string name="mailbox_name_display_unread">No leído</string>
+  <string name="mailbox_name_server_all_unread">No leídos</string>
+  <string name="mailbox_name_server_drafts">Borradores</string>
+  <string name="mailbox_name_server_inbox">Buzón de entrada</string>
+  <string name="mailbox_name_server_junk">Correo basura</string>
+  <string name="mailbox_name_server_outbox">Buzón de salida</string>
+  <string name="mailbox_name_server_sent">Enviados</string>
+  <string name="mailbox_name_server_starred">Destacados</string>
+  <string name="mailbox_name_server_trash">Papelera</string>
   <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opciones de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Días de correo para sincronizar</string>
@@ -512,9 +542,11 @@
   <string name="menu_search">Buscar</string>
   <string name="menu_settings">Ajustes</string>
   <string name="menu_show_original">Revertir tamaño automático</string>
+  <string name="merged_mailbox_compose_select_account">Seleccione una Cuenta</string>
   <string name="message_body_auto_download_complete">Descargar automáticamente el correo al usar WiFi</string>
   <string name="message_body_auto_download_tip">"Actualmente estás usando WiFi. Se descargará automáticamente correo electrónico"</string>
   <string name="message_body_download_failed">Tiempo de espera cuando se descarga el correo electrónico</string>
+  <string name="message_body_loading">[ Cargando… ]</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Mensaje original --------
@@ -533,12 +565,12 @@ CC: %4$s
   <string name="message_invite_accept">asistir</string>
   <string name="message_invite_calendar_view">Vista de calendario</string>
   <string name="message_invite_decline">nonparticipator</string>
-  <string name="message_invite_label_attending">¿Participa?</string>
   <string name="message_invite_tentative">Quizás</string>
   <string name="message_invite_title">Invitar al calendario</string>
   <string name="message_saved">Mensaje guardado como borrador.</string>
   <string name="message_type_name">Mensaje</string>
   <string name="message_view_attachment_background_load">Serán descargados antes de enviar uno o más archivos adjuntos en el mensaje reenviado.</string>
+  <string name="more_atts_remaining">%1$d más faltan</string>
   <string name="more_atts_total">%1$d archivos adjuntos</string>
   <string name="more_info_attachment">Información</string>
   <string name="more_string">+ %1$s</string>
@@ -583,7 +615,11 @@ CC: %4$s
   <string name="outbox_alert_description_http_error">Causa: Error de autenticación del servidor durante la sincronización de la bandeja de salida</string>
   <string name="outbox_alert_description_provision_error">Causa: Error de provisión del servidor durante la sincronización de la bandeja de salida</string>
   <string name="outbox_alert_description_sent_failed">"Tamaño del archivo adjunto supera límite del destinatario."</string>
+  <string name="outbox_alert_duplicate_click">Aún sincronizando…</string>
+  <string name="outbox_alert_edit_resend">Editar y enviar de nuevo</string>
+  <string name="outbox_alert_failed_edit_resend">No se pudo enviar. Edite e inténtelo de nuevo."</string>
   <string name="outbox_alert_mailbox_not_found">Dirección de correo electrónico no encontrado</string>
+  <string name="outbox_alert_select_operation">Elija una acción</string>
   <string name="outbox_alert_title_sent_failed">"No puede enviar correo"</string>
   <string name="outbox_no_mails">No hay mensajes en el buzón de salida</string>
   <string name="parase_setup_data">Obteniendo datos…</string>
@@ -639,8 +675,11 @@ CC: %4$s
   <string name="policy_screen_timeout">Bloquear la pantalla del dispositivo cuando esté inactivo</string>
   <string name="policy_text_truncation">Restringir el tamaño del texto correo electrónico</string>
   <string name="pop3_name">POP3</string>
+  <string name="prefDefault_autoAdvance">lista</string>
   <string name="prefDialogTitle_conversationListIcon">Imagen del remitente</string>
   <string name="prefDialogTitle_removal_action">Acciones de archivado y borrado</string>
+  <string name="preference_head_load_description">Descargar sólo títulos de mensajes al usar conexión de datos.</string>
+  <string name="preference_head_load_title">Reducir uso de datos</string>
   <string name="preference_removal_action_title">Acciones de archivado y borrado</string>
   <string name="preference_sender_image_description">Mostrar junto al nombre en la lista de conversación</string>
   <string name="preference_sender_image_title">Imagen del remitente</string>
@@ -676,6 +715,7 @@ CC: %4$s
   <string name="recent_folders_heading">Carpetas recientes</string>
   <string name="recipient_error_dialog_title">Error de destinatario</string>
   <string name="recipient_needed">Agregar a al menos un destinatario.</string>
+  <string name="recipient_null_dialog_title">Alerta</string>
   <string name="refresh">Actualizar</string>
   <string name="refreshing">Sincronización de…</string>
   <string name="refreshing_done">Sincronización completa</string>
@@ -690,9 +730,14 @@ CC: %4$s
   <string name="reply">Responder</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">En %s, %s escribió:</string>
+  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Responder a: "</string>
   <string name="report">Informe</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Se ve bien</string>
+  <string name="report_rendering_improvement_desc">Este mensaje se ve bien.</string>
+  <string name="report_rendering_problem">Se ve mal</string>
+  <string name="report_rendering_problem_desc">Este mensaje se ve mal.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
   <string name="require_manual_sync_message">La sincronización offline para esta cuenta está deshabilitada en itinerancia.</string>
@@ -791,6 +836,7 @@ CC: %4$s
   <string name="turn_auto_sync_on_dialog_confirm_btn">Encender</string>
   <string name="turn_auto_sync_on_dialog_title">¿Activar la sincronización automática?</string>
   <string name="undo">Deshacer</string>
+  <string name="unread_from_someone">No leer correo de %s</string>
   <string name="unread_string">conversación no leída</string>
   <string name="unsent_messages_in_outbox">%1$s no enviados en %2$s</string>
   <string name="updated_at">Última actualización %1$s</string>
@@ -812,19 +858,10 @@ CC: %4$s
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Toque la notificación para completar la instalación.</string>
   <string name="wait_for_sync_title">A la espera de sincronización</string>
-  <string name="wait_help_context">Espera</string>
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Otros</string>
   <string name="wrong_password">La contraseña es incorrecta</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Almacenamiento no disponible, por favor revise la tarjeta SD.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Nueva versión %1$s tamaño: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Nueva versión %1$s 
-Incremento de tamaño: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s ¡actualización!</string>
-  <string name="yes">Si</string>
+  <string name="yes">Sí</string>
   <string name="zip_viewer_no_file">Vacío</string>
 </resources>
