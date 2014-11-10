@@ -15,7 +15,6 @@
   <string name="abc_searchview_description_voice">Búsqueda por voz</string>
   <string name="abc_shareactionprovider_share_with">Compartir con</string>
   <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-  <string name="account_cache_provider">Proveedor de Cuenta Caché</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya estás usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_folder_list_summary_drafts">Borradores</string>
@@ -430,7 +429,6 @@
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">"No se pudo reenviar uno o mas archivos adjuntos."</string>
   <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
-  <string name="forward_subject_label">Rnv:</string>
   <string name="from">De</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de borrar</string>
@@ -489,14 +487,6 @@
   <string name="mailbox_name_display_starred">Destacados</string>
   <string name="mailbox_name_display_trash">Papelera</string>
   <string name="mailbox_name_display_unread">No leído</string>
-  <string name="mailbox_name_server_all_unread">No leídos</string>
-  <string name="mailbox_name_server_drafts">Borradores</string>
-  <string name="mailbox_name_server_inbox">Buzón de entrada</string>
-  <string name="mailbox_name_server_junk">Correo basura</string>
-  <string name="mailbox_name_server_outbox">Buzón de salida</string>
-  <string name="mailbox_name_server_sent">Enviados</string>
-  <string name="mailbox_name_server_starred">Destacados</string>
-  <string name="mailbox_name_server_trash">Papelera</string>
   <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opciones de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Días de correo para sincronizar</string>
@@ -675,7 +665,6 @@ CC: %4$s
   <string name="policy_screen_timeout">Bloquear la pantalla del dispositivo cuando esté inactivo</string>
   <string name="policy_text_truncation">Restringir el tamaño del texto correo electrónico</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">lista</string>
   <string name="prefDialogTitle_conversationListIcon">Imagen del remitente</string>
   <string name="prefDialogTitle_removal_action">Acciones de archivado y borrado</string>
   <string name="preference_head_load_description">Descargar sólo títulos de mensajes al usar conexión de datos.</string>
@@ -730,14 +719,9 @@ CC: %4$s
   <string name="reply">Responder</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">En %s, %s escribió:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Responder a: "</string>
   <string name="report">Informe</string>
   <string name="report_phishing">Denunciar phishing</string>
-  <string name="report_rendering_improvement">Se ve bien</string>
-  <string name="report_rendering_improvement_desc">Este mensaje se ve bien.</string>
-  <string name="report_rendering_problem">Se ve mal</string>
-  <string name="report_rendering_problem_desc">Este mensaje se ve mal.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
   <string name="require_manual_sync_message">La sincronización offline para esta cuenta está deshabilitada en itinerancia.</string>
