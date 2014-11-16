@@ -19,6 +19,10 @@
     <item>Después de 10 minutos</item>
     <item>Nunca</item>
   </string-array>
+     <string-array name="power_dialog_cpu_state_items">
+        <item>Alto rendimiento</item>
+        <item>equilibrado</item>
+     </string-array>
   <string-array name="power_dialog_sleep_items">
     <item>15 segundos</item>
     <item>30 segundos</item>
@@ -27,10 +31,6 @@
     <item>5 minutos</item>
     <item>10 minutos</item>
     <item>Nunca</item>
-  </string-array>
-  <string-array name="power_dialog_cpu_state_items">
-    <item>Alto rendimiento</item>
-    <item>equilibrado</item>
   </string-array>
   <string-array name="power_dialog_vibration_items">
     <item>Nunca vibrar</item>

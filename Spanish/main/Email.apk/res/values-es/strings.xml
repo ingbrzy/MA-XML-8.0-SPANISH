@@ -32,6 +32,8 @@
   <string name="account_settings_action">Configuración de la cuenta</string>
   <string name="account_settings_background_attachments_label">Descargar datos adjuntos</string>
   <string name="account_settings_background_attachments_summary">Auto-descargar datos adjuntos de los mensajes recientes si se encuentra conectado a una red WiFi</string>
+     <string name="account_settings_chat_mode_enable">Modo de Conversación</string>
+     <string name="account_settings_chat_mode_summary">Toque para mezclar el grupo de correo y poner el modo de conversación</string>
   <string name="account_settings_data_usage">Uso de datos</string>
   <string name="account_settings_description_label">Nombre de la cuenta</string>
   <string name="account_settings_edit_quick_responses_label">Respuestas rápidas</string>
@@ -218,6 +220,7 @@
   <string name="attachment_application_vnd_ms_excel">Hoja de cálculo</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentación</string>
   <string name="attachment_audio">Audio</string>
+  <string name="attachment_bar_title">Adjuntos</string>
   <string name="attachment_canceling">Cancelando. Por favor, espere</string>
   <string name="attachment_decoding">El adjunto se ha descargado completamente y se está decodificando ahora. Por favor, espere.</string>
   <string name="attachment_download_all">Descargar todo</string>
@@ -240,7 +243,9 @@
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">Necesitas escribir un comentario</string>
+  <string name="body_forward_email_text">[Reenviar]</string>
   <string name="body_hint">Escribir un correo electronico</string>
+  <string name="body_inline_pic_text">[Imagen]</string>
   <string name="bottom_bar_more_delete">Eliminar</string>
   <string name="bottom_bar_more_quickreply">Respuesta rápida</string>
   <string name="bottom_bar_more_unread">Marcar como no leído</string>
@@ -260,7 +265,14 @@
   <string name="change_account_type">Cambiar el tipo de cuenta</string>
   <string name="change_folders_selection_dialog_title">Cambiar carpetas</string>
   <string name="change_sync_settings">Cambiar la configuración de sincronización</string>
+  <string name="chat_item_msg_people_unit">personas</string>
+  <string name="chat_item_msg_user_etc">…</string>
+  <string name="chat_item_msg_user_saying">dice:</string>
   <string name="chat_type_name">Chat</string>
+  <string name="chat_view_description">Mezclar la lista para mostrar la conversación</string>
+  <string name="chat_view_quote_text">-------Acotación------</string>
+  <string name="chat_view_retract_quote_text">---Ocultar Acotación--</string>
+  <string name="chat_view_title">Mostrar conversación</string>
   <string name="check_setup_data">Validando la configuración del servidor…</string>
   <string name="checking_for_mail">Comprobado el correo</string>
   <string name="choosertitle_sharevia">Compartir a través de</string>
@@ -272,6 +284,7 @@
   <string name="collapse_recipient_details">Colapsar detalles del destinatario</string>
   <string name="colon">:</string>
   <string name="compose">Componer</string>
+  <string name="compose_help_context">componer</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado con éxito</string>
   <string name="confirm">confirmar</string>
@@ -305,6 +318,7 @@
   <string name="contextmenu_send_mail">Enviar correo electrónico</string>
   <string name="contextmenu_sharelink">Compartir enlace</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+     <string name="conversation_content_provider">Proveedor de Contenido de Conversación</string>
   <string name="conversation_folder_moved">Se trasladó a %1$s</string>
   <string name="conversation_item_mark_read">Leer</string>
   <string name="conversation_item_mark_unread">No leído</string>
@@ -364,6 +378,7 @@
   <string name="download_confirm_message">¿Descargar %1$s adjuntos?</string>
   <string name="download_confirm_title">Descargar adjuntos</string>
   <string name="download_failed">"No se puede descargar. Toque para volver a intentar."</string>
+     <string name="download_show_image">Descargar y mostrar imagen</string>
   <string name="downloading_message_body">Descargando correo, espere por favor…</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Cerrar el cajón de navegación</string>
@@ -404,9 +419,11 @@
   <string name="folder_drafts_name_cn1">Borradores</string>
   <string name="folder_drafts_name_en0">Borradores</string>
   <string name="folder_drafts_name_en1">Borrador</string>
+  <string name="folder_drafts_name_en2">[Gmail]/Borradores</string>
   <string name="folder_icon_desc">Icono de carpeta</string>
-  <string name="folder_junk_name_cn0">Correo no deseado</string>
+  <string name="folder_junk_name_cn0">No deseado</string>
   <string name="folder_junk_name_cn1">Papelera</string>
+  <string name="folder_junk_name_en0">No deseado</string>
   <string name="folder_picker_title">Selector de carpeta</string>
   <string name="folder_removed">Borrado de %1$s</string>
   <string name="folder_sent_name_cn0">Enviado</string>
@@ -415,12 +432,15 @@
   <string name="folder_sent_name_en0">Enviado</string>
   <string name="folder_sent_name_en1">Mensajes enviados</string>
   <string name="folder_sent_name_en2">Mensaje enviado</string>
+  <string name="folder_sent_name_en3">Enviados</string>
+  <string name="folder_sent_name_en4">[Gmail]/Enviados</string>
   <string name="folder_shortcut_widget_label">Carpeta de correo electrónico</string>
   <string name="folder_trash_name_cn0">Borrado</string>
   <string name="folder_trash_name_cn1">Elementos eliminados</string>
   <string name="folder_trash_name_en0">Basura</string>
   <string name="folder_trash_name_en1">Mensajes eliminados</string>
   <string name="folder_trash_name_en2">Mensaje borrado</string>
+  <string name="folder_trash_name_en3">[Gmail]/Papelera</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Adelante</string>
@@ -429,6 +449,7 @@
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">"No se pudo reenviar uno o mas archivos adjuntos."</string>
   <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
+  <string name="forward_subject_label">Rnv:</string>
   <string name="from">De</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de borrar</string>
@@ -480,13 +501,21 @@
   <string name="mail_header_network_not_available">No tiene conexión de red.</string>
   <string name="mailbox_list_account_selector_combined_view">Bandeja de entrada combinada</string>
   <string name="mailbox_name_display_drafts">Borradores</string>
-  <string name="mailbox_name_display_inbox">Bandeja de entrada</string>
-  <string name="mailbox_name_display_junk">Correo basura</string>
-  <string name="mailbox_name_display_outbox">Buzón de salida</string>
-  <string name="mailbox_name_display_sent">Enviado</string>
+  <string name="mailbox_name_display_inbox">Entrada</string>
+  <string name="mailbox_name_display_junk">No deseado</string>
+  <string name="mailbox_name_display_outbox">Salida</string>
+  <string name="mailbox_name_display_sent">Enviados</string>
   <string name="mailbox_name_display_starred">Destacados</string>
   <string name="mailbox_name_display_trash">Papelera</string>
-  <string name="mailbox_name_display_unread">No leído</string>
+  <string name="mailbox_name_display_unread">No leídos</string>
+  <string name="mailbox_name_server_all_unread">No leídos</string>
+  <string name="mailbox_name_server_drafts">Borradores</string>
+  <string name="mailbox_name_server_inbox">Entrada</string>
+  <string name="mailbox_name_server_junk">No deseado</string>
+  <string name="mailbox_name_server_outbox">Salida</string>
+  <string name="mailbox_name_server_sent">Enviados</string>
+  <string name="mailbox_name_server_starred">Destacados</string>
+  <string name="mailbox_name_server_trash">Papelera</string>
   <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opciones de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Días de correo para sincronizar</string>
@@ -562,6 +591,7 @@ CC: %4$s
   <string name="message_view_attachment_background_load">Serán descargados antes de enviar uno o más archivos adjuntos en el mensaje reenviado.</string>
   <string name="more_atts_remaining">%1$d más faltan</string>
   <string name="more_atts_total">%1$d archivos adjuntos</string>
+  <string name="more_context">Más</string>
   <string name="more_info_attachment">Información</string>
   <string name="more_string">+ %1$s</string>
   <string name="more_than_999">999 +</string>
@@ -578,6 +608,7 @@ CC: %4$s
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Ninguna aplicación puede abrir este accesorio para su visualización.</string>
   <string name="no_contacts">Vacío</string>
+  <string name="no_content_in_body">[Sin asunto]</string>
   <string name="no_conversations">No hay mensajes</string>
   <string name="no_mails">Vacío</string>
   <string name="no_matched_attachment">Nada coincide con su búsqueda</string>
@@ -697,6 +728,9 @@ CC: %4$s
   <string name="quick_3">"Que yo iré leyendo esto más adelante y volver a ti."</string>
   <string name="quick_4">"Fijemos una reunión para hablar de esto."</string>
   <string name="quick_reply_dialog_title">Por favor, elija</string>
+  <string name="quick_reply_hint">Replicar a las %1$d personas</string>
+  <string name="quick_reply_hint_bcc">(En BCC)</string>
+  <string name="quick_reply_hint_cc">(En CC)</string>
   <string name="quick_responses_empty_view">No hay respuestas rápidas</string>
   <string name="quoted_text">Incluir texto citado</string>
   <string name="quoted_text_label">Citar texto</string>
@@ -790,6 +824,7 @@ CC: %4$s
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Asunto</string>
   <string name="swipe_down_to_refresh">Deslice hacia abajo para actualizar</string>
+  <string name="switch_as_tranditional_view">Vista convencional</string>
   <string name="sync_error">"No se pudo sincronizar."</string>
   <string name="sync_error_message">"El dispositivo no tiene suficiente espacio de almacenamiento para sincronizar."</string>
   <string name="system_account_create_failed">"No se pudo crear la cuenta. Vuelve a intentarlo."</string>
@@ -805,6 +840,7 @@ CC: %4$s
   <string name="tap_to_configure_folder_sync">Sincronizar carpeta</string>
   <string name="tap_to_enable_sync">Toque para encender.</string>
   <string name="time_error">Error de TIMESTAMP</string>
+  <string name="tip_cannot_switchview_in_unread_folder">No se puede cambiar de vista en el modo de agregación de correos no leídos</string>
   <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
   <string name="too_large_to_attach_additional">Archivo no adjuntado. %1$s de límite alcanzado.</string>
@@ -817,7 +853,7 @@ CC: %4$s
   <string name="trigger_y_char">y</string>
   <string name="tryrefreshing">Intente Refrescar</string>
   <string name="turn_auto_sync_on_dialog_body">Los cambios que hagas a todas las aplicaciones y las cuentas, no sólo de Gmail, se sincronizarán entre tu %1$s, sus otros dispositivos y la web.</string>
-  <string name="turn_auto_sync_on_dialog_confirm_btn">Encender</string>
+  <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">¿Activar la sincronización automática?</string>
   <string name="undo">Deshacer</string>
   <string name="unread_from_someone">No leer correo de %s</string>
@@ -842,6 +878,7 @@ CC: %4$s
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Toque la notificación para completar la instalación.</string>
   <string name="wait_for_sync_title">A la espera de sincronización</string>
+  <string name="wait_help_context">espere</string>
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Otros</string>

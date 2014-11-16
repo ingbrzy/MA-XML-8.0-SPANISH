@@ -38,6 +38,7 @@
   <string name="buffering">Almacenando buffer</string>
   <string name="buffering_video_netplay_label_v5">Almacenamiento en búfer…</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_button">Cancelar</string>
   <string name="cancel_favorite_success">Sin iniciar</string>
   <string name="channel_choice_empty_hint">Vacio</string>
   <string name="channel_empty_hint">Vacío</string>
@@ -132,6 +133,8 @@
   <string name="gong_count_xiang">%d items</string>
   <string name="good">Aceptar</string>
   <string name="guess_you_like">Recomendaciones</string>
+     <string name="hint_can_not_get_source_info">No se pudo obtener info del vídeo</string>
+     <string name="hint_without_selected_set">Find content source automatically</string>
   <string name="hot_recommend">Tendencias</string>
   <string name="icntv">iCNTV</string>
   <string name="imports">Importar</string>
@@ -222,6 +225,7 @@
   <string name="see_all_count_comment">%d comentarios más</string>
   <string name="select_all">Seleccionar todo</string>
   <string name="select_count_xiang">%d seleccionado</string>
+  <string name="select_media_source">Seleccione fuente</string>
   <string name="select_none">Deseleccionar todo</string>
   <string name="select_offline_media">Ver descargas</string>
   <string name="select_tv">Seleccione el canal</string>
@@ -258,7 +262,12 @@
   <string name="unfavorite">Desmarcar</string>
   <string name="unknown_source">Fuente desconocida</string>
   <string name="update">Actualizado</string>
+  <string name="update_apk_statusbar">Descargando…</string>
+  <string name="update_button">Actualizar</string>
+  <string name="update_size_prefix">&lt;CDATA&gt;Tamaño:&lt;/CDATA&gt;</string>
+  <string name="update_title">Actualización disponible</string>
   <string name="update_to_count_ji">Actualizado a EP. %d</string>
+     <string name="update_version_prefix">&lt;CDATA&gt;Actualizar a versión:&lt;/CDATA&gt;</string>
   <string name="updatedalready">Actualizado</string>
   <string name="upgrade">Actualización</string>
   <string name="use_cellular_network">Usa la red de datos movil</string>

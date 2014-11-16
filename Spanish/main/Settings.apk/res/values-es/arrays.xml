@@ -403,6 +403,11 @@ Nota: Solo para Ubuntu 8.04!"</item>
     <item>Utilizar ART</item>
     <item>Utilizar ART debug build</item>
   </string-array>
+  <string-array name="select_runtime_titles">
+     <item>Dalvik</item>
+     <item>ART</item>
+     <item>ART (depurar)</item>
+  </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Apagado</item>
     <item>Dibujar regiones no rectangulares de los clip en azul</item>
@@ -443,6 +448,14 @@ Nota: Solo para Ubuntu 8.04!"</item>
     <item>Escala de animación 5x</item>
     <item>Escala de animación 10x</item>
   </string-array>
+  <string-array name="tts_demo_string_langs">
+     <item>ing</item>
+     <item>fra</item>
+     <item>ale</item>
+     <item>ita</item>
+     <item>esp</item>
+     <item>cor</item>
+  </string-array>
   <string-array name="tts_pitch_entries">
     <item>Muy bajo</item>
     <item>Bajo</item>
@@ -460,6 +473,13 @@ Nota: Solo para Ubuntu 8.04!"</item>
     <item>Rápida</item>
     <item>Muy rápida</item>
     <item>El más rápido</item>
+  </string-array>
+  <string-array name="tts_rate_xunfei_entries">
+     <item>Muy lento</item>
+     <item>Lento</item>
+     <item>Normal</item>
+     <item>Rápido</item>
+     <item>Muy rápido</item>
   </string-array>
   <string-array name="usage_stats_display_order_types">
     <item>Tiempo de uso</item>
@@ -501,6 +521,12 @@ Nota: Solo para Ubuntu 8.04!"</item>
     <item>"No se puede iniciar sesión"</item>
     <item>Tiempo agotado. Reintentando…</item>
     <item>Dispositivo conectado</item>
+  </string-array>
+  <string-array name="whetstone_level_entries">
+     <item>Apagado</item>
+     <item>Bajo</item>
+     <item>Medio</item>
+     <item>Alto</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Conectar automáticamente</item>

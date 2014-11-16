@@ -28,27 +28,27 @@
   <string name="action_text_today">Hoy</string>
   <string name="add_account">Agregar cuenta</string>
   <string name="add_calendar">Suscribirse</string>
-  <string name="add_topic_success">Suscribirse a %s con exito</string>
+  <string name="add_topic_success">Suscrito a %s con exito</string>
   <string name="adding_calendar">Suscripciones</string>
-  <string name="agenda_today">Hoy, %1$s</string>
+  <string name="agenda_today">HOY, %1$s</string>
   <string name="agenda_tomorrow">MAÑANA, %1$s</string>
   <string name="agenda_view">Agenda</string>
   <string name="agenda_yesterday">AYER, %1$s</string>
   <string name="alarm_label">Descartar</string>
   <string name="alert_title">Notificación de calendario</string>
   <string name="anniversary_metric" />
-  <string name="anniversary_term">Cumpleaños</string>
+  <string name="anniversary_term">santo</string>
   <string name="app_label">Calendario</string>
   <string name="attendees_label">Invitados</string>
   <string name="birthday_calendar_display_name">Recordatorio de cumpleaños</string>
-  <string name="birthday_event_description">"¡Hoy %1$s cumple %4$s años!"</string>
+  <string name="birthday_event_description">"¡Hoy es el %4$s de %1$s!"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 días hasta el %3$s (%4$s)</string>
-  <string name="birthday_notification_text_today">No te olvides de felicitarle</string>
-  <string name="birthday_notification_title_three_days_later">El %2$s cumpleaños de %1$s se acerca</string>
-  <string name="birthday_notification_title_today">"%1$s cumple %3$s"</string>
+  <string name="birthday_notification_text_today">No olvides felicitarle</string>
+  <string name="birthday_notification_title_three_days_later">El %2$s de %1$s se acerca</string>
+  <string name="birthday_notification_title_today">"%3$s de %1$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
@@ -63,14 +63,15 @@
   <string name="copy_db">Enviar base de datos</string>
   <string name="copy_email">Copiar la dirección de correo electrónico</string>
   <string name="copy_number">Copiar el numero telefonico</string>
-  <string name="create_an_account_desc">"El calendario funciona mejor con una cuenta de Xiaomi
+  <string name="create_an_account_desc">"El calendario funciona mejor con una cuenta de Xiaomi.
+    
 • Acceso desde cualquier navegador
-•Copia de seguridad de tus eventos"</string>
+• Copia de seguridad de tus eventos"</string>
   <string name="creating_event">Evento creado</string>
-  <string name="creating_event_with_guest">Las invitaciones se enviarán</string>
+  <string name="creating_event_with_guest">Se van a enviar las invitaciones</string>
   <string name="cta_notice_checkbox">"No mostrar de nuevo"</string>
-  <string name="cta_notice_message">La función de recordatorios de cumpleaños necesita acceder a tus contactos para que funcione normalmente.</string>
-  <string name="cta_notice_ok">Estoy de acuerdo</string>
+  <string name="cta_notice_message">La función de recordatorios de cumpleaños necesita acceder a sus contactos para que funcione normalmente.</string>
+  <string name="cta_notice_ok">De acuerdo</string>
   <string name="cta_notice_title">Acceso a contactos</string>
   <string name="cta_notify_settings">Preguntar cuando se accede a contactos</string>
   <string name="custom">"Personalizado (no se puede personalizar en el teléfono)"</string>

@@ -552,9 +552,6 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="clear_failed_dlg_text">"No se pudieron eliminar los datos para la aplicación."</string>
   <string name="clear_failed_dlg_title">Eliminar datos</string>
   <string name="clear_user_data_text">Eliminar datos</string>
-  <string name="cmcc_dm_settings_disable_summary">Desactivar auto-arranque</string>
-  <string name="cmcc_dm_settings_enable_summary">Activar auto-arranque</string>
-  <string name="cmcc_dm_settings_title">Gestión de Permisos</string>
   <string name="color_black">Negro</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Nativo</string>
@@ -1126,7 +1123,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s y %2$s</string>
   <string name="keep_screen_on">Permanecer encendida</string>
-  <string name="keep_screen_on_summary">La pantalla nunca se apagará mientras esté cargando</string>
+  <string name="keep_screen_on_summary">La pantalla no se apagará mientras esté cargando</string>
   <string name="kernel_version">Versión del Kernel</string>
   <string name="key_settings">Botones</string>
   <string name="key_settings_title">Botones</string>
@@ -1450,7 +1447,6 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="music_dirac_mode_in_ear">Mi in-ear</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
-  <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="music_equalizer">Ecualizador</string>
   <string name="music_headphone_settings">Configuración del tipo de auricular</string>
   <string name="music_headset_button_settings">Asignar botones de control remoto</string>
@@ -2086,6 +2082,7 @@ Una credencial de confianza instalada hace esto posible."</string>
   <string name="status_bar_settings_custom_notification">Administrar notificaciones</string>
   <string name="status_bar_settings_custom_wifi_name">Editar nombre de WiFi</string>
   <string name="status_bar_settings_expandable_under_keyguard">Disponible en bloqueo de pantalla</string>
+  <string name="status_bar_settings_long_click_sort">Pulse y mantenga para ordenar</string>
   <string name="status_bar_settings_no_carrier">Vacío</string>
   <string name="status_bar_settings_notification_bar">Notificación emergente</string>
   <string name="status_bar_settings_show_carrier">Mostrar el nombre del operador</string>
@@ -2104,6 +2101,7 @@ Una credencial de confianza instalada hace esto posible."</string>
   <string name="status_bar_settings_toggle_layout_style_applying">Cambiando estilo…</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Barra</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Página</string>
+  <string name="status_bar_settings_toggle_position">Posición de conmutadores</string>
   <string name="status_bar_style_settings">Notificaciones</string>
   <string name="status_bt_address">Dirección Bluetooth</string>
   <string name="status_data_state">Estado de red móvil</string>
@@ -2693,9 +2691,9 @@ Añada una palabra tocando el botón de añadir (+)"</string>
 Dejar a los servicios de localización de Google y otras aplicaciones buscar redes, incluso cuando la WiFi esté apagada"</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Denegar</string>
-  <string name="wifi_scan_always_turnon_message">"Para mejorar la precisión de localización y para otros propósitos, %1$s quiere conectar el escaneo de redes, incluso si la WiFi está apagada.
+  <string name="wifi_scan_always_turnon_message">"Para mejorar la precisión de localización y para otros propósitos, %1$s quiere activar el escaneo de redes, incluso si la WiFi está apagada.
 
-Permitir esto a todas las aplicaciones que quieran encender escaneo?"</string>
+Permitir esto a todas las aplicaciones que quieran activar escaneo?"</string>
   <string name="wifi_scan_notify_remember_choice">"No mostrar de nuevo"</string>
   <string name="wifi_scan_notify_text_location_off">"Las Aplicaciones pueden escanear en busca de redes cercanas, incluso si la WiFi está apagada. Si no quiere que eso suceda vaya a Advanced &gt; Scaneo siempre conectado."</string>
   <string name="wifi_scan_notify_text_location_on">"Para mejorar la precisión de localización y para otros propósitos, Google y otras aplicaciones pueden escanear en busca de redes cercanas, incluso si la WiFi está apagada. Si no quiere que esto suceda, vaya a Advanced &gt; Scaneo siempre activado."</string>

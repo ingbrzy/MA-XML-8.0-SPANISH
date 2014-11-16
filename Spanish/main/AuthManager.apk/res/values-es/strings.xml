@@ -23,14 +23,13 @@
   <string name="Dashboard_Perm_SU_Desc">Monitoreando %1$d aplicaciones con acceso root</string>
   <string name="Dashboard_Perm_SU_Disabled">Acceso root desactivado</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Acceso root no está disponible en la versión estable de MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Conceder acceso root a aplicaciones de terceros puede ocasionar problemas de inestabilidad del sistema, perdida de datos de usuario o daño del hardware.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Conceder acceso root a aplicaciones de terceros puede ocasionar problemas de inestabilidad en el sistema, pérdida de datos de usuario o daño del hardware.
 
-Necesitas instalar una versión de desarrollo de MIUI para tener permisos de root."</string>
+Necesita instalar una versión de desarrollo de MIUI para tener permisos de root."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Descargar MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Acceso root</string>
-  <string name="Dashboard_Su_Enable_Content">"Activando esta opción permitirá a las aplicaciones solicitar permisos de root.
-Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, perdida de datos personales, del sistema o incluso daño en el hardware, por favor se cuidadoso. ¿Esta seguro de activarlo?"</string>
+  <string name="Dashboard_Su_Enable_Content">"Permitir acceso root a aplicaciones puede causar inestabilidad en el sistema, pérdida de datos personales o del sistema, o incluso daño en el hardware"</string>
   <string name="Dashboard_Su_Enable_Title">Acceso root</string>
   <string name="Generic_Canceling">Cancelando…</string>
   <string name="Generic_Check">Verificar</string>
@@ -60,7 +59,7 @@ Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, p
   <string name="Generic_Version">Versión %1$s</string>
   <string name="HIPS_Action_Accept">Permitir</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Permitir&lt;/font&gt;</string>
-  <string name="HIPS_Action_Prompt">Pronto</string>
+  <string name="HIPS_Action_Prompt">Preguntar</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Pronto&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Denegado</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Denegado&lt;/font&gt;</string>
@@ -151,7 +150,7 @@ Nota: Aplicaciones con este permiso pueden causar inestabilidad en el sistema, p
   <string name="HIPS_Perm_PhoneID_IMEISN">"La aplicación podrá obtener el número IMEI SN del dispositivo"</string>
   <string name="HIPS_Perm_PhoneID_IMSI">"La aplicación podrá obtener número IMSI de dispositivo"</string>
   <string name="HIPS_Perm_PhoneID_Number">"La aplicación podrá obtener el número de identificación del dispositivo"</string>
-  <string name="HIPS_Perm_PromptAll">Pronto todo</string>
+  <string name="HIPS_Perm_PromptAll">Preguntar todo</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc">La aplicación podrá obtener el permiso de ROOT</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s aplicaciones pueden obtener el permiso de ROOT</string>
