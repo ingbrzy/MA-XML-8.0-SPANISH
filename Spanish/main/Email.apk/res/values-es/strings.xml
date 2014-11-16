@@ -284,7 +284,6 @@
   <string name="collapse_recipient_details">Colapsar detalles del destinatario</string>
   <string name="colon">:</string>
   <string name="compose">Componer</string>
-  <string name="compose_help_context">componer</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado con éxito</string>
   <string name="confirm">confirmar</string>
@@ -318,7 +317,6 @@
   <string name="contextmenu_send_mail">Enviar correo electrónico</string>
   <string name="contextmenu_sharelink">Compartir enlace</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-     <string name="conversation_content_provider">Proveedor de Contenido de Conversación</string>
   <string name="conversation_folder_moved">Se trasladó a %1$s</string>
   <string name="conversation_item_mark_read">Leer</string>
   <string name="conversation_item_mark_unread">No leído</string>
@@ -449,7 +447,6 @@
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">"No se pudo reenviar uno o mas archivos adjuntos."</string>
   <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
-  <string name="forward_subject_label">Rnv:</string>
   <string name="from">De</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de borrar</string>
@@ -508,14 +505,6 @@
   <string name="mailbox_name_display_starred">Destacados</string>
   <string name="mailbox_name_display_trash">Papelera</string>
   <string name="mailbox_name_display_unread">No leídos</string>
-  <string name="mailbox_name_server_all_unread">No leídos</string>
-  <string name="mailbox_name_server_drafts">Borradores</string>
-  <string name="mailbox_name_server_inbox">Entrada</string>
-  <string name="mailbox_name_server_junk">No deseado</string>
-  <string name="mailbox_name_server_outbox">Salida</string>
-  <string name="mailbox_name_server_sent">Enviados</string>
-  <string name="mailbox_name_server_starred">Destacados</string>
-  <string name="mailbox_name_server_trash">Papelera</string>
   <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opciones de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Días de correo para sincronizar</string>
@@ -878,7 +867,6 @@ CC: %4$s
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Toque la notificación para completar la instalación.</string>
   <string name="wait_for_sync_title">A la espera de sincronización</string>
-  <string name="wait_help_context">espere</string>
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Otros</string>
