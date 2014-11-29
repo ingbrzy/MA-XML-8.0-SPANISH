@@ -105,7 +105,7 @@
   <string name="favourite_music_left_half">Para añadir canciones a esta lista de reproducción, pulse el</string>
   <string name="favourite_music_right_half">"Icono de favorito a la derecha del título de la canción"</string>
   <string name="file_not_found">"El archivo no existe"</string>
-  <string name="filter_by_duration">Por longitud</string>
+  <string name="filter_by_duration">Por duración</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 sec</string>
@@ -115,7 +115,7 @@
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"Tamaño mínimo: "</string>
-  <string name="filter_by_size_summary">No mostrar ficheros de audio pequeños</string>
+  <string name="filter_by_size_summary">No mostrar archivos de audio pequeños</string>
   <string name="find_music">Descubrir canciones</string>
   <string name="format_unsupported">"El formato no es compatible."</string>
   <string name="fragment_more">Más</string>
@@ -129,7 +129,7 @@
   <string name="higher_quality_music">Música de alta calidad</string>
   <string name="higher_quality_music_summary">Escuchar y descargar música a mayor tasa de bits</string>
   <string name="i_know">Lo sé</string>
-  <string name="impunity_declaration">"El servicio de streaming es proporcionado por el Servicio de Música Online de Baidu. Al tocar \"Aceptar\", aceptas los "&lt;a href=\"http://music.baidu.com/doc/agreement\"&gt;Términos de uso&lt;/a&gt; de Baidu.</string>
+  <string name="impunity_declaration">"El servicio de streaming es proporcionado por el Servicio de Música Online de Baidu. Al pulsar \"Aceptar\", aceptas los "&lt;a href=\"http://music.baidu.com/doc/agreement\"&gt;Términos de uso&lt;/a&gt; de Baidu.</string>
   <string name="impunity_declaration_ignore">"No mostrar de nuevo"</string>
   <string name="impunity_declaration_settings">Mostrar condiciones de uso</string>
   <string name="impunity_declaration_summary">Mostrar ventana emergente con los términos de uso del Servicio de Música Online de Baidu cada vez que se abre la aplicación de música</string>
@@ -179,7 +179,7 @@
   <string name="online_music">En Línea</string>
   <string name="online_playlist_is_empty">¡La lista de reproducción está vacía!</string>
   <string name="order_process_fail">"No se pudo autorizar tu cuenta. Espera unos minutos y vuelve a intentarlo."</string>
-  <string name="payment_fail">Pago fallido</string>
+  <string name="payment_fail">Ocurrió un error en el pago</string>
   <string name="payment_success">Pago completado</string>
   <string name="period_format">%1$s-%2$s</string>
   <string name="playback_failed_no_title_by_bad_file">"No se puede reproducir la canción. El formato no es compatible o el archivo no existe."</string>
@@ -216,7 +216,7 @@
   <string name="tab_local_folder_list">Carpeta</string>
   <string name="tab_local_track_list">Canciones</string>
   <string name="tab_track_list">Pista</string>
-  <string name="take_effect_afater_restart">Necesita reiniciar la aplicación de música para que esta configuración tenga efecto.</string>
+  <string name="take_effect_afater_restart">Se necesita reiniciar la aplicación de música para que esta configuración tenga efecto.</string>
   <string name="track_list_control_download">Descargar</string>
   <string name="track_list_control_edit_add_tracks">Añadir canciones</string>
   <string name="track_list_control_edit_delete_playlist">Borrar</string>
