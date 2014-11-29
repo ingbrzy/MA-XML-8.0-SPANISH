@@ -26,7 +26,7 @@
   <string name="context_menu_title">%sMHZ</string>
   <string name="default_audio">Estéreo</string>
   <string name="default_band">Estados Unidos</string>
-  <string name="default_blank"/>
+     <string name="default_blank" />
   <string name="default_station">FM</string>
   <string name="delete_station_title">Eliminar</string>
   <string name="dialog_sleep_title">Establecer temporizador</string>
@@ -51,7 +51,9 @@
   <string name="frequency_mhz_fomart">%sMHZ</string>
   <string name="frequency_out_of_range">La frecuencia (%1$s~%2$s) está fuera de alcance</string>
   <string name="frequency_should_not_null">Introduce una frecuencia</string>
-  <string name="frequency_string"/>
+     <string name="frequency_string" />
+     <string name="group_favor">Presintonías</string>
+     <string name="group_other">Otros</string>
   <string name="hint_frequency">Frecuencia: %1$s ~ %2$s</string>
   <string name="hint_label">Etiqueta</string>
   <string name="hint_station_name">Introduce el nombre de la emisora</string>
@@ -157,6 +159,6 @@
   <string name="turn_on_speaker_phone">Encender altavoz del teléfono</string>
   <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Modo de reposo</string>
-  <string name="type_rd"/>
+     <string name="type_rd" />
   <string name="view_stations_list">Ver lista de emisoras</string>
 </resources>

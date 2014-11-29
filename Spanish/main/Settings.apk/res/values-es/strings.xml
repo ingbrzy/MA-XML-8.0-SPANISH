@@ -79,8 +79,8 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="add_auto_startup_application">Añadir aplicaciones de auto-arranque</string>
   <string name="add_device_admin">Activar</string>
   <string name="add_device_admin_msg">¿Activar Administrador de dispositivo?</string>
-  <string name="additional_system_update"/>
-  <string name="additional_system_update_menu"/>
+     <string name="additional_system_update" />
+     <string name="additional_system_update_menu" />
   <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales de Sistema</string>
   <string name="adjust_3d_depth_title">"Ajustar profunidad para juegos 3D</string>
   <string name="advanced_settings">Ajustes avanzados</string>
@@ -153,7 +153,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="app_memory_use">Memoria en uso</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">"La aplicación no está en la lista de aplicaciones instaladas."</string>
-  <string name="app_not_found_dlg_title"/>
+     <string name="app_not_found_dlg_title" />
   <string name="app_not_supported_in_limited">Esta aplicación no tiene soporte en perfiles restringidos</string>
   <string name="app_notifications_switch_label">Notificación personalizada</string>
   <string name="app_ops_never_used">(Nunca usado)</string>
@@ -214,7 +214,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="backup_data_summary">Realizar copia de seguridad de los datos de aplicación, contraseñas WiFi y otros ajustes en los servidores de Google</string>
   <string name="backup_data_title">Realizar copia de seguridad de mis datos</string>
   <string name="backup_erase_dialog_message">¿Parar la copia de seguridad de las contraseñas WiFi, marcadores, otros ajustes y datos de aplicación, y eliminar todas las copias de los servidores de Google?</string>
-  <string name="backup_erase_dialog_title"/>
+     <string name="backup_erase_dialog_title" />
   <string name="backup_lock_settings_picker_title">Elegir bloqueo de la copia de seguridad</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
   <string name="backup_pw_set_button_text">Establecer contraseña de la copia de seguridad</string>
@@ -333,7 +333,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="bluetooth_connection_permission_request">Conexión Bluetooth requerida</string>
   <string name="bluetooth_device">Dispositivo Bluetooth sin nombre</string>
   <string name="bluetooth_device_address">Dirección:</string>
-  <string name="bluetooth_device_advanced_enable_opp_title">Permitir recepción de ficheros</string>
+  <string name="bluetooth_device_advanced_enable_opp_title">Permitir recepción de archivos</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Conectar a dispositivo Bluetooth</string>
   <string name="bluetooth_device_advanced_online_mode_title">Conectar</string>
   <string name="bluetooth_device_advanced_profile_header_title">Perfiles</string>
@@ -373,7 +373,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="bluetooth_enter_passkey_other_device">Tendra que teclear la clave en el otro dispositivo.</string>
   <string name="bluetooth_enter_pin_msg">"Para vincular a:brb%1$s/bbrbrTeclee el PIN requerido por el dispositivo:"</string>
   <string name="bluetooth_enter_pin_other_device">Tendra que teclear el PIN en el otro dispositivo también.</string>
-  <string name="bluetooth_error_title"/>
+     <string name="bluetooth_error_title" />
   <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del teléfono</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizar para el audio del teléfono</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado a dispositivo de entrada</string>
@@ -396,9 +396,9 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="bluetooth_notif_title">Petición de vinculación</string>
   <string name="bluetooth_on_time">Temporizador WiFi</string>
   <string name="bluetooth_only_visible_to_paired_devices">Solo visible para dispositivos vinculados</string>
-  <string name="bluetooth_opp_profile_summary_connected">Conectado a servidor de transferencia de ficheros</string>
-  <string name="bluetooth_opp_profile_summary_not_connected">No conectado a servidor de transferencia de ficheros</string>
-  <string name="bluetooth_opp_profile_summary_use_for">Utilizar para transferencia de ficheros</string>
+  <string name="bluetooth_opp_profile_summary_connected">Conectado a servidor de transferencia de archivos</string>
+  <string name="bluetooth_opp_profile_summary_not_connected">No conectado a servidor de transferencia de archivos</string>
+  <string name="bluetooth_opp_profile_summary_use_for">Utilizar para transferencia de archivos</string>
   <string name="bluetooth_pairing">Vinculando</string>
   <string name="bluetooth_pairing_accept">Vincular</string>
   <string name="bluetooth_pairing_decline">Cancelar</string>
@@ -425,7 +425,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="bluetooth_profile_headset">Audio del teléfono</string>
   <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
   <string name="bluetooth_profile_map">Acceso a mensajes</string>
-  <string name="bluetooth_profile_opp">Tranasferencia de ficheros</string>
+  <string name="bluetooth_profile_opp">Transferencia de archivos</string>
   <string name="bluetooth_profile_pan">Acceso a internet</string>
   <string name="bluetooth_profile_pan_nap">Compartir conexión a internet</string>
   <string name="bluetooth_quick_toggle_summary">Encender Bluetooth</string>
@@ -439,7 +439,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">Organizar conexiones, establecer nombre del dispositivo y visibilidad</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
-  <string name="bluetooth_show_received_files">Mostrar ficheros recibidos</string>
+  <string name="bluetooth_show_received_files">Mostrar archivos recibidos</string>
   <string name="bluetooth_tether_checkbox_text">Compartir Internet por Bluetooth</string>
   <string name="bluetooth_tethering_available_subtext">"Compartiendo la conexión a internet de este teléfono"</string>
   <string name="bluetooth_tethering_device_connected_subtext">"Compartiendo la conexión a internet de este teléfono con 1 dispositivo"</string>
@@ -449,7 +449,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="bluetooth_tethering_overflow_error">"No se puede compartir la conexión a internet con mas de %1$d dispositivos."</string>
   <string name="bluetooth_turning_off">Apagando Bluetooth…</string>
   <string name="bluetooth_turning_on">Encendiendo Bluetooth…</string>
-  <string name="bluetooth_unknown"/>
+     <string name="bluetooth_unknown" />
   <string name="bluetooth_unlock_add_device">Añadir dispositivo</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">El dispositivo anterior se sustituirá por el dispositivo actual.</string>
   <string name="bluetooth_unlock_change_matched_device">Elegir otro dispositivo</string>
@@ -476,7 +476,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="brightness_summary">Ajustar el brillo de la pantalla</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Activar HCI Snoop log Bluetooth</string>
-  <string name="bt_hci_snoop_log_summary">Capturar todos los paquetes HCI Bluetooth en un fichero</string>
+  <string name="bt_hci_snoop_log_summary">Capturar todos los paquetes HCI Bluetooth en un archivo</string>
   <string name="bt_trace_log">Activar log de seguimiento Bluetooth</string>
   <string name="bt_trace_log_summary">Activar lo de seguimiento Bluetooth</string>
   <string name="bugreport_in_power">Reporte de errores (bug) en el menu de encendido</string>
@@ -546,7 +546,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="clear_activities_summary">Utilizar esta aplicación para algunas operaciones por defecto</string>
   <string name="clear_adb_keys">Revocar autorizaciones de depuración USB</string>
   <string name="clear_cache_btn_text">Limpiar cache</string>
-  <string name="clear_data_dlg_text">"Todas estas aplicaciones se eliminarán permanentemente. Esto incluye todos los ficheros, ajustes, cuentas, bases de datos, etc."</string>
+  <string name="clear_data_dlg_text">"Todas estas aplicaciones se eliminarán permanentemente. Esto incluye todos los archivos, ajustes, cuentas, bases de datos, etc."</string>
   <string name="clear_data_dlg_title">¿Eliminar datos de la aplicación?</string>
   <string name="clear_data_failed">"No se pudieron eliminar los datos de la aplicación."</string>
   <string name="clear_failed_dlg_text">"No se pudieron eliminar los datos para la aplicación."</string>
@@ -602,13 +602,13 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="credentials_reset_warning">Contraseña incorrecta.  Tiene un intento más antes de que el almacenamiento de certificados se borre.</string>
   <string name="credentials_reset_warning_plural">Contraseña incorrecta. Tiene %1$d intentos más antes de que el almacenamiento con credenciales se elimine.</string>
   <string name="credentials_title">Almacenamiento de certificados</string>
-  <string name="credentials_unlock"/>
+     <string name="credentials_unlock" />
   <string name="credentials_unlock_hint">Teclee la contraseña para el almacenamiento de certificados.</string>
   <string name="credentials_wrong_password">Incorrect password.</string>
   <string name="crypt_keeper_button_text">Encriptar teléfono</string>
   <string name="crypt_keeper_confirm_title">¿Encriptar?</string>
   <string name="crypt_keeper_cooldown">Pruebe de nuevo en ^1 segundos. </string>
-  <string name="crypt_keeper_desc">"Puede encriptar sus cuentas, ajustes, aplicaciones descargadas, multimedia y otros ficheros. Una vez que encripte su teléfono, necesitará introducir el PIN numérico o la contraseña para desencriptarlo cada vez que lo encienda. No puede desencriptar su teléfono a menos que realice un reseteo de fabrica, borrando todos sus datos.
+  <string name="crypt_keeper_desc">"Puede encriptar sus cuentas, ajustes, aplicaciones descargadas, multimedia y otros archivos. Una vez que encripte su teléfono, necesitará introducir el PIN numérico o la contraseña para desencriptarlo cada vez que lo encienda. No puede desencriptar su teléfono a menos que realice un reseteo de fabrica, borrando todos sus datos.
 
 La encriptación tarda una hora o más. Debe iniciarla con la batería cargada y mantener el teléfono conectado al cargador hasta que la encriptación termine. Si interrumpe el proceso, perderá algunos o todos los datos."</string>
   <string name="crypt_keeper_dialog_need_password_message">Necesita establecer un PIN o contraseña para desbloquear la pantalla antes de iniciar la encriptación.</string>
@@ -813,7 +813,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
   <string name="dlg_confirm_unmount_text">Si desmonta el almacenamiento USB, algunas aplicaciones que está utilizando se detendrán y puede que no funcionen hasta que vuelva a montar el almacenamiento USB.</string>
   <string name="dlg_confirm_unmount_title">¿Desmontar almacenamiento USB?</string>
   <string name="dlg_error_unmount_text">"No se pudo desmontar el almacenamiento USB.  Pruebe de nuevo más tarde."</string>
-  <string name="dlg_error_unmount_title"/>
+     <string name="dlg_error_unmount_title" />
   <string name="dlg_ok">Aceptar</string>
   <string name="dndm_auto_button_title">Temporizar el modo no molestar</string>
   <string name="dndm_auto_setting_group">Programado</string>
@@ -933,7 +933,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="error_mcc_not3">El campo MCC debe tener 3 digitos.</string>
   <string name="error_mnc_not23">El campo MNC debe tener 2 ó 3 digitos.</string>
   <string name="error_name_empty">"El campo nombre no puede estar vacío."</string>
-  <string name="error_title"/>
+     <string name="error_title" />
   <string name="external_code_size_label">Aplicación de almacenamiento USB</string>
   <string name="external_data_size_label">Datos de almacenamiento USB</string>
   <string name="factory_reset_summary">"Eliminar todos los datos del almacenamiento interno del teléfono"</string>
@@ -1233,9 +1233,9 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="lockpattern_continue_button_text">Continuar</string>
   <string name="lockpattern_need_to_confirm">Dibujar el patrón de nuevo para confirmar:</string>
   <string name="lockpattern_need_to_unlock">Confirmar patrón salvado</string>
-  <string name="lockpattern_need_to_unlock_footer"/>
+     <string name="lockpattern_need_to_unlock_footer" />
   <string name="lockpattern_need_to_unlock_wrong">Probar de nuevo:</string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"/>
+     <string name="lockpattern_need_to_unlock_wrong_footer" />
   <string name="lockpattern_pattern_confirmed_header">Su nuevo patrón de desbloqueo:</string>
   <string name="lockpattern_pattern_entered_header">Patrón grabado</string>
   <string name="lockpattern_recording_incorrect_too_short">Conectar al menos %d puntos. Pruebe de nuevo.</string>
@@ -1310,7 +1310,7 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
   <string name="media_format_button_text">Eliminar almacenamiento USB</string>
   <string name="media_format_desc">¿Borrar todo el almacenamiento USB? ¡Perderá &lt;b&gt;todos&lt;/b&gt; los datos almacenados!</string>
   <string name="media_format_final_button_text">Eliminar todo</string>
-  <string name="media_format_final_desc">"¿Eliminar almacenamiento USB, eliminando todos los ficheros almacenados en él? ¡Esta acción no se puede deshacer!"</string>
+  <string name="media_format_final_desc">"¿Eliminar almacenamiento USB, eliminando todos los archivos almacenados en él? ¡Esta acción no se puede deshacer!"</string>
   <string name="media_format_gesture_explanation">Necesita dibujar el patrón de desbloqueo para confirmar que quiere eliminar el almacenamiento USB.</string>
   <string name="media_format_gesture_prompt">Dibuje el patrón de desbloqueo</string>
   <string name="media_format_summary">Elimina todos los datos del almacenamiento USB</string>
@@ -1407,7 +1407,7 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
   <string name="modem_tool_log_stop_toast">"Dejar de volcar el log del modem de %s"</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">"No se pudo mover la aplicación. %1$s"</string>
-  <string name="move_app_failed_dlg_title"/>
+     <string name="move_app_failed_dlg_title" />
   <string name="move_app_to_internal">Mover al teléfono</string>
   <string name="move_app_to_sdcard">Mover a almacenamiento USB</string>
   <string name="moving">Moviendo</string>
@@ -1426,7 +1426,7 @@ Seleccionar sistema operativo:"</string>
   <string name="msd_install_retry">"Si su ordenador sigue sin detectar el dispositivo, pruebe lo siguiente:"</string>
   <string name="msd_install_retry_connect">Reconectar cable USB.</string>
   <string name="msd_install_retry_reinstall">Reinstalar el controlador.</string>
-  <string name="msd_install_retry_reinstall_mac">Primero instalar transferencia de ficheros Android, y entonces ejecutar el software.</string>
+  <string name="msd_install_retry_reinstall_mac">Primero instalar transferencia de archivos Android, y entonces ejecutar el software.</string>
   <string name="msd_install_status_done">Controlador instalado</string>
   <string name="msd_install_status_undo">Instalar controlador</string>
   <string name="msd_install_succeed">Controlador instalado</string>
@@ -1440,13 +1440,17 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="multi_touch_points_preference">Reiniciar para activar</string>
   <string name="music_HiFi_title">Audio Hi-Fi</string>
   <string name="music_audio_effect_settings">Ajustes de audio</string>
+     <string name="music_dirac_control">Optimizar calidad de audio</string>
   <string name="music_dirac_mode_earbuds">Mi</string>
   <string name="music_dirac_mode_general">General</string>
   <string name="music_dirac_mode_general_earbuds">Normales</string>
   <string name="music_dirac_mode_general_inear">In-ear normales</string>
   <string name="music_dirac_mode_in_ear">Mi in-ear</string>
+     <string name="music_dirac_mode_off">Dirac desactivado</string>
+     <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
+     <string name="music_dirac_mode_piston_basic">Edición Básica</string>
   <string name="music_equalizer">Ecualizador</string>
   <string name="music_headphone_settings">Configuración del tipo de auricular</string>
   <string name="music_headset_button_settings">Asignar botones de control remoto</string>
@@ -1539,7 +1543,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="other_relative">Otros permisos</string>
   <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
   <string name="owner_info_settings_edit_text_hint">Escribir el texto a mostrar en la pantalla de bloqueo</string>
-  <string name="owner_info_settings_summary"/>
+     <string name="owner_info_settings_summary" />
   <string name="owner_info_settings_title">Información de propietario</string>
   <string name="packages_subtitle">Paquetes incluidos</string>
   <string name="passwordIncorrect">La contraseña introducida es incorrecta</string>
@@ -1557,7 +1561,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="phone_call_noise_suppression">Supresión de ruidos durante la llamada</string>
   <string name="phone_info_label">Información del teléfono</string>
   <string name="phone_language">Idioma</string>
-  <string name="phone_language_summary"/>
+     <string name="phone_language_summary" />
   <string name="pico_installed">Instalado</string>
   <string name="pico_languages_and_voices">Idiomas y voces</string>
   <string name="pico_not_installed">No instalado</string>
@@ -1768,7 +1772,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="recognizer_settings_title">Busqueda por voz</string>
   <string name="recognizer_title">Reconocimiento por voz</string>
   <string name="recompute_size">Tamaño recomputado…</string>
-  <string name="regulatory_info_text"/>
+     <string name="regulatory_info_text" />
   <string name="regulatory_information">Información regulatoria</string>
   <string name="remove_account_failed">Esta cuenta la necesitan algunas aplicaciones. Solo se puede borrar reseteando el teléfono a valores de fábrica (lo que borrará todos tus datos personales) en ajustes &gt; Copia de seguridad y restablecer.</string>
   <string name="remove_account_label">Borrar cuenta</string>
@@ -1808,7 +1812,7 @@ cuando este conectado al ordenador aparecererá %1$s como dispositivo de almacen
   <string name="ring_volume_title">Volumen del timbre</string>
   <string name="ringtone_mute">Ninguno</string>
   <string name="ringtone_slot_setting_title">Ajustes de SIM única</string>
-  <string name="ringtone_summary"/>
+     <string name="ringtone_summary" />
   <string name="ringtone_title">Timbre de teléfono</string>
   <string name="ringtone_uniform_setting_title">Ajustes de dual SIM</string>
   <string name="roaming">Datos en itinerancia</string>
@@ -1874,7 +1878,7 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
   <string name="sd_insert_summary">Insertar almacenamiento USB para montar</string>
   <string name="sd_memory">Almacenamiento USB</string>
   <string name="sd_mount">Montar almacenamiento USB</string>
-  <string name="sd_mount_summary"/>
+     <string name="sd_mount_summary" />
   <string name="sdcard_changes_instructions">Los cambios tendrán efecto cuando el cable USB sea conectado de nuevo.</string>
   <string name="sdcard_format">Borrar almacenamiento USB</string>
   <string name="sdcard_setting">Almacenamiento USB</string>
@@ -2174,7 +2178,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="system_backup_section_title">Copia de seguridad</string>
   <string name="system_package">"Las actualizaciones de sistema no se pueden instalar en medios externos."</string>
   <string name="system_storage">Almacenamiento de sistema</string>
-  <string name="system_update_settings_list_item_summary"/>
+     <string name="system_update_settings_list_item_summary" />
   <string name="system_update_settings_list_item_title">Actualizaciones de sistema</string>
   <string name="terms_title">Terminos y condiciones</string>
   <string name="testing">Testeando</string>
@@ -2213,7 +2217,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="trackball_settings">Puntero</string>
   <string name="trackball_wake_title">Seguimiento de puntero</string>
   <string name="transition_animation_scale_title">Escala de transición-animación</string>
-  <string name="translation_contributors_summary"/>
+     <string name="translation_contributors_summary" />
   <string name="translation_contributors_title">Contribuciones</string>
   <string name="trusted_credentials">Credenciales confiables</string>
   <string name="trusted_credentials_disable_confirmation">Desactivar el certificado de sistema CA?</string>
@@ -2298,7 +2302,7 @@ Hay un intento de Google de sicronizar datos para acceder a tus contactos, A Goo
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Sin seguridad</string>
   <string name="unlock_set_unlock_none_title">Ninguno</string>
-  <string name="unlock_set_unlock_off_summary"/>
+     <string name="unlock_set_unlock_off_summary" />
   <string name="unlock_set_unlock_off_title">Ninguno</string>
   <string name="unlock_set_unlock_password_summary">Alta seguridad</string>
   <string name="unlock_set_unlock_password_title">Contraseña</string>
@@ -2397,7 +2401,7 @@ Cualquier usuario puede aceptar actualizaciones y permisos en nombre del resto."
   <string name="user_dict_settings_empty_text">"No hay ningún diccionario
 Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="user_dict_settings_more_languages">Más idiomas…</string>
-  <string name="user_dict_settings_summary"/>
+     <string name="user_dict_settings_summary" />
   <string name="user_dict_settings_title">Diccionario personal</string>
   <string name="user_image_choose_photo">Escoger foto de galería</string>
   <string name="user_image_take_photo">Tomar foto</string>
@@ -2820,7 +2824,7 @@ La configuración del teléfono puede necesitar gran tráfico de datos."</string
   <string name="wifi_tether_setting_title">Configuración básica</string>
   <string name="wifi_tether_starting">Encendiendo Zona WiFi portátil…</string>
   <string name="wifi_tether_stopping">Apagando Zona WiFi portátil…</string>
-  <string name="wifi_type_approval"/>
+     <string name="wifi_type_approval" />
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(sin cambiar)</string>
   <string name="wifi_unspecified">(no especificado)</string>

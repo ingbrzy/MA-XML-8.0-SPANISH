@@ -22,6 +22,10 @@
   <string name="account_folder_list_summary_outbox">Buzón de salida</string>
   <string name="account_folder_list_summary_starred">Destacados</string>
   <string name="account_name_toast">"No se pudo crear la cuenta. Ya existe una cuenta con el mismo nombre."</string>
+     <string name="account_options_acc_title">Cuenta</string>
+     <string name="account_options_common_title">Ajustes normales</string>
+     <string name="account_options_only_title">Descargar sólo encabezado al usar red de datos móviles</string>
+     <string name="account_options_sync_title">Sync settings</string>
   <string name="account_password_spaces_error">"Esta contraseña comienza o termina con uno o más espacios en blanco. Muchos servidores no admiten contraseñas con espacios en blanco."</string>
   <string name="account_security_dialog_content_fmt">%s requiere que actualice la configuración de seguridad.</string>
   <string name="account_security_dialog_title">Actualización de seguridad</string>
@@ -172,6 +176,7 @@
   <string name="account_setup_outgoing_username_label">Nombre de usuario</string>
   <string name="account_setup_security_policies_required_fmt">El servidor %s requiere que permita controlar remotamente algunas características de seguridad de tu dispositivo Android. ¿Quieres terminar de configurar esta cuenta?</string>
   <string name="account_setup_security_required_title">Administración de seguridad remota</string>
+     <string name="account_setup_server_acc_manager_title">Gestor de cuentas</string>
   <string name="account_setup_service_not_set">"Cuenta no ha sido configurado"</string>
   <string name="account_setup_username_password_toast">Escriba una dirección válida de correo electrónico y contraseña.</string>
   <string name="account_setup_username_uneditable_error">"No puede cambiar de usuario de una cuenta. Para agregar una cuenta con un nombre de usuario distinto, toque Añadir cuenta."</string>
@@ -192,6 +197,9 @@
   <string name="add_file_attachment">Adjuntar archivo</string>
   <string name="add_label">Agregar carpeta</string>
   <string name="add_photo_attachment">Adjuntar imagen</string>
+     <string name="add_pre_message_attachments">¿Añadir los adjuntos del mensaje previo?</string>
+     <string name="add_pre_message_attachments_no">No</string>
+     <string name="add_pre_message_attachments_yes">Add</string>
   <string name="add_star">Añadir estrella</string>
   <string name="add_video_attachment">Adjuntar video</string>
   <string name="address_display_format">%1$s | %2$s</string>
@@ -249,6 +257,7 @@
   <string name="bottom_bar_more_delete">Eliminar</string>
   <string name="bottom_bar_more_quickreply">Respuesta rápida</string>
   <string name="bottom_bar_more_unread">Marcar como no leído</string>
+     <string name="bottom_bar_no_quickreply_toast">Sin respuestas rápida</string>
   <string name="bytes">%s B</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_action">Cancelar</string>
@@ -283,7 +292,8 @@
   <string name="click_download_all_content">[ Toque para descargar  ]</string>
   <string name="collapse_recipient_details">Colapsar detalles del destinatario</string>
   <string name="colon">:</string>
-  <string name="compose">Componer</string>
+  <string name="compose">Redactar</string>
+     <string name="compose_help_context">redactar</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado con éxito</string>
   <string name="confirm">confirmar</string>
@@ -461,6 +471,10 @@
   <string name="general_preference_text_zoom_small">Pequeño</string>
   <string name="general_preference_text_zoom_tiny">Pequeño</string>
   <string name="generic_attachment_problem">"No puede adjuntar archivo."</string>
+     <string name="head_only_enable_dialog_message">Sólo el título es descargado (en vez del correo completo).</string>
+     <string name="head_only_enable_dialog_nagative">Reject</string>
+     <string name="head_only_enable_dialog_positive">Accept</string>
+     <string name="head_only_enable_dialog_title">Traffic saver</string>
   <string name="header_category_account">Configuración de la cuenta</string>
   <string name="header_category_other">Otros</string>
   <string name="header_label_general_preferences">Configuración general</string>
@@ -473,6 +487,8 @@
   <string name="imap_name">IMAP</string>
   <string name="inbox_folders_heading">Carpetas locales</string>
   <string name="info">Información</string>
+     <string name="inline_picture_deleted">No se encuentra esta foto, descargando…</string>
+     <string name="inline_picture_download_complete">inline picture download complete</string>
   <string name="input_password_prompt">Introduce tu contraseña</string>
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="kilobytes">%s KB</string>
@@ -685,10 +701,14 @@ CC: %4$s
   <string name="policy_screen_timeout">Bloquear la pantalla del dispositivo cuando esté inactivo</string>
   <string name="policy_text_truncation">Restringir el tamaño del texto correo electrónico</string>
   <string name="pop3_name">POP3</string>
+     <string name="prefDefault_autoAdvance">lista</string>
   <string name="prefDialogTitle_conversationListIcon">Imagen del remitente</string>
   <string name="prefDialogTitle_removal_action">Acciones de archivado y borrado</string>
+     <string name="preference_eas_tips">La siguiente página de activación es requerida por el Servidor de corredo, por favor, permita que se active.</string>
   <string name="preference_head_load_description">Descargar sólo títulos de mensajes al usar conexión de datos.</string>
   <string name="preference_head_load_title">Reducir uso de datos</string>
+     <string name="preference_imap_tips" />
+     <string name="preference_pop_tips">Los adjuntos se descargarán con el contenido del correo ya que el protocolo POP3 lo requiere obligatoriamente. Por favor, sea cuidadoso si usa los datos móviles.</string>
   <string name="preference_removal_action_title">Acciones de archivado y borrado</string>
   <string name="preference_sender_image_description">Mostrar junto al nombre en la lista de conversación</string>
   <string name="preference_sender_image_title">Imagen del remitente</string>
@@ -771,7 +791,7 @@ CC: %4$s
   <string name="security_notification_content_unsupported_title">"Las políticas de seguridad no pueden cumplirse"</string>
   <string name="security_notification_content_update_title">Actualización de seguridad requerida</string>
   <string name="security_unsupported_ticker_fmt">"La cuenta \"%s\" no puede ser sincronizada debido a los requisitos de seguridad."</string>
-  <string name="select_attachment_type">Elija la fuente del fichero adjunto</string>
+     <string name="select_attachment_type">Elija la fuente del fichero adjunto</string>
   <string name="select_no_file">No hay archivos adjuntos seleccionados</string>
   <string name="send">Enviar</string>
   <string name="send_att_title">Alerta</string>
@@ -806,7 +826,7 @@ CC: %4$s
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sort_attachment">Ordenar por</string>
   <string name="spaceChar">" "</string>
-  <string name="status_network_error">"No se puede conectar a la red. Comprueba tu conexión de datos e inténtalo de nuevo."</string>
+  <string name="status_network_error">"No se puede conectar a la red. Compruebe su conexión de datos e inténtelo de nuevo."</string>
   <string name="storage">Almacenamiento</string>
   <string name="str_select_all">Seleccionar todo</string>
   <string name="str_select_none">Deseleccionar todo</string>
@@ -851,10 +871,10 @@ CC: %4$s
   <string name="updated_at">Última actualización %1$s</string>
   <string name="updated_just_now">Actualizado ahora</string>
   <string name="validation_failed_prompt">Error de validación, por favor configure el servidor %s</string>
-  <string name="veiled_address"/>
-  <string name="veiled_alternate_text"/>
-  <string name="veiled_alternate_text_unknown_person"/>
-  <string name="veiled_summary_unknown_person"/>
+     <string name="veiled_address" />
+     <string name="veiled_alternate_text" />
+     <string name="veiled_alternate_text_unknown_person" />
+     <string name="veiled_summary_unknown_person" />
   <string name="via_domain">a través de %1$s</string>
   <string name="view_more_conversations">Ver más conversaciones</string>
   <string name="wait_for_manual_sync_body">"Esta cuenta no está configurada para sincronizar automáticamente. Toque " Sincronizar ahora  para sincronizar el correo una vez, o Cambiar ajustes de sincronización para configurar la sincronización automática de esta cuenta.</string>
@@ -867,6 +887,7 @@ CC: %4$s
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Toque la notificación para completar la instalación.</string>
   <string name="wait_for_sync_title">A la espera de sincronización</string>
+     <string name="wait_help_context">espere</string>
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Otros</string>

@@ -97,8 +97,8 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el
   <string name="micloud_detail_wlan_mms">%d mms no sincronizados</string>
   <string name="micloud_dspt">Usa Mi Cloud para sincronizar datos, localizar tu dispositivo,</string>
   <string name="micloud_dspt_provision">Usa Mi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con amigos.</string>
-  <string name="micloud_first_login_summary"/>
-  <string name="micloud_first_login_title"/>
+     <string name="micloud_first_login_summary" />
+     <string name="micloud_first_login_title" />
   <string name="micloud_full_influence_dspt">"Todas sus fotos, vídeos, notas y aplicaciones permanecerán respaldadas en la nube.
 
 De esta manera, si pierde o daña su dispositivo, sus datos permanecerán seguros.
@@ -108,6 +108,7 @@ Cuando su nube está llena, sus datos antiguos no irán a ninguna parte. Sin emb
 Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio a nuevos o adquirir espacio de almacenamiento adicional."</string>
   <string name="micloud_full_influence_title">Cuando su Mi Cloud está llena…</string>
   <string name="micloud_main_data_unsynced">%d elementos a sincronizar</string>
+     <string name="micloud_main_detail">mostrar detalle</string>
   <string name="micloud_main_last_sync_time">La última sincronización fue en %s</string>
   <string name="micloud_main_network_abnormal">No se pudo conectar a la red</string>
   <string name="micloud_main_network_error">No se pudo conectar a la red</string>
@@ -138,7 +139,7 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
  %s usados | %s restantes"</string>
   <string name="micloud_title_dspt_remain">%s restantes</string>
   <string name="micloud_title_full_dspt">"¡Has alcanzado tu límite de almacenamiento!"</string>
-  <string name="micloud_unlogin_for_time_summary"/>
+     <string name="micloud_unlogin_for_time_summary" />
   <string name="micloud_unlogin_for_time_title">Habilitar Mi Cloud</string>
   <string name="micloud_upgrade_space">Consigue más espacio de almacenamiento</string>
   <string name="micloud_user_space_title">Espacio de almacenamiento</string>
@@ -147,6 +148,7 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_warn_full_title">Sin espacio</string>
   <string name="micloud_warn_low_sum">Tu Mi Cloud está lleno al 90%.</string>
   <string name="micloud_warn_low_title">Casi sin espacio…</string>
+     <string name="micloud_web_discription">Abra sesión en i.mi.com para almacenar y acceder a sus archivos desde cualquier parte</string>
   <string name="micloud_web_discription_01">Inicia sesión en i.mi.com</string>
   <string name="micloud_web_discription_02">para guardar y acceder a tus archivos desde cualquier parte</string>
   <string name="microsoft_cloud">Servicio en la Nube de Microsoft</string>
@@ -225,7 +227,7 @@ Puede habilitar o deshabilitar esta característica en cualquier momento en Ajus
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xmpp_server_addr"/>
+     <string name="xmpp_server_addr" />
 </resources>
 
 

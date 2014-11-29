@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <string name="SMS_and_MMS">SMS y MMS</string>
   <string name="Settings_title_anti_spam">Configuración antispam</string>
   <string name="Settings_title_anti_virus">Configuración de antivirus</string>
   <string name="Settings_title_garbage_cleanup">Ajustes de limpieza de archivos residuales</string>
@@ -114,6 +115,7 @@
   <string name="cache_title_empty_folder">Carpeta vacía (%d)</string>
   <string name="cache_title_empty_folder2">Carpeta vacía</string>
   <string name="cache_title_system_cache">Caché del sistema</string>
+     <string name="call_and_contact">Llamadas y Contactos</string>
   <string name="cancel">Cancelar</string>
   <string name="cta_button_text_agree">De acuerdo</string>
   <string name="cta_button_text_cancel">Cancelar</string>
@@ -252,6 +254,7 @@
   <string name="hints_virus_lib_update_default_summary">Ultima actualización: desconocida</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"Esta es una aplicación de alto riesgo para la seguridad de su smartphone."</string>
+     <string name="info_and_call">Llamdas y mensajes</string>
   <string name="item_app_permission">Permisos de aplicación</string>
   <string name="item_dev_mode">Opciones de desarrollo</string>
   <string name="item_garbage_size_1000m">1Gb</string>
@@ -350,6 +353,8 @@
   <string name="permission_permission_control_closed_desc_dialog_msg">"Las aplicaciones no le pedirán permiso para leer sus contactos, ver el registro de llamadas, cambiar ajustes del sistema o acceder a la cámara u otros recursos. Puede Vd. activar esta característica en Ajustes de Permisos."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">El Administrador de Permisos está desactivado</string>
   <string name="permission_send_sms_descx">Aplicaciones pueden enviar mensajes SMS y MMS</string>
+     <string name="permission_with_SMS_and_MMS">Permisos relativos a SMS y MMS</string>
+     <string name="permission_with_call_and_contact">Permisos relativos a llamadas de teléfono, información de contactos y registro de llamadas.</string>
   <string name="power_20s_enter_mode">Cuando la batería esté en %1$ds cambiar a %2$s</string>
   <string name="power_apply_toast">Cambiado a %s</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -454,6 +459,7 @@
   <string name="power_mode_cpu_state_save_desc">Priorizar duración de batería por encima del rendimiento</string>
   <string name="power_mode_gps">GPS</string>
   <string name="power_mode_internet">Redes moviles</string>
+     <string name="power_mode_keep_state">No cambiar</string>
   <string name="power_mode_my_mode">Mi perfil</string>
   <string name="power_mode_my_mode_summary">Guardar los ajustes de batería actuales</string>
   <string name="power_mode_screen_brightness">Brillo</string>
@@ -522,7 +528,7 @@
   <string name="pref_summary_expand_cache_group">Grupos en la lista de caché se expandirán por defecto</string>
   <string name="pref_summary_garbage_cleanup_check_size">Avisarme cuando los archivos residuales alcancen un tamaño determinado</string>
   <string name="pref_summary_garbage_cleanup_check_time">Avisarme cuando la fecha alcance un periodo determinado</string>
-  <string name="pref_summary_open_optimizer_cloud_scan">Subir y comparar nombres de ficheros desconocidos con definiciones en línea</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Subir y comparar nombres de archivos desconocidos con definiciones en línea</string>
   <string name="pref_title_auto_update_cleanup_db">Actualización automática</string>
   <string name="pref_title_cleanup_white_list">Limpiar lista de archivos residuales excluidos</string>
   <string name="pref_title_expand_cache_group">Expandir los grupos de caché</string>

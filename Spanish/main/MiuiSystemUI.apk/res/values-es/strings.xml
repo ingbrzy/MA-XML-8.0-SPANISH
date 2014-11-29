@@ -47,6 +47,9 @@
   <string name="always_use_accessory">Usar por defecto para este accesorio USB</string>
   <string name="always_use_device">Usar por defecto para este dispositivo USB</string>
   <string name="app_label">Interfaz de sistema</string>
+     <string name="audio_effect_custom">Configurar</string>
+     <string name="audio_effect_info">Optimizar audio</string>
+     <string name="audio_effect_settings">Establecer el tipo de auriculares</string>
   <string name="battery_low_percent_format">%d%% pendiente</string>
   <string name="battery_low_subtitle">La batería se está agotando.</string>
   <string name="battery_low_title">Conecte el cargador</string>
@@ -152,8 +155,8 @@ Use únicamente el cargador suministrado."</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">No hay aplicaciones recientes</string>
   <string name="status_bar_notification_inspect_item_title">Información de la aplicación</string>
-  <string name="status_bar_recent_guide_all">Deslice arriba para cerrar
- Deslice abajo para bloquear</string>
+     <string name="status_bar_recent_guide_all">"Deslice arriba para cerrar
+ Deslice abajo para bloquear"</string>
   <string name="status_bar_recent_guide_bottom">Deslice abajo para bloquear</string>
   <string name="status_bar_recent_guide_top">Deslice arriba para cerrar</string>
   <string name="status_bar_recent_inspect_item_title">Información de la aplicación</string>

@@ -23,7 +23,7 @@ Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Otra aplicación puede estar usando la función de grabación. Por favor verifique e inténtelo de nuevo.</string>
   <string name="error_app_internal_title">Error de la grabadora de sonidos</string>
-  <string name="error_file_access">No existe el fichero o está dañado</string>
+  <string name="error_file_access">No existe el archivo o está dañado</string>
   <string name="error_filename_illegal_char">El nombre de archivo contiene al menos un carácter no válido.</string>
   <string name="error_filename_too_long">El nombre de archivo es demasiado largo</string>
   <string name="error_sdcard_access">Incapaz de acceder a almacenamiento externo o interno</string>
@@ -37,7 +37,7 @@ Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string
   <string name="menu_settings">Ajustes</string>
   <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>
   <string name="minute">%d minutos</string>
-     <string name="no_downloading_file">Ningún fichero se está descargando.</string>
+     <string name="no_downloading_file">Ningún archivo se está descargando.</string>
   <string name="no_file">No hay grabaciones</string>
   <string name="notification_message_all_paused">May increase mobile data usage.</string>
   <string name="notification_playback">Reproduciendo…</string>
@@ -101,7 +101,7 @@ Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string
   <string name="sync_only_in_wifi_summary">La grabadora no usará datos móviles para descargar y subir grabaciones si esta opción está habilitada</string>
   <string name="sync_records">Sincronizar con Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_file_is_downloading">Este fichero se está descargando</string>
+  <string name="toast_file_is_downloading">Este archivo se está descargando</string>
   <string name="toast_max_record_time">%1$s puede grabar durante %2$s aprox.</string>
   <string name="toast_uninstall_fileexplorer">"El Explorador no está instalado"</string>
   <string name="view_list_of_recordings">Ver grabaciones</string>
