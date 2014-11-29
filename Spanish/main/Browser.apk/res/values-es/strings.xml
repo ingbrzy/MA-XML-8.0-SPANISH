@@ -28,6 +28,9 @@
   <string name="actionbar_share">Compartir</string>
   <string name="actionbar_web_search">Búsqueda en la web</string>
   <string name="adblock_notification">%d anuncios bloqueados</string>
+     <string name="adblock_rules_restore">Desbloquear</string>
+     <string name="adblock_websites_settings_empyt_hint">No ha bloqueado ninún sitio.</string>
+     <string name="adblock_websites_settings_title">Sitios bloqueados</string>
   <string name="add_bookmark">Agregar un marcador</string>
   <string name="add_bookmark_group">Agregar grupo</string>
   <string name="add_folder">Agregar carpeta</string>
@@ -119,6 +122,10 @@
   <string name="clear_history_group">Borrar historial (%s paginas)</string>
   <string name="clear_search_history">Borrar historial</string>
   <string name="clip_dialog_title">¿Abrir la URL copiada?</string>
+     <string name="close_ads_choice_no">Permitir</string>
+     <string name="close_ads_choice_yes">Bloquear</string>
+     <string name="close_ads_message">"¿Bloquear el contenido de este sitio web? Puede ver los sitios que ha bloqueado en Ajustes &gt; Avanzado &gt; Sitios bloqueados."</string>
+     <string name="close_ads_title">¿Bloquear contenido?</string>
   <string name="close_all_tab_alert_message">¿Cerrar todas las pestañas?</string>
   <string name="close_all_tab_alert_title">Cerrar todas las pestañas</string>
   <string name="close_cloud_tab_tip">¿Cerrar todas las ventanas de%s?</string>
@@ -176,6 +183,9 @@
   <string name="copy_url">Copiar URL</string>
   <string name="create_qr_code">Código QR</string>
   <string name="create_shortcut_bookmark">Agregar un acceso directo a la página de inicio</string>
+     <string name="data_traffic_prompt_change">Usar su conexión de datos para ver vídeos incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
+     <string name="data_traffic_prompt_message">Usar la conexión de datos para navegar incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
+     <string name="data_traffic_prompt_title">Aviso de uso de datos</string>
   <string name="date_picker_dialog_clear">Limpiar</string>
   <string name="date_picker_dialog_other_button_label">Otros</string>
   <string name="date_picker_dialog_set">Establecer</string>
@@ -241,6 +251,9 @@
   <string name="filename_empty_alert_message">Introduzca un nombre de archivo</string>
   <string name="filename_illegal_alert_message">Un carácter no válido se quitó del nombre de archivo</string>
   <string name="find_on_page">Encontrar en la página</string>
+     <string name="find_on_page_cancel">Cancelar</string>
+     <string name="find_on_page_next">Siguiente</string>
+     <string name="find_on_page_prev">Anterior</string>
   <string name="folder_name">Nombre de la carpeta</string>
   <string name="forward">Adelante</string>
   <string name="general_set_default_browser_dialog_close_txt">Cerrar</string>
@@ -284,6 +297,7 @@
   <string name="location">Dirección</string>
   <string name="low_memory_error">No se puede completar la anterior operación debido a la poca memoria</string>
   <string name="max_tabs_warning">Limite de pestañas alcanzado</string>
+     <string name="maximum_input_alert">Máxima entrada 2048 caracteres</string>
   <string name="media_player_error_button">Correcto</string>
   <string name="media_player_error_text_invalid_progressive_playback">"No se puede transmitir este video"</string>
   <string name="media_player_error_text_unknown">"No se puede reproducir el vídeo"</string>
@@ -665,6 +679,8 @@
   <string name="up_to_loading_tips">Soltar para refrescar</string>
   <string name="uploads_disabled">Carga de archivos está deshabilitada</string>
   <string name="url_copy_done">URL copiado en el portapapeles</string>
+     <string name="url_find_on_page_result">Ver en el Navegador</string>
+     <string name="url_find_on_page_result_item">Ver todo el texto de \"%s\"</string>
   <string name="url_hint">Busqué o escriba URL</string>
   <string name="url_opened_in_background">Abrir en una pestaña de fondo</string>
   <string name="url_suggest_indicator_bookmark">Marcadores/historial</string>
@@ -678,6 +694,9 @@
   <string name="v5_deselect_all">Deseleccionar todo</string>
   <string name="v5_edit_mode_title_empty">0 seleccionados</string>
   <string name="v5_select_all">Seleccionar todo</string>
+     <string name="video_project_button">Detener</string>
+     <string name="video_project_msg">Proyectando en %s</string>
+     <string name="video_project_title">Pantalla externa</string>
   <string name="video_title">Video</string>
   <string name="view_certificate">Ver certificado</string>
   <string name="voice_sub_title">"¿No sé que decir? Trate de abrir mi.com!"</string>
