@@ -85,6 +85,11 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el
   <string name="master_alert_notif_dspt_add">"%s no han sido sincronizados."</string>
   <string name="master_alert_notif_dspt_no">"Todo está actualizado."</string>
   <string name="master_alert_notif_title">Última sincronización hace %s días</string>
+     <string name="micloud_check_sim_notify_text">Parece que Vd. ha cambiado de SIM.
+Inicie sesión en su Mi Account para reactivar Mi Cloud.</string>
+     <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
+     <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
+to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_fail">falló</string>
   <string name="micloud_detail_lastest">sincronizado</string>
   <string name="micloud_detail_pending">pendiente</string>
@@ -166,6 +171,8 @@ Puede habilitar o deshabilitar esta característica en cualquier momento en Ajus
   <string name="only_in_wlan">Usar sólo WiFi</string>
   <string name="other_settings">Otros ajustes</string>
   <string name="password">Introduzca su contraseña</string>
+     <string name="phone_number_may_required_dspt_provision">"Este servicio puede requerir su número de teléfono. "</string>
+     <string name="phone_number_required_dspt_provision">"Este servicio requiere su número de teléfono. "</string>
   <string name="photo">Fotos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronizar imágenes de perfil de contactos sólo estando conectado a una red WiFi"</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>

@@ -8,12 +8,16 @@
   <string name="auth_notif_message">Tipo de clave de sesión para %1$s</string>
   <string name="auth_notif_ticker">Solicitud de autenticación OBEX</string>
   <string name="auth_notif_title">Clave de sesión</string>
+     <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
+     <string name="bluetooth_preference_found_devices">Dispositivos disponibles</string>
+     <string name="bluetooth_preference_scan_title">Búsqueda de dispositivos</string>
+     <string name="bluetooth_search_for_devices">Buscar dispositivos</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">Cancelar</string>
   <string name="bt_enable_line1">Para utilizar los servicios de Bluetooth, primero debes activar Bluetooth.</string>
   <string name="bt_enable_line2">¿Encender Bluetooth ahora?</string>
   <string name="bt_enable_ok">Encender</string>
-  <string name="bt_enable_title"/>
+     <string name="bt_enable_title" />
   <string name="bt_error_btn_ok">Correcto</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"No hay suficiente espacio en el almacenamiento USB para guardar el archivo \"%1$s\""</string>
@@ -29,6 +33,7 @@
   <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Eliminar todos los registros</string>
   <string name="delete_record">Eliminar registros</string>
+     <string name="device_picker">Selector de dispositivo Bluetooth</string>
   <string name="download_cancel">Parar</string>
   <string name="download_fail_line1">Archivo no recibido</string>
   <string name="download_fail_line2">Archivo: %1$s</string>
@@ -37,7 +42,7 @@
   <string name="download_line1">Desde: \"%1$s\"</string>
   <string name="download_line2">Archivo: %1$s</string>
   <string name="download_line3">Tamaño del archivo: %1$s</string>
-  <string name="download_line4"/>
+     <string name="download_line4" />
   <string name="download_line5">Recibiendo archivo…</string>
   <string name="download_ok">Ocultar</string>
   <string name="download_succ_line5">Archivo recibido</string>
@@ -92,8 +97,9 @@
   <string name="permlab_bluetoothShareManager">Accede al gestor de descargas.</string>
   <string name="permlab_bluetoothWhitelist">Acceso a la lista blanca de dispositivos bluetooth.</string>
   <string name="permlab_handoverStatus">Recibir transmisiones BT.</string>
-  <string name="process"/>
-  <string name="sharedUserId"/>
+     <string name="process" />
+     <string name="progress_scanning">Buscando</string>
+     <string name="sharedUserId" />
   <string name="start_server">Iniciar servidor TCP</string>
   <string name="status_canceled">Transferencia cancelada por el usuario.</string>
   <string name="status_connection_error">Conexión sin éxito.</string>

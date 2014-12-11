@@ -58,7 +58,6 @@
   <string name="auto_create_recent_album_confirm">"Galería borrará los datos del álbum Favoritos. Los álbumes marcados manualmente como favoritos no se verán afectados."</string>
   <string name="auto_create_recent_album_over_ten_times">Un álbum sera marcado como Favorito al abrirlo más de 10 veces</string>
      <string name="auto_upload_album_comfirm_to_share">Es un álbum que se subirá automáticamente, ¿está seguro de querer compartirlo?</string>
-     <string name="auto_upload_tip">Album with the same name will be created after enabled. Existed album (including share album which you share to others) with the same name will be merged.</string>
      <string name="auto_upload_title">Upload automatically</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
@@ -482,8 +481,6 @@
   <string name="cloud_media_set_set">Nube</string>
   <string name="cloud_owner_album_share_guide">Comparte este álbum con amigos</string>
   <string name="cloud_screenshots_display_name">Capturas de pantalla</string>
-  <string name="cloud_share_guide_message">"Comparta sus fotos con amigos. Vea y actualice sus álbumes desde cualquier lugar. "</string>
-  <string name="cloud_share_guide_title">Compartir es fácil</string>
   <string name="cloud_tab_albums">Álbumes</string>
   <string name="cloud_tab_all">Todo</string>
   <string name="cloudfolder_already_exists">Ya existe una carpeta con el mismo nombre</string>
@@ -713,6 +710,10 @@
   <string name="miui_capture_screen_folder_display_name">Capturas de pantalla</string>
   <string name="miui_wallpaper">Fondo de escritorio</string>
   <string name="modified_time">Modificado</string>
+     <string name="moman">MomanCamera</string>
+     <string name="moman_camera_drawing">Dibujo Moman Camera</string>
+     <string name="moman_camera_icon">Emoticono Moman Camera</string>
+     <string name="moman_camera_picture">Fotografías Moman Camera</string>
   <string name="more">Más</string>
   <string name="move">Mover</string>
   <string name="move_to_cloud_album">Mover a</string>
@@ -787,6 +788,9 @@
   <string name="picker_no_items_selected">Ningún artículo seleccionado</string>
   <string name="picker_select_album_title_empty">Seleccione un álbum</string>
   <string name="picker_tab_photo">Foto</string>
+     <string name="pocket_camera_picture">Fotografías Pocket Camera</string>
+     <string name="pocket_camera_video">Vídeos Pocket Camera</string>
+     <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Posterizar</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Preparando para borrar imágenes…</string>
@@ -883,7 +887,7 @@
   <string name="show_images_only">Sólo imágenes</string>
   <string name="show_on_map">Mostrar en el mapa</string>
   <string name="show_videos_only">Sólo vídeos</string>
-  <string name="sina_weibo_save">Weibo</string>
+     <string name="sina_weibo">Weibo</string>
   <string name="size_above">%1$s o superior</string>
   <string name="size_below">%1$s o inferior</string>
   <string name="size_between">%1$s a %2$s</string>
@@ -912,6 +916,7 @@
   <string name="sync_only_in_wifi">Sólo utilizar WiFi para subir fotos</string>
   <string name="sync_only_in_wifi_alert">Desactivar esta opción puede aumentar el uso de datos móviles.</string>
   <string name="sync_only_in_wifi_summary">Impedir que Galería suba fotos usando la conexión de datos móviles</string>
+     <string name="sync_third_party_app_pic_summary">Subir automáticamente fotos desde algunas carpetas de aplicación a su nube</string>
   <string name="system_album">Álbum de sistema</string>
   <string name="tab_all_text">Establecer ambos</string>
   <string name="tab_lockscreen_text">Pantalla de bloqueo</string>

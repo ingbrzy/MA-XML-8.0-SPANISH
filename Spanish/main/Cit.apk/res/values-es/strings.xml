@@ -92,7 +92,9 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_gps_check_summary">La correspondiente información GPS debe ser exhibida por debajo.</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"GPS no se ha iniciado toque la pantalla para iniciar el GPS…"</string>
-  <string name="cit_gps_satellite_count">Numero de satelites: %d</string>
+     <string name="cit_gps_first_fix_time">Hora fijada: %s</string>
+     <string name="cit_gps_location">Ubicación: %s</string>
+  <string name="cit_gps_satellite_count">Numero de satélites: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Los valores para X，Y，Z, coordenadas deben aparecer debajo de</string>

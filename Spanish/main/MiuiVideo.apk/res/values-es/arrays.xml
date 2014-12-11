@@ -6,21 +6,13 @@
     <item>Rank</item>
     <item>Más reciente</item>
   </string-array>
-  <string-array name="channel_featured_tabs">
-    <item>Elegido</item>
-    <item>Rank</item>
-    <item>Más reciente</item>
+  <string-array name="movie_channel_tabs">
+     <item>Recomendadas</item>
+     <item>Por ranking</item>
+     <item>Más recientes</item>
   </string-array>
-  <string-array name="home_tabs">
-    <item>En Línea</item>
-    <item>Local</item>
-  </string-array>
-  <string-array name="series_detail_tabs">
-    <item>Episodio</item>
-    <item>Resumen</item>
-  </string-array>
-  <string-array name="addon_list_tabs">
-    <item>Todos especiales</item>
-    <item>Mi especialidad</item>
+     <string-array name="variety_channel_tabs">
+        <item>Recomendados</item>
+        <item>Recientes</item>
   </string-array>
 </resources>
