@@ -567,7 +567,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="color_yellow">Amarillo</string>
   <string name="common_settings">Ajustes rápidos</string>
   <string name="complete_settings">Ajustes generales</string>
-  <string name="computing_size">Informática…</string>
+  <string name="computing_size">Calculando…</string>
   <string name="config_list_label">Redes configuradas</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
@@ -1021,6 +1021,10 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="global_locale_change_title">Cambiar lenguaje</string>
   <string name="google_backup_section_title">Restaurar copia de seguridad de Google</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a WiFi</string>
+  <string name="handy_mode">Operación con una mano</string>
+  <string name="handy_mode_enable">Operación con una mano</string>
+  <string name="handy_mode_size">Tamaño de la pantalla</string>
+  <string name="handy_mode_tips">Deslice a la izquierda o a la derecha desde el botón Home para acercar la pantalla a un lado o a otro.</string>
   <string name="haptic_feedback_enable_title">Vibrar al tocar</string>
   <string name="haptic_feedback_level">Vibración</string>
   <string name="hardkeyboard_category">Ajustes de teclado físico</string>
@@ -2867,8 +2871,8 @@ La configuración del teléfono puede necesitar gran tráfico de datos."</string
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Escalar animación de ventana</string>
   <string name="wireless_networks_settings_title">Redes y WiFi</string>
-  <string name="wireless_off">Apagar</string>
-  <string name="wireless_on">Encender</string>
+  <string name="wireless_off">Apagado</string>
+  <string name="wireless_on">Encendido</string>
   <string name="wizard_back">Volver</string>
   <string name="wizard_finish">Finalizar</string>
   <string name="wizard_next">Siguiente</string>
