@@ -57,7 +57,7 @@
   <string name="add_account_label">Añadir una cuenta</string>
   <string name="aerr_application">Se ha detenido la aplicación %1$s.</string>
   <string name="aerr_process">Se ha detenido el proceso %1$s.</string>
-     <string name="aerr_title" />
+  <string name="aerr_title"/>
   <string name="allow">Permitir</string>
   <string name="alwaysUse">Usar siempre para esta acción</string>
   <string name="android_system_label">Sistema Android</string>
@@ -75,7 +75,7 @@
   <string name="anr_process">"El proceso %1$s no responde.
 
 ¿Quieres cerrarlo?"</string>
-     <string name="anr_title" />
+  <string name="anr_title"/>
   <string name="app_no_restricted_accounts">Esta aplicación no admite cuentas de perfiles restringidos</string>
   <string name="app_not_found">No se ha encontrado ninguna aplicación que pueda realizar esta acción.</string>
   <string name="app_running_notification_text">Toca para obtener más información o para detener la aplicación.</string>
@@ -84,8 +84,8 @@
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
   <string name="autofill_address_summary_separator">", "</string>
-     <string name="autofill_address_type_same_as_re">igual que</string>
-     <string name="autofill_address_type_use_my_re">use mi</string>
+  <string name="autofill_address_type_same_as_re">igual que</string>
+  <string name="autofill_address_type_use_my_re">use mi</string>
   <string name="autofill_area">Área</string>
   <string name="autofill_county">Condado</string>
   <string name="autofill_department">Departamento</string>
@@ -131,7 +131,7 @@
   <string name="choose_account_label">Selecciona una cuenta</string>
   <string name="chooser_wallpaper">Cambiar fondo de pantalla</string>
   <string name="clearDefaultHintMsg">Para borrar los valores predeterminados, accede a Ajustes del sistema &gt; Aplicaciones &gt; Descargadas.</string>
-     <string name="common_last_name_prefixes" />
+  <string name="common_last_name_prefixes"/>
   <string name="common_name">Nombre común:</string>
   <string name="configure_input_methods">Configurar métodos de entrada</string>
   <string name="contentServiceSync">Sincronización</string>
@@ -285,7 +285,7 @@ con %s"</string>
   <string name="granularity_label_line">línea</string>
   <string name="granularity_label_link">enlace</string>
   <string name="granularity_label_word">palabra</string>
-     <string name="gsm_alphabet_default_charset" />
+  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Hardware</string>
   <string name="heavy_weight_notification">%1$s en ejecución</string>
   <string name="heavy_weight_notification_detail">Toca esta opción para cambiar a la aplicación.</string>
@@ -440,7 +440,7 @@ Inténtalo de nuevo en %d segundos."</string>
   <string name="launch_warning_title">Aplicación redireccionada</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Cargando…</string>
-     <string name="locale_replacement" />
+  <string name="locale_replacement"/>
   <string name="lock_pattern_view_aspect">cuadrado</string>
   <string name="lockscreen_access_pattern_cell_added">Se ha añadido una celda.</string>
   <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
@@ -623,8 +623,8 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="mmiComplete">MMI completo</string>
   <string name="mmiError">Se ha producido un problema de conexión o el código MMI no es válido.</string>
   <string name="mmiFdnError">La operación solo es válida para números de marcación fija.</string>
-     <string name="mobile_provisioning_apn" />
-     <string name="mobile_provisioning_url" />
+  <string name="mobile_provisioning_apn"/>
+  <string name="mobile_provisioning_url"/>
   <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
   <string name="more_item_label">Más</string>
   <string name="needPuk">La tarjeta SIM está bloqueada con el código PUK. Introduce el código PUK para desbloquearla.</string>
@@ -1506,8 +1506,8 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="weeks">semanas</string>
   <string name="whichApplication">Completar acción utilizando</string>
   <string name="whichHomeApplication">Seleccionar una aplicación en la pantalla de inicio</string>
-     <string name="widget_default_class_name" />
-     <string name="widget_default_package_name" />
+  <string name="widget_default_class_name"/>
+  <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Iniciar sesión en red WiFi</string>
   <string name="wifi_display_notification_connected_message">Conectado a %1$s</string>
   <string name="wifi_display_notification_connected_title">Enviando pantalla</string>

@@ -59,12 +59,12 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="Generic_Version">Versión %1$s</string>
   <string name="HIPS_Action_Accept">Permitir</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Permitir&lt;/font&gt;</string>
-     <string name="HIPS_Action_Accept_Once">Permitir una vez</string>
+  <string name="HIPS_Action_Accept_Once">Permitir una vez</string>
   <string name="HIPS_Action_Prompt">Preguntar</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Pronto&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Denegado</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Denegado&lt;/font&gt;</string>
-     <string name="HIPS_Action_Reject_Once">Denegar una vez</string>
+  <string name="HIPS_Action_Reject_Once">Denegar una vez</string>
   <string name="HIPS_Group_DataPrivacy">Privacidad</string>
   <string name="HIPS_Group_Expense">Seguridad</string>
   <string name="HIPS_Group_Internet">Internet</string>
@@ -157,18 +157,18 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="HIPS_Perm_ROOT_Desc">La aplicación podrá obtener el permiso de ROOT</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s aplicaciones pueden obtener el permiso de ROOT</string>
   <string name="HIPS_Perm_ROOT_Title">La aplicación podrá obtener permisos de ROOT</string>
-     <string name="HIPS_Perm_Read_Call_Log">Leer registro de llamadas</string>
-     <string name="HIPS_Perm_Read_Call_Log_Desc">leer registro de llamadas</string>
-     <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s aplicaciones pueden leer su registro de llamadas</string>
-     <string name="HIPS_Perm_Read_Contact">Leer sus contactos</string>
-     <string name="HIPS_Perm_Read_Contact_Desc">leer sus contactos</string>
-     <string name="HIPS_Perm_Read_Contact_Hint">%1$s aplicaciones pueden leer sus contactos</string>
-     <string name="HIPS_Perm_Read_MMS">Leer mensajes MMS</string>
-     <string name="HIPS_Perm_Read_MMS_Desc">leer sus mensajes multimedia</string>
-     <string name="HIPS_Perm_Read_MMS_Hint">%1$s aplicaciones pueden leer sus mensajes multimedia</string>
-     <string name="HIPS_Perm_Read_SMS">Leer SMS</string>
-     <string name="HIPS_Perm_Read_SMS_Desc">leer sus SMS</string>
-     <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplicaciones pueden leer sus SMS</string>
+  <string name="HIPS_Perm_Read_Call_Log">Leer registro de llamadas</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">leer registro de llamadas</string>
+  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s aplicaciones pueden leer su registro de llamadas</string>
+  <string name="HIPS_Perm_Read_Contact">Leer sus contactos</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">leer sus contactos</string>
+  <string name="HIPS_Perm_Read_Contact_Hint">%1$s aplicaciones pueden leer sus contactos</string>
+  <string name="HIPS_Perm_Read_MMS">Leer mensajes MMS</string>
+  <string name="HIPS_Perm_Read_MMS_Desc">leer sus mensajes multimedia</string>
+  <string name="HIPS_Perm_Read_MMS_Hint">%1$s aplicaciones pueden leer sus mensajes multimedia</string>
+  <string name="HIPS_Perm_Read_SMS">Leer SMS</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">leer sus SMS</string>
+  <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplicaciones pueden leer sus SMS</string>
   <string name="HIPS_Perm_Recorder_Audio">La aplicación podrá grabar audio</string>
   <string name="HIPS_Perm_Recorder_AudioVideo">La aplicación podrá grabar audio y vídeo</string>
   <string name="HIPS_Perm_Recorder_Camera">La aplicación podrá tomar fotos</string>
@@ -212,12 +212,12 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="HIPS_Perm_Wakelock">Dormir</string>
   <string name="HIPS_Perm_Wakelock_Desc">La aplicación podrá impedir la dormida del dispositivo</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplicación puede impedir la dormida del dispositivo</string>
-     <string name="HIPS_Perm_Xiaomi_Account">Mi Account</string>
-     <string name="HIPS_Perm_Xiaomi_Account_Desc">acceder a su Mi Account</string>
-     <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicaciones pueden acceder a su Mi Account</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Mi Account</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">acceder a su Mi Account</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicaciones pueden acceder a su Mi Account</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Permitir</string>
-     <string name="HIPS_SecurityPrompt_Accept_Once">Permitir una vez (%d)</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Permitir una vez (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Advertencia de seguridad</string>
   <string name="HIPS_SecurityPrompt_Next">Siguiente</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Acceso root</string>
@@ -228,7 +228,7 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Conceder acceso root a las aplicaciones bajo su propio riesgo.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">¿Conceder a %1$s acceso de root?</string>
   <string name="HIPS_SecurityPrompt_Reject">Denegar (%d)</string>
-     <string name="HIPS_SecurityPrompt_Reject_Once">Denegar una vez (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Denegar una vez (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">"No volver a preguntar"</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s esta tratando de %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permisos</string>
@@ -253,5 +253,5 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="SysOpt_Boost_Boot">Inicio</string>
   <string name="SysOpt_Boost_Receiver">Fondo</string>
   <string name="app_name">Gestor de permisos</string>
-     <string name="permisson_reject_notice_toast_text">"\"%1$s\" no tiene permiso para %2$s. Puede cambiar los permisos de la aplicación en cualquier momento Seguridad &gt; Permisos."</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" no tiene permiso para %2$s. Puede cambiar los permisos de la aplicación en cualquier momento Seguridad &gt; Permisos."</string>
 </resources>

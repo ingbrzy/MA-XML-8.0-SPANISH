@@ -90,10 +90,10 @@
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
-     <string name="pref_camera_coloreffect_entry_negative" />
+  <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
-     <string name="pref_camera_coloreffect_entry_posterize" />
-     <string name="pref_camera_coloreffect_entry_sepia" />
+  <string name="pref_camera_coloreffect_entry_posterize"/>
+  <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_entry_seventy">años 70</string>
   <string name="pref_camera_coloreffect_entry_sketch">Dibujo</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vivid</string>
@@ -115,7 +115,6 @@
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Automático</string>
-
   <string name="pref_camera_facedetection_title">Detección facial</string>
   <string name="pref_camera_flashmode_entry_auto">Automático</string>
   <string name="pref_camera_flashmode_entry_off">Apagado</string>
@@ -150,7 +149,7 @@
   <string name="pref_camera_jpegquality_entry_low">Baja</string>
   <string name="pref_camera_jpegquality_entry_normal">Estándar</string>
   <string name="pref_camera_jpegquality_title">Calidad de imagen</string>
-     <string name="pref_camera_long_pressing_shutter_title">Pulse y mantenga el botón Obturador para fijar AE/AF/AWB</string>
+  <string name="pref_camera_long_pressing_shutter_title">Pulse y mantenga el botón Obturador para fijar AE/AF/AWB</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_movie_solid_title">Estabilizador de imagen</string>
   <string name="pref_camera_multilevel_entry_high">Alta</string>
@@ -293,8 +292,8 @@
   <string name="save">Si</string>
   <string name="see_qrcode_detals">Ver detalles</string>
   <string name="setting_top_text">Opciones</string>
-     <string name="simple_mode_button_asd_flash">Cerrar captura Flash</string>
-     <string name="simple_mode_button_asd_hdr">Cerrar captura HDR</string>
+  <string name="simple_mode_button_asd_flash">Cerrar captura Flash</string>
+  <string name="simple_mode_button_asd_hdr">Cerrar captura HDR</string>
   <string name="simple_mode_button_text_audio_capture">Cerrar captura de audio</string>
   <string name="simple_mode_button_text_color_effect">Cerrar filtro</string>
   <string name="simple_mode_button_text_countdown">Cerrar cuenta atrás</string>
@@ -321,5 +320,5 @@
   <string name="ubifocus_capture_warning_message">Para obtener mejores resultados, su imagen debe contener objetos cercanos (menos de 1 metro de la lente) y lejanos</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Alcanzado el límite de tamaño.</string>
-  <string name="wait">Espera&#8230;</string>
+  <string name="wait">Espera…</string>
 </resources>

@@ -133,8 +133,8 @@
   <string name="gong_count_xiang">%d items</string>
   <string name="good">Aceptar</string>
   <string name="guess_you_like">Recomendaciones</string>
-     <string name="hint_can_not_get_source_info">No se pudo obtener info del vídeo</string>
-     <string name="hint_without_selected_set">Find content source automatically</string>
+  <string name="hint_can_not_get_source_info">No se pudo obtener info del vídeo</string>
+  <string name="hint_without_selected_set">Find content source automatically</string>
   <string name="hot_recommend">Tendencias</string>
   <string name="icntv">iCNTV</string>
   <string name="imports">Importar</string>
@@ -146,7 +146,7 @@
   <string name="key_back_down_toast">Para salir, pulse volver de nuevo</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="loading"><CDATA>Cargando…</CDATA></string>
+  <string name="loading">&lt;CDATA&gt;Cargando&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">Cargando…</string>
   <string name="loading_video_netplay_label_v5">Cargando…</string>
   <string name="local_detail_more">%d mas vídeos</string>
@@ -267,13 +267,13 @@
   <string name="update_size_prefix">&lt;CDATA&gt;Tamaño:&lt;/CDATA&gt;</string>
   <string name="update_title">Actualización disponible</string>
   <string name="update_to_count_ji">Actualizado a EP. %d</string>
-     <string name="update_version_prefix">&lt;CDATA&gt;Actualizar a versión:&lt;/CDATA&gt;</string>
+  <string name="update_version_prefix">&lt;CDATA&gt;Actualizar a versión:&lt;/CDATA&gt;</string>
   <string name="updatedalready">Actualizado</string>
   <string name="upgrade">Actualización</string>
   <string name="use_cellular_network">Usa la red de datos movil</string>
   <string name="use_cellular_network_summary">Usa conexión de datos móvil. Puede incrementar el uso de datos.</string>
-     <string name="use_cellular_offlinedownload_summary">Mostrar notificación al usar datos móviles para descargar vídeo</string>
-     <string name="use_cellular_offlinedownload_title">Download notification</string>
+  <string name="use_cellular_offlinedownload_summary">Mostrar notificación al usar datos móviles para descargar vídeo</string>
+  <string name="use_cellular_offlinedownload_title">Download notification</string>
   <string name="use_cellular_play_summary">Avisar para ahorrar en datos.</string>
   <string name="use_cellular_play_title">Consejos sobre vídeo por red 2G/3G/4G</string>
   <string name="userdata_alert_content">Esta usando la red de datos móvil, puede producirse alta carga de trafico, seguro que quieres continuar?</string>

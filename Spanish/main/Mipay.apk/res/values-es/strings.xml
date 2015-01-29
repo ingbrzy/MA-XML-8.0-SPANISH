@@ -4,7 +4,7 @@
   <string name="mipay_agreement">Acepto %1$s</string>
   <string name="mipay_alipay">Alipay</string>
   <string name="mipay_alipay_error">Alipay falló</string>
-     <string name="mipay_bank_card_already_open">Hecho</string>
+  <string name="mipay_bank_card_already_open">Hecho</string>
   <string name="mipay_bank_card_cvv2">CVV2</string>
   <string name="mipay_bank_card_cvv2_hint">CVV2</string>
   <string name="mipay_bank_card_error_title">Por favor, compruebe la información de su tarjeta bancaria</string>
@@ -15,7 +15,7 @@
   <string name="mipay_bank_card_logo_desc">Logo del banco</string>
   <string name="mipay_bank_card_name">Nombre</string>
   <string name="mipay_bank_card_name_hint">Nombre asociado a la cuenta</string>
-     <string name="mipay_bank_card_need_open_china_union_card">Su tarjeta no se puede usar para pagos en línea de UnionPay. Para activar esta característica visite %1$s</string>
+  <string name="mipay_bank_card_need_open_china_union_card">Su tarjeta no se puede usar para pagos en línea de UnionPay. Para activar esta característica visite %1$s</string>
   <string name="mipay_bank_card_number_error">Compruebe su número de cuenta</string>
   <string name="mipay_bank_card_phone">Teléfono</string>
   <string name="mipay_bank_card_phone_hint">"Cuenta bancaria correspondiente al nº de teléfono"</string>
@@ -74,8 +74,8 @@
   <string name="mipay_common_license">Condiciones de Uso</string>
   <string name="mipay_counter_app_name">Tarjetas bancarias</string>
   <string name="mipay_create_order_progress">Tramitando pedido…</string>
-     <string name="mipay_date_picker_label_month" />
-     <string name="mipay_date_picker_label_year" />
+  <string name="mipay_date_picker_label_month"/>
+  <string name="mipay_date_picker_label_year"/>
   <string name="mipay_denom_unit">RMB</string>
   <string name="mipay_error_account_changed">"La información de su cuenta ha cambiado.
 Inicie sesión."</string>
@@ -106,8 +106,8 @@ Verifique la fecha e inténtelo de nuevo."</string>
   <string name="mipay_nfc_record_empty">Sin registros</string>
   <string name="mipay_nfc_record_title">Registros</string>
   <string name="mipay_nfc_shop_name_default">Compañía Sin Nombre</string>
-     <string name="mipay_nfc_support_list_tip">&lt;u&gt;Tarjetas admitidas&lt;/u&gt;</string>
-     <string name="mipay_nfc_support_tip">Use su dispositivo Mi en cualquier lugar que que admita NFC, desde Cajeros Automáticos a transporte público.</string>
+  <string name="mipay_nfc_support_list_tip">&lt;u&gt;Tarjetas admitidas&lt;/u&gt;</string>
+  <string name="mipay_nfc_support_tip">Use su dispositivo Mi en cualquier lugar que que admita NFC, desde Cajeros Automáticos a transporte público.</string>
   <string name="mipay_nfc_tail_num_hint">Núm: %1$s</string>
   <string name="mipay_nfc_trade_times_title">Actividad de pagos</string>
   <string name="mipay_nfc_trans_card_details_title">Tarjeta Trans</string>
@@ -115,7 +115,7 @@ Verifique la fecha e inténtelo de nuevo."</string>
   <string name="mipay_nfc_warning_suport">*Esta función sólo soporta tarjetas trans opcionales</string>
   <string name="mipay_nfc_warning_toast_move">Demasiado rápido</string>
   <string name="mipay_nfc_warning_toast_support">Esta tarjeta no está soportada</string>
-     <string name="mipay_nfc_warning_toast_unknown">Algo ha ido mal</string>
+  <string name="mipay_nfc_warning_toast_unknown">Algo ha ido mal</string>
   <string name="mipay_order_bank_card_info">%1$s %2$s (Tarjeta no. %3$s) %4$s</string>
   <string name="mipay_order_change">Reemplazar</string>
   <string name="mipay_order_choose">Usar:</string>

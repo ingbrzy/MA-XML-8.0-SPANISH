@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="SMS_and_MMS">SMS y MMS</string>
+  <string name="SMS_and_MMS">SMS y MMS</string>
   <string name="Settings_title_anti_spam">Configuración antispam</string>
   <string name="Settings_title_anti_virus">Configuración de antivirus</string>
   <string name="Settings_title_garbage_cleanup">Ajustes de limpieza de archivos residuales</string>
@@ -115,7 +115,7 @@
   <string name="cache_title_empty_folder">Carpeta vacía (%d)</string>
   <string name="cache_title_empty_folder2">Carpeta vacía</string>
   <string name="cache_title_system_cache">Caché del sistema</string>
-     <string name="call_and_contact">Llamadas y Contactos</string>
+  <string name="call_and_contact">Llamadas y Contactos</string>
   <string name="cancel">Cancelar</string>
   <string name="cta_button_text_agree">De acuerdo</string>
   <string name="cta_button_text_cancel">Cancelar</string>
@@ -254,7 +254,7 @@
   <string name="hints_virus_lib_update_default_summary">Ultima actualización: desconocida</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"Esta es una aplicación de alto riesgo para la seguridad de su smartphone."</string>
-     <string name="info_and_call">Llamdas y mensajes</string>
+  <string name="info_and_call">Llamdas y mensajes</string>
   <string name="item_app_permission">Permisos de aplicación</string>
   <string name="item_dev_mode">Opciones de desarrollo</string>
   <string name="item_garbage_size_1000m">1Gb</string>
@@ -284,7 +284,6 @@
   <string name="legal_workday_invalidate">Fecha expirada (Actualmente llamadas de Lunes a Viernes)</string>
   <string name="legal_workday_invalidate_message">(Fecha expirada, toque para actualizar la conexión)</string>
   <string name="legal_workday_message">(Skip holidays smartly)</string>
-
   <string name="manual_handle_title">CARACTERÍSTICAS DISPONIBLES</string>
   <string name="manual_item_white_list_summary">Evitar que las aplicaciones seleccionadas sean optimizadas</string>
   <string name="manual_item_white_list_title">Excepciones</string>
@@ -353,8 +352,8 @@
   <string name="permission_permission_control_closed_desc_dialog_msg">"Las aplicaciones no le pedirán permiso para leer sus contactos, ver el registro de llamadas, cambiar ajustes del sistema o acceder a la cámara u otros recursos. Puede Vd. activar esta característica en Ajustes de Permisos."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">El Administrador de Permisos está desactivado</string>
   <string name="permission_send_sms_descx">Aplicaciones pueden enviar mensajes SMS y MMS</string>
-     <string name="permission_with_SMS_and_MMS">Permisos relativos a SMS y MMS</string>
-     <string name="permission_with_call_and_contact">Permisos relativos a llamadas de teléfono, información de contactos y registro de llamadas.</string>
+  <string name="permission_with_SMS_and_MMS">Permisos relativos a SMS y MMS</string>
+  <string name="permission_with_call_and_contact">Permisos relativos a llamadas de teléfono, información de contactos y registro de llamadas.</string>
   <string name="power_20s_enter_mode">Cuando la batería esté en %1$ds cambiar a %2$s</string>
   <string name="power_apply_toast">Cambiado a %s</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -459,7 +458,7 @@
   <string name="power_mode_cpu_state_save_desc">Priorizar duración de batería por encima del rendimiento</string>
   <string name="power_mode_gps">GPS</string>
   <string name="power_mode_internet">Redes moviles</string>
-     <string name="power_mode_keep_state">No cambiar</string>
+  <string name="power_mode_keep_state">No cambiar</string>
   <string name="power_mode_my_mode">Mi perfil</string>
   <string name="power_mode_my_mode_summary">Guardar los ajustes de batería actuales</string>
   <string name="power_mode_screen_brightness">Brillo</string>
@@ -588,7 +587,7 @@
   <string name="text_antivirus">Usar definiciones de virus en línea</string>
   <string name="text_optimizer">Usar Cleaner en línea</string>
   <string name="title_antivirus">Escanear Virus</string>
-     <string name="title_app_update">Actualizaciones disponibles</string>
+  <string name="title_app_update">Actualizaciones disponibles</string>
   <string name="title_app_update_no">%d aplicaciones están pendientes de actualizar</string>
   <string name="title_app_update_yes">¡Todas actualizadas!</string>
   <string name="title_cleaner_cloudscan">Usar Cleaner en línea</string>

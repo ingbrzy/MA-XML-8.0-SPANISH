@@ -154,11 +154,11 @@
   <string name="composer_has_no_exportable_contact">No hay contactos exportables. Si usted tiene contactos en su teléfono, tenga en cuenta que algunos proveedores de datos no permiten exportar los contactos desde el teléfono.</string>
   <string name="composer_not_initialized">"El generador de vCard no inició correctamente."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
-     <string name="config_export_extensions_to_consider" />
+  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-     <string name="config_export_file_prefix" />
-     <string name="config_export_file_suffix" />
-     <string name="config_prohibited_phone_number_regexp" />
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">¿Borrar registro de llamadas?</string>
   <string name="confirm_delete_selected_all_call_logs">¿Borrar registro de llamadas?</string>
   <string name="confirm_delete_sim_entry_miui">¿Eliminar %d contactos de la tarjeta SIM?</string>
@@ -342,7 +342,7 @@
   <string name="email_other">Correo electrónico</string>
   <string name="email_work">Enviar correo electrónico al trabajo</string>
   <string name="emptyGroup">Grupo sin contactos</string>
-     <string name="empty_divider_title" />
+  <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Nombre del contacto"</string>
   <string name="eventLabelsGroup">Cumpleaños</string>
   <string name="eventTypeCustom">Personalizado</string>
@@ -408,10 +408,10 @@
   <string name="group_sms_progress_msg">Agrupando…</string>
   <string name="groupsLabel">Grupos</string>
   <string name="groups_list_empty">No hay grupos</string>
-     <string name="help_url_people_add" />
-     <string name="help_url_people_edit" />
-     <string name="help_url_people_main" />
-     <string name="hint_distance" />
+  <string name="help_url_people_add"/>
+  <string name="help_url_people_edit"/>
+  <string name="help_url_people_main"/>
+  <string name="hint_distance"/>
   <string name="hint_findContacts">Encontrar contactos</string>
   <string name="hint_more_contact">Combinar contactos duplicados</string>
   <string name="ic_menu_back">Atrás</string>
@@ -579,7 +579,7 @@
   <string name="nickname_picker_name_column">Nombre de contacto</string>
   <string name="nickname_picker_nickname_column">Título</string>
   <string name="noAccounts">Para crear grupos necesita una cuenta.</string>
-     <string name="noContactHelpTextAccountsInfo" />
+  <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar datos de contactos utilizando la cuenta MI</string>
   <string name="noContacts">No hay contactos</string>
   <string name="noContactsHelpText">"No tiene ningún contacto que mostrar.
@@ -1078,7 +1078,7 @@ el contenido que busca no está actualmente disponible en su país o región."</
   <string name="success_message_import_from_account">Contacto importado</string>
   <string name="summary_kind_title">Resumen</string>
   <string name="t9_search_guide_pinyin">Pulse 7 y 9 para buscar a \'Steve Wozniak\'</string>
-     <string name="t9_search_guide_zhuyin">Pulse 7 y 9 para buscar \'Steve Wozniak\'</string>
+  <string name="t9_search_guide_zhuyin">Pulse 7 y 9 para buscar \'Steve Wozniak\'</string>
   <string name="take_new_photo">Tomar foto nueva</string>
   <string name="take_photo">Tomar foto</string>
   <string name="titleJoinContactDataWith">Combinar contactos</string>
@@ -1148,7 +1148,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowPageNavigationIconLabel">Directorio</string>
   <string name="yellowPageNavigationLabel">Directorio</string>
   <string name="yellowpage_navigation_more_items">Más</string>
-     <string name="yellowpage_navigation_more_items_title">Más servicios</string>
+  <string name="yellowpage_navigation_more_items_title">Más servicios</string>
   <string name="yellowpage_navigation_network_location_enable">Habilitar</string>
   <string name="yellowpage_navigation_network_location_enable_later">Ahora no</string>
   <string name="yellowpage_navigation_network_location_enabled">El servicio esta abierto, usted puede desactivarlo en la configuración de la ubicación</string>

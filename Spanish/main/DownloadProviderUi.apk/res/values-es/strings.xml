@@ -44,7 +44,7 @@
   <string name="download_complete">Completa</string>
   <string name="download_error">Falló</string>
   <string name="download_error_insufficient_space">Espacio insuficiente</string>
-     <string name="download_filesize_unknown">Tamañon desconocido</string>
+  <string name="download_filesize_unknown">Tamañon desconocido</string>
   <string name="download_in_process">Descargando</string>
   <string name="download_info_count_deleted_tasks">%s descargas eliminadas</string>
   <string name="download_info_start_deleted_tasks">Eliminar descargas</string>
@@ -65,7 +65,7 @@
   <string name="download_queued">En cola</string>
   <string name="download_running">En curso</string>
   <string name="download_share_dialog">Compartir mediante</string>
-     <string name="download_speed_null" />
+  <string name="download_speed_null"/>
   <string name="download_success">Completa</string>
   <string name="download_title">Descargas</string>
   <string name="download_title_sorted_by_date">Descargas - Ordenadas por fecha</string>
@@ -119,10 +119,10 @@
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar indicador de uso de datos</string>
   <string name="preferences_title">Ajustes</string>
-     <string name="privacy_tip_cancel">Cancelar</string>
-     <string name="privacy_tip_content">¿Usar el Acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su Mi Account también se subirán para comprobar si tiene Vd. alguna suscripción activa a este servicio.</string>
-     <string name="privacy_tip_ok">OK</string>
-     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="privacy_tip_cancel">Cancelar</string>
+  <string name="privacy_tip_content">¿Usar el Acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su Mi Account también se subirán para comprobar si tiene Vd. alguna suscripción activa a este servicio.</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
   <string name="remove_download">Eliminar</string>
   <string name="restart_download">Reiniciar</string>
   <string name="resume_download">Reanudar</string>
