@@ -11,7 +11,6 @@
   <string name="administrative_disable">Administrativa deshabilitada</string>
   <string name="administrative_enable">Administrativa habilitada</string>
   <string name="advanced_settings">Ajustes opcionales</string>
-  <string name="advanced_settings_container">Menú de configuración avanzada</string>
   <string name="advanced_settings_hide">▽ Toque para ocultar todo</string>
   <string name="advanced_settings_show">▷ Toque para mostrar todo</string>
   <string name="advertisements_disable">Avisos deshabilitados</string>
@@ -34,7 +33,6 @@
   <string name="apn_settings">APN</string>
   <string name="atr_disable">Informes de Tráfico Área deshabilitados</string>
   <string name="atr_enable">Informes de Tráfico de Área habilitados</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Nombre de usuario utilizado para la autenticación</string>
   <string name="auth_username_title">Usuario</string>
   <string name="auto_answer_delay_entries_delay_10s">10 segundos</string>
@@ -236,10 +234,8 @@
   <string name="disable_fdn_ok">Habilitar la FDN</string>
   <string name="disable_pin_ok">PIN de la SIM desactivado.</string>
   <string name="disable_sim_pin">Desactivar el PIN de la SIM</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">Igual que el nombre de usuario</string>
   <string name="display_name_title">Mostrar nombre</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Servidor</string>
   <string name="doneButton">Hecho</string>
   <string name="dtmf_tone_enable_title">Tonos de teclado</string>
@@ -553,7 +549,6 @@ Posiblemente necesita encontrar un área con mejor cobertura (cerca de la ventan
 Probar de nuevo o llamar a atención al cliente para más opciones."</string>
   <string name="other_settings">Otros ajustes de llamada</string>
   <string name="other_settings_category">Otros</string>
-  <string name="password">Contraseña</string>
   <string name="password_changed">Contraseña cambiada</string>
   <string name="password_title">Contraseña</string>
   <string name="payphone">Cabina telefónica</string>
@@ -587,7 +582,6 @@ El teléfono se bloqueará automáticamente después de otro intento fallido"</s
   <string name="place_a_call3">Suscripción 3</string>
   <string name="pocket_mode_summary">El teléfono se bloqueará automáticamente cuando lo guarde en el bolsillo</string>
   <string name="pocket_mode_title">Prevenir marcaciones en el bolsillo</string>
-  <string name="port">Puerto</string>
   <string name="port_title">Número de puerto</string>
   <string name="preference_auto_ip_summary_disable">Deshabilitado</string>
   <string name="preference_category_ringtone">Tono de llamada Vibrar</string>
@@ -617,7 +611,6 @@ El teléfono se bloqueará automáticamente después de otro intento fallido"</s
   <string name="private_num">Número privado</string>
   <string name="proceed">Proceder</string>
   <string name="progress_dialog_exiting_ecm">Saliendo del modo de devolución de llamada de emergencia</string>
-  <string name="proxy_address">Direcciones proxy</string>
   <string name="proxy_address_title">Dirección del proxy saliente</string>
   <string name="pstn_phone">Llamada móvil</string>
   <string name="puk2_label">Introducir código PUK2</string>
@@ -708,9 +701,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="select_voice_call_sim">Elegir tarjeta SIM</string>
   <string name="sendSms">Enviar SMS</string>
   <string name="send_button">Enviar</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Enviar mantener-activo</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Usado para llamadas salientes</string>
   <string name="set_primary_title">Seleccionar como cuenta principal</string>
   <string name="set_smsc_address_error">Fallo al establecer el número</string>
@@ -820,7 +811,6 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="throttle_help">Aprender mas</string>
   <string name="throttle_rate">Política de cálculo de datos</string>
   <string name="throttle_time_frame">Periodo de uso de datos</string>
-  <string name="transport">Protocolo</string>
   <string name="transport_title">Tipo de transporte</string>
   <string name="tty_mode_entries_full">TTY todas</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -839,7 +829,6 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="uplmn_list_setting_add_plmn">Nuevo PLMN</string>
   <string name="uplmn_list_setting_title">Redes preferidas</string>
   <string name="uplmn_numeric_is_empty">Introduzca un ID de red</string>
-  <string name="username">Usuario</string>
   <string name="username_title">Nombre de usuario</string>
   <string name="ussdRunning">Código USSD funcionando</string>
   <string name="ussd_dialog_sep">----------</string>
