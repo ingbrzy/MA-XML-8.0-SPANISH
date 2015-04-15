@@ -47,6 +47,10 @@
   <string name="address_choose_hint">%1$s、 %2$s y %3$d ubicaciones</string>
   <string name="addwhitelist">Añadir a las excepciones</string>
   <string name="all_address_choose_hint">Todas las ubicaciones</string>
+  <string name="antispam_notificaiton_type_show_all">Todos los números</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Números no bloqueables</string>
+     <string name="antispam_notificaiton_type_show_none">Never</string>
+     <string name="antispam_notification_setting_title">Blocklist notifications</string>
   <string name="app_name">Lista de bloqueo</string>
   <string name="backsound_set_hint">¿Configurar tu sonido de fondo para %s?</string>
   <string name="baidu_thanks">Powered by Baidu</string>
@@ -60,6 +64,7 @@
   <string name="button_text_delete">Borrar</string>
   <string name="button_to_setting">Ajustes</string>
   <string name="call_delete_hint">¿Eliminar todas las llamadas bloqueadas del número seleccionado?</string>
+  <string name="call_delete_title">Eliminar Llamada</string>
   <string name="call_transfer_block">Bloquear llamadas desviadas</string>
   <string name="call_transfer_block_type">Bloquear llamadas desviadas</string>
   <string name="call_transfer_info">Bloquear llamadas desviadas desde números desconocidos</string>
@@ -113,6 +118,7 @@
   <string name="fw_blocked_count">"Bloqueado "</string>
   <string name="fw_blocked_join">" y "</string>
   <string name="hint_antispam_mode_edit">Modo personalizado</string>
+  <string name="info_antispam_close">Desactivar AntiSpam</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Bloquear llamadas</string>
   <string name="info_antispam_phone_sms">Bloquear mensajes y llamadas</string>
@@ -121,6 +127,7 @@
   <string name="info_unantispam_phone_sms">Permitir mensajes y llamadas</string>
   <string name="info_unantispam_sms">Permitir mensajes</string>
   <string name="label_callwait">Llamada en espera</string>
+  <string name="loding">Cargando datos</string>
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Agente de ventas</string>
   <string name="mark_agent_block">Marcado como agente</string>
@@ -132,11 +139,20 @@
   <string name="mark_fraud_block">Marcado como fraude</string>
   <string name="mark_meal">Entrega de alimentos</string>
   <string name="mark_meal_block">Marcado como entrega de alimentos</string>
+  <string name="mark_number_agent">Agente de ventas</string>
+  <string name="mark_number_banking">Venta de seguros</string>
+  <string name="mark_number_fraud">Fraude</string>
   <string name="mark_number_info">"
 Observe que a veces estas llamadas pueden ser útiles (p.ej. cuando Vd. está realmente buscando un apartamento).
 Bloquee sólo números de los que no quiere recibir llamadas jamás."</string>
-  <string name="mark_sell">Telemarketer</string>
-  <string name="mark_sell_block">Marked as telemarketer</string>
+  <string name="mark_number_sell">Televenta</string>
+  <string name="mark_number_setting_guide_content1">¿Bloquear llamadas de los números informados?</string>
+  <string name="mark_number_setting_guide_content2">Bloquear automáticamente llamdas de los número informados por otros usuarios</string>
+  <string name="mark_number_setting_guide_content3">Vd. informó un número %1$s. ¿Quiere bloquear las llamadas de los números informados como %2$s?</string>
+  <string name="mark_number_setting_guide_forward">Ajustes de lista de bloqueo</string>
+  <string name="mark_number_setting_guide_title">Números a bloquear</string>
+  <string name="mark_sell">Televentas</string>
+  <string name="mark_sell_block">Marcado como televentas</string>
   <string name="marked_by_others">"%d otros usuarios lo marcaron como "</string>
   <string name="marked_by_user">"lo marcaste como "</string>
   <string name="menu_add">Añadir</string>
@@ -169,13 +185,18 @@ Bloquee sólo números de los que no quiere recibir llamadas jamás."</string>
   <string name="one_address_choose_hint">%s1 ubicación</string>
   <string name="open_callwait">Encendido</string>
   <string name="read_all_sms">Marcar como leído</string>
+  <string name="report">Informar</string>
   <string name="report_error">No se pudo reportar el mensaje</string>
   <string name="report_error_not_net">No se pudo conectar a la red</string>
   <string name="report_only">Seleccione el mensaje a reportar</string>
   <string name="report_sms">Mensajes reportados</string>
   <string name="report_success">Mensaje reportado</string>
+  <string name="report_warning">"¿Informar %1$s SMS a Mi? Estos mensajes y los números de teléfono desde los que fueron enviados se subirán a los servidores de Mi para ser revisados. Cualquier información personal asociada con estos mensajes se tratará de manera anónima."</string>
+     <string name="report_warning_title">Informar del SMS</string>
   <string name="sim_not_ready">La tarjeta SIM no está lista</string>
   <string name="sms_delete_hint">¿Eliminar todos los mensajes bloqueados enviados desde este número?</string>
+  <string name="sms_delete_title">Eliminar Mensaje</string>
+     <string name="sms_smart_engine_update">Actualizar el filtro de SMS automáticamente</string>
   <string name="special_number_group">Bloquear números especiales</string>
   <string name="st_advanced_setting_group">Avanzado</string>
   <string name="st_antispam_black_adress_add">Elija una ubicación</string>
@@ -279,6 +300,7 @@ Bloquee sólo números de los que no quiere recibir llamadas jamás."</string>
   <string name="st_title_settings_other_group">Ajustes adicionales</string>
   <string name="st_title_show_antispamnotification">Notificación de llamadas bloqueadas</string>
   <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+  <string name="st_title_sim_unknown">Desconocido</string>
   <string name="st_title_whitelist_numbers">Excepciones</string>
   <string name="sure">Confirmar</string>
   <string name="tab_blacklist">Lista de bloqueo</string>
