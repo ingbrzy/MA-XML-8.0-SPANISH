@@ -16,8 +16,12 @@
   <string name="account">Cuenta</string>
   <string name="account_prifix">Cuenta:</string>
   <string name="action">Iniciar sesión</string>
+  <string name="action_menu_text_bandwidth">Ancho de banda</string>
+  <string name="action_menu_text_bandwidth_off">Ancho de banda/Desactivado</string>
+  <string name="action_menu_text_bandwidth_on">Ancho de banda/Activado</string>
   <string name="action_menu_text_bookmark">Agregar un marcador</string>
   <string name="action_menu_text_exit">Salida</string>
+  <string name="action_menu_text_fullscreen">Pantalla completa</string>
   <string name="action_menu_text_history">Marcadores/Historial</string>
   <string name="action_menu_text_nightmode">Modo noche</string>
   <string name="action_menu_text_nightmode_off">Modo noche</string>
@@ -25,6 +29,7 @@
   <string name="action_menu_text_setting">Ajustes</string>
   <string name="action_menu_text_share">Compartir</string>
   <string name="action_menu_text_snapshot">Guardar página</string>
+  <string name="action_menu_text_video">Vídeo</string>
   <string name="actionbar_share">Compartir</string>
   <string name="actionbar_web_search">Búsqueda en la web</string>
   <string name="adblock_notification">%d anuncios bloqueados</string>
@@ -693,6 +698,10 @@
   <string name="suggest_access_btn_play">Reproducir</string>
   <string name="suggest_access_btn_view">Ver</string>
   <string name="suggest_access_item_album_songs">%d canciones</string>
+  <string name="suggest_access_item_app_size">%.2fMB</string>
+  <string name="suggest_access_item_app_update">Actualización: %s</string>
+  <string name="suggest_access_item_singer_albums">%d álbumes</string>
+  <string name="suggest_access_item_singer_pop">%d canciones populares</string>
   <string name="sync_item_browser_summary">Sincroniza tus datos en la nube, para poder manejar el navegador de manera fácil en diferentes dispositivos</string>
   <string name="sync_item_browser_title">Sincronizar navegador</string>
   <string name="tab_history">Historial</string>
