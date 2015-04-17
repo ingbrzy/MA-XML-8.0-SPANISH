@@ -2,6 +2,7 @@
 <resources>
   <string name="ErrorTooManyRequests">Demasiadas solicitudes están siendo procesadas. Inténtalo más tarde.</string>
   <string name="ack_record">Registro de ACK</string>
+  <string name="airplane_can_not_share">"En modo avión no puede utilizar Bluetooth para compartir"</string>
   <string name="airplane_error_msg">"No puede utilizar Bluetooth en el modo avión."</string>
   <string name="airplane_error_title">Modo avión</string>
   <string name="app_name">Compartir por Bluetooth</string>
@@ -12,6 +13,9 @@
   <string name="ble_device_profile_header_title">Perfiles</string>
   <string name="ble_device_profile_title">Dispositivo BLE conectado</string>
   <string name="ble_device_unbind">Limpiar ajustes</string>
+  <string name="ble_profile_1">Perfil BLE "Mi Band"</string>
+  <string name="ble_profile_2">Perfil BLE "Mi Key"</string>
+  <string name="bluetooth_in_airplane_mode">En modo avión</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
   <string name="bluetooth_preference_found_devices">Dispositivos disponibles</string>
   <string name="bluetooth_preference_scan_title">Búsqueda de dispositivos</string>
@@ -57,7 +61,6 @@
   <string name="empty_file_notification_sent">Transferencia Bluetooth: El dispositivo remoto rechazó el archivo de tamaño cero %1$s</string>
   <string name="enabling_progress_content">Encendiendo Bluetooth…</string>
   <string name="enabling_progress_title">Por favor, espera…</string>
-  <string name="format_progress_text">%1$d%%</string>
   <string name="hello">Hola mundo, TestActivity</string>
   <string name="inbound_history_title">Transferencias entrantes</string>
   <string name="inbound_noti_title">Transferencia Bluetooth: Archivos recibidos</string>
@@ -91,7 +94,8 @@
   <string name="miui_transfer_outbound_title">Salientes</string>
   <string name="no_transfers">El historial de transferencias está vacío.</string>
   <string name="not_exist_file">No hay ningún archivo</string>
-  <string name="not_exist_file_desc">"El archivo no existe.  "</string>
+  <string name="not_exist_file_desc">"El archivo no existe. 
+"</string>
   <string name="noti_caption">%1$s exitosas, %2$s fracasadas.</string>
   <string name="notification_received">Transferencia Bluetooth: %1$s recibido</string>
   <string name="notification_received_fail">Transferencia Bluetooth: Archivo%1$s no recibido</string>
@@ -100,10 +104,13 @@
   <string name="notification_sent">Transferencia Bluetooth: Enviar %1$s</string>
   <string name="notification_sent_complete">100% completa</string>
   <string name="notification_sent_fail">Transferencia Bluetooth: Archivo %1$s no enviado</string>
+  <string name="notify_need_on_BT_before_retry">Bluetooth está apagado. Por favor activa el Bluetooth antes de reintentar el envío</string>
   <string name="notify_server">Notificar al servidor TCP</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Transferencias salientes</string>
   <string name="outbound_noti_title">Transferencia Bluetooth: Enviar archivos</string>
+  <string name="panu_disconnect_while_wifi_connected">Anclaje a red Bluetooth desconectado</string>
+  <string name="panu_no_need_connect">No se puede utilizar el anclaje a red Bluetooth mientras está conectado a la WLAN</string>
   <string name="pbap_acceptance_timeout_message">Hubo un tiempo de espera al aceptar la conexión con %1$s</string>
   <string name="pbap_authentication_timeout_message">Hubo un tiempo de espera al introducir la clave con %1$s</string>
   <string name="pbap_session_key_dialog_header">Clave Bluetooth requerida</string>
@@ -117,6 +124,7 @@
   <string name="process"/>
   <string name="progress_scanning">Buscando</string>
   <string name="sharedUserId"/>
+  <string name="sim_selected_dialog_title">Selecciona SIM</string>
   <string name="start_server">Iniciar servidor TCP</string>
   <string name="status_canceled">Transferencia cancelada por el usuario.</string>
   <string name="status_connection_error">Conexión sin éxito.</string>
@@ -129,6 +137,8 @@
   <string name="status_running">La transferencia de archivos está en curso.</string>
   <string name="status_success">Transferencia de archivos completada con éxito.</string>
   <string name="status_unknown_error">Error desconocido.</string>
+  <string name="suggested">Sugerido</string>
+  <string name="too_much_file_sent">Máximo %1$s archivos a la vez</string>
   <string name="transfer_clear_dlg_msg">Todos los elementos se borrarán de la lista.</string>
   <string name="transfer_clear_dlg_title">Limpiar</string>
   <string name="transfer_menu_clear">Limpiar de la lista</string>
@@ -145,6 +155,7 @@
   <string name="upload_fail_line1">"El archivo no fue enviado a \"%1$s\"."</string>
   <string name="upload_fail_line1_2">Archivo: %1$s</string>
   <string name="upload_fail_ok">Vuelve a intentarlo</string>
+  <string name="upload_fail_waiting">Preparación de envío de archivos en curso, retransmisión automática después</string>
   <string name="upload_line1">Para: \"%1$s\"</string>
   <string name="upload_line3">Tipo de archivo: %1$s (%2$s)</string>
   <string name="upload_line5">Enviando archivo…</string>
