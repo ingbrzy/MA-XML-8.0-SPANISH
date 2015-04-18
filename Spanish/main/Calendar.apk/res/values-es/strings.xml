@@ -29,6 +29,7 @@
   <string name="add_account">Agregar cuenta</string>
   <string name="add_calendar">Suscribirse</string>
   <string name="add_topic_success">Suscrito a %s con exito</string>
+  <string name="add_topic_unsuccess">Error al suscribirse a %s</string>
   <string name="adding_calendar">Suscripciones</string>
   <string name="agenda_today">HOY, %1$s</string>
   <string name="agenda_tomorrow">MAÑANA, %1$s</string>
@@ -52,10 +53,10 @@
   <string name="birthday_notification_title_today">"%3$s de %1$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">cumpleaños</string>
-  <string name="button_day">D</string>
-  <string name="button_month">M</string>
+  <string name="button_day">Día</string>
+  <string name="button_month">Mes</string>
   <string name="button_online">Orden</string>
-  <string name="button_week">W</string>
+  <string name="button_week">Sem</string>
   <string name="calendar_network_error">Error de red</string>
   <string name="calendar_refresh">Actualizar</string>
   <string name="calendar_server_error">Error de servidor</string>
@@ -128,6 +129,7 @@
   <string name="event_full_date_format">dd/MM/aaaa</string>
   <string name="event_hide_more">Ocultar</string>
   <string name="event_info_descrip">"Descripción: "</string>
+  <string name="event_info_end">"Fin: "</string>
   <string name="event_info_organizer">Organizador:</string>
   <string name="event_info_reminders_label">Recordatorios</string>
   <string name="event_info_repeat">"Repetir: "</string>
@@ -193,6 +195,7 @@
   <string name="no_network">No hay red, por favor intente actualizar la red de nuevo :)</string>
   <string name="no_syncable_calendars">Sin calendarios</string>
   <string name="no_title_label">(Sin título)</string>
+  <string name="not_exist_topic_list">No se puede obtener una lista de calendario suscrito</string>
   <string name="not_synced">No sincronizado</string>
   <string name="online_calendar_activity_label">Sincronizar el calendario</string>
   <string name="online_reminder_change_text">Modificar recordatorio</string>
@@ -310,6 +313,8 @@
   <string name="topic_event_list_header_label">Proximos eventos</string>
   <string name="topic_list_header_label">Lista de suscripción</string>
   <string name="user_notice_online_agreement">Usted esta sincronizando el calendario, que es un servicio en línea, sus páginas muestran y actualizaciones de datos requieren una conexión a Internet. Utilice el servicio, usted está de acuerdo y están dispuestos a cumplir con %1$s y %2$s</string>
+  <string name="user_notice_online_ok">Aceptar y continuar</string>
+  <string name="user_notice_online_title">Términos Y Condiciones</string>
   <string name="view_all_matches">Ver todos los dispositivos</string>
   <string name="view_event_calendar_label">Calendario:</string>
   <string name="view_event_organizer_label">Organizador:</string>
