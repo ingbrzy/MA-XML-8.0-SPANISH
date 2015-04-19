@@ -1,59 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="click_to_enter_text">Tap to view</string>
-     <string name="confirm_pin_msg">Introduzca el PIN de nuevo</string>
-     <string name="default_lockscreen_unlock_hint_text">Deslice hacia arriba para desbloquear</string>
-     <string name="delete">Eliminar</string>
-     <string name="emergency_call_string">Emergencias</string>
-     <string name="experimental_try_string">Probar</string>
-     <string name="experimental_validate">Validar</string>
-     <string name="experimental_validate_fail">"No se ha podido iniciar sesión"</string>
-     <string name="experimental_validate_password">Contraseña</string>
-     <string name="experimental_validate_progress">Iniciando sesión…</string>
-     <string name="experimental_validate_thanks">¡Gracias!</string>
-     <string name="experimental_validate_username">Nombre de usuario</string>
-     <string name="experimental_validate_warning">Gracias por ayudar a mejorar MIUI!</string>
-     <string name="find_device_turn_off_flight_mode">Desactivar el modo avión</string>
-     <string name="forget_password_string">Olvidar contraseña</string>
-     <string name="incorrect_pincode">Código PIN erróneo</string>
-     <string name="incorrect_pincode_remaining_attempts">Código PIN erróneo, %d intentos restantes</string>
-     <string name="incorrect_pukcode">Código PUK erróneo</string>
-     <string name="incorrect_pukcode_remaining_attempts">Código PUK erróneo, %d intentos restantes</string>
-     <string name="input_password_hint_text">Introducir contraseña</string>
-     <string name="input_pin_code">¿PIN?</string>
-     <string name="input_puk_code">Introducir PUK</string>
-     <string name="invalid_confirm_pin_hint">Los PIN no coinciden</string>
-     <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, pulse el botón Encendido</string>
-     <string name="lock_screen_date">E dd/MM</string>
-     <string name="lockscreen_access_pattern_cell_added">Patrón añadido</string>
-     <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
-     <string name="lockscreen_access_pattern_detected">Patrón completado</string>
-     <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
-     <string name="lockscreen_charging_msg">Cargando</string>
-     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, el teléfono se reiniciará a valores de fábrica y se perderán todos los datos de usuario.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, se le pedirá que desbloquee el teléfono iniciando sesión en su cuenta.
+  <string name="click_to_enter_text">Tap to view</string>
+  <string name="confirm_pin_msg">Introduzca el PIN de nuevo</string>
+  <string name="default_lockscreen_unlock_hint_text">Deslice hacia arriba para desbloquear</string>
+  <string name="delete">Eliminar</string>
+  <string name="emergency_call_string">Emergencias</string>
+  <string name="experimental_try_string">Probar</string>
+  <string name="experimental_validate">Validar</string>
+  <string name="experimental_validate_fail">"No se ha podido iniciar sesión"</string>
+  <string name="experimental_validate_password">Contraseña</string>
+  <string name="experimental_validate_progress">Iniciando sesión…</string>
+  <string name="experimental_validate_thanks">¡Gracias!</string>
+  <string name="experimental_validate_username">Nombre de usuario</string>
+  <string name="experimental_validate_warning">Gracias por ayudar a mejorar MIUI!</string>
+  <string name="find_device_turn_off_flight_mode">Desactivar el modo avión</string>
+  <string name="forget_password_string">Olvidar contraseña</string>
+  <string name="incorrect_pincode">Código PIN erróneo</string>
+  <string name="incorrect_pincode_remaining_attempts">Código PIN erróneo, %d intentos restantes</string>
+  <string name="incorrect_pukcode">Código PUK erróneo</string>
+  <string name="incorrect_pukcode_remaining_attempts">Código PUK erróneo, %d intentos restantes</string>
+  <string name="input_password_hint_text">Introducir contraseña</string>
+  <string name="input_pin_code">¿PIN?</string>
+  <string name="input_puk_code">Introducir PUK</string>
+  <string name="invalid_confirm_pin_hint">Los PIN no coinciden</string>
+  <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, pulse el botón Encendido</string>
+  <string name="lock_screen_date">E dd/MM</string>
+  <string name="lockscreen_access_pattern_cell_added">Patrón añadido</string>
+  <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
+  <string name="lockscreen_access_pattern_detected">Patrón completado</string>
+  <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
+  <string name="lockscreen_charging_msg">Cargando</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, el teléfono se reiniciará a valores de fábrica y se perderán todos los datos de usuario.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, se le pedirá que desbloquee el teléfono iniciando sesión en su cuenta.
 
 Inténtelo de nuevo en %d segundos."</string>
-     <string name="lockscreen_failed_attempts_now_wiping">Ha intentado desbloquear incorrectamente el teléfono %d veces. El teléfono se reiniciará ahora a valores de fábrica.</string>
-     <string name="lockscreen_glogin_checking_password">Comprobando…</string>
-     <string name="lockscreen_glogin_invalid_input">Contraseña o nombre de usuario no válido.</string>
-     <string name="lockscreen_glogin_password_hint">Contraseña</string>
-     <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
-     <string name="login_website_in_case_forget_password">Para restablecer su contraseña, vaya a i.mi.com</string>
-     <string name="missed_call_text">%d llamadas perdidas</string>
-     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear por el dispositivo Bluetooth</string>
-     <string name="open_camera_hint_text">Swipe left to open Camera</string>
-     <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
-     <string name="open_wifi_settings">Conexión a red abierta</string>
-     <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
-     <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %s minutos</string>
-     <string name="phone_locked_timeout_seconds_string">Inténtelo de nuevo en %s segundos</string>
-     <string name="unlock_sim_string">Desbloquear SIM</string>
-     <string name="unlock_string">Desbloquear</string>
-     <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>
-     <string name="unlockscreen_low_battery">Conecte el cargador.</string>
-     <string name="unlockscreen_recharge_completed">Batería llena</string>
-     <string name="unlockscreen_recharging_message">Cargando %d %%</string>
-     <string name="wrong_password">Contraseña incorrecta</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Ha intentado desbloquear incorrectamente el teléfono %d veces. El teléfono se reiniciará ahora a valores de fábrica.</string>
+  <string name="lockscreen_glogin_checking_password">Comprobando…</string>
+  <string name="lockscreen_glogin_invalid_input">Contraseña o nombre de usuario no válido.</string>
+  <string name="lockscreen_glogin_password_hint">Contraseña</string>
+  <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
+  <string name="login_website_in_case_forget_password">Para restablecer su contraseña, vaya a i.mi.com</string>
+  <string name="missed_call_text">%d llamadas perdidas</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear por el dispositivo Bluetooth</string>
+  <string name="open_camera_hint_text">Swipe left to open Camera</string>
+  <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
+  <string name="open_wifi_settings">Conexión a red abierta</string>
+  <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
+  <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %s minutos</string>
+  <string name="phone_locked_timeout_seconds_string">Inténtelo de nuevo en %s segundos</string>
+  <string name="unlock_sim_string">Desbloquear SIM</string>
+  <string name="unlock_string">Desbloquear</string>
+  <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>
+  <string name="unlockscreen_low_battery">Conecte el cargador.</string>
+  <string name="unlockscreen_recharge_completed">Batería llena</string>
+  <string name="unlockscreen_recharging_message">Cargando %d %%</string>
+  <string name="wrong_password">Contraseña incorrecta</string>
 </resources>
