@@ -2,32 +2,32 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <plurals name="batch_delete_msg">
-        <item quantity="other">Delete %d contacts?</item>
-        <item quantity="one">Delete %d contact?</item>
+        <item quantity="other">¿Borrar %d contactos?</item>
+        <item quantity="one">¿Borrar %d contacto?</item>
      </plurals>
      <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Delete %d contacts</item>
-        <item quantity="one">Delete contact</item>
+        <item quantity="other">Borrar %d contactos</item>
+        <item quantity="one">Borrar contacto</item>
      </plurals>
      <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Rang %d times</item>
-        <item quantity="one">Rang %d time</item>
+        <item quantity="other">Sonó %d veces</item>
+        <item quantity="one">Sonó %d vez</item>
      </plurals>
      <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Delete %d contacts from SIM card?</item>
-        <item quantity="one">Delete %d contact from SIM card?</item>
+        <item quantity="other">¿Borrar %d contactos de la tarjeta SIM?</item>
+        <item quantity="one">¿Borrar %d contacto de la tarjeta SIM?</item>
      </plurals>
      <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactos importados</item>
         <item quantity="one">%1$d contacto importado</item>
      </plurals>
      <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Copied %d contacts</item>
-        <item quantity="one">Copied %d contact</item>
+        <item quantity="other">Copiados %d contactos</item>
+        <item quantity="one">Copiado %d contacto</item>
      </plurals>
      <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM card can store %d contacts.</item>
-        <item quantity="one">SIM card can store %d contact.</item>
+        <item quantity="other">La tarjeta SIM puede almacenar %d contactos.</item>
+        <item quantity="one">La tarjeta SIM puede almacenar %d contacto.</item>
      </plurals>
      <plurals name="group_add_success_toast">
         <item quantity="other">" %1$d contactos añadidos"</item>
