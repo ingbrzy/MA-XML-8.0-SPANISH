@@ -7,7 +7,7 @@
   <string name="button_start_now">Comenzar ahora</string>
   <string name="dialog_insufficient_space_on_cache">No hay suficiente espacio en el almacenamiento interno de descarga</string>
   <string name="dialog_insufficient_space_on_external">No hay suficiente espacio de almacenamiento externo</string>
-  <string name="dialog_not_show_again">"Don't show again"</string>
+  <string name="dialog_not_show_again">"No mostrar de nuevo"</string>
   <string name="download_error">No realizado</string>
   <string name="download_no_application_title">"No se puede abrir el archivo"</string>
   <string name="download_percent">%d %%</string>
@@ -16,16 +16,16 @@
   <string name="download_running">En progreso</string>
   <string name="download_running_percent">En progreso, %d %%</string>
   <string name="download_unknown_title">&lt;Sin título&gt;</string>
-  <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
-  <string name="notif_text_engine_on">Accelerating…</string>
+  <string name="notif_text_engine_off">Acelerador Xunlei de descargas desactivado.</string>
+  <string name="notif_text_engine_on">Acelerando…</string>
   <string name="notif_title_file_size">%1$d total</string>
-  <string name="notif_title_multiple_downloading">Downloading %1$d files</string>
-  <string name="notif_title_single_downloading">Downloading %1$s</string>
+  <string name="notif_title_multiple_downloading">Descargando %1$d ficheros</string>
+  <string name="notif_title_single_downloading">Descargando %1$s</string>
   <string name="notification_download_complete">Descarga completada.</string>
   <string name="notification_download_failed">Descarga fallida.</string>
   <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere red WiFi.</string>
   <string name="notification_paused_in_background">Pausado en segundo plano.</string>
-  <string name="paused_waiting_for_network">Waiting for network</string>
+  <string name="paused_waiting_for_network">A la espera de conexión a la red</string>
   <string name="permdesc_accessAllDownloads">Permite a la aplicación ver y modificar todas las descargas iniciadas por cualquier aplicación en el sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Permite a la aplicación descargar archivos en la caché de descarga, que no se pueden eliminar automáticamente cuando el gestor de descargas necesita más espacio."</string>
   <string name="permdesc_downloadCompletedIntent">Permite a la aplicación enviar notificaciones acerca de descargas completadas. Aplicaciones maliciosas pueden usar esto para confundir otras aplicaciones que descargan archivos.</string>
@@ -48,12 +48,16 @@
   <string name="privacy_tip_title">¿Usar Acelerador Xunlei?</string>
   <string name="root_downloads">Descargas</string>
   <string name="task_already_exist">Ya existe la tarea</string>
-  <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
-  <string name="warning_tip_ok">Pause</string>
-  <string name="warning_tip_title">Data usage warning</string>
-  <string name="wifi_recommended_body" formatted="false">"Iniciar esta descarga de %s puede resultar en el uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.   Toque %s para iniciar esta descarga la próxima vez que este conectado a una red WiFi."</string>
+  <string name="warning_tip_cancel">Descargar</string>
+  <string name="warning_tip_content">"Ya no está conectado a WiFi. Usar su conexión de datos móviles para completar esta descarga incrementará el uso de datos. Si excede el límite de datos de su plan, su compañía podría cobrar tasas adicionales."</string>
+  <string name="warning_tip_ok">Pausar</string>
+  <string name="warning_tip_title">Advertencia de uso de datos</string>
+  <string name="wifi_recommended_body" formatted="false">"Iniciar esta descarga de %s puede resultar en el uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.
+
+Toque %s para iniciar esta descarga la próxima vez que este conectado a una red WiFi."</string>
   <string name="wifi_recommended_title">¿Poner en cola para descargar más tarde?</string>
-  <string name="wifi_required_body" formatted="false">"Debe usar WiFi para completar esta descarga de %s.   Toque %s para iniciar esta descarga la próxima vez que estás conectado a una red WiFi."</string>
+  <string name="wifi_required_body" formatted="false">"Debe usar WiFi para completar esta descarga de %s.
+
+Toque %s para iniciar esta descarga la próxima vez que estás conectado a una red WiFi."</string>
   <string name="wifi_required_title">Descarga demasiado grande para la red del operador</string>
 </resources>
