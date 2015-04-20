@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">Moviendo los datos del usuario… Esto puede tardar unos minutos.</string>
-  <string name="action_mode_deselect_all">Deselect all</string>
-  <string name="action_mode_select_all">Select all</string>
+  <string name="action_mode_deselect_all">Deseleccionar todos</string>
+  <string name="action_mode_select_all">Seleccionar todos</string>
   <string name="add_task">Agregar tareas</string>
   <string name="adding_upload_tasks">Agregamdo tareas #8230;</string>
   <string name="already_signin_description">"Ya viste esto hoy."</string>
@@ -15,7 +15,7 @@
   <string name="binded_accout_description">"Tu cuenta de Mi se ha sincronizado con KuaiPan. Ahora puedes utilizar tu cuenta de Mi para acceder a los datos que ha almacenado en KuaiPan."</string>
   <string name="binded_accout_title">Cuentas sincronizadas</string>
   <string name="byteShort">B</string>
-  <string name="can_not_send_with_too_many">"Can't send that many items"</string>
+  <string name="can_not_send_with_too_many">"No se pueden enviar todos esos archivos"</string>
   <string name="cancel">Cancelar</string>
   <string name="category">Categorías</string>
   <string name="category_all">Todo</string>
@@ -67,7 +67,7 @@
   <string name="delete_files">¿Eliminar los archivos %1$d?</string>
   <string name="delete_folder">¿Eliminar esta carpeta?</string>
   <string name="delete_folders">¿Eliminar las %1$d carpetas?</string>
-  <string name="delete_selected_tasks">Delete selected？</string>
+  <string name="delete_selected_tasks">¿Borrar lo seleccionado?</string>
   <string name="des_running_trans">Los archivos %1$d no han sido movidos.</string>
   <string name="dialog_select_type">Elegir tipo</string>
   <string name="dialog_type_audio">Audio</string>
@@ -103,7 +103,7 @@
   <string name="file_loading">Cargando…</string>
   <string name="file_not_exist">El archivo no existe</string>
   <string name="file_too_large">El archivo es demasiado grande para cargar</string>
-  <string name="files">Files</string>
+  <string name="files">Archivos</string>
   <string name="finished">Completa</string>
   <string name="folder_exist">La carpeta ya existe.</string>
   <string name="folder_name_illegal">Nombre de carpeta no válido</string>
@@ -119,31 +119,32 @@
   <string name="ftp_username_hint">Nombre de usuario</string>
   <string name="gbk_summary">Codificación predeterminada de la ventana en chino simplificado</string>
   <string name="gbk_title">GBK</string>
-  <string name="get_cloud_space">Add 500GB</string>
+  <string name="get_cloud_space">Añadir 500GB</string>
   <string name="gigabyteShort">GB</string>
   <string name="instruction">Introducir la siguiente dirección en el cliente FTP:</string>
   <string name="instruction_pre">Tocar para iniciar el servidor FTP</string>
   <string name="kilobyteShort">KB</string>
-  <string name="kp_category_all">Category</string>
+  <string name="kp_category_all">Categoría</string>
   <string name="kp_category_doc">Word</string>
   <string name="kp_category_excel">Excel</string>
   <string name="kp_category_pdf">PDF</string>
   <string name="kp_category_ppt">PowerPoint</string>
-  <string name="kp_category_txt">Text</string>
-  <string name="kuaipan_cloud_photo">KuaiPan photos</string>
-  <string name="kuaipan_create_shortcut_success">Shortcut created</string>
+  <string name="kp_category_txt">Texto</string>
+  <string name="kuaipan_cloud_photo">Fotos KuaiPan</string>
+  <string name="kuaipan_create_shortcut_success">Acceso directo creado</string>
   <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
   <string name="kuaipan_data_formater_without_year">M month d day</string>
-  <string name="kuaipan_delete_guide_des">Delete guide？</string>
-  <string name="kuaipan_delete_success">Photo deleted</string>
+  <string name="kuaipan_delete_guide_des">¿Eliminar guía?</string>
+  <string name="kuaipan_delete_success">Foto borrada</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">No hay espacio suficiente.</string>
   <string name="kuaipan_photo_folder_divider">,</string>
-  <string name="kuaipan_photo_locate">Located %1$s</string>
+  <string name="kuaipan_photo_locate">Localizada %1$s</string>
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Aviso</string>
   <string name="kuaipan_prompt_message">"
-Lamentablemente el server está en mantenimiento. Por favor inténtelo más tarde…"</string>
+Lamentablemente el server está en mantenimiento. Por favor inténtelo más tarde…
+"</string>
   <string name="kuaipan_root_fooder">Home</string>
   <string name="kuaipan_tech_support">Iniciar sesión en kuaipan.cn</string>
   <string name="load_err">"No se puede cargar"</string>
@@ -201,7 +202,7 @@ Lamentablemente el server está en mantenimiento. Por favor inténtelo más tard
   <string name="never_notify_network_connect">"No mostrarme esto de nuevo"</string>
   <string name="new_folder_name">Carpeta sin nombre</string>
   <string name="no">No</string>
-  <string name="no_display_file">"Can't display %1$s"</string>
+  <string name="no_display_file">"No se puede mostrar %1$s"</string>
   <string name="no_enough_storage_indication">"Espacio de almacenamiento del dispositivo está lleno."</string>
   <string name="no_enough_storage_title">No hay espacio suficiente</string>
   <string name="no_file">Vacío</string>
@@ -213,7 +214,7 @@ Lamentablemente el server está en mantenimiento. Por favor inténtelo más tard
   <string name="notif_title">El servidor FTP esta corriendo</string>
   <string name="open_changed_file_message">"El archivo que estas tratando de abrir ha sido modificado. Por favor:
 1. Descargar el archivo de nuevo para actualizarlo.
-2.Subirlo a tu cuenta de KuaiPan"</string>
+2. Subirlo a tu cuenta de KuaiPan"</string>
   <string name="open_changed_file_title">Cambio aplicado.</string>
   <string name="open_file_failed">No se pudo abrir</string>
   <string name="operate_confirm_in_3g">¿Usar conexión de datos móviles para descargar este gran archivo?</string>
@@ -296,10 +297,10 @@ Se agregó %1$s de espacio"</string>
   <string name="tab_category">Categorías</string>
   <string name="tab_expand">Expandir</string>
   <string name="tab_local">Local</string>
-  <string name="tab_path">Camino</string>
+  <string name="tab_path">RUTA</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">No se encontró una aplicación para manejar esta acción.</string>
-  <string name="tools">Herramientas</string>
+  <string name="tools">HERRAMIENTAS</string>
   <string name="trans_task">Transferencia por red</string>
   <string name="transing">Enviando</string>
   <string name="trash_box_capacity">Papelera de reciclaje %1$s</string>
