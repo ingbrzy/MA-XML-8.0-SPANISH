@@ -6,7 +6,7 @@
   <string name="add_flow_success_msg">%s añadidos este mes</string>
   <string name="all_downloads">Todas las descargas</string>
   <string name="all_fileter">Todos</string>
-  <string name="all_the_internet">"Use "</string>
+  <string name="all_the_internet">Todas las redes</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s descargas</string>
   <string name="app_label">Descargas</string>
@@ -44,7 +44,7 @@
   <string name="download_complete">Completa</string>
   <string name="download_error">Falló</string>
   <string name="download_error_insufficient_space">Espacio insuficiente</string>
-  <string name="download_filesize_unknown">Tamañon desconocido</string>
+  <string name="download_filesize_unknown">Tamaño desconocido</string>
   <string name="download_in_process">Descargando</string>
   <string name="download_info_count_deleted_tasks">%s descargas eliminadas</string>
   <string name="download_info_start_deleted_tasks">Eliminar descargas</string>
@@ -122,7 +122,7 @@
   <string name="privacy_tip_cancel">Cancelar</string>
   <string name="privacy_tip_content">¿Usar el Acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su Mi Account también se subirán para comprobar si tiene Vd. alguna suscripción activa a este servicio.</string>
   <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="privacy_tip_title">¿Usar acelerador Xunlei?</string>
   <string name="remove_download">Eliminar</string>
   <string name="restart_download">Reiniciar</string>
   <string name="resume_download">Reanudar</string>
@@ -131,7 +131,7 @@
   <string name="select_all">Seleccionar todo</string>
   <string name="select_operation_items">Elegir elementos</string>
   <string name="selected_count">Seleccionado %1$d de %2$d</string>
-  <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
+  <string name="toast_xunlei_engine_open">Se ha activado el acelerador de descargas Xunlei</string>
   <string name="turn_off_xunlei_message">Puede que la velocidad de descarga sea baja.</string>
   <string name="turn_off_xunlei_tips">Acelerador de descarga Xunlei apagado</string>
   <string name="turn_off_xunlei_title">Deshabilitar motor descarga Xunlei</string>
@@ -139,11 +139,11 @@
   <string name="unbind_xunlei_success">Sesión terminada en la Cuenta Xunlei</string>
   <string name="valid_in_this_month">Sólo válido este mes</string>
   <string name="vip_auto_speedup">Acelerador Xunlei</string>
-  <string name="xunlei_brand">Powered by Xunlei</string>
+  <string name="xunlei_brand">Desarrollado por Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-  <string name="xunlei_close_tips_button">Turn on</string>
-  <string name="xunlei_close_tips_content">Xunlei download accelerator.</string>
-  <string name="xunlei_close_tips_title">Accelerate your downloads</string>
+  <string name="xunlei_close_tips_button">Activar</string>
+  <string name="xunlei_close_tips_content">Acelerador de descargas Xunlei.</string>
+  <string name="xunlei_close_tips_title">Acelera tus descargas</string>
   <string name="xunlei_gaosu">Acelerador de descarga Xunlei</string>
   <string name="xunlei_member_annual_fee">Suscripción a Xunlei durante 1 año (platino)</string>
   <string name="xunlei_member_one_month">Suscripción a Xunlei durante 1 mes (platino)</string>
