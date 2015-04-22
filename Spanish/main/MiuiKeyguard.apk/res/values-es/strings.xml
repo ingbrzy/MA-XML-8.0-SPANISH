@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="click_to_enter_text">Tap to view</string>
+  <string name="click_to_enter_text">Pulse para ver</string>
   <string name="confirm_pin_msg">Introduzca el PIN de nuevo</string>
   <string name="default_lockscreen_unlock_hint_text">Deslice hacia arriba para desbloquear</string>
   <string name="delete">Eliminar</string>
@@ -42,8 +42,8 @@ Inténtelo de nuevo en %d segundos."</string>
   <string name="login_website_in_case_forget_password">Para restablecer su contraseña, vaya a i.mi.com</string>
   <string name="missed_call_text">%d llamadas perdidas</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear por el dispositivo Bluetooth</string>
-  <string name="open_camera_hint_text">Swipe left to open Camera</string>
-  <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
+  <string name="open_camera_hint_text">Deslice hacia la izquierda para abrir Cámara</string>
+  <string name="open_remote_center_hint_text">Deslice hacia la derecha para abrir Mi Remote</string>
   <string name="open_wifi_settings">Conexión a red abierta</string>
   <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %s minutos</string>
