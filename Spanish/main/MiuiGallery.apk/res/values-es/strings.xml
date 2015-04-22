@@ -21,10 +21,10 @@
   <string name="add_to_cloud_unfinished_message_with_count">%1$s elementos no serán añadidos a la nube</string>
   <string name="add_to_cloud_unknow_reasons">Error desconocido</string>
   <string name="add_to_secret_failed_message_with_count">"%2$s elementos no pueden añadirse al álbum secreto: %1$s."</string>
-  <string name="add_to_secret_successfully_message">Added to secret album</string>
-  <string name="add_to_secret_unfinished_message_with_count">%1$s items are not added to secret</string>
+  <string name="add_to_secret_successfully_message">Añadido al álbum secreto</string>
+  <string name="add_to_secret_unfinished_message_with_count">%1$s elementos no se han añadido al álbum secreto</string>
   <string name="adding_recipients">Añadiendo destinos…</string>
-  <string name="adjust">Adjust</string>
+  <string name="adjust">Ajustar</string>
   <string name="album_member">Miembros del álbum %s</string>
   <string name="album_name">Nombre del álbum</string>
   <string name="album_quota_fulfiled">Demasiados álbumes. Elimine algunos y vuelva a intentarlo.</string>
@@ -46,12 +46,12 @@
   <string name="alert_init_merged_title">Todas sus fotos. Juntas al fin.</string>
   <string name="alert_message_open_sync">Necesita habilitar sincronización primero.</string>
   <string name="alert_secret_album_message">Puede deslizar el album de la nube hacia el álbum secreto.</string>
-  <string name="alert_secret_album_set_pattern">Set unlock pattern</string>
+  <string name="alert_secret_album_set_pattern">Establecer patrón de desbloqueo</string>
   <string name="alert_secret_album_title">Álbum secreto</string>
   <string name="already_apply_album">¿Abrir %1$s?</string>
-  <string name="always_rotate_alert_msg">You can turn this feature on or off anytime in Gallery Settings.</string>
-  <string name="always_rotate_alert_positive_button_text">Turn on</string>
-  <string name="always_rotate_alert_title">Auto-rotate images</string>
+  <string name="always_rotate_alert_msg">Puede activar o desactivar esta característica en cualquier momento en Ajustes de la galería.</string>
+  <string name="always_rotate_alert_positive_button_text">Activar</string>
+  <string name="always_rotate_alert_title">Auto rotar imágenes</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Fondos de pantalla para Android</string>
   <string name="aperture">Apertura</string>
@@ -63,10 +63,10 @@
   <string name="auto_create_recent_album_confirm">"Galería borrará los datos del álbum Favoritos. Los álbumes marcados manualmente como favoritos no se verán afectados."</string>
   <string name="auto_create_recent_album_over_ten_times">Un álbum sera marcado como Favorito al abrirlo más de 10 veces</string>
   <string name="auto_upload_album_comfirm_to_share">Es un álbum que se subirá automáticamente, ¿está seguro de querer compartirlo?</string>
-  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Automatically sync photos from other apps with Mi Cloud. You can turn this feature on or off anytime in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Settings &amp;gt; Sync with Mi Cloud &amp;gt; Sync automatically&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
-  <string name="auto_upload_guide_title">Sync photos with Mi Cloud</string>
-  <string name="auto_upload_title">Upload automatically</string>
-  <string name="autofix">Auto-fix</string>
+  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Sincronizar fotos automáticamente desde otras aplicaciones con Mi Cloud. Puede activar o desactivar esta característica en cualquier momento en &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Ajustes &amp;gt; Sincronizar con Mi Cloud &amp;gt; Sincronizar automáticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+  <string name="auto_upload_guide_title">Sincronizar fotos con Mi Cloud</string>
+  <string name="auto_upload_title">Subir automáticamente</string>
+  <string name="autofix">Auto-reparar</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
@@ -83,7 +83,7 @@
   <string name="by_email">Correo electrónico</string>
   <string name="by_others">Otros</string>
   <string name="by_sms">Mensaje de texto</string>
-  <string name="camera_black_white">Black &amp;White</string>
+  <string name="camera_black_white">Negro y Blanco</string>
   <string name="camera_connected">Cámara conectada</string>
   <string name="camera_disconnected">Cámara desconectada</string>
   <string name="camera_folder_display_name">Cámara de fotos</string>
@@ -97,7 +97,7 @@
   <string name="cannot_send_message">"No se puede enviar el mensaje"</string>
   <string name="cannot_send_message_reason">No hay destinatarios válidos</string>
   <string name="cant_delete_cloud_album">"No se puede borrar %s porque es un álbum de sistema o está siendo compartido con otros usuarios."</string>
-  <string name="choose_cloud_album">Choose album</string>
+  <string name="choose_cloud_album">Elegir álbum</string>
   <string name="cityname_1">Prefectura autónoma de Aba Tibetan y Qiang</string>
   <string name="cityname_10">Anshun</string>
   <string name="cityname_100">Prefectura autónoma tibetana de Haixi Mongolia</string>
@@ -516,7 +516,7 @@
   <string name="confirm_download">Tiene que descargar %s.</string>
   <string name="confirm_download_video_message">La descarga de este vídeo debe terminar antes de que usted puede verlo. La descarga se reanudará cuando WiFi está disponible.</string>
   <string name="confirm_download_video_title">Descargar vídeo</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Combinar este álbum con &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_photo">Establecer como foto de contacto</string>
   <string name="context_menu_add_contact">Agregar a contactos</string>
   <string name="context_menu_copy">Copiar</string>
@@ -524,10 +524,10 @@
   <string name="contrast">Contraste</string>
   <string name="contrast_abbr">C</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
-  <string name="cool">Cool</string>
-  <string name="cool_portrait">Portrait</string>
+  <string name="cool">Interesante</string>
+  <string name="cool_portrait">Retrato</string>
   <string name="create_new_cloud_folder">Crear una nueva carpeta</string>
-  <string name="create_new_face">New person</string>
+  <string name="create_new_face">Nueva persona</string>
   <string name="crop">Recortar</string>
   <string name="crop_fail_to_load_image">"No se puede cargar la imagen"</string>
   <string name="crop_label">Recortar</string>
@@ -575,7 +575,7 @@
   <string name="early_bird">Earlybird</string>
   <string name="edit">Editar</string>
   <string name="edited_photo_bucket_name">Editado</string>
-  <string name="effect">Filters</string>
+  <string name="effect">Filtros</string>
   <string name="email_picker_title">Agregar correo compartido</string>
   <string name="enable">Activar</string>
   <string name="enable_cloud_for_sharing">Se necesita habilitar álbumes en la nube para ver imágenes compartidas.</string>
@@ -604,13 +604,13 @@
   <string name="external_sdcard_root">Directorio raíz de SD externa</string>
   <string name="external_usb_device">Almacenamiento USB</string>
   <string name="external_usb_device_hm">Almacenamiento USB externo</string>
-  <string name="face_album">People</string>
-  <string name="face_album_not_named">Unnamed</string>
-  <string name="face_album_rename_hint">Enter name</string>
-  <string name="face_albumset_detecting_tip">Just a sec…</string>
-  <string name="face_albumset_empty">Empty.</string>
-  <string name="face_albumset_use_tip">Use face detection to sort photos by the people that are in them</string>
-  <string name="face_move_dialog_title">Choose an album</string>
+  <string name="face_album">Gente</string>
+  <string name="face_album_not_named">Sin nombre</string>
+  <string name="face_album_rename_hint">Introduzca nombre</string>
+  <string name="face_albumset_detecting_tip">Espere un momento…</string>
+  <string name="face_albumset_empty">Vacio.</string>
+  <string name="face_albumset_use_tip">Usar detección facial para ordenar las fotos por la gente que aparece en ellas</string>
+  <string name="face_move_dialog_title">Elegir álbum</string>
   <string name="facelift">Cara con brillo</string>
   <string name="facetan">Cara bronceada</string>
   <string name="fail_hint">La operación falló</string>
@@ -647,7 +647,7 @@
   <string name="gallery_setting">Galería</string>
   <string name="get_album_info_in_process">"Obteniendo los detalles del álbum compartido…"</string>
   <string name="global_setting">Ajustes</string>
-  <string name="go_setting">View settings</string>
+  <string name="go_setting">Ver ajustes</string>
   <string name="grain">Grano de la película</string>
   <string name="grayscale">B y N</string>
   <string name="group_by">Agrupar por</string>
@@ -667,7 +667,7 @@
   <string name="home_page_tab_local">Local</string>
   <string name="home_page_tab_photo">Fotos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
-  <string name="ignore_face">Ignore this person</string>
+  <string name="ignore_face">Ignorar a esta persona</string>
   <string name="image_download_item_title">Descargar imagen (%s)</string>
   <string name="image_quota_fulfiled">Demasiadas imágenes. Borre algunas imágenes y vuelva a intentarlo.</string>
   <string name="immomo_camera">Immomo</string>
@@ -730,10 +730,12 @@
   <string name="merge_album_positive_button_text">Merge</string>
   <string name="message_no_delete_access">"No tiene permiso para eliminar %s"</string>
   <string name="messagelist_sender_self">Yo</string>
+  <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk garabatos</string>
   <string name="miliao_saved_folder_display_name">MiTalk guardado</string>
   <string name="mimetype">Tipo MIME</string>
+  <string name="mishop">MiShop</string>
   <string name="mishop_saved_folder_display_name">MiStore guardado</string>
   <string name="miui_capture_screen_folder_display_name">Capturas de pantalla</string>
   <string name="miui_wallpaper">Fondo de escritorio</string>
@@ -749,7 +751,7 @@
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Toque una cara para comenzar</string>
   <string name="must_pick_file">Seleccione una imagen</string>
-  <string name="name_wrong">"This isn't %s"</string>
+  <string name="name_wrong">"No es %s"</string>
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Lector de noticias NetEase</string>
   <string name="new_device_tips">Pulse para ver el dispositivo</string>
@@ -761,12 +763,12 @@
   <string name="no_network_connected">Ninguna red detectada</string>
   <string name="no_picture_or_video">Vacío</string>
   <string name="no_storage_disable_cloud_albums">Lo Nube no está disponible.</string>
-  <string name="no_such_album">Album not found</string>
+  <string name="no_such_album">Álbum no encontrado</string>
   <string name="no_such_item">"No se pudo encontrar el elementp"</string>
   <string name="no_thumbnail">Sin miniatura</string>
   <string name="none_picture">Sin imágenes</string>
   <string name="not_auto_create_recent_album">Deshacer crear favoritos</string>
-  <string name="not_now">Not now</string>
+  <string name="not_now">Ahora no</string>
   <string name="not_show_hidden_albums">"No mostrar álbumes ocultos"</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Mostrar sólo rollo de cámara</string>
@@ -782,7 +784,7 @@
   <string name="operation_failed">La operación falló</string>
   <string name="operation_in_process">Procesando…</string>
   <string name="operation_refresh">Actualizar</string>
-  <string name="operation_remove_from_face_album">Remove from album</string>
+  <string name="operation_remove_from_face_album">Eliminar del álbum</string>
   <string name="operation_remove_secret">Quitar secreto</string>
   <string name="operation_rename">Renombrar</string>
   <string name="operation_set_as_screensaver">Establecer como protector de pantalla</string>
@@ -798,8 +800,8 @@
   <string name="paint_cancel_context">¿Descartar los cambios realizados a esta imagen?</string>
   <string name="paint_cancel_title">Descartar cambios</string>
   <string name="paint_crop_cancel_context">¿Quiere guardar el recorte resultante?</string>
-  <string name="paint_crop_cancel_title">Abandon changes</string>
-  <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
+  <string name="paint_crop_cancel_title">Abandonar cambios</string>
+  <string name="paint_crop_tips">Para obtener una mejor imagen, por favor, trate de colocar las partes interesantes en los puntos de la malla redimensionando y moviendo.</string>
   <string name="path">Ruta de acceso</string>
   <string name="people">Gente</string>
   <string name="photo_page_always_rotate">Rotación automática imágenes</string>
@@ -808,7 +810,7 @@
   <string name="photo_page_save_uri_image_fail">"No se pudo guardar a Cámara de fotos"</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada a Cámara de fotos</string>
   <string name="photo_paint_crop">Recortar</string>
-  <string name="photo_save_succeed">Saved successfully</string>
+  <string name="photo_save_succeed">Guardado con éxito</string>
   <string name="photo_size">Tamaño</string>
   <string name="photoeditor_name">Mi Photo Studio</string>
   <string name="photos">Fotos</string>
@@ -823,7 +825,7 @@
   <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Posterizar</string>
   <string name="ppmm_gallery">PPMM</string>
-  <string name="preparing_data">Just a sec…</string>
+  <string name="preparing_data">Espere un momento...</string>
   <string name="preparing_data_to_delete">Preparando para borrar imágenes…</string>
   <string name="priority_storage">Guardar en la tarjeta SD</string>
   <string name="priority_storage_summary">Cuando se inserte la tarjeta SD, descargar archivos a la tarjeta SD automáticamente</string>
@@ -842,12 +844,12 @@
   <string name="redeye_tooltip">Toque para eliminar los ojos rojos</string>
   <string name="refocus_data_downloading">Descargando datos de reenfoque…</string>
   <string name="remove_from_secret_failed_message_with_count">%2$s elementos no pueden ser eliminados del álbum secreto: %1$s."</string>
-  <string name="remove_from_secret_successfully_message">Removed from secret album</string>
-  <string name="remove_from_secret_unfinished_message_with_count">%1$s items are not removed from secret</string>
+  <string name="remove_from_secret_successfully_message">Eliminado del álbum secreto</string>
+  <string name="remove_from_secret_unfinished_message_with_count">%1$s elementos no han sido borrados del álbum secreto</string>
   <string name="remove_hidden_album">Mostrar el álbum</string>
   <string name="remove_recent_album">Eliminar de favoritos</string>
-  <string name="rename_face_album">Change name</string>
-  <string name="rename_fail_msg">"Couldn't change name"</string>
+  <string name="rename_face_album">Cambiar nombre</string>
+  <string name="rename_fail_msg">"No se puede cambiar nombre"</string>
   <string name="rename_failed">"No se pudo renombrar"</string>
   <string name="rename_failed_duplicated_name">Ya existe un archivo con el mismo nombre.</string>
   <string name="renren_image">RenRen</string>
@@ -937,7 +939,7 @@
   <string name="sports_camera">Sports Camera</string>
   <string name="square">Cuadrado</string>
   <string name="start_slide_show">Iniciar pase de diapositivas</string>
-  <string name="start_to_use_face_albumset">Sort by people</string>
+  <string name="start_to_use_face_albumset">Ordenar por gente</string>
   <string name="storage_all_volumes">Todos los dispositivos de almacenamiento</string>
   <string name="storage_no_space">No hay espacio suficiente</string>
   <string name="straighten">Ajustar</string>
@@ -988,7 +990,7 @@
   <string name="user_alias_self">Auto</string>
   <string name="video_err">"No se puede reproducir el vídeo"</string>
   <string name="video_not_exist">"Vídeo no existe"</string>
-  <string name="view_face_album">View album</string>
+  <string name="view_face_album">Ver álbum</string>
   <string name="view_sharers">Ver partícipes</string>
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
@@ -997,7 +999,7 @@
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">"¿Dónde está el código QR?"</string>
   <string name="white_balance">Balance de blancos</string>
-  <string name="who_is_this">Who is this?</string>
+  <string name="who_is_this">¿Quién es este?</string>
   <string name="widget_type">Elija imágenes</string>
   <string name="widget_type_album">Elija un álbum</string>
   <string name="widget_type_photo">Elija una imagen</string>
