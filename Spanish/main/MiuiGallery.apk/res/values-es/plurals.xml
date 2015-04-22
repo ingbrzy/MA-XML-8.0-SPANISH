@@ -26,20 +26,20 @@
         <item quantity="one">¿Eliminar %s vídeo?</item>
      </plurals>
      <plurals name="how_many_pics">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
      </plurals>
      <plurals name="how_many_sub_folders">
-        <item quantity="other">%d folders</item>
-        <item quantity="one">%d folder</item>
+        <item quantity="other">%d carpetas</item>
+        <item quantity="one">%d carpeta</item>
      </plurals>
      <plurals name="how_many_videos">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
      </plurals>
      <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"You don't have permission to delete these %d files."</item>
-        <item quantity="one">"You don't have permission to delete these %d file."</item>
+        <item quantity="other">"No tiene permiso para borrar estos %d ficheros."</item>
+        <item quantity="one">"No tiene permiso para borrar este fichero."</item>
      </plurals>
      <plurals name="number_of_images">
         <item quantity="other">%1$d fotos</item>
@@ -62,7 +62,7 @@
         <item quantity="one">%1$d</item>
      </plurals>
      <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">You can select %d items</item>
-        <item quantity="one">You can select %d item</item>
+        <item quantity="other">Puede seleccionar %d ítems</item>
+        <item quantity="one">Puede seleccionar %d ítem</item>
      </plurals>
 </resources>
