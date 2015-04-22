@@ -85,21 +85,21 @@ Si reactiva los datos, puede generar gastos extra con su proveedor."</string>
   <string name="dlg_error_title">La operación USB ha fallado</string>
   <string name="dlg_ok">Aceptar</string>
   <string name="drive_mode_tip">"Está en modo coche"</string>
-  <string name="ext_media_badremoval_notification_message">Desmonte el dispositivo USB antes de extraerlo para evitar la pérdida de datos.</string>
-  <string name="ext_media_badremoval_notification_title">Dispositivo USB extraído inesperadamente</string>
+  <string name="ext_media_badremoval_notification_message">Desmonte la tarjeta SD antes de extraerla para evitar la pérdida de datos.</string>
+  <string name="ext_media_badremoval_notification_title">Tarjeta SD extraída inesperadamente</string>
   <string name="ext_media_checking_notification_message">Comprobando errores.</string>
-  <string name="ext_media_checking_notification_title">Preparando dispositivo USB</string>
+  <string name="ext_media_checking_notification_title">Preparando tarjeta SD</string>
   <string name="ext_media_mountable_notification_message">"Presione 'Ir al Explorador'"</string>
   <string name="ext_media_mountable_notification_title">Dispositivo USB conectado</string>
-  <string name="ext_media_nofs_notification_message">USB sin formato o con sistema de archivos no soportado.</string>
-  <string name="ext_media_nofs_notification_title">USB sin formato</string>
-  <string name="ext_media_nomedia_notification_message">USB extraído. Inserte nuevos dispositivos.</string>
-  <string name="ext_media_nomedia_notification_title">Dispositivo USB extraído</string>
+  <string name="ext_media_nofs_notification_message">Tarjeta SD sin formato o con sistema de archivos no soportado.</string>
+  <string name="ext_media_nofs_notification_title">Tarjeta SD sin formato</string>
+  <string name="ext_media_nomedia_notification_message">Tarjeta SD extraído. Inserte una nueva.</string>
+  <string name="ext_media_nomedia_notification_title">tarjeta SD extraída</string>
   <string name="ext_media_safe_remove">Extraer de forma segura</string>
-  <string name="ext_media_safe_unmount_notification_message">Puede extraer el dispositivo USB de forma segura.</string>
-  <string name="ext_media_safe_unmount_notification_title">Es seguro extraer el dispositivo USB</string>
-  <string name="ext_media_unmountable_notification_message">Dispositivo USB dañado. Puede que tenga que reformatearlo.</string>
-  <string name="ext_media_unmountable_notification_title">Dispositivo USB dañado</string>
+  <string name="ext_media_safe_unmount_notification_message">Ahora puede extraer la tarjeta SD de forma segura.</string>
+  <string name="ext_media_safe_unmount_notification_title">Es seguro extraer la tarjeta SD</string>
+  <string name="ext_media_unmountable_notification_message">Tarjeta SD dañada. Puede que tenga que reformatearla.</string>
+  <string name="ext_media_unmountable_notification_title">Tarjeta SD dañada</string>
   <string name="gps_notification_found_text">Localización establecida por GPS</string>
   <string name="gps_notification_searching_text">Buscando GPS</string>
   <string name="headset_custom">Configurar</string>
@@ -117,9 +117,9 @@ Use únicamente el cargador suministrado."</string>
   <string name="mdb_restore_label">Restaurar MDB</string>
   <string name="mdb_restore_mode">Modo restauración</string>
   <string name="mdb_usb_disconnection_exit">USB desconectado</string>
-  <string name="media_projection_action_text">Start now</string>
-  <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
-  <string name="media_projection_remember_text">"Don't show again"</string>
+  <string name="media_projection_action_text">Empezar</string>
+  <string name="media_projection_dialog_text">"%s empezará a capturar todo lo que se visualice en su pantalla."</string>
+  <string name="media_projection_remember_text">"No mostrar de nuevo"</string>
   <string name="mount_storage">Si</string>
   <string name="no_notification_tips">Sin notificaciones</string>
   <string name="notification_otg_gamestick_in">Joystick/Pad conectado</string>
@@ -154,11 +154,11 @@ Use únicamente el cargador suministrado."</string>
   <string name="share">Compartir</string>
   <string name="status_bar_date_format">d.M E</string>
   <string name="status_bar_date_formatter">%2$s</string>
-  <string name="status_bar_network_flow_content">"Today: %1$s   Remaining: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-  <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s"</string>
-  <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
-  <string name="status_bar_network_flow_today">Today: %1$s</string>
+  <string name="status_bar_network_flow_content">"Hoy: %1$s   Restante: %2$s"</string>
+  <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido del plan: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_limit">"   Límite mensual: %1$s"</string>
+  <string name="status_bar_network_flow_purchase">"   Adquirir &gt;"</string>
+  <string name="status_bar_network_flow_today">Hoy: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">No hay aplicaciones recientes</string>
   <string name="status_bar_notification_inspect_item_title">Información de la aplicación</string>
@@ -213,8 +213,8 @@ Use únicamente el cargador suministrado."</string>
   <string name="user_guide_for_notification">Deslice abajo con un dedo para ver la pantalla de notificaciones</string>
   <string name="user_guide_for_toggle">La lista de conmutadores se puede desplazar horizontalmente</string>
   <string name="user_guide_for_toggle_list">Organizar conmutadores</string>
-  <string name="vpn_text">Touch to view settings.</string>
-  <string name="vpn_text_long">Connected to %s. Tap to view details.</string>
-  <string name="vpn_title">VPN activated</string>
-  <string name="vpn_title_long">Connecting to VPN using %s</string>
+  <string name="vpn_text">Toque para ver ajustes.</string>
+  <string name="vpn_text_long">Conectado a %s. Pulse para ver detalles.</string>
+  <string name="vpn_title">VPN activado</string>
+  <string name="vpn_title_long">Conectando a VPN usando %s</string>
 </resources>
