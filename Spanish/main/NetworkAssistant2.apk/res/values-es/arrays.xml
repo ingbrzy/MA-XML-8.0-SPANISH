@@ -25,8 +25,8 @@
         <item>"Este mes: "</item>
      </string-array>
      <string-array name="mi_service_traffic_type">
-        <item>"Uso móvil"</item>
-        <item>"Uso WiFi"</item>
+        <item>"Uso móvil "</item>
+        <item>"Uso WiFi "</item>
      </string-array>
      <string-array name="min_limit_pkg_default">
         <item>1 MB</item>
@@ -34,34 +34,34 @@
         <item>3 MB</item>
      </string-array>
      <string-array name="network_speed_update_internals">
-        <item>3 segundos</item>
-        <item>4 segundos</item>
-        <item>5 segundos</item>
-        <item>6 segundos</item>
-        <item>7 segundos</item>
-        <item>8 segundos</item>
-        <item>9 segundos</item>
+        <item>3 segs</item>
+        <item>4 segs</item>
+        <item>5 segs</item>
+        <item>6 segs</item>
+        <item>7 segs</item>
+        <item>8 segs</item>
+        <item>9 segs</item>
      </string-array>
      <string-array name="over_limit_traffic_waring_style">
-        <item>Show warning</item>
-        <item>Warn and turn mobile data off</item>
+        <item>Mostrar advertencia</item>
+        <item>Advertir y apagar datos móviles</item>
      </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Conseguir la plantilla de mensaje automáticamente</item>
         <item>Configurar la plantilla de mensaje manualmente</item>
      </string-array>
      <string-array name="traffic_sort_type">
-        <item>"Uso de datos móviles"</item>
-        <item>"Uso WiFi"</item>
-        <item>"Datos guardados"</item>
+        <item>"Uso de datos móviles "</item>
+        <item>"Uso WiFi "</item>
+        <item>"Datos guardados "</item>
      </string-array>
      <string-array name="traffic_type">
-        <item>"Uso móvil"</item>
-        <item>"Uso WiFi"</item>
-        <item>"Datos guardados"</item>
+        <item>"Uso móvil "</item>
+        <item>"Uso WiFi "</item>
+        <item>"Datos guardados "</item>
      </string-array>
      <string-array name="traffic_uints">
-        <item>M</item>
-        <item>G</item>
+        <item>MB</item>
+        <item>GB</item>
      </string-array>
 </resources>
