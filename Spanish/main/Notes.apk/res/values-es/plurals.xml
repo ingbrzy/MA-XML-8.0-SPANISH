@@ -2,19 +2,19 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <plurals name="folder_terms">
-        <item quantity="other">%1$s folders</item>
-        <item quantity="one">%1$s folder</item>
+        <item quantity="other">%1$s carpetas</item>
+        <item quantity="one">%1$s carpeta</item>
      </plurals>
      <plurals name="note_count_in_folder">
         <item quantity="other">%1$s notas</item>
         <item quantity="one">1 nota</item>
      </plurals>
      <plurals name="note_terms">
-        <item quantity="other">%1$s notes</item>
-        <item quantity="one">%1$s note</item>
+        <item quantity="other">%1$s notas</item>
+        <item quantity="one">%1$s nota</item>
      </plurals>
      <plurals name="search_results_title">
-        <item quantity="other">%1$s results for \"%2$s\"</item>
-        <item quantity="one">%1$s result for \"%2$s\"</item>
+        <item quantity="other">%1$s resultados para \"%2$s\"</item>
+        <item quantity="one">%1$s resultado para \"%2$s\"</item>
      </plurals>
 </resources>
