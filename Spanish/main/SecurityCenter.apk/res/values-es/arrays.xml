@@ -2,17 +2,17 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string-array name="alarm_repeat_type">
-        <item>Once</item>
-        <item>Everyday</item>
-        <item>Legal workdays</item>
-        <item>Weekdays</item>
-        <item>Custom</item>
+        <item>Una vez</item>
+        <item>Todos los días</item>
+        <item>Días laborables</item>
+        <item>Entre semana</item>
+        <item>Personalizar</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Everyday</item>
-        <item>Weekdays</item>
-        <item>Custom</item>
+        <item>Una vez</item>
+        <item>Todos los días</item>
+        <item>Entre semana</item>
+        <item>Personalizar</item>
      </string-array>
      <string-array name="auto_clean_size">
         <item>100MB</item>
@@ -21,20 +21,20 @@
         <item>1GB</item>
      </string-array>
      <string-array name="auto_clean_time">
-        <item>Everyday</item>
-        <item>Every 3 days</item>
-        <item>Every 7 days</item>
+        <item>Todos los días</item>
+        <item>Cada 3 días</item>
+        <item>Cada 7 días</item>
      </string-array>
      <string-array name="auto_memory_clean">
-        <item>In 1 minute</item>
-        <item>In 5 minutes</item>
-        <item>In 10 minutes</item>
-        <item>Never</item>
+        <item>En 1 minuto</item>
+        <item>En 5 minutos</item>
+        <item>en 10 minutos</item>
+        <item>Nunca</item>
      </string-array>
      <string-array name="auto_process_mode">
-        <item>Prompt with notification</item>
-        <item>Clean in background</item>
-        <item>Show notification after clean</item>
+        <item>Avisar con notificación</item>
+        <item>Limpiar de fondo</item>
+        <item>Mostrar notificación después de limpiar</item>
      </string-array>
      <string-array name="cache_sort_type">
         <item>Tamaño</item>
@@ -56,7 +56,7 @@
      </string-array>
      <string-array name="power_dialog_cpu_state_items">
         <item>Alto rendimiento</item>
-        <item>equilibrado</item>
+        <item>Equilibrado</item>
      </string-array>
      <string-array name="power_dialog_sleep_items">
         <item>15 segundos</item>
@@ -73,18 +73,18 @@
         <item>Siempre vibrar</item>
      </string-array>
      <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Turn off</item>
-        <item>Turn on</item>
-        <item>"Don't change"</item>
+        <item>Apagar</item>
+        <item>Encender</item>
+        <item>"No cambiar"</item>
      </string-array>
      <string-array name="preferred_app_entries">
         <item>Launcher</item>
-        <item>Dial</item>
-        <item>Messaging</item>
-        <item>Browser</item>
-        <item>Camera</item>
-        <item>Gallery</item>
-        <item>Music</item>
-        <item>Email</item>
+        <item>Marcar</item>
+        <item>Mensajes</item>
+        <item>Navegador</item>
+        <item>Cámara</item>
+        <item>Galería</item>
+        <item>Música</item>
+        <item>Correo</item>
      </string-array>
 </resources>
