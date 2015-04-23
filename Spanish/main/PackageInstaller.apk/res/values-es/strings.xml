@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Parse_error_dlg_text">Hay un problema al buscar el paquete.</string>
-  <string name="Parse_error_dlg_title">Error de búsquea</string>
+  <string name="Parse_error_dlg_text">Hubo un problema al analizar el paquete.</string>
+  <string name="Parse_error_dlg_title">Error de análisis</string>
   <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
 
 ¿Permitir ahora y en adelante?"</string>
@@ -10,18 +10,17 @@
   <string name="app_not_found_dlg_text">La aplicación no se encuentra en la lista de aplicaciones instaladas.</string>
   <string name="app_not_found_dlg_title">Aplicación no encontrada</string>
   <string name="auto_startup_dialog_msg">Esta aplicación puede empezar sin su permiso.</string>
-  <string name="caller_app">Llamante: %1$s</string>
+  <string name="caller_app">Solicitud de permiso de %1$s</string>
   <string name="cancel">Cancelar</string>
   <string name="dlg_app_replacement_statement">"La aplicación que está instalando reemplazará a otra aplicación.
 
-Todos los datos previos del usuario se conservarán."</string>
-  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) reemplazará la versión actualmente instalada (%3$s). Los contenidos del Usuario serán conservados.
-¿Está seguro de que quiere instalarla?"</string>
-  <string name="dlg_app_replacement_title">Reemplazar la aplicación</string>
+Se guardarán todos los datos de la aplicacion existente."</string>
+  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) reemplazará la versión actualmente instalada (%3$s). Se guardarán todos los datos de la aplicacion existente.</string>
+  <string name="dlg_app_replacement_title">¿Reemplazar la aplicación existente?</string>
   <string name="dlg_ok">De acuerdo</string>
   <string name="dlg_sys_app_replacement_statement">"Esta es una aplicación de sistema. ¿Seguro que quiere reemplazarla?
 
-Todos los datos previos del usuario se conservarán."</string>
+Se guardarán todos los datos de usuario existentes."</string>
   <string name="done">Hecho</string>
   <string name="high_risk_perms">Permisos de alto riesgo</string>
   <string name="install">Instalar</string>
@@ -33,26 +32,26 @@ Todos los datos previos del usuario se conservarán."</string>
   <string name="install_failed_inconsistent_certificates">Un paquete existente con el mismo nombre y firma conflictiva está ya instalado.</string>
   <string name="install_failed_invalid_apk">El paquete parece estar dañado.</string>
   <string name="install_failed_msg">%1$s no pudo ser instalado en este teléfono.</string>
-  <string name="install_failed_older_sdk">El paquete sólo funciona en funciones más modernas de Android.</string>
+  <string name="install_failed_older_sdk">El paquete sólo funciona en versiones más modernas de Android.</string>
   <string name="install_failed_system_incompatible">"Esta aplicación no es compatible con MIUI"</string>
   <string name="install_failed_verify_failed">El paquete no pasó la verificación y no se puede instalar.</string>
   <string name="install_failed_verify_timeout">El tiempo de espera se agotó durante la verificación de este paquete. Intente instalarlo de nuevo más tarde.</string>
   <string name="installing">Instalando…</string>
   <string name="launch">Abrir</string>
-  <string name="lift_ban">Levantar prohibición</string>
-  <string name="low_risk_perms">Permisos de Bajo riesgo</string>
+  <string name="lift_ban">Permitir</string>
+  <string name="low_risk_perms">Permisos de bajo riesgo</string>
   <string name="manage_applications">Gestionar aplicaciones</string>
   <string name="manage_device_administrators">Gestionar administradores de dispositivo</string>
   <string name="ok">Aceptar</string>
-  <string name="other_relative">Otros permisos</string>
-  <string name="out_of_space_dlg_text">%1$s no pudo ser instalado. Libere espacio y pruebe de nuevo.</string>
-  <string name="out_of_space_dlg_title">Sin espacio</string>
+  <string name="other_relative">Otros</string>
+  <string name="out_of_space_dlg_text">"No hay suficiente espacio de almacenamiento en el dispositivo para instalar %1$s"</string>
+  <string name="out_of_space_dlg_title">No hay espacio suficiente</string>
   <string name="perm_action_accept">Permitir</string>
   <string name="perm_action_prompt">Preguntar</string>
   <string name="perm_action_reject">Denegar</string>
   <string name="perm_notice">Alertar</string>
   <string name="perm_privacy_app_finish">Finalizar</string>
-  <string name="perm_privacy_app_installed">Instalación completa</string>
+  <string name="perm_privacy_app_installed">Aplicación instalada</string>
   <string name="perm_privacy_app_launch">Abrir</string>
   <string name="perm_privacy_app_trust">Solicitar permiso</string>
   <string name="perm_privacy_app_trust_summary">Preguntarme cuando esta aplicación esté intentando acceder a otros componentes del sistema</string>
@@ -67,26 +66,26 @@ Todos los datos previos del usuario se conservarán."</string>
   <string name="permission_group_title_privacy_related">Privacidad</string>
   <string name="permission_group_title_settings_related">Ajustes</string>
   <string name="permission_send_sms_descx">La aplicación podrá enviar SMS y MMS</string>
-  <string name="privacy_relative">Permisos relativos a Privacidad</string>
+  <string name="privacy_relative">Privacidad</string>
   <string name="safe_guard_support">Soporte Técnico suministrado por %1$s</string>
-  <string name="safe_relative">Permisos relativos a la Seguridad</string>
+  <string name="safe_relative">Seguridad</string>
   <string name="security_settings_desc">Permitir a esta aplicación:</string>
   <string name="settings">Ajustes</string>
   <string name="trust_switch_dialog_msg">"No se le preguntará cuando esta aplicación acceda a sus contactos, mensajes, contraseñas u otros componentes del sistema."</string>
-  <string name="uninstall_activity_text">%1$s es parte de las siguientes aplicación:</string>
+  <string name="uninstall_activity_text">%1$s es parte de las siguientes aplicaciones:</string>
   <string name="uninstall_application_text">Esta aplicación será desinstalada.</string>
-  <string name="uninstall_application_title">Desinstalar aplicación</string>
-  <string name="uninstall_confirm_question">¿Quiere Vd. desinstalar la aplicación?</string>
-  <string name="uninstall_done">Desinstalación finalizada</string>
-  <string name="uninstall_failed">Desinstalación fallida</string>
-  <string name="uninstall_failed_device_policy_manager">No se puede desinstalar: este paquete es administrador de dispositivo activo.</string>
+  <string name="uninstall_application_title">¿Desinstalar aplicación?</string>
+  <string name="uninstall_confirm_question">¿Desinstalar aplicación?</string>
+  <string name="uninstall_done">Aplicación desinstalada</string>
+  <string name="uninstall_failed">"No se pudo desinstalar esta aplicación"</string>
+  <string name="uninstall_failed_device_policy_manager">"No se puede desinstalar este paquete, es administrador de dispositivo activo."</string>
   <string name="uninstall_failed_msg">%1$s no pudo ser desinstalado</string>
   <string name="uninstall_failed_retained_app_msg">"Esta aplicación ha sido modificada y no puede ser desinstalada en su forma actual."</string>
   <string name="uninstall_update_text">La aplicación será reemplazada con la versión original.</string>
-  <string name="uninstall_update_title">Desinstalar la actualización</string>
+  <string name="uninstall_update_title">¿Desinstalar la actualización?</string>
   <string name="uninstalling">Desinstalando…</string>
   <string name="unknown">Desconocido</string>
-  <string name="unknown_apps_dlg_text">Por seguridad su teléfono está configurado para bloquear la instalación de aplicaciones obtenidas de fuentes desconocidas. Vd. puede cambiar esto en Ajustes -&gt; Seguridad -&gt; Fuentes desconocidas.</string>
+  <string name="unknown_apps_dlg_text">El teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas. Puede desactivar esta función en Ajustes &gt; Seguridad &gt; Fuentes desconocidas.</string>
   <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
   <string name="unknown_installer">Herramientas de PC no identificadas</string>
   <string name="virus_scan_caller_unknown">Desconocido</string>
