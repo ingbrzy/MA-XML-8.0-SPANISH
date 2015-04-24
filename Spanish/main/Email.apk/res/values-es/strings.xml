@@ -18,7 +18,6 @@
   <string name="abc_searchview_description_voice">Búsqueda por voz</string>
   <string name="abc_shareactionprovider_share_with">Compartir con</string>
   <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-  <string name="account_cache_provider">Cuenta de proveedor de caché</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya estás usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_folder_list_summary_drafts">Borradores</string>
@@ -304,7 +303,6 @@
   <string name="collapse_recipient_details">Colapsar detalles del destinatario</string>
   <string name="colon">:</string>
   <string name="compose">Redactar</string>
-  <string name="compose_help_context">redactar</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado con éxito</string>
   <string name="confirm">confirmar</string>
@@ -338,7 +336,6 @@
   <string name="contextmenu_send_mail">Enviar correo electrónico</string>
   <string name="contextmenu_sharelink">Compartir enlace</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Se trasladó a %1$s</string>
   <string name="conversation_item_mark_read">Leer</string>
   <string name="conversation_item_mark_unread">No leído</string>
@@ -480,7 +477,6 @@
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">"No se pudo reenviar uno o mas archivos adjuntos."</string>
   <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">De</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de borrar</string>
@@ -551,14 +547,6 @@
   <string name="mailbox_name_display_starred">Destacados</string>
   <string name="mailbox_name_display_trash">Papelera</string>
   <string name="mailbox_name_display_unread">No leídos</string>
-  <string name="mailbox_name_server_all_unread">No leídos</string>
-  <string name="mailbox_name_server_drafts">Borradores</string>
-  <string name="mailbox_name_server_inbox">Entrada</string>
-  <string name="mailbox_name_server_junk">No deseado</string>
-  <string name="mailbox_name_server_outbox">Salida</string>
-  <string name="mailbox_name_server_sent">Enviados</string>
-  <string name="mailbox_name_server_starred">Destacados</string>
-  <string name="mailbox_name_server_trash">Papelera</string>
   <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opciones de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Días de correo para sincronizar</string>
@@ -637,7 +625,6 @@ CC: %4$s
   <string name="mibill_privacy_policy_description">Mi Wallet analizará todas las declaraciones de correo electrónico recibidas en su aplicación de correo y administrará todas sus cuentas de tarjetas de crédito por usted. Este servicio se deshabilita de forma predeterminada en el buzón de correo de la empresa.</string>
   <string name="mibill_privacy_policy_link">Aceptar &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Acuerdo Servicio Usuario de Cuentas de Tarjetas de Crédito&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Mi Wallet analiza declaraciones correo electrónico</string>
-  <string name="mock_content_provider">Proveedor de Contenido Mock</string>
   <string name="more_atts_remaining">%1$d más faltan</string>
   <string name="more_atts_total">%1$d archivos adjuntos</string>
   <string name="more_context">Más</string>
@@ -838,14 +825,9 @@ CC: %4$s
   <string name="reply">Responder</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">En %s, %s escribió:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Responder a: "</string>
   <string name="report">Informe</string>
   <string name="report_phishing">Denunciar phishing</string>
-  <string name="report_rendering_improvement">Parece bueno</string>
-  <string name="report_rendering_improvement_desc">Este mensaje parece bueno.</string>
-  <string name="report_rendering_problem">Parece malo</string>
-  <string name="report_rendering_problem_desc">Este mensaje parece malo.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
   <string name="require_manual_sync_message">La sincronización offline para esta cuenta está deshabilitada en itinerancia.</string>
@@ -1001,7 +983,6 @@ CC: %4$s
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Toque la notificación para completar la instalación.</string>
   <string name="wait_for_sync_title">A la espera de sincronización</string>
-  <string name="wait_help_context">espere</string>
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Otros</string>
