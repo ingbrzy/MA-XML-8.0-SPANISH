@@ -10,17 +10,17 @@
         <item>1</item>
      </string-array>
      <string-array name="agps_network_entries">
-        <item>Home network</item>
-        <item>All network</item>
+        <item>Red doméstica</item>
+        <item>Todas las redes</item>
      </string-array>
      <string-array name="agps_network_values">
         <item>0</item>
         <item>1</item>
      </string-array>
      <string-array name="agps_reset_type_entries">
-        <item>HOT</item>
-        <item>WARM</item>
-        <item>COLD</item>
+        <item>CALIENTE</item>
+        <item>TEMPLADO</item>
+        <item>FRIO</item>
      </string-array>
      <string-array name="agps_reset_type_values">
         <item>0</item>
@@ -185,7 +185,7 @@
         <item>Siempre</item>
      </string-array>
      <string-array name="captioning_edge_type_selector_titles">
-        <item>None</item>
+        <item>Ninguno</item>
         <item>Subrayar</item>
         <item>Sombrear</item>
      </string-array>
@@ -333,12 +333,12 @@
         <item>Suave</item>
      </string-array>
      <string-array name="mi1_led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Pink</item>
-        <item>Violet</item>
-        <item>Purple</item>
+        <item>Azul</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Violeta</item>
+        <item>Púrpura</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP y anterior</item>
@@ -385,11 +385,11 @@ Nota: Solo para Ubuntu 8.04!"</item>
      <string-array name="overlay_display_devices_entries">
         <item>None</item>
         <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
+        <item>720x480 mdpi (seguro)</item>
         <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
+        <item>1280x720 tvdpi (seguro)</item>
         <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
+        <item>1920x1080 xhdpi (seguro)</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
      </string-array>
      <string-array name="perm_hips_action">
@@ -402,10 +402,10 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>Doble micrófono para supresión de ruido</item>
      </string-array>
      <string-array name="pink_panel_led_color_entries">
-        <item>Lilac</item>
-        <item>Ruby</item>
-        <item>Orange</item>
-        <item>Green</item>
+        <item>Lila</item>
+        <item>Rubí</item>
+        <item>Naranja</item>
+        <item>Verde</item>
         <item>Magenta</item>
      </string-array>
      <string-array name="pink_panel_led_color_values">
@@ -463,14 +463,14 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>Mostrar menú</item>
      </string-array>
      <string-array name="screen_optimize_summary">
-        <item>Optimize contrast for available light</item>
-        <item>"Increase display's contrast"</item>
-        <item>Contrast will remain constant</item>
+        <item>Optimizar contraste para la luz disponible</item>
+        <item>"Incrementar contraste de pantalla"</item>
+        <item>Contraste permanecerá constante</item>
      </string-array>
      <string-array name="screen_optimize_title">
-        <item>Automatic contrast</item>
-        <item>Increased contrast</item>
-        <item>Standard</item>
+        <item>Contraste automático</item>
+        <item>Contraste aumentado</item>
+        <item>Estandar</item>
      </string-array>
      <string-array name="screen_saturation_title">
         <item>Brillante</item>
