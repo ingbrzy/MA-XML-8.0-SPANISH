@@ -32,19 +32,6 @@
         <item>1.2</item>
         <item>1.21</item>
      </string-array>
-     <string-array name="st_antispam_mode_defined_state">
-        <item>@string/st_antispam_mode_smart_state</item>
-        <item>@string/st_antispam_mode_blacklist_state</item>
-        <item>@string/st_antispam_mode_only_contacts_state</item>
-        <item>@string/st_antispam_mode_only_whitelist_state</item>
-        <item>@string/st_antispam_mode_only_all_deny_state</item>
-     </string-array>
-     <string-array name="st_antispam_mode_defined_state_international">
-        <item>@string/st_antispam_mode_blacklist_state</item>
-        <item>@string/st_antispam_mode_only_contacts_state</item>
-        <item>@string/st_antispam_mode_only_whitelist_state</item>
-        <item>@string/st_antispam_mode_only_all_deny_state</item>
-     </string-array>
      <string-array name="system_data_label">
         <item>Contactos</item>
         <item>Registro de llamadas</item>
