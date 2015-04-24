@@ -102,7 +102,7 @@
   <string name="call_recording_notification_summary">Mostrar notificación en la barra de estado cuando la llamada se haya grabado</string>
   <string name="call_recording_notification_title">Grabando llamada</string>
   <string name="call_recording_notification_title_error">La grabación de la llamada ha fallado</string>
-  <string name="call_recording_notification_toggle_title">Call recording notification</string>
+  <string name="call_recording_notification_toggle_title">Notificación de grabación de llamadas</string>
   <string name="call_recording_setting">Llamadas grabadas</string>
   <string name="call_remove_exception_numbers_confirm">%d números serán eliminados.</string>
   <string name="call_settings">Ajustes de llamada</string>
@@ -345,7 +345,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="ims_service_capability_title">Habilitar/Deshabilitar el servicio IMS</string>
   <string name="incall_error_call_failed">Llamada no enviada.</string>
   <string name="incall_error_emergency_only">No registrado en la red.</string>
-  <string name="incall_error_no_active_sim">"SIM card hasn't been activated"</string>
+  <string name="incall_error_no_active_sim">"La tarjeta SIM no se ha activado"</string>
   <string name="incall_error_no_phone_number_supplied">Llamada no enviada, se introdujo un número no válido.</string>
   <string name="incall_error_out_of_service">Red móvil no está disponible.</string>
   <string name="incall_error_power_off">Para realizar una llamada, primero desactive el modo avión.</string>
@@ -541,7 +541,7 @@ Puede tardar más de 5 minutos."</string>
   <string name="ota_successful">Su teléfono ya esta activado. El servicio puede tardar hasta 15 minutos en iniciarse.</string>
   <string name="ota_title_activate">Activar su teléfono</string>
   <string name="ota_title_activate_success">El teléfono esta activado. </string>
-  <string name="ota_title_problem_with_activation">Problem with activation</string>
+  <string name="ota_title_problem_with_activation">Problema con la activación</string>
   <string name="ota_touch_activate">"Se necesita realizar una llamada especial para activar el servicio de su teléfono.
 
 Después de pulsar “Activar”, escuché las instrucciones suministradas para activar su teléfono."</string>
@@ -591,7 +591,7 @@ El teléfono se bloqueará automáticamente después de otro intento fallido"</s
   <string name="preference_dial_pad_touch_tone_default">Por defecto</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Tonos de teclas de marcado</string>
-  <string name="preference_telocation_summary_countrycode_off">"Don't auto-dial country code"</string>
+  <string name="preference_telocation_summary_countrycode_off">"No auto-marcar el código del país"</string>
   <string name="preference_telocation_summary_countrycode_on">Marcar automáticamente el código de país</string>
   <string name="preference_telocation_summary_teloc_off">Ocultar localización del contacto</string>
   <string name="preference_telocation_summary_teloc_on">Mostrar localización del contacto</string>
@@ -599,7 +599,7 @@ El teléfono se bloqueará automáticamente después de otro intento fallido"</s
   <string name="preferred_network_mode_dialogtitle">Tipo de red preferida</string>
   <string name="preferred_network_mode_summary">Cambiar el modo de operación de la red</string>
   <string name="preferred_network_mode_title">Tipo de red preferida</string>
-  <string name="preferred_network_restrict_network_changed_incall">"Can't change mobile network during call"</string>
+  <string name="preferred_network_restrict_network_changed_incall">"No se puede cambiar de red móvil durante una llamada"</string>
   <string name="preferred_network_type_3g_only_warning">"No podrá conectarse a la red si su tarjeta SIM no tiene activada la función 3G."</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">Red 3G preferiblemente</string>
@@ -682,7 +682,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="restaurants_enable">Restaurantes habilitados</string>
   <string name="retail_directory_disable">Tiendas deshabilitadas</string>
   <string name="retail_directory_enable">Tiendas habilitadas</string>
-  <string name="retry_btn">Retry</string>
+  <string name="retry_btn">Reintentar</string>
   <string name="reverting_settings">Deshaciendo camdios</string>
   <string name="rhrpd_unlock_failed">Petición de desbloqueo RUIM Hrpd no aceptado</string>
   <string name="rhrpd_unlock_success">Petición de desbloqueo RUIM Hrpd aceptado</string>
@@ -858,7 +858,7 @@ Contacte con su operador si este problema persiste."</string>
   <string name="voicemail_settings_number_hint">Introducir número del buzón de voz</string>
   <string name="voicemail_settings_number_label">Número Voicemail</string>
   <string name="voicemail_settings_number_title">Número Voicemail</string>
-  <string name="voip_setting">Voip settings</string>
+  <string name="voip_setting">Ajustes Voip</string>
   <string name="wrong_password">Contraseña incorrecta</string>
   <string name="xdivert_button">Ajustes X-Divert</string>
   <string name="xdivert_setting">Ajustes X-Divert</string>
