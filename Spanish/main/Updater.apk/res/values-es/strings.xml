@@ -8,14 +8,14 @@
   <string name="apply_title">Actualizando (%s)</string>
   <string name="apply_update_dialog_cancel_button">Cancelar</string>
   <string name="apply_update_dialog_update_button">Actualizar</string>
-  <string name="auto_agree_clause">Privacy Policy updated</string>
-  <string name="auto_button_examine">View</string>
-  <string name="auto_button_examine_immediately">View</string>
-  <string name="auto_button_sure_cancel">Cancel</string>
-  <string name="auto_check_clause_button">View</string>
-  <string name="auto_dialog_msg">"We've updated our Privacy Policy. Please read it carefully before updating your system. "</string>
-  <string name="auto_dialog_msg_check_again">"You must agree to our updated Privacy Policy before you can update your system. "</string>
-  <string name="auto_dialog_title_check_again">Cancel update?</string>
+  <string name="auto_agree_clause">Política de Privacidad actualizada</string>
+  <string name="auto_button_examine">Ver</string>
+  <string name="auto_button_examine_immediately">Ver</string>
+  <string name="auto_button_sure_cancel">Cancelar</string>
+  <string name="auto_check_clause_button">Ver</string>
+  <string name="auto_dialog_msg">"Hemos actualizado nuestra Política de Privacidad. Por favor, leala cuidadosamente antes de actualizar el sistema. "</string>
+  <string name="auto_dialog_msg_check_again">"Usted debe estar de acuerdo con nuestra Política de Privacidad actualizada antes de poder actualizar el sistema. "</string>
+  <string name="auto_dialog_title_check_again">¿Cancelar actualización?</string>
   <string name="auto_update">Actualizar automáticamente</string>
   <string name="auto_update_sum">Elegir automáticamente las mejores horas para descargar actualizaciones</string>
   <string name="autosetmode">Ajustes de actualización</string>
@@ -32,7 +32,7 @@
   <string name="check_update_policy">Ajustes</string>
   <string name="check_update_when_wifi_available">Utilizar solo WiFi para comprobar actualizaciones</string>
   <string name="check_update_when_wifi_available_sum">Usar sólo WiFi para comprobar si hay actualizaciones</string>
-  <string name="clean_up_button">Clean up</string>
+  <string name="clean_up_button">Limpiar</string>
   <string name="comment_invalid">Califica esta actualización (selecciona las estrellas)</string>
   <string name="comment_publish">Confirmar</string>
   <string name="comment_sending">Enviando…</string>
@@ -64,7 +64,7 @@
   <string name="get_current">Get actual</string>
   <string name="get_update_error">No se ha podido conseguir información sobre actualizaciones</string>
   <string name="go_on_download">Continuar</string>
-  <string name="important_suggestion">Privacy Policy has changed</string>
+  <string name="important_suggestion">La Política de Privacidad ha cambiado</string>
   <string name="install">Instalar</string>
   <string name="install_failed">Actualización fallida</string>
   <string name="install_local">Instalación local</string>
@@ -102,9 +102,9 @@
   <string name="notification_reboot_btn">Reiniciar</string>
   <string name="notification_reboot_seccess_des">Toque para compartir la información de la actualización.</string>
   <string name="notification_reboot_seccess_title">¡Dispositivo actualizado!</string>
-  <string name="notification_reboot_summary_hm">Touch to reboot your device.</string>
+  <string name="notification_reboot_summary_hm">Toque para reiniciar el dispositivo.</string>
   <string name="notification_reboot_title">Actualización completa</string>
-  <string name="notification_reboot_title_hm">Reboot to apply update</string>
+  <string name="notification_reboot_title_hm">Reinicie para aplicar la actualización</string>
   <string name="notification_share">Compartir</string>
   <string name="notification_update_new_version">Actualización disponible</string>
   <string name="notification_update_now">Actualizar ya</string>
@@ -117,10 +117,10 @@
   <string name="progress_title_checking">Comprobando actualizaciones…</string>
   <string name="reboot">Reiniciar</string>
   <string name="recovery_failed_button">OK</string>
-  <string name="recovery_failed_msg">"Your device doesn't have enough memory to enter Recovery mode and update your system. Try using Mi PC Suite instead:
+  <string name="recovery_failed_msg">"El dispositivo no tiene suficiente memoria para entrar en modo Recovery y actualizar su sistema. Trate de usar Mi PC Suite en su lugar:
 http://zhushou.xiaomi.com"</string>
-  <string name="recovery_failed_notification_msg">"Can't enter Recovery mode"</string>
-  <string name="recovery_failed_title">Use Mi PC Suite to update your system</string>
+  <string name="recovery_failed_notification_msg">"No puede entrar en modo Recovery"</string>
+  <string name="recovery_failed_title">Utilizar Mi PC Suite para actualizar el sistema</string>
   <string name="repeat">Reintentar</string>
   <string name="set_auto">Establecido Modo Auto</string>
   <string name="set_auto_msg">Gestione la actualización automática de aplicaciones que no tengan prisa, para que se lleve a cabo por WiFi cuando esté disponible.</string>
@@ -165,8 +165,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_feedback_end">"Olvidó que esta semana es de four-grid"</string>
   <string name="update_feedback_end_sum">Puede unirse cada Martes.</string>
   <string name="update_feedback_expired">"Te perdiste la ronda de comentarios de esta semana. Pero podrás participar de nuevo el próximo martes"</string>
-  <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
-  <string name="update_feedback_need_network">Connect to network first</string>
+  <string name="update_feedback_need_account">Necesita identificarse primero en su Mi Account</string>
+  <string name="update_feedback_need_network">Conectese primero a la red</string>
   <string name="update_feedback_need_update">Actualmente no está usando la última versión de desarrollo. Actualizce a la última versión antes de votar.</string>
   <string name="update_feel">¿Qué le parece?</string>
   <string name="update_general">Más o menos</string>
@@ -178,7 +178,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_success_title">Actualización completada!</string>
   <string name="updater_nolog">No hay registro</string>
   <string name="updater_nonetwork">Conéctese a la red para obtener el registro</string>
-  <string name="updater_nonetwork_clause">"Can't connect to the network"</string>
+  <string name="updater_nonetwork_clause">"No se puede conectar a la red"</string>
   <string name="upgrade_close">Cerrar</string>
   <string name="upgrade_kernel">Su kernel está obsoleto</string>
   <string name="upgrade_kernel_msg">"LA versión de kernel que estás utilizando no coincide con la última versión de MIUI. Es necesario actualizar la versión de kernel manualmente. Diríjase al  tutorial de actualización de Xiaomi: "</string>
@@ -189,22 +189,22 @@ http://zhushou.xiaomi.com"</string>
   <string name="validate_pkg_failed_title">"No se puede verificar la actualización"</string>
   <string name="view_upgrade_tutorial">Ver</string>
   <string name="vote_beta">Beta Feedback Program</string>
-  <string name="vote_error1">"Look's like you're not a member
-of the Beta Feedback Program"</string>
-  <string name="vote_error2">"Couldn't submit feedback.
-Update your device and try again"</string>
-  <string name="vote_error3">"Couldn't sign in.
-Try signing in your Mi Account again."</string>
-  <string name="vote_error4">You already submitted feedback</string>
-  <string name="vote_error5">"Something went wrong
-Couldn't submit feedback"</string>
-  <string name="vote_error_nonetwork">"Can't connect to the network"</string>
-  <string name="vote_experience">Forum experience</string>
-  <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
-  <string name="vote_join">Voted</string>
-  <string name="vote_not_recommend">"Don't recommend"</string>
-  <string name="vote_recommend">Recommend this update</string>
-  <string name="vote_submit">Submit</string>
+  <string name="vote_error1">"Parece que no es miembro
+del Beta Feedback Program"</string>
+  <string name="vote_error2">"No se pudo enviar comentarios.
+Actualice su dispositivo y vuelva a intentarlo"</string>
+  <string name="vote_error3">"No se puede identificar.
+Intente identificarse de nuevo en su Mi Account."</string>
+  <string name="vote_error4">Usted ya ha enviado comentarios</string>
+  <string name="vote_error5">"Álgo fué mal
+No se pudo enviar comentarios"</string>
+  <string name="vote_error_nonetwork">"No se puede conectar a la red"</string>
+  <string name="vote_experience">Experiencia del foro</string>
+  <string name="vote_hint">Obtener 20 puntos de experiencia para el foro MIUI cuando vote</string>
+  <string name="vote_join">Votado</string>
+  <string name="vote_not_recommend">"No recomendar"</string>
+  <string name="vote_recommend">Recomendar esta actualización</string>
+  <string name="vote_submit">Entregar</string>
   <string name="weekly_build">Semanal</string>
   <string name="worst_update">La peor actualización hasta el momento</string>
 </resources>
