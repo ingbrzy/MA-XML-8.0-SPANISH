@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Only_the_wifi">Utilice únicamente WiFi</string>
+  <string name="Only_the_wifi">Utilice únicamente Wi-Fi</string>
   <string name="add_flow_fail_haveget_msg">El periodo de prueba ha terminado.</string>
   <string name="add_flow_fail_vip_msg">El acelerador de descargas Xunlei está activado</string>
   <string name="add_flow_success_msg">%s añadidos este mes</string>
@@ -80,7 +80,7 @@
   <string name="free_high_speed_channel">Canal gratuito de alta velocidad</string>
   <string name="free_speedup_exp">Pruebe gratis el acelerador Xunlei</string>
   <string name="get_account_dialog_msg">Obteniendo información de la cuenta</string>
-  <string name="get_order_dialog_msg">Conseguiendo información del pedido</string>
+  <string name="get_order_dialog_msg">Consiguiendo información del pedido</string>
   <string name="get_order_fail_msg">"No se puede obtener información del pedido…"</string>
   <string name="high_speed_channel">Canal acelerador</string>
   <string name="immediately_a_renewal">Renueve su suscripción ahora</string>
@@ -107,20 +107,20 @@
   <string name="pause_download">Pausar</string>
   <string name="paused_by_app">En pausa</string>
   <string name="paused_insufficient_space">A la espera de tener espacio suficiente</string>
-  <string name="paused_queued_for_wifi">A la espera de WiFi</string>
+  <string name="paused_queued_for_wifi">A la espera de Wi-Fi</string>
   <string name="paused_unknown">En pausa</string>
   <string name="paused_waiting_for_network">A la espera de la red</string>
   <string name="paused_waiting_to_retry">Esperando para reintentar</string>
   <string name="period_of_validity">Validez:</string>
   <string name="pref_download_settings_title">Límite de tamaño de descarga</string>
-  <string name="pref_summary_any_bytes_popup">Sólo descargar archivos mediante conexión WiFi</string>
+  <string name="pref_summary_any_bytes_popup">Sólo descargar archivos mediante conexión Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se usen datos móviles para descargar contenido</string>
-  <string name="pref_summary_max_bytes_limit_format">Descargar por WiFi si la descarga excede %s</string>
+  <string name="pref_summary_max_bytes_limit_format">Descargar por Wi-Fi si la descarga excede %s</string>
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar indicador de uso de datos</string>
   <string name="preferences_title">Ajustes</string>
   <string name="privacy_tip_cancel">Cancelar</string>
-  <string name="privacy_tip_content">¿Usar el Acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su Mi Account también se subirán para comprobar si tiene Vd. alguna suscripción activa a este servicio.</string>
+  <string name="privacy_tip_content">¿Usar el Acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su cuenta Mi también se subirán para comprobar si tiene Vd. alguna suscripción activa a este servicio.</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">¿Usar acelerador Xunlei?</string>
   <string name="remove_download">Eliminar</string>
@@ -134,7 +134,7 @@
   <string name="toast_xunlei_engine_open">Se ha activado el acelerador de descargas Xunlei</string>
   <string name="turn_off_xunlei_message">Puede que la velocidad de descarga sea baja.</string>
   <string name="turn_off_xunlei_tips">Acelerador de descarga Xunlei apagado</string>
-  <string name="turn_off_xunlei_title">Deshabilitar motor descarga Xunlei</string>
+  <string name="turn_off_xunlei_title">Desactivar motor descarga Xunlei</string>
   <string name="unbind_xunlei_2_success">Cuenta Xunlei añadida</string>
   <string name="unbind_xunlei_success">Sesión terminada en la Cuenta Xunlei</string>
   <string name="valid_in_this_month">Sólo válido este mes</string>

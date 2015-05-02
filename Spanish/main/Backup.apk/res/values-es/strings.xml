@@ -3,7 +3,7 @@
   <string name="account_contact_backup_info">Datos de cuenta Google, Mi y contactos</string>
   <string name="account_login">Iniciar sesión</string>
   <string name="account_summary">Copia de seguridad de cuenta Google, Mi y otros datos de usuario</string>
-  <string name="already_enable_encrypt">Cifrado habilitado</string>
+  <string name="already_enable_encrypt">Cifrado activado</string>
   <string name="app_name">Copia de seguridad</string>
   <string name="auto_backup">Copia de seguridad automática</string>
   <string name="auto_backup_all_user_apps">Todas las aplicaciones</string>
@@ -11,7 +11,7 @@
   <string name="auto_backup_choose_empty">No hay copias de seguridad</string>
   <string name="auto_backup_choose_title">Elegir elementos de la copia de seguridad</string>
   <string name="auto_backup_date">Frecuencia de copia de seguridad</string>
-  <string name="auto_backup_only_wifi">Únicamente al conectarse a WiFi</string>
+  <string name="auto_backup_only_wifi">Únicamente al conectarse a Wi-Fi</string>
   <string name="auto_backup_open">Copias de seguridad automáticas</string>
   <string name="auto_backup_progress">Haciendo copia de seguridad…</string>
   <string name="auto_backup_select_user_apps">Elija las aplicaciones</string>
@@ -74,14 +74,14 @@
   <string name="delete_failed_backup_confirm">"Esta copia de seguridad no puede utilizarse para restaurar sus datos porque contiene errores."</string>
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="dir_date_format">aaaaMMdd_HHmmss</string>
-  <string name="disable_encrypt_title">Deshabilitar el cifrado</string>
-  <string name="enable_encrypt">Habilitar</string>
+  <string name="disable_encrypt_title">Desactivar el cifrado</string>
+  <string name="enable_encrypt">Activar</string>
   <string name="enable_encrypt_fail">Error de cifrado</string>
   <string name="enable_encrypt_indicator">Toque para cifrar</string>
   <string name="enable_encrypt_ok">Correcto</string>
   <string name="enable_encrypt_summery1">Tienes que iniciar sesión con tu cuenta Mi para acceder a las copias de seguridad cifradas.</string>
   <string name="enable_encrypt_summery2">"Las copias de seguridad se cifrarán automáticamente. Necesitarás iniciar sesión en tu cuenta Mi para acceder a las copias de seguridad cifradas."</string>
-  <string name="enable_encrypt_title">Habilitar el cifrado</string>
+  <string name="enable_encrypt_title">Activar el cifrado</string>
   <string name="enable_encrypt_xiaomi_account">Esta copia de seguridad fue creada por %1$s. Para restaurar, borrar la cuenta actual e iniciar sesión como %2$s.</string>
   <string name="every_day">Cada día</string>
   <string name="exchange_account">Cambiar de cuenta</string>
@@ -142,7 +142,7 @@
   <string name="sc_precondition_failed">Tienes que asociar tu cuenta Mi con una dirección válida de correo electrónico</string>
   <string name="sc_request_timeout">Agotado el tiempo de solicitud</string>
   <string name="sc_service_unavailable">Mi Cloud no accesible</string>
-  <string name="sc_unaccess_password_file">"No guardar la contraseña WiFi"</string>
+  <string name="sc_unaccess_password_file">"No guardar la contraseña Wi-Fi"</string>
   <string name="sc_unauthorized">Por favor identifíquese de nuevo</string>
   <string name="sd_not_available">Tarjeta SD no detectada</string>
   <string name="sdcard_no_enough_space">No hay suficiente espacio</string>
@@ -195,6 +195,6 @@
   <string name="unit_byte">"  bytes"</string>
   <string name="unit_piece">"  ítems"</string>
   <string name="unknown_hint">Desconocido</string>
-  <string name="wifi_title">Configuración WiFi</string>
+  <string name="wifi_title">Configuración Wi-Fi</string>
   <string name="xiaomi_account_type">com.Xiaomi</string>
 </resources>

@@ -141,7 +141,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_light_sensor_check_title">Sensor de luz</string>
   <string name="cit_magnetic_sensor_check_summary">Los valores para X，Y，Z, coordenadas deben aparecer debajo de</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
-  <string name="cit_main_camera_check_summary">"Instrucciones de la prueba: 1 Pulse brevemente el botón de cámara más abajo para entrar en cámara posterior interfaz 2 Asegúrese de que el flash esté habilitado 3 Tap el obturador botón 4 toque el icono del cheque. El sistema guardará la foto automáticamente. 5. la foto que tomaste debe mostrarse por debajo. Pulse eliminar para completar la prueba".</string>
+  <string name="cit_main_camera_check_summary">"Instrucciones de la prueba: 1 Pulse brevemente el botón de cámara más abajo para entrar en cámara posterior interfaz 2 Asegúrese de que el flash esté activado 3 Tap el obturador botón 4 toque el icono del cheque. El sistema guardará la foto automáticamente. 5. la foto que tomaste debe mostrarse por debajo. Pulse eliminar para completar la prueba".</string>
   <string name="cit_main_camera_check_title">Cámara trasera</string>
   <string name="cit_name">Pruebas de hardware</string>
   <string name="cit_not_available">"Esta prueba no está disponible en esta versión de MIUI"</string>
@@ -207,7 +207,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_tool_bluetooth_tx_h">Introduzca bluetooth solo sonido test（2.480 GHz) modo</string>
   <string name="cit_tool_bluetooth_tx_l">Entrar en test（2.402GHz）mode sonido único bluetooth</string>
   <string name="cit_tool_cal_camera">Herramienta de calibración de cámara</string>
-  <string name="cit_tool_enable_3A_log">Habilitar registro 3A interruptor</string>
+  <string name="cit_tool_enable_3A_log">Activar registro 3A interruptor</string>
   <string name="cit_tool_log">Obtener registros</string>
   <string name="cit_tool_log_bugreport">Informe de fallo</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -229,7 +229,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
   <string name="cit_tool_nfc_st_run">Ejecutar</string>
   <string name="cit_tool_nfc_st_stop">Parar</string>
-  <string name="cit_tool_wifi">Herramienta de prueba de WiFi</string>
+  <string name="cit_tool_wifi">Herramienta de prueba de Wi-Fi</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1 + 2</string>
   <string name="cit_tool_wifi_chain_2">2</string>
@@ -288,11 +288,11 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_vibrator_play_touch_pattern">Vibración</string>
   <string name="cit_vibrator_short">Vibración corta</string>
   <string name="cit_vibrator_show_advanced">Mostrar opciones avanzadas</string>
-  <string name="cit_wifi_address_check_summary">Abajo se muestra la dirección de la red WiFi a la que el teléfono está conectado actualmente. Confirme que es correcta la información resaltada en verde.</string>
-  <string name="cit_wifi_address_check_title">Dirección WiFi</string>
-  <string name="cit_wifi_address_error">"No pudo recibir una dirección WiFi. Asegúrese de que está activada la WiFi."</string>
-  <string name="cit_wifi_ap_scan_check_summary">Abajo se encuentra la información de los dispositivos en el área que se detectaron la AP WiFi. Confirmar que es correcta la información resaltada en verde.</string>
-  <string name="cit_wifi_ap_scan_check_title">WiFi AP Scan</string>
+  <string name="cit_wifi_address_check_summary">Abajo se muestra la dirección de la red Wi-Fi a la que el teléfono está conectado actualmente. Confirme que es correcta la información resaltada en verde.</string>
+  <string name="cit_wifi_address_check_title">Dirección Wi-Fi</string>
+  <string name="cit_wifi_address_error">"No pudo recibir una dirección Wi-Fi. Asegúrese de que está activada la Wi-Fi."</string>
+  <string name="cit_wifi_ap_scan_check_summary">Abajo se encuentra la información de los dispositivos en el área que se detectaron la AP Wi-Fi. Confirmar que es correcta la información resaltada en verde.</string>
+  <string name="cit_wifi_ap_scan_check_title">Wi-Fi AP Scan</string>
   <string name="cit_wifi_ap_scan_retry">Escaneando otra vez…</string>
   <string name="cit_wifi_ap_scanning">Escaneando…</string>
   <string name="cit_wifi_fail_to_scan">"No se podía buscar redes"</string>

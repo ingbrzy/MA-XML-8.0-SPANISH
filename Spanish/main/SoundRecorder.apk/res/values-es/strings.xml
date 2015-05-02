@@ -59,7 +59,7 @@ Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string
   <string name="record_download_paused">Pausada</string>
   <string name="record_download_pending">Pendiente</string>
   <string name="record_download_progress">%d%%</string>
-  <string name="record_downloading_notification">Desargando…</string>
+  <string name="record_downloading_notification">Descargando…</string>
   <string name="record_downloading_notification_complete">Descarga completa</string>
   <string name="record_downloading_notification_count">%d descargando</string>
   <string name="record_list">Grabaciones</string>
@@ -83,8 +83,8 @@ Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string
   <string name="status_bar_back">Toque esta barra para volver</string>
   <string name="status_bar_recording">Grabando…</string>
   <string name="status_bar_recording_pause">Grabadora en pausa</string>
-  <string name="sync_only_in_wifi">Usar sólo WiFi para sincronizar</string>
-  <string name="sync_only_in_wifi_summary">La grabadora no usará datos móviles para descargar y subir grabaciones si esta opción está habilitada</string>
+  <string name="sync_only_in_wifi">Usar sólo Wi-Fi para sincronizar</string>
+  <string name="sync_only_in_wifi_summary">La grabadora no usará datos móviles para descargar y subir grabaciones si esta opción está activada</string>
   <string name="sync_records">Sincronizar con Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Este archivo se está descargando</string>
@@ -92,7 +92,7 @@ Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string
   <string name="toast_uninstall_fileexplorer">"El Explorador no está instalado"</string>
   <string name="wifi_recommended_body" formatted="false">"Empezar esta %s descarga ahora puede acortar la duración de su batería y/o generar un uso excesivo de sus datos de conexión móvil, lo cual puede derivar en cargos de su operador dependiendo de su plan de datos.
 
- Toque %s para empezar esta descarga la próxima vez que Vd. esté conectado a una red WiFi"</string>
+ Toque %s para empezar esta descarga la próxima vez que Vd. esté conectado a una red Wi-Fi"</string>
   <string name="wifi_recommended_title">Aviso de Tráfico</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -29,7 +29,7 @@
   <string name="account_user_gender">Género</string>
   <string name="account_user_gender_female">Femenino</string>
   <string name="account_user_gender_male">Masculino</string>
-  <string name="account_user_id">Mi Account ID</string>
+  <string name="account_user_id">Cuenta Mi ID</string>
   <string name="account_user_name">Nombre</string>
   <string name="account_user_name_dialog_title">Introduzca nombre de usuario</string>
   <string name="account_user_phone">Número de teléfono</string>
@@ -74,7 +74,7 @@
   <string name="device_list__header">Mis dispositivos</string>
   <string name="device_list_title">Mis dispositivos</string>
   <string name="device_trust_info">Dispositivo de confianza</string>
-  <string name="email_or_id_hint_text">Dirección de correo o Mi Account ID</string>
+  <string name="email_or_id_hint_text">Dirección de correo o cuenta Mi ID</string>
   <string name="empty_device_list_notice">Sin dispositivos</string>
   <string name="error_device_id">No se puede obtener el IMEI</string>
   <string name="error_invalid_dev_id">ID de dispositivo no válido</string>
@@ -115,7 +115,7 @@
   <string name="micloud_error_empty_pwd">Introduzca su contraseña</string>
   <string name="micloud_reg_new">Crear una cuenta</string>
   <string name="micloud_space_info">%s restantes</string>
-  <string name="micloud_sync_state_need_wifi">Use WiFi para sincronizar</string>
+  <string name="micloud_sync_state_need_wifi">Use Wi-Fi para sincronizar</string>
   <string name="micloud_sync_state_pending">Pendiente</string>
   <string name="micloud_sync_state_stop">Parado</string>
   <string name="micloud_sync_state_synced">Sincronizado</string>
@@ -138,7 +138,7 @@
   <string name="passport_account_not_actived">"Su cuenta no ha sido activada"</string>
   <string name="passport_active_email_visit">Revise su bandeja de entrada en %s</string>
   <string name="passport_activing_account">Activando…</string>
-  <string name="passport_app_name">Mi Account</string>
+  <string name="passport_app_name">Cuenta Mi</string>
   <string name="passport_area_code_hot">Usado frecuentemente</string>
   <string name="passport_area_code_title">Código de país</string>
   <string name="passport_bad_authentication">Nombre de usuario o contraseña incorrectos</string>
@@ -156,10 +156,10 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_completed">Finalizar</string>
   <string name="passport_confirm">Confirmar</string>
   <string name="passport_delete_account">Cerrar sesión</string>
-  <string name="passport_dspt_provision">"Utilice su Mi Account para iniciar sesión en Mi Cloud, MIUI Theme Store, y otros servicios Mi, desde cualquier parte. "</string>
+  <string name="passport_dspt_provision">"Utilice su cuenta Mi para iniciar sesión en Mi Cloud, MIUI Theme Store, y otros servicios Mi, desde cualquier parte. "</string>
   <string name="passport_dspt_provision2">Aprender más</string>
   <string name="passport_email">Dirección Email</string>
-  <string name="passport_email_or_id_hint_text">Dirección Email o ID de Mi Account</string>
+  <string name="passport_email_or_id_hint_text">Dirección Email o ID de cuenta Mi</string>
   <string name="passport_email_reg_success_summary">%1$s se ha unido con su cuenta. Usted puede utilizarlo para acceder o para restablecer su contraseña.</string>
   <string name="passport_error_device_id">"No se puede obtener la identidad del dispositivo"</string>
   <string name="passport_error_dup_email">Este correo electrónico ya está asociado a otra cuenta</string>
@@ -202,8 +202,8 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_login_instead_reg">Usar este número</string>
   <string name="passport_login_instead_reg_with_email">Usar este Email</string>
   <string name="passport_login_notice">Iniciando sesión…</string>
-  <string name="passport_login_title">Iniciar sesión en su Mi Account</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Iniciar sesión con la dirección de correo electrónico o ID de Mi Account&lt;/u&gt;</string>
+  <string name="passport_login_title">Iniciar sesión en su cuenta Mi</string>
+  <string name="passport_login_with_email_or_id">&lt;u&gt;Iniciar sesión con la dirección de correo electrónico o ID de cuenta Mi&lt;/u&gt;</string>
   <string name="passport_next">Siguiente</string>
   <string name="passport_notification_title">Error de inicio de sesión para %1$s</string>
   <string name="passport_password">Introduzca su contraseña</string>
@@ -219,7 +219,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_re_get_verify_code">Obtener el código de nuevo</string>
   <string name="passport_re_register">Iniciar sesión de nuevo</string>
   <string name="passport_reg_failed">"No se puede configurar la cuenta"</string>
-  <string name="passport_reg_new">Crear Mi Account</string>
+  <string name="passport_reg_new">Crear cuenta Mi</string>
   <string name="passport_reg_sms_send_prompt">Enviar código de verificación a %s</string>
   <string name="passport_reg_success">Cuenta creada</string>
   <string name="passport_reg_success_summary">%1$s se ha unido con su cuenta. Usted puede utilizarlo para acceder o para restablecer su contraseña.</string>
@@ -243,7 +243,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_sim_index_info">Tarjeta SIM %1$d - %2$s</string>
   <string name="passport_skip_login">Saltar inicio de sesión</string>
   <string name="passport_skip_register">Saltar registro</string>
-  <string name="passport_skip_setup_account_msg">Puede configurar después una Mi Account en Ajustes.</string>
+  <string name="passport_skip_setup_account_msg">Puede configurar después una cuenta Mi en Ajustes.</string>
   <string name="passport_skip_setup_account_title">Saltar configuración</string>
   <string name="passport_title_reg">Crear una cuenta</string>
   <string name="passport_trust_device">Confiar en este dispositivo</string>
@@ -261,7 +261,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_wrong_captcha">El código que ha introducido es incorrecto</string>
   <string name="passport_wrong_phone_number_format">El formato del número de teléfono que ha introducido no es válido</string>
   <string name="passport_wrong_vcode">El código que ha introducido es incorrecto</string>
-  <string name="passport_xiaomi_account_dspt">Utilice su Mi Account para iniciar sesión en Mi Cloud, MIUI Theme Store, y otros servicios Mi, desde cualquier parte.</string>
+  <string name="passport_xiaomi_account_dspt">Utilice su cuenta Mi para iniciar sesión en Mi Cloud, MIUI Theme Store, y otros servicios Mi, desde cualquier parte.</string>
   <string name="password">Introduzca su contraseña</string>
   <string name="phone_activated">%s activado</string>
   <string name="phone_unactivated">No activado</string>

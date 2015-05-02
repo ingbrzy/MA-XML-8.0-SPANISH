@@ -44,10 +44,10 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_back_up_dialog_content">"¿Parar copia de seguridad en progreso? Si para ahora, no podrá utilizar esta copia de seguridad para restaurar aplicaciones."</string>
   <string name="cloud_back_up_interval_long">7 dias</string>
   <string name="cloud_back_up_interval_short">1 hora</string>
-  <string name="cloud_back_up_network_unavailable">"No se pudo eliminar. Conecte con WiFi y vuelva a intentarlo."</string>
-  <string name="cloud_back_up_open_info">"Realiza copia de seguridad del diseño de la pantalla de inicio y las aplicaciones cada %1$s cuando se conecta a una red WiFi
+  <string name="cloud_back_up_network_unavailable">"No se pudo eliminar. Conecte con Wi-Fi y vuelva a intentarlo."</string>
+  <string name="cloud_back_up_open_info">"Realiza copia de seguridad del diseño de la pantalla de inicio y las aplicaciones cada %1$s cuando se conecta a una red Wi-Fi
 Última copia de seguridad: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Realiza copia de seguridad del diseño de la pantalla de inicio y las aplicaciones cada %1$s cuando se conecta a una red WiFi</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Realiza copia de seguridad del diseño de la pantalla de inicio y las aplicaciones cada %1$s cuando se conecta a una red Wi-Fi</string>
   <string name="cloud_back_up_remove_success">Copia de seguridad eliminada</string>
   <string name="cloud_back_up_title">Copia de seguridad de la pantalla de inicio</string>
   <string name="cloud_backup_dialog_title">Copia de seguridad con Mi Cloud</string>
@@ -55,8 +55,8 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_space_upgrade_message">Toque para obtener %s GB de espacio gratis este mes</string>
   <string name="cloud_space_upgrade_no_quota_info">Fecha errónea, por favor inténtelo de nuevo</string>
   <string name="cloud_space_upgrade_title">¡Obtenga Espacio Gratis en la Nube!</string>
-  <string name="cloud_sync_setting_summary_standard">Usar la conexión de datos móviles para sincronizar SMS, información de Contactos y registro de llamadas. Usar WiFi para sincronizar fotos, vídeos, MMS, datos de aplicaciones, fotos de Contactos y más.</string>
-  <string name="cloud_sync_setting_summary_wlan">Sincronizar sólo cuando esté conectado a WiFi</string>
+  <string name="cloud_sync_setting_summary_standard">Usar la conexión de datos móviles para sincronizar SMS, información de Contactos y registro de llamadas. Usar Wi-Fi para sincronizar fotos, vídeos, MMS, datos de aplicaciones, fotos de Contactos y más.</string>
+  <string name="cloud_sync_setting_summary_wlan">Sincronizar sólo cuando esté conectado a Wi-Fi</string>
   <string name="cloudservice_new_sync">Sincronizar %s con Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Usar Mi Cloud para sincronizar datos, localizar tu dispositivo,</string>
   <string name="contact">Contactos</string>
@@ -119,7 +119,7 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar es
   <string name="master_alert_notif_dspt_no">"Todo está actualizado."</string>
   <string name="master_alert_notif_title">Última sincronización hace %s días</string>
   <string name="micloud_check_sim_notify_text">"Parece que Vd. ha cambiado de SIM.
-Inicie sesión en su Mi Account para reactivar Mi Cloud."</string>
+Inicie sesión en su cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
   <string name="micloud_check_sim_title">"Parece que has cambiado las tarjetas SIM. Entre
 en su cuenta MI para reactivar Mi Cloud."</string>
@@ -127,7 +127,7 @@ en su cuenta MI para reactivar Mi Cloud."</string>
   <string name="micloud_detail_lastest">sincronizado</string>
   <string name="micloud_detail_pending">pendiente</string>
   <string name="micloud_detail_preference_syncing">sincronizando</string>
-  <string name="micloud_detail_preference_wlan">sinc por WiFi</string>
+  <string name="micloud_detail_preference_wlan">sinc por Wi-Fi</string>
   <string name="micloud_detail_success">sincronizado</string>
   <string name="micloud_detail_syncing">sincronizando</string>
   <string name="micloud_detail_wlan">%d datos no sincronizados</string>
@@ -158,13 +158,13 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_main_sync_exception">Error de sincronización</string>
   <string name="micloud_main_sync_init">Obteniendo información</string>
   <string name="micloud_main_sync_now">Sincronizar ahora</string>
-  <string name="micloud_main_sync_on_wifi">Usar WiFi</string>
+  <string name="micloud_main_sync_on_wifi">Usar Wi-Fi</string>
   <string name="micloud_main_sync_pause">Pausar la sinc</string>
   <string name="micloud_main_sync_stop">Detener la sinc</string>
   <string name="micloud_main_synced_data_count">%d datos han sido sincronizados</string>
   <string name="micloud_main_syncing">datos se están sincronizando...</string>
   <string name="micloud_main_update_space">actualice el tamaño de almacenamiento</string>
-  <string name="micloud_main_wlan_sync_data_count">%d datos se sincronizarán por WiFi</string>
+  <string name="micloud_main_wlan_sync_data_count">%d datos se sincronizarán por Wi-Fi</string>
   <string name="micloud_more">Aprende más</string>
   <string name="micloud_other_product_price">Precio de otros productos similares:</string>
   <string name="micloud_proceed">Continuar</string>
@@ -175,7 +175,7 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_setting_gallery_summary">Fotos y vídeos</string>
   <string name="micloud_setting_music_summary">Listas de reproducción y favoritos</string>
   <string name="micloud_setting_sms_summary">Mensajes SMS y MMS</string>
-  <string name="micloud_setting_wifi_summary">Configuraciones WiFi</string>
+  <string name="micloud_setting_wifi_summary">Configuraciones Wi-Fi</string>
   <string name="micloud_single_dspt">Utilice Mi Cloud para sincronizar datos, buscar el dispositivo y compartir cosas con amigos.</string>
   <string name="micloud_space_duokan_detail">Administre su contenido Duokan usando la aplicación Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
@@ -190,7 +190,7 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_title_dspt_remain">%s restantes</string>
   <string name="micloud_title_full_dspt">"¡Has alcanzado tu límite de almacenamiento!"</string>
   <string name="micloud_unlogin_for_time_summary"/>
-  <string name="micloud_unlogin_for_time_title">Habilitar Mi Cloud</string>
+  <string name="micloud_unlogin_for_time_title">Activar Mi Cloud</string>
   <string name="micloud_upgrade_space">Consigue más espacio de almacenamiento</string>
   <string name="micloud_user_space_title">Espacio de almacenamiento</string>
   <string name="micloud_user_space_usage">Espacio de almacenamiento</string>
@@ -209,7 +209,7 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="mx_dspt">Mi Mensajes</string>
   <string name="mx_dspt_provision">"Mi Mensajes le permite enviar mensajes a otros usuarios MIUI sin incurrir en los costes de los SMS.
 
-Puede habilitar o deshabilitar esta característica en cualquier momento en Ajustes."</string>
+Puede activar o desactivar esta característica en cualquier momento en Ajustes."</string>
   <string name="mx_dspt_provision_privacy">"Esta función puede requerir su número de teléfono. Su compañía podría cobrarle por un mensaje SMS utilizado para activar esta función.
 
 Esta función cifra y sube la ID de su dispositivo a los servidores MI."</string>
@@ -219,15 +219,15 @@ Esta función cifra y sube la ID de su dispositivo a los servidores MI."</string
   <string name="next">Siguiente</string>
   <string name="noRemind">"No recordar"</string>
   <string name="no_sim">Tarjeta SIM no detectada</string>
-  <string name="only_in_wlan">Usar sólo WiFi</string>
+  <string name="only_in_wlan">Usar sólo Wi-Fi</string>
   <string name="other_settings">Otros ajustes</string>
   <string name="password">Introduzca su contraseña</string>
   <string name="phone_number_may_required_dspt_provision">"Este servicio puede requerir su número de teléfono. "</string>
   <string name="phone_number_required_dspt_provision">"Este servicio requiere su número de teléfono. "</string>
   <string name="photo">Fotos</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronizar imágenes de perfil de contactos sólo estando conectado a una red WiFi"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronizar imágenes de perfil de contactos sólo estando conectado a una red Wi-Fi"</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Sólo utilizar WiFi para sincronizar fotos</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Sólo utilizar Wi-Fi para sincronizar fotos</string>
   <string name="pref_title_sync_my_profile_title">Sincronizar perfil</string>
   <string name="privacy_policy">Política de Privacidad</string>
   <string name="remind_later">Más tarde</string>
@@ -251,10 +251,10 @@ Esta función cifra y sube la ID de su dispositivo a los servidores MI."</string
   <string name="sub_alert_notif_dspt_add">"%s no han sido sincronizados."</string>
   <string name="sub_alert_notif_dspt_no">"Todo está actualizado."</string>
   <string name="sub_alert_notif_title">Sin sincronizar</string>
-  <string name="sub_sync_item_sms_summary">"Sincronizar mensajes que contengan fotos, audio u otro contenido multimedia únicamente cuando estés conectado a una red WiFi"</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Utilizar sólo WiFi para sincronizar MMS</string>
+  <string name="sub_sync_item_sms_summary">"Sincronizar mensajes que contengan fotos, audio u otro contenido multimedia únicamente cuando estés conectado a una red Wi-Fi"</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Utilizar sólo Wi-Fi para sincronizar MMS</string>
   <string name="success_upgraded_space">%s añadidos</string>
-  <string name="sync_dspt">Habilitar sincronización</string>
+  <string name="sync_dspt">Activar sincronización</string>
   <string name="sync_dspt_entrance_provision">"Sincroniza tus fotos, contactos, historial de llamadas y mensajes a través de todos sus dispositivos. Acceda a las cosas sincronizadas desde cualquier navegador en %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Saber más</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"No utilizar"</string>
@@ -267,7 +267,7 @@ Esta función cifra y sube la ID de su dispositivo a los servidores MI."</string
   <string name="sync_dspt_provision2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision3">".
 
-Puede habilitar o deshabilitar esta característica en cualquier momento en Ajustes.
+Puede activar o desactivar esta característica en cualquier momento en Ajustes.
 "</string>
   <string name="sync_item_calllog_summary">Sincronizar registros de llamadas hechas y recibidas en este teléfono</string>
   <string name="sync_item_calllog_title">Sincronizar registros de llamadas</string>

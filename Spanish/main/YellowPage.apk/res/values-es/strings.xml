@@ -63,7 +63,7 @@
   <string name="download_failed_space">No hay suficiente espacio</string>
   <string name="download_failed_storage">Descarga fallida. Compruebe su tarjeta SD.</string>
   <string name="downloading">Descargando…</string>
-  <string name="enable_now">Habilitar</string>
+  <string name="enable_now">Activar</string>
   <string name="exapress_save_address_to_contact">Guardar la dirección en el contacto</string>
   <string name="express_add_new_address">Agregar dirección</string>
   <string name="express_address_delete_warning">¿Eliminar esta dirección?</string>
@@ -119,7 +119,7 @@
   <string name="express_inquiry_serial_number_indication">Número de seguimiento</string>
   <string name="express_inquiry_serial_number_prefix">"Número: "</string>
   <string name="express_inquiry_trace">Seguimiento</string>
-  <string name="express_inquiry_trace_device_login_notice">"Está utilizando este servicio en otro dispositivo. Si quiere recibir el estado de la orden desde este dispositivo, es necesario verificar su Mi Account."</string>
+  <string name="express_inquiry_trace_device_login_notice">"Está utilizando este servicio en otro dispositivo. Si quiere recibir el estado de la orden desde este dispositivo, es necesario verificar su cuenta Mi."</string>
   <string name="express_inquiry_trace_success">Seguimiento realizado</string>
   <string name="express_inquiry_trace_user_notice_content">"Le avisaremos cuando el esado de su pedido cambie."</string>
   <string name="express_inquiry_untrace">No seguimiento</string>
@@ -170,7 +170,7 @@
   <string name="express_view_status">Seguimiento</string>
   <string name="expresss_inquiry_all_logistics">Todo</string>
   <string name="expresss_inquiry_frequently_used_logistics">Común</string>
-  <string name="fraud_number_online_identification">Bloquear telemarketing (requiere conexión a internet)</string>
+  <string name="fraud_number_online_identification">Bloquear telemarketing (requiere conexión a Internet)</string>
   <string name="gallery">Galería</string>
   <string name="general_btn_follow">Seguir</string>
   <string name="general_btn_follow_ok">Seguimiento</string>
@@ -226,7 +226,7 @@
   <string name="mishop_web_payment_title">Comprobar Mi Store</string>
   <string name="more_coupons">Todos los cupones</string>
   <string name="navigation_search_all_cities">Todas las ciudades</string>
-  <string name="navigation_search_automatically_positioned_city">Ciudad actual</string>
+  <string name="navigation_search_automátically_positioned_city">Ciudad actual</string>
   <string name="navigation_search_default_hint">Buscar ubicaciones</string>
   <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">"No se ha encontrado nada"</string>
@@ -241,7 +241,7 @@
   <string name="no_evaluation">Sin criticas</string>
   <string name="no_more_result">No hay más resultados</string>
   <string name="no_price">No hay información de precio</string>
-  <string name="notify_connect_summary">Mostrar aviso cuando se conecte a internet</string>
+  <string name="notify_connect_summary">Mostrar aviso cuando se conecte a Internet</string>
   <string name="notify_connect_title">Notificación de conexión de Internet</string>
   <string name="order_date_label">Fecha de pedido: %s</string>
   <string name="order_detail">Detalles</string>
@@ -341,11 +341,11 @@ Total: RMB %3$s "</string>
   <string name="turn_on_yellowpage_service_title">Utilizar el servicio de directorio</string>
   <string name="upload_and_verify_fraud_num_off">Esta característica ha sido cerrada</string>
   <string name="upload_and_verify_fraud_num_on">Compartir información de telemarketing bloqueado</string>
-  <string name="uploads_disabled">Las subidas de archivos están deshabilitadas</string>
+  <string name="uploads_disabled">Las subidas de archivos están desactivadas</string>
   <string name="user_agreement2">" Condiciones de Uso"</string>
   <string name="user_agreement4">Política de privacidad</string>
-  <string name="user_notice_identify_summary_format">"El teléfono utilizará de base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la WiFi. Tocando \"De acuerdo\" aceptas %1$s y %2$s de Xiaomi."</string>
-  <string name="user_notice_identify_summary_format_cta">"El teléfono utilizará de base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la WiFi. Tocando \"De acuerdo\" aceptas %1$s y %2$s de Xiaomi."</string>
+  <string name="user_notice_identify_summary_format">"El teléfono utilizará de base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la Wi-Fi. Tocando \"De acuerdo\" aceptas %1$s y %2$s de Xiaomi."</string>
+  <string name="user_notice_identify_summary_format_cta">"El teléfono utilizará de base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la Wi-Fi. Tocando \"De acuerdo\" aceptas %1$s y %2$s de Xiaomi."</string>
   <string name="user_notice_title">Attention</string>
   <string name="user_notice_yp_detail_summary_format">"Algo de información de su directorio de etiquetas está anticuado. ¿Quiere actualizarlo? Tocando \"De acuerdo\" acepta %1$s y %2$s de Xiaomi."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Algo de información de su directorio está anticuado. ¿Quiere actualizarlo? Tocando \"De acuerdo\" acepta %1$s y %2$s de Xiaomi."</string>

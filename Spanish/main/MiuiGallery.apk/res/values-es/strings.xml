@@ -44,7 +44,7 @@
   <string name="alert">Atención</string>
   <string name="alert_init_merged_message">"Ahora, las fotos locales de su dispositivo y las que has almacenado en Mi nube aparecen juntas en la pestaña de fotos."</string>
   <string name="alert_init_merged_title">Todas sus fotos. Juntas al fin.</string>
-  <string name="alert_message_open_sync">Necesita habilitar sincronización primero.</string>
+  <string name="alert_message_open_sync">Necesita activar sincronización primero.</string>
   <string name="alert_secret_album_message">Puede deslizar el album de la nube hacia el álbum secreto.</string>
   <string name="alert_secret_album_set_pattern">Establecer patrón de desbloqueo</string>
   <string name="alert_secret_album_title">Álbum secreto</string>
@@ -514,7 +514,7 @@
   <string name="confirm_delete_init_title">Borrar imagen</string>
   <string name="confirm_delete_system_album">%s es un álbum de sistema.</string>
   <string name="confirm_download">Tiene que descargar %s.</string>
-  <string name="confirm_download_video_message">La descarga de este vídeo debe terminar antes de que usted puede verlo. La descarga se reanudará cuando WiFi está disponible.</string>
+  <string name="confirm_download_video_message">La descarga de este vídeo debe terminar antes de que usted puede verlo. La descarga se reanudará cuando Wi-Fi está disponible.</string>
   <string name="confirm_download_video_title">Descargar vídeo</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Combinar este álbum con &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_photo">Establecer como foto de contacto</string>
@@ -578,13 +578,13 @@
   <string name="effect">Filtros</string>
   <string name="email_picker_title">Agregar correo compartido</string>
   <string name="enable">Activar</string>
-  <string name="enable_cloud_for_sharing">Se necesita habilitar álbumes en la nube para ver imágenes compartidas.</string>
+  <string name="enable_cloud_for_sharing">Se necesita activar álbumes en la nube para ver imágenes compartidas.</string>
   <string name="enter_email_hint">Introduzca dirección de correo electrónico</string>
   <string name="error_album_not_exist">"El álbum no existe"</string>
   <string name="error_cloud_not_active">No hay fotos en la nube</string>
   <string name="error_forbidden">La sincronización ha sido desactivada debido a problemas con tu cuenta Mi.</string>
   <string name="error_invalid_link">Enlace no válido</string>
-  <string name="error_not_acceptable">La sincronización ha sido deshabilitada.</string>
+  <string name="error_not_acceptable">La sincronización ha sido desactivada.</string>
   <string name="error_repeat_apply">Este álbum ya ha sido compartido</string>
   <string name="error_share_not_support">Unir álbumes compartidos no está soportado de momento</string>
   <string name="error_share_with_creator">Este álbum ya está siendo compartido con usted</string>
@@ -703,7 +703,7 @@
   <string name="loading_failure">"No se puede cargar la foto"</string>
   <string name="loading_image">Descargando imagen…</string>
   <string name="loading_members">Cargando members026</string>
-  <string name="loading_suspend">Descarga pausada. Se reanudará cuando WiFi esté disponible.</string>
+  <string name="loading_suspend">Descarga pausada. Se reanudará cuando Wi-Fi esté disponible.</string>
   <string name="loading_thumbnail">Descargando miniaturas…</string>
   <string name="loading_video">Descargando vídeo…</string>
   <string name="local_albums">Imágenes locales</string>
@@ -773,11 +773,11 @@
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Mostrar sólo rollo de cámara</string>
   <string name="only_show_camera_in_first_page_summary">"Mostrar sólo fotos del rollo de cámara de Mi Cloud"</string>
-  <string name="open">Habilitar</string>
+  <string name="open">Activar</string>
   <string name="open_public_message">Crear una dirección URL para compartir con tus amigos</string>
   <string name="open_public_title">Compartir</string>
   <string name="open_single_image_failure">"No se puede cargar la imagen"</string>
-  <string name="open_sync_title">Habilitar sincronización</string>
+  <string name="open_sync_title">Activar sincronización</string>
   <string name="operation_add_picture">Añadir imágenes</string>
   <string name="operation_add_secret">Añadir secreto</string>
   <string name="operation_delete_confirm_message_folder">"Se eliminará todo el contenido de la carpeta. "</string>
@@ -952,7 +952,7 @@
   <string name="sync_album_summary">Subir fotos a su nube</string>
   <string name="sync_history_power_on">Sincronizar el historial de imágenes sólo durante la carga</string>
   <string name="sync_in_progress_message">Sincronizando…</string>
-  <string name="sync_only_in_wifi">Sólo utilizar WiFi para subir fotos</string>
+  <string name="sync_only_in_wifi">Sólo utilizar Wi-Fi para subir fotos</string>
   <string name="sync_only_in_wifi_alert">Desactivar esta opción puede aumentar el uso de datos móviles.</string>
   <string name="sync_only_in_wifi_summary">Impedir que Galería suba fotos usando la conexión de datos móviles</string>
   <string name="sync_third_party_app_pic_summary">Subir automáticamente fotos desde algunas carpetas de aplicación a su nube</string>

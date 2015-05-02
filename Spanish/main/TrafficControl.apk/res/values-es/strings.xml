@@ -3,7 +3,7 @@
   <string name="UMAppUpdate">Actualización de la aplicacion</string>
   <string name="UMBreak_Network">No hay red</string>
   <string name="UMDialog_InstallAPK">La ultima versión se ha descargado, ¿Instalar?</string>
-  <string name="UMGprsCondition">(Recuerde, no está en entorno WiFi)</string>
+  <string name="UMGprsCondition">(Recuerde, no está en entorno Wi-Fi)</string>
   <string name="UMIgnore">Ignore la versión</string>
   <string name="UMNewVersion">Ultima versión:</string>
   <string name="UMNotNow">Fecha posterior</string>
@@ -48,7 +48,7 @@
   <string name="debug_force_update_direct_hosts">Forzar actualización directa hosts</string>
   <string name="debug_force_update_traffic_packages">Forzar actualización de paquetes de tráfico</string>
   <string name="debug_forever_blocked_apps_label">Aplicaciones bloqueadas para siempre:</string>
-  <string name="debug_include_wifi_traffic">Incluir tráfico WiFi</string>
+  <string name="debug_include_wifi_traffic">Incluir tráfico Wi-Fi</string>
   <string name="debug_log_file_flush">Desplazar BoostLog</string>
   <string name="debug_log_level_caption">Nivel de registro</string>
   <string name="debug_loguploader_add_log">LogUploader: Añadir registro de prueba</string>
@@ -96,7 +96,7 @@
   <string name="oupeng_apn_net_name">%1$sNET Red（%2$sNET）</string>
   <string name="oupeng_apn_saving_foreshow_for_cellular">Cuando en el teléfono esten activadas redes 2/3/4G, se abrirá automáticamente el servicio de ahorro de streaming de su provincia</string>
   <string name="oupeng_apn_saving_prompt_confirm">Acepto</string>
-  <string name="oupeng_apn_saving_prompt_for_wifi">Actualmente en red WiFi y no se consumen datos 2/3/4G，así que se pausa el servicio de ahorro</string>
+  <string name="oupeng_apn_saving_prompt_for_wifi">Actualmente en red Wi-Fi y no se consumen datos 2/3/4G，así que se pausa el servicio de ahorro</string>
   <string name="oupeng_apn_saving_prompt_title">Consejos</string>
   <string name="oupeng_apn_unknown">Operador desconocido</string>
   <string name="oupeng_apn_wap_name">%1$sWAP Red（%2$sWAP）</string>
@@ -173,7 +173,7 @@ Seguro que quiere salir?"</string>
   <string name="oupeng_master_notification_title_savings_on">Bao sirve para ahorrar en el uso de datos</string>
   <string name="oupeng_master_notification_title_savings_paused_no_network">Sin conexión de red, modo ahorro pausado</string>
   <string name="oupeng_master_notification_title_savings_paused_service_not_available">Fallo de red, modo ahorro pausado</string>
-  <string name="oupeng_master_notification_title_savings_paused_wifi">internet via WiFi, modo ahorro pausado. Se activará de nuevo cuando se use red 2/3/4G.</string>
+  <string name="oupeng_master_notification_title_savings_paused_wifi">Internet via Wi-Fi, modo ahorro pausado. Se activará de nuevo cuando se use red 2/3/4G.</string>
   <string name="oupeng_master_notification_title_tether_enabled">Enlazado, modo ahorro y gestor de red pausados</string>
   <string name="oupeng_menu_app_scan">Escanear</string>
   <string name="oupeng_menu_capture">Captura de tráfico</string>
@@ -282,7 +282,7 @@ Seguro que quiere salir?"</string>
   <string name="oupeng_tab_title_daily">Diariamente</string>
   <string name="oupeng_tab_title_monthly">Mensualmente</string>
   <string name="oupeng_text_2g_3g">2/3/4G</string>
-  <string name="oupeng_text_wifi">WiFi</string>
+  <string name="oupeng_text_wifi">Wi-Fi</string>
   <string name="oupeng_this_day_marker">Día</string>
   <string name="oupeng_this_month_marker">Mes</string>
   <string name="oupeng_timeline_empty_data">0MB / 0MB</string>
@@ -305,7 +305,7 @@ Seguro que quiere salir?"</string>
   <string name="oupeng_upgrade_dialog_title">Consejos de actualización</string>
   <string name="oupeng_upgrade_fail">Error de red. Falló la actualización</string>
   <string name="oupeng_upgrade_no_update">Ya tiene la última versión disponible</string>
-  <string name="oupeng_upgrade_none_wifi">Por favor para actualizar conéctese a red WiFi</string>
+  <string name="oupeng_upgrade_none_wifi">Por favor para actualizar conéctese a red Wi-Fi</string>
   <string name="oupeng_upgrade_progress">Comprobando actualización…</string>
   <string name="oupeng_upgrade_timeout">Tiempo de espera agotado, compruebe su conexión</string>
   <string name="oupeng_upgrade_title">Comprobar si hay nueva versión</string>
@@ -363,12 +363,12 @@ Seguro que quiere salir?"</string>
   <string name="v2_about_read_more">Para obtener más imformación visite la página de Google+</string>
   <string name="v2_about_version">Versión %1$s</string>
   <string name="v2_adjusted_usage_name">Ajustar uso</string>
-  <string name="v2_app_control_description">Se prihibió el uso de la aplicación seleccionada en redes de datos móviles. En redes WiFi funcionará correctamente.</string>
+  <string name="v2_app_control_description">Se prihibió el uso de la aplicación seleccionada en redes de datos móviles. En redes Wi-Fi funcionará correctamente.</string>
   <string name="v2_app_control_list_collapse_apps">Lista de aplicaciones ocultas</string>
   <string name="v2_app_control_list_empty_blocked_apps">Esta aplicación no usa el tráfico de datos</string>
   <string name="v2_app_control_list_expand_apps">Mostrar mas aplicaciones</string>
   <string name="v2_app_control_list_item_data_usage">Este mes se ha utilizado %1$s</string>
-  <string name="v2_app_daily_bloking_line1">Deshabilitar redes móviles</string>
+  <string name="v2_app_daily_bloking_line1">Desactivar redes móviles</string>
   <string name="v2_app_daily_bloking_line2">Prohibir a la aplicación usar redes móviles</string>
   <string name="v2_app_details_tab_title_daily">Diariamente</string>
   <string name="v2_app_details_tab_title_monthly">Mensualmente</string>
@@ -412,7 +412,7 @@ Seguro que quiere salir?"</string>
   <string name="v2_first_run_3_line1">Ahorre lo máximo en su tráfico de datos</string>
   <string name="v2_first_run_3_line2">Tras iniciar Bao puede ver el icono en la barra de estado</string>
   <string name="v2_first_run_3_line3">Para ahorrar datos Bao necesita crear una conexión VPN.</string>
-  <string name="v2_first_run_3_title">Habilitar</string>
+  <string name="v2_first_run_3_title">Activar</string>
   <string name="v2_force_update_button">Actualizar</string>
   <string name="v2_force_update_message">Para optimizar el ahorro de datos debe actualizar a la última versión de Bao. Actualize por favor.</string>
   <string name="v2_force_update_notification_message">Haga click en actualizar Bao.</string>
@@ -495,9 +495,9 @@ Mi versión de Opera Max es %4$s"</string>
   <string name="v2_timeline_item_large_gap_details">%1$s sin generar tráfico de datos</string>
   <string name="v2_timeline_item_no_connection">Sin conexión de red.</string>
   <string name="v2_timeline_item_no_connection_paused">Sin conexión de red, modo ahorro en pausa</string>
-  <string name="v2_timeline_item_wifi_active">Usando red WiFi</string>
-  <string name="v2_timeline_item_wifi_active_paused">Está usando red WiFi, modo ahorro en pausa</string>
-  <string name="v2_timeline_item_wifi_usage">Usando WiFi durante %1$s</string>
+  <string name="v2_timeline_item_wifi_active">Usando red Wi-Fi</string>
+  <string name="v2_timeline_item_wifi_active_paused">Está usando red Wi-Fi, modo ahorro en pausa</string>
+  <string name="v2_timeline_item_wifi_usage">Usando Wi-Fi durante %1$s</string>
   <string name="v2_timeline_no_data_used">No se ha generado tráfico de datos</string>
   <string name="v2_timeline_opera_max_installed_prompt">Gracias por usar Bao!</string>
   <string name="v2_timeline_opera_max_installed_title">Instale Liujang Bao</string>
@@ -524,6 +524,6 @@ Mi versión de Opera Max es %4$s"</string>
   <string name="v2_vpn_not_supported_line2">Utilice Liulang Bao. Continue si desea registrarse y gestionar el flujo de datos móviles</string>
   <string name="v2_wifi_is_off">Cambiará a red móvil</string>
   <string name="v2_wifi_is_off_prompt">Su dispositivo está usando la red de datos móvil</string>
-  <string name="v2_wifi_is_on">Cambiará a red WiFi</string>
-  <string name="v2_wifi_is_on_prompt">Su dispositivo está usando red WiFi</string>
+  <string name="v2_wifi_is_on">Cambiará a red Wi-Fi</string>
+  <string name="v2_wifi_is_on_prompt">Su dispositivo está usando red Wi-Fi</string>
 </resources>

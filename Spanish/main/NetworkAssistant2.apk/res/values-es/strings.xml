@@ -18,7 +18,7 @@
   <string name="app_mobile">Datos</string>
   <string name="app_name">Uso de datos</string>
   <string name="app_version">Versión</string>
-  <string name="app_wifi">WiFi</string>
+  <string name="app_wifi">Wi-Fi</string>
   <string name="arrearage_exception_summary">"La contabilidad de su compañia muestra que debe recargar ahora"</string>
   <string name="arrearage_exception_title">Su saldo es demasiado bajo</string>
   <string name="background_traffic">Fondo %s</string>
@@ -34,7 +34,7 @@
   <string name="choose">Elegir</string>
   <string name="connect_internet_by_mobiledata">Conectar a Internet usando la red de datos móviles</string>
   <string name="connect_internet_by_usbshare">Conectar a Internet usando USB</string>
-  <string name="connect_internet_by_wifi">Conectar a Internet usando WiFi</string>
+  <string name="connect_internet_by_wifi">Conectar a Internet usando Wi-Fi</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">"Ha superado el límite de datos diarios."</string>
@@ -42,17 +42,17 @@
   <string name="data_usage_correction_timeout_body">Toque para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Agotado el tiempo  para sincronizar uso de datos</string>
   <string name="data_usage_disabled_dialog">Ha alcanzado el límite de uso de datos. El uso excesivo de su tarifa de datos puede ocasionar gastos adicionales</string>
-  <string name="data_usage_disabled_dialog_enable">Habilitar datos</string>
+  <string name="data_usage_disabled_dialog_enable">Activar datos</string>
   <string name="data_usage_leisure_warning_body">Toque para ver detalles del uso de datos.</string>
   <string name="data_usage_leisure_warning_title">Límite de uso de datos</string>
-  <string name="data_usage_limit_body">Toque para habilitar red de datos móviles.</string>
+  <string name="data_usage_limit_body">Toque para activar red de datos móviles.</string>
   <string name="data_usage_limit_snoozed_body">"Ha excedido su límite de uso de datos por este mes."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límite de uso de datos excedido</string>
   <string name="data_usage_mobile_limit_title">Datos móviles apagados</string>
   <string name="data_usage_no_total_package_body">Toque para establecer un límite de uso de datos.</string>
   <string name="data_usage_no_total_package_body_dual">Toque para establecer un límite de uso de datos de %s.</string>
   <string name="data_usage_no_total_package_title">Limite de uso de datos</string>
-  <string name="data_usage_restricted_body">Toque para habilitar datos en segundo plano</string>
+  <string name="data_usage_restricted_body">Toque para activar datos en segundo plano</string>
   <string name="data_usage_restricted_title">Datos en segundo plano restringidos</string>
   <string name="data_usage_warning_body">Toque para ver detalles sobre uso de datos.</string>
   <string name="data_usage_warning_title">Aviso de límite de uso de datos</string>
@@ -90,7 +90,7 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="deleted_apps">Aplicaciones borradas</string>
   <string name="detail_app_button">Info de la aplicación</string>
   <string name="dialog_app_roaming_message">"%1$s no puede usar datos móviles cuando está en itinerancia. Cuando está en itinerancia internacional, sólo las aplicaciones que ha añadido a la lista de permitidos pueden usar los datos móviles."</string>
-  <string name="dialog_app_roaming_title">"Itinerancia internacional no se ha habilitado para %1$s"</string>
+  <string name="dialog_app_roaming_title">"Itinerancia internacional no se ha activado para %1$s"</string>
   <string name="dialog_roaming_message">¿Permitir a esta aplicación usar datos móviles en itinerancia internacional?</string>
   <string name="dialog_roaming_title">Itinerancia internacional</string>
   <string name="disable_air_mode">Desactivar modo avión</string>
@@ -107,10 +107,10 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
   <string name="firewall_rule_group_title_mobile">Datos</string>
   <string name="firewall_rule_group_title_roaming">Itinerancia internacional</string>
-  <string name="firewall_rule_group_title_wifi">WiFi</string>
+  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s está restringido para usar %2$s redes</string>
   <string name="five_percent_total_pkg">%s (5%% de sus datos móviles mensuales)</string>
-  <string name="force_stop_dlg_text">"Si restringe los datos móviles en segundo plano algunas aplicaciones y servicios no funcionarán a menos que se conecte a una WiFi."</string>
+  <string name="force_stop_dlg_text">"Si restringe los datos móviles en segundo plano algunas aplicaciones y servicios no funcionarán a menos que se conecte a una Wi-Fi."</string>
   <string name="force_stop_dlg_title">Restringir datos en segundo plano</string>
   <string name="foreground_traffic">Traer a primer plano %s</string>
   <string name="free_time_traffic">Límite de datos en hora valle</string>
@@ -167,7 +167,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="main_toolbar_firewall">Restringir uso de datos a aplicación</string>
   <string name="main_toolbar_internet_by_mobiledata">Conectar a Internet usando la red de datos móviles</string>
   <string name="main_toolbar_internet_by_pc_brige">Conectar a Internet usando USB</string>
-  <string name="main_toolbar_internet_by_wifi">Conectar a Internet usando WiFi</string>
+  <string name="main_toolbar_internet_by_wifi">Conectar a Internet usando Wi-Fi</string>
   <string name="main_toolbar_purchase">Recargar</string>
   <string name="main_toolbar_saving">Ahorrador de datos</string>
   <string name="main_toolbar_statistic">Estadísticas de uso de datos</string>
@@ -225,8 +225,8 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_app_traffic_managent">Restringir uso de datos por la aplicación</string>
   <string name="pref_auto_adjust_settings">Ajustes de estadísticas de uso de datos por Auto-sincronizar</string>
   <string name="pref_auto_adjust_traffic">Estadísticas de uso de datos por Auto sincronizar</string>
-  <string name="pref_automatic_adjust">Ajustes</string>
-  <string name="pref_avaible_traffic">Plan WiFi</string>
+  <string name="pref_automátic_adjust">Ajustes</string>
+  <string name="pref_avaible_traffic">Plan Wi-Fi</string>
   <string name="pref_category_title_other">Ajustes adicionales</string>
   <string name="pref_check_network_diagnostics">Compruebe si su conexión de datos está funcionando normalmente</string>
   <string name="pref_connect_settings_enable_background">Permitir datos en segundo plano</string>
@@ -244,8 +244,8 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_free_traffic_settings">Ajustes de uso de datos en hora valle</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
-  <string name="pref_leisure_no_overlay">Habilitado</string>
-  <string name="pref_leisure_not_opened">Deshabilitado</string>
+  <string name="pref_leisure_no_overlay">Activado</string>
+  <string name="pref_leisure_not_opened">Desactivado</string>
   <string name="pref_manual_adjust">Establecer manualmente las estadísticas de uso de datos</string>
   <string name="pref_month_begin_date">Restablecer la fecha del ciclo de uso</string>
   <string name="pref_month_first_day">Primer día del mes</string>
@@ -271,7 +271,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_title_traffic_speed_state">Mostrar la velocidad de la red</string>
   <string name="pref_title_update_notification">Mostrar notificaciones de uso de datos</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. ¿Habilitar el Data Saver afectará a mi privacidad? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Sus datos permanecerán privados y no serán compartidos con terceras partes. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. ¿Por qué no está funcionando el Data Saver? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; El Data Saver arranca sólo cuando Vd. usa la red de su operador para enviar o descargar contenidos."</string>
+  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. ¿Activar el Data Saver afectará a mi privacidad? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Sus datos permanecerán privados y no serán compartidos con terceras partes. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. ¿Por qué no está funcionando el Data Saver? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; El Data Saver arranca sólo cuando Vd. usa la red de su operador para enviar o descargar contenidos."</string>
   <string name="pref_traffic_saving_notify_switch">Mostrar en la bandeja de notificación</string>
   <string name="pref_traffic_saving_notify_switch_hint">Mostrar la información de Data Saver en la bandeja de notificación</string>
   <string name="pref_traffic_saving_switch">Reducir el uso de datos</string>
@@ -356,7 +356,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"¿No conoce su límite?"</string>
-  <string name="tips_message">"Si no tiene claros los detalles de su plan WiFi puede verlos llamando al %2$s (%1$s)."</string>
+  <string name="tips_message">"Si no tiene claros los detalles de su plan Wi-Fi puede verlos llamando al %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Límite de uso de datos diario</string>
   <string name="traffic_config_alert_body">"La contabilidad de su operador muestra que Vd. ha usado %s
 ¿Actualizar la información de uso de datos?"</string>
@@ -393,13 +393,13 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_protection_summary">Establecer alertas para cuando el uso de datos alcance cierto valor</string>
   <string name="traffic_protection_text_hint">Establecer límite de uso de datos en %s</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Configurar más tarde&lt;/u&gt;</string>
-  <string name="traffic_protection_use_data">Datos habilitados</string>
+  <string name="traffic_protection_use_data">Datos activados</string>
   <string name="traffic_purchase_body">Pulse para recargar su saldo.</string>
   <string name="traffic_purchse_suggestion">Límite de datos excedido</string>
   <string name="traffic_saving_button_sorted">Detalles</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Ordenar por</string>
-  <string name="traffic_saving_button_start">Habilitar</string>
-  <string name="traffic_saving_button_stop">Deshabilitar</string>
+  <string name="traffic_saving_button_start">Activar</string>
+  <string name="traffic_saving_button_stop">Desactivar</string>
   <string name="traffic_saving_history_title">Historial</string>
   <string name="traffic_saving_history_total_money">Total ahorrado</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
@@ -460,6 +460,6 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="usage_sorted_loading_text">Cargando…</string>
   <string name="usbsharenet_exception_summary">"No se puede comprobar la red si está siendo compartida por Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Comprobar red compartida por USB</string>
-  <string name="wifi_exception_summary">Comprobar conexiones de red WiFi disponibles</string>
-  <string name="wifi_exception_title">Comprobar red WiFi</string>
+  <string name="wifi_exception_summary">Comprobar conexiones de red Wi-Fi disponibles</string>
+  <string name="wifi_exception_title">Comprobar red Wi-Fi</string>
 </resources>

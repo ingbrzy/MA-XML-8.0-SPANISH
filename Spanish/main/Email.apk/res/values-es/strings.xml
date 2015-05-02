@@ -38,7 +38,7 @@
   <string name="account_set_up_notice">A pocos pasos, puede configurar una cuenta de correo electrónico para la mayoría de</string>
   <string name="account_settings_action">Configuración de la cuenta</string>
   <string name="account_settings_background_attachments_label">Descargar datos adjuntos</string>
-  <string name="account_settings_background_attachments_summary">Auto-descargar datos adjuntos de los mensajes recientes si se encuentra conectado a una red WiFi</string>
+  <string name="account_settings_background_attachments_summary">Auto-descargar datos adjuntos de los mensajes recientes si se encuentra conectado a una red Wi-Fi</string>
   <string name="account_settings_chat_mode_enable">Modo de Conversación</string>
   <string name="account_settings_chat_mode_summary">Toque para mezclar el grupo de correo y poner el modo de conversación</string>
   <string name="account_settings_data_usage">Uso de datos</string>
@@ -149,7 +149,7 @@
   <string name="account_setup_names_user_name_label">Tu nombre (aparece en los mensajes salientes)</string>
   <string name="account_setup_need_password_verification">Su cuenta ha sido abierta con una contraseña secundaria de autenticación, es necesario volver a autenticarse</string>
   <string name="account_setup_not_disturb_title">No molestar</string>
-  <string name="account_setup_options_background_attachments_label">Descargar automáticamente los datos adjuntos cuando se conecta a una red WiFi</string>
+  <string name="account_setup_options_background_attachments_label">Descargar automáticamente los datos adjuntos cuando se conecta a una red Wi-Fi</string>
   <string name="account_setup_options_headline">Opciones de cuenta</string>
   <string name="account_setup_options_mail_check_frequency_10min">Cada 10 minutos</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Cada 12 horas</string>
@@ -353,9 +353,9 @@
   <string name="debug_clear_webview_cache">Borrar la caché del WebView</string>
   <string name="debug_disable_graphics_acceleration_label">Desactivar la aceleración de hardware gráfico</string>
   <string name="debug_enable_debug_logging_label">¿Activar el registro de depuración extra?</string>
-  <string name="debug_enable_file_logging_label">¿Habilitar el registro de la tarjeta sd?</string>
+  <string name="debug_enable_file_logging_label">¿Activar el registro de la tarjeta sd?</string>
   <string name="debug_enable_strict_mode_label">Activar el modo estricto (con registro)</string>
-  <string name="debug_enable_verbose_logging_label">¿Habilitar el registro extremadamente detallado?</string>
+  <string name="debug_enable_verbose_logging_label">¿Activar el registro extremadamente detallado?</string>
   <string name="debug_force_one_minute_refresh_label">Forzar actualización de 1 minuto para POP/IMAP</string>
   <string name="debug_title">Depuración</string>
   <string name="default_">POR DEFECTO</string>
@@ -368,12 +368,12 @@
   <string name="delete_conversation_hint_message">%1$d %2$s ha sido eliminado</string>
   <string name="deleted">Eliminado</string>
   <string name="device_activity_btn_str">Devolverse para activar</string>
-  <string name="device_activity_lint_str">Habilitar la actualización completa del servicio de correo y activar el equipo de seguridad</string>
+  <string name="device_activity_lint_str">Activar la actualización completa del servicio de correo y activar el equipo de seguridad</string>
   <string name="device_admin_description">Permitir las políticas de seguridad especificadas por el servidor</string>
   <string name="device_admin_label">Correo electrónico</string>
   <string name="device_not_activiey_lint1">El administrador de dispositivos no está activado</string>
   <string name="device_not_activiey_lint2">Servicio de correo no funciona correctamente exchange</string>
-  <string name="dialog_auto_download_failed">"No puede terminar la descarga automaticamente, prueba descargar manualmente."</string>
+  <string name="dialog_auto_download_failed">"No puede terminar la descarga automáticamente, prueba descargar manualmente."</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">No hay  espacio suficiente para %s.</string>
   <string name="dialog_insufficient_space_on_external">"No se puede terminar de descargar. No hay suficiente espacio de almacenamiento externo."</string>
   <string name="dialog_insufficient_space_on_internal">"No hay suficiente espacio en el almacenamiento interno."</string>
@@ -534,8 +534,8 @@
   <string name="mail">Correo</string>
   <string name="mail_body_turncated">Este correo electrónico es demasiado grande para cargar y solo se muestra parte de el, para visualizarlo completo use un PC</string>
   <string name="mail_header_downloading_message_body">Descargando…</string>
-  <string name="mail_header_message_body_auto_download_complete">Contenido de correo descargado usando WiFi.</string>
-  <string name="mail_header_message_body_auto_download_tip">El contenido del correo se descargará usando WiFi.</string>
+  <string name="mail_header_message_body_auto_download_complete">Contenido de correo descargado usando Wi-Fi.</string>
+  <string name="mail_header_message_body_auto_download_tip">El contenido del correo se descargará usando Wi-Fi.</string>
   <string name="mail_header_message_body_download_failed">Tiempo de espera rebasado.</string>
   <string name="mail_header_network_not_available">No tiene conexión de red.</string>
   <string name="mailbox_list_account_selector_combined_view">Bandeja de entrada combinada</string>
@@ -593,8 +593,8 @@
   <string name="menu_settings">Ajustes</string>
   <string name="menu_show_original">Revertir tamaño automático</string>
   <string name="merged_mailbox_compose_select_account">Seleccione una Cuenta</string>
-  <string name="message_body_auto_download_complete">Descargar automáticamente el correo al usar WiFi</string>
-  <string name="message_body_auto_download_tip">"Actualmente estás usando WiFi. Se descargará automáticamente correo electrónico"</string>
+  <string name="message_body_auto_download_complete">Descargar automáticamente el correo al usar Wi-Fi</string>
+  <string name="message_body_auto_download_tip">"Actualmente estás usando Wi-Fi. Se descargará automáticamente correo electrónico"</string>
   <string name="message_body_download_failed">Tiempo de espera cuando se descarga el correo electrónico</string>
   <string name="message_body_loading">[ Cargando… ]</string>
   <string name="message_compose_fwd_header_fmt">"
@@ -622,7 +622,7 @@ CC: %4$s
   <string name="message_view_attachment_background_load">Serán descargados antes de enviar uno o más archivos adjuntos en el mensaje reenviado.</string>
   <string name="mibill_privacy_policy_button1">Ahora no</string>
   <string name="mibill_privacy_policy_button2">Aceptar</string>
-  <string name="mibill_privacy_policy_description">Mi Wallet analizará todas las declaraciones de correo electrónico recibidas en su aplicación de correo y administrará todas sus cuentas de tarjetas de crédito por usted. Este servicio se deshabilita de forma predeterminada en el buzón de correo de la empresa.</string>
+  <string name="mibill_privacy_policy_description">Mi Wallet analizará todas las declaraciones de correo electrónico recibidas en su aplicación de correo y administrará todas sus cuentas de tarjetas de crédito por usted. Este servicio se desactiva de forma predeterminada en el buzón de correo de la empresa.</string>
   <string name="mibill_privacy_policy_link">Aceptar &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Acuerdo Servicio Usuario de Cuentas de Tarjetas de Crédito&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Mi Wallet analiza declaraciones correo electrónico</string>
   <string name="more_atts_remaining">%1$d más faltan</string>
@@ -726,7 +726,7 @@ CC: %4$s
   <string name="policy_dont_allow_text_messaging">"No se permiten mensajes de texto"</string>
   <string name="policy_dont_allow_unsigned_apps">"No se permiten aplicaciones sin firmar"</string>
   <string name="policy_dont_allow_unsigned_installers">"No permitir instaladores de aplicaciones sin firmar"</string>
-  <string name="policy_dont_allow_wifi">"No permitir WiFi"</string>
+  <string name="policy_dont_allow_wifi">"No permitir Wi-Fi"</string>
   <string name="policy_email_age">Limitar el número de mensajes de correo electrónico sincronizados</string>
   <string name="policy_html_truncation">Limitar tamaño de correo electrónico HTML</string>
   <string name="policy_max_attachment_size">Limitar tamaño de archivos adjuntos</string>
@@ -830,7 +830,7 @@ CC: %4$s
   <string name="report_phishing">Denunciar phishing</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
-  <string name="require_manual_sync_message">La sincronización offline para esta cuenta está deshabilitada en itinerancia.</string>
+  <string name="require_manual_sync_message">La sincronización offline para esta cuenta está desactivada en itinerancia.</string>
   <string name="respond_inline">Responder en línea</string>
   <string name="resume_draft">Editar</string>
   <string name="retry">Reintentar</string>

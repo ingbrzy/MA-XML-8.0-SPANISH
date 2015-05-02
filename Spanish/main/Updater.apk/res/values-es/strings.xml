@@ -30,8 +30,8 @@
   <string name="cancel_download_buton_text">Cancelar</string>
   <string name="check_new_version">Comprobar</string>
   <string name="check_update_policy">Ajustes</string>
-  <string name="check_update_when_wifi_available">Utilizar solo WiFi para comprobar actualizaciones</string>
-  <string name="check_update_when_wifi_available_sum">Usar sólo WiFi para comprobar si hay actualizaciones</string>
+  <string name="check_update_when_wifi_available">Utilizar solo Wi-Fi para comprobar actualizaciones</string>
+  <string name="check_update_when_wifi_available_sum">Usar sólo Wi-Fi para comprobar si hay actualizaciones</string>
   <string name="clean_up_button">Limpiar</string>
   <string name="comment_invalid">Califica esta actualización (selecciona las estrellas)</string>
   <string name="comment_publish">Confirmar</string>
@@ -91,7 +91,7 @@
   <string name="new_updates_found_notification_title">Actualización disponible</string>
   <string name="next">Siguiente</string>
   <string name="no_log">No hay resumen disponible</string>
-  <string name="no_wifi_msg">"Ya no está conectado a una WiFi. Si continúa la descarga con la red móvil de datos se incrementará mucho su uso de datos."</string>
+  <string name="no_wifi_msg">"Ya no está conectado a una Wi-Fi. Si continúa la descarga con la red móvil de datos se incrementará mucho su uso de datos."</string>
   <string name="no_wifi_title">Aviso de uso de datos</string>
   <string name="not_open">No activar</string>
   <string name="notification_downloading">Descargando actualización…</string>
@@ -123,15 +123,15 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_title">Utilizar Mi PC Suite para actualizar el sistema</string>
   <string name="repeat">Reintentar</string>
   <string name="set_auto">Establecido Modo Auto</string>
-  <string name="set_auto_msg">Gestione la actualización automática de aplicaciones que no tengan prisa, para que se lleve a cabo por WiFi cuando esté disponible.</string>
+  <string name="set_auto_msg">Gestione la actualización automática de aplicaciones que no tengan prisa, para que se lleve a cabo por Wi-Fi cuando esté disponible.</string>
   <string name="set_auto_update_title">Activar descarga automática de actualizaciones</string>
   <string name="set_installfail_full_msg">"No se puede actualizar en este momento. Toque \"Aceptar\" para informar este error a nuestros técnicos."</string>
   <string name="set_installfail_msg">Descargar esta actualización con su conexión móvil de datos incrementará su uso de datos.</string>
   <string name="set_installfail_title">¿Quiere intentar la descarga de nuevo?</string>
   <string name="set_installfail_title_full">Actualización fallida</string>
-  <string name="set_network_msg">Conectar a una WiFi antes de descargar esta actualización.</string>
+  <string name="set_network_msg">Conectar a una Wi-Fi antes de descargar esta actualización.</string>
   <string name="set_network_title">Conectar a una red</string>
-  <string name="set_only_wifi">Establecer Comprobar actualización sólo con WiFi</string>
+  <string name="set_only_wifi">Establecer Comprobar actualización sólo con Wi-Fi</string>
   <string name="share">Compartir</string>
   <string name="share_qq">Post de Tencent Weibo</string>
   <string name="share_sina">Post en Sina Weibo</string>
@@ -165,7 +165,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_feedback_end">"Olvidó que esta semana es de four-grid"</string>
   <string name="update_feedback_end_sum">Puede unirse cada Martes.</string>
   <string name="update_feedback_expired">"Te perdiste la ronda de comentarios de esta semana. Pero podrás participar de nuevo el próximo martes"</string>
-  <string name="update_feedback_need_account">Necesita identificarse primero en su Mi Account</string>
+  <string name="update_feedback_need_account">Necesita identificarse primero en su cuenta Mi</string>
   <string name="update_feedback_need_network">Conectese primero a la red</string>
   <string name="update_feedback_need_update">Actualmente no está usando la última versión de desarrollo. Actualizce a la última versión antes de votar.</string>
   <string name="update_feel">¿Qué le parece?</string>
@@ -194,7 +194,7 @@ del Beta Feedback Program"</string>
   <string name="vote_error2">"No se pudo enviar comentarios.
 Actualice su dispositivo y vuelva a intentarlo"</string>
   <string name="vote_error3">"No se puede identificar.
-Intente identificarse de nuevo en su Mi Account."</string>
+Intente identificarse de nuevo en su cuenta Mi."</string>
   <string name="vote_error4">Usted ya ha enviado comentarios</string>
   <string name="vote_error5">"Álgo fué mal
 No se pudo enviar comentarios"</string>

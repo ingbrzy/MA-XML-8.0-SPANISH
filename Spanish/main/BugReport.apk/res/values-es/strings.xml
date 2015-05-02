@@ -48,7 +48,7 @@
   <string name="err_type_system">Sistema</string>
   <string name="err_type_system_summary">Memoria, rendimiento, etc.</string>
   <string name="err_type_systemapp">Aplicaciones MIUI</string>
-  <string name="err_type_wifi">WiFi</string>
+  <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Mi Family</string>
   <string name="err_type_xiaomi_service">Servicio al Cliente</string>
   <string name="hot_problem">Ver errores comunes</string>
@@ -84,8 +84,8 @@
   <string name="signal_problem2">Señal débil</string>
   <string name="submit_dialog_cancel">Cancelar</string>
   <string name="submit_dialog_confirm">Enviar</string>
-  <string name="submit_dialog_content">Su opinión, junto con los registros de error e imágenes adjuntas, se enviarán a los servidores de Mi cuando su dispositivo se conecte a un WiFi.</string>
-  <string name="submit_dialog_not_wifi_content">Su opinión, junto con los registros de error e imágenes adjuntas, se enviarán a los servidores de Mi cuando su dispositivo se conecte a un WiFi.</string>
+  <string name="submit_dialog_content">Su opinión, junto con los registros de error e imágenes adjuntas, se enviarán a los servidores de Mi cuando su dispositivo se conecte a un Wi-Fi.</string>
+  <string name="submit_dialog_not_wifi_content">Su opinión, junto con los registros de error e imágenes adjuntas, se enviarán a los servidores de Mi cuando su dispositivo se conecte a un Wi-Fi.</string>
   <string name="submit_dialog_title">Send bug report</string>
   <string name="suggestion_description">"Espero que añadan X característica, porque…"</string>
   <string name="suggestion_problem1">Deberían añadir esta característica porque…</string>
@@ -98,7 +98,7 @@
   <string name="toast_description_required">Debe escribir una descripción</string>
   <string name="toast_feedback_collect_store">Recuperando registros…</string>
   <string name="toast_feedback_network_unavailable">"No se puede conectar a la Red"</string>
-  <string name="toast_feedback_pending_wlan">"El mensaje se enviará cuando estés conectado a una red WiFi"</string>
+  <string name="toast_feedback_pending_wlan">"El mensaje se enviará cuando estés conectado a una red Wi-Fi"</string>
   <string name="toast_feedback_submitted">Se ha enviado el informe</string>
   <string name="toast_feedback_submitting">Enviando…</string>
   <string name="toast_feedbackservice_in_submit">Enviar comentarios anteriores…</string>
@@ -108,8 +108,8 @@
   <string name="toast_report_copied_to_clipboard">Informe copiado en el portapapeles</string>
   <string name="toast_report_sent_failed">"No se puede enviar el informe"</string>
   <string name="toast_report_sent_succeed">Se ha enviado el informe</string>
-  <string name="wifi_problem1">"No se puede conectar automáticamente a una WiFi segura"</string>
-  <string name="wifi_problem2">La señal WiFi es débil</string>
-  <string name="wifi_problem3">La señal WiFi se desconecta inesperadamente</string>
+  <string name="wifi_problem1">"No se puede conectar automáticamente a una Wi-Fi segura"</string>
+  <string name="wifi_problem2">La señal Wi-Fi es débil</string>
+  <string name="wifi_problem3">La señal Wi-Fi se desconecta inesperadamente</string>
   <string name="wifi_problem4">"No se puede conectar a la red"</string>
 </resources>

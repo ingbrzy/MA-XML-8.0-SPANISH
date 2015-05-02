@@ -373,7 +373,7 @@
   <string name="device_name_input_error">No se pudo guardar el nombre del dispositivo</string>
   <string name="device_name_input_hint">Escriba nombre</string>
   <string name="device_name_tip">Introduzca el nombre del dispositivo</string>
-  <string name="device_name_usage_point">Este nombre será visible para otros dispositivos con Bluetooth habilitado en su área</string>
+  <string name="device_name_usage_point">Este nombre será visible para otros dispositivos con Bluetooth activado en su área</string>
   <string name="device_xiaomi">Teléfono Xiaomi</string>
   <string name="double_seventh_day">Día del doble séptimo dia</string>
   <string name="easter">Pascua</string>
@@ -384,17 +384,17 @@
   <string name="error_bad_file">Archivo corrupto</string>
   <string name="error_connect_service">"No se puede conectar con el servicio de transferencia"</string>
   <string name="error_download">Se ha producido un error desconocido</string>
-  <string name="error_forbidden">Su cuenta presenta problemas. Sincronización deshabilitada.</string>
+  <string name="error_forbidden">Su cuenta presenta problemas. Sincronización desactivada.</string>
   <string name="error_general">Se ha producido un error desconocido</string>
   <string name="error_network">Error de red</string>
-  <string name="error_not_acceptable">Servidor defectuoso. Sincronización deshabilitada.</string>
+  <string name="error_not_acceptable">Servidor defectuoso. Sincronización desactivada.</string>
   <string name="error_not_enough_space">No hay espacio suficiente</string>
   <string name="error_not_selected">ningún archivo seleccionado o no existe el archivo</string>
   <string name="error_peer_disconnected">Par desconectado</string>
   <string name="error_select">Error de archivo</string>
   <string name="error_title">Error de sincronización para %s</string>
   <string name="error_transmit">Error de transferencia</string>
-  <string name="error_unauthorized">Demasiados fallos de autenticación. Sincronización deshabilitada.</string>
+  <string name="error_unauthorized">Demasiados fallos de autenticación. Sincronización desactivada.</string>
   <string name="error_upload">Error de upload</string>
   <string name="every_day">Todos los días</string>
   <string name="experimental_validate">Validar</string>
@@ -542,7 +542,7 @@ La memoria  disponible actualmente es %2$s"</string>
   <string name="noti_receiving">%1$s:Recibiendo %2$d/%3$d archivo(s)</string>
   <string name="noti_sending">%1$s:Enviando %2$d/%3$d archivo(s)</string>
   <string name="noti_wait_receive">Esperando al remitente…</string>
-  <string name="noti_wait_send">Esperando recibir: Asegúrese de que el remitente ha habilitado la conexión y puede enviar archivos</string>
+  <string name="noti_wait_send">Esperando recibir: Asegúrese de que el remitente ha activado la conexión y puede enviar archivos</string>
   <string name="ok">Confirmado</string>
   <string name="open_wifi_settings">Conexión a red abierta</string>
   <string name="operation_delete">Eliminar</string>
@@ -594,10 +594,10 @@ La memoria  disponible actualmente es %2$s"</string>
   <string name="reverse_all">Borrar todo</string>
   <string name="safetylegal_activity_unreachable">El teléfono no está conectado a un servicio de datos. Para ver esta información ahora, ir a %s desde cualquier ordenador conectado a Internet.</string>
   <string name="scan_2d_code">Escanear código 2D</string>
-  <string name="scan_tip">"Asegúrese de que el destinatario ha habilitado la conexión y puede recibir archivos."</string>
+  <string name="scan_tip">"Asegúrese de que el destinatario ha activado la conexión y puede recibir archivos."</string>
   <string name="scan_title">Por favor, enfoque el código 2D</string>
   <string name="scanning">Escaneando…</string>
-  <string name="screen_button_notification_text">"Pulse 'Home' + 'Encendido' para habilitar"</string>
+  <string name="screen_button_notification_text">"Pulse 'Home' + 'Encendido' para activar"</string>
   <string name="screen_button_notification_title">Los botones de pantalla están desabilitados</string>
   <string name="screen_on_proximity_sensor_hint">"Forzar la salida: pulsando las teclas 'Atrás' + 'Subir volumen'"</string>
   <string name="screen_on_proximity_sensor_summary">"No cubra la parte superior de la pantalla"</string>
@@ -719,7 +719,7 @@ La memoria  disponible actualmente es %2$s"</string>
   <string name="wake_alarm_message">Apagado. La alarma todavía suena a las %s</string>
   <string name="wanna_receive">Recibir</string>
   <string name="welcome_tip1">"Transferir archivos rápidamente sin necesidad de utilizar sus datos móvil
-La aplicación WiFi se abrirá al recibir"</string>
+La aplicación Wi-Fi se abrirá al recibir"</string>
   <string name="welcome_tip2">¡Compartir fotos, música, contactos y mucho más!</string>
   <string name="white_dews">Torres</string>
   <string name="winter_begins">Inicio del Invierno</string>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="miui">miui</string>
-  <string name="screen_button_disabled_message">Botones de navegación desactivados. Para volver a habilitar, toque el botón Home y el Power simultáneamente.</string>
-  <string name="screen_button_enabled_message">Botones de navegación habilitados.</string>
+  <string name="screen_button_disabled_message">Botones de navegación desactivados. Para volver a activar, toque el botón Home y el Power simultáneamente.</string>
+  <string name="screen_button_enabled_message">Botones de navegación activados.</string>
   <string name="screen_rotation_freeze_message">Auto-rotar desactivado.</string>
   <string name="status_bar_toggle_ac">Patrón</string>
   <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
@@ -49,7 +49,7 @@
   <string name="status_bar_toggle_torch">Linterna</string>
   <string name="status_bar_toggle_vibrate">Vibrar</string>
   <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-  <string name="status_bar_toggle_wifi">WiFi</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
   <string name="status_bar_toggle_wifi_ap">Compartir</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>

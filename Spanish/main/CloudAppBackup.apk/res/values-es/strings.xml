@@ -2,8 +2,8 @@
 <resources>
   <string name="about_cloud_app_backup">Sobre copia de seguridad</string>
   <string name="already_deleted">%s (eliminado)</string>
-  <string name="already_disable_backup">La copia de seguridad ya está deshabilitada para este dispositivo</string>
-  <string name="already_enable_backup">La copia de seguridad ya está habilitada para este dispositivo</string>
+  <string name="already_disable_backup">La copia de seguridad ya está desactivada para este dispositivo</string>
+  <string name="already_enable_backup">La copia de seguridad ya está activada para este dispositivo</string>
   <string name="app_installed">Instalado</string>
   <string name="app_name">CloudAppBackup</string>
   <string name="app_not_installed">Desinstalado</string>
@@ -28,7 +28,7 @@
   <string name="cloud_app_backup_progress">Realizando copia de seguridad…</string>
   <string name="cloud_app_backup_size">Tamaño:</string>
   <string name="cloud_app_backup_success">Copia de seguridad de las aplicaciones terminada</string>
-  <string name="cloud_app_backup_summary">Automáticamente hacer copia de seguridad de aplicaciones y datos del usuario cuando el teléfono está conectado a WiFi y en carga</string>
+  <string name="cloud_app_backup_summary">Automáticamente hacer copia de seguridad de aplicaciones y datos del usuario cuando el teléfono está conectado a Wi-Fi y en carga</string>
   <string name="cloud_app_backup_title">Copia de seguridad en Mi Cloud</string>
   <string name="cloud_app_check_data">Obteniendo datos de Mi Cloud…</string>
   <string name="cloud_app_current_device">Dispositivo actual</string>
@@ -59,10 +59,10 @@
   <string name="cloud_app_restore_progress">Restaurando…</string>
   <string name="cloud_app_restore_prompt">La restauración sobrescribira los datos locales de usuario con los datos de la copia de seguridad de Mi Cloud.</string>
   <string name="cloud_app_restore_success">Aplicaciones restauradas</string>
-  <string name="cloud_app_restore_wifi_prompt">Necesita conectarse a Internet a través de WiFi para restaurar sus datos</string>
+  <string name="cloud_app_restore_wifi_prompt">Necesita conectarse a Internet a través de Wi-Fi para restaurar sus datos</string>
   <string name="cloud_app_total_size">Tamaño: %1$s</string>
   <string name="cloud_app_version_size">Versión: %1$s, tamaño: %2$s</string>
-  <string name="cloud_app_wait_wifi">Esperando conexión WiFi</string>
+  <string name="cloud_app_wait_wifi">Esperando conexión Wi-Fi</string>
   <string name="confirm_disable_backup">¿Desactivar y eliminar \"%s\"?</string>
   <string name="customization">&lt;u&gt;personalizar&lt;/u&gt;</string>
   <string name="datasize_unknown">Desconocido</string>
@@ -78,7 +78,7 @@
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="disable_backup">Desactivar</string>
   <string name="download_settings">Descargar configuración de la pantalla de inicio</string>
-  <string name="enable_backup">Habilitar</string>
+  <string name="enable_backup">Activar</string>
   <string name="error_unknown">Álgo salió mal</string>
   <string name="explantion_of_data_size">Espacio ahorrado utilizando Mi App Market</string>
   <string name="latest_backup_time">Última copia de seguridad: %s</string>
@@ -94,9 +94,9 @@
   <string name="name_model">"%1$s's %2$s"</string>
   <string name="no_app_to_backup">No hay aplicaciones para la copia de seguridad</string>
   <string name="no_backup">No hay copias de seguridad</string>
-  <string name="open_wifi">Enciende el WiFi ahora</string>
-  <string name="open_wifi_description">Conéctese a una red WiFi para restaurar datos de aplicaciones</string>
-  <string name="open_wifi_setting">Configuración WiFi</string>
+  <string name="open_wifi">Enciende el Wi-Fi ahora</string>
+  <string name="open_wifi_description">Conéctese a una red Wi-Fi para restaurar datos de aplicaciones</string>
+  <string name="open_wifi_setting">Configuración Wi-Fi</string>
   <string name="process_whole_recovery">Restauración de \"%s\"</string>
   <string name="recover_from_micloud">Recuperar usando Mi Cloud</string>
   <string name="recover_settings">Restaurar configuración de la pantalla de inicio</string>
