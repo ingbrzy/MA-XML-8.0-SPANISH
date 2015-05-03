@@ -50,7 +50,7 @@
   <string name="activity_resolver_use_once">Solo una vez</string>
   <string name="activitychooserview_choose_application">Seleccionar una aplicación</string>
   <string name="activitychooserview_choose_application_error">No se ha podido abrir %s</string>
-  <string name="adb_active_notification_message">Toca para inactivar la depuración USB</string>
+  <string name="adb_active_notification_message">Toca para desactivar la depuración USB</string>
   <string name="adb_active_notification_title">Depuración USB activada</string>
   <string name="addToDictionary">Añadir al diccionario</string>
   <string name="add_account_button_label">Añadir cuenta</string>
@@ -145,19 +145,19 @@
 a partir de %s"</string>
   <string name="cut">Cortar</string>
   <string name="data_usage_3g_limit_snoozed_title">Límite de datos 2G-3G superado</string>
-  <string name="data_usage_3g_limit_title">Datos 2G-3G inactivados</string>
+  <string name="data_usage_3g_limit_title">Datos 2G-3G desactivados</string>
   <string name="data_usage_4g_limit_snoozed_title">Límite de datos 4G superado</string>
-  <string name="data_usage_4g_limit_title">Datos 4G inactivados</string>
+  <string name="data_usage_4g_limit_title">Datos 4G desactivados</string>
   <string name="data_usage_limit_body">Toca para activar.</string>
   <string name="data_usage_limit_snoozed_body">Límite superado en %s</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límite de datos móviles superado</string>
-  <string name="data_usage_mobile_limit_title">Datos móviles inactivados</string>
+  <string name="data_usage_mobile_limit_title">Datos móviles desactivados</string>
   <string name="data_usage_restricted_body">Toca para eliminar la restricción.</string>
   <string name="data_usage_restricted_title">Conexiones automáticas restringidas</string>
   <string name="data_usage_warning_body">Toca para ver el uso y ajustes.</string>
   <string name="data_usage_warning_title">Advertencia de uso de datos</string>
   <string name="data_usage_wifi_limit_snoozed_title">Límite de datos Wi-Fi superado</string>
-  <string name="data_usage_wifi_limit_title">Datos Wi-Fi inactivados</string>
+  <string name="data_usage_wifi_limit_title">Datos Wi-Fi desactivados</string>
   <string name="date_picker_decrement_day_button">Reducir días</string>
   <string name="date_picker_decrement_month_button">Reducir mes</string>
   <string name="date_picker_decrement_year_button">Reducir año</string>
@@ -358,7 +358,7 @@ con %s"</string>
   <string name="keyboardview_keycode_done">Listo</string>
   <string name="keyboardview_keycode_enter">Intro</string>
   <string name="keyboardview_keycode_mode_change">Cambio de modo</string>
-  <string name="keyboardview_keycode_shift">Mayús</string>
+  <string name="keyboardview_keycode_shift">Mayús.</string>
   <string name="keygaurd_accessibility_media_controls">Controles multimedia</string>
   <string name="keyguard_accessibility_add_widget">Añadir widget</string>
   <string name="keyguard_accessibility_camera">Cámara</string>
@@ -398,7 +398,7 @@ con %s"</string>
   <string name="kg_failed_attempts_now_wiping">Has intentado desbloquear el teléfono %d veces, pero no lo has conseguido. Se restablecerán los datos de fábrica del dispositivo.</string>
   <string name="kg_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
   <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden.</string>
-  <string name="kg_invalid_puk">Vuelve a introducir el código PUK correcto. Si introduces un código incorrecto varias veces, se inactivará la tarjeta SIM.</string>
+  <string name="kg_invalid_puk">Vuelve a introducir el código PUK correcto. Si introduces un código incorrecto varias veces, se desactivará la tarjeta SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Introduce un código PIN con una longitud comprendida entre cuatro y ocho dígitos.</string>
   <string name="kg_invalid_sim_puk_hint">El código PUK debe tener ocho números como mínimo.</string>
   <string name="kg_login_account_recovery_hint">""Si has olvidado tu nombre de usuario o tu contraseña,
@@ -415,7 +415,7 @@ accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="kg_pattern_instructions">Dibuja tu patrón de desbloqueo.</string>
   <string name="kg_pin_instructions">Introduce el PIN.</string>
   <string name="kg_puk_enter_pin_hint">Introduce el código PIN deseado</string>
-  <string name="kg_puk_enter_puk_hint">La tarjeta SIM está inactivada. Para continuar, introduce el código PUK. Si quieres obtener más información, ponte en contacto con el operador</string>
+  <string name="kg_puk_enter_puk_hint">La tarjeta SIM está desactivada. Para continuar, introduce el código PUK. Si quieres obtener más información, ponte en contacto con el operador</string>
   <string name="kg_reordering_delete_drop_target_text">Eliminar</string>
   <string name="kg_sim_pin_instructions">Introduce el PIN de la tarjeta SIM.</string>
   <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
@@ -479,7 +479,7 @@ accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="lockscreen_pattern_correct">Correcto</string>
   <string name="lockscreen_pattern_instructions">Dibujar patrón de desbloqueo</string>
   <string name="lockscreen_pattern_wrong">Vuelve a intentarlo</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">"Tu tarjeta SIM se ha inactivado permanentemente.
+  <string name="lockscreen_permanent_disabled_sim_instructions">"Tu tarjeta SIM se ha desactivado permanentemente.
  Para obtener otra tarjeta SIM, ponte en contacto con tu proveedor de servicios de telefonía."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Tarjeta SIM inutilizable</string>
   <string name="lockscreen_plugged_in">Cargando (%d%%)</string>
@@ -708,7 +708,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_bluetooth">Permite que la aplicación acceda a la configuración de Bluetooth del teléfono y que establezca y acepte conexiones con los dispositivos sincronizados.</string>
   <string name="permdesc_bluetoothAdmin">Permite que la aplicación configure el teléfono Bluetooth local y que detecte dispositivos remotos y se vincule con ellos.</string>
   <string name="permdesc_bluetoothPriv">Permite que la aplicación se sincronice con dispositivos remotos sin la interacción del usuario.</string>
-  <string name="permdesc_brick">Permite que la aplicación inactive todas las funciones del teléfono de forma permanente. Este permiso es muy peligroso.</string>
+  <string name="permdesc_brick">Permite que la aplicación desactive todas las funciones del teléfono de forma permanente. Este permiso es muy peligroso.</string>
   <string name="permdesc_broadcastPackageRemoved">Permite que la aplicación emita una notificación cuando se elimine un paquete de aplicación. Las aplicaciones malintencionadas pueden usar este permiso para interrumpir la ejecución de cualquier otra aplicación.</string>
   <string name="permdesc_broadcastSmsReceived">Permite que la aplicación emita una notificación cuando se haya recibido un mensaje SMS. Las aplicaciones malintencionadas pueden usar este permiso para falsificar mensajes SMS entrantes.</string>
   <string name="permdesc_broadcastSticky">Permite que la aplicación envíe emisiones que permanecen en el dispositivo una vez que la emisión ha finalizado. Un uso excesivo podría ralentizar el teléfono o volverlo inestable al hacer que use demasiada memoria.</string>
@@ -717,13 +717,13 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_callPhone">Permite que la aplicación haga llamadas sin intervención del usuario, lo que puede dar lugar a llamadas o cargos inesperados. Ten en cuenta que las aplicaciones no pueden usar este servicio para realizar llamadas a números de emergencia, pero las aplicaciones malintencionadas pueden causarte gastos imprevistos al realizar llamadas sin tu confirmación.</string>
   <string name="permdesc_callPrivileged">Permite que la aplicación llame a cualquier número de teléfono, incluidos los números de emergencia, sin que intervenga el usuario. Las aplicaciones malintencionadas pueden usar este permiso para realizar llamadas innecesarias e ilícitas a los servicios de emergencia.</string>
   <string name="permdesc_camera">Permite que la aplicación haga fotos o grabe vídeos con la cámara. Este permiso autoriza a la aplicación a utilizar la cámara en cualquier momento sin tu confirmación.</string>
-  <string name="permdesc_cameraDisableTransmitLed">Permite que una aplicación de sistema instalada previamente inactive el indicador LED que advierte del uso de la cámara.</string>
+  <string name="permdesc_cameraDisableTransmitLed">Permite que una aplicación de sistema instalada previamente desactive el indicador LED que advierte del uso de la cámara.</string>
   <string name="permdesc_captureAudioHotword">Permite que la aplicación grabe audio para detectar palabras activas. La grabación se puede realizar en segundo plano pero no impide que se grabe otro tipo de audio (p.ej. la videocámara).</string>
   <string name="permdesc_captureAudioOutput">Permite que la aplicación capture y redirija la salida de audio.</string>
   <string name="permdesc_captureSecureVideoOutput">Permite que la aplicación capture y redirija la salida de vídeo segura.</string>
   <string name="permdesc_captureVideoOutput">Permite que la aplicación capture y redirija la salida de vídeo.</string>
   <string name="permdesc_changeBackgroundDataSetting">Permite que la aplicación cambie los ajustes de uso de conexiones automáticas.</string>
-  <string name="permdesc_changeComponentState">Permite que la aplicación determine si un componente de otra aplicación está activado o inactivado. Las aplicaciones malintencionadas pueden usar este permiso para inactivar funciones importantes del teléfono. Este permiso se debe usar con precaución, ya que los componentes de las aplicaciones se pueden volver inestables, incoherentes o inservibles.</string>
+  <string name="permdesc_changeComponentState">Permite que la aplicación determine si un componente de otra aplicación está activado o desactivado. Las aplicaciones malintencionadas pueden usar este permiso para desactivar funciones importantes del teléfono. Este permiso se debe usar con precaución, ya que los componentes de las aplicaciones se pueden volver inestables, incoherentes o inservibles.</string>
   <string name="permdesc_changeConfiguration">Permite que la aplicación cambie la configuración actual como, por ejemplo, la configuración local o el tamaño de fuente general.</string>
   <string name="permdesc_changeNetworkState">Permite que la aplicación modifique el estado de la conectividad de red.</string>
   <string name="permdesc_changeTetherState">Permite que la aplicación cambie el estado de la conectividad de Compartir Internet.</string>
@@ -743,7 +743,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_deletePackages">Permite que la aplicación elimine paquetes de Android. Las aplicaciones malintencionadas pueden usar este permiso para eliminar aplicaciones importantes.</string>
   <string name="permdesc_devicePower">Permite que la aplicación encienda o apague el teléfono.</string>
   <string name="permdesc_diagnostic">Permite que la aplicación consulte y escriba en cualquier recurso del grupo de diagnóstico como, por ejemplo, archivos en /dev. Este permiso podría afectar a la seguridad y estabilidad del sistema. SOLO se debe usar para diagnósticos específicos de hardware realizados por el fabricante o el operador.</string>
-  <string name="permdesc_disableKeyguard">Permite que la aplicación inactive el bloqueo del teclado y cualquier protección con contraseña asociada. Por ejemplo, el teléfono puede inactivar el bloqueo del teclado cuando se recibe una llamada telefónica y volver a activarlo cuando finaliza la llamada.</string>
+  <string name="permdesc_disableKeyguard">Permite que la aplicación desactive el bloqueo del teclado y cualquier protección con contraseña asociada. Por ejemplo, el teléfono puede desactivar el bloqueo del teclado cuando se recibe una llamada telefónica y volver a activarlo cuando finaliza la llamada.</string>
   <string name="permdesc_dump">Permite que la aplicación recupere el estado interno del sistema. Las aplicaciones malintencionadas pueden usar este permiso para recuperar una gran variedad de información protegida y privada que normalmente no deberían necesitar.</string>
   <string name="permdesc_enableCarMode">Permite que la aplicación active el modo coche.</string>
   <string name="permdesc_expandStatusBar">Permite que la aplicación expanda o contraiga la barra de estado.</string>
@@ -770,7 +770,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_internalSystemWindow">Permite que la aplicación cree ventanas para la interfaz de usuario interna del sistema. Las aplicaciones normales no deben usar este permiso.</string>
   <string name="permdesc_invokeCarrierSetup">Permite ejecutar la aplicación de configuración proporcionada por el operador. No debe ser necesario para aplicaciones normales.</string>
   <string name="permdesc_killBackgroundProcesses">Este permiso autoriza a la aplicación a interrumpir procesos en segundo plano de otras aplicaciones y puede hacer, por tanto, que esas aplicaciones dejen de ejecutarse.</string>
-  <string name="permdesc_locationUpdates">Permite que la aplicación active o inactive las notificaciones de actualización de la señal móvil. Las aplicaciones normales no deben usar este permiso.</string>
+  <string name="permdesc_locationUpdates">Permite que la aplicación active o desactive las notificaciones de actualización de la señal móvil. Las aplicaciones normales no deben usar este permiso.</string>
   <string name="permdesc_magnify_display">Permite que una aplicación amplíe el contenido de una pantalla. Las aplicaciones maliciosas pueden transformar el contenido de la pantalla para que el dispositivo no se pueda utilizar.</string>
   <string name="permdesc_manageAccounts">Permite que la aplicación lleve a cabo operaciones como añadir y eliminar cuentas y eliminar su contraseña.</string>
   <string name="permdesc_manageActivityStacks">Permite que la aplicación añada, elimine y modifique las pilas de actividad en las que se ejecutan otras aplicaciones. Las aplicaciones maliciosas pueden interrumpir el comportamiento de otras aplicaciones.</string>
@@ -849,7 +849,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_shutdown">Pone el administrador de actividades en estado de cierre. No realiza un cierre completo.</string>
   <string name="permdesc_signalPersistentProcesses">Permite que la aplicación solicite que la señal suministrada se envíe a todos los procesos persistentes.</string>
   <string name="permdesc_startAnyActivity">Permite que la aplicación inicie una actividad, independientemente de la protección de permisos o de si está exportada.</string>
-  <string name="permdesc_statusBar">Permite que la aplicación inactive la barra de estado o añada y elimine iconos del sistema.</string>
+  <string name="permdesc_statusBar">Permite que la aplicación desactive la barra de estado o añada y elimine iconos del sistema.</string>
   <string name="permdesc_statusBarService">Permite que la aplicación aparezca en la barra de estado.</string>
   <string name="permdesc_stopAppSwitches">Evita que el usuario cambie a otra aplicación.</string>
   <string name="permdesc_subscribedFeedsRead">Permite que la aplicación obtenga detalles sobre los feeds sincronizados actualmente.</string>
@@ -986,7 +986,7 @@ para la cuenta %s"</string>
   <string name="permlab_bluetooth">vincular con dispositivos Bluetooth</string>
   <string name="permlab_bluetoothAdmin">acceder a los ajustes de Bluetooth</string>
   <string name="permlab_bluetoothPriv">Permitir que la aplicación sincronice el Bluetooth</string>
-  <string name="permlab_brick">inactivar el teléfono de forma permanente</string>
+  <string name="permlab_brick">desactivar el teléfono de forma permanente</string>
   <string name="permlab_broadcastPackageRemoved">enviar emisión eliminada de paquete</string>
   <string name="permlab_broadcastSmsReceived">enviar una emisión recibida mediante SMS</string>
   <string name="permlab_broadcastSticky">enviar emisión persistente</string>
@@ -995,13 +995,13 @@ para la cuenta %s"</string>
   <string name="permlab_callPhone">llamar directamente a números de teléfono</string>
   <string name="permlab_callPrivileged">llamar directamente a cualquier número de teléfono</string>
   <string name="permlab_camera">realizar fotografías y vídeos</string>
-  <string name="permlab_cameraDisableTransmitLed">inactivar el indicador LED de transmisión mientras se utiliza la cámara</string>
+  <string name="permlab_cameraDisableTransmitLed">desactivar el indicador LED de transmisión mientras se utiliza la cámara</string>
   <string name="permlab_captureAudioHotword">Detectar palabras activas</string>
   <string name="permlab_captureAudioOutput">capturar salida de audio</string>
   <string name="permlab_captureSecureVideoOutput">capturar salida de vídeo segura</string>
   <string name="permlab_captureVideoOutput">capturar salida de vídeo</string>
   <string name="permlab_changeBackgroundDataSetting">cambiar configuración de uso de conexiones automáticas</string>
-  <string name="permlab_changeComponentState">activar o inactivar componentes de la aplicación</string>
+  <string name="permlab_changeComponentState">activar o desactivar componentes de la aplicación</string>
   <string name="permlab_changeConfiguration">modificar ajustes de visualización del sistema</string>
   <string name="permlab_changeNetworkState">cambiar la conectividad de red</string>
   <string name="permlab_changeTetherState">cambiar conectividad de Compartir Internet</string>
@@ -1021,7 +1021,7 @@ para la cuenta %s"</string>
   <string name="permlab_deletePackages">eliminar aplicaciones</string>
   <string name="permlab_devicePower">encender o apagar el teléfono</string>
   <string name="permlab_diagnostic">leer/escribir en los recursos propiedad del grupo de diagnóstico</string>
-  <string name="permlab_disableKeyguard">inactivar el bloqueo de pantalla</string>
+  <string name="permlab_disableKeyguard">desactivar el bloqueo de pantalla</string>
   <string name="permlab_dump">recuperar estado interno del sistema</string>
   <string name="permlab_enableCarMode">activar modo coche</string>
   <string name="permlab_expandStatusBar">expandir/contraer la barra de estado</string>
@@ -1127,7 +1127,7 @@ para la cuenta %s"</string>
   <string name="permlab_shutdown">cierre parcial</string>
   <string name="permlab_signalPersistentProcesses">enviar señales Linux a aplicaciones</string>
   <string name="permlab_startAnyActivity">iniciar una actividad</string>
-  <string name="permlab_statusBar">inactivar o modificar la barra de estado</string>
+  <string name="permlab_statusBar">desactivar o modificar la barra de estado</string>
   <string name="permlab_statusBarService">barra de estado</string>
   <string name="permlab_stopAppSwitches">evitar cambios de aplicación</string>
   <string name="permlab_subscribedFeedsRead">leer feeds a los que está suscrito el usuario</string>
@@ -1191,8 +1191,8 @@ para la cuenta %s"</string>
   <string name="policydesc_setGlobalProxy">Define el servidor proxy global que se debe utilizar mientras la política esté activada. Solo el primer administrador de dispositivos define el servidor proxy global efectivo.</string>
   <string name="policydesc_watchLogin">Controla el número de contraseñas incorrectas introducidas al desbloquear la pantalla y bloquea el teléfono o elimina todos sus datos si se introducen demasiadas contraseñas incorrectas.</string>
   <string name="policydesc_wipeData">Borrar los datos del teléfono sin avisar restableciendo datos de fábrica</string>
-  <string name="policylab_disableCamera">Inactivar cámaras</string>
-  <string name="policylab_disableKeyguardFeatures">Inactivar funciones en bloqueo</string>
+  <string name="policylab_disableCamera">Desactivar cámaras</string>
+  <string name="policylab_disableKeyguardFeatures">Desactivar funciones en bloqueo</string>
   <string name="policylab_encryptedStorage">Encriptación de almacenamiento</string>
   <string name="policylab_expirePassword">Definir caducidad bloqueo pantalla</string>
   <string name="policylab_forceLock">Bloqueo de pantalla</string>
@@ -1218,7 +1218,7 @@ para la cuenta %s"</string>
   <string name="reason_service_unavailable">Servicio de impresión no activado</string>
   <string name="reason_unknown">desconocido</string>
   <string name="reboot_confirm">Su teléfono rearrancará.</string>
-  <string name="reboot_safemode_confirm">¿Quieres reiniciar el sistema en modo seguro? Se inactivarán todas las aplicaciones externas que hayas instalado. Esas aplicaciones se restaurarán la próxima vez que reinicies del sistema.</string>
+  <string name="reboot_safemode_confirm">¿Quieres reiniciar el sistema en modo seguro? Se desactivarán todas las aplicaciones externas que hayas instalado. Esas aplicaciones se restaurarán la próxima vez que reinicies del sistema.</string>
   <string name="reboot_safemode_title">Reiniciar en modo seguro</string>
   <string name="reboot_title">¿Reiniciar el teléfono?</string>
   <string name="recent_tasks_title">Reciente</string>
@@ -1308,7 +1308,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="serviceClassPacket">Paquete</string>
   <string name="serviceClassSMS">SMS</string>
   <string name="serviceClassVoice">Voz</string>
-  <string name="serviceDisabled">El servicio se ha inactivado.</string>
+  <string name="serviceDisabled">El servicio se ha desactivado.</string>
   <string name="serviceEnabled">El servicio se ha activado.</string>
   <string name="serviceEnabledFor">Se ha activado el servicio para:</string>
   <string name="serviceErased">El elemento se ha borrado correctamente.</string>

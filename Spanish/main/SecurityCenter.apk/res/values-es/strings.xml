@@ -365,7 +365,7 @@
   <string name="permission_action_accept">Aceptar</string>
   <string name="permission_action_prompt">Preguntar</string>
   <string name="permission_action_reject">Denegar</string>
-  <string name="permission_close_permission_control_dialog_msg">"Cuando el administrador de permisos está inactivo, las aplicaciones no le pedirán permiso para leer sus contactos, ver su registro de llamadas, cambiar ajustes del sistema o acceder a la cámara u otros recursos."</string>
+  <string name="permission_close_permission_control_dialog_msg">"Cuando el administrador de permisos está desactivado, las aplicaciones no le pedirán permiso para leer sus contactos, ver su registro de llamadas, cambiar ajustes del sistema o acceder a la cámara u otros recursos."</string>
   <string name="permission_close_permission_control_dialog_title">¿Desactivar el administrador de Permisos?</string>
   <string name="permission_group_title_charges_related">Cargos</string>
   <string name="permission_group_title_media_related">Multimedia</string>
@@ -401,7 +401,7 @@
   <string name="power_center_ontime_boot">Hora de encendido</string>
   <string name="power_center_ontime_shutdown">Hora de apagado</string>
   <string name="power_center_repeat">Repetir</string>
-  <string name="power_center_state_off">Inactivo</string>
+  <string name="power_center_state_off">Desactivado</string>
   <string name="power_center_state_on">Activado</string>
   <string name="power_center_time_to_boot">Hora de encendido</string>
   <string name="power_center_time_to_shutdown">Hora de apagado</string>
