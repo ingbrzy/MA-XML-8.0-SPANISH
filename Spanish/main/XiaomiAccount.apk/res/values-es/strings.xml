@@ -10,11 +10,11 @@
   <string name="account_crop_user_avatar">Crop photo</string>
   <string name="account_dspt_provision">Una cuenta Mi para todo.</string>
   <string name="account_dspt_provision2">Aprender más</string>
-  <string name="account_empty_user_name">Introduzca el nombre de usuario de su Mi Accountusername</string>
+  <string name="account_empty_user_name">Introduzca el nombre de usuario de su cuenta Mi</string>
   <string name="account_error_longer_user_name">"El nombre no puede superar los 20 caracteres"</string>
   <string name="account_error_shorter_user_name">El nombre tiene que tener más de 2 caracteres</string>
-  <string name="account_error_user_birthday">El cumpleaños que has introducido no es válido</string>
-  <string name="account_learn_more_title">Crear una Cuenta Mi</string>
+  <string name="account_error_user_birthday">El cumpleaños que ha introducido no es válido</string>
+  <string name="account_learn_more_title">Crear una cuenta Mi</string>
   <string name="account_name">Cuenta: %1$s</string>
   <string name="account_no_set">Ninguno</string>
   <string name="account_none">Ninguno</string>
@@ -38,8 +38,8 @@
   <string name="account_user_using_weibo_avatar">Usar foto de perfil de Sina Weibo</string>
   <string name="account_xiaomi_service">Servicios</string>
   <string name="add_account">Añadir cuenta</string>
-  <string name="alert_title_remove_account">"¿Borrar los datos que has sincronizado?"</string>
-  <string name="app_name">Mi cuenta</string>
+  <string name="alert_title_remove_account">"¿Borrar los datos que ha sincronizado?"</string>
+  <string name="app_name">Cuenta Mi</string>
   <string name="authorize_title">Autorización</string>
   <string name="bad_authentication">Contraseña o nombre de usuario no válido</string>
   <string name="barcode_add_account_prompt">Para agregar una cuenta, escanear el código QR otra vez después iniciar sesión.</string>
@@ -48,7 +48,7 @@
   <string name="bind_settings">Enlazar</string>
   <string name="bind_sina_weibo">Enlazar con Sina Weibo</string>
   <string name="bind_sns_description">Complete su perfil %s.</string>
-  <string name="bind_weibo_description">Buscar y sincronizar a tus amigos de Sina Weibo.</string>
+  <string name="bind_weibo_description">Buscar y sincronizar a sus amigos de Sina Weibo.</string>
   <string name="binded">Enlace completado</string>
   <string name="binded_description" formatted="false">"Ha enlazado %s correctamente.
  Complete su perfil %s usando sus información personal."</string>
