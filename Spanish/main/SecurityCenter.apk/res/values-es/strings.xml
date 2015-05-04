@@ -456,9 +456,9 @@
   <string name="power_dialog_delete_dialog_delete">¿Borrar este perfil de batería?</string>
   <string name="power_dialog_delete_dialog_title">Borrar perfil</string>
   <string name="power_dialog_ok">Aceptar</string>
-  <string name="power_dialog_screen_brightness_automátic">Ajustar brillo automáticamente</string>
-  <string name="power_dialog_screen_brightness_automátic_off">El brillo de la pantalla permanecerá constante sin tener en cuenta la luz ambiental. </string>
-  <string name="power_dialog_screen_brightness_automátic_on">El brillo de la pantalla se ajustará en función de la luz ambiental.</string>
+  <string name="power_dialog_screen_brightness_automatic">Ajustar brillo automáticamente</string>
+  <string name="power_dialog_screen_brightness_automatic_off">El brillo de la pantalla permanecerá constante sin tener en cuenta la luz ambiental. </string>
+  <string name="power_dialog_screen_brightness_automatic_on">El brillo de la pantalla se ajustará en función de la luz ambiental.</string>
   <string name="power_dialog_screen_brightness_title">Brillo</string>
   <string name="power_dialog_sleep_title">Dormir</string>
   <string name="power_dialog_vibration_title">Vibrar</string>
@@ -488,7 +488,7 @@
   <string name="power_mode_my_mode">Mi perfil</string>
   <string name="power_mode_my_mode_summary">Guardar los ajustes de batería actuales</string>
   <string name="power_mode_screen_brightness">Brillo</string>
-  <string name="power_mode_screen_brightness_automátic">Automático: %1$d%%</string>
+  <string name="power_mode_screen_brightness_automatic">Automático: %1$d%%</string>
   <string name="power_mode_screen_brightness_manual">Manual: %1$d%%</string>
   <string name="power_mode_sleep">Apagar pantalla</string>
   <string name="power_mode_sleep_in_minutes">Después de %1$d minutos de inactividad</string>
