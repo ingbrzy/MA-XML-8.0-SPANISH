@@ -2187,6 +2187,9 @@ Una credencial de confianza instalada hace esto posible."</string>
   <string name="stable_build">" | Estable"</string>
   <string name="status_awake_time">Tiempo activo</string>
   <string name="status_bar_and_notification_bar">Notificación emergente y en barra de estado</string>
+  <string name="status_bar_app_disable_notification">Nada</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Pantalla de bloqueo, notificación emergente</string>
+  <string name="status_bar_app_enable_on_notificationBar">Notificación emergente</string>
   <string name="status_bar_key_position_custom">Posición de tecla personalizada</string>
   <string name="status_bar_screen_button_key">Teclas virtuales en pantalla</string>
   <string name="status_bar_screen_key_back">Botón Volver</string>
@@ -2205,14 +2208,14 @@ Una credencial de confianza instalada hace esto posible."</string>
   <string name="status_bar_settings_long_click_sort">Pulse y mantenga para ordenar</string>
   <string name="status_bar_settings_no_carrier">Vacío</string>
   <string name="status_bar_settings_notification_bar">Notificación emergente</string>
-  <string name="status_bar_settings_notification_led">Notification light</string>
+  <string name="status_bar_settings_notification_led">LED de notificación</string>
   <string name="status_bar_settings_notification_sound_vibrate">Sonidos y vibraciones</string>
   <string name="status_bar_settings_show_carrier">Mostrar el nombre del operador</string>
   <string name="status_bar_settings_show_carrier_summary">Solo mostrar en bloqueo de pantalla</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalles de flujo</string>
-  <string name="status_bar_settings_show_home_message">Icono insignia de aplicación</string>
+  <string name="status_bar_settings_show_home_message">Mostrar en icono de aplicación</string>
   <string name="status_bar_settings_show_keyguard_notification">Mostrar notificaciones flotantes</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Mostrar notificaciones flotantes en la pantalla de bloqueo y casi en todas partes</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Mostrar notificaciones flotantes en la pantalla de bloqueo y en casi todas partes</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
   <string name="status_bar_settings_show_notification_icon">Mostrar icono de notificación</string>
   <string name="status_bar_settings_show_screenshot_notification">Mostrar notificación screenshot</string>
