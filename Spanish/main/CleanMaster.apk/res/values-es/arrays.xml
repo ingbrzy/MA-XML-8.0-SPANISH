@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>Todos los días</item>
+        <item>Cada 3 días</item>
+        <item>Cada 7 días</item>
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Avisar con notificación</item>
+        <item>Limpiar de fondo</item>
+        <item>Mostrar notificación después de limpiar</item>
+     </string-array>
+     <string-array name="cache_sort_type">
+        <item>Tamaño</item>
+        <item>Nombre</item>
+     </string-array>
+     <string-array name="installed_app_sort_type">
+        <item>Frecuencia de uso</item>
+        <item>Tamaño</item>
+     </string-array>
+     <string-array name="large_file_sort_type">
+        <item>Tamaño</item>
+        <item>Nombre</item>
+     </string-array>
+</resources>
