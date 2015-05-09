@@ -721,4 +721,12 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>Escala de animación 5x</item>
         <item>Escala de animación 10x</item>
      </string-array>
+     <string-array name="install_non_market_app_entries">
+        <item>Solicitar permiso para aplicaciones peligrosas</item>
+        <item>Permitir</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Solicitar permiso</item>
+        <item>Permitir</item>
+    </string-array>
 </resources>
