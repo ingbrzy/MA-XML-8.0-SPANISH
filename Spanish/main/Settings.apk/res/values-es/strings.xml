@@ -217,7 +217,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="background_data_dialog_message">Desactivando el uso de datos en segundo plano se prolonga la autonomía de la batería y se reduce el uso de datos. Algunas aplicaciones pueden seguir usando conexión de datos en segundo plano.</string>
   <string name="background_data_dialog_title">¿Desactivar uso de datos en segundo plano?</string>
   <string name="background_data_summary">Las aplicaciones pueden sincronizarse,  enviar y recibir datos en cualquier momento</string>
-  <string name="background_process_stop_description">"Este es un proceso de aplicación antigua que esta en ejecución por si se necesitara de nuevo. No hay ninguna razón para pararla."</string>
+  <string name="background_process_stop_description">"Este es un proceso de una aplicación antigua que está en ejecución por si se necesitara de nuevo. No hay ninguna razón para pararlo."</string>
   <string name="backup_configure_account_default_summary">Ninguna cuenta esta almacenando datos de copia de seguridad actualmente</string>
   <string name="backup_configure_account_title">Copia de seguridad de la cuenta</string>
   <string name="backup_data_summary">Realizar copia de seguridad de los datos de aplicación, contraseñas Wi-Fi y otros ajustes en los servidores de Google</string>
@@ -505,9 +505,9 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="button_light_timeout">Ajustes de la luz de los botones</string>
   <string name="button_text_login">Iniciar sesión</string>
   <string name="button_text_reboot_now">Reiniciar</string>
-  <string name="cache_header_label">Cache</string>
-  <string name="cache_size_label">Cache</string>
-  <string name="cached">Cachear procesos en segundo plano</string>
+  <string name="cache_header_label">Caché</string>
+  <string name="cache_size_label">Caché</string>
+  <string name="cached">Cachear procesos en segundo plano </string>
   <string name="call_settings_summary">Configurar voicemail, devolución de llamada, llamada en espera, identificador de llamada</string>
   <string name="call_settings_title">Ajustes de llamada</string>
   <string name="camera_key_action_app_title">Abrir aplicación</string>
@@ -559,7 +559,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="clear_activities">Borrar configuraciones predeterminadas</string>
   <string name="clear_activities_summary">Utilizar esta aplicación para algunas operaciones por defecto</string>
   <string name="clear_adb_keys">Revocar autorizaciones de depuración USB</string>
-  <string name="clear_cache_btn_text">Limpiar cache</string>
+  <string name="clear_cache_btn_text">Limpiar caché</string>
   <string name="clear_data_dlg_text">"Todas estas aplicaciones se eliminarán permanentemente. Esto incluye todos los archivos, ajustes, cuentas, bases de datos, etc."</string>
   <string name="clear_data_dlg_title">¿Eliminar datos de la aplicación?</string>
   <string name="clear_data_failed">"No se pudieron eliminar los datos de la aplicación."</string>
@@ -953,8 +953,8 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="error_mnc_not23">El campo MNC debe tener 2 ó 3 dígitos.</string>
   <string name="error_name_empty">"El campo nombre no puede estar vacío."</string>
   <string name="error_title"/>
-  <string name="external_code_size_label">Aplicación de almacenamiento USB</string>
-  <string name="external_data_size_label">Datos de almacenamiento USB</string>
+  <string name="external_code_size_label">En almacenamiento USB</string>
+  <string name="external_data_size_label">Tarjeta SD</string>
   <string name="factory_reset_summary">"Eliminar todos los datos del almacenamiento interno del teléfono"</string>
   <string name="failed_to_open_app_settings_toast">No se pudieron abrir los ajustes para %1$s</string>
   <string name="fcc_equipment_id">ID de equipo</string>
@@ -1634,7 +1634,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
   <string name="permission_detail_info">Detalles de permisos</string>
   <string name="permission_detail_info_summary">Seguridad: %1$d | Privacidad: %2$d | Otros: %3$d</string>
   <string name="permission_manage">Administrar permisos</string>
-  <string name="permission_manage_summary">Administrar permisos de auto inicio, privacidad y seguridad</string>
+  <string name="permission_manage_summary">Solicitar permiso para que las aplicaciones puedan leer tus contactos, ver el histórico de llamadas, cambiar ajustes del sistema, o acceder a la cámara y otros recursos del dispositivo</string>
   <string name="permission_manage_title">%s Detalles de permisos</string>
   <string name="permission_manager">Permisos</string>
   <string name="permission_mgr">Permisos</string>
@@ -2785,7 +2785,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="wifi_menu_scan">Escanear</string>
   <string name="wifi_menu_wfd">Pantalla inalámbrica</string>
   <string name="wifi_menu_wps_pbc">Pulse Botón WPS</string>
-  <string name="wifi_menu_wps_pin">Introducir Pin WPS</string>
+  <string name="wifi_menu_wps_pin">Introducir PIN WPS</string>
   <string name="wifi_more">Más</string>
   <string name="wifi_network_prefix_length">Longitud de prefijo</string>
   <string name="wifi_network_prefix_length_hint">24</string>
