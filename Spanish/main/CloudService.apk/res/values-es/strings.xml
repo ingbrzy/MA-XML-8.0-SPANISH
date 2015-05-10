@@ -55,7 +55,7 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_space_upgrade_message">Toque para obtener %s GB de espacio gratis este mes</string>
   <string name="cloud_space_upgrade_no_quota_info">Fecha errónea, por favor inténtelo de nuevo</string>
   <string name="cloud_space_upgrade_title">¡Obtenga Espacio Gratis en la Nube!</string>
-  <string name="cloud_sync_setting_summary_standard">Usar la conexión de datos móviles para sincronizar SMS, información de Contactos y registro de llamadas. Usar Wi-Fi para sincronizar fotos, vídeos, MMS, datos de aplicaciones, fotos de Contactos y más.</string>
+  <string name="cloud_sync_setting_summary_standard">Usar la conexión de datos móviles para sincronizar SMS, información de contactos y registro de llamadas. Usar Wi-Fi para sincronizar fotos, vídeos, MMS, datos de aplicaciones, fotos de contactos y más.</string>
   <string name="cloud_sync_setting_summary_wlan">Sincronizar sólo cuando esté conectado a Wi-Fi</string>
   <string name="cloudservice_new_sync">Sincronizar %s con Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Usar Mi Cloud para sincronizar datos, localizar tu dispositivo,</string>
@@ -162,7 +162,7 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_main_sync_pause">Sincronización pausada</string>
   <string name="micloud_main_sync_stop">Sincronización parada</string>
   <string name="micloud_main_synced_data_count">%d datos han sido sincronizados</string>
-  <string name="micloud_main_syncing">datos se están sincronizando...</string>
+  <string name="micloud_main_syncing">sincronizando datos...</string>
   <string name="micloud_main_update_space">actualice el tamaño de almacenamiento</string>
   <string name="micloud_main_wlan_sync_data_count">%d datos se sincronizarán por Wi-Fi</string>
   <string name="micloud_more">Aprende más</string>
@@ -213,9 +213,9 @@ Puede activar o desactivar esta característica en cualquier momento en Ajustes.
   <string name="mx_dspt_provision_privacy">"Esta función puede requerir su número de teléfono. Su compañía podría cobrarle por un mensaje SMS utilizado para activar esta función.
 
 Esta función cifra y sube la ID de su dispositivo a los servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Llame a otros usuarios MIUI gratis usando su conexión a Internet. Puede activar o desactivar esta función en cualquier momento en Configuración.</string>
+  <string name="mx_dspt_provision_with_voip">Llame a otros usuarios MIUI gratis usando su conexión a internet. Puede activar o desactivar esta función en cualquier momento en Configuración.</string>
   <string name="mx_sub_dspt_provision">Mi Mensajes</string>
-  <string name="mx_sub_dspt_provision_with_voip">Llamadas por Internet</string>
+  <string name="mx_sub_dspt_provision_with_voip">Llamadas por internet</string>
   <string name="next">Siguiente</string>
   <string name="noRemind">"No recordar"</string>
   <string name="no_sim">Tarjeta SIM no detectada</string>

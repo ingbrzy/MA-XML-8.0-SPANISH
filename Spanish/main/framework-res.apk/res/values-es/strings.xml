@@ -738,7 +738,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_controlWifiDisplay">Permite que la aplicación controle funciones de bajo nivel de pantallas Wi-Fi.</string>
   <string name="permdesc_control_keyguard">Permite que una aplicación controle los bloqueos.</string>
   <string name="permdesc_copyProtectedData">Permite que la aplicación ejecute el servicio de contenedor predeterminado para copiar contenido. Las aplicaciones normales no deben usar este permiso.</string>
-  <string name="permdesc_createNetworkSockets">Permite que la aplicación cree sockets de red y utilice protocolos de red personalizados. El navegador y otras aplicaciones proporcionan los medios necesarios para el envío de datos a Internet, por lo que no hace falta utilizar este permiso para eso.</string>
+  <string name="permdesc_createNetworkSockets">Permite que la aplicación cree sockets de red y utilice protocolos de red personalizados. El navegador y otras aplicaciones proporcionan los medios necesarios para el envío de datos a internet, por lo que no hace falta utilizar este permiso para eso.</string>
   <string name="permdesc_deleteCacheFiles">Permite que la aplicación elimine archivos de la memoria caché.</string>
   <string name="permdesc_deletePackages">Permite que la aplicación elimine paquetes de Android. Las aplicaciones malintencionadas pueden usar este permiso para eliminar aplicaciones importantes.</string>
   <string name="permdesc_devicePower">Permite que la aplicación encienda o apague el teléfono.</string>
@@ -803,7 +803,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_readContacts">Permite que la aplicación consulte información sobre contactos almacenados en el teléfono, incluida la frecuencia con la que los has llamado, les has enviado un correo electrónico o te has puesto en contacto con ellos de otro modo. Este permiso permite guardar los datos de los contactos, y las aplicaciones malintencionadas pueden utilizarlo para compartir datos de contactos del usuario sin su consentimiento.</string>
   <string name="permdesc_readDictionary">Permite que la aplicación lea cualquier palabra, nombre o frase que el usuario haya almacenado en su diccionario.</string>
   <string name="permdesc_readFrameBuffer">Permite que la aplicación lea el contenido de la memoria de almacenamiento intermedio.</string>
-  <string name="permdesc_readHistoryBookmarks">Permite que la aplicación consulte el historial de todas las URL visitadas por el navegador y todos sus marcadores. Nota: este permiso no pueden utilizarlo navegadores externos ni otras aplicaciones que tengan funciones de navegación por Internet.</string>
+  <string name="permdesc_readHistoryBookmarks">Permite que la aplicación consulte el historial de todas las URL visitadas por el navegador y todos sus marcadores. Nota: este permiso no pueden utilizarlo navegadores externos ni otras aplicaciones que tengan funciones de navegación por internet.</string>
   <string name="permdesc_readInputState">Permite que la aplicación sepa las teclas que pulsas incluso cuando interactúas con otra aplicación (como, por ejemplo, al introducir una contraseña). Nunca debería ser necesario para las aplicaciones normales.</string>
   <string name="permdesc_readLogs">Permite que la aplicación consulte distintos archivos de registro del sistema. La aplicación puede usar este permiso para obtener información general sobre las acciones que realizas con el dispositivo, que puede incluir datos personales o privados.</string>
   <string name="permdesc_readNetworkUsageHistory">Permite que la aplicación consulte el uso de red histórico de redes y de aplicaciones específicas.</string>
@@ -872,7 +872,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_writeDictionary">Permite que la aplicación escriba palabras nuevas en el diccionario de usuario.</string>
   <string name="permdesc_writeGeolocationPermissions">Permite que la aplicación modifique los permisos de ubicación geográfica del navegador. Las aplicaciones malintencionadas pueden usar este permiso para autorizar el envío de información sobre la ubicación a sitios web arbitrarios.</string>
   <string name="permdesc_writeGservices">Permite que la aplicación modifique la asignación de servicios de Google. Las aplicaciones normales no deben usar este permiso.</string>
-  <string name="permdesc_writeHistoryBookmarks">Permite que la aplicación modifique el historial o los marcadores del navegador almacenados en el teléfono. La aplicación puede utilizar este permiso para borrar o modificar datos del navegador. Nota: este permiso no pueden utilizarlo navegadores externos ni otras aplicaciones que tengan funciones de navegación por Internet.</string>
+  <string name="permdesc_writeHistoryBookmarks">Permite que la aplicación modifique el historial o los marcadores del navegador almacenados en el teléfono. La aplicación puede utilizar este permiso para borrar o modificar datos del navegador. Nota: este permiso no pueden utilizarlo navegadores externos ni otras aplicaciones que tengan funciones de navegación por internet.</string>
   <string name="permdesc_writeProfile">Permite que la aplicación modifique la información del perfil personal almacenada en el dispositivo (como el nombre o la información de contacto) o que añada contenido a esa información, lo que significa que puede identificar al usuario y enviar la información de su perfil a otros usuarios.</string>
   <string name="permdesc_writeSecureSettings">Permite que la aplicación modifique los datos de la configuración de seguridad del sistema. Las aplicaciones normales no deben usar este permiso.</string>
   <string name="permdesc_writeSettings">Permite que la aplicación modifique los datos de configuración del sistema. Las aplicaciones malintencionadas pueden dañar la configuración del sistema.</string>
@@ -1140,7 +1140,7 @@ para la cuenta %s"</string>
   <string name="permlab_updateBatteryStats">modificar estadísticas de la batería</string>
   <string name="permlab_updateLock">omitir actualizaciones automáticas</string>
   <string name="permlab_useCredentials">usar cuentas del dispositivo</string>
-  <string name="permlab_use_sip">realizar/recibir llamadas por Internet</string>
+  <string name="permlab_use_sip">realizar/recibir llamadas por internet</string>
   <string name="permlab_vibrate">controlar la vibración</string>
   <string name="permlab_wakeLock">impedir que el teléfono entre en modo de suspensión</string>
   <string name="permlab_writeApnSettings">cambiar/interceptar el tráfico y la configuración de red</string>
@@ -1502,7 +1502,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="wifi_p2p_turnon_message">Iniciar Wi-Fi Direct. Se desactivará el funcionamiento de la zona o del cliente Wi-Fi.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">No se ha podido establecer conexión con la red Wi-Fi.</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" tiene una conexión inestable a Internet."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" tiene una conexión inestable a internet."</string>
   <string name="wireless_display_route_description">Pantalla inalámbrica</string>
   <string name="write_fail_reason_cancelled">Cancelado</string>
   <string name="write_fail_reason_cannot_write">Error al escribir contenido</string>

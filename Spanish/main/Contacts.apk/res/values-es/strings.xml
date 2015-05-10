@@ -420,7 +420,7 @@
   <string name="import_contact_card_button">Importar contacto</string>
   <string name="import_failure_no_vcard_file">Ningún archivo vCard en almacenamiento.</string>
   <string name="import_from_other_phone">Importar desde otro teléfono</string>
-  <string name="import_from_sdcard">Importación de almacenamiento</string>
+  <string name="import_from_sdcard">Importación desde almacenamiento</string>
   <string name="import_from_sim">Importar desde la tarjeta SIM</string>
   <string name="import_from_sim1">Importar desde SIM 1</string>
   <string name="import_from_sim2">Importar desde la tarjeta SIM 2</string>
@@ -432,10 +432,10 @@
   <string name="import_sim_entries_finish">Contactos importados desde la tarjeta SIM</string>
   <string name="import_sim_entry_miui">Importar</string>
   <string name="import_to_xiaomi_account_confirm">Importar</string>
-  <string name="import_to_xiaomi_account_progress_finish">Contactos importados!</string>
+  <string name="import_to_xiaomi_account_progress_finish">¡Contactos importados!</string>
   <string name="import_to_xiaomi_account_progress_message">Importando…</string>
   <string name="import_to_xiaomi_account_progress_title">Importar contactos a la cuenta Mi</string>
-  <string name="import_to_xiaomi_account_title">¿Importar los siguientes contactos en tu cuenta de Mi?</string>
+  <string name="import_to_xiaomi_account_title">¿Importar los siguientes contactos en tu cuenta Mi?</string>
   <string name="import_vcard_description">"Importar contactos de la memoria interna del teléfono"</string>
   <string name="import_weibo_dialog_title">Importar contactos de Weibo</string>
   <string name="import_weibo_error_no_matched_contacts">No hay contactos coincidentes</string>
@@ -460,7 +460,7 @@
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">No se han encontrado duplicados</string>
   <string name="label_notes">Notas</string>
-  <string name="label_sip_address">Llamada Internet</string>
+  <string name="label_sip_address">Llamada internet</string>
   <string name="launcherDialer">Teléfono</string>
   <string name="listCustomView">Contactos en vista personalizada</string>
   <string name="listFoundAllContactsZero">No hay contactos</string>
@@ -721,7 +721,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="pref_key_sim_manage2">Configurar la tarjeta SIM 2</string>
   <string name="pref_summary_import_from_account">Transferir contactos desde cuentas de Google y Exchange a mi cuenta Mi</string>
   <string name="pref_title_account_import">Importar desde cuenta</string>
-  <string name="pref_title_import_from_account">Importar desde la cuenta de Mi</string>
+  <string name="pref_title_import_from_account">Importar a la cuenta Mi</string>
   <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_auto_ip_summary_on">Prefijo IP del operador: %s</string>
   <string name="preference_auto_ip_title">Prefijo IP automática</string>
@@ -729,6 +729,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="preference_contacts_display">Preferencias de visualización</string>
   <string name="preference_contacts_filter">Configurar listas de contactos</string>
   <string name="preference_contacts_more">Organizar contactos</string>
+  <string name="preference_contacts_recovery_introduction">Recuperar contactos</string>
   <string name="preference_dial_pad_touch_tone_default">Por defecto</string>
   <string name="preference_dial_pad_touch_tone_human">Voz</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas piano</string>
@@ -748,7 +749,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="preference_simple_mode_title">Ocultar fotos e info</string>
   <string name="preference_smart_group_company_summary">Agrupar por empresa</string>
   <string name="preference_smart_group_company_title">Por empresa</string>
-  <string name="preference_smart_group_frequency_summary">Agrupar por el mas reciente</string>
+  <string name="preference_smart_group_frequency_summary">Agrupar por el más reciente</string>
   <string name="preference_smart_group_frequency_title">Por más recientes</string>
   <string name="preference_smart_group_location_summary">Agrupar por código de área</string>
   <string name="preference_smart_group_location_title">Por ubicación</string>
@@ -799,7 +800,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="relationLabelsGroup">Relación</string>
   <string name="removePhoto">Eliminar foto</string>
   <string name="remove_blacklist">Desbloquear</string>
-  <string name="remove_duplicate">"MIUI te ayudará a encontrar y combinar contactos duplicados.   Para empezar, toque el icono de fusión en la parte inferior de la pantalla."</string>
+  <string name="remove_duplicate">"MIUI te ayudará a encontrar y combinar contactos duplicados. Para empezar, toque el icono de fusión en la parte inferior de la pantalla."</string>
   <string name="resource_account_abnormal_state">Error de cuenta. Espere uno o dos minutos y vuelva a intentarlo.</string>
   <string name="resource_account_fail_to_add">"No se puede añadir la cuenta"</string>
   <string name="resource_account_login">Iniciar sesión</string>
