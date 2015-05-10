@@ -726,7 +726,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="permdesc_changeComponentState">Permite que la aplicación determine si un componente de otra aplicación está activado o desactivado. Las aplicaciones malintencionadas pueden usar este permiso para desactivar funciones importantes del teléfono. Este permiso se debe usar con precaución, ya que los componentes de las aplicaciones se pueden volver inestables, incoherentes o inservibles.</string>
   <string name="permdesc_changeConfiguration">Permite que la aplicación cambie la configuración actual como, por ejemplo, la configuración local o el tamaño de fuente general.</string>
   <string name="permdesc_changeNetworkState">Permite que la aplicación modifique el estado de la conectividad de red.</string>
-  <string name="permdesc_changeTetherState">Permite que la aplicación cambie el estado de la conectividad de Compartir Internet.</string>
+  <string name="permdesc_changeTetherState">Permite que la aplicación cambie el estado de la conectividad de Compartir internet.</string>
   <string name="permdesc_changeWifiMulticastState">Permite que la aplicación reciba paquetes enviados a todos los dispositivos de una red Wi-Fi que utilicen direcciones de multidifusión, no solo al teléfono. Utiliza más batería que el modo de no multidifusión.</string>
   <string name="permdesc_changeWifiState">Permite que la aplicación se conecte a puntos de acceso Wi-Fi y se desconecte de ellos y que realice cambios en la configuración de redes Wi-Fi del dispositivo.</string>
   <string name="permdesc_changeWimaxState">Permite que la aplicación conecte el teléfono a redes WiMAX y lo desconecte de ellas.</string>
@@ -1004,7 +1004,7 @@ para la cuenta %s"</string>
   <string name="permlab_changeComponentState">activar o desactivar componentes de la aplicación</string>
   <string name="permlab_changeConfiguration">modificar ajustes de visualización del sistema</string>
   <string name="permlab_changeNetworkState">cambiar la conectividad de red</string>
-  <string name="permlab_changeTetherState">cambiar conectividad de Compartir Internet</string>
+  <string name="permlab_changeTetherState">cambiar conectividad de Compartir internet</string>
   <string name="permlab_changeWifiMulticastState">permitir recepción multidifusión Wi-Fi</string>
   <string name="permlab_changeWifiState">conectarse a redes Wi-Fi y desconectarse</string>
   <string name="permlab_changeWimaxState">Cambiar estado de WiMAX</string>

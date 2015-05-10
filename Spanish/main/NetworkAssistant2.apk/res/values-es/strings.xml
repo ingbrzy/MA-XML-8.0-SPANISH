@@ -2,7 +2,7 @@
 <resources>
   <string name="add_miservice_dialog_content">"%s le requiere para que agregue la estructura de servicios MIUI a la lista de excepciones. Puede recibir notificaciones de las aplicaciones MIUI incorporadas y otras de terceros."</string>
   <string name="add_miservice_dialog_title">Estructura de servicios MIUI</string>
-  <string name="add_to_whitelist_button">Administrar lista de permitidos</string>
+  <string name="add_to_whitelist_button">Administrar lista de permitidas</string>
   <string name="add_white_list">Añadir</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado hace un mes</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizado hace una semana</string>
@@ -218,10 +218,10 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_add_traffic_pkg">Datos adicionales comprados</string>
   <string name="pref_adjust_data_usage">Plantilla de mensaje de operador</string>
   <string name="pref_adjust_traffic_data">Establecer uso de datos</string>
-  <string name="pref_allow_connect_network_summary">Usar datos móviles cuando está en itinerancia internacional</string>
+  <string name="pref_allow_connect_network_summary">Usar datos móviles cuando estás en itinerancia internacional</string>
   <string name="pref_allow_connect_network_title">Datos en itinerancia internacional</string>
-  <string name="pref_allow_connect_network_whitelist_summary">Concede usar a las aplicaciones en la lista de permitidas datos móviles cuando está en itinerancia</string>
-  <string name="pref_allow_connect_network_whitelist_title">Concede usar a la lista de permitidas datos móviles</string>
+  <string name="pref_allow_connect_network_whitelist_summary">Permite usar datos móviles a las aplicaciones que están en la lista de permitidas cuando estás en itinerancia</string>
+  <string name="pref_allow_connect_network_whitelist_title">Usar datos móviles a permitidas</string>
   <string name="pref_app_traffic_managent">Restringir uso de datos por la aplicación</string>
   <string name="pref_auto_adjust_settings">Ajustes de estadísticas de uso de datos por Auto-sincronizar</string>
   <string name="pref_auto_adjust_traffic">Estadísticas de uso de datos por Auto sincronizar</string>
@@ -281,7 +281,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_traffic_saving_whitelist_hint">Levantar restricciones de datos para las aplicaciones seleccionadas</string>
   <string name="pref_version">Versión %s</string>
   <string name="pref_warning_values">Nivel de aviso de uso de datos</string>
-  <string name="pref_whitelist_setting">Administrar lista de permitidos</string>
+  <string name="pref_whitelist_setting">Administrar lista de permitidas</string>
   <string name="privacy_declare_dialog_message">"Al usar este servicio, acepta los Términos y Condiciones de Opera"</string>
   <string name="privacy_declare_dialog_title">Términos y Condiciones</string>
   <string name="privacy_prompt_tc_sms_report_message">"Su número de teléfono y detalles del operador se subirán a los servidores de Xiaomi con el fin de actualizar la información de su utilización de los datos."</string>

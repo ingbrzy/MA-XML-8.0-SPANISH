@@ -5,7 +5,7 @@
   <string name="access_token_expired_warning">La cuenta Weibo ha caducado</string>
   <string name="access_token_invalid_warning">La cuenta Weibo no es válida</string>
   <string name="account">Cuenta</string>
-  <string name="account_bind_devices">Dispositivos enlazados</string>
+  <string name="account_bind_devices">Dispositivos vinculados</string>
   <string name="account_bind_settings">Vincular cuenta</string>
   <string name="account_crop_user_avatar">Crop photo</string>
   <string name="account_dspt_provision">Una cuenta Mi para todo.</string>
@@ -45,12 +45,12 @@
   <string name="barcode_add_account_prompt">Para agregar una cuenta, escanear el código QR otra vez después iniciar sesión.</string>
   <string name="bind_facebook">Añadir su cuenta de Facebook</string>
   <string name="bind_qq">Añadir su cuenta QQ</string>
-  <string name="bind_settings">Enlazar</string>
-  <string name="bind_sina_weibo">Enlazar con Sina Weibo</string>
+  <string name="bind_settings">Vincular</string>
+  <string name="bind_sina_weibo">Vincular con Sina Weibo</string>
   <string name="bind_sns_description">Complete su perfil %s.</string>
   <string name="bind_weibo_description">Buscar y sincronizar a sus amigos de Sina Weibo.</string>
-  <string name="binded">Enlace completado</string>
-  <string name="binded_description" formatted="false">"Ha enlazado %s correctamente.
+  <string name="binded">Vínculo completado</string>
+  <string name="binded_description" formatted="false">"Ha vinculado %s correctamente.
  Complete su perfil %s usando sus información personal."</string>
   <string name="btn_return">Atrás</string>
   <string name="button_cancel">Cancelar</string>
@@ -129,7 +129,7 @@
   <string name="no_network_title">"No se puede conectar a la red."</string>
   <string name="no_response_retry">Sin respuesta, por favor reintente.</string>
   <string name="no_sim_card">Sin tarjeta SIM</string>
-  <string name="nobind">No consolidados</string>
+  <string name="nobind">No conectado</string>
   <string name="other_devices">Otros dispositivos</string>
   <string name="passport_access_denied">Acceso denegado</string>
   <string name="passport_account_hint_text">Email o número de teléfono</string>
