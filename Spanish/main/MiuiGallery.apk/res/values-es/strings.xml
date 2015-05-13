@@ -65,7 +65,7 @@
   <string name="auto_upload_album_comfirm_to_share">Es un álbum que se subirá automáticamente, ¿está seguro de querer compartirlo?</string>
   <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Sincronizar fotos automáticamente desde otras aplicaciones con Mi Cloud. Puede activar o desactivar esta característica en cualquier momento en &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Ajustes &amp;gt; Sincronizar con Mi Cloud &amp;gt; Sincronizar automáticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
   <string name="auto_upload_guide_title">Sincronizar fotos con Mi Cloud</string>
-  <string name="auto_upload_title">Subir automáticamente</string>
+  <string name="auto_upload_title">Sincronizar automáticamente</string>
   <string name="autofix">Auto-reparar</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="autohomemain">Autohomemain</string>
@@ -880,10 +880,10 @@
   <string name="screensaver_activate_only_charging">Sólo mientras se esté cargando</string>
   <string name="sd_not_available">"No se pudo acceder a la tarjeta SD."</string>
   <string name="sdcard_root">Directorio raíz de la tarjeta SD</string>
-  <string name="seconds">" segundos"</string>
+  <string name="seconds">"segundos"</string>
   <string name="secret_album_display_name">Álbum secreto</string>
   <string name="select_all">Seleccionar todo</string>
-  <string name="select_auto_upload_albums">Seleccione álbumes para subir a la nube</string>
+  <string name="select_auto_upload_albums">Seleccione álbumes a sincronizar</string>
   <string name="select_image">Seleccionar foto</string>
   <string name="select_item">Modo de edición</string>
   <string name="select_too_much_to_send_tips">"No puede enviar tantos elementos (máximo %d elementos)."</string>
@@ -905,7 +905,7 @@
   <string name="set_screensaver_path_title">Protector de pantalla de Pase de diapositivas</string>
   <string name="set_wallpaper">Estableciendo fondo de pantalla…</string>
   <string name="settings">Ajustes</string>
-  <string name="settings_i_xiaomi_com">Almacenar y ver imágenes de su nube en i.mi.com</string>
+  <string name="settings_i_xiaomi_com">Vea sus fotos en i.mi.com</string>
   <string name="shadow">Sombras</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share_album">Compartir álbum</string>
@@ -933,7 +933,7 @@
   <string name="slideshow_category">Pase de diapositivas</string>
   <string name="slideshow_dream_name">Pase de diapositivas</string>
   <string name="slideshow_interval">Mostrar cada diapositiva durante</string>
-  <string name="slideshow_interval_dialog_title">El Intervalo entre diapositivas debe ser mayor que 0 segundos</string>
+  <string name="slideshow_interval_dialog_title">Debe ser mayor que 0 segundos</string>
   <string name="slideshow_interval_invalid">El intervalo entre diapositivas debe estar entre 1 y 3600 segundos</string>
   <string name="slideshow_repeat_mode">Repetir en bucle</string>
   <string name="sports_camera">Sports Camera</string>
@@ -955,7 +955,7 @@
   <string name="sync_only_in_wifi">Sólo utilizar Wi-Fi para subir fotos</string>
   <string name="sync_only_in_wifi_alert">Desactivar esta opción puede aumentar el uso de datos móviles.</string>
   <string name="sync_only_in_wifi_summary">Impedir que Galería suba fotos usando la conexión de datos móviles</string>
-  <string name="sync_third_party_app_pic_summary">Subir automáticamente fotos desde algunas carpetas de aplicación a su nube</string>
+  <string name="sync_third_party_app_pic_summary">Sincronizar fotos de otras aplicaciones a Mi Cloud</string>
   <string name="system_album">Álbum de sistema</string>
   <string name="tab_all_text">Establecer ambos</string>
   <string name="tab_lockscreen_text">Pantalla de bloqueo</string>

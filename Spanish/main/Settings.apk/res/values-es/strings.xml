@@ -886,10 +886,10 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
   <string name="dolby_effects">Efectos Dolby</string>
   <string name="dolby_eq_enter_alert_msg">Solo puede utilizar el ecualizador en el modo Dolby para música. ¿Activar ahora?</string>
   <string name="dolby_eq_enter_alert_title">Activar modo Dolby para música</string>
-  <string name="dolby_mode_movie">Video</string>
+  <string name="dolby_mode_movie">Vídeo</string>
   <string name="dolby_mode_music">Música</string>
   <string name="dolby_mode_off">Apagado</string>
-  <string name="dolby_movie_advance">Mejorar video</string>
+  <string name="dolby_movie_advance">Mejorar vídeo</string>
   <string name="dolby_music_advance">Mejorar música</string>
   <string name="dolby_roomsize_high">Al aire libre</string>
   <string name="dolby_roomsize_low">Interior</string>
@@ -943,7 +943,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
   <string name="erase_external_storage">Eliminar almacenamiento USB</string>
   <string name="erase_external_storage_description">Eliminar todos los datos del almacenamiento USB externo, como música o fotos</string>
   <string name="erase_internal_storage">Eliminar almacenamiento interno</string>
-  <string name="erase_internal_storage_description">Eliminar música, fotos, videos y otros datos de usuario</string>
+  <string name="erase_internal_storage_description">Eliminar música, fotos, vídeos y otros datos de usuario</string>
   <string name="erase_optional">Contenido</string>
   <string name="erase_personal_data">Datos personales</string>
   <string name="erase_personal_data_description">Eliminar la información de la cuenta Mi, datos de aplicación y ajustes del sistema</string>
@@ -1386,7 +1386,7 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
   <string name="media_format_gesture_prompt">Dibuje el patrón de desbloqueo</string>
   <string name="media_format_summary">Elimina todos los datos del almacenamiento USB</string>
   <string name="media_format_title">Eliminar almacenamiento USB</string>
-  <string name="media_volume_summary">Establecer volumen para música y videos</string>
+  <string name="media_volume_summary">Establecer volumen para música y vídeos</string>
   <string name="media_volume_title">Multimedia</string>
   <string name="medium_font">Mediana</string>
   <string name="memory">RAM</string>
@@ -1396,7 +1396,7 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
   <string name="memory_calculating_size">Calculando…</string>
   <string name="memory_clear_cache_message">Esto eliminará los datos almacenados en caché para todas las aplicaciones.</string>
   <string name="memory_clear_cache_title">¿Eliminar datos en caché?</string>
-  <string name="memory_dcim_usage">Imágenes, videos</string>
+  <string name="memory_dcim_usage">Imágenes, vídeos</string>
   <string name="memory_downloads_usage">Descargas</string>
   <string name="memory_media_cache_usage">Datos en caché</string>
   <string name="memory_media_misc_usage">Miscelánea</string>
@@ -1621,7 +1621,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
   <string name="page_layout_30">Frank Santo</string>
   <string name="page_layout_31">Katie Whitman</string>
   <string name="page_layout_4">Music</string>
-  <string name="page_layout_5">Video</string>
+  <string name="page_layout_5">Vídeo</string>
   <string name="page_layout_6">Apps</string>
   <string name="page_layout_7">Games</string>
   <string name="page_layout_8">Mi Life</string>
@@ -2458,7 +2458,7 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
   <string name="usage_type_no_coverage">Tiempo sin señal</string>
   <string name="usage_type_on_time">Tiempo encendido</string>
   <string name="usage_type_phone">Teléfono</string>
-  <string name="usage_type_video">Video</string>
+  <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Activo</string>
   <string name="usage_type_wifi_running">Wi-Fi funcionando</string>
   <string name="usb_connection_category">Conectar como</string>

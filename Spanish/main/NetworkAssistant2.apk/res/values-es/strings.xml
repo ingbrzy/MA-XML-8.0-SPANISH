@@ -38,7 +38,7 @@
   <string name="current_network_state_not_need_diagnose">Normal</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">"Ha superado el límite de datos diarios."</string>
-  <string name="daily_pkg_traffic">Establecer pico del límite de datos</string>
+  <string name="daily_pkg_traffic">Establecer límite de uso de datos</string>
   <string name="data_usage_correction_timeout_body">Toque para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Agotado el tiempo  para sincronizar uso de datos</string>
   <string name="data_usage_disabled_dialog">Ha alcanzado el límite de uso de datos. El uso excesivo de su tarifa de datos puede ocasionar gastos adicionales</string>
@@ -121,7 +121,7 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="gateway_exception_summary">Compruebe su router e inténtelo de nuevo.</string>
   <string name="gateway_exception_title">Probar router</string>
   <string name="input_aviable_traffic">Establecer límite de uso de datos</string>
-  <string name="input_traffic_pkg">Introduzca uso de datos</string>
+  <string name="input_traffic_pkg">Introduzca datos adicionales</string>
   <string name="input_used_hint">Introduzca uso de datos</string>
   <string name="input_used_max_hint">Introduzca uso de datos (menos de %s)</string>
   <string name="international_roaming_setting">Itinerancia internacional</string>
@@ -141,7 +141,7 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="main_alert_message_slot_no_data_connection">"La ranura de la SIM no\ admite 
 conexión a datos móviles"</string>
   <string name="main_button_idel_traffic">Hora valle</string>
-  <string name="main_button_normal_traffic">Hora punta</string>
+  <string name="main_button_normal_traffic">Límite</string>
   <string name="main_button_usage_adjust">Establecer límite de uso de datos</string>
   <string name="main_button_usage_adjust_manual">Establecer límite de uso de datos</string>
   <string name="main_button_usage_adjusting">Cambiando…</string>
@@ -222,17 +222,17 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_allow_connect_network_title">Datos en itinerancia internacional</string>
   <string name="pref_allow_connect_network_whitelist_summary">Permite usar datos móviles a las aplicaciones que están en la lista de permitidas cuando estás en itinerancia</string>
   <string name="pref_allow_connect_network_whitelist_title">Usar datos móviles a permitidas</string>
-  <string name="pref_app_traffic_managent">Restringir uso de datos por la aplicación</string>
+  <string name="pref_app_traffic_managent">Restringir uso de datos por aplicaciones</string>
   <string name="pref_auto_adjust_settings">Ajustes de estadísticas de uso de datos por Auto-sincronizar</string>
   <string name="pref_auto_adjust_traffic">Estadísticas de uso de datos por Auto sincronizar</string>
   <string name="pref_automatic_adjust">Ajustes</string>
-  <string name="pref_avaible_traffic">Plan Wi-Fi</string>
+  <string name="pref_avaible_traffic">Plan de datos</string>
   <string name="pref_category_title_other">Ajustes adicionales</string>
   <string name="pref_check_network_diagnostics">Compruebe si su conexión de datos está funcionando normalmente</string>
   <string name="pref_connect_settings_enable_background">Permitir datos en segundo plano</string>
-  <string name="pref_connect_settings_enable_background_hint">"Permitir a las aplicaciones usar datos móviles cuando Vd. no las está usando"</string>
-  <string name="pref_connect_settings_exceed_limit">Restringir uso de datos en hora punta</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Cortar la conexión de datos cuando uso de datos en hora punta alcanza su límite</string>
+  <string name="pref_connect_settings_enable_background_hint">"Permitir a las aplicaciones usar datos móviles cuando no las estás usando"</string>
+  <string name="pref_connect_settings_exceed_limit">Restringir uso de datos tras límite</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Cortar la conexión de datos cuando el uso de datos alcanza su límite</string>
   <string name="pref_daily_adjust">Establecer límite de datos en hora punta</string>
   <string name="pref_daily_traffic">Límite de datos en hora punta</string>
   <string name="pref_data_usage_ignore_settings">Ignorar uso de datos</string>
@@ -263,13 +263,13 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_special_traffic_limit_warn">Establecer aviso de uso de datos</string>
   <string name="pref_specified_adjust">Establecer límite de datos personal</string>
   <string name="pref_specified_traffic_settings">Ajustes de límite de datos</string>
-  <string name="pref_title_declaration">Cláusula Importante</string>
+  <string name="pref_title_declaration">Cláusula importante</string>
   <string name="pref_title_mobile_traffic">Mostrar el uso de datos mientras estaba bloqueado</string>
   <string name="pref_title_network_diagnostics">Diagnosticar la red</string>
   <string name="pref_title_over_traffic_limit_warning">Cuando se supere</string>
   <string name="pref_title_traffic_limit_number">Tamaño</string>
   <string name="pref_title_traffic_speed_state">Mostrar la velocidad de la red</string>
-  <string name="pref_title_update_notification">Mostrar notificaciones de uso de datos</string>
+  <string name="pref_title_update_notification">Mostrar uso de datos en área de notificaciones</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. ¿Activar el Data Saver afectará a mi privacidad? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Sus datos permanecerán privados y no serán compartidos con terceras partes. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. ¿Por qué no está funcionando el Data Saver? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; El Data Saver arranca sólo cuando Vd. usa la red de su operador para enviar o descargar contenidos."</string>
   <string name="pref_traffic_saving_notify_switch">Mostrar en la bandeja de notificación</string>
@@ -356,9 +356,9 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"¿No conoce su límite?"</string>
-  <string name="tips_message">"Si no tiene claros los detalles de su plan Wi-Fi puede verlos llamando al %2$s (%1$s)."</string>
+  <string name="tips_message">"Si no tiene claros los detalles de su plan de datos puede verlos llamando al %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Límite de uso de datos diario</string>
-  <string name="traffic_config_alert_body">"La contabilidad de su operador muestra que Vd. ha usado %s
+  <string name="traffic_config_alert_body">"La contabilidad de su operador muestra que ha usado %s
 ¿Actualizar la información de uso de datos?"</string>
   <string name="traffic_config_alert_body_extra">"
 Ha comprado %1$s de datos adicionales este mes. Es diferente de los %2$s que ha añadido manualmente."</string>
