@@ -7,7 +7,7 @@
   <string name="account">Cuenta</string>
   <string name="account_bind_devices">Dispositivos vinculados</string>
   <string name="account_bind_settings">Vincular cuenta</string>
-  <string name="account_crop_user_avatar">Crop photo</string>
+  <string name="account_crop_user_avatar">Recortar foto</string>
   <string name="account_dspt_provision">Una cuenta Mi para todo.</string>
   <string name="account_dspt_provision2">Aprender más</string>
   <string name="account_empty_user_name">Introduzca el nombre de usuario de su cuenta Mi</string>
@@ -47,11 +47,10 @@
   <string name="bind_qq">Añadir su cuenta QQ</string>
   <string name="bind_settings">Vincular</string>
   <string name="bind_sina_weibo">Vincular con Sina Weibo</string>
-  <string name="bind_sns_description">Complete su perfil %s.</string>
+  <string name="bind_sns_description">Inicia sesión en %s.</string>
   <string name="bind_weibo_description">Buscar y sincronizar a sus amigos de Sina Weibo.</string>
   <string name="binded">Vínculo completado</string>
-  <string name="binded_description" formatted="false">"Ha vinculado %s correctamente.
- Complete su perfil %s usando sus información personal."</string>
+  <string name="binded_description" formatted="false">"Ha vinculado correctamente %s a su cuenta Mi. Su perfil se ha actualizado con la información de su cuenta de %s."</string>
   <string name="btn_return">Atrás</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_unbind">Desvincular</string>
@@ -84,7 +83,7 @@
   <string name="error_ssl_hand_shake">Error con la conexión al servidor. Trate de establecer la fecha y hora del sistema a la hora actual.</string>
   <string name="error_unknown">No se puede iniciar sesión</string>
   <string name="error_user_name">Nombre de usuario no válido</string>
-  <string name="facebook">facebook</string>
+  <string name="facebook">Facebook</string>
   <string name="failed_get_mibi_info">No se pudo conseguir Crédito Mi</string>
   <string name="find_password_on_web_msg">Visite account.mi.com para restablecer su contraseña.</string>
   <string name="forget_password">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
@@ -273,7 +272,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="quick_login_dialog_step2_title">verificación de 2 pasos</string>
   <string name="quick_login_dialog_title">Verificar contraseña</string>
   <string name="quick_login_step2_title">verificación de 2 pasos</string>
-  <string name="quick_login_title">Ingresa tu contraseña</string>
+  <string name="quick_login_title">Introduce tu contraseña</string>
   <string name="re_register">Iniciar sesión otra vez</string>
   <string name="reg_failed">"No se puede establecer una cuenta"</string>
   <string name="reging">Creando cuenta…</string>

@@ -6,7 +6,7 @@
   <string name="button_queue_for_wifi">Cola</string>
   <string name="button_start_now">Descargar</string>
   <string name="call_record">Grabaciones de llamadas(%d)</string>
-  <string name="cloud_record">Grabaciones en la nube(%d)</string>
+  <string name="cloud_record">%d sincronizadas</string>
   <string name="data_connection_body">"Aviso:
 Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string>
   <string name="data_connection_button_text">Correcto</string>
@@ -64,9 +64,9 @@ Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string
   <string name="record_downloading_notification_count">%d descargando</string>
   <string name="record_list">Grabaciones</string>
   <string name="record_list_call">Grabaciones de llamadas</string>
-  <string name="record_list_cloud">Grabaciones en la nube</string>
-  <string name="record_list_cloud_call">Grabaciones de llamadas en la nube</string>
-  <string name="record_list_cloud_fm">Grabaciones de FM en la nube</string>
+  <string name="record_list_cloud">Grabaciones sincronizadas</string>
+  <string name="record_list_cloud_call">Grabaciones de llamadas sincronizadas</string>
+  <string name="record_list_cloud_fm">Grabaciones de FM sincronizadas</string>
   <string name="record_list_fm">Grabaciones de FM</string>
   <string name="record_mark_point">%smark</string>
   <string name="record_name_hour">.</string>
@@ -76,7 +76,7 @@ Conectado a la red de su proveedor, la descarga tendrá un coste mayor."</string
   <string name="rename">Renombrar</string>
   <string name="rename_dialog_title">Renombrar grabación</string>
   <string name="rename_duplicate">Ya existe una grabación con ese nombre.</string>
-  <string name="rename_no_more_tip">no more tip</string>
+  <string name="rename_no_more_tip">No volver a mostrar</string>
   <string name="retry">Reintentar</string>
   <string name="sound_recorder_settings">Ajustes</string>
   <string name="start">Reanudar</string>

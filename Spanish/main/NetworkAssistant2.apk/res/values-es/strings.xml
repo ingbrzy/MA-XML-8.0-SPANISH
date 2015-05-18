@@ -120,6 +120,9 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="free_traffic_settings">Ajustes de uso de datos en hora valle</string>
   <string name="gateway_exception_summary">Compruebe su router e inténtelo de nuevo.</string>
   <string name="gateway_exception_title">Probar router</string>
+  <string name="hints_install_apps_new">Nunca usado</string>
+  <string name="hints_install_apps_today">Usado hoy</string>
+  <string name="hints_input_roaming_daily_limit">Introduzca el límite de uso de datos</string>
   <string name="input_aviable_traffic">Establecer límite de uso de datos</string>
   <string name="input_traffic_pkg">Introduzca datos adicionales</string>
   <string name="input_used_hint">Introduzca uso de datos</string>
@@ -257,6 +260,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_package_traffic_overlay">%1$s | Adicional: %2$s</string>
   <string name="pref_package_traffic_settings">Límite de datos móviles</string>
   <string name="pref_pkg_begin_date">Restablecer la fecha del ciclo de uso</string>
+  <string name="pref_roaming_daily_limit_setting">Límite de datos diario en itinerancia internacional</string>
   <string name="pref_setting_operators_message">Editar el mensaje que su dispositivo envía a su operador para sincronizar sus estadísticas de uso de datos</string>
   <string name="pref_show_mobile_traffic">Cuando desbloquea su teléfono, mostrar estadísticas de uso de datos durante el periodo en el que su dispositivo ha estado bloqueado (debe ser mayor de 5 minutos)</string>
   <string name="pref_special_traffic_exceed_limit">Avisarme cuando el uso de datos alcance el límite</string>
