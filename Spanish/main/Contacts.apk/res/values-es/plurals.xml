@@ -82,6 +82,10 @@
         <item quantity="other">¿Bloquear estos %1$d números?</item>
         <item quantity="one">¿Bloquear este número?</item>
     </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">¿Desbloquear estos %1$d números?</item>
+        <item quantity="one">¿Desbloquear este número?</item>
+    </plurals>
      <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d personas de %2$s</item>
         <item quantity="one">%1$d persona de %2$s</item>

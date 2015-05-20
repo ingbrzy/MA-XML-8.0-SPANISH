@@ -313,7 +313,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="battery_sugg_bluetooth_headset">Intente conectando un dispositivo bluetooth diferente</string>
   <string name="battery_sugg_display">Reduzca el brillo de pantalla y/o el tiempo de apagado</string>
   <string name="battery_sugg_radio">Cambie al modo avión para ahorrar energía en zonas sin cobertura</string>
-  <string name="battery_sugg_wifi">"Apague la Wi-Fi cuando no la use o no esté disponible" </string>
+  <string name="battery_sugg_wifi">"Apague la señal Wi-Fi cuando no la use o no esté disponible" </string>
   <string name="bearer">Portador</string>
   <string name="biometric_weak_improve_matching_title">Mejorar coincidencia facial</string>
   <string name="biometric_weak_liveliness_summary">Requerir guiño al desbloquear</string>
@@ -702,7 +702,7 @@ Cuando el consumo de datos contabilizado por el teléfono y el proporcionado por
   <string name="data_usage_metered_mobile">Redes móviles</string>
   <string name="data_usage_metered_title">Hotspots móviles</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
-  <string name="data_usage_metered_wifi_disabled">Para seleccionar hotspots, Encienda la Wi-Fi.</string>
+  <string name="data_usage_metered_wifi_disabled">Para seleccionar hotspots, encienda la señal Wi-Fi.</string>
   <string name="data_usage_pick_cycle_day">Restablecer día del mes del ciclo de uso de datos:</string>
   <string name="data_usage_received_sent">%1$s recibidos, %2$s enviados</string>
   <string name="data_usage_restrict_background">"Si restringe el uso de datos móviles en segundo plano, algunas aplicaciones y servicios dejarán de funcionar a menos que se conecte a una red Wi-Fi."</string>
@@ -1241,7 +1241,7 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
   <string name="location_high_battery_use">Alto consumo de batería</string>
   <string name="location_loading_injected_setting">Recuperando</string>
   <string name="location_low_battery_use">Bajo consumo de batería</string>
-  <string name="location_mode_battery_saving_description">Utilizar la Wi-Fi y redes móviles para determinar la localización</string>
+  <string name="location_mode_battery_saving_description">Utilizar la señal Wi-Fi y redes móviles para determinar la localización</string>
   <string name="location_mode_battery_saving_title">Ahorro de energía</string>
   <string name="location_mode_high_accuracy_description">Utilizar el GPS, Wi-Fi y redes móviles para determinar la localización</string>
   <string name="location_mode_high_accuracy_title">Alta precisión</string>
@@ -1250,8 +1250,8 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
   <string name="location_mode_sensors_only_description">Utilizar el GPS para determinar la localización</string>
   <string name="location_mode_sensors_only_title">Sólo dispositivo</string>
   <string name="location_mode_title">Modo</string>
-  <string name="location_neighborhood_level">Permitir a las aplicaciones usar los datos de la Wi-Fi y redes móviles para determinar su localización</string>
-  <string name="location_neighborhood_level_wifi">Localización determinada por la Wi-Fi</string>
+  <string name="location_neighborhood_level">Permitir a las aplicaciones usar los datos de la señal Wi-Fi y redes móviles para determinar su localización</string>
+  <string name="location_neighborhood_level_wifi">Localización determinada por la señal Wi-Fi</string>
   <string name="location_network_based">Wi-Fi y redes móviles</string>
   <string name="location_no_recent_apps">Ninguna aplicación ha solicitado la localización recientemente</string>
   <string name="location_settings_title">Localización</string>
@@ -2310,7 +2310,7 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
   <string name="testing_phone_info">Información de teléfono</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Estadísticas de uso</string>
-  <string name="testing_wifi_info">Información de la Wi-Fi</string>
+  <string name="testing_wifi_info">Información de la señal Wi-Fi</string>
   <string name="tether_settings_title_all">Compartir internet</string>
   <string name="tether_settings_title_bluetooth">Compartir por Bluetooth</string>
   <string name="tether_settings_title_usb">Compartir por USB</string>
@@ -2491,7 +2491,7 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
   <string name="user_add_user_item_summary">Diferentes Usuarios tienen sus propias aplicaciones y contenidosUsers have their own apps and content</string>
   <string name="user_add_user_item_title">Usuario</string>
   <string name="user_add_user_menu">Añadir usuario al perfil</string>
-  <string name="user_add_user_message_long">"Puede compartir este dispositivo con otra gente creando usuarios adicionales. Cada usuario tiene su espacio, que puede ser personalizado con sus propias aplicaciones, fondos de pantalla y más. El usuario también puede usar ajustes de la tablet como la Wi-Fi que afectarán a todos. 
+  <string name="user_add_user_message_long">"Puede compartir este dispositivo con otra gente creando usuarios adicionales. Cada usuario tiene su espacio, que puede ser personalizado con sus propias aplicaciones, fondos de pantalla y más. El usuario también puede usar ajustes del dispositivo, como la señal Wi-Fi, que afectarán a todos. 
 
 Después de crear un nuevo usuario, esa persona necesita pasar un proceso de configuración.
 
@@ -2673,7 +2673,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="wfd_disconnect_diag_msg">Si desconecta la sesión de pantalla inalámbrica, su conexión a %1$s se cerrará.</string>
   <string name="wfd_disconnect_diag_title">¿Demoler sesión?</string>
   <string name="wfd_disconnect_multiple_diag_message">Si desconecta la sesión de pantalla inalámbrica, su conexión a %1$s y otros %2$s dispositivos se cerrarán.</string>
-  <string name="wfd_enable_wifi_diag_title">Solo puede usar pantalla inalámbrica cuando la Wi-Fi está activa. Conectarla?</string>
+  <string name="wfd_enable_wifi_diag_title">Sólo puede usar pantalla inalámbrica cuando la señal Wi-Fi está activa. ¿Conectarla?</string>
   <string name="wfd_enabler_title">Activar pantalla inalámbrica</string>
   <string name="wfd_menu_search">Buscar dispositivos</string>
   <string name="wfd_menu_searching">Buscando…</string>
@@ -2713,7 +2713,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="wifi_context_menu_forget">Volver</string>
   <string name="wifi_datanetwork_switch_not_remind">"No mostrar de nuevo"</string>
   <string name="wifi_disabled_generic">Desconectado</string>
-  <string name="wifi_disabled_help">La Wi-Fi se desconectó, calidad de conexión baja</string>
+  <string name="wifi_disabled_help">La señal Wi-Fi se desconectó, calidad de conexión baja</string>
   <string name="wifi_disabled_network_failure">Impedir conexiones a internet con poca cobertura</string>
   <string name="wifi_disabled_password_failure">Problema de validación</string>
   <string name="wifi_disconnected_notification_summary">"Ya no está conectado a Wi-Fi."</string>
@@ -2735,7 +2735,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="wifi_display_pause">Pausa</string>
   <string name="wifi_display_resume">Continuar</string>
   <string name="wifi_display_session_info">Información de sesión</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Pantalla inalámbrica se desactivó porque la Wi-Fi está desactivada</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Pantalla inalámbrica se desactivó porque la señal Wi-Fi está desactivada</string>
   <string name="wifi_display_settings_title">Screencast</string>
   <string name="wifi_display_status_connected">Conectado</string>
   <string name="wifi_display_status_connecting">Conectando</string>
@@ -2753,7 +2753,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="wifi_eap_method">Método EAP</string>
   <string name="wifi_eap_user_cert">Certificado de usuario</string>
   <string name="wifi_empty_list_user_restricted">"Usted no tiene permiso para cambiar la red Wi-Fi."</string>
-  <string name="wifi_empty_list_wifi_off">Para ver redes disponibles, encienda la Wi-Fi</string>
+  <string name="wifi_empty_list_wifi_off">Para ver redes disponibles, encienda la señal Wi-Fi</string>
   <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Impedir conexiones pobre</string>
@@ -2831,19 +2831,19 @@ Añada una palabra tocando el botón de añadir (+)"</string>
   <string name="wifi_quick_toggle_summary">Conectar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Guardado</string>
-  <string name="wifi_required_info_text">Para completar la configuración, el dispositivo necesita acceder a la Wi-Fi. Cuando acabe la configuración, puede cambiar entre datos móviles y Wi-Fi.</string>
+  <string name="wifi_required_info_text">Para completar la configuración, el dispositivo necesita acceder a la señal Wi-Fi. Cuando acabe la configuración, puede cambiar entre datos móviles y Wi-Fi.</string>
   <string name="wifi_save">Guardar</string>
   <string name="wifi_scan_always_available">Escaneo siempre conectado</string>
   <string name="wifi_scan_always_available_summary">"
-Dejar a los servicios de localización de Google y otras aplicaciones buscar redes, incluso cuando la Wi-Fi esté apagada"</string>
+Permitir a los servicios de localización de Google y otras aplicaciones buscar redes, incluso cuando la señal Wi-Fi esté apagada"</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Denegar</string>
-  <string name="wifi_scan_always_turnon_message">"Para mejorar la precisión de localización y para otros propósitos, %1$s quiere activar el escaneo de redes, incluso si la Wi-Fi está apagada.
+  <string name="wifi_scan_always_turnon_message">"Para mejorar la precisión de localización y para otros propósitos, %1$s quiere activar el escaneo de redes, incluso si la señal Wi-Fi está apagada.
 
-¿Permitir esto a todas las aplicaciones que quieran activar escaneo?"</string>
+¿Permitir esto a todas las aplicaciones que quieran activar el escaneo?"</string>
   <string name="wifi_scan_notify_remember_choice">"No mostrar de nuevo"</string>
-  <string name="wifi_scan_notify_text_location_off">"Las Aplicaciones pueden escanear en busca de redes cercanas, incluso si la Wi-Fi está apagada. Si no quiere que eso suceda vaya a Advanced &gt; Scaneo siempre conectado."</string>
-  <string name="wifi_scan_notify_text_location_on">"Para mejorar la precisión de localización y para otros propósitos, Google y otras aplicaciones pueden escanear en busca de redes cercanas, incluso si la Wi-Fi está apagada. Si no quiere que esto suceda, vaya a Advanced &gt; Scaneo siempre activado."</string>
+  <string name="wifi_scan_notify_text_location_off">"Las aplicaciones pueden escanear en busca de redes cercanas, incluso si la señal Wi-Fi está apagada. Si no quiere que eso suceda vaya a Ajustes avanzados &gt; Escaneo siempre conectado."</string>
+  <string name="wifi_scan_notify_text_location_on">"Para mejorar la precisión de localización y para otros propósitos, Google y otras aplicaciones pueden escanear en busca de redes cercanas, incluso si la señal Wi-Fi está apagada. Si no quiere que esto suceda, vaya a Ajustes avanzados &gt; Escaneo siempre conectado."</string>
   <string name="wifi_secured_first_item">Asegurado con %1$s</string>
   <string name="wifi_secured_second_item">, Asegurado con %1$s</string>
   <string name="wifi_security">Seguridad</string>
@@ -2867,7 +2867,7 @@ Dejar a los servicios de localización de Google y otras aplicaciones buscar red
   <string name="wifi_setting_frequency_band_summary">Especifique el rango de operación de frecuencia</string>
   <string name="wifi_setting_frequency_band_title">frecuencia Wi-Fi</string>
   <string name="wifi_setting_sleep_policy_error">Ocurrió un problema cambiando los ajustes</string>
-  <string name="wifi_setting_sleep_policy_title">Mantener la Wi-Fi activa durante la suspensión</string>
+  <string name="wifi_setting_sleep_policy_title">Mantener la señal Wi-Fi activa durante la suspensión</string>
   <string name="wifi_settings">Wi-Fi</string>
   <string name="wifi_settings_category">Ajustes de Wi-Fi</string>
   <string name="wifi_settings_summary">Configurar y administrar puntos de acceso wireless</string>
@@ -2945,19 +2945,19 @@ La configuración del teléfono puede necesitar gran tráfico de datos."</string
   <string name="wifi_speed">Velocidad de conexión</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">Introduzca la SSID</string>
-  <string name="wifi_starting">Encendiendo la Wi-Fi…</string>
+  <string name="wifi_starting">Encendiendo la señal Wi-Fi…</string>
   <string name="wifi_state_disabled">Desconectado</string>
   <string name="wifi_state_disabling">Desconectando</string>
   <string name="wifi_state_enabled">Desactivado</string>
   <string name="wifi_state_enabling">Activado</string>
-  <string name="wifi_state_label">Estado de la Wi-Fi:</string>
+  <string name="wifi_state_label">Estado de la señal Wi-Fi:</string>
   <string name="wifi_state_unknown">Desconocido</string>
   <string name="wifi_status">Estado</string>
-  <string name="wifi_status_test">Estado de la Wi-Fi</string>
-  <string name="wifi_stopping">Apagando la Wi-Fi…</string>
+  <string name="wifi_status_test">Estado de la señal Wi-Fi</string>
+  <string name="wifi_stopping">Apagando la señal Wi-Fi…</string>
   <string name="wifi_subnet_mask">Máscara de subnet</string>
-  <string name="wifi_suspend_optimizations">Optimización de la Wi-Fi</string>
-  <string name="wifi_suspend_optimizations_summary">Minimiza el uso de la batería cuando la Wi-Fi está encendida</string>
+  <string name="wifi_suspend_optimizations">Optimización de la señal Wi-Fi</string>
+  <string name="wifi_suspend_optimizations_summary">Minimiza el uso de la batería cuando la señal Wi-Fi está encendida</string>
   <string name="wifi_tether_checkbox_text">Punto de acceso portátil</string>
   <string name="wifi_tether_configure_ap_text">Configurar Zona Wi-Fi portátil</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
