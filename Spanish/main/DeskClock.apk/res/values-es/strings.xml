@@ -36,7 +36,7 @@
   <string name="day">1 día</string>
   <string name="day_concat">". . "</string>
   <string name="days">%s días</string>
-  <string name="default_alarm_alert">Establecer sonido de alarma predeterminado</string>
+  <string name="default_alarm_alert">Sonido de alarma predeterminado</string>
   <string name="default_alarm_title">Sonido predeterminado</string>
   <string name="default_label">Alarma</string>
   <string name="delelte_selected_timezone">¿Borrar las zonas horarias seleccionadas?</string>
@@ -75,12 +75,12 @@
   <string name="minutes">%s minutos</string>
   <string name="never">Una sola vez</string>
   <string name="pause">Pausa</string>
-  <string name="remind_ringtone">Tono de llamada</string>
+  <string name="remind_ringtone">Sonido</string>
   <string name="reset">Restablecer</string>
   <string name="revert">Revertir</string>
   <string name="set_alarm">Establecer alarma</string>
   <string name="settings">Ajustes</string>
-  <string name="shutdown_alarm_disable_summary">No encender dispositivo ni sonar</string>
+  <string name="shutdown_alarm_disable_summary">No encender dispositivo</string>
   <string name="shutdown_alarm_enable_summary">Encender dispositivo y sonar</string>
   <string name="shutdown_alarm_title">Alarma con dispositivo apagado</string>
   <string name="silent_alarm_summary">Silenciosa</string>
@@ -107,7 +107,7 @@
   <string name="timer_title">Temporizador</string>
   <string name="timezone_exist_error_message">"Ya se está mostrando esa zona horaria"</string>
   <string name="vibrate_pref_summary">Vibrar cuando suene la alarma</string>
-  <string name="vibrate_when_ringing">Vibrar durante una llamada</string>
+  <string name="vibrate_when_ringing">Vibrar mientras suena</string>
   <string name="volume_button_setting_summary">"Establecer la función de los botones de volumen durante la alarma"</string>
   <string name="volume_button_setting_title">Botones de volumen</string>
   <string name="workday_alarm_clock">Alarma día laborable</string>
