@@ -9,12 +9,12 @@
         <item quantity="many">Eliminar %1$d archivos</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" ¿y %1$d carpetas?"</item>
-        <item quantity="zero">" ¿y %1$d carpetas?"</item>
-        <item quantity="one">" ¿y %1$d carpeta?"</item>
-        <item quantity="two">" ¿y %1$d carpetas?"</item>
-        <item quantity="few">" ¿y %1$d carpetas?"</item>
-        <item quantity="many">" ¿y %1$d carpetas?"</item>
+        <item quantity="other">" y %1$d carpetas"</item>
+        <item quantity="zero">" y %1$d carpetas"</item>
+        <item quantity="one">" y %1$d carpeta"</item>
+        <item quantity="two">" y %1$d carpetas"</item>
+        <item quantity="few">" y %1$d carpetas"</item>
+        <item quantity="many">" y %1$d carpetas"</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d archivos</item>
