@@ -17,6 +17,7 @@
   <string name="add_2sec_pause">Añadir pausa 2seg</string>
   <string name="add_account">Agregar cuenta</string>
   <string name="add_blacklist">Bloquear</string>
+  <string name="add_blacklist_dialog_title">Añadir a la lista de bloqueo</string>
   <string name="add_connection_button">Agregar conexión</string>
   <string name="add_contact_dlg_message_fmt">¿Desea agregar \"%s\" a contactos?</string>
   <string name="add_field">Agregar otro campo</string>
@@ -40,6 +41,7 @@
   <string name="auto_nickname">Automático</string>
   <string name="auto_set_nickname">Automático</string>
   <string name="batch_delete">Eliminar lote</string>
+  <string name="blacklist">Bloquear</string>
   <string name="bluetooth_connection_failed_toast">Conexión Bluetooth interrumpida</string>
   <string name="blurbJoinContactDataWith">Seleccione el contacto que desea combinar con %s:</string>
   <string name="btn_rotation">Rotar</string>
@@ -156,6 +158,8 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">¿Borrar registro de llamadas?</string>
   <string name="confirm_delete_selected_all_call_logs">¿Borrar registro de llamadas?</string>
@@ -198,7 +202,7 @@
   <string name="createContactShortcutSuccessful">Acceso directo de contacto añadido a la pantalla de inicio</string>
   <string name="create_group_dialog_title">Crear un nuevo grupo</string>
   <string name="create_group_item_label">Crear un nuevo grupo</string>
-  <string name="create_qrcode_fail_message">Creación de Código QR fallida</string>
+  <string name="create_qrcode_fail_message">Creación de código QR fallida</string>
   <string name="customLabelPickerTitle">Nombre de la etiqueta personalizada</string>
   <string name="custom_list_filter">Definir una vista personalizada</string>
   <string name="custom_nickname_hint">Introducir una sobrenombre</string>
@@ -271,7 +275,7 @@
   <string name="device_brand_title">Elegir una marca</string>
   <string name="device_import_account_dialog_title">Elegir una cuenta</string>
   <string name="device_import_account_dialog_title_suffix">"
-(Encontrados %1$s contactos)"</string>
+(encontrados %1$s contactos)"</string>
   <string name="device_import_failed_message">"No se puede importar"</string>
   <string name="device_import_local_account">Cuenta local</string>
   <string name="device_import_message">Importando</string>
@@ -352,7 +356,8 @@
   <string name="export_to_sim2">Copiar a la segunda tarjeta SIM</string>
   <string name="export_to_sim_title">Exportando…</string>
   <string name="export_vcard_description">"Exportar vCard a la memoria interna del teléfono"</string>
-  <string name="exporting_contact_failed_message">Error al exportar información: \"%s\"</string>
+  <string name="exporting_contact_failed_message">Error al exportar datos del contacto.
+Motivo: \"%s\""</string>
   <string name="exporting_contact_failed_title">"No se puede exportar"</string>
   <string name="exporting_contact_list_message">Exportando a %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
@@ -412,7 +417,7 @@
   <string name="hint_more_contact">Combinar contactos duplicados</string>
   <string name="ic_menu_back">Atrás</string>
   <string name="ic_menu_done">Hecho</string>
-  <string name="imLabelsGroup">IM</string>
+  <string name="imLabelsGroup">MI</string>
   <string name="imei">IMEI</string>
   <string name="imei_invalid">IMEI no válido</string>
   <string name="import_all_sim_entries_miui">Importar todos los contactos</string>
@@ -499,7 +504,7 @@
   <string name="meid">MEID</string>
   <string name="meid_invalid">MEID no válido</string>
   <string name="menu_accounts">Cuentas</string>
-  <string name="menu_addStar">Agregar a Favoritos</string>
+  <string name="menu_addStar">Agregar a favoritos</string>
   <string name="menu_bar_group_add">Añadir</string>
   <string name="menu_bar_group_delete">Eliminar</string>
   <string name="menu_bar_group_rename">Cambiar el nombre</string>
@@ -533,7 +538,7 @@
   <string name="menu_new_contact_action_bar">Nuevo</string>
   <string name="menu_new_favorite_action_bar">Nuevo</string>
   <string name="menu_new_group_action_bar">Nuevo</string>
-  <string name="menu_not_redirect_calls_to_vm">Correo de voz no esta en uso</string>
+  <string name="menu_not_redirect_calls_to_vm">Buzón de voz no está activado</string>
   <string name="menu_redirect_calls_to_vm">Todas las llamadas al buzón de voz</string>
   <string name="menu_removeStar">Eliminar de favoritos</string>
   <string name="menu_search">Búsqueda</string>
@@ -644,6 +649,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="noMatchingContacts">No se encontraron coincidencias en los contactos.</string>
   <string name="noRecentContacts">No hay contactos recientes</string>
   <string name="no_account_prompt">"Mucha gente trabaja mejor con una cuenta de Google.
+
 • Acceso desde cualquier navegador web.
 • Copia de seguridad de sus contactos."</string>
   <string name="no_contact_details">No hay información adicional para este contacto.</string>
@@ -770,8 +776,8 @@ Para agregar un contacto a la lista de favoritos:
   <string name="pull_to_refresh_pull_label">Arrastre para refrescar…</string>
   <string name="pull_to_refresh_refreshing_label">Cargando…</string>
   <string name="pull_to_refresh_release_label">Suelte para refrescar…</string>
-  <string name="qr_card_card">Mi Código QR</string>
-  <string name="qrcode_card_title">Tarjeta en Código QR</string>
+  <string name="qr_card_card">Mi código QR</string>
+  <string name="qrcode_card_title">Tarjeta en código QR</string>
   <string name="quickcontact_missing_app">No se encontró una aplicación para manejar esta acción</string>
   <string name="quit_dialog_confirm_title">"No ha combinado ningún contacto"</string>
   <string name="readOnlyContactDeleteConfirmation">Este contacto contiene información de varias cuentas. Esta información es de solo lectura, este sera escondido de su lista de contactos, pero no borrado.</string>
@@ -785,7 +791,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="recentCallsIconLabel">Registro de llamadas</string>
   <string name="recentCalls_addToContact">Agregar a contactos</string>
   <string name="recentCalls_callNumber">Llamar a %s</string>
-  <string name="recentCalls_deleteAll">Limpiar Registro de llamadas</string>
+  <string name="recentCalls_deleteAll">Limpiar registro de llamadas</string>
   <string name="recentCalls_editNumberBeforeCall">Editar número antes de llamar</string>
   <string name="recentCalls_empty">El registro de llamadas está vacío</string>
   <string name="recentCalls_removeFromRecentList">Eliminar del registro de llamadas</string>
@@ -800,7 +806,10 @@ Para agregar un contacto a la lista de favoritos:
   <string name="relationLabelsGroup">Relación</string>
   <string name="removePhoto">Eliminar foto</string>
   <string name="remove_blacklist">Desbloquear</string>
-  <string name="remove_duplicate">"MIUI te ayudará a encontrar y combinar contactos duplicados. Para empezar, toque el icono de fusión en la parte inferior de la pantalla."</string>
+  <string name="remove_blacklist_dialog_title">Quitar de la lista de bloqueo</string>
+  <string name="remove_duplicate">"MIUI te ayudará a encontrar y combinar contactos duplicados.
+  
+  Para empezar, toque el icono de fusión en la parte inferior de la pantalla."</string>
   <string name="resource_account_abnormal_state">Error de cuenta. Espere uno o dos minutos y vuelva a intentarlo.</string>
   <string name="resource_account_fail_to_add">"No se puede añadir la cuenta"</string>
   <string name="resource_account_login">Iniciar sesión</string>
@@ -837,7 +846,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="resource_comment_invalid">Toque las estrellas para valorar el tema</string>
   <string name="resource_comment_loading_list">Cargando…</string>
   <string name="resource_comment_name_default">Usuario %1$s</string>
-  <string name="resource_comment_no_average_score">N / A</string>
+  <string name="resource_comment_no_average_score">N/D</string>
   <string name="resource_comment_no_comment">No hay comentarios</string>
   <string name="resource_comment_publish">Confirmar</string>
   <string name="resource_comment_rate">Calificación:</string>
@@ -982,7 +991,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="scan">Escanear</string>
   <string name="scan_duplicate_message">%1$d contactos con  información idéntica</string>
   <string name="scan_merge">Buscando contactos duplicados…</string>
-  <string name="scan_qrcode_card_hint1">Escanear Código QR</string>
+  <string name="scan_qrcode_card_hint1">Escanear código QR</string>
   <string name="scan_qrcode_card_hint2">Añadir mi información a sus contactos</string>
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"El almacenamiento no pudo ser escaneado"</string>
