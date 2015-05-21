@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Actualizaciones disponibles para %1$d temas</item>
+        <item quantity="one">Actualización disponible para %1$d tema</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Actualizaciones disponibles para %1$d temas.</item>
+        <item quantity="one">Actualización disponible para %1$d tema.</item>
+    </plurals>
+</resources>
