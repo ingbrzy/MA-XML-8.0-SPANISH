@@ -60,6 +60,7 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloudservice_new_sync">Sincronizar %s con Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Usar Mi Cloud para sincronizar datos, localizar tu dispositivo,</string>
   <string name="contact">Contactos</string>
+  <string name="deskclock_backup">Copia de seguridad del reloj</string>
   <string name="disable_find_device_error">No se puede desactivar la búsqueda del dispositivo. %1$s</string>
   <string name="enableAll">Sincronizar todo</string>
   <string name="enable_cloud_service_notification">No tiene activada Mi Cloud</string>
@@ -163,6 +164,9 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_main_sync_stop">Sincronización parada</string>
   <string name="micloud_main_synced_data_count">%d datos han sido sincronizados</string>
   <string name="micloud_main_syncing">sincronizando datos...</string>
+  <string name="micloud_main_title_sync_fail">"No se puede sincronizar"</string>
+  <string name="micloud_main_title_sync_off">Sincronización parada</string>
+  <string name="micloud_main_title_sync_on_wifi">Usar Wi-Fi</string>
   <string name="micloud_main_update_space">actualice el tamaño de almacenamiento</string>
   <string name="micloud_main_wlan_sync_data_count">%d datos se sincronizarán por Wi-Fi</string>
   <string name="micloud_more">Aprende más</string>
@@ -172,6 +176,7 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_setting_antispam_summary">Excepciones para No Molestar y números de teléfono bloqueados.</string>
   <string name="micloud_setting_browser_summary">Marcadores, historial y pestañas</string>
   <string name="micloud_setting_contact_summary">Información de contactos y fotos de perfil</string>
+  <string name="micloud_setting_deskclock_summary">Ajustes del reloj</string>
   <string name="micloud_setting_gallery_summary">Fotos y vídeos</string>
   <string name="micloud_setting_music_summary">Listas de reproducción y favoritos</string>
   <string name="micloud_setting_sms_summary">Mensajes SMS y MMS</string>
@@ -180,6 +185,7 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_space_duokan_detail">Administre su contenido Duokan usando la aplicación Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;¿Qué ocurre cuando me quedo sin espacio?&lt;/u&gt;</string>
+  <string name="micloud_storage">Almacenamiento</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Debe renovar su suscripción.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Debe renovar su suscripción.</string>
   <string name="micloud_storage_expires_soon_title">El almacenamiento en Mi Cloud expira pronto</string>
