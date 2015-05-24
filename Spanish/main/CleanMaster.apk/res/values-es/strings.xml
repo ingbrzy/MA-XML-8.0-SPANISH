@@ -61,9 +61,9 @@
      <string name="empty_title_ad">No se encontraron ficheros de publicidad</string>
      <string name="empty_title_apk">No se encontraron paquetes de instalación</string>
      <string name="empty_title_garbage_cache">Caché limpia</string>
-     <string name="empty_title_garbage_white_list">Limpio</string>
-     <string name="empty_title_installed_apps">Limpio</string>
-     <string name="empty_title_large_files">Limpio</string>
+     <string name="empty_title_garbage_white_list">Vacío</string>
+     <string name="empty_title_installed_apps">Vacío</string>
+     <string name="empty_title_large_files">Vacío</string>
      <string name="empty_title_residual">No se encontraron archivos residuales</string>
      <string name="header_optimizer">Usando esta función, usted está de acuerdo en %s.</string>
      <string name="hints_ad_header_left">Archivos de publicidad: %d</string>
@@ -78,7 +78,7 @@
      <string name="hints_garbage_cleanup_result_risk">Limpiar la basura ahora</string>
      <string name="hints_garbage_cleanup_result_safe">Todo parece correcto</string>
      <string name="hints_garbage_handle_item_content">%1$d elementos, %2$s</string>
-     <string name="hints_garbage_handle_item_empty_content">Limpio</string>
+     <string name="hints_garbage_handle_item_empty_content">Vacío</string>
      <string name="hints_install_apps_interval">se utilizó %d días atrás</string>
      <string name="hints_install_apps_new">no se ha utilizado nunca</string>
      <string name="hints_install_apps_risk">riesgo detectado</string>
@@ -97,7 +97,7 @@
      <string name="hints_residual_header_left">Residuales: %d</string>
      <string name="hints_storage_free">Libre</string>
      <string name="hints_storage_free_size">%s disponible</string>
-     <string name="hints_title_garbage">Archivos residuales</string>
+     <string name="hints_title_garbage">archivos residuales</string>
      <string name="item_title_process_mode">Elija una acción</string>
      <string name="last_check_canceled">Escaneo de virus previo fue cancelado</string>
      <string name="msg_cleanup_db_update_time_unknown">Última actualización desconocida</string>
@@ -157,7 +157,7 @@
      <string name="toast_garbage_cleanup_success">Limpieza correcta</string>
      <string name="toast_garbage_list_empty">¡Todo correcto, no necesita hacer limpieza!</string>
      <string name="toast_network_eror">"No se puede conectar a la red"</string>
-     <string name="toast_removed_from_white_list">" quitada de las excepciones"</string>
+     <string name="toast_removed_from_white_list">" quitado de las excepciones"</string>
      <string name="toast_resolve_apk_error">Resolver error de apk</string>
      <string name="toast_uninstall_success">Desinstalación completa</string>
      <string name="white_list_ad_header">Ficheros de publicidad: %d</string>
