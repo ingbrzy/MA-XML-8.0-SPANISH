@@ -77,7 +77,7 @@
   <string name="dlg_add_keyword">Añadir palabras clave</string>
   <string name="dlg_add_manual_hint">Introduzca número de teléfono</string>
   <string name="dlg_add_manual_ok">Añadir</string>
-  <string name="dlg_antispam_mode_delete_message">"No se puede recuperar reglas de cliente para la lista negra después de que han sido borradas."</string>
+  <string name="dlg_antispam_mode_delete_message">"No se puede recuperar reglas de cliente para la lista de bloqueo después de que han sido borradas."</string>
   <string name="dlg_antispam_mode_delete_title">Borrar reglas de cliente</string>
   <string name="dlg_antispam_using_mode_delete_message">"¿Borrar el perfil de Lista de Bloqueo que está usando actualmente y cambiar al predeterminado? ¡No se puede deshacer esta acción!"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"¿Borrar el perfil de Lista de Bloqueo que está usando actualmente y cambiar al predeterminado? ¡No se puede deshacer esta acción!"</string>
@@ -118,7 +118,7 @@
   <string name="fw_blocked_count">"Bloqueado "</string>
   <string name="fw_blocked_join">" y "</string>
   <string name="hint_antispam_mode_edit">Modo personalizado</string>
-  <string name="info_antispam_close">Desactivar AntiSpam</string>
+  <string name="info_antispam_close">Lista de bloqueo desactivada</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Bloquear llamadas</string>
   <string name="info_antispam_phone_sms">Bloquear mensajes y llamadas</string>
