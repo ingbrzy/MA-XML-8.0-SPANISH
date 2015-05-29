@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
+  <string name="memory_clear_result">limpiados %1$sB  |  %2$sB disponibles</string>
   <string name="miui">miui</string>
   <string name="screen_button_disabled_message">Botones de navegación desactivados. Para volver a activar, toque el botón Home y el Power simultáneamente.</string>
   <string name="screen_button_enabled_message">Botones de navegación activados.</string>

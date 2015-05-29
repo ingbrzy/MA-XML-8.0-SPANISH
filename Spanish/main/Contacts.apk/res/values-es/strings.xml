@@ -780,9 +780,9 @@ Para agregar un contacto a la lista de favoritos:
   <string name="qrcode_card_title">Tarjeta en código QR</string>
   <string name="quickcontact_missing_app">No se encontró una aplicación para manejar esta acción</string>
   <string name="quit_dialog_confirm_title">"No ha combinado ningún contacto"</string>
-  <string name="readOnlyContactDeleteConfirmation">Este contacto contiene información de varias cuentas. Esta información es de solo lectura, este sera escondido de su lista de contactos, pero no borrado.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene información de varias cuentas. Esta información es de solo lectura, este sera escondido de su lista de contactos, pero no borrado.</string>
-  <string name="readOnlyContactWarning">"No puedes eliminar contactos de cuentas de sólo lectura, pero puede ocultarlos de sus listas de contactos."</string>
+  <string name="readOnlyContactDeleteConfirmation">Este contacto contiene información de varias cuentas. Esta información es de sólo lectura y se ocultará en su lista de contactos, pero no se borrará.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene información de varias cuentas. Esta información es de sólo lectura y se ocultará en su lista de contactos, pero no se borrará.</string>
+  <string name="readOnlyContactWarning">"No puedes eliminar contactos de cuentas de sólo lectura, pero puedes ocultarlos de tus listas de contactos."</string>
   <string name="readingSimContacts">Leyendo tarjeta SIM…</string>
   <string name="reading_vcard_canceled_title">Lectura de vCard cancelada</string>
   <string name="reading_vcard_failed_title">"No se pudo leer vCard"</string>
