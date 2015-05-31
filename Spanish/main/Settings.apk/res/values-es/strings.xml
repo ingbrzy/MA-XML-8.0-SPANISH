@@ -593,7 +593,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="confirm_download_cancelation_dialog_message">¿Cancelar descarga?</string>
      <string name="confirm_erase">Borrar</string>
      <string name="confirm_new_backup_pw_prompt">Vuelva a escribir su nueva contraseña de la copia de seguridad completa aqui</string>
-     <string name="connect_to_internet">Conectar a la Red</string>
+     <string name="connect_to_internet">Conectar a la red</string>
      <string name="connected_wifi">Conectado</string>
      <string name="contributors_title">Colaboradores</string>
      <string name="controls_label">Controles</string>
@@ -697,7 +697,7 @@ Cuando el consumo de datos contabilizado por el teléfono y el proporcionado por
      <string name="data_usage_menu_metered">Hotspots móviles</string>
      <string name="data_usage_menu_restrict_background">Restringir datos en segundo plano</string>
      <string name="data_usage_menu_roaming">Itinerancia de datos</string>
-     <string name="data_usage_menu_show_ethernet">Mostrar uso de Red</string>
+     <string name="data_usage_menu_show_ethernet">Mostrar uso de red</string>
      <string name="data_usage_menu_show_wifi">Mostrar uso Wi-Fi</string>
      <string name="data_usage_menu_split_4g">Separar uso 4G</string>
      <string name="data_usage_metered_body">Indicar qué redes Wi-Fi son hotspots. Se puede restringir el uso de estas redes en segundo plano para las aplicaciones. Las aplicaciones avisarán antes de realizar descargas que ocupan mucho de estas redes.</string>
@@ -1820,7 +1820,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="radioInfo_service_off">Radio apagada</string>
      <string name="radioInfo_service_out">Fuera de servicio</string>
      <string name="radioInfo_unknown">desconocido</string>
-     <string name="radio_controls_summary">Administrar Wi-Fi, Bluetooth, Modo avión, Redes móviles y VPNs</string>
+     <string name="radio_controls_summary">Administrar Wi-Fi, Bluetooth, Modo avión, redes móviles y VPNs</string>
      <string name="radio_controls_title">Más</string>
      <string name="radio_info_band_mode_label">Seleccione banda de radio</string>
      <string name="radio_info_call_redirect_label">Llamada redireccionada:</string>
@@ -2212,6 +2212,7 @@ Una credencial de confianza instalada hace esto posible."</string>
      <string name="status_bar_settings_enable_notification">Permitir notificaciones</string>
      <string name="status_bar_settings_expandable_under_keyguard">Disponible en bloqueo de pantalla</string>
      <string name="status_bar_settings_long_click_sort">Pulse y mantenga para ordenar</string>
+	 <string name="status_bar_settings_manage_notification">Administrar notificaciones</string>
      <string name="status_bar_settings_no_carrier">Vacío</string>
      <string name="status_bar_settings_notification_bar">Área de notificaciones</string>
      <string name="status_bar_settings_notification_led">Notificación LED</string>
@@ -2888,7 +2889,7 @@ Permitir a los servicios de localización de Google y otras aplicaciones buscar 
 Toque "&lt;b&gt;Atras&lt;/b&gt; para conectar a una red Wi-Fi diferente."</string>
      <string name="wifi_setup_description_connecting">Conectando, esto puede llevar unos minutos…</string>
      <string name="wifi_setup_detail">Detalles de red</string>
-     <string name="wifi_setup_eap_not_supported">"No se puede configurar una conexión EAP Wi-Fi durante la configuración. Después puede ir a Ajustes &gt; Wi-Fi y Redes."</string>
+     <string name="wifi_setup_eap_not_supported">"No se puede configurar una conexión EAP Wi-Fi durante la configuración. Después puede ir a Ajustes &gt; Wi-Fi y redes."</string>
      <string name="wifi_setup_forget">Volver</string>
      <string name="wifi_setup_next">Siguiente</string>
      <string name="wifi_setup_not_connected">Sin conexión</string>

@@ -123,7 +123,7 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="hints_install_apps_new">Nunca usado</string>
   <string name="hints_install_apps_today">Usado hoy</string>
   <string name="hints_input_roaming_daily_limit">Introduzca el límite de uso de datos</string>
-  <string name="input_aviable_traffic">Establecer uso de datos</string>
+  <string name="input_aviable_traffic">Establecer límite de uso de datos</string>
   <string name="input_traffic_pkg">Introduzca datos adicionales</string>
   <string name="input_used_hint">Introduzca uso de datos</string>
   <string name="input_used_max_hint">Introduzca uso de datos (menos de %s)</string>
@@ -309,8 +309,8 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="see_detail">Detalles</string>
   <string name="setting_traffic_pkg">Establecer paquete de datos</string>
   <string name="settings">Ajustes de uso de datos</string>
-  <string name="show_traffic_dialog_message">Su información de uso de datos se mostrará en la cortina de notificación. Puede activar o desactivar esta función en cualquier momento en Uso de Datos &gt; Ajustes</string>
-  <string name="show_traffic_dialog_title">Mostrar uso en cortina de notificación</string>
+  <string name="show_traffic_dialog_message">Su información de uso de datos se mostrará en el área de notificaciones. Puede activar o desactivar esta función en cualquier momento en Uso de Datos &gt; Ajustes</string>
+  <string name="show_traffic_dialog_title">Mostrar uso en el área de notificaciones</string>
   <string name="signal_exception_summary">"No se puede conectar a la red en este área."</string>
   <string name="signal_exception_title">Señal de red débil</string>
   <string name="songs_number">18 canciones</string>
