@@ -48,6 +48,7 @@
   <string name="alert_secret_album_message">Puede deslizar el album de la nube hacia el álbum secreto.</string>
   <string name="alert_secret_album_set_pattern">Establecer patrón de desbloqueo</string>
   <string name="alert_secret_album_title">Álbum secreto</string>
+  <string name="all_video_album_display_name">Todos los vídeos</string>
   <string name="already_apply_album">¿Abrir %1$s?</string>
   <string name="always_rotate_alert_msg">Puede activar o desactivar esta característica en cualquier momento en Ajustes de la galería.</string>
   <string name="always_rotate_alert_positive_button_text">Activar</string>
@@ -605,10 +606,11 @@
   <string name="external_usb_device">Almacenamiento USB</string>
   <string name="external_usb_device_hm">Almacenamiento USB externo</string>
   <string name="face_album">Gente</string>
+  <string name="face_album_long_tap_tip">Para seleccionar varias personas o cambiar los ajustes del grupo, pulse y mantenga sobre una imagen de perfil</string>
   <string name="face_album_not_named">Sin nombre</string>
   <string name="face_album_rename_hint">Introduzca nombre</string>
   <string name="face_albumset_detecting_tip">Espere un momento…</string>
-  <string name="face_albumset_empty">Vacío.</string>
+  <string name="face_albumset_empty">Vacío</string>
   <string name="face_albumset_use_tip">Usar detección facial para ordenar las fotos por la gente que aparece en ellas</string>
   <string name="face_move_dialog_title">Elegir álbum</string>
   <string name="facelift">Cara con brillo</string>
@@ -813,7 +815,8 @@
   <string name="photo_save_succeed">Guardado con éxito</string>
   <string name="photo_size">Tamaño</string>
   <string name="photoeditor_name">Mi Photo Studio</string>
-  <string name="photos">Fotos</string>
+  <string name="photos">" fotos"</string>
+  <string name="pick_from_contact">Elegir en contactos</string>
   <string name="pick_too_many_recipients">Demasiados destinatarios</string>
   <string name="pick_too_much_tips">"No puede seleccionar tantos artículos (máximo %d elementos)."</string>
   <string name="picker_no_album_selected">Ningún álbum seleccionado</string>
@@ -999,7 +1002,7 @@
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">"¿Dónde está el código QR?"</string>
   <string name="white_balance">Balance de blancos</string>
-  <string name="who_is_this">¿Quién es este?</string>
+  <string name="who_is_this">¿Quién es?</string>
   <string name="widget_type">Elija imágenes</string>
   <string name="widget_type_album">Elija un álbum</string>
   <string name="widget_type_photo">Elija una imagen</string>

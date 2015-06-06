@@ -1,55 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
+     <plurals name="confirm_delete_album">
+        <item quantity="other">¿Eliminar %1$s álbumes (%2$s en total)?</item>
+        <item quantity="one">¿Eliminar %1$s álbum (%2$s en total)?</item>
+     </plurals>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">¿Eliminar %s fotos de la nube?</item>
-        <item quantity="one">¿Eliminar %s foto de la nube?</item>
-     </plurals>
-     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">¿Eliminar %s fotos (local y la nube)?</item>
-        <item quantity="one">¿Eliminar %s foto (local y la nube)?</item>
-     </plurals>
-     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">¿Eliminar %s vídeos (local y la nube)?</item>
-        <item quantity="one">¿Eliminar %s vídeo (local y la nube)?</item>
-     </plurals>
-     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">¿Eliminar %s vídeos de la nube?</item>
-        <item quantity="one">¿Eliminar %s vídeo de la nube?</item>
+        <item quantity="other">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos de Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto de Mi Cloud?&lt;/Data>" "</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">¿Eliminar %s fotos?</item>
         <item quantity="one">¿Eliminar %s foto?</item>
      </plurals>
+     <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos de Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo de Mi Cloud?&lt;/Data>" "</item>
+     </plurals>
      <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">¿Desea eliminar %s vídeos?</item>
+        <item quantity="other">¿Eliminar %s vídeos?</item>
         <item quantity="one">¿Eliminar %s vídeo?</item>
      </plurals>
-     <plurals name="how_many_pics">
-        <item quantity="other">%d fotos</item>
-        <item quantity="one">%d foto</item>
+     <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos de Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto de Mi Cloud?&lt;/Data>" "</item>
      </plurals>
-     <plurals name="how_many_sub_folders">
-        <item quantity="other">%d carpetas</item>
-        <item quantity="one">%d carpeta</item>
+     <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos de este dispositivo y de Mi Cloud?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo de este dispositivo y de Mi Cloud?&lt;/Data>" "</item>
      </plurals>
-     <plurals name="how_many_videos">
-        <item quantity="other">%d vídeos</item>
-        <item quantity="one">%d vídeo</item>
-     </plurals>
-     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"No tiene permiso para borrar estos %d ficheros."</item>
-        <item quantity="one">"No tiene permiso para borrar este fichero."</item>
-     </plurals>
-     <plurals name="number_of_images">
-        <item quantity="other">%1$d fotos</item>
-        <item quantity="zero">%1$d fotos</item>
-        <item quantity="one">%1$d foto</item>
-     </plurals>
-     <plurals name="number_of_items">
-        <item quantity="other">%1$d elementos</item>
-        <item quantity="zero">%1$d elementos</item>
-        <item quantity="one">%1$d elemento</item>
+     <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%1$d vídeos&lt;/xliff:g> de %2$d álbumes?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%1$d vídeo&lt;/xliff:g> de %2$d álbumes?&lt;/Data>" "</item>
      </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
@@ -61,8 +42,38 @@
         <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>
      </plurals>
+     <plurals name="how_many_pics">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+     </plurals>
+     <plurals name="how_many_videos">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+     </plurals>
+     <plurals name="how_many_sub_folders">
+        <item quantity="other">%d carpetas</item>
+        <item quantity="one">%d carpeta</item>
+     </plurals>
+     <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"No tiene permiso para borrar estos %d ficheros."</item>
+        <item quantity="one">"No tiene permiso para borrar este fichero."</item>
+     </plurals>
      <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Puede seleccionar %d elementos</item>
         <item quantity="one">Puede seleccionar %d elemento</item>
+     </plurals>
+     <plurals name="number_of_images">
+        <item quantity="other">%1$d imágenes</item>
+        <item quantity="zero">%1$d imágenes</item>
+        <item quantity="one">%1$d imagen</item>
+     </plurals>
+     <plurals name="number_of_items">
+        <item quantity="other">%1$d elementos</item>
+        <item quantity="zero">%1$d elementos</item>
+        <item quantity="one">%1$d elemento</item>
+     </plurals>
+     <plurals name="more_face">
+        <item quantity="other">%1$s fotos de %2$s</item>
+        <item quantity="one">%1$s foto de %2$s</item>
      </plurals>
 </resources>
