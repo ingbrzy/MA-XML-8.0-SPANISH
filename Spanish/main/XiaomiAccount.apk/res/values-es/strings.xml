@@ -62,7 +62,7 @@
   <string name="completed">Finalizar</string>
   <string name="confirm">Confirmar</string>
   <string name="confirm_unbind">¿Desvincular?</string>
-  <string name="data_keep_in_device">Seguir este dispositivo</string>
+  <string name="data_keep_in_device">Mantener en este dispositivo</string>
   <string name="data_wipe_from_device">Eliminar de este dispositivo</string>
   <string name="delete_device_btn">Quitar</string>
   <string name="delete_device_failed">"No se puede quitar el dispositivo"</string>
@@ -86,7 +86,7 @@
   <string name="facebook">Facebook</string>
   <string name="failed_get_mibi_info">No se pudo conseguir Crédito Mi</string>
   <string name="find_password_on_web_msg">Visite account.mi.com para restablecer su contraseña.</string>
-  <string name="forget_password">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+  <string name="forget_password"><u>Contraseña olvidada</u></string>
   <string name="get_back_pwd">Recuperar contraseña de la cuenta</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
   <string name="hide_mibi_info">La información de Crédito Mi se ha ocultado</string>
@@ -186,7 +186,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_error_verify_code">El código que ha introducido es incorrecto</string>
   <string name="passport_failed_to_send_activate_email">"No se pudo enviar el email de activación"</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para reiniciar su contraseña.</string>
-  <string name="passport_forget_password">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Contraseña olvidada</u></string>
   <string name="passport_get_back_pwd">Recuperar contraseña de la cuenta</string>
   <string name="passport_get_verify_code">Obtener código</string>
   <string name="passport_getting_verify_code">Obteniendo</string>
@@ -280,7 +280,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="register">Crear una cuenta</string>
   <string name="register_by_email">&lt;u&gt;Registro con email &lt;/u&gt;</string>
   <string name="relogin">Iniciar sesión de nuevo</string>
-  <string name="remove_account_notice">¿Qué quieres hacer con los mensajes, contactos, música y notas sobre este dispositivo que han sido sincronizados desde tu cuenta Mi?</string>
+  <string name="remove_account_notice">¿Qué quieres hacer con los mensajes, contactos, y otros datos que han sido sincronizados desde tu cuenta Mi?</string>
   <string name="remove_device_success_notice">Si elimina este dispositivo de sus dispositivos de confianza, puede que tenga que ir al proceso de verificación de nuevo al iniciar sesión.​</string>
   <string name="remove_trust_btn">Eliminar de dispositivos de confianza</string>
   <string name="remove_trust_notice">Eliminar de dispositivos de confianza y cerrar sesión</string>

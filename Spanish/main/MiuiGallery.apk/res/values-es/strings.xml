@@ -506,6 +506,8 @@
   <string name="comfirm_delete_current_album">¿Desea eliminar este álbum?</string>
   <string name="comma">, </string>
   <string name="confirm">Aceptar</string>
+  <string name="confirm_all_photo_are_this_people_face">¿Asociar todas las fotos con %s?</string>
+  <string name="confirm_all_photo_not_this_people_face">¿No asociar con %s?</string>
   <string name="confirm_delete">¿Eliminar %s fotos?</string>
   <string name="confirm_delete_album" formatted="false">¿Desea eliminar %s álbumes (%s elementos totales)?</string>
   <string name="confirm_delete_has_cloud_image_video">¿Eliminar %s elementos en la nube?</string>
@@ -669,6 +671,8 @@
   <string name="home_page_tab_local">Local</string>
   <string name="home_page_tab_photo">Fotos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="ignore_album">No mostrar</string>
+  <string name="ignore_alert_title">¿No mostrar este álbum?</string>
   <string name="ignore_face">Ignorar a esta persona</string>
   <string name="image_download_item_title">Descargar imagen (%s)</string>
   <string name="image_quota_fulfiled">Demasiadas imágenes. Borre algunas imágenes y vuelva a intentarlo.</string>
@@ -692,6 +696,7 @@
   <string name="internal_sdcard_root">Directorio raíz de SD interna</string>
   <string name="invalid_invition_url">URL de invitación no válida</string>
   <string name="invalid_recipient_message">Los nombres de los destinatarios que introdujo no son válidos</string>
+  <string name="is">¿Es %s?</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">"No se puede descargar esta foto porque no ha sido sincronizada con su nube."</string>
   <string name="item_not_sync_for_origin_video">"No se puede descargar este vídeo porque no ha sido sincronizado con su nube."</string>
@@ -729,7 +734,9 @@
   <string name="menu_item_sort_size_asc">Tamaño (ascendente)</string>
   <string name="menu_item_sort_size_desc">Tamaño (descendente)</string>
   <string name="menu_view_contact">Ver contacto</string>
-  <string name="merge_album_positive_button_text">Merge</string>
+  <string name="merge_album">Fusionar</string>
+  <string name="merge_album_positive_button_text">Fusionar</string>
+  <string name="merge_album_title">Fusionar álbumes</string>
   <string name="message_no_delete_access">"No tiene permiso para eliminar %s"</string>
   <string name="messagelist_sender_self">Yo</string>
   <string name="miliao">Mi Talk</string>
@@ -770,6 +777,7 @@
   <string name="no_thumbnail">Sin miniatura</string>
   <string name="none_picture">Sin imágenes</string>
   <string name="not_auto_create_recent_album">Deshacer crear favoritos</string>
+  <string name="not_is">¿No es %s?</string>
   <string name="not_now">Ahora no</string>
   <string name="not_show_hidden_albums">"No mostrar álbumes ocultos"</string>
   <string name="old">Vintage</string>
@@ -889,6 +897,7 @@
   <string name="select_auto_upload_albums">Seleccione álbumes a sincronizar</string>
   <string name="select_image">Seleccionar foto</string>
   <string name="select_item">Modo de edición</string>
+  <string name="select_item_face">"Fotos posibles con '%s'"</string>
   <string name="select_too_much_to_send_tips">"No puede enviar tantos elementos (máximo %d elementos)."</string>
   <string name="select_video">Seleccionar vídeo</string>
   <string name="send">Enviar</string>
