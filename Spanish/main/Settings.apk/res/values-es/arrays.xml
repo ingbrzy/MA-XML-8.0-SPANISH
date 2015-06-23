@@ -35,22 +35,6 @@
         <item>0</item>
         <item>1</item>
      </string-array>
-     <string-array name="always_enabled_app_list">
-        <item>com.android.contacts</item>
-        <item>com.android.mms</item>
-        <item>com.android.providers.applications</item>
-        <item>com.android.providers.calendar</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.android.providers.downloads</item>
-        <item>com.android.providers.drm</item>
-        <item>com.android.providers.media</item>
-        <item>com.android.providers.telephony</item>
-        <item>com.android.providers.userdictionary</item>
-        <item>com.miui.providers.userbook</item>
-        <item>com.miui.providers.weather</item>
-        <item>com.miui.yellowpage</item>
-        <item>com.miui</item>
-     </string-array>
      <string-array name="animator_duration_scale_entries">
         <item>Sin Animación</item>
         <item>Escala de animación .5x</item>
@@ -95,11 +79,6 @@
         <item>Almacenamiento interno del dispositivo</item>
         <item>Tarjeta SD extraíble</item>
         <item>Dejar decidir al sistema</item>
-     </string-array>
-     <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
      </string-array>
      <string-array name="app_ops_categories">
         <item>Ubicación</item>
@@ -256,16 +235,6 @@
         <item>20000</item>
         <item>-1</item>
      </string-array>
-     <string-array name="captioning_color_selector_titles">
-        <item>@string/color_white</item>
-        <item>@string/color_black</item>
-        <item>@string/color_red</item>
-        <item>@string/color_yellow</item>
-        <item>@string/color_green</item>
-        <item>@string/color_cyan</item>
-        <item>@string/color_blue</item>
-        <item>@string/color_magenta</item>
-     </string-array>
      <integer-array name="captioning_color_selector_values">
         <item>0xffffffff</item>
         <item>0xff000000</item>
@@ -402,12 +371,6 @@
         <item>PIN</item>
         <item>Contraseña</item>
      </string-array>
-     <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
-     </string-array>
      <string-array name="date_format_values">
         <item></item>
         <item>MM-dd-yyyy</item>
@@ -426,23 +389,10 @@
         <item>show_deuteranomaly</item>
         <item>count</item>
      </string-array>
-     <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
-     </string-array>
-     <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_custom</item>
-        <item>@string/dndm_vip_list_contact</item>
-     </string-array>
      <string-array name="dolby_bassboost_rank_valus">
         <item>0</item>
         <item>3</item>
         <item>6</item>
-     </string-array>
-     <string-array name="dolby_bassboost_ranks">
-        <item>@string/dolby_bassboost_low</item>
-        <item>@string/dolby_bassboost_normal</item>
-        <item>@string/dolby_bassboost_high</item>
      </string-array>
      <string-array name="dolby_equalizer_preset_values">
         <item>0,0,0,0,0,0,0</item>
@@ -458,20 +408,10 @@
         <item>16,12,-24,-24,-16,12,16</item>
         <item>24,14,-20,6,12,16,8</item>
      </string-array>
-     <string-array name="dolby_mode_entries">
-        <item>@string/dolby_mode_off</item>
-        <item>@string/dolby_mode_music</item>
-        <item>@string/dolby_mode_movie</item>
-     </string-array>
      <string-array name="dolby_roomsize_rank_valus">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-     </string-array>
-     <string-array name="dolby_roomsize_ranks">
-        <item>@string/dolby_roomsize_low</item>
-        <item>@string/dolby_roomsize_normal</item>
-        <item>@string/dolby_roomsize_high</item>
      </string-array>
      <string-array name="dream_timeout_entries">
         <item>Nunca</item>
@@ -549,12 +489,6 @@
         <item>22</item>
         <item>27</item>
      </integer-array>
-     <string-array name="font_size_title">
-        <item>@string/font_size_small</item>
-        <item>@string/font_size_normal</item>
-        <item>@string/font_size_medium</item>
-        <item>@string/font_size_large</item>
-     </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5 pulgadas</item>
         <item>4.0 pulgadas</item>
@@ -584,21 +518,6 @@
         <item>No comprobar</item>
         <item>Comprobar sólo contenido DRM</item>
         <item>Comprobar siempre</item>
-     </string-array>
-     <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
-     </string-array>
-     <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-     </string-array>
-     <string-array name="input_method_selector_values">
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
      </string-array>
      <string-array name="install_non_market_app_contents">
         <item>Solicitar permiso</item>
@@ -720,25 +639,11 @@
         <item>\#FF5500FF</item>
         <item>\#FFAA00AA</item>
      </string-array>
-     <string-array name="mi2_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-     </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP y anterior</item>
         <item>Windows Vista y posterior</item>
         <item>OSX</item>
         <item>Linux</item>
-     </string-array>
-     <string-array name="msd_pc_system_download_summary">
-        <item>@string/msd_driver_download_xp</item>
-        <item></item>
-        <item>@string/msd_driver_download_mac</item>
-        <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
@@ -760,14 +665,6 @@
         <item>Acceder a dispositivo montado: mtpfs /media/mtp via file explorer; same as local directory</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
 Nota: Solo para Ubuntu 8.04!"</item>
-     </string-array>
-     <string-array name="msd_pc_system_retry_mac">
-        <item>@string/msd_install_retry_reinstall_mac</item>
-        <item>@string/msd_install_retry_connect</item>
-        <item>@string/msd_install_retry_reinstall</item>
-     </string-array>
-     <string-array name="msd_pc_system_retry_vista">
-        <item>@string/msd_install_retry_connect</item>
      </string-array>
      <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -934,14 +831,6 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>Cerrar aplicación actual</item>
         <item>Mostrar menú</item>
      </string-array>
-     <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
-        <item>show_menu</item>
-     </string-array>
      <string-array name="screen_key_long_press_timeout">
         <item>0.5 segundos</item>
         <item>1 segundo</item>
@@ -957,10 +846,6 @@ Nota: Solo para Ubuntu 8.04!"</item>
      <string-array name="screen_key_press_action">
         <item>Mostrar bandeja de aplicaciones recientes</item>
         <item>Mostrar menú</item>
-     </string-array>
-     <string-array name="screen_key_press_action_value">
-        <item>recent_panel</item>
-        <item>show_menu</item>
      </string-array>
      <string-array name="screen_optimize_summary">
         <item>Optimizar contraste para la luz disponible</item>
@@ -1019,11 +904,6 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>Dibujar regiones no rectangulares de los clip en azul</item>
         <item>Remarcar comandos de dibujo testeados en verde</item>
      </string-array>
-     <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
-     </string-array>
      <string-array name="slideshow_time_entries">
         <item>5 minutos</item>
         <item>15 minutos</item>
@@ -1068,12 +948,6 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>En pantalla como barras</item>
         <item>En pantalla como líneas</item>
         <item>En adb shell dumpsys gfxinfo</item>
-     </string-array>
-     <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>visual_lines</item>
-        <item>true</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Sin Animación</item>
@@ -1236,11 +1110,6 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>2</item>
         <item>3</item>
      </string-array>
-     <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa</item>
-        <item>@string/wifi_security_wpa2</item>
-     </string-array>
      <string-array name="wifi_connect_type_entries">
         <item>Conectar automáticamente</item>
         <item>Conectar manualmente</item>
@@ -1316,19 +1185,6 @@ Nota: Solo para Ubuntu 8.04!"</item>
      <string-array name="wifi_proxy_settings">
         <item>Ninguno</item>
         <item>Manual</item>
-     </string-array>
-     <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-     </string-array>
-     <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
      </string-array>
      <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
