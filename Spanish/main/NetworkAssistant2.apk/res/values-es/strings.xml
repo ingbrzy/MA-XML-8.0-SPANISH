@@ -39,6 +39,7 @@
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">"Ha superado el límite de datos diarios."</string>
   <string name="daily_pkg_traffic">Establecer límite de uso de datos</string>
+  <string name="data_network_blocked_notification_title">No hay conexión a internet</string>
   <string name="data_usage_correction_timeout_body">Toque para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Agotado el tiempo  para sincronizar uso de datos</string>
   <string name="data_usage_disabled_dialog">Ha alcanzado el límite de uso de datos. El uso excesivo de su tarifa de datos puede ocasionar gastos adicionales</string>
@@ -187,6 +188,10 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="mi_service_traffic_detail">Detalles de Marco</string>
   <string name="network_assistant_upgraded_body">Toque para ver los detalles.</string>
   <string name="network_assistant_upgraded_title">Actualización terminada</string>
+  <string name="network_blocked_connected_open_wifi">Conectado a red pública</string>
+  <string name="network_blocked_notification_summary">Pulse para ver detalles.</string>
+  <string name="network_blocked_switch_wifi">Cambiar redes</string>
+  <string name="network_connected_exception_title">Comprobar red</string>
   <string name="network_control">Ver ajustes de la aplicación</string>
   <string name="network_diagnostics">Comprobar red</string>
   <string name="none_mi_service_app_detail">Vacío</string>
@@ -389,14 +394,14 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_limit_error_alert_title">Recordatorio límite de datos %s</string>
   <string name="traffic_none">Ninguno</string>
   <string name="traffic_over_purchase_body">Toque para ver los detalles.</string>
-  <string name="traffic_over_purchase_link">"Ha alcanzado el límite de uso del plan de datos móviles.&lt;br/&gt;Si sobrepasa el límite de uso del plan de datos móviles, su operador podría cobrarle gastos adicionales.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Pulse para recargar su saldo.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Ha alcanzado el límite de uso del plan de datos móviles.&lt;br/&gt;Si sobrepasa el límite de uso del plan de datos móviles, su operador podría cobrarle gastos adicionales.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;<u>Pulse para recargar su saldo.</u>&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Límite de datos excedido</string>
   <string name="traffic_protection_data_usage_summary">"Establecer alertas de uso de datos para evitar exceder los límites mensuales de datos del plan del operador."</string>
   <string name="traffic_protection_label">Aviso de uso de datos</string>
   <string name="traffic_protection_next">Siguiente</string>
   <string name="traffic_protection_summary">Establecer alertas para cuando el uso de datos alcance cierto valor</string>
   <string name="traffic_protection_text_hint">Establecer límite de uso de datos en %s</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Configurar más tarde&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown"><u>Configurar más tarde</u></string>
   <string name="traffic_protection_use_data">Datos activados</string>
   <string name="traffic_purchase_body">Pulse para recargar su saldo.</string>
   <string name="traffic_purchse_suggestion">Límite de datos excedido</string>
@@ -458,7 +463,7 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_setting_step_num">Ajustes plan de datos</string>
   <string name="traffic_setting_update_template_falure">"No se puede conectar a la red"</string>
   <string name="traffic_warning_purchase_title">Advertencia de uso de datos móviles</string>
-  <string name="unable_connect_internet">"No se puede conectar a la red"</string>
+  <string name="unable_connect_internet">No hay conexión a internet</string>
   <string name="usage_sorted_activity_lable">Uso de datos</string>
   <string name="usage_sorted_empty_text">Vacío</string>
   <string name="usage_sorted_loading_text">Cargando…</string>
@@ -466,4 +471,5 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="usbsharenet_exception_title">Comprobar red compartida por USB</string>
   <string name="wifi_exception_summary">Comprobar conexiones de red Wi-Fi disponibles</string>
   <string name="wifi_exception_title">Comprobar red Wi-Fi</string>
+  <string name="wifi_network_blocked_notification_title">No hay conexión a internet</string>
 </resources>
