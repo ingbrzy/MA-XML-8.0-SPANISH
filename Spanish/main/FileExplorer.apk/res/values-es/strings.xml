@@ -28,6 +28,7 @@
   <string name="category_music">Música</string>
   <string name="category_other">Otros</string>
   <string name="category_picture">Imágenes</string>
+  <string name="category_recent">Recientes</string>
   <string name="category_theme">Temas</string>
   <string name="category_type_document">Documentos</string>
   <string name="category_type_meida">Multimedia</string>
@@ -60,7 +61,7 @@
   <string name="decompress_fail">Extracción fallida: existe un archivo con el mismo nombre o el archivo está corrupto.</string>
   <string name="decompress_success">Extracción completada</string>
   <string name="decompress_to">Extraer en…</string>
-  <string name="decompress_to_here">Extraer aquí;</string>
+  <string name="decompress_to_here">Extraer aquí</string>
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_failed">"No se puede eliminar"</string>
   <string name="delete_file">¿Eliminar este archivo?</string>
@@ -121,6 +122,7 @@
   <string name="gbk_title">GBK</string>
   <string name="get_cloud_space">Añadir 500GB</string>
   <string name="gigabyteShort">GB</string>
+  <string name="group_title">%2$s de %1$s</string>
   <string name="instruction">Introduzca la siguiente dirección en un cliente FTP:</string>
   <string name="instruction_pre">Tocar para iniciar el servidor FTP</string>
   <string name="kilobyteShort">KB</string>
@@ -265,6 +267,9 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="sd_card_available">Disponible: %1$s</string>
   <string name="sd_card_size">Tarjeta SD: %1$s</string>
   <string name="sd_full">La tarjeta SD está llena.</string>
+  <string name="sdcard">Tarjeta SD</string>
+  <string name="sdcard_available">Disponible %1$s</string>
+  <string name="sdcard_total">Total %1$s</string>
   <string name="search_hint">Buscar</string>
   <string name="search_title">Buscar</string>
   <string name="send_to_midrive">KuaiPan</string>
@@ -297,8 +302,13 @@ Espacio gratuito añadido %1$s"</string>
   <string name="tab_category">Categorías</string>
   <string name="tab_expand">Expandir</string>
   <string name="tab_local">Local</string>
+  <string name="tab_more">más</string>
   <string name="tab_path">CARPETAS</string>
+  <string name="tab_source">APLICACIONES</string>
+  <string name="tab_storage">ALMACENAMIENTO</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_more_source">Más aplicaciones</string>
+  <string name="title_recent">Recientes</string>
   <string name="toast_file_not_can_read">No se encontró ninguna aplicación para realizar esta acción.</string>
   <string name="tools">HERRAMIENTAS</string>
   <string name="trans_task">Transferencia por red</string>
