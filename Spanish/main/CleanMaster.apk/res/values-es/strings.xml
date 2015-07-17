@@ -7,9 +7,12 @@
      <string name="activity_title_cache_data">Caché</string>
      <string name="activity_title_deep_clean">Limpieza profunda</string>
      <string name="activity_title_garbage_cleanup">Limpiador</string>
+	 <string name="activity_title_ignored_image">Ignoradas</string>
+	 <string name="activity_title_image_gallery">Borrar duplicadas</string>
      <string name="activity_title_large_file">Archivos pesados</string>
      <string name="activity_title_residual">Archivos residuales</string>
      <string name="activity_title_settings">Ajustes</string>
+	 <string name="activity_title_similar_image_group">Borrar duplicadas</string>
      <string name="activity_title_uninstall_apps">Aplicaciones</string>
      <string name="activity_title_white_list">Excepciones</string>
      <string name="apk_status_damage">Corrupto</string>
@@ -58,6 +61,8 @@
      <string name="dialog_title_check_all">Seleccionar todo</string>
      <string name="dialog_title_load_cleanup_engine_error">Algo salió mal</string>
      <string name="dialog_title_uninstall_apps">Desinstalar</string>
+	 <string name="empty_content_no_ignore_image">Vacío</string>
+	 <string name="empty_content_no_similar_image">No hay duplicadas</string>
      <string name="empty_title_ad">No se encontraron ficheros de publicidad</string>
      <string name="empty_title_apk">No se encontraron paquetes de instalación</string>
      <string name="empty_title_garbage_cache">Caché limpia</string>
@@ -139,6 +144,10 @@
      <string name="pref_title_garbage_process_mode">Notificaciones</string>
      <string name="pref_title_manual_check_cleanup_db_update">Actualizar ahora</string>
      <string name="pref_title_open_optimizer_cloud_scan">Subir</string>
+	 <string name="similar_image_desc">Borrar fotos duplicadas de Galería</string>
+	 <string name="similar_image_empty">No se han encontrado duplicadas</string>
+	 <string name="similar_image_scaning">Comprobando…</string>
+	 <string name="similar_image_title">Borrar duplicadas</string>
      <string name="summary_auto_cleaner">¿Limpiar su sistema automáticamente cada 3 días?</string>
      <string name="summary_delete_cache">Algunas aplicaciones pueden requerir estos datos para funcionar con normalidad.</string>
      <string name="summary_delete_large_file">"Algunos archivos de gran tamaño pueden ser útiles cuando no tiene una conexión a internet (por ejemplo, mapas, horarios, etc.). Asegúrese de que no necesita este archivo."</string>
