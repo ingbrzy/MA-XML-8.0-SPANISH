@@ -36,6 +36,7 @@
   <string name="connect_internet_by_usbshare">Conectar a internet usando USB</string>
   <string name="connect_internet_by_wifi">Conectar a internet usando Wi-Fi</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
+  <string name="daily_limit_and_lock_screen">Uso diario de datos &amp; notificaciones</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Toque para encender los datos móviles.</string>
   <string name="daily_limit_over_message">"Ha superado el límite de datos diarios."</string>
@@ -140,6 +141,10 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="lock_screen_traffic_notify_body">Bloqueado por %2$s a %1$s, datos usados %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Comprar datos móviles</string>
   <string name="lock_screen_traffic_warn_title">Aviso de uso de datos</string>
+  <string name="lock_screen_warning_category">Notificaciones en pantalla de bloqueo</string>
+  <string name="lock_screen_warning_switch_summary">Mostrar advertencias en pantalla de bloqueo cuando el uso de datos exceda de una determinada cantidad</string>
+  <string name="lock_screen_warning_switch_title">Mostrar advertencias en pantalla de bloqueo</string>
+  <string name="lock_screen_warning_value">Cantidad de advertencia de uso de datos</string>
   <string name="main_alert_message_month_limit_error">El límite de datos que ha establecido es incorrecto</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">"No se ha establecido límite de datos"</string>
@@ -195,6 +200,8 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="network_connected_exception_title">Comprobar red</string>
   <string name="network_control">Ver ajustes de la aplicación</string>
   <string name="network_diagnostics">Comprobar red</string>
+  <string name="network_speed_for_apps_title">Detalles de velocidad de conexión</string>
+  <string name="network_speed_for_apps_total">Velocidad de conexión</string>
   <string name="none_mi_service_app_detail">Vacío</string>
   <string name="notify_daily_data_usage_body">%s usado hoy. Toque para establecer el límite.</string>
   <string name="notify_daily_limit_body">%s usado hoy. Toque para establecer el límite.</string>
@@ -275,6 +282,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_specified_traffic_settings">Ajustes de límite de datos</string>
   <string name="pref_title_declaration">Cláusula importante</string>
   <string name="pref_title_diagnostics_dont_show_float_notification">Mostrar alertas en área de notificación</string>
+  <string name="pref_title_diagnostics_show_float_notification">Notificaciones flotantes</string>
   <string name="pref_title_mobile_traffic">Mostrar el uso de datos mientras estaba bloqueado</string>
   <string name="pref_title_network_diagnostics">Diagnosticar la red</string>
   <string name="pref_title_over_traffic_limit_warning">Cuando se supere</string>
