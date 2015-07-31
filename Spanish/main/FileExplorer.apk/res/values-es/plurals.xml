@@ -64,4 +64,68 @@
         <item quantity="few"> (%1$d elementos)</item>
         <item quantity="many"> (%1$d elementos)</item>
     </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="zero">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="one">Fichero relacionado con la aplicación %1$s (%2$d elemento)</item>
+        <item quantity="two">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="few">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="many">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Ficheros relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="zero">Ficheros relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="one">Fichero relacionado con %1$s (%2$d elemento)</item>
+        <item quantity="two">Ficheros relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="few">Ficheros relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="many">Ficheros relacionados con %1$s (%2$d elementos)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="zero">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="one">Fichero relacionado con la etiqueta %1$s (%2$d elemento)</item>
+        <item quantity="two">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="few">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="many">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Hace %1$d minutos</item>
+        <item quantity="zero">Hace %1$d minutos</item>
+        <item quantity="one">Hace %1$d minuto</item>
+        <item quantity="two">Hace %1$d minutos</item>
+        <item quantity="few">Hace %1$d minutos</item>
+        <item quantity="many">Hace %1$d minutos</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Hace %1$d horas</item>
+        <item quantity="zero">Hace %1$d horas</item>
+        <item quantity="one">Hace %1$d hora</item>
+        <item quantity="two">Hace %1$d horas</item>
+        <item quantity="few">Hace %1$d horas</item>
+        <item quantity="many">Hace %1$d horas</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Hace %1$d días</item>
+        <item quantity="zero">Hace %1$d días</item>
+        <item quantity="one">Hace %1$d día</item>
+        <item quantity="two">Hace %1$d días</item>
+        <item quantity="few">Hace %1$d días</item>
+        <item quantity="many">Hace %1$d días</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Encontrados %1$d nuevos ficheros</item>
+        <item quantity="zero">Encontrados %1$d nuevos ficheros</item>
+        <item quantity="one">Encontrados %1$d nuevo fichero</item>
+        <item quantity="two">Encontrados %1$d nuevos ficheros</item>
+        <item quantity="few">Encontrados %1$d nuevos ficheros</item>
+        <item quantity="many">Encontrados %1$d nuevos ficheros</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Recibidos %1$d ficheros de %2$s</item>
+        <item quantity="zero">Recibidos %1$d ficheros de %2$s</item>
+        <item quantity="one">Recibido %1$d fichero de %2$s</item>
+        <item quantity="two">Recibidos %1$d ficheros de %2$s</item>
+        <item quantity="few">Recibidos %1$d ficheros de %2$s</item>
+        <item quantity="many">Recibidos %1$d ficheros de %2$s</item>
+    </plurals>
 </resources>

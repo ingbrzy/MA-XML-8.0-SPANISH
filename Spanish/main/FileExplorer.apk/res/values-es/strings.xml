@@ -7,6 +7,7 @@
   <string name="adding_upload_tasks">Añadiendo tareas#8230;</string>
   <string name="already_signin_description">"Ya te has registrado hoy."</string>
   <string name="app_name">Explorador</string>
+  <string name="archive_send_to">Enviar a…</string>
   <string name="background">Ocultar</string>
   <string name="big5_summary">Codificación predeterminada de Chino tradicional de Windows</string>
   <string name="big5_title">BIG5</string>
@@ -27,6 +28,7 @@
   <string name="category_log">Registros</string>
   <string name="category_music">Música</string>
   <string name="category_other">Otros</string>
+  <string name="category_photo">Fotos</string>
   <string name="category_picture">Imágenes</string>
   <string name="category_recent">Recientes</string>
   <string name="category_theme">Temas</string>
@@ -58,6 +60,7 @@
   <string name="data_capacity">Datos %1$s</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extraer</string>
+  <string name="decompress_destination_error">"Extracción fallida: no se pueden extraer los ficheros aquí"</string>
   <string name="decompress_fail">Extracción fallida: existe un archivo con el mismo nombre o el archivo está corrupto.</string>
   <string name="decompress_success">Extracción completada</string>
   <string name="decompress_to">Extraer en…</string>
@@ -70,6 +73,7 @@
   <string name="delete_folders">¿Eliminar las %1$d carpetas?</string>
   <string name="delete_selected_tasks">¿Eliminar lo seleccionado?</string>
   <string name="des_running_trans">%1$d archivos no han sido transferidos.</string>
+  <string name="dialog_confirm">Aceptar</string>
   <string name="dialog_select_type">Elegir tipo</string>
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Imágenes</string>
@@ -87,6 +91,7 @@
   <string name="error_filename_too_long">El nombre de archivo introducido es demasiado largo.</string>
   <string name="error_info_cant_send_folder">"No se puede enviar este tipo de archivo."</string>
   <string name="error_open_file_failed_no_app_found">No se encontró ninguna aplicación para realizar esta acción.</string>
+  <string name="expand_all">Todo</string>
   <string name="fail_to_create_folder">No hay suficiente espacio o la carpeta ya existe.</string>
   <string name="fail_to_create_folder_unknown">"No se puede crear la carpeta"</string>
   <string name="fail_to_rename">Ya existe un fichero con el mismo nombre.</string>
@@ -102,11 +107,13 @@
   <string name="file_info_modified">Última modificación:</string>
   <string name="file_info_size">Tamaño:</string>
   <string name="file_loading">Cargando…</string>
+  <string name="file_name_invalid">"Los nombres de fichero no pueden contener los siguientes caracteres: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">El archivo no existe</string>
   <string name="file_too_large">El archivo es demasiado grande</string>
   <string name="files">Archivos</string>
   <string name="finished">Completado</string>
   <string name="folder_exist">La carpeta ya existe.</string>
+  <string name="folder_name_empty">El nombre de la carpeta no puede estar vacío</string>
   <string name="folder_name_illegal">Nombre de carpeta no válido</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Tocar&lt;/a&gt;para ir a la papelera</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras y números, mayúsculas y minúsculas</string>
@@ -125,6 +132,7 @@
   <string name="group_title">%2$s de %1$s</string>
   <string name="instruction">Introduzca la siguiente dirección en un cliente FTP:</string>
   <string name="instruction_pre">Tocar para iniciar el servidor FTP</string>
+  <string name="just_now">Ahora</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Categoría</string>
   <string name="kp_category_doc">Word</string>
@@ -138,6 +146,7 @@
   <string name="kuaipan_data_formater_without_year">d-M</string>
   <string name="kuaipan_delete_guide_des">¿Eliminar guía?</string>
   <string name="kuaipan_delete_success">Foto borrada</string>
+  <string name="kuaipan_info">Ficheros KuaiPan</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">No hay espacio suficiente.</string>
   <string name="kuaipan_photo_folder_divider">,</string>
@@ -150,6 +159,7 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="kuaipan_root_fooder">Inicio</string>
   <string name="kuaipan_tech_support">Iniciar sesión en kuaipan.cn</string>
   <string name="load_err">"No se puede cargar"</string>
+  <string name="load_more">Ver más</string>
   <string name="loading">Cargando…</string>
   <string name="login_reg_content">Almacene archivos y sincronícelos en múltiples dispositivos.</string>
   <string name="login_reg_content0">Use KuaiPan desde cualquier parte.</string>
@@ -168,6 +178,7 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="migrate_announcement_title">Traslado completado</string>
   <string name="mobile_photo">Fotos del teléfono</string>
   <string name="mobile_photo_desc"/>
+  <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"No se puede cortar"</string>
   <string name="multi_select_title">%1$s seleccionados</string>
   <string name="my_app">Datos de la aplicación</string>
@@ -204,16 +215,24 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="never_notify_network_connect">"Recordar preferencia"</string>
   <string name="new_folder_name">Carpeta sin nombre</string>
   <string name="no">No</string>
+  <string name="no_app_tags">Vacío</string>
   <string name="no_display_file">"No se puede mostrar %1$s"</string>
   <string name="no_enough_storage_indication">"El espacio de almacenamiento del dispositivo está lleno."</string>
   <string name="no_enough_storage_title">No hay espacio suficiente</string>
   <string name="no_file">Vacío</string>
   <string name="no_more_space">No hay espacio suficiente.</string>
+  <string name="no_recent_files">No hay ficheros recientes</string>
   <string name="no_tasks">No hay tareas.</string>
   <string name="no_wifi">No hay ninguna red detectada</string>
   <string name="no_wifi_hint">No hay conexión</string>
   <string name="notif_server_starting">Iniciando servidor FTP…</string>
   <string name="notif_title">El servidor FTP está funcionando</string>
+  <string name="notification_dialog_confirm">Aceptar</string>
+  <string name="notification_dialog_content">Notificar automáticamente y organizar cuando se añadan o cambien ficheros en %1$s.</string>
+  <string name="notification_dialog_title">Notificaciones</string>
+  <string name="notification_setting">Notificaciones</string>
+  <string name="notification_summary">"%1$s no permite esta característica actualmente"</string>
+  <string name="notification_title">Notificar cuando se añadan nuevos ficheros a %1$s</string>
   <string name="open_changed_file_message">"El archivo que estás intentando abrir ha sido modificado. Por favor:
 1. Descargar el archivo de nuevo para actualizarlo.
 2. Subirlo a tu cuenta de KuaiPan"</string>
@@ -221,6 +240,7 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="open_file_failed">No se puede abrir</string>
   <string name="operate_confirm_in_3g">¿Usar conexión de datos móviles para descargar este archivo grande?</string>
   <string name="operating">Procesando…</string>
+  <string name="operation_add_fav">Añadiendo a favoritos…</string>
   <string name="operation_agree">Permitir</string>
   <string name="operation_cancel">Cancelar</string>
   <string name="operation_compress">Comprimir</string>
@@ -231,6 +251,7 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="operation_create_folder">Crear nueva carpeta</string>
   <string name="operation_create_folder_message">Nombre de la carpeta</string>
   <string name="operation_decompressing">Extrayendo…</string>
+  <string name="operation_del_fav">Eliminando de favoritos…</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_delete_confirm_message">¿Eliminar?</string>
   <string name="operation_delete_confirm_message_folder">"Se eliminará todo el contenido de la carpeta. "</string>
@@ -260,18 +281,53 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="paused">En pausa</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Teléfono</string>
+  <string name="port_range">El puerto debe estar entre 1024 y 65535</string>
   <string name="pull_to_signin">Deslizar hacia abajo para registrarte.</string>
   <string name="release_to_signin">Soltar para registrarte</string>
+  <string name="rename_alert">"Si cambias la extensión de este fichero, puede que no lo consigas abrir."</string>
   <string name="rename_description">Renombrando…</string>
   <string name="rename_failed">"No se puede renombrar %1$s"</string>
+  <string name="rlv_last_refreshing_time">Último escaneo %1$s</string>
+  <string name="rlv_loading_more">Un momento…</string>
+  <string name="rlv_pull_to_refresh">Tirar para recargar</string>
+  <string name="rlv_refreshing">Escaneando ficheros…</string>
+  <string name="rlv_release_to_refresh">Soltar para recargar</string>
   <string name="sd_card_available">Disponible: %1$s</string>
   <string name="sd_card_size">Tarjeta SD: %1$s</string>
   <string name="sd_full">La tarjeta SD está llena.</string>
   <string name="sdcard">Tarjeta SD</string>
   <string name="sdcard_available">Disponible %1$s</string>
   <string name="sdcard_total">Total %1$s</string>
+  <string name="search_activity_hint">Introducir palabra clave</string>
+  <string name="search_app">Fuente</string>
+  <string name="search_app_more">Más</string>
+  <string name="search_category">Tipo</string>
+  <string name="search_empty_view_hint">No hay resultados</string>
+  <string name="search_error_hint">Introducir palabras clave para buscar</string>
+  <string name="search_file_type_apk">Apk</string>
+  <string name="search_file_type_doc">Doc</string>
+  <string name="search_file_type_music">Música</string>
+  <string name="search_file_type_other">Otros</string>
+  <string name="search_file_type_picture">Foto</string>
+  <string name="search_file_type_video">Vídeo</string>
   <string name="search_hint">Buscar</string>
+  <string name="search_keyword">Etiquetas</string>
+  <string name="search_keyword_buy">Compras</string>
+  <string name="search_keyword_game">Juegos</string>
+  <string name="search_keyword_im">Chat</string>
+  <string name="search_keyword_messge">Mensajes</string>
+  <string name="search_keyword_news">Noticias</string>
+  <string name="search_keyword_wallet">Cartera</string>
+  <string name="search_result_hint1">Relacionado</string>
+  <string name="search_result_hint2">Todo</string>
+  <string name="search_result_hint3">" "</string>
+  <string name="search_result_hint4"/>
+  <string name="search_result_hint5"/>
+  <string name="search_result_hint6">(%d elementos)</string>
+  <string name="search_result_hint7">(%d)</string>
+  <string name="search_result_more">Más</string>
   <string name="search_title">Buscar</string>
+  <string name="search_title_hint">Buscar</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Este tipo de archivo no está soportado.</string>
   <string name="server_control_advanced_settings">Ajustes FTP</string>
@@ -293,6 +349,7 @@ Espacio gratuito añadido %1$s"</string>
   <string name="stay_awake_summary">La pantalla no se apagará durante el uso del FTP</string>
   <string name="stay_awake_title">Permanecer encendido</string>
   <string name="stop_server">Detener el servidor</string>
+  <string name="storage_info">%1$s disponibles</string>
   <string name="storage_internal">Almacenamiento interno</string>
   <string name="storage_sd_card">Tarjeta SD</string>
   <string name="storage_usb">Almacenamiento USB</string>
@@ -346,7 +403,10 @@ Espacio gratuito añadido %1$s"</string>
   <string name="wait_wifi">Esperando Wi-Fi</string>
   <string name="waiting">Esperando</string>
   <string name="wangpan_root_path">Mi unidad</string>
+  <string name="wechat_video">Vídeo en %s</string>
   <string name="wifi_state">Red Wi-Fi</string>
   <string name="xiaomi_account">Cuenta Mi</string>
+  <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Sí</string>
+  <string name="yesterday">Ayer</string>
 </resources>
