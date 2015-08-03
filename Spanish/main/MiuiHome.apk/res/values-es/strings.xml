@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"La aplicación no está instalada en su teléfono"</string>
-  <string name="app_being_backup_message">La aplicación está en copia de respaldo.</string>
+  <string name="app_already_exist">La aplicación ya existe</string>
+  <string name="app_being_backup_message">La aplicación está siendo copiada</string>
+  <string name="app_being_restored_message">La aplicación está siendo restaurada</string>
   <string name="app_category_books">Libros</string>
   <string name="app_category_education">Educación</string>
   <string name="app_category_entertainment">Entretenimiento</string>
@@ -37,6 +39,7 @@
   <string name="cant_remove_folder">"No se puede borrar la carpeta"</string>
   <string name="cant_remove_retained_app">"No se puede desinstalar esta aplicación"</string>
   <string name="cant_remove_system_app">"No se puede desinstalar la aplicación del sistema"</string>
+  <string name="choose_theme">Tema</string>
   <string name="choose_wallpaper">Elegir fondo de pantalla</string>
   <string name="chooser_wallpaper">Elegir fondo de pantalla desde</string>
   <string name="cloud_app_restore_title">Pendiente</string>
@@ -49,9 +52,11 @@
   <string name="default_folder_title_recommend">Más aplicaciones</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Herramientas</string>
+  <string name="default_theme_name">Por defecto</string>
   <string name="delete">Borrar</string>
   <string name="delete_wallpaper_message">¿Borrar %1$d fondo de pantalla?</string>
   <string name="delete_wallpapers_message">¿Borrar %1$d fondos de pantalla?</string>
+  <string name="deselect_all">Deseleccionar todo</string>
   <string name="disable_wallpaper_scroll">Desactivar desplazamiento lateral</string>
   <string name="download_action">Descargar</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -132,7 +137,8 @@
   <string name="invalid_contact_shortcut">Contacto no válido</string>
   <string name="is_setting_wallpaper_toast">Estableciendo fondo de pantalla…</string>
   <string name="is_system_wallpaper_message">"No se pueden eliminar recursos del sistema"</string>
-  <string name="loading_desktop">Cargando launcher</string>
+  <string name="loading_desktop">Un momento…</string>
+  <string name="loading_wallpaper">Un momento…</string>
   <string name="local_wallpaper">Descargado</string>
   <string name="lock_screen_failed_message">"No se puede aplicar"</string>
   <string name="lock_screen_success_message">Aplicado</string>
@@ -150,7 +156,7 @@
   <string name="menu_sort">Ordenar aplicaciones</string>
   <string name="menu_wallpaper">Fondo de pantalla</string>
   <string name="menu_workspace_preview">Previsualizar pantallas de inicio</string>
-  <string name="mi_wallpaper">MIUI Theme Store</string>
+  <string name="mi_wallpaper">Tienda de Temas MIUI</string>
   <string name="mtzgadget_missing_text">"No ha proporcionado por más tiempo, por favor, agregue de nuevo"</string>
   <string name="multi_selecting_tips">Para recoger una aplicación, toque su icono</string>
   <string name="online_wallpaper">En línea</string>
@@ -184,8 +190,14 @@
   <string name="preferences_general_title">Ajustes adicionales</string>
   <string name="preferences_title">Ajustes del launcher</string>
   <string name="process"/>
+  <string name="recommend_apps_default_title">Vacío</string>
+  <string name="recommend_apps_notice">Aplicaciones recomendadas</string>
+  <string name="recommend_apps_switch_summary">Mostrar aplicaciones recomendadas en la parte inferior de la pantalla.</string>
+  <string name="recommend_apps_switch_title">Aplicaciones recomendadas</string>
+  <string name="recommend_apps_tips">"Esta funcionalidad necesita una conexión a internet. Para desactivar esta funcionalidad toca el nombre de esta carpeta."</string>
   <string name="reset_scene_prompt">Pantalla se restablecerá a disposición por defecto.</string>
   <string name="scroll_tip_format_when_announce_accessibility">Página %1$d, %2$d apps</string>
+  <string name="select_all">Seleccionar todo</string>
   <string name="select_frame">Marco</string>
   <string name="select_photo">Foto</string>
   <string name="setting_wallpaper_tip">Pellizque o deslice para ajustar</string>
@@ -227,7 +239,9 @@
   <string name="unnamed_folder_name">Carpeta sin nombre</string>
   <string name="wallpaper">Fondo de pantalla</string>
   <string name="wallpaper_failed_message">"No se puede aplicar el fondo de pantalla"</string>
+  <string name="wallpaper_scrolling">todo</string>
   <string name="wallpaper_settings">Fondo de pantalla</string>
+  <string name="wallpaper_settings_for_pad">Fondo de pantalla</string>
   <string name="wallpaper_success_message">Fondo de pantalla aplicado</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Contactos favoritos</string>
