@@ -78,16 +78,14 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="error_unauthorized">La sincronización se ha desactivado debido a demasiados intentos de iniciar sesión.</string>
   <string name="error_unknown">No se puede iniciar sesión</string>
   <string name="find_device">Encontrar dispositivo activado</string>
-  <string name="find_device_disabled_notice">Puede activar la función de Encontrar dispositivo en Ajustes &gt; Cuentas y Sincronización &gt; Mi Cloud</string>
+  <string name="find_device_disabled_notice">Puedes activar o desactivar esta función en los ajustes de Mi Cloud</string>
   <string name="find_device_disabled_title">Encontrar Dispositivo desactivado</string>
   <string name="find_device_disabling">Apagando…</string>
   <string name="find_device_dspt">Localizar, bloquear o borrar el dispositivo de forma remota.</string>
-  <string name="find_device_dspt_provision">Si pierde su dispositivo, puede ir a </string>
+  <string name="find_device_dspt_provision">Si pierdes tu dispositivo puedes ir a %s para localizarlo, bloquearlo, o resetearlo. Puedes activar o desactivar esta función en los ajustes.</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">" para localizar, bloquear o borrarlo.
- 
-Puede activar o desactivar esta característica en cualquier momento en Ajustes."</string>
+  <string name="find_device_dspt_provision_3">Puedes activar o desactivar esta función en los ajustes</string>
   <string name="find_device_dspt_provision_4">Si cambia de tarjetas SIM, se enviará automáticamente un mensaje SMS para reactivar esta función.</string>
   <string name="find_device_enabling">Encendiendo…</string>
   <string name="find_device_error_network">Compruebe su conexión de datos y vuelva a intentarlo.</string>
@@ -124,6 +122,7 @@ Inicie sesión en su cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
   <string name="micloud_check_sim_title">"Parece que has cambiado las tarjetas SIM. Entre
 en su cuenta Mi para reactivar Mi Cloud."</string>
+  <string name="micloud_detail_download_syncing">Descargando %s</string>
   <string name="micloud_detail_fail">"Falló"</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
   <string name="micloud_detail_pending">Pendiente</string>
@@ -131,6 +130,7 @@ en su cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_preference_wlan">Sincronizar por Wi-Fi</string>
   <string name="micloud_detail_success">Sincronizado</string>
   <string name="micloud_detail_syncing">Sincronizando</string>
+  <string name="micloud_detail_upload_syncing">Subiendo %s</string>
   <string name="micloud_detail_wlan">%d datos no sincronizados</string>
   <string name="micloud_detail_wlan_contact">%d fotos de contacto no sincronizadas</string>
   <string name="micloud_detail_wlan_mms">%d mms no sincronizados</string>
@@ -219,9 +219,10 @@ Puede activar o desactivar esta característica en cualquier momento en Ajustes.
   <string name="mx_dspt_provision_privacy">"Esta función puede requerir su número de teléfono. Su compañía podría cobrarle por un mensaje SMS utilizado para activar esta función.
 
 Esta función cifra y sube la ID de su dispositivo a los servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Llame a otros usuarios MIUI gratis usando su conexión a internet. Puede activar o desactivar esta función en cualquier momento en Configuración.</string>
+  <string name="mx_dspt_provision_with_voip">Llame a otros usuarios MIUI gratis usando su conexión a internet. Puede activar o desactivar esta función en cualquier momento en Ajustes. VoIP ofrecida por Weihui. Vea la Política de Privacidad de Weihui</string>
   <string name="mx_sub_dspt_provision">Mi Mensajes</string>
   <string name="mx_sub_dspt_provision_with_voip">Llamadas por internet</string>
+  <string name="mx_voip_dspt">Mi Voice</string>
   <string name="next">Siguiente</string>
   <string name="noRemind">"No recordar"</string>
   <string name="no_sim">Tarjeta SIM no detectada</string>
@@ -231,10 +232,11 @@ Esta función cifra y sube la ID de su dispositivo a los servidores Mi."</string
   <string name="phone_number_may_required_dspt_provision">"Este servicio puede requerir su número de teléfono. "</string>
   <string name="phone_number_required_dspt_provision">"Este servicio requiere su número de teléfono. "</string>
   <string name="photo">Fotos</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronizar imágenes de perfil de contactos sólo estando conectado a una red Wi-Fi"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizar imágenes de perfil de contactos sólo cuando estés conectado por Wi-Fi</string>
+  <string name="pref_summary_sync_video_on_wifi_only">Sincronizar vídeos de perfil de contactos sólo cuando estés conectado por Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Sólo utilizar Wi-Fi para sincronizar fotos</string>
-  <string name="pref_title_sync_my_profile_title">Sincronizar perfil</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Usar sólo Wi-Fi para sincronizar fotos</string>
+  <string name="pref_title_sync_video_on_wifi_only">Usar sólo Wi-Fi para sincronizar vídeos</string>
   <string name="privacy_policy">Política de Privacidad</string>
   <string name="remind_later">Más tarde</string>
   <string name="restoreSync">Sincronizar ahora</string>
@@ -275,6 +277,7 @@ Esta función cifra y sube la ID de su dispositivo a los servidores Mi."</string
 
 Puede activar o desactivar esta característica en cualquier momento en Ajustes.
 "</string>
+  <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sincronizar registros de llamadas hechas y recibidas en este teléfono</string>
   <string name="sync_item_calllog_title">Sincronizar registros de llamadas</string>
   <string name="sync_item_sms_summary">Sincronizar tus SMS enviados y recibidos en este teléfono</string>

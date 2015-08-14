@@ -102,6 +102,8 @@
   <string name="notification_sent">Transferencia Bluetooth: Enviar %1$s</string>
   <string name="notification_sent_complete">100% completa</string>
   <string name="notification_sent_fail">Transferencia Bluetooth: Archivo %1$s no enviado</string>
+  <string name="notify_device_lose_connection_text">Pulsar para desemparejar %1$s</string>
+  <string name="notify_device_lose_connection_title">Conexión perdida con %1$s</string>
   <string name="notify_server">Notificar al servidor TCP</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Transferencias salientes</string>
@@ -136,6 +138,10 @@
   <string name="transfer_menu_clear">Limpiar de la lista</string>
   <string name="transfer_menu_clear_all">Limpiar lista</string>
   <string name="transfer_menu_open">Abrir</string>
+  <string name="unbind_device_alert_cancel">Cancelar</string>
+  <string name="unbind_device_alert_content">Conexión perdida con %1$s. Para ahorrar batería, desempareja este dispositivo.</string>
+  <string name="unbind_device_alert_ok">Desemparejar</string>
+  <string name="unbind_device_alert_title">Desemparejar dispositivo</string>
   <string name="unknownName">Nombre desconocido</string>
   <string name="unknownNumber">Desconocido</string>
   <string name="unknown_device">Dispositivo desconocido</string>

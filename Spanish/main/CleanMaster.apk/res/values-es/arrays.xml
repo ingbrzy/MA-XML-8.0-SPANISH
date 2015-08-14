@@ -12,10 +12,27 @@
         <item>Cada 7 días</item>
      </string-array>
      <string-array name="auto_process_mode">
-        <item>Avisar con notificación</item>
-        <item>Limpiar de fondo</item>
-        <item>Mostrar notificación después de limpiar</item>
+		<item>Mostrar</item>
+        <item>No mostrar</item>
+        <item>Mostrar después</item>
      </string-array>
+	 <string-array name="cache_clean_menu">
+        <item>Limpiar</item>
+        <item>Fichero</item>
+        <item>Excepción</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Limpiar</item>
+        <item>Fichero</item>
+        <item>Excepción</item>
+        <item>Instalar</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Detalles</item>
+        <item>Fichero</item>
+        <item>Copiar y desinstalar</item>
+        <item>Desinstalar</item>
+    </string-array>
      <string-array name="cache_sort_type">
         <item>Tamaño</item>
         <item>Nombre</item>
