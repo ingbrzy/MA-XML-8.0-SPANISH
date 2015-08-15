@@ -92,8 +92,8 @@
   <string name="baby_lock_wallpaper_save_settings_msg">¿Aplicar ajustes actuales?</string>
   <string name="baby_lock_wallpaper_title">Usar fotos del bebé como fondos de la pantalla de bloqueo</string>
   <string name="baby_name_cannot_empty">Introducir nombre</string>
-  <string name="baby_name_cannot_start_with">El nombre no puede empezar por '%s'</string>
-  <string name="baby_name_contain_invalidate_char">El nombre no puede contener '%s'</string>
+  <string name="baby_name_cannot_start_with">El nombre no puede empezar por %s</string>
+  <string name="baby_name_contain_invalidate_char">El nombre no puede contener %s</string>
   <string name="baby_name_reserved">Este nombre está reservado para otro álbum</string>
   <string name="baby_nick_name">Apodo</string>
   <string name="baby_sexy">Género</string>
@@ -934,7 +934,7 @@
   <string name="rotate">Rotar</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Arrastrar foto para rotar</string>
-  <string name="same_name_album_exist_and_toast">Ya existe un álbum con el mismo nombre. Creado '%s' en su lugar.</string>
+  <string name="same_name_album_exist_and_toast">Ya existe un álbum con el mismo nombre. Creado %s en su lugar.</string>
   <string name="same_name_album_exists_alert">Ya existe un álbum con el mismo nombre del que intenta compartir, ¿está seguro de querer subir automáticamente las fotos a dicho álbum?</string>
   <string name="saturation">Saturación</string>
   <string name="saturation_abbr">S</string>
