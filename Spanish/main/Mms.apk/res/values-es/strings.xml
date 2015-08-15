@@ -100,7 +100,7 @@
   <string name="conversation_style">burbuja</string>
   <string name="converting_to_picture_message">Convirtiendo a mensaje multimedia…</string>
   <string name="converting_to_text_message">Convirtiendo a mensaje de texto…</string>
-  <string name="copy_message_text">Copiar texto</string>
+  <string name="copy_message_text">Copiar</string>
   <string name="copy_message_text_success">Texto copiado</string>
   <string name="copy_to_sdcard">Guardar archivo adjunto</string>
   <string name="copy_to_sdcard_fail">No se pudo guardar archivo adjunto</string>
@@ -245,8 +245,11 @@
   <string name="move_down">Bajar</string>
   <string name="move_up">Subir</string>
   <string name="msg_type_hint_mms">Mensajes multimedia (MMS)</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mensajes en la nube</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Mensaje de texto</string>
+  <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Desilize abajo para leer más</string>
   <string name="msglist_more_refreshing">Actualizando…</string>
   <string name="msglist_no_more_to_refresh">Hasta la fecha</string>
@@ -322,6 +325,7 @@
   <string name="pref_mms_settings_title">Mensajes multimedia (MMS)</string>
   <string name="pref_notification_settings_title">Notificaciones</string>
   <string name="pref_other_title">Otros</string>
+  <string name="pref_show_sms_template_in_summary">Detectar automáticamente OTP en mensajes SMS</string>
   <string name="pref_show_sms_template_summary">Copiar automáticamente y rellenar los códigos de verificación</string>
   <string name="pref_sms_theme_title">Pantalla</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensajes WAP automáticos (SI/SL)</string>
@@ -341,6 +345,7 @@
   <string name="pref_summary_show_recent_contacts">Mostrar contactos recientes al redactar un nuevo mensaje</string>
   <string name="pref_summary_wake_up_screen">Activar la pantalla cada vez que se recibe un nuevo mensaje</string>
   <string name="pref_system_title">Sistema</string>
+  <string name="pref_time_auto_group_disabled_summary">No está soportado en el tamaño de fuente actual</string>
   <string name="pref_time_auto_group_summary">Mensajes del mismo grupo recibidos dentro de un minuto se incluyen en le mismo subproceso</string>
   <string name="pref_time_auto_group_title">Grupo por tiempo</string>
   <string name="pref_title_allow_si_sl_push">Permitir WAP automático</string>
@@ -407,7 +412,7 @@
   <string name="resize_image_error_information">Esta foto es demasiado grande para enviar, incluso al cambiar de tamaño.</string>
   <string name="resource_price_free">Gratis</string>
   <string name="restore_all_button_msg">¿Restaurar todos los mensajes enviados desde este número?</string>
-  <string name="restore_blocked_message">Restaurar mensaje</string>
+  <string name="restore_blocked_message">Restaurar</string>
   <string name="restore_to_phone_memory_failed">"No se pudo restaurar"</string>
   <string name="restored_to_phone_memory">Restaurado</string>
   <string name="retrive_hms_tips">Recuperar…</string>
@@ -519,6 +524,7 @@
   <string name="title_collapse_sp_messages">Grupo portador mensajes</string>
   <string name="title_date_type">Fecha y hora</string>
   <string name="title_show_sms_template">Compruebe los SMS para los códigos de verificación</string>
+  <string name="title_show_sms_template_in">Comprobar SMS para OTP</string>
   <string name="title_timed_message_dialog">Establecer mensaje programado</string>
   <string name="to_address_label">"Para: "</string>
   <string name="to_count">%d destinatarios</string>

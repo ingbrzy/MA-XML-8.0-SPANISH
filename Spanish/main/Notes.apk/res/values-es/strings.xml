@@ -5,11 +5,10 @@
   <string name="alert_action_edit_anyway">Seguir editando</string>
   <string name="alert_edit_action_delete">Quitar</string>
   <string name="alert_edit_action_update">Modificar</string>
-  <string name="alert_message_delete_folders">¿Eliminar %1$s carpetas?</string>
-  <string name="alert_message_delete_folders_notes">¿Borrar %1$s carpetas y %2$s notas?</string>
+  <string name="alert_message_delete">¿Eliminar	 %1$s?</string>
   <string name="alert_message_delete_note">¿Desea eliminar esta nota?</string>
-  <string name="alert_message_delete_notes">¿Eliminar %1$s notas?</string>
   <string name="alert_message_edit_anyway">Si se edita esta nota puede perderse parte de su contenido.</string>
+  <string name="alert_title_delete">Eliminar nota</string>
   <string name="alert_title_edit_anyway">Esta nota contiene contenido no soportado</string>
   <string name="app_name">Notas</string>
   <string name="app_widget">Notas</string>
@@ -47,6 +46,7 @@
   <string name="menu_stick">Anclar</string>
   <string name="menu_title_select_folder">Seleccionar carpeta</string>
   <string name="menu_unstick">Liberar</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ahora no</string>
   <string name="note_alert_expired">Caducado</string>
   <string name="note_link_email">Enviar email</string>

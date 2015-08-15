@@ -53,6 +53,9 @@
   <string name="battery_low_percent_format">%d%% restante</string>
   <string name="battery_low_title">Conecte el cargador</string>
   <string name="battery_profiles">Perfiles de uso de batería</string>
+  <string name="block_record_notification_more_text">%1$s %2$d aplicaciones. Tocar para ver</string>
+  <string name="block_record_notification_text">%1$s. Tocar para ver</string>
+  <string name="block_record_notification_title">Bloquear registro</string>
   <string name="bluetooth_tethered">Bluetooth tethered</string>
   <string name="call_status_dialing">Marcando</string>
   <string name="call_status_ringing">Sonando</string>
@@ -79,12 +82,14 @@ Si reactiva los datos, puede generar gastos extra con su proveedor."</string>
   <string name="description_direction_left">Deslice izquierda para %s.</string>
   <string name="description_direction_up">Deslice arriba para %s.</string>
   <string name="description_target_search">Buscar</string>
+  <string name="disable_notification_summary">Ocultar notificaciones de aplicaciones</string>
   <string name="dismount_storage">No</string>
   <string name="dlg_confirm_kill_storage_users_text">Si activa el almacenamiento USB, algunas aplicaciones que está usando se detendrán y pueden no estar disponibles hasta que desactive el almacenamiento USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar almacenamiento USB</string>
   <string name="dlg_error_title">La operación USB ha fallado</string>
   <string name="dlg_ok">Aceptar</string>
   <string name="drive_mode_tip">"Está en modo coche"</string>
+  <string name="expanded_confirm_disable_notification">Confirmar</string>
   <string name="expanded_notification_manager">Administrar notificaciones</string>
   <string name="ext_media_badremoval_notification_message">Desmonte la tarjeta SD antes de extraerla para evitar la pérdida de datos.</string>
   <string name="ext_media_badremoval_notification_title">Tarjeta SD extraída inesperadamente</string>
@@ -109,6 +114,7 @@ Si reactiva los datos, puede generar gastos extra con su proveedor."</string>
   <string name="hint_for_long_press_app_switch_key">Pulsación larga para menú</string>
   <string name="invalid_charger">"Carga mediante USB no soportada.
 Use únicamente el cargador suministrado."</string>
+  <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Ver</string>
   <string name="lockscreen_carrier_default">Sin servicio</string>
   <string name="mdb_entering">Iniciando…</string>
@@ -121,7 +127,9 @@ Use únicamente el cargador suministrado."</string>
   <string name="media_projection_action_text">Empezar</string>
   <string name="media_projection_dialog_text">"%s empezará a capturar todo lo que se visualice en su pantalla."</string>
   <string name="media_projection_remember_text">"No mostrar de nuevo"</string>
+  <string name="megabyte_per_second">MB/s</string>
   <string name="mount_storage">Sí</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Sin notificaciones</string>
   <string name="notification_otg_gamestick_in">Joystick/Pad conectado</string>
   <string name="notification_otg_gamestick_out">Joystick/Pad desconectado</string>

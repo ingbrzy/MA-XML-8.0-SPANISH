@@ -9,6 +9,8 @@
   <string name="caller_info_name_delimiter">" o "</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
+  <string name="fc_dialog_body">¿Enviar error a Mi para su análisis? Este informe puede contener información personal. Tu informe será usado para ayudar a arreglar el error y nunca será compartido en un contexto comercial.</string>
+  <string name="fc_dialog_jump_to_preview">Ver el sumario</string>
   <string name="first_back_long_press_message">"Pulse y mantenga Atrás para finalizar el proceso actual y sus servicios en segundo plano.
 
 Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
@@ -19,6 +21,8 @@ Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Apagar</string>
   <string name="global_actions_silent_mode">Modo silencio</string>
+  <string name="handy_mode_enter_dlg_msg">¿Activar modo operación con una mano?</string>
+  <string name="handy_mode_enter_dlg_title">Operación con una mano</string>
   <string name="handy_mode_summary">Para cerrar pulse en un espacio vacío de la pantalla</string>
   <string name="handy_mode_title">Operación con una mano</string>
   <string name="key_btn_ok">Aceptar</string>
@@ -54,28 +58,19 @@ Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
   <string name="status_bar_toggle_ac">Patrón</string>
   <string name="status_bar_toggle_auto_brightness">Brillo</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_brightness">Brillo</string>
   <string name="status_bar_toggle_data">Datos</string>
-  <string name="status_bar_toggle_divider">Más</string>
-  <string name="status_bar_toggle_drive_mode">Coche</string>
   <string name="status_bar_toggle_flight_mode">Modo avión</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Bloquear</string>
   <string name="status_bar_toggle_mute">Silenciar</string>
-  <string name="status_bar_toggle_network_type">Red</string>
   <string name="status_bar_toggle_paper_mode">Leer más</string>
   <string name="status_bar_toggle_power_mode">Rendimiento</string>
   <string name="status_bar_toggle_privacy_mode">Invitado</string>
   <string name="status_bar_toggle_quiet_mode">No molestar</string>
-  <string name="status_bar_toggle_reboot">Reiniciar</string>
   <string name="status_bar_toggle_rotate">No rotar</string>
   <string name="status_bar_toggle_screen_button">Desactivar</string>
   <string name="status_bar_toggle_screenshot">Captura</string>
-  <string name="status_bar_toggle_shutdown">Apagar</string>
   <string name="status_bar_toggle_sync">Sincronizar</string>
-  <string name="status_bar_toggle_sync_auto">Sincronizar</string>
-  <string name="status_bar_toggle_sync_manual">Sincronizar</string>
-  <string name="status_bar_toggle_syncing">Sincronizando</string>
   <string name="status_bar_toggle_torch">Linterna</string>
   <string name="status_bar_toggle_vibrate">Vibrar</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>

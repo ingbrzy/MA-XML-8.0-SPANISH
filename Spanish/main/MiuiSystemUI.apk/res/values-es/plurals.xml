@@ -5,4 +5,8 @@
     <item quantity="other">%d aplicaciones recientes</item>
     <item quantity="one">1 aplicación reciente</item>
   </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Bloquear %d aplicaciones</item>
+        <item quantity="one">Bloquear %d aplicación</item>
+    </plurals>
 </resources>

@@ -32,11 +32,23 @@
         <item quantity="other">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%1$d vídeos&lt;/xliff:g> de %2$d álbumes?&lt;/Data>" "</item>
         <item quantity="one">" "&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%1$d vídeo&lt;/xliff:g> de %2$d álbumes?&lt;/Data>" "</item>
      </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%1$d imágenes&lt;/xliff:g> de %2$d álbumes?&lt;/Data></item>
+        <item quantity="one">&lt;Data> ¿Eliminar &lt;xliff:g id=ITEM>%1$d imagen&lt;/xliff:g> de %2$d álbumes?&lt;/Data></item>
+    </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="zero">%1$d seleccionados</item>
         <item quantity="one">%1$d seleccionado</item>
      </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">¿No mostrar estas caras?</item>
+        <item quantity="one">¿No mostrar esta cara?</item>
+    </plurals>
      <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>
         <item quantity="zero">%1$d</item>
@@ -76,4 +88,20 @@
         <item quantity="other">%1$s fotos de %2$s</item>
         <item quantity="one">%1$s foto de %2$s</item>
      </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d fotos de %2$s por añadir</item>
+        <item quantity="one">%1$d foto de %2$s por añadir</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d fotos de %2$s por añadir</item>
+        <item quantity="one">%1$d foto de %2$s por añadir</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d años "</item>
+        <item quantity="one">"%1$d año "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">%1$d meses</item>
+        <item quantity="one">%1$d mes</item>
+    </plurals>
 </resources>

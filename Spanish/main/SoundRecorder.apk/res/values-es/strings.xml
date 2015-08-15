@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">¿Borrar grabaciones seleccionadas?</string>
+  <string name="alert_message_delete_record_title">Borrar grabación</string>
   <string name="app_name">Grabadora</string>
   <string name="back">Atrás</string>
   <string name="button_queue_for_wifi">Esperar</string>
@@ -26,6 +27,7 @@
   <string name="error_sdcard_access">"No se puede acceder al almacenamiento"</string>
   <string name="error_sdcard_unmounted">Inserte una tarjeta SD</string>
   <string name="fm_record">Grabaciones de radio (%d)</string>
+  <string name="loading_recording">Cargando</string>
   <string name="low_battery_error">Queda menos del 5% de batería. Para impedir que se pierda su grabación, se ha pausado y guardado.</string>
   <string name="message_file_size_error">La grabación ha alcanzado la longitud máxima soportada por %s</string>
   <string name="no_downloading_file">No se está descargando ningún archivo.</string>
@@ -67,7 +69,6 @@
   <string name="record_list_cloud_call">Grabaciones de llamadas sincronizadas</string>
   <string name="record_list_cloud_fm">Grabaciones de FM sincronizadas</string>
   <string name="record_list_fm">Grabaciones de FM</string>
-  <string name="record_mark_point">Marca %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Elija una grabación</string>
   <string name="recording">Grabando</string>

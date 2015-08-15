@@ -5,6 +5,10 @@
         <item quantity="other">%1$s carpetas</item>
         <item quantity="one">%1$s carpeta</item>
      </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s no han sido sincronizadas</item>
+        <item quantity="one">%1$s no ha sido sincronizada</item>
+    </plurals>
      <plurals name="note_count_in_folder">
         <item quantity="other">%1$s notas</item>
         <item quantity="one">1 nota</item>

@@ -459,18 +459,13 @@
         <item>sRGB</item>
         <item>Nativo</item>
      </string-array>
-     <string-array name="entries_font_size">
-        <item>Pequeño</item>
+	 <string-array name="entries_font_size">
         <item>Normal</item>
+        <item>Medio</item>
         <item>Grande</item>
         <item>Enorme</item>
-     </string-array>
-     <string-array name="entryvalues_font_size">
-        <item>0.85</item>
-        <item>1.0</item>
-        <item>1.15</item>
-        <item>1.30</item>
-     </string-array>
+        <item>Godzilla</item>
+    </string-array>
      <string-array name="fluency_mode_confirms">
         <item>¿Reiniciar el dispositivo para aplicar los cambios?</item>
         <item>¿Reiniciar el dispositivo para aplicar los cambios?</item>
@@ -1260,4 +1255,14 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>5</item>
         <item>10</item>
      </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Todos los días</item>
+        <item>Entre semana</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Todos los días</item>
+        <item>Entre semana</item>
+        <item>Personalizado</item>
+    </string-array>
 </resources>
