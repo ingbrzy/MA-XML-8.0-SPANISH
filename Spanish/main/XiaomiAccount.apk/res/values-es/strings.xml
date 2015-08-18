@@ -23,8 +23,9 @@
   <string name="account_user_avatar">Imagen de perfil</string>
   <string name="account_user_avatar_from_album">Elegir foto</string>
   <string name="account_user_avatar_from_camera">Tomar foto</string>
+  <string name="account_user_base_info">Información personal</string>
   <string name="account_user_birthday">Cumpleaños</string>
-  <string name="account_user_details">Información del usuario</string>
+  <string name="account_user_details">Información personal</string>
   <string name="account_user_email">Email</string>
   <string name="account_user_gender">Género</string>
   <string name="account_user_gender_female">Femenino</string>
@@ -33,6 +34,8 @@
   <string name="account_user_name">Nombre</string>
   <string name="account_user_name_dialog_title">Introduzca nombre de usuario</string>
   <string name="account_user_phone">Número de teléfono</string>
+  <string name="account_user_recovery_phone">Teléfono de recuperación</string>
+  <string name="account_user_secure_info">Teléfono y email</string>
   <string name="account_user_using_facebook_avatar">Usar foto de perfil de Facebook</string>
   <string name="account_user_using_qq_avatar">Usar foto de perfil de QQ</string>
   <string name="account_user_using_weibo_avatar">Usar foto de perfil de Sina Weibo</string>
@@ -95,7 +98,7 @@
   <string name="input_vcode_hint">Introduzca el código de verificación</string>
   <string name="just_a_second">Un momento…</string>
   <string name="license_host_unreachable">"No se puede conectar a la red. Para ver esta información ahora, vaya a %s."</string>
-  <string name="loading">Cargando…</string>
+  <string name="loading">Un momento…</string>
   <string name="loading_micloud_sync_data">Cargando…</string>
   <string name="loading_mili_center">Cargando…</string>
   <string name="login">Iniciar sesión</string>
@@ -133,6 +136,7 @@
   <string name="other_devices">Otros dispositivos</string>
   <string name="passport_access_denied">Acceso denegado</string>
   <string name="passport_account_hint_text">Email o número de teléfono</string>
+  <string name="passport_account_identity_title">Verifica tu identidad</string>
   <string name="passport_account_name">Cuenta: %1$s</string>
   <string name="passport_account_not_activated">"La cuenta no ha sido activada"</string>
   <string name="passport_account_not_actived">"Su cuenta no ha sido activada"</string>
@@ -240,6 +244,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_remove_confirm">Cerrar sesión</string>
   <string name="passport_remove_unactivated_account_notice">"Su cuenta no ha sido activada."</string>
   <string name="passport_resend_active_email">Reenviar email de activación</string>
+  <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y vuelve a intentarlo.</string>
   <string name="passport_sim_index_info">Tarjeta SIM %1$d - %2$s</string>
   <string name="passport_skip_login">Saltar inicio de sesión</string>
   <string name="passport_skip_register">Saltar registro</string>

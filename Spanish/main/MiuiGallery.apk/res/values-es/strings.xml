@@ -751,10 +751,10 @@
   <string name="item_not_sync_for_origin_video">"No se puede descargar este vídeo porque no ha sido sincronizado con su nube."</string>
   <string name="item_not_sync_for_refocus_data">"No se puede descargar los  datos de reenfoque para esta imagen ya que no han sido sincronizados con su nube."</string>
   <string name="kick_owner_user_positive_button_text">Quitar</string>
-  <string name="kick_owner_user_title">¿Eliminar a este miembro?</string>
-  <string name="kick_sharer">Quitar los compartidos en uso</string>
-  <string name="kick_sharer_failed">"No se pudo eliminar el usuario"</string>
-  <string name="kick_sharer_successfully">Usuario eliminado</string>
+  <string name="kick_owner_user_title">¿Eliminar esta persona?</string>
+  <string name="kick_sharer">Quitar espectador compartido</string>
+  <string name="kick_sharer_failed">"No se pudo eliminar esta persona"</string>
+  <string name="kick_sharer_successfully">Esta persona fue eliminada</string>
   <string name="loading">Cargando…</string>
   <string name="loading_failure">"No se puede cargar la foto"</string>
   <string name="loading_image">Descargando imagen…</string>
@@ -856,7 +856,7 @@
   <string name="original">Original</string>
   <string name="original_scale">Escala original</string>
   <string name="other_category">Ajustes adicionales</string>
-  <string name="owner_album_subtitle">Compartido con %1$s usuarios</string>
+  <string name="owner_album_subtitle">Compartido con %1$s personas</string>
   <string name="paint_cancel_context">¿Descartar los cambios realizados a esta imagen?</string>
   <string name="paint_cancel_title">Descartar cambios</string>
   <string name="paint_crop_cancel_context">¿Quiere guardar el recorte resultante?</string>
@@ -988,8 +988,8 @@
   <string name="share_by_email_start">Compartir %1$s en segundo plano</string>
   <string name="share_by_email_successfully">Compartida %1$s</string>
   <string name="share_current_album">Compartir álbum actual</string>
-  <string name="share_public_url_text">"He compartido el álbum %1$s con usted. Véalo en %2$s"</string>
-  <string name="sharer_quota_fulfiled">"Vd. ya ha compartido este álbum con el número máximo de usuarios."</string>
+  <string name="share_public_url_text">"He compartido el álbum %1$s contigo. Puedes verlo en %2$s"</string>
+  <string name="sharer_quota_fulfiled">"Ya has compartido este álbum con el número máximo de personas."</string>
   <string name="sharpen">Afilar</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
   <string name="show_all">Imágenes y vídeos</string>

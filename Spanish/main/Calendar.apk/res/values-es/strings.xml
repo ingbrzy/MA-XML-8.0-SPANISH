@@ -36,6 +36,8 @@
   <string name="agenda_view">Agenda</string>
   <string name="agenda_yesterday">AYER, %1$s</string>
   <string name="alarm_label">Descartar</string>
+  <string name="alert_reminder_divider">|</string>
+  <string name="alert_reminder_expired">Expirada</string>
   <string name="alert_title">Notificaciones de calendario</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">aniversario</string>
@@ -232,7 +234,7 @@
   <string name="preferences_home_tz_title">Zona horaria propia</string>
   <string name="preferences_reminder_title">Notificación y recordatorios</string>
   <string name="preferences_show_week_num_title">Mostrar número de semana</string>
-  <string name="preferences_title">Ajustes</string>
+  <string name="preferences_title">Calendario</string>
   <string name="preferences_use_home_tz_descrip">Mostrar calendarios y horarios del evento en tu zona horaria propia cuando viajes</string>
   <string name="preferences_use_home_tz_title">Usar zona horaria propia</string>
   <string name="preferences_week_start_day_default">-1</string>
@@ -344,9 +346,6 @@
   <string name="travel_seat_number_text">Asiento</string>
   <string name="travel_train_number_text">Tren</string>
   <string name="travel_train_station">Estación de tren</string>
-  <string name="user_notice_online_agreement">Usted esta sincronizando el calendario, que es un servicio en línea, sus páginas muestran y actualizaciones de datos requieren una conexión a internet. Utilice el servicio, usted está de acuerdo y están dispuestos a cumplir con %1$s y %2$s</string>
-  <string name="user_notice_online_ok">Aceptar y continuar</string>
-  <string name="user_notice_online_title">Términos Y Condiciones</string>
   <string name="view_all_matches">Ver todos los dispositivos</string>
   <string name="view_event_calendar_label">Calendario:</string>
   <string name="view_event_organizer_label">Organizador:</string>

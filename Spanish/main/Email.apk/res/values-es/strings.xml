@@ -91,6 +91,7 @@
   <string name="account_setup_failed_security">"No se pudo abrir la conexión con el servidor debido a un error de seguridad."</string>
   <string name="account_setup_failed_security_policies_unsupported">"Este servidor requiere características de seguridad que no soporta tu dispositivo Android, incluyendo: %s"</string>
   <string name="account_setup_failed_tls_required">TLS requeridos pero no son soportados por el servidor.</string>
+  <string name="account_setup_failed_too_many_partnerships">Inicio de sesión fallido, se ha alcanzado el número máximo de conexiones con el servidor.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Cuando borro de la papelera</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
@@ -516,10 +517,13 @@
   <string name="outbox_alert_button_resend">Reenviar</string>
   <string name="outbox_alert_certificate_error">Excepción de certificado en email, por favor actualice</string>
   <string name="outbox_alert_description_auth_error">Causa: Error de autenticación del servidor durante la sincronización de la bandeja de salida</string>
+  <string name="outbox_alert_description_cannot_authenticate">No se pudo autentificar %s.</string>
+  <string name="outbox_alert_description_email_size_error">Se ha alcanzado el tamaño máximo de Email.</string>
+  <string name="outbox_alert_description_fail_authentication">El usuario o la contraseña son inválidos.</string>
   <string name="outbox_alert_description_http_error">Causa: Error de autenticación del servidor durante la sincronización de la bandeja de salida</string>
   <string name="outbox_alert_description_insufficient_storage_error">Almacenamiento insuficiente en el servidor de correo</string>
   <string name="outbox_alert_description_provision_error">Causa: Error de provisión del servidor durante la sincronización de la bandeja de salida</string>
-  <string name="outbox_alert_description_sent_failed">"Tamaño del archivo adjunto supera límite del destinatario."</string>
+  <string name="outbox_alert_description_sent_failed">"El tamaño del archivo adjunto supera el límite del servidor."</string>
   <string name="outbox_alert_duplicate_click">Aún sincronizando…</string>
   <string name="outbox_alert_edit_resend">Editar y enviar de nuevo</string>
   <string name="outbox_alert_failed_edit_resend">No se pudo enviar. Edite e inténtelo de nuevo."</string>
