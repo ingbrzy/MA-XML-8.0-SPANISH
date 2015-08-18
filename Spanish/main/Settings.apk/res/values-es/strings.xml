@@ -86,6 +86,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="adjust_3d_depth_title">"Ajustar profundidad para juegos 3D</string>
      <string name="advanced_settings">Ajustes avanzados</string>
      <string name="advanced_settings_summary">Activar más opciones de ajuste</string>
+     <string name="advanced_text_layout">Activar la función de presentación de texto avanzado</string>
      <string name="agps_roaming">A-GPS cuando está en itinerancia</string>
      <string name="agps_roaming_dia">"El uso de A-GPS en itinerancia, puede aumentar el uso de datos móviles. Si usted se pasa de su límite de datos de planes, su operador podría cobrarle gastos adicionales."</string>
      <string name="agps_roaming_dia_title">Usar A-GPS cuando está en itinerancia</string>
@@ -507,7 +508,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="builtin_keyboard_settings_summary">Ajustes del teclado físico</string>
      <string name="builtin_keyboard_settings_title">Teclado físico</string>
      <string name="button_disconnect_network">Desconectar de la red</string>
-     <string name="button_light_timeout">Ajustes de la luz de los botones</string>
+     <string name="button_light_timeout">Duración de la luz de los botones</string>
      <string name="button_text_login">Iniciar sesión</string>
      <string name="button_text_reboot_now">Reiniciar</string>
      <string name="cache_header_label">Caché</string>
@@ -971,6 +972,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
      <string name="error_name_empty">"El campo nombre no puede estar vacío."</string>
      <string name="error_title" />
      <string name="every_day">Todos los días</string>
+	 <string name="experience_optimization_category">Optimización de la experiencia</string>
      <string name="external_code_size_label">En almacenamiento USB</string>
      <string name="external_data_size_label">Tarjeta SD</string>
      <string name="factory_reset_summary">"Eliminar todos los datos del almacenamiento interno del teléfono"</string>
@@ -1711,8 +1713,8 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="power_usage_summary_title">Batería y rendimiento</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Iluminación de botones</string>
-     <string name="pref_button_light_summary">Indicador de teclas Menu, Home y volver</string>
-     <string name="pref_operational_key">Teclas operacionales</string>
+     <string name="pref_button_light_summary">Iluminación de botones Menú, Home y Volver</string>
+     <string name="pref_operational_key">Botones de navegación</string>
      <string name="pref_volume_wake_summary">El dispositivo se enciende  pulsando las teclas de volumen</string>
      <string name="pref_volume_wake_title">Encender con las teclas de volumen</string>
      <string name="preference_change_password_title">Cambiar contraseña</string>
@@ -2234,9 +2236,9 @@ Una credencial de confianza instalada hace esto posible."</string>
      <string name="stable_build">" | Estable"</string>
      <string name="status_awake_time">Tiempo activo</string>
      <string name="status_bar_and_notification_bar">Área de notificaciones y barra de estado</string>
-     <string name="status_bar_app_disable_notification">Nada</string>
+     <string name="status_bar_app_disable_notification">Ocultar notificaciones</string>
      <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Pantalla de bloqueo, área de notificaciones</string>
-     <string name="status_bar_app_enable_on_notificationBar">Área de notificaciones</string>
+     <string name="status_bar_app_enable_on_notificationBar">Mostrar área de notificaciones</string>
      <string name="status_bar_key_position_custom">Posición de tecla personalizada</string>
      <string name="status_bar_screen_button_key">Teclas virtuales en pantalla</string>
      <string name="status_bar_screen_key_back">Botón Volver</string>
@@ -2245,7 +2247,7 @@ Una credencial de confianza instalada hace esto posible."</string>
      <string name="status_bar_screen_key_recent_apps">Botón de Aplicaciones recientes</string>
      <string name="status_bar_settings">Notificaciones</string>
      <string name="status_bar_settings_advanced">Ajustes avanzados</string>
-     <string name="status_bar_settings_all_app_display_loading">Cargando…</string>
+     <string name="status_bar_settings_all_app_display_loading">Un momento…</string>
      <string name="status_bar_settings_basic_settings">Ajustes básicos</string>
      <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
      <string name="status_bar_settings_custom_carrier">Editar el nombre del operador</string>
@@ -2262,7 +2264,7 @@ Una credencial de confianza instalada hace esto posible."</string>
      <string name="status_bar_settings_notification_priority_summary">Muestra las notificaciones al principio de la lista</string>
      <string name="status_bar_settings_notification_sound_vibrate">Sonidos y vibraciones</string>
      <string name="status_bar_settings_show_carrier">Mostrar el nombre del operador</string>
-     <string name="status_bar_settings_show_carrier_summary">Sólo mostrar en bloqueo de pantalla</string>
+     <string name="status_bar_settings_show_carrier_summary">El nombre del operador se sigue mostrando en la pantalla de bloqueo y en el área de notificaciones cuando esta funcionalidad está apagada</string>
      <string name="status_bar_settings_show_flow_info">Mostrar detalles de flujo</string>
      <string name="status_bar_settings_show_home_message">Mostrar en icono de aplicación</string>
      <string name="status_bar_settings_show_keyguard_notification">Mostrar notificaciones flotantes</string>

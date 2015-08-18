@@ -310,9 +310,9 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_whitelist_setting">Administrar lista de permitidas</string>
   <string name="privacy_declare_dialog_message">Al usar este servicio, acepta los &lt;a href=%s&gt; Términos de Servicio&lt;/a&gt; de Opera.</string>
   <string name="privacy_declare_dialog_title">Términos de Servicio</string>
-  <string name="privacy_prompt_tc_sms_report_message">"Su número de teléfono y detalles del operador se subirán a los servidores de Xiaomi con el fin de actualizar la información de su utilización de los datos."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Esta característica tiene que enviar el IMEI de su dispositivo, número de teléfono e información del operador a los servidores Mi con el fin de obtener estadísticas de uso de los datos de su operador."</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Su número de teléfono y detalles del operador se subirán a los servidores de Xiaomi para obtener más información sobre las opciones de compra de datos."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Su número de teléfono y detalles del operador se encriptarán y subirán a los servidores de Xiaomi con el fin de actualizar la información de su utilización de los datos."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Esta característica tiene que encriptar y enviar el IMEI de su dispositivo, número de teléfono e información del operador a los servidores Mi con el fin de obtener estadísticas de uso de los datos de su operador."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Su número de teléfono y detalles del operador se encriptarán y subirán a los servidores de Xiaomi para obtener más información sobre las opciones de compra de datos."</string>
   <string name="privacy_prompt_upload">Subir</string>
   <string name="reach_daily_limit_value_body">Reduzca el uso de datos móviles.</string>
   <string name="reach_daily_limit_value_title">Límite de datos diario alcanzado</string>
@@ -321,11 +321,17 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="repair">Reparar</string>
   <string name="repair_loading_text">Cargando…</string>
   <string name="replace_dns">Reemplazar DNS automáticamente</string>
+  <string name="restrictbackground_conflict_saving_msg">"No se puede usar Ahorro de batería cuando los datos en segundo plano están restringidos. ¿Apagar el Ahorro de batería y restringir los datos en segundo plano?"</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Aplicaciones en la lista de prmitidos podrán utilizar datos móviles en itinerancia internacional..</string>
   <string name="roaming_not_start_title">Itinerancia internacional</string>
   <string name="roaming_start_body">Las aplicaciones están usando los datos móviles.</string>
   <string name="roaming_start_title">Itinerancia internacional</string>
+  <string name="root">Acceso root</string>
+  <string name="saving_conflict_dialog_cancel">Cancelar</string>
+  <string name="saving_conflict_dialog_ok">Aceptar</string>
+  <string name="saving_conflict_dialog_title">Atención</string>
+  <string name="saving_conflict_restrictbackground_msg">"No se puede usar Ahorro de batería cuando los datos en segundo plano están restringidos. ¿Permitir los datos en segundo plano y encencer el Ahorro de batería?"</string>
   <string name="sc_allow_network_dialog_message">Es necesario permitir a esta aplicación conectarse a internete para que funcione normalmente.</string>
   <string name="sc_allow_network_dialog_tiltle">No se puede usar Data saver</string>
   <string name="see_detail">Detalles</string>

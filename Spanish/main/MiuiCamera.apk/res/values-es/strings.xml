@@ -19,6 +19,8 @@
   <string name="camera_error_title">Error de cámara</string>
   <string name="camera_label">Cámara</string>
   <string name="camera_settings_label">Cámara</string>
+  <string name="camera_snap_mode_title">Modo disparo rápido</string>
+  <string name="camera_snap_mode_title_detail">Tocar para ver detalles</string>
   <string name="cannot_connect_camera_once">"No se puede acceder a la cámara"</string>
   <string name="cannot_connect_camera_twice">"Todavía no se puede acceder a la cámara. Pruebe a reiniciar el teléfono."</string>
   <string name="cannot_move_warning_message">Fotografía en proceso, no mueva el dispositivo</string>
@@ -244,6 +246,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto-mejora</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Desactivar</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activar</string>
+  <string name="pref_camera_snap_enable_summary">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para entrar en el Modo disparo rápido. Púlsalo de nuevo para sacar una foto.</string>
+  <string name="pref_camera_snap_enable_title">Modo disparo rápido</string>
   <string name="pref_camera_sound_title">Sonidos de cámara</string>
   <string name="pref_camera_touchafaec_entry_off">Apagado</string>
   <string name="pref_camera_touchafaec_entry_on">Encendido</string>
