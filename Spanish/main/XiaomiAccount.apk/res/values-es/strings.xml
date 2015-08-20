@@ -6,7 +6,12 @@
   <string name="access_token_invalid_warning">La cuenta Weibo no es válida</string>
   <string name="account">Cuenta</string>
   <string name="account_bind_devices">Dispositivos vinculados</string>
-  <string name="account_bind_settings">Vincular cuenta</string>
+  <string name="account_bind_new_phone">Añadir nuevo teléfono</string>
+  <string name="account_bind_phone_notice">Usa este número de teléfono para iniciar sesión en tu cuente, restablecer la contraseña, o cambiar ajustes de seguridad.</string>
+  <string name="account_bind_secure_email_title">Añadir email</string>
+  <string name="account_bind_secure_phone_title">Añadir número de teléfono</string>
+  <string name="account_bind_settings">Ajustes</string>
+  <string name="account_binded_phone">Teléfono %d</string>
   <string name="account_crop_user_avatar">Recortar foto</string>
   <string name="account_dspt_provision">Una cuenta Mi para todo.</string>
   <string name="account_dspt_provision2">Aprender más</string>
@@ -18,9 +23,11 @@
   <string name="account_name">Cuenta: %1$s</string>
   <string name="account_no_set">Ninguno</string>
   <string name="account_none">Ninguno</string>
+  <string name="account_none_binded_info">Ninguno</string>
+  <string name="account_none_binded_secure_phone">Sin número de teléfono</string>
   <string name="account_none_user_name">Ninguno</string>
   <string name="account_settings">Configuración de la cuenta</string>
-  <string name="account_user_avatar">Imagen de perfil</string>
+  <string name="account_user_avatar">Foto de perfil</string>
   <string name="account_user_avatar_from_album">Elegir foto</string>
   <string name="account_user_avatar_from_camera">Tomar foto</string>
   <string name="account_user_base_info">Información personal</string>
@@ -99,7 +106,7 @@
   <string name="just_a_second">Un momento…</string>
   <string name="license_host_unreachable">"No se puede conectar a la red. Para ver esta información ahora, vaya a %s."</string>
   <string name="loading">Un momento…</string>
-  <string name="loading_micloud_sync_data">Cargando…</string>
+  <string name="loading_micloud_sync_data">Un momento…</string>
   <string name="loading_mili_center">Cargando…</string>
   <string name="login">Iniciar sesión</string>
   <string name="login_failed">"No se puede iniciar sesión"</string>
@@ -289,7 +296,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="phone_activated">%s activado</string>
   <string name="phone_unactivated">No activado</string>
   <string name="phone_unknown">Desconocido</string>
-  <string name="photoPickerNotFoundText">No hay imágenes disponibles.</string>
+  <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
   <string name="prev">Atrás</string>
   <string name="privacy_policy">Política de privacidad</string>
   <string name="qq">QQ</string>

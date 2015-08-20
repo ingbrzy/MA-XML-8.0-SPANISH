@@ -213,7 +213,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">No se pudieron encender las tarjetas de contacto</string>
   <string name="contact_detail_profile_switch_on_subtitle">Tocar para encender las tarjetas de contacto</string>
   <string name="contact_detail_profile_switch_on_success_toast">Las tarjetas de contacto ya están encendidas</string>
-  <string name="contact_directory_description">Directorio %1$s</string>
+  <string name="contact_directory_description">Agenda %1$s</string>
   <string name="contact_edit_title_edit">Editar contacto</string>
   <string name="contact_edit_title_insert">Agregar %s contactos</string>
   <string name="contact_edit_title_readonly">Contacto de solo lectura</string>
@@ -338,7 +338,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="dialerIconLabel">Recientes</string>
   <string name="dialerKeyboardHintText">Usar teclado para marcar</string>
   <string name="dialer_addAnotherCall">Añadir llamada</string>
-  <string name="dialer_empty_text_loading">Cargando…</string>
+  <string name="dialer_empty_text_loading">Un momento…</string>
   <string name="dialer_empty_text_no_call_log">No hay contactos recientes</string>
   <string name="dialer_empty_text_no_search_result">No de encontraron los contactos</string>
   <string name="dialer_returnToInCallScreen">Retornar a la llamada en progreso</string>
@@ -351,7 +351,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="dialog_sync_add">Agregar grupo de sincronización</string>
   <string name="dialog_voicemail_airplane_mode_message">Para llamar al correo de voz, primero desactivar el modo avión.</string>
   <string name="dialog_voicemail_not_ready_message">Para configurar el correo de voz, vaya a Menú &gt; configuración.</string>
-  <string name="directory_search_label">Directorio</string>
+  <string name="directory_search_label">Agenda</string>
   <string name="display_all_contacts">Todos los contactos</string>
   <string name="display_more_groups">Más grupos…</string>
   <string name="display_only_phones">Ocultar números incompletos</string>
@@ -1119,7 +1119,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="send_to_voicemail_checkbox">Enviar llamadas directamente al correo de voz</string>
   <string name="separatorJoinAggregateAll">Todos los contactos</string>
   <string name="separatorJoinAggregateSuggestions">Contactos sugeridos</string>
-  <string name="service_provider">Directorio</string>
+  <string name="service_provider">Agenda</string>
   <string name="set_default">Marcar como número por defecto</string>
   <string name="set_photo_failed_msg">No se pudo asignar una imagen.</string>
   <string name="share_error">Este contacto no se puede compartir</string>
@@ -1276,8 +1276,8 @@ Elija una de las siguientes opciones: "</string>
   <string name="websiteLabelsGroup">Página web</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Borrar datos</string>
-  <string name="yellowPageNavigationIconLabel">Directorio</string>
-  <string name="yellowPageNavigationLabel">Directorio</string>
+  <string name="yellowPageNavigationIconLabel">Páginas amarillas</string>
+  <string name="yellowPageNavigationLabel">Páginas amarillas</string>
   <string name="yellowpage_navigation_clear_search_history">Borrar historial</string>
   <string name="yellowpage_navigation_more_items">Más</string>
   <string name="yellowpage_navigation_more_items_title">Más servicios</string>
@@ -1294,7 +1294,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Descargando icono…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"No se puede conectar a la red. Comprueba tu conexión de datos e intenta de nuevo."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Añadido a la pantalla de inicio</string>
-  <string name="yellowpage_search_the_yellowpage">Buscar el directorio</string>
+  <string name="yellowpage_search_the_yellowpage">Buscar en las páginas amarillas</string>
   <string name="yellowpage_user_profile">Perfil</string>
   <string name="zero_items_selected">Seleccionar elementos</string>
 </resources>

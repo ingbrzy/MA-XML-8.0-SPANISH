@@ -9,14 +9,14 @@
   <string name="account_type_name">Cuenta Mi</string>
   <string name="account_updating_device">Actualizando…</string>
   <string name="account_updating_device_failed">"No se ha podido iniciar sesión"</string>
-  <string name="account_verify_password">"Estás usando este servicio en otro dispositivo. Por seguridad, debes verificar tu cuenta Mi en este dispositivo."</string>
+  <string name="account_verify_password">"Ya estás usando este servicio en otro dispositivo. Por seguridad, debes verificar tu cuenta Mi en este dispositivo."</string>
   <string name="account_yellowpage_favorite">Favoritos</string>
   <string name="account_yellowpage_followed">Cuentas Verificadas</string>
   <string name="account_yellowpage_recent">Ver el historial</string>
   <string name="agree">Estoy de acuerdo</string>
   <string name="all_services">Todo</string>
   <string name="allow">Permitir</string>
-  <string name="app_label">Directorio</string>
+  <string name="app_label">Páginas amarillas</string>
   <string name="app_recommendation_install">Instalar</string>
   <string name="average_price">Promedio de %d RMB</string>
   <string name="back">Atrás</string>
@@ -124,7 +124,7 @@
   <string name="express_inquiry_trace_user_notice_content">"Le avisaremos cuando el esado de su pedido cambie."</string>
   <string name="express_inquiry_untrace">No seguimiento</string>
   <string name="express_inquiry_untrace_success">No seguimiento realizado</string>
-  <string name="express_location_failed">Localización fallida, por favor introduce tu dirección.</string>
+  <string name="express_location_failed">No te pude localizar. Introduce tu dirección.</string>
   <string name="express_no_address">Vacío</string>
   <string name="express_no_order">Número de Pedido</string>
   <string name="express_no_order_info">No hay información de pedido</string>
@@ -217,7 +217,7 @@
   <string name="menu_correct_yellow_page">Corrección</string>
   <string name="menu_delete_call_log">Borrar los registros de llamadas</string>
   <string name="menu_delete_one">Eliminar del registro de llamadas</string>
-  <string name="menu_enroll_in_yellow_page">Abrir sesión en Páginas Amarillas Mi</string>
+  <string name="menu_enroll_in_yellow_page">Abrir sesión en Páginas amarillas</string>
   <string name="menu_follow_yellow_page">Seguir</string>
   <string name="menu_remove_black_list">Quitar de la lista de bloqueos</string>
   <string name="menu_remove_from_favorite">Eliminar de favoritos</string>
@@ -270,10 +270,11 @@
   <string name="payment_failed_common_problems">Se produjo un error durante el pago</string>
   <string name="payment_unknown_status_summary">Compruebe su conexión de red y vuelva a intentarlo.</string>
   <string name="payment_unknown_status_title">"No se puede confirmar el estado del pago"</string>
+  <string name="phone_event_setting_notice_text">"Páginas amarillas quiere subir números de servicio verificados (como tu proveedor de servicios) a los servidores de Mi, para que puedas recibir actualizaciones relacionadas con los servicios."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Deslice para actualizar…</string>
-  <string name="pull_to_refresh_refreshing_label">Cargando…</string>
+  <string name="pull_to_refresh_refreshing_label">Un momento…</string>
   <string name="pull_to_refresh_release_label">Suelte para actualizar…</string>
   <string name="quick_yellow_page_tab_call_log">Registro de llamadas</string>
   <string name="quick_yellow_page_tab_phones">Teléfono</string>
@@ -339,7 +340,7 @@ Total: RMB %3$s "</string>
   <string name="turn_on_smart_antispam_summary_off">Sólo buscar números guardados en este dispositivo</string>
   <string name="turn_on_smart_antispam_summary_on">Subir e identificar números desconocidos en los registros de llamadas y mensajes de texto</string>
   <string name="turn_on_smart_antispam_title">Identificar números desconocidos</string>
-  <string name="turn_on_yellowpage_service_title">Utilizar el servicio de directorio</string>
+  <string name="turn_on_yellowpage_service_title">Utilizar el servicio de Páginas amarillas</string>
   <string name="upload_and_verify_fraud_num_off">Esta característica ha sido cerrada</string>
   <string name="upload_and_verify_fraud_num_on">Compartir información de telemarketing bloqueado</string>
   <string name="uploads_disabled">Las subidas de archivos están desactivadas</string>
@@ -348,8 +349,8 @@ Total: RMB %3$s "</string>
   <string name="user_notice_identify_summary_format">"El teléfono utilizará la base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la señal Wi-Fi. Tocando \"Aceptar\" aceptas %1$s y %2$s de Xiaomi."</string>
   <string name="user_notice_identify_summary_format_cta">"El teléfono utilizará la base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la señal Wi-Fi. Tocando \"Aceptar\" aceptas %1$s y %2$s de Xiaomi."</string>
   <string name="user_notice_title">Attention</string>
-  <string name="user_notice_yp_detail_summary_format">"Algo de información de su directorio de etiquetas está anticuado. ¿Quiere actualizarlo? Tocando \"Aceptar\" acepta %1$s y %2$s de Xiaomi."</string>
-  <string name="user_notice_yp_detail_summary_format_cta">"Algo de información de su directorio está anticuado. ¿Quiere actualizarlo? Tocando \"Aceptar\" acepta %1$s y %2$s de Xiaomi."</string>
+  <string name="user_notice_yp_detail_summary_format">"Alguna información de Páginas amarillas está anticuada. ¿Quieres actualizarla? Tocando \"Aceptar\" aceptas %1$s y %2$s de Xiaomi."</string>
+  <string name="user_notice_yp_detail_summary_format_cta">"Alguna información de Páginas amarillas está anticuada. ¿Quieres actualizarla? Tocando \"Aceptar\" aceptas %1$s y %2$s de Xiaomi."</string>
   <string name="view_orders">Ver pedidos</string>
   <string name="voicemail">Mensaje de voz</string>
   <string name="web_permission_message">%1$s necesita ver su %2$s para funcionar adecuadamente.</string>
@@ -357,7 +358,6 @@ Total: RMB %3$s "</string>
   <string name="yellowpage_navigation_network_location_enable">Permitir</string>
   <string name="yellowpage_navigation_network_location_enable_later">Ahora no</string>
   <string name="yellowpage_navigation_network_location_enabled">La localización de acceso está activada. Puede desactivarla en cualquier momento en Ajustes.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Mejorar resultados de búsqueda permitiendo a Yellow Pages acceder a la información de su ubicación.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Mejora los resultados de búsqueda permitiendo a Páginas amarillas acceder a la información de su ubicación.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Acceso a ubicación</string>
-  <string name="yuan">Yuan</string>
 </resources>
