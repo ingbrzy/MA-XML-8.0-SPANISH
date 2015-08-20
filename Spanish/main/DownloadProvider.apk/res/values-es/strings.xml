@@ -3,8 +3,10 @@
   <string name="app_label">Gestor de descargas</string>
   <string name="auto_restart_under_wifi">Cuando haya conexión Wi-Fi se descargará automáticamente este archivo</string>
   <string name="button_cancel_download">Cancelar</string>
+  <string name="button_download_now">Descargar ahora</string>
   <string name="button_queue_for_wifi">Cola</string>
   <string name="button_start_now">Comenzar ahora</string>
+  <string name="button_wait_for_wifi">Esperar</string>
   <string name="dialog_insufficient_space_on_cache">No hay suficiente espacio en el almacenamiento interno de descargas</string>
   <string name="dialog_insufficient_space_on_external">No hay suficiente espacio en el almacenamiento externo</string>
   <string name="dialog_not_show_again">"No mostrar de nuevo"</string>
@@ -50,6 +52,12 @@
   <string name="privacy_tip_content">¿Usar el Acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su cuenta Mi también se subirán para comprobar si tiene alguna suscripción activa a este servicio.</string>
   <string name="privacy_tip_ok">Aceptar</string>
   <string name="privacy_tip_title">¿Usar Acelerador Xunlei?</string>
+  <string name="recommended_file_more_in_mobile" formatted="false">Usar tu conexión de datos móviles para descargar estos %s ficheros (%s ) incrementará tu uso de datos móviles.</string>
+  <string name="recommended_file_one_in_mobile">Usar tu conexión de datos móviles para descargar este fichero (%s ) incrementará tu uso de datos móviles.</string>
+  <string name="recommended_file_size_download_in_mobile" formatted="false">"No estás conectado por Wi-Fi en este momento. %s
+
+No se puede obtener el tamaño del fichero. Para usar tu conexión de datos móviles para descargar este fichero, pulsa %s. Para esperar y descargar este fichero con Wi-Fi, pulsa %s."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">No se puede obtener el tamaño del fichero. Para usar tu conexión de datos móviles para descargar este fichero, pulsa %s. Para esperar y descargar este fichero con Wi-Fi, pulsa %s.</string>
   <string name="root_downloads">Descargas</string>
   <string name="task_already_exist">Ya existe la tarea</string>
   <string name="warning_tip_cancel">Descargar</string>

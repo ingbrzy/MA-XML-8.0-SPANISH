@@ -173,6 +173,7 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">¿Borrar registro de llamadas?</string>
   <string name="confirm_delete_selected_all_call_logs">¿Borrar registro de llamadas?</string>
+  <string name="confirm_delete_sim_entry_miui_title">Borrar</string>
   <string name="confirm_export_message">Su lista de contactos se exportará al archivo: %s.</string>
   <string name="confirm_export_title">¿Exportar los contactos?</string>
   <string name="connections">Conexiones</string>
@@ -194,9 +195,9 @@
   <string name="contact_detail_miprofile_exchange_closed">"No hay ningún número de teléfono asociado con esta cuenta Mi
 Las tarjetas de contacto están apagadas"</string>
   <string name="contact_detail_miprofile_privacy_settings">Solicitar permiso para ver</string>
-  <string name="contact_detail_miprofile_request">Tocar para intercambiar tarjetas</string>
+  <string name="contact_detail_miprofile_request">Intercambiar tarjetas de contacto</string>
   <string name="contact_detail_miprofile_request_fail_toast">No se pudo enviar la petición</string>
-  <string name="contact_detail_miprofile_request_subtitle">Cuando el destinatario acepte, la foto de perfil y la información de contacto se actualizará automáticamente</string>
+  <string name="contact_detail_miprofile_request_subtitle">Actualizar automáticamente la foto de perfil y la información de contacto</string>
   <string name="contact_detail_miprofile_request_success_toast">Petición enviada</string>
   <string name="contact_detail_miprofile_save">Tocar para obtener tarjeta de contacto</string>
   <string name="contact_detail_miprofile_save_fail_toast">No se pudo obtener la tarjeta de contacto</string>
@@ -208,9 +209,9 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="contact_detail_profile_switch_off">Las tarjetas de contacto están apagadas</string>
   <string name="contact_detail_profile_switch_off_fail_toast">No se pudieron apagar las tarjetas de contacto</string>
   <string name="contact_detail_profile_switch_off_success_toast">Tarjetas de contacto apagadas</string>
-  <string name="contact_detail_profile_switch_on">Ver la foto de perfil del contacto</string>
+  <string name="contact_detail_profile_switch_on">Ver las fotos de perfil del contacto</string>
   <string name="contact_detail_profile_switch_on_fail_toast">No se pudieron encender las tarjetas de contacto</string>
-  <string name="contact_detail_profile_switch_on_subtitle">Tocar para encender esta funcionalidad.</string>
+  <string name="contact_detail_profile_switch_on_subtitle">Tocar para encender las tarjetas de contacto</string>
   <string name="contact_detail_profile_switch_on_success_toast">Las tarjetas de contacto ya están encendidas</string>
   <string name="contact_directory_description">Directorio %1$s</string>
   <string name="contact_edit_title_edit">Editar contacto</string>
@@ -499,12 +500,15 @@ Motivo: \"%s\""</string>
   <string name="in_call_show_delete_message">¿Borrar tu vídeo?</string>
   <string name="in_call_show_delete_title">¿Borrar vídeo?</string>
   <string name="in_call_show_demo_present">Previsualizar</string>
+  <string name="in_call_show_guide_intro">"Grabar un vídeo de perfil
+ que se reproducirá en los dispositivos de otros usuarios de MIUI cuando les llames"</string>
   <string name="in_call_show_guide_start_recording">Grabar ahora</string>
+  <string name="in_call_show_guide_title">Vídeo de perfil</string>
   <string name="in_call_show_long_press_to_record">Pulsa y mantén para grabar</string>
   <string name="in_call_show_pick_video">Elegir vídeo</string>
   <string name="in_call_show_preview">Previsualizar</string>
   <string name="in_call_show_recording">Grabando…</string>
-  <string name="in_call_show_reshoot">Reintentar</string>
+  <string name="in_call_show_reshoot">Grabar de nuevo</string>
   <string name="in_call_show_save_completed">Perfil de vídeo guardado</string>
   <string name="in_call_show_save_failed">No se pudo guardar el vídeo</string>
   <string name="in_call_show_tap_to_show_demo">Toca la pantalla para previsualizar</string>
@@ -622,7 +626,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_edit_title">Editar perfil</string>
   <string name="miprofile_error_accept_self">No puedes intercambiar tu propia tarjeta de contacto</string>
   <string name="miprofile_error_no_miaccount">Iniciar sesión con tu cuenta Mi</string>
-  <string name="miprofile_error_not_opened">Las tarjetas de contacto están apagadas</string>
+  <string name="miprofile_error_not_opened">Apagar tarjetas de contacto</string>
   <string name="miprofile_error_not_set">Tu tarjeta de contacto no ha sido sincronizada con el servidor</string>
   <string name="miprofile_error_unknown">Error desconocido</string>
   <string name="miprofile_name">Mi perfil</string>
@@ -1094,8 +1098,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="scan">Escanear</string>
   <string name="scan_duplicate_message">%1$d contactos con  información idéntica</string>
   <string name="scan_merge">Buscando contactos duplicados…</string>
-  <string name="scan_qrcode_card_hint1">Escanear código QR</string>
-  <string name="scan_qrcode_card_hint2">Añadir mi información a sus contactos</string>
+  <string name="scan_qrcode_card_hint1">Escanear el código QR de arriba</string>
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"El almacenamiento no pudo ser escaneado"</string>
   <string name="sdcard_not_mounted_dialog_message">"Inserte la tarjeta SD ahora.

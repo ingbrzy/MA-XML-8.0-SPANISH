@@ -460,11 +460,11 @@
         <item>Nativo</item>
      </string-array>
 	 <string-array name="entries_font_size">
-        <item>Normal</item>
-        <item>Medio</item>
-        <item>Grande</item>
-        <item>Enorme</item>
-        <item>Godzilla</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
     </string-array>
      <string-array name="fluency_mode_confirms">
         <item>¿Reiniciar el dispositivo para aplicar los cambios?</item>
@@ -475,8 +475,8 @@
         <item>Mostrar animaciones del sistema</item>
      </string-array>
      <string-array name="fluency_mode_summaries">
-        <item>"Para acelerar el rendimiento del dispositivo, ocultar animaciones del sistema"</item>
-        <item>"Mostrar animaciones del sistema puede ralentizar el rendimiento del dispositivo"</item>
+        <item>Acelera el rendimiento del dispositivo</item>
+        <item>Puede ralentizar el rendimiento del dispositivo</item>
      </string-array>
      <integer-array name="font_size_preference_preview_size">
         <item>14</item>

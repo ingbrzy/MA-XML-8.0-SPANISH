@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action">Ver</string>
+  <string name="already_used">Usado</string>
+  <string name="app_name">XiaomiVIP</string>
+  <string name="award_taken">Puntos obtenidos</string>
+  <string name="award_time">Obtenido el %s</string>
+  <string name="awarded_package_is_expired">Expirado</string>
+  <string name="awarded_package_was_redeemed">Canjeado</string>
+  <string name="buff_enable">[ habilitar ]</string>
+  <string name="cube_ptr_hours_ago"> horas hace</string>
+  <string name="cube_ptr_last_update">última actualización: </string>
+  <string name="cube_ptr_minutes_ago"> minutos hace</string>
+  <string name="cube_ptr_pull_down">Tirar</string>
+  <string name="cube_ptr_pull_down_to_refresh">Tirar para refrescar</string>
+  <string name="cube_ptr_refresh_complete">Actualizado.</string>
+  <string name="cube_ptr_refreshing">Actualizando...</string>
+  <string name="cube_ptr_release_to_refresh">Soltar para refrescar</string>
+  <string name="cube_ptr_seconds_ago"> segundos hace</string>
+  <string name="days">%d días</string>
+  <string name="exp_buff">+%s%% experiencia</string>
+  <string name="experience">Exp</string>
+  <string name="expired">Expirado</string>
+  <string name="fail_reach_server">No se puede conectar al servidor</string>
+  <string name="giveup">Abandonar</string>
+  <string name="hello">Hola</string>
+  <string name="hours">%d horas</string>
+  <string name="in_progress">Enviando petición…</string>
+  <string name="invalid_json">Algo fue mal</string>
+  <string name="level">Nivel</string>
+  <string name="level_detail">Límite de tarea diaria: %d</string>
+  <string name="level_exp_value" formatted="false">%d/%d</string>
+  <string name="level_info_format" formatted="false">"Nivel %d %d/%d
+%s"</string>
+  <string name="millis">%d milisegundos</string>
+  <string name="minutes">%d minutos</string>
+  <string name="my_award">Mis premios</string>
+  <string name="no_app">Por favor, instala la aplicación primero</string>
+  <string name="no_award">Sin premios</string>
+  <string name="no_network">No se puede conectar a la red</string>
+  <string name="no_task">Todas las tareas han sido completadas</string>
+  <string name="passive_task">Tareas en segundo plano</string>
+  <string name="privilege">Privilegios</string>
+  <string name="promote">Subir nivel</string>
+  <string name="query_level_fail">No se pudo obtener la información</string>
+  <string name="query_user_tasks_fail">No se pudo obtener la información de la tarea</string>
+  <string name="seconds">%d segundos</string>
+  <string name="take_awarded_package">Canjear</string>
+  <string name="take_awarded_package_failed">No se pudo canjear el regalo. Espera un minuto o dos y vuelve a intentarlo.</string>
+  <string name="task">Tareas</string>
+  <string name="task_begin">En progreso…</string>
+  <string name="task_completed">Completada</string>
+  <string name="task_done">Hecha</string>
+  <string name="task_limit">No quedan tareas hoy. ¡Hasta mañana!</string>
+  <string name="task_not_completed">No completada</string>
+  <string name="task_ongoing">En curso</string>
+  <string name="task_score">%d puntos</string>
+  <string name="task_select_title">Elegir una tarea</string>
+  <string name="task_start">Comenzar</string>
+  <string name="task_take_award">Obtener premios</string>
+  <string name="today_task">Tareas de hoy</string>
+  <string name="today_task_format" formatted="false">%d/%d</string>
+  <string name="unlimited_task">Tareas especiales</string>
+  <string name="upgraded">¡Nivel subido!</string>
+  <string name="use">Usar</string>
+  <string name="validity">Expira el %s</string>
+</resources>

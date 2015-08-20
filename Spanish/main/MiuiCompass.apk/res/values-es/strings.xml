@@ -2,6 +2,10 @@
 <resources>
   <string name="altitude">%.1f</string>
   <string name="altitude_title">Altitud</string>
+  <string name="altitude_uncalibrate_cancel">Cancelar</string>
+  <string name="altitude_uncalibrate_msg">No se puede calibrar la altitud con precisión sin GPS o conexión de datos móviles.</string>
+  <string name="altitude_uncalibrate_refresh">Reintentar</string>
+  <string name="altitude_uncalibrate_tip">No se puede calibrar la altitud</string>
   <string name="altitude_unit">M</string>
   <string name="app_label">Brújula</string>
   <string name="calibrate_altitude">Calibrando...</string>

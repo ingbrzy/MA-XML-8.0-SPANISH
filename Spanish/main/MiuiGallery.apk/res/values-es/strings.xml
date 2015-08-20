@@ -86,6 +86,7 @@
   <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
 %4$s de %3$s compartió el álbum de %5$s contigo"</string>
   <string name="baby_album_sharer_recommand_face">¿Añadir fotos existentes de %1$s?</string>
+  <string name="baby_album_sharers_page_title">Compartir con familiares</string>
   <string name="baby_birthday">Cumpleaños</string>
   <string name="baby_lock_wallpaper">Fondo de pantalla de bloqueo</string>
   <string name="baby_lock_wallpaper_at_least_one_selected">Elegir un álbum</string>
@@ -540,9 +541,6 @@
   <string name="confirm_all_photo_not_this_people_face">¿No asociar con %s?</string>
   <string name="confirm_delete">¿Eliminar %s fotos?</string>
   <string name="confirm_delete_album" formatted="false">¿Desea eliminar %s álbumes (%s elementos totales)?</string>
-  <string name="confirm_delete_has_cloud_image_video">¿Eliminar %s elementos en la nube?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">¿Eliminar %s artículos en local y la nube?</string>
-  <string name="confirm_delete_has_local_image_video">¿Eliminar %s elementos?</string>
   <string name="confirm_delete_init_message">La foto será eliminada de este dispositivo y de Mi Cloud. Si sólo desea eliminarla de su dispositivo, realice esta acción desde dentro de la pestaña "Local".</string>
   <string name="confirm_delete_init_title">Borrar imagen</string>
   <string name="confirm_delete_system_album">%s es un álbum de sistema.</string>
@@ -1068,6 +1066,8 @@
   <string name="user_alias_self">Auto</string>
   <string name="video_err">"No se puede reproducir el vídeo"</string>
   <string name="video_not_exist">"Vídeo no existe"</string>
+  <string name="videos">" vídeos"</string>
+  <string name="view_baby_album">Ver álbum del bebé</string>
   <string name="view_face_album">Ver álbum</string>
   <string name="view_sharers">Ver partícipes</string>
   <string name="vignette">Vignette</string>

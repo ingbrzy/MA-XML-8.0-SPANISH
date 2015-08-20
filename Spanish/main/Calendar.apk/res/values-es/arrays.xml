@@ -205,7 +205,19 @@
 		<item>Fondo blanco</item>
 	</string-array>
     <string-array name="miui_reminder_minutes_labels">
-        <item>Sin aviso</item>
+        <item>Sin recordatorio</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 día</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </string-array>
++    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Sin recordatorio</item>
         <item>0 minutos</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
