@@ -53,15 +53,25 @@
      <string-array name="traffic_sort_type">
         <item>"Uso de datos móviles "</item>
         <item>"Uso Wi-Fi "</item>
-        <item>"Datos guardados "</item>
+        <item>"Datos ahorrados "</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Uso móvil "</item>
         <item>"Uso Wi-Fi "</item>
-        <item>"Datos guardados "</item>
+        <item>"Datos ahorrados "</item>
      </string-array>
      <string-array name="traffic_uints">
         <item>MB</item>
         <item>GB</item>
      </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Frecuentemente usadas</item>
+        <item>Nombre</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Ninguna</item>
+        <item>Baja</item>
+        <item>Media</item>
+        <item>Alta</item>
+    </string-array>
 </resources>
