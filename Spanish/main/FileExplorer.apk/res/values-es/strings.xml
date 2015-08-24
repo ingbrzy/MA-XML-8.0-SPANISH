@@ -68,6 +68,7 @@
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_failed">"No se puede eliminar"</string>
   <string name="delete_file">¿Eliminar este archivo?</string>
+  <string name="delete_file_error">No se pudo eliminar el archivo</string>
   <string name="delete_files">¿Eliminar %1$d archivo(s)?</string>
   <string name="delete_folder">¿Eliminar esta carpeta?</string>
   <string name="delete_folders">¿Eliminar %1$d carpeta(s)?</string>
@@ -233,6 +234,7 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="notification_setting">Notificaciones</string>
   <string name="notification_summary">"%1$s no permite esta característica actualmente"</string>
   <string name="notification_title">Notificar cuando se añadan nuevos ficheros a %1$s</string>
+  <string name="online_not_support">No se puede ver este fichero online por el momento.</string>
   <string name="open_changed_file_message">"El archivo que estás intentando abrir ha sido modificado. Por favor:
 1. Descargar el archivo de nuevo para actualizarlo.
 2. Subirlo a tu cuenta de KuaiPan"</string>
@@ -342,6 +344,7 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="signin_error">"No se puede conectar al servidor. Compruebe su conexión de red."</string>
   <string name="signin_success">"¡Te has registrado!
 Espacio gratuito añadido %1$s"</string>
+  <string name="smb_loading">Un momento…</string>
   <string name="space_info">KuaiPan: %1$s disponible, %2$s en total</string>
   <string name="space_usage">Espacio utilizado</string>
   <string name="start_server">Iniciar el servidor</string>

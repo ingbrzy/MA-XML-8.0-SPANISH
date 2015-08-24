@@ -6,7 +6,7 @@
     <item quantity="one">1 aplicación reciente</item>
   </plurals>
     <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Bloquear %d aplicaciones</item>
-        <item quantity="one">Bloquear %d aplicación</item>
+        <item quantity="other">¿Ocultar notificaciones de %d aplicaciones?</item>
+        <item quantity="one">¿Ocultar notificaciones de esta aplicación?</item>
     </plurals>
 </resources>
