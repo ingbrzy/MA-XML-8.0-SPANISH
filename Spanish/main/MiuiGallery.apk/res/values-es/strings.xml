@@ -126,7 +126,10 @@
   <string name="cannot_remove_creator">"No se puede quitar el creador"</string>
   <string name="cannot_send_message">"No se puede enviar el mensaje"</string>
   <string name="cannot_send_message_reason">No hay destinatarios válidos</string>
+  <string name="cant_delete_system_album">No se puede borrar %s porque es un álbum de sistema.</string>
   <string name="cant_delete_cloud_album">"No se puede borrar %s porque es un álbum de sistema o está siendo compartido con otros usuarios."</string>
+  <string name="change_to_face_mode">Cambiar a modo cara</string>
+  <string name="change_to_photo_mode">Cambiar a modo foto</string>
   <string name="choose_baby_sexy">Género</string>
   <string name="choose_cloud_album">Elegir álbum</string>
   <string name="choose_owner_relation">Relación</string>
@@ -559,6 +562,7 @@
   <string name="cool_portrait">Retrato</string>
   <string name="create_baby_album">Crear un álbum de bebé</string>
   <string name="create_baby_album_dialog_msg">¿Crear un álbum para \"%s\"?</string>
+  <string name="create_baby_album_later_toast">Más tarde también puedes crear un álbum de bebé desde el menú de arriba a la derecha</string>
   <string name="create_new_cloud_folder">Crear una nueva carpeta</string>
   <string name="create_new_face">Nueva persona</string>
   <string name="create_quick_icon_on_desk">Crear accesos directos</string>
@@ -826,6 +830,7 @@
   <string name="not_auto_create_recent_album">Deshacer crear favoritos</string>
   <string name="not_is">¿No es %s?</string>
   <string name="not_now">Ahora no</string>
+  <string name="not_remind_any_more">No recordar más tarde</string>
   <string name="not_show_hidden_albums">"No mostrar álbumes ocultos"</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Mostrar sólo rollo de cámara</string>
@@ -845,6 +850,7 @@
   <string name="operation_remove_from_face_album">Eliminar del álbum</string>
   <string name="operation_remove_secret">Quitar secreto</string>
   <string name="operation_rename">Renombrar</string>
+  <string name="operation_rename_baby">Introducir nombre del bebé</string>
   <string name="operation_set_as_screensaver">Establecer como protector de pantalla</string>
   <string name="operation_share">Compartir</string>
   <string name="operation_successful">Hecho</string>

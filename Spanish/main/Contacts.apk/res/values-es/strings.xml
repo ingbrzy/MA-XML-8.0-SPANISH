@@ -206,7 +206,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="contact_detail_miprofile_subtitle">Ya se han intercambiado las tarjetas</string>
   <string name="contact_detail_profile_switch_fail_network_toast">No se pudo conectar a la red</string>
   <string name="contact_detail_profile_switch_fail_toast">Algo fue mal con nuestro servidor</string>
-  <string name="contact_detail_profile_switch_off">Las tarjetas de contacto están apagadas</string>
+  <string name="contact_detail_profile_switch_off">Apagar tarjetas de contacto</string>
   <string name="contact_detail_profile_switch_off_fail_toast">No se pudieron apagar las tarjetas de contacto</string>
   <string name="contact_detail_profile_switch_off_success_toast">Tarjetas de contacto apagadas</string>
   <string name="contact_detail_profile_switch_on">Ver las fotos de perfil del contacto</string>
@@ -496,7 +496,7 @@ Motivo: \"%s\""</string>
   <string name="importing_vcard_description">Importación de %s</string>
   <string name="importing_vcard_finished_title">Terminado de importar vCard %s</string>
   <string name="in_call_show">Vídeo</string>
-  <string name="in_call_show_camera_open_error">Se ha producido un error al abrir la cámara, reintenta por favor</string>
+  <string name="in_call_show_camera_open_error">No se pudo abrir la cámara</string>
   <string name="in_call_show_delete_message">¿Borrar tu vídeo?</string>
   <string name="in_call_show_delete_title">¿Borrar vídeo?</string>
   <string name="in_call_show_demo_present">Previsualizar</string>
@@ -515,7 +515,7 @@ Motivo: \"%s\""</string>
   <string name="in_call_show_too_short">Demasiado corto. Prueba a grabar un vídeo más largo.</string>
   <string name="in_call_show_video_pick">Elegir</string>
   <string name="in_call_show_video_pick_filter">"El vídeo debe ser más pequeño que 3 MB y más corto que 20 segundos. "</string>
-  <string name="in_call_show_view_play_error">Se ha producido un error al reproducir el vídeo, reintenta por favor</string>
+  <string name="in_call_show_view_play_error">No se pudo reproducir el vídeo</string>
   <string name="insertContactDescription">Crear contacto</string>
   <string name="insertGroupDescription">Crear grupo</string>
   <string name="invalidContactMessage">"No existe el contacto"</string>
