@@ -84,7 +84,7 @@
   <string name="call_forwarding_settings">Ajustes de desvío de llamadas</string>
   <string name="call_record_add_numbers">Añadir números</string>
   <string name="call_record_auto_always">Todos los números</string>
-  <string name="call_record_auto_scenario_title">Configuración de auto-grabación</string>
+  <string name="call_record_auto_scenario_title">Configuración de grabación automática</string>
   <string name="call_record_auto_summary">Todas las llamadas grabadas se guardarán en la carpeta MIUI/sound_recorder/call_rec</string>
   <string name="call_record_auto_title">Grabar automáticamente</string>
   <string name="call_record_auto_unknown_number">Número desconocido</string>
@@ -92,8 +92,8 @@
   <string name="call_record_auto_whitelist_no_item">Agregar un número tocando el botón (+)</string>
   <string name="call_record_auto_whitelist_summary">%d numbers</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
-  <string name="call_record_off_summary">La auto-grabación está desactivada</string>
-  <string name="call_record_on_summary">La auto-grabación está activada</string>
+  <string name="call_record_off_summary">La grabación automática está desactivada</string>
+  <string name="call_record_on_summary">La grabación automática está activada</string>
   <string name="call_record_setting">Ajustes de grabación de llamadas</string>
   <string name="call_record_whitelist_custom">Lista personalizada</string>
   <string name="call_recording_notification_message">Toque para ver.</string>
@@ -652,7 +652,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="registration_status_server_unreachable">Registro de la cuenta no realizado: Comprobar nombre del servidor.</string>
   <string name="registration_status_still_trying">Aún probando</string>
   <string name="reject_via_sms">Respuestas rápidas</string>
-  <string name="reject_via_sms_summary">Editar respuestas pre-escritas</string>
+  <string name="reject_via_sms_summary">Editar respuestas predifinidas</string>
   <string name="reject_via_sms_title">Respuestas rápidas</string>
   <string name="remember_my_choice">Usar siempre llamadas por Internet</string>
   <string name="remove">Borrar</string>
@@ -680,7 +680,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="respond_via_sms_confirmation_format">Mensaje enviado a %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Respuesta rápida</string>
   <string name="respond_via_sms_menu_reset_default_activity">Restaurar por defecto</string>
-  <string name="respond_via_sms_setting_summary">Editar respuestas pre-escritas</string>
+  <string name="respond_via_sms_setting_summary">Editar respuestas predifinidas</string>
   <string name="respond_via_sms_setting_title">Respuestas rápidas</string>
   <string name="response_error">Respuesta de red inesperada.</string>
   <string name="restaurants_disable">Restaurantes desactivados</string>
