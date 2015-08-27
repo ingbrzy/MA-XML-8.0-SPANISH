@@ -159,6 +159,7 @@
      <string name="pref_summary_garbage_cleanup_check_time">Programar una rutina de limpieza</string>
      <string name="pref_summary_garbage_process_mode">Establecer notificaciones cuando se ejecuta la limpieza</string>
      <string name="pref_summary_open_optimizer_cloud_scan">Subir y comparar nombres de archivos desconocidos con definiciones en línea</string>
+	 <string name="pref_summary_open_optimizer_memory_scan">Comprobar y limpiar automáticamente la memoria</string>
      <string name="pref_title_auto_clean_and_alert">Limpiar automáticamente</string>
      <string name="pref_title_auto_clean_content_choose">Seleccione elementos a limpiar</string>
      <string name="pref_title_auto_update_cleanup_db">Actualización automática</string>
@@ -171,6 +172,7 @@
      <string name="pref_title_garbage_process_mode">Notificaciones</string>
      <string name="pref_title_manual_check_cleanup_db_update">Actualizar ahora</string>
      <string name="pref_title_open_optimizer_cloud_scan">Subir</string>
+	 <string name="pref_title_open_optimizer_memory_scan">Limpieza de memoria</string>
 	 <string name="privacy_app_desc">Cuenta y contraseña</string>
      <string name="privacy_app_desc_message">Cuenta, contraseñas y mensajes</string>
      <string name="privacy_app_desc_search">Cuenta, contraseñas e historial de búsqueda</string>
@@ -211,6 +213,10 @@
      <string name="toast_network_eror">"No se puede conectar a la red"</string>
      <string name="toast_removed_from_white_list">" quitado de las excepciones"</string>
      <string name="toast_resolve_apk_error">Resolver error de apk</string>
+	 <string name="toast_scaning_similar_image">Comprobando fotos…</string>
+	 <string name="toast_select_image_need_delete">Seleccionar fotos a borrar</string>
+	 <string name="toast_select_white_need_remove">Seleccionar elementos a borrar</string>
+	 <string name="toast_selecte_group_restore_succeed">Fotos restauradas</string>
      <string name="toast_uninstall_success">Desinstalación completa</string>
      <string name="white_list_ad_header">Ficheros de publicidad: %d</string>
      <string name="white_list_apk_header">Instalar paquetes: %d</string>

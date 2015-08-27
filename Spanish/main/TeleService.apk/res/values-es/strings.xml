@@ -441,7 +441,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="list_language_summary">Seleccione el idioma de noticias</string>
   <string name="list_language_title">Idioma</string>
    <string name="livetalk_about_info">About</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Los códigos cortos y los números de servicio no están soportados por ahora. Necesita conectarse a internet para usar esta funcionalidad. Cada llamada usa 1Kb de datos móviles. Tienes que encender Free Listening para usar este servicio, de lo contrario tu proveedor puede cobrarte por roaming.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Los códigos cortos de números de servicio no están soportados por ahora. Necesita conectarse a internet para usar esta funcionalidad. Cada llamada usa 1Kb de datos móviles. Enciende Free Listening para usar este servicio, de lo contrario tu proveedor puede cobrarte por roaming.)"</string>
   <string name="livetalk_activate">Activar paquete autorecarga</string>
   <string name="livetalk_activate_number">Activar tarjeta SIM</string>
   <string name="livetalk_activate_number_1">Activar SIM 1</string>
@@ -461,8 +461,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="livetalk_creat_account_fialed">Error de cuenta</string>
   <string name="livetalk_dial_direct">Marcar directamente</string>
   <string name="livetalk_experience_button">Probar ahora</string>
-  <string name="livetalk_introduction_text">"Bajo flujo, bajo coste y alta calidad
-Llamadas internacionales súper baratas por internet"</string>
+  <string name="livetalk_introduction_text">Llamadas internacionales de bajo coste</string>
   <string name="livetalk_last_step">Atrás</string>
   <string name="livetalk_login_experience_button">Iniciar sesión</string>
   <string name="livetalk_name">Paquete de recarga</string>
@@ -470,8 +469,8 @@ Llamadas internacionales súper baratas por internet"</string>
   <string name="livetalk_network_confirm_summary">Los paquetes de recarga usan 1KB de datos móviles cada vez que se conecta una llamada.</string>
   <string name="livetalk_next_step">Siguiente</string>
   <string name="livetalk_niece_price_arrow">Esta funcionalidad está disponible en 13 países y regiones</string>
-  <string name="livetalk_niece_price_summary">Tarifas internacionales, por favor usa el registro</string>
-  <string name="livetalk_niece_price_title">En la beta cerrada preferente</string>
+  <string name="livetalk_niece_price_summary">Mirar tarifas internacionales para más información</string>
+  <string name="livetalk_niece_price_title">Esta funcionalidad no está disponible todavía</string>
   <string name="livetalk_nsufficient_balance">Saldo insuficiente.</string>
   <string name="livetalk_package_introduction_text">Descuento exclusivo para usuarios de MIUI. Menor uso de datos y precios más bajos.</string>
   <string name="livetalk_package_name">Recargar saldo</string>
@@ -596,9 +595,9 @@ Llamadas internacionales súper baratas por internet"</string>
   <string name="no_wifi_available">Necesitas estar conectado a una red Wi-Fi para hacer llamadas por internet (usar los ajustes de la red Wi-Fi).</string>
   <string name="no_wifi_available_title">No hay conexión Wi-Fi</string>
   <string name="not_a_valid_port">El número de puerto debe estar entre 1000 y 65534.</string>
-  <string name="not_activate_sim_card_content">El paquete de recarga no ha sido activado para la tarjeta SIM seleccionada. Prueba a usar tu SIM normal para hacer esta llamada. Tu proveedor te cobrará según tus tarifas habituales.</string>
+  <string name="not_activate_sim_card_content">El paquete de recarga no ha sido activado para la tarjeta SIM seleccionada. Prueba a usar tu SIM normal para hacer esta llamada. Tu proveedor te cobrará por esta llamada.</string>
   <string name="not_allowed">"Tu tarjeta SIM no permite una conexión a esta red."</string>
-  <string name="not_sufficient_funds_content">El saldo de tu cuenta es muy bajo. Prueba a usar tu SIM normal para hacer esta llamada. Tu proveedor te cobrará según tus tarifas habituales.</string>
+  <string name="not_sufficient_funds_content">No tienes suficiente saldo en tu cuenta. Prueba a usar tu SIM normal para hacer esta llamada. Tu proveedor te cobrará por esta llamada.</string>
   <string name="not_supported_number_content">El paquete de recarga no soporta números de servicio. Prueba a usar tu SIM normal para hacer esta llamada. Tu proveedor te cobrará según tus tarifas habituales.</string>
   <string name="not_voice_capable">Llamada de voz no soportada</string>
   <string name="notification_missedCallTicker">Llamada perdida de %s</string>
