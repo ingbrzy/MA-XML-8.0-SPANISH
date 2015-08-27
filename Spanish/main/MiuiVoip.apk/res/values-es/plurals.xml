@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Estás a %1$d pasos de ser un desarrollador de voip.</item>
+        <item quantity="one">Estás a %1$d paso de ser un desarrollador de voip.</item>
+    </plurals>
+    <plurals name="show_nondev_countdown">
+        <item quantity="other">Estás a %1$d pasos de salir del modo desarrollador de voip.</item>
+        <item quantity="one">Estás a %1$d paso de salir del modo desarrollador de voip.</item>
+    </plurals>
+</resources>

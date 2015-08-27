@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">com.securitycore.miui_t</string>
-  <string name="default_sdcard_volume_path"/>
+  <string name="avl_dialog_header">Esta funcionalidad encripta y sube el ID de tu dispositivo a los servidores de AVL (%s).</string>
+  <string name="avl_dialog_policy">ver Política de Privacidad</string>
+  <string name="avl_dialog_title">Política de Privacidad de AVL</string>
   <string name="hello_world">¡Hola mundo!</string>
   <string name="menu_settings">Ajustes</string>
-  <string name="title_activity_main">MainActivity</string>
+  <string name="tencent_dialog_cloudscan">Subir y escanear nombres y detalles de aplicaciones usando definiciones de virus en línea.</string>
+  <string name="tencent_dialog_dbupdate">Actualizar definiciones de virus automáticamente</string>
+  <string name="tencent_dialog_header">Esta funcionalidad encripta y sube el ID de tu dispositivo a los servidores de Tencent (%s).</string>
+  <string name="tencent_dialog_policy">ver Política de Privacidad</string>
+  <string name="tencent_dialog_title">Política de Privacidad de Tencent</string>
 </resources>

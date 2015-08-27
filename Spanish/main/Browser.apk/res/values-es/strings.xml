@@ -17,10 +17,11 @@
   <string name="account_prifix">Cuenta:</string>
   <string name="action">Iniciar sesión</string>
   <string name="action_menu_text_bandwidth">Ancho de banda</string>
-  <string name="action_menu_text_bandwidth_off">Ancho de banda/Desactivado</string>
-  <string name="action_menu_text_bandwidth_on">Ancho de banda/Activado</string>
+  <string name="action_menu_text_bandwidth_off">Ahorro de datos</string>
+  <string name="action_menu_text_bandwidth_on">Ahorro de datos</string>
   <string name="action_menu_text_bookmark">Agregar un marcador</string>
   <string name="action_menu_text_exit">Salida</string>
+  <string name="action_menu_text_find_in_page">Buscar en la página</string>
   <string name="action_menu_text_fullscreen">Pantalla completa</string>
   <string name="action_menu_text_history">Marcadores/Historial</string>
   <string name="action_menu_text_nightmode">Modo noche</string>
@@ -93,7 +94,7 @@
   <string name="bookmark_group_lable">Grupo</string>
   <string name="bookmark_list_view">Lista</string>
   <string name="bookmark_needs_title">Marcador debe tener un nombre.</string>
-  <string name="bookmark_needs_url">Marcador debe tener una ubicación.</string>
+  <string name="bookmark_needs_url">Marcador debe contener una URL.</string>
   <string name="bookmark_not_saved">"No se pudo guardar en favoritos"</string>
   <string name="bookmark_rename_group">Cambiar el nombre de grupo</string>
   <string name="bookmark_saved">Guardado en favoritos</string>
@@ -307,7 +308,7 @@
   <string name="js_dialog_before_unload_title">Confirmar Navegación</string>
   <string name="js_dialog_title">La página en \"%s\" dice:</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="js_disable_confirm_message">Desactivar JavaScript puede causar que algunos sitios web se visualicen incorrectamente</string>
+  <string name="js_disable_confirm_message">Desactivar JavaScript puede causar que algunos sitios web se visualicen incorrectamente.</string>
   <string name="js_disable_confirm_title">¿Desactivar JavaScript?</string>
   <string name="js_engine_flags">Establecer banderas JS</string>
   <string name="last_month">Mes pasado</string>
@@ -572,7 +573,7 @@
   <string name="profiler_stopped_toast">Administrador de perfiles terminado. Los resultados son %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Ajustar fondo de pantalla…</string>
   <string name="qr_code_title">Código QR</string>
-  <string name="quicklink_bookmark_save">Guardar en</string>
+  <string name="quicklink_bookmark_save">UBICACIÓN DE MARCADOR</string>
   <string name="quicklink_not_saved">"No se puede agregar a la página de inicio"</string>
   <string name="quicklink_saved">Añadido a la página de inicio</string>
   <string name="quicklink_saved_before">Ya se ha agregado este sitio</string>
@@ -782,7 +783,7 @@
   <string name="webapp_settings_title">Ajustes</string>
   <string name="webapp_splashview_loading">Cargando…</string>
   <string name="webapp_webapp_favortes_title">Favoritos</string>
-  <string name="webpage_bookmark_title">Marcador</string>
+  <string name="webpage_bookmark_title">Marcadores</string>
   <string name="webpage_history_title">Historial</string>
   <string name="webpage_title">Marcadores e historial</string>
   <string name="website_settings_clear_all">Borrar todo</string>

@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="all_call_livetalk_enable">Usa paquetes de recarga para llamadas nacionales e internacionales</string>
+  <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s nacionales) | %2$s (%3$s)</string>
   <string name="alwaysUsePrompt">"No mostrar de nuevo"</string>
   <string name="auto_start_warning_allow">Permitir</string>
   <string name="auto_start_warning_deny">Denegar</string>
@@ -25,6 +27,10 @@ Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
   <string name="handy_mode_enter_dlg_title">Operación con una mano</string>
   <string name="handy_mode_summary">Para cerrar pulse en un espacio vacío de la pantalla</string>
   <string name="handy_mode_title">Operación con una mano</string>
+  <string name="internal_livetalk_enable">Usar paquetes de recarga para llamadas nacionales</string>
+  <string name="internal_remain_mins">%1$s minutos restantes (llamadas nacionales)</string>
+  <string name="international_livetalk_enable">Usar paquetes de recarga para llamadas internacionales</string>
+  <string name="international_remain_mins">%1$s minutos restantes (%2$s llamadas)</string>
   <string name="key_btn_ok">Aceptar</string>
   <string name="key_btn_space">Espacio</string>
   <string name="lockscreen_access_pattern_cell_added">Patrón añadido</string>
