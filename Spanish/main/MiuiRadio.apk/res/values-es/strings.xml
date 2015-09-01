@@ -20,6 +20,8 @@
   <string name="channel_off">Este programa ya no está disponible</string>
   <string name="click_to_play">Vacío</string>
   <string name="confirm_delete_history_text">¿Borrar elementos seleccionados?</string>
+  <string name="continue_play">Reproducir</string>
+  <string name="default_cp_name">Qingting FM</string>
   <string name="device_connected">Conectado</string>
   <string name="device_not_connected">No conectado</string>
   <string name="dialog_title_download_quality">Calidad de descarga</string>
@@ -82,14 +84,14 @@
   <string name="priority_storage">Usar tarjeta SD externa</string>
   <string name="priority_storage_summary">Descarga automáticamente a la tarjeta SD externa si está disponible</string>
   <string name="project_device">Teléfono Mi</string>
-  <string name="qingting_logo"> | Qingting FM</string>
+  <string name="qingting_logo"> | %1$s </string>
   <string name="remaining_time">"Tiempo restante: "</string>
   <string name="search_hint">Buscar</string>
   <string name="select_device">Seleccionar dispositivo</string>
   <string name="share">Compartir</string>
   <string name="share_button">Compartir</string>
   <string name="share_in_development"/>
-  <string name="share_text">desde Radio</string>
+  <string name="share_text">desde Radio Xiaomi [%1$s]</string>
   <string name="share_text_other">Escuchar %1$s a %2$s.</string>
   <string name="sleep_mode_canceled">Temporizador apagado</string>
   <string name="still_in_dev">"Todavía estamos trabajando en esta funcionalidad"</string>

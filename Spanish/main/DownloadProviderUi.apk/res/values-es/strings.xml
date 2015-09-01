@@ -82,7 +82,9 @@
   <string name="download_title_sorted_by_size">Descargas - Ordenadas por tamaño</string>
   <string name="download_wait_connect">Esperando a conectar</string>
   <string name="download_when_network_connected">Descargar mediante conexión de datos</string>
+  <string name="downloaded">Descarga completada</string>
   <string name="downloaded_empty">Vacío</string>
+  <string name="downloading">Descargando…</string>
   <string name="downloading_empty">Vacío</string>
   <string name="downloads_operating">Procesando…</string>
   <string name="dredge_xunlei_account">Crear una cuenta Xunlei</string>
@@ -101,6 +103,8 @@
   <string name="high_speed_channel">Acelerador Xunlei (de pago): </string>
   <string name="immediately_a_renewal">Renueve su suscripción ahora</string>
   <string name="input_valid_address">Introduce ruta de archivo</string>
+  <string name="install">Instalar</string>
+  <string name="installing">Instalando…</string>
   <string name="invalid_address">La ruta de archivo introducida es inválida</string>
   <string name="keep_queued_download">Mantener</string>
   <string name="media_filter">MEDIA</string>
@@ -119,12 +123,14 @@
   <string name="new_add">Nuevo</string>
   <string name="no_downloads">Sin descargas</string>
   <string name="one_month">1 mes</string>
+  <string name="open">Abierta</string>
   <string name="open_download">Abrir</string>
   <string name="open_xunlei_speed_service">Iniciar acelerador de descargas Xunlei</string>
   <string name="original_price">Precio</string>
   <string name="other_filter">OTROS</string>
   <string name="package_filter">PAQUETES</string>
   <string name="pause_download">Pausar</string>
+  <string name="paused">Pausada</string>
   <string name="paused_by_app">En pausa</string>
   <string name="paused_insufficient_space">A la espera de tener espacio suficiente</string>
   <string name="paused_queued_for_wifi">A la espera de red</string>
@@ -132,7 +138,7 @@
   <string name="paused_waiting_for_network">A la espera de red</string>
   <string name="paused_waiting_to_retry">Esperando para reintentar</string>
   <string name="period_of_validity">Validez:</string>
-  <string name="pref_download_revert_default">Usar ubicación de descargas por defecto</string>
+  <string name="pref_download_revert_default">Defecto</string>
   <string name="pref_download_settings_title">Límite de tamaño de descarga</string>
   <string name="pref_download_storage_path">Crear una nueva carpeta para descargas</string>
   <string name="pref_summary_any_bytes_popup">Descargar archivos sólo mediante conexión Wi-Fi</string>

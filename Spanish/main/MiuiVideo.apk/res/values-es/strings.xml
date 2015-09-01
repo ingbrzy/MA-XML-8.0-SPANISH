@@ -339,7 +339,7 @@
   <string name="video_info_resolution_label">Resolución de vídeo:</string>
   <string name="video_info_video_coding_label">Formato codificación de vídeo:</string>
   <string name="video_plugin">Plugin de vídeo</string>
-  <string name="video_plugin_downloading">Descargando...</string>
+  <string name="video_plugin_downloading">Descargando (%1$s), por favor espera.</string>
   <string name="video_plugin_prepare">Preparando plugin de vídeo, por favor espere.</string>
   <string name="vp_VideoView_error_button">Aceptar</string>
   <string name="vp_VideoView_error_network_not_available">"No se puede conectar a la red"</string>
@@ -381,6 +381,7 @@
   <string name="vp_low_definition">BAJA</string>
   <string name="vp_maintitlearea">Ver vídeo en HD en cualquier parte</string>
   <string name="vp_media_info">Ver información del vídeo</string>
+  <string name="vp_media_type_banned">Este tipo de medio no puede ser soportado</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Emitir a pantalla</string>
   <string name="vp_newest_ep">Nuevo</string>
