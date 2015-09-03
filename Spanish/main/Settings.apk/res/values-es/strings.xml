@@ -1456,10 +1456,11 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
      <string name="misc_files">Archivos varios</string>
      <string name="misc_files_selected_count">Selecionados %1$d de %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
+	 <string name="miui_allow_alarm">Alarmas</string>
+	 <string name="miui_allow_light">LED de notificaciones</string>
 	 <string name="miui_allow_music">Multimedia</string>
      <string name="miui_allow_vibrate">Vibraciones</string>
-     <string name="miui_data_usage_menu_metered">Puntos móviles</string>
-     <string name="miui_disturb_title">No molestar</string>
+	 <string name="miui_disturb_title">Elegir modo</string>
      <string name="miui_screensaver_show_time">Duración</string>
      <string name="miui_screensaver_show_time_select_title">Establecer duración de las diapositivas</string>
      <string name="miui_screensaver_state_off">Apagado</string>
@@ -1988,7 +1989,7 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
      <string name="screen_paper_mode_apps_title">Usar modo lectura</string>
      <string name="screen_paper_mode_global_summary">Usar modo lectura para todas las aplicaciones</string>
      <string name="screen_paper_mode_global_title">Todas las aplicaciones</string>
-     <string name="screen_paper_mode_local_summary">usar modo lectura para las aplicaciones que elija</string>
+     <string name="screen_paper_mode_local_summary">Usar modo lectura para las aplicaciones que elija</string>
      <string name="screen_paper_mode_local_title">Aplicaciones seleccionadas</string>
      <string name="screen_paper_mode_off_apps_title">"No usar modo lectura"</string>
      <string name="screen_paper_mode_range_title">Ajustes</string>
