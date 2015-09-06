@@ -19,6 +19,11 @@
      <string name="access_control_recording_intro_header">Dibuja un patrón de desbloqueo:</string>
      <string name="access_control_reset_by_account">Inicia sesión en tu cuenta Mi para restablecer contraseña</string>
      <string name="accessibility_captioning_title">Subtítulos</string>
+	 <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidad es experimental y puede afectar al rendimiento.</string>
+     <string name="accessibility_display_daltonizer_preference_title">Corrección de color</string>
+     <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Puede afectar al rendimiento</string>
+     <string name="accessibility_display_inversion_preference_title">Inversión de color</string>
+     <string name="accessibility_display_title">Pantalla</string>
      <string name="accessibility_enable">Accesibilidad</string>
      <string name="accessibility_feature_state_off">Apagado</string>
      <string name="accessibility_feature_state_on">Encendido</string>
@@ -56,7 +61,9 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="accessibility_sync_disabled">Sincronización desactivada</string>
      <string name="accessibility_sync_enabled">Sincronización activada</string>
      <string name="accessibility_sync_error">Error de Sincronización.</string>
+     <string name="accessibility_sync_in_progress">Sincronizando</string>
      <string name="accessibility_system_title">Sistema</string>
+     <string name="accessibility_toggle_high_text_contrast_preference_title">Texto de alto contraste</string>
      <string name="accessibility_toggle_large_text_preference_title">Texto Grande</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualizar ampliación de pantalla en las transiciones entre aplicaciones</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto actualizar ampliación de pantalla</string>
@@ -84,6 +91,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="additional_system_update_menu" />
      <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales de Sistema</string>
      <string name="adjust_3d_depth_title">"Ajustar profundidad para juegos 3D</string>
+	 <string name="advanced_security_title">Avanzado</string>
      <string name="advanced_settings">Ajustes avanzados</string>
      <string name="advanced_settings_summary">Activar más opciones de ajuste</string>
      <string name="advanced_text_layout">Activar las presentaciones de texto avanzado</string>
@@ -837,6 +845,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
      <string name="disable_service_title">¿Detener %1$s?</string>
      <string name="disable_text">Desactivar</string>
      <string name="disabled">Desactivado</string>
+	 <string name="disabled_because_no_backup_security">Para usarlo, debes establecer una pantalla de bloqueo</string>
      <string name="disconnect">Desconectar</string>
      <string name="display_font_size_label">Tamaño de letra:</string>
      <string name="display_label">Pantalla</string>
@@ -850,6 +859,15 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
      <string name="dlg_error_unmount_text">"No se pudo desmontar el almacenamiento USB.  Pruebe de nuevo más tarde."</string>
      <string name="dlg_error_unmount_title" />
      <string name="dlg_ok">Aceptar</string>
+	 <string name="dndm_alarm_content">Sonidos</string>
+     <string name="dndm_alarm_content_all">Permitir todo</string>
+     <string name="dndm_alarm_content_call">Llamadas</string>
+     <string name="dndm_alarm_content_call_sms">Llamadas y mensajes</string>
+     <string name="dndm_alarm_content_event">Notificaciones</string>
+     <string name="dndm_alarm_content_event_and_call">Notificaciones y llamadas</string>
+     <string name="dndm_alarm_content_event_and_sms">Notificaciones y mensajes</string>
+     <string name="dndm_alarm_content_not_all">Silenciar todo</string>
+     <string name="dndm_alarm_content_sms">Mensajes</string>
      <string name="dndm_auto_button_title">Programar el modo no molestar</string>
      <string name="dndm_auto_setting_group">Programado</string>
      <string name="dndm_auto_time_setting">Establecer tiempo</string>
@@ -1369,7 +1387,9 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="manage_mobile_plan_title">Plan móvil</string>
      <string name="manage_notification_access">Acceso a notificaciones</string>
      <string name="manage_notification_access_summary_zero">Las aplicaciones no pueden leer notificaciones</string>
+	 <string name="manage_notification_access_title">Acceso a notificaciones</string>
      <string name="manage_space_text">Gestionar espacio</string>
+     <string name="manage_trust_agents">Agentes de confianza</string>
      <string name="manage_xiaomi_router">Ajustes del Mi Router</string>
      <string name="manageapplications_settings_summary">Gestionar y eliminar aplicaciones instaladas</string>
      <string name="manageapplications_settings_title">Gestionar aplicaciones</string>
@@ -2502,6 +2522,7 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="update_progress_for_updates">Actualizando (%s)</string>
      <string name="upload_debug_log_summary">Ayudar a mejorar MIUI mandando datos de uso anónimos.</string>
      <string name="upload_debug_log_title">Programa de experiencia de usuario</string>
+	 <string name="usage_access_title">Aplicaciones con acceso de uso</string>
      <string name="usage_log">Estadísticas de uso de aplicaciones</string>
      <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
      <string name="usage_stats_label">Estadísticas de uso</string>
