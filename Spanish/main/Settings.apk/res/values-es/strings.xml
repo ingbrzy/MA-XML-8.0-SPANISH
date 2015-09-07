@@ -672,6 +672,14 @@ Para seguir utilizando su teléfono, necesita realizar un reinicio de fábrica. 
      <string name="current_input_method">Por defecto</string>
      <string name="current_use_ese">Utilizando elemento con seguridad incorporada</string>
      <string name="current_use_uicc_se">Utilizando elemento seguro en la Tarjeta SIM</string>
+	 <string name="daltonizer_mode_deuteranomaly">Deuteranomalía (rojo-verde)</string>
+     <string name="daltonizer_mode_disabled">Desactivado</string>
+     <string name="daltonizer_mode_monochromacy">Monocromatismo</string>
+     <string name="daltonizer_mode_protanomaly">Protanomalía (rojo-verde)</string>
+     <string name="daltonizer_mode_tritanomaly">Tritanomalía (azul-amarillo)</string>
+     <string name="daltonizer_type">Modo de corrección</string>
+     <string name="daltonizer_type_overridden">Sobrescrito por %1$s</string>
+     <string name="dashboard_title">Ajustes</string>
      <string name="data_size_label">Datos</string>
      <string name="data_usage_app_restrict_background">Restringir uso de datos en segundo plano</string>
      <string name="data_usage_app_restrict_background_summary">Desactivar datos en segundo plano para redes móviles. Las redes no-móviles se utilizaran si están disponibles.</string>
@@ -776,6 +784,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
      <string name="debug_layout_summary">Mostrar límites de clip, márgenes, etc.</string>
      <string name="debug_log">Programa de experiencia de usuario</string>
      <string name="debug_monitoring_category">Monitorizando</string>
+	 <string name="debug_view_attributes">Habilitar inspección de atributos de vista</string>
      <string name="default_date_format">dd/MM/yyyy</string>
      <string name="default_input_method">Elegir método de entrada por defecto</string>
      <string name="default_usb_mode">Conexión USB</string>
@@ -2130,6 +2139,8 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
      <string name="select_runtime_dialog_title">Seleccionar runtime</string>
      <string name="select_runtime_title">Seleccionar runtime</string>
      <string name="select_runtime_warning_message">Reiniciar para cambiar runtime de %1$s a %2$s?</string>
+	 <string name="select_logd_size_dialog_title">Seleccionar tamaños de Logger por búfer de log</string>
+     <string name="select_logd_size_title">Tamaños del búfer de Logger</string>
      <string name="select_ssid_type_title">Seleccionar SSID</string>
      <string name="selinux_status">Estado de SELinux</string>
      <string name="selinux_status_disabled">Desconectado</string>
@@ -2216,6 +2227,7 @@ Posiblemente PIN incorrecto."</string>
      <string name="sim_radio_off">No activada</string>
      <string name="sim_reenter_new">Reescriba el nuevo código PIN</string>
      <string name="sim_status_title">Estado de SIM</string>
+     <string name="simulate_color_space">Simular espacio de color</string>
      <string name="skip_label">Omitir</string>
      <string name="skip_lock_screen_confirm_msg">Las siguientes funciones estarán desactivadas para la pantalla de bloqueo: notificaciones, controles del reproductor de música, deslizar a la izquierda para acceder a la cámara, y deslizar a la derecha para acceder a Mi Home.</string>
      <string name="skip_step">Omitir este paso</string>
@@ -2541,6 +2553,10 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="usage_type_video">Vídeo</string>
      <string name="usage_type_wake_lock">Activo</string>
      <string name="usage_type_wifi_running">Wi-Fi funcionando</string>
+	 <string name="usb_audio_disable_routing">Inhabilitar enrutamiento audio USB</string>
+     <string name="usb_audio_disable_routing_summary">Inhabilitar enrutamiento automático a periféricos de audio USB</string>
+     <string name="usb_charging_summary">Apagar el resto de funcionalidades de conexión USB para acelerar la carga.</string>
+     <string name="usb_charging_title">Acelerar carga</string>
      <string name="usb_connection_category">Conectar como</string>
      <string name="usb_host_mode_subtext">Usar mandos de juegos y otros periféricos en el puerto USB puede acortar la vida de la batería</string>
      <string name="usb_host_mode_text">Activar modo invitado USB</string>
@@ -2564,6 +2580,8 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="use_default_tts_settings_title">Usar siempre mis ajustes</string>
      <string name="use_location_summary">Permitir usar mi localización para mejorar los resultados de búsquedas y otro servicios</string>
      <string name="use_location_title">Localización y búsqueda de Google</string>
+	 <string name="use_nuplayer">Usar NuPlayer (experimental)</string>
+     <string name="use_nuplayer_summary">Usar NuPlayer en lugar de AwesomePlayer</string>
      <string name="use_system_language_to_select_input_method_subtypes">Usar idioma del sistema</string>
      <string name="user_account_title">Cuenta para contenido</string>
      <string name="user_add_profile_item_summary">Puede restringir el acceso a aplicaciones y contenidos de tu cuenta</string>
@@ -2772,6 +2790,10 @@ Añada una palabra tocando el botón de añadir (+)"</string>
      <string name="wifi_advanced_mac_address_title">Dirección MAC</string>
      <string name="wifi_advanced_settings_label">Ajustes de IP</string>
      <string name="wifi_advanced_titlebar">Ajustes avanzados Wi-Fi</string>
+	 <string name="wifi_aggressive_handover">Transferencia total de Wi-Fi a móvil</string>
+     <string name="wifi_aggressive_handover_summary">Cuando esté activado, el Wi-Fi será más agresivo en entregar la conexión de datos al móvil, cuando la señal Wi-Fi sea baja.</string>
+	 <string name="wifi_allow_scan_with_traffic">Permitir siempre búsquedas de Wi-Fi</string>
+     <string name="wifi_allow_scan_with_traffic_summary">Permitir/Prohibir búsquedas de Wi-Fi basadas en la cantidad de tráfico de datos presentes en la interfaz</string>
      <string name="wifi_and_mobile_skipped_message">"CUIDADO: Mientras tiene una conexión a internet, el teléfono no podrá verificar que tu software está actualizado."</string>
      <string name="wifi_api_test">API Wi-Fi</string>
      <string name="wifi_auto_connect">Conectar automáticamente</string>
@@ -3053,6 +3075,8 @@ La configuración del teléfono puede necesitar gran tráfico de datos."</string
      <string name="wifi_unchanged">(sin cambiar)</string>
      <string name="wifi_unspecified">(no especificado)</string>
      <string name="wifi_update">Actualizar estadísticas</string>
+	 <string name="wifi_verbose_logging">Habilitar registro Wi-Fi detallado</string>
+     <string name="wifi_verbose_logging_summary">Incrementar nivel de registro de Wi-Fi, mostrar por SSID RSSI en Selector de Wi-Fi</string>
      <string name="wifi_wapi_as_cert">Certificado AS</string>
      <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
      <string name="wifi_wapi_cert_create_subdir">Crear un directorio</string>
