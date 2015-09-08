@@ -127,5 +127,29 @@
     <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d días</item>
         <item quantity="one">%1$d día</item>
-     </plurals>
+    </plurals>
+	<plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d imágenes a subir</item>
+        <item quantity="one">1 imagen a subir</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d vídeos a subir</item>
+        <item quantity="one">1 vídeo a subir</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d vídeos e imágenes a subir</item>
+        <item quantity="one">1 vídeo e imagen a subir</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Subiendo %1$d imágenes…</item>
+        <item quantity="one">Subiendo 1 imagen…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Subiendo %1$d vídeos…</item>
+        <item quantity="one">Subiendo 1 vídeo…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Subiendo %1$d vídeos e imágenes…</item>
+        <item quantity="one">Subiendo 1 vídeo e imagen…</item>
+    </plurals>
 </resources>
