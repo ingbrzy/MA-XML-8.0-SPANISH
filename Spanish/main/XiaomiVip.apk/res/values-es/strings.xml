@@ -42,7 +42,7 @@
   <string name="no_task">Todos los desafíos han sido completados</string>
   <string name="passive_task">Desafíos en segundo plano</string>
   <string name="privilege">Privilegios</string>
-  <string name="promote">Subir nivel</string>
+  <string name="promote">Completar desafíos para ganar Pts</string>
   <string name="query_level_fail">No se pudo obtener la información</string>
   <string name="query_user_tasks_fail">No se pudo obtener la información del desafío</string>
   <string name="seconds">%ds</string>
@@ -65,4 +65,5 @@
   <string name="upgraded">¡Cuenta mejorada!</string>
   <string name="use">Usar</string>
   <string name="validity">Expira el %s</string>
+  <string name="validity_unknown">Vencimiento desconocido</string>
 </resources>

@@ -128,4 +128,28 @@
         <item quantity="few">Recibidos %1$d ficheros de %2$s</item>
         <item quantity="many">Recibidos %1$d ficheros de %2$s</item>
     </plurals>
+	<plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Recibidos %1$d ficheros de WeChat</item>
+        <item quantity="zero">Recibidos %1$d ficheros de WeChat</item>
+        <item quantity="one">Recibido %1$d fichero de WeChat</item>
+        <item quantity="two">Recibidos %1$d ficheros de WeChat</item>
+        <item quantity="few">Recibidos %1$d ficheros de WeChat</item>
+        <item quantity="many">Recibidos %1$d ficheros de WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d ficheros de WeChat Video expirarán</item>
+        <item quantity="zero">%1$d ficheros de WeChat Video expirarán</item>
+        <item quantity="one">%1$d fichero de WeChat Video expirará</item>
+        <item quantity="two">%1$d ficheros de WeChat Video expirarán</item>
+        <item quantity="few">%1$d ficheros de WeChat Video expirarán</item>
+        <item quantity="many">%1$d ficheros de WeChat Video expirarán</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="zero">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="one">%1$d fichero temporal de WeChat Video se borrará, ¿quieres hacer copia?</item>
+        <item quantity="two">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="few">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="many">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+    </plurals>
 </resources>

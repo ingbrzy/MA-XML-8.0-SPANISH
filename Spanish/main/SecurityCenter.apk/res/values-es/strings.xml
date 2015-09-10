@@ -237,8 +237,8 @@
      <string name="menu_item_app_permissions_control">Administrador de permisos</string>
      <string name="menu_item_control_app_permissions">Se solicita su permiso antes de permitir a las aplicaciones leer sus contactos, ver el registro de llamadas, cambiar ajustes del sistema o acceder a la cámara y otros recursos</string>
      <string name="menu_item_force_stop">Forzar parada</string>
-     <string name="menu_item_notification_antispam_text_avail">Spam</string>
-     <string name="menu_item_notification_antispam_text_normal">Spam</string>
+     <string name="menu_item_notification_antispam_text_avail">Lista de bloqueo</string>
+     <string name="menu_item_notification_antispam_text_normal">Lista de bloqueo</string>
      <string name="menu_item_notification_garbage_text">%s</string>
      <string name="menu_item_notification_garbage_text_error">Error</string>
      <string name="menu_item_notification_power_text">Energía</string>
@@ -260,7 +260,6 @@
      <string name="menu_text_networkassistants_danger">%s sobrepasados</string>
      <string name="menu_text_networkassistants_remain">%s restantes</string>
      <string name="menu_text_power_manager">Uso de batería</string>
-     <string name="menu_text_power_percent">%s de batería</string>
      <string name="month_report_activity_label">Informe mensual</string>
      <string name="month_report_click_reconnect_network">Intentar de nuevo</string>
      <string name="month_report_disconnect_tip">"No se puede conectar a la red"</string>

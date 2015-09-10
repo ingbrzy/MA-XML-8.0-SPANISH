@@ -166,7 +166,7 @@
 Para activar su cuenta, siga el enlace en el 
  mensaje que le hemos enviado a su bandeja de entrada."</string>
   <string name="passport_completed">Finalizar</string>
-  <string name="passport_confirm">Confirmar</string>
+  <string name="passport_confirm">Aceptar</string>
   <string name="passport_confirm_recycle_account">Sí</string>
   <string name="passport_delete_account">Cerrar sesión</string>
   <string name="passport_dspt_provision">"Utilice su cuenta Mi para iniciar sesión en Mi Cloud, MIUI Theme Store, y otros servicios Mi, desde cualquier parte. "</string>
@@ -175,7 +175,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_email_or_id_hint_text">Dirección Email o ID de cuenta Mi</string>
   <string name="passport_email_reg_success_summary">%1$s se ha unido con su cuenta. Usted puede utilizarlo para acceder o para restablecer su contraseña.</string>
   <string name="passport_error_device_id">"No se puede obtener la identidad del dispositivo"</string>
-  <string name="passport_error_dup_email">Este email ya está asociado a otra cuenta</string>
+  <string name="passport_error_dup_email">El email introducido ya está asociado a otra cuenta.</string>
   <string name="passport_error_dup_phone">Este número de teléfono ya está asociada a otra cuenta</string>
   <string name="passport_error_email">La dirección de email que ha introducido no es válida</string>
   <string name="passport_error_empty_captcha_code">Introduzca el código passport_captcha</string>
@@ -185,7 +185,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_error_empty_username">Introduzca su nombre de usuario</string>
   <string name="passport_error_empty_vcode">Introduzca el código de verificación</string>
   <string name="passport_error_illegal_pwd">Contraseña no válida</string>
-  <string name="passport_error_invalid_dev_id">ID del dispositivo no válido</string>
+  <string name="passport_error_invalid_dev_id">El ID de tu dispositivo no es válido.</string>
   <string name="passport_error_invalid_phone_num">Número de teléfono no válido</string>
   <string name="passport_error_login">"No se pudo abrir sesión"</string>
   <string name="passport_error_network">"No se puede conectar a la red"</string>
@@ -195,11 +195,12 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_error_sim_not_ready">"No se encuentra la tarjeta SIM"</string>
   <string name="passport_error_ssl_hand_shake">Error con la conexión al servidor. Intente ajustar la fecha y hora de su sistema a la actual.</string>
   <string name="passport_error_unknown">"No se pudo abrir sesión"</string>
-  <string name="passport_error_user_name">Nombre de usuario no válido</string>
+  <string name="passport_error_user_name">El nombre de usuario introducido no es válido.</string>
   <string name="passport_error_verify_code">El código que ha introducido es incorrecto</string>
   <string name="passport_failed_to_send_activate_email">"No se pudo enviar el email de activación"</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para reiniciar su contraseña.</string>
   <string name="passport_forget_password"><u>Contraseña olvidada</u></string>
+  <string name="passport_forget_password_no_underline">Contraseña olvidada</string>
   <string name="passport_get_back_pwd">Recuperar contraseña de la cuenta</string>
   <string name="passport_get_verify_code">Obtener código</string>
   <string name="passport_getting_verify_code">Obteniendo</string>
@@ -217,6 +218,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_login_instead_reg">Usar este número</string>
   <string name="passport_login_instead_reg_with_email">Usar este Email</string>
   <string name="passport_login_notice">Iniciando sesión…</string>
+  <string name="passport_login_short">Iniciar sesión</string>
   <string name="passport_login_title">Iniciar sesión en su cuenta Mi</string>
   <string name="passport_login_with_email_or_id"><u>Iniciar sesión con la dirección de email o ID de cuenta Mi</u></string>
   <string name="passport_next">Siguiente</string>
@@ -239,12 +241,12 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_reg_sms_send_prompt">Enviar código de verificación a %s</string>
   <string name="passport_reg_success">Cuenta creada</string>
   <string name="passport_reg_success_summary">%1$s se ha unido con su cuenta. Usted puede utilizarlo para acceder o para restablecer su contraseña.</string>
-  <string name="passport_reg_type_email">Crear cuenta usando email</string>
-  <string name="passport_reg_type_other_ways"><u>Crear cuenta de otras maneras</u></string>
-  <string name="passport_reg_type_other_ways_title">Crear cuenta de otras maneras</string>
-  <string name="passport_reg_using_other_phone">Registrar usando otro número de teléfono</string>
-  <string name="passport_reg_using_other_phone_number_prompt">Registrar usando otro número de teléfono</string>
-  <string name="passport_reg_using_phone_number_prompt">Registrar con número de teléfono</string>
+  <string name="passport_reg_type_email">Usar dirección de email</string>
+  <string name="passport_reg_type_other_ways"><u>Usar tu dirección de email o un número alternativo</u></string>
+  <string name="passport_reg_type_other_ways_title">Crear una cuenta Mi</string>
+  <string name="passport_reg_using_other_phone">Usar número de teléfono alternativo</string>
+  <string name="passport_reg_using_other_phone_number_prompt">"Crear una nueva cuenta usando "</string>
+  <string name="passport_reg_using_phone_number_prompt">Crear cuenta usando el número de teléfono</string>
   <string name="passport_reg_via_sms_alert">Su compañía puede cobrarle por el mensaje SMS usado para activar este servicio.</string>
   <string name="passport_reging">Creando cuenta…</string>
   <string name="passport_register">Crear una cuenta</string>

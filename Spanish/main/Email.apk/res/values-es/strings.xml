@@ -169,6 +169,7 @@
   <string name="attachment_decoding">El adjunto se ha descargado completamente y se está decodificando ahora. Por favor, espere.</string>
   <string name="attachment_download_all">Descargar todo</string>
   <string name="attachment_image">Imagen</string>
+  <string name="attachment_list_search_hint">Buscar adjuntos</string>
   <string name="attachment_mgr_name">Archivos adjuntos</string>
   <string name="attachment_not_exists">¡El adjunto no está disponible!</string>
   <string name="attachment_stop_all">Parar</string>
@@ -376,7 +377,7 @@
   <string name="general_preference_text_zoom_small">Pequeño</string>
   <string name="general_preference_text_zoom_tiny">Pequeño</string>
   <string name="generic_attachment_problem">"No puede adjuntar archivo."</string>
-  <string name="get_database_exception">Error en la base de datos, limpie los datos de la aplicación</string>
+  <string name="get_database_exception">Borra los datos de la aplicación en Ajustes y vuelve a intentarlo</string>
   <string name="gmail_acceleration">Usar servidor proxy para la cuenta de Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">¿Utilizar servidor proxy para acceder a tu cuenta de Gmail?</string>
   <string name="gmail_web_login_go">OK</string>
