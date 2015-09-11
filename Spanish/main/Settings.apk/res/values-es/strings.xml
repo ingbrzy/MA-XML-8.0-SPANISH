@@ -958,6 +958,14 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
      <string name="drive_mode_title">Modo coche</string>
      <string name="drive_mode_voice_report">Salida de texto a voz</string>
      <string name="dtmf_tone_enable_title">Tonos de las teclas de marcado</string>
+	 <string name="edge_mode_back">Atrás</string>
+     <string name="edge_mode_back_summary">Toca dos veces el borde del teléfono para ir atrás</string>
+     <string name="edge_mode_clean">Limpiar caché del sistema</string>
+     <string name="edge_mode_clean_summary">Desliza los dos bordes a la vez para limpiar la caché del sistema</string>
+     <string name="edge_mode_photo">Sacar una foto</string>
+     <string name="edge_mode_photo_summary">En la aplicación de cámara, toca el borde del teléfono para enfocar, y toca de nuevo para sacar la foto</string>
+     <string name="edge_mode_screenshot">Captura de pantalla</string>
+     <string name="edge_mode_screenshot_summary">Toca dos veces en ambos bordes para hacer una captura de pantalla</string>
      <string name="emergency_tone_summary">Establecer el comportamiento cuando se realiza una llamada de emergencia</string>
      <string name="emergency_tone_title">Tono de emergencia</string>
      <string name="empty_list_msg">"No hay instalada ninguna aplicación de terceros."</string>
@@ -1094,6 +1102,8 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="global_locale_change_title">Cambiar lenguaje</string>
      <string name="google_backup_section_title">Restaurar copia de seguridad de Google</string>
      <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
+	 <string name="hand_mode_notification_summary">Toca para aprender más.</string>
+     <string name="hand_mode_notification_title">Usar controles borde</string>
      <string name="handy_mode">Operación con una mano</string>
      <string name="handy_mode_enter_ask">Preguntar antes de entrar en el modo Operación con una mano</string>
      <string name="handy_mode_size">Tamaño de la pantalla</string>

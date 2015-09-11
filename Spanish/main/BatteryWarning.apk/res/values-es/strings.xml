@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="batteryWarning_label">Avisos de batería</string>
+  <string name="btn_cancel_msg">Rechazar</string>
+  <string name="btn_ok_msg">Snooze</string>
+  <string name="msg_battery_low_temperature">¡Cuidado! ¡Temperatura de batería baja!</string>
+  <string name="msg_battery_low_temperature_nochange">Tu batería está por debajo del rango de temperatura, ¡atención, por favor!</string>
+  <string name="msg_battery_over_temperature">¡Cuidado! ¡Temperatura de batería alta!</string>
+  <string name="msg_battery_over_temperature_nochange">Tu batería está por encima del rango de temperatura, ¡quita la batería, por favor!</string>
+  <string name="msg_battery_over_voltage">¡Cuidado! ¡Voltaje de la batería alto!</string>
+  <string name="msg_battery_over_voltage_nochange">El voltaje de tu batería está demasiado alto, ¡quita la batería, por favor!</string>
+  <string name="msg_charger_over_voltage">El voltaje de tu cargador es demasiado alto, ¡desconecta el cargador, por favor!</string>
+  <string name="msg_over_current_protection">Tu batería está por encima de los niveles de protección, ¡quita la batería, por favor!</string>
+  <string name="msg_safety_timer_timeout">El tiempo de carga es demasiado alto, ¡quita la batería, por favor!</string>
+  <string name="title_battery_low_temperature">Temperatura de batería baja</string>
+  <string name="title_battery_over_temperature">Temperatura de batería alta</string>
+  <string name="title_battery_over_voltage">Voltaje de batería alto</string>
+  <string name="title_charger_over_voltage">Voltaje de cargador alto</string>
+  <string name="title_over_current_protection">Niveles de protección superados</string>
+  <string name="title_safety_timer_timeout">Tiempo de carga alto</string>
+</resources>
