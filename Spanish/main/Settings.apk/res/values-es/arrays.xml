@@ -505,6 +505,13 @@
         <item>1</item>
         <item>0</item>
      </string-array>
+	 <string-array name="select_logd_size_summaries">
+        <item>Búfer de 64K por log</item>
+        <item>Búfer de 256K por log</item>
+        <item>Búfer de 1M por log</item>
+        <item>Búfer de 4M por log</item>
+        <item>Búfer de 16M por log</item>
+    </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Nunca utilizar chequeo HDCP</item>
         <item>Utilizar chequeo HDCP solo para contenido DRM</item>
@@ -584,12 +591,12 @@
         <item>1800000</item>
      </string-array>
      <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Immediately</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
+        <item>Inmediatamente</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
      </string-array>
      <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>

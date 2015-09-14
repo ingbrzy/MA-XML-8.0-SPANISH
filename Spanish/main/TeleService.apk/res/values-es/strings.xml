@@ -527,6 +527,10 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="mobile_networks">Ajustes de red móvil</string>
   <string name="msim_apn_not_set">Sin ajustes</string>
   <string name="msim_default_setting">Ajustes por defecto</string>
+  <string name="msim_disable_sim_card_btn_text">Aceptar</string>
+  <string name="msim_disable_sim_card_summary_default_card">Esta tarjeta está configurada como SIM por defecto. Si dejas de usarla, no podrás realizar llamadas o utilizar la conexión de datos móviles. Puedes desactivar esta tarjeta tras configurar otra SIM como tarjeta por defecto.</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">Quizás no se puedan realizar llamadas o utilizar la conexión de datos móviles. ¿Dejar de usar la tarjeta SIM %s?</string>
+  <string name="msim_disable_sim_card_title">Dejar de usar tarjeta SIM</string>
   <string name="msim_enable_sim">Activar</string>
   <string name="msim_general_setting">Ajustes generales</string>
   <string name="msim_has_been_disabled">(Desactivado)</string>

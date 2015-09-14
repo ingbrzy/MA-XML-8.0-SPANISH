@@ -171,6 +171,7 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">¿Cargar mensajes %1$s a %2$s?</string>
   <string name="found_old_messages_title">¿Cargar mensajes de tus otras tarjetas SIM?</string>
+  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar los mensajes desde Mi Cloud, entra en tu cuenta Mi y activa la sincronización de SMS.</string>
   <string name="found_wild_messages">Los mensajes de los números siguientes se han almacenado en su Mi Cloud. ¿%s Download ahora?</string>
   <string name="found_wild_messages_title">Descargar mensajes</string>
   <string name="from_label">"De: "</string>
@@ -321,7 +322,7 @@
   <string name="play">Reproducir</string>
   <string name="playing_failed">"No se puede reproducir"</string>
   <string name="pref_advanced_settings_title">Ajustes adicionales</string>
-  <string name="pref_collapse_sp_messages_summary">Grupo notificaciones de su compañía en el mismo subproceso</string>
+  <string name="pref_collapse_sp_messages_summary">Agrupar notificaciones de su compañía en el mismo hilo</string>
   <string name="pref_edit_smsc_address">Número de centro de SMS</string>
   <string name="pref_forward_title">Adelante</string>
   <string name="pref_key_mx_feedback">Enviar comentarios</string>
@@ -329,6 +330,7 @@
   <string name="pref_mms_settings_title">Mensajes multimedia (MMS)</string>
   <string name="pref_notification_settings_title">Notificaciones</string>
   <string name="pref_other_title">Otros</string>
+  <string name="pref_show_blocked_messages_summary">Mostrar los SMS bloqueados en la lista de conversaciones</string>
   <string name="pref_show_sms_template_in_summary">Detectar automáticamente OTP en mensajes SMS</string>
   <string name="pref_show_sms_template_summary">Copiar automáticamente y rellenar los códigos de verificación</string>
   <string name="pref_sms_theme_title">Pantalla</string>
@@ -350,8 +352,8 @@
   <string name="pref_summary_wake_up_screen">Activar la pantalla cada vez que se recibe un nuevo mensaje</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">No está soportado en el tamaño de fuente actual</string>
-  <string name="pref_time_auto_group_summary">Mensajes del mismo grupo recibidos dentro de un minuto se incluyen en le mismo subproceso</string>
-  <string name="pref_time_auto_group_title">Grupo por tiempo</string>
+  <string name="pref_time_auto_group_summary">Agrupar mensajes recibidos en menos de un minuto dentro del mismo hilo</string>
+  <string name="pref_time_auto_group_title">Agrupar por tiempo</string>
   <string name="pref_title_allow_si_sl_push">Permitir WAP automático</string>
   <string name="pref_title_card_format">Formatear tarjeta compartida</string>
   <string name="pref_title_delivery_reports">Estado de entrega</string>
@@ -525,10 +527,11 @@
   <string name="timed_message_expired_title_2">¿Enviarlos ahora?</string>
   <string name="timed_message_in_total">(%d mensajes)</string>
   <string name="timed_message_to">Para</string>
-  <string name="title_collapse_sp_messages">Grupo portador mensajes</string>
+  <string name="title_collapse_sp_messages">Agrupar mensajes del operador</string>
   <string name="title_date_type">Fecha y hora</string>
+  <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
   <string name="title_show_sms_template">Compruebe los SMS para los códigos de verificación</string>
-  <string name="title_show_sms_template_in">Comprobar SMS para OTP</string>
+  <string name="title_show_sms_template_in">Comprobar OTP en SMS</string>
   <string name="title_timed_message_dialog">Establecer mensaje programado</string>
   <string name="to_address_label">"Para: "</string>
   <string name="to_count">%d destinatarios</string>

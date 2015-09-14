@@ -54,6 +54,7 @@
   <string name="account_settings_sync_email_summary">Sincronizar email para esta cuenta</string>
   <string name="account_settings_unsupported_label">Políticas no admitidas</string>
   <string name="account_settings_unsupported_summary">Ninguno</string>
+  <string name="account_settings_using_ringtone">Tono de llamada</string>
   <string name="account_settings_vibrate_when_label">Vibrar</string>
   <string name="account_setup_account_type_instructions">¿Qué tipo de cuenta es esta?</string>
   <string name="account_setup_account_type_title">Configuración de la cuenta</string>
@@ -182,7 +183,7 @@
   <string name="auto_advance_help_title">"Configurar las preferencias de avance automático
 (después de eliminar, etc.)"</string>
   <string name="auto_advance_label">Avance automático</string>
-  <string name="auto_advance_summary">Elija cual pantalla se mostrara después de eliminar un mensaje</string>
+  <string name="auto_advance_summary">Elige qué pantalla se mostrará después de eliminar un mensaje</string>
   <string name="auto_sync_off">Sincronización automática apagada.</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
@@ -284,7 +285,7 @@
   <string name="done_action">Hecho</string>
   <string name="donot_disturb_endtime_title">Para</string>
   <string name="donot_disturb_starttime_title">De</string>
-  <string name="donot_disturb_summary">Las notificaciones de los emails que lleguen serán silenciados</string>
+  <string name="donot_disturb_summary">Las notificaciones de los emails que llegan serán silenciadas</string>
   <string name="donot_disturb_title">No molestar</string>
   <string name="downlaod_cancel_confirm_download">Cancelar la descarga</string>
   <string name="downlaod_cancel_continue_download">Cancelar</string>
@@ -655,7 +656,7 @@
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Guardar borrador a fallado</string>
-  <string name="save_power_summary">Las notificaciones de los emails que llegan serán silenciados</string>
+  <string name="save_power_summary">Las notificaciones de los emails que llegan serán silenciadas</string>
   <string name="save_power_title">No molestar</string>
   <string name="saved">Guardado, %s</string>
   <string name="saving">Guardando…</string>
