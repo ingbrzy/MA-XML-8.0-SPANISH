@@ -227,6 +227,12 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="background_data_dialog_message">Desactivando el uso de datos en segundo plano se prolonga la autonomía de la batería y se reduce el uso de datos. Algunas aplicaciones pueden seguir usando conexión de datos en segundo plano.</string>
      <string name="background_data_dialog_title">¿Desactivar uso de datos en segundo plano?</string>
      <string name="background_data_summary">Las aplicaciones pueden sincronizarse,  enviar y recibir datos en cualquier momento</string>
+	 <string name="background_location_control_summary">Permitir o denegar a las aplicaciones acceder a la información de localización desde un segundo plano</string>
+     <string name="background_location_control_title">Acceso a la localización en segundo plano</string>
+     <string name="background_location_deselect_apps">Deseleccionar todo</string>
+     <string name="background_location_requests_summary">Permitir a las aplicaciones usar la localización cuando no las estés usando</string>
+     <string name="background_location_requests_title">Permitir localización en segundo plano</string>
+     <string name="background_location_select_apps">Seleccionar todo</string>
      <string name="background_process_stop_description">"Este es un proceso de una aplicación antigua que está en ejecución por si se necesitara de nuevo. No hay ninguna razón para pararlo."</string>
      <string name="backup_configure_account_default_summary">Ninguna cuenta esta almacenando datos de copia de seguridad actualmente</string>
      <string name="backup_configure_account_title">Copia de seguridad de la cuenta</string>
@@ -776,7 +782,7 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
      <string name="debug_applications_category">Aplicaciones</string>
      <string name="debug_debugging_category">Depurando</string>
      <string name="debug_drawing_category">Dibujar</string>
-     <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>
+     <string name="debug_hw_drawing_category">Aceleración de renderizado por hardware</string>
      <string name="debug_hw_overdraw">Depurar sobredibujado GPU</string>
      <string name="debug_input_category">Entrada</string>
      <string name="debug_intent_sender_label">Depurar intentos de envío</string>
