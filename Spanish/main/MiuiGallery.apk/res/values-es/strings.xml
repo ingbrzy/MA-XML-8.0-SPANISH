@@ -814,7 +814,9 @@
   <string name="multiface_crop_help">Toque una cara para comenzar</string>
   <string name="must_pick_file">Seleccione una imagen</string>
   <string name="name_wrong">No es %s</string>
-  <string name="need_to_turn_on_sync">Encender sincronización con Mi Cloud</string>
+  <string name="need_to_turn_on_network">Conectar a internet</string>
+  <string name="need_to_turn_on_sync">"Encender sincronización con Mi Cloud "</string>
+  <string name="need_to_turn_on_wlan">Conectar a Wi-Fi</string>
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Lector de noticias NetEase</string>
   <string name="new_device_tips">Pulse para ver el dispositivo</string>
@@ -835,6 +837,7 @@
   <string name="not_now">Ahora no</string>
   <string name="not_remind_any_more">No mostrar de nuevo</string>
   <string name="not_show_hidden_albums">No mostrar álbumes ocultos</string>
+  <string name="number_of_uploading_finish">Todos los ficheros subidos a Mi Cloud</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Mostrar sólo rollo de cámara</string>
   <string name="only_show_camera_in_first_page_summary">"Mostrar sólo fotos del rollo de cámara de Mi Cloud"</string>
@@ -1034,9 +1037,9 @@
   <string name="sync_album_in_proecess">Sincronizando el álbum…</string>
   <string name="sync_album_set_error">"No se puede sincronizar estos álbumes. Compruebe la conexión de datos y vuelva a intentarlo."</string>
   <string name="sync_album_summary">Sincronizar con Mi Cloud</string>
+  <string name="sync_cloud_space_full">Almacenamiento en la nube completo</string>
   <string name="sync_history_power_on">Sincronizar el historial de imágenes sólo durante la carga</string>
   <string name="sync_in_progress_message">Sincronizando…</string>
-  <string name="sync_ok">Sincronizar</string>
   <string name="sync_only_in_wifi">Sólo utilizar Wi-Fi para subir fotos</string>
   <string name="sync_only_in_wifi_alert">Desactivar esta opción puede aumentar el uso de datos móviles.</string>
   <string name="sync_only_in_wifi_summary">Impedir que Galería suba fotos usando la conexión de datos móviles</string>

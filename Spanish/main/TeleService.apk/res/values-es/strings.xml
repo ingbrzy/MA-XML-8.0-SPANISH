@@ -620,13 +620,13 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="nw_subset_unlock_success">Desbloqueo de la red Subset de la SIM realizado. </string>
   <string name="ok">Aceptar</string>
   <string name="old_password_label">Contraseña anterior (4 dígitos) </string>
-  <string name="old_pin2_label">PIN2 anterior</string>
+  <string name="old_pin2_label">PIN2</string>
   <string name="old_pin_label">PIN anterior</string>
   <string name="open_miui">Abierto</string>
   <string name="optional_summary">Opcional</string>
   <string name="order_by_name">Alfabético</string>
   <string name="order_by_recent">Frecuentamente usado</string>
-  <string name="order_id">"ID pedido: "</string>
+  <string name="order_id">ID pedido:%1$s</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Estado pedido: fallido</string>
   <string name="order_status_successful">Estado pedido: completado</string>
@@ -984,7 +984,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="uplmn_list_setting_title">Redes preferidas</string>
   <string name="uplmn_numeric_is_empty">Introduzca un ID de red</string>
   <string name="use_history">Actividad</string>
-  <string name="use_history_duration_hour">%1$h</string>
+  <string name="use_history_duration_hour">%1$shora</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_history_endtime">Fin: %1$s</string>
   <string name="use_history_starttime">Inicio: %1$s</string>

@@ -151,6 +151,8 @@
   <string name="privacy_tip_content">¿Usar el acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su cuenta Mi también se subirán para comprobar si tiene alguna suscripción activa a este servicio.</string>
   <string name="privacy_tip_ok">Aceptar</string>
   <string name="privacy_tip_title">¿Usar acelerador Xunlei?</string>
+  <string name="quit_btn">Salir</string>
+  <string name="rebind_btn">Añadir de nuevo</string>
   <string name="recommend_downloading">Descargando</string>
   <string name="recommend_failed">Falló</string>
   <string name="recommend_install">Instalar</string>
@@ -183,6 +185,11 @@
   <string name="storage_internal">Almacenamiento interno</string>
   <string name="storage_sd_card">Tarjeta SD</string>
   <string name="storage_usb">Almacenamiento USB</string>
+  <string name="third_web_filesize">Tamaño</string>
+  <string name="third_web_savepath">Ubicación</string>
+  <string name="third_web_title">Guardar</string>
+  <string name="title_tips">Atención</string>
+  <string name="title_unbind_xunlei">Quitar tu cuenta Xunlei</string>
   <string name="toast_xunlei_engine_open">Se ha activado el acelerador de descargas Xunlei</string>
   <string name="turn_off_xunlei_message">Puede que la velocidad de descarga sea baja.</string>
   <string name="turn_off_xunlei_tips">Acelerador de descargas Xunlei desactivado</string>
@@ -194,6 +201,10 @@
   <string name="vip_auto_speedup">El acelerador de descargas Xunlei está activado</string>
   <string name="vip_expire_show_info">La cuenta Xunlei membership ha expirado.</string>
   <string name="vip_expire_today_show_info">La cuenta Xunlei membership ha expirado.</string>
+  <string name="vip_show_info">"5 millones de miembros.
+ Acelera las descargas en todos tus dispositivos."</string>
+  <string name="xiaomi_account_not_exist_message">Esta cuenta Mi no existe</string>
+  <string name="xunlei_account_has_unbind_message">Cuenta Xunlei quitada</string>
   <string name="xunlei_brand">Desarrollado por Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Activar</string>
