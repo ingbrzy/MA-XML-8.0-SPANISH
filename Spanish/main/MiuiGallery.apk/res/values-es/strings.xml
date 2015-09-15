@@ -90,7 +90,7 @@
   <string name="baby_album_sharers_page_title">Compartir con familiares</string>
   <string name="baby_birthday">Cumpleaños</string>
   <string name="baby_lock_wallpaper">Fondo de pantalla de bloqueo</string>
-  <string name="baby_lock_wallpaper_at_least_one_selected">Elegir un álbum</string>
+  <string name="baby_lock_wallpaper_cancelled">Cambiado a fondo de pantalla de bloqueo por defecto</string>
   <string name="baby_lock_wallpaper_save_settings_msg">¿Aplicar ajustes actuales?</string>
   <string name="baby_lock_wallpaper_title">Usar fotos del bebé como fondos de la pantalla de bloqueo</string>
   <string name="baby_name_cannot_empty">Introducir nombre</string>
@@ -122,6 +122,7 @@
   <string name="camera_setas_wallpaper">Fondo de pantalla</string>
   <string name="camera_view_none_message">Las fotos y vídeos que tome con la aplicación Cámara se mostrarán aquí.</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">¿Cancelar fondo de bebé y volver al fondo de pantalla de bloqueo por defecto?</string>
   <string name="cancel_hint">Operación cancelada</string>
   <string name="cannot_delete_sharer_photo">"No se pueden borrar %s elementos subidos por otros miembros."</string>
   <string name="cannot_remove_creator">"No se puede quitar el creador"</string>
@@ -703,6 +704,7 @@
   <string name="group_by_time">Por fecha y hora</string>
   <string name="has_invalid_recipient">Destinatarios no válidos: &lt;%1$s&gt;</string>
   <string name="height">Altura</string>
+  <string name="hidden_album_display_name">Álbum oculto</string>
   <string name="highlight">Destacados</string>
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -976,6 +978,10 @@
   <string name="send_public_url">Enviar URL del álbum</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Usar como fondo de pantalla de bloqueo</string>
+  <string name="set_baby_icon_picker_default_title">Establecer icono de bebé</string>
+  <string name="set_bg_file_exist_message">Conflicto entre nombres de fotos</string>
+  <string name="set_bg_picker_default_title">Establecer miniatura superior</string>
+  <string name="set_bg_unknow_reasons">Error desconocido</string>
   <string name="set_hidden_album">Álbum oculto</string>
   <string name="set_label_all_albums">Todo</string>
   <string name="set_label_local_albums">Local</string>
