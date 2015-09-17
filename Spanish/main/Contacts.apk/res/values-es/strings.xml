@@ -381,6 +381,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="email_mobile">Enviar email al móvil</string>
   <string name="email_other">Email</string>
   <string name="email_work">Enviar email al trabajo</string>
+  <string name="emergency_number_label">Número de emergencia</string>
   <string name="emptyGroup">Grupo sin contactos</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Nombre del contacto"</string>
@@ -462,7 +463,7 @@ Motivo: \"%s\""</string>
   <string name="import_all_sim_entries_miui">Importar todos los contactos</string>
   <string name="import_all_vcard_string">Importar todos los archivos vCard</string>
   <string name="import_contact_card_button">Importar contacto</string>
-  <string name="import_failure_no_vcard_file">Ningún archivo vCard en almacenamiento.</string>
+  <string name="import_failure_no_vcard_file">No hay ficheros vCard en el almacenamiento.</string>
   <string name="import_from_other_phone">Importar desde otro teléfono</string>
   <string name="import_from_sdcard">Importación desde almacenamiento</string>
   <string name="import_from_sim">Importar desde la tarjeta SIM</string>
@@ -507,6 +508,7 @@ Motivo: \"%s\""</string>
   <string name="in_call_show_long_press_to_record">Pulsa y mantén para grabar</string>
   <string name="in_call_show_pick_video">Elegir vídeo</string>
   <string name="in_call_show_preview">Previsualizar</string>
+  <string name="in_call_show_preview_reshoot">Reintentar</string>
   <string name="in_call_show_recording">Grabando…</string>
   <string name="in_call_show_reshoot">Grabar de nuevo</string>
   <string name="in_call_show_save_completed">Perfil de vídeo guardado</string>
@@ -636,7 +638,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_request_agenda_yesterday">%1$s quiere intercambiar tarjetas de contacto</string>
   <string name="miprofile_request_agree">Aceptar</string>
   <string name="miprofile_request_agree_exchange_profile">Tarjetas de contacto intercambiadas</string>
-  <string name="miprofile_request_agreed">%1$s aceptó intercambiar tarjetas de contacto conmigo</string>
+  <string name="miprofile_request_agreed">%1$s aceptó intercambiar tarjeta de contacto conmigo</string>
   <string name="miprofile_request_alertdialog_message">Tu tarjeta será enviada automáticamente después de que esta persona acepte.</string>
   <string name="miprofile_request_alertdialog_title">Intercambiar tarjetas de contacto</string>
   <string name="miprofile_request_clear_alertdialog_message">¿Limpiar el historial de intercambio de tarjetas de contacto?</string>
@@ -1276,8 +1278,8 @@ Elija una de las siguientes opciones: "</string>
   <string name="websiteLabelsGroup">Página web</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Borrar datos</string>
-  <string name="yellowPageNavigationIconLabel">Páginas amarillas</string>
-  <string name="yellowPageNavigationLabel">Páginas amarillas</string>
+  <string name="yellowPageNavigationIconLabel">Agenda</string>
+  <string name="yellowPageNavigationLabel">Agenda</string>
   <string name="yellowpage_navigation_clear_search_history">Borrar historial</string>
   <string name="yellowpage_navigation_more_items">Más</string>
   <string name="yellowpage_navigation_more_items_title">Más servicios</string>

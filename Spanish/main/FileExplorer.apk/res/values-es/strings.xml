@@ -62,7 +62,7 @@
   <string name="clean_trash_box">Vaciar papelera</string>
   <string name="cleaning">Limpiando…</string>
   <string name="close">Cerrar</string>
-  <string name="compress_fail">Compresión fallida: ya existe un archivo con el mismo nombre.</string>
+  <string name="compress_fail">No se pudo comprimir. Ya existe un archivo con el mismo nombre.</string>
   <string name="compress_message">Comprimir en…</string>
   <string name="compress_title">Comprimir</string>
   <string name="confirm">Aceptar</string>
@@ -80,14 +80,14 @@
   <string name="data_capacity">Datos %1$s</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extraer</string>
-  <string name="decompress_destination_error">"Extracción fallida: no se pueden extraer los ficheros aquí"</string>
-  <string name="decompress_encrypted_rar_not_supported">El fichero encriptado rar no está soportado.</string>
-  <string name="decompress_fail">Extracción fallida: existe un archivo con el mismo nombre o el archivo está corrupto.</string>
+  <string name="decompress_destination_error">No se pueden extraer los ficheros en esta ubicación</string>
+  <string name="decompress_encrypted_rar_not_supported">Los ficheros encriptados rar no están soportados.</string>
+  <string name="decompress_fail">No se pudieron extraer los ficheros. Ya existe un archivo con el mismo nombre o el archivo está corrupto.</string>
   <string name="decompress_input_password">Introduce la contraseña…</string>
-  <string name="decompress_password_error">Contraseña errónea. Intenta de nuevo…</string>
+  <string name="decompress_password_error">La contraseña introducida es errónea.</string>
   <string name="decompress_success">Extracción completada</string>
   <string name="decompress_title">Extraer</string>
-  <string name="decompress_to">Extraer en…</string>
+  <string name="decompress_to">Extraer ficheros en…</string>
   <string name="decompress_to_here">Extraer aquí</string>
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_failed">"No se puede eliminar"</string>
@@ -144,7 +144,7 @@
   <string name="ftp_account_req_notice">4-16 caracteres, letras y números, mayúsculas y minúsculas</string>
   <string name="ftp_anonymous_login">Inicio de sesión anónimo</string>
   <string name="ftp_invalid_username_or_password">Contraseña o nombre de usuario no válido.</string>
-  <string name="ftp_open_port_error">Error al abrir el puerto: compruebe su conexión de red o restablezca el número de puerto.</string>
+  <string name="ftp_open_port_error">No se pudo abrir el puerto. Comprueba tu conexión de red o restablece el número del puerto.</string>
   <string name="ftp_password_hint">Contraseña</string>
   <string name="ftp_port_number">Número de puerto</string>
   <string name="ftp_transfer_secure">Seguridad</string>
@@ -182,7 +182,7 @@
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Aviso</string>
   <string name="kuaipan_prompt_message">"
-Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
+Nuestro servidor está caído. Por favor, inténtalo más tarde…
 "</string>
   <string name="kuaipan_root_fooder">Inicio</string>
   <string name="kuaipan_tech_support">Iniciar sesión en kuaipan.cn</string>
@@ -367,7 +367,7 @@ Lamentablemente el servidor está caído. Por favor, inténtelo más tarde…
   <string name="share_box">Compartido</string>
   <string name="share_box_receive">Recibido</string>
   <string name="share_box_send">Enviado</string>
-  <string name="share_link_failed">Error al generar el enlace.</string>
+  <string name="share_link_failed">No se pudo generar el enlace.</string>
   <string name="show_message">Necesitas descargar este archivo para poder abrirlo.</string>
   <string name="sign_description">Iniciando sesión…</string>
   <string name="signin_error">"No se puede conectar al servidor. Compruebe su conexión de red."</string>

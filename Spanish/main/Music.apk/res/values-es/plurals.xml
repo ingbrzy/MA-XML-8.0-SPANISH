@@ -12,6 +12,10 @@
         <item quantity="other">Se descargarán %d canciones</item>
         <item quantity="one">Se descargará 1 canción</item>
      </plurals>
+     <plurals name="NPlaylist_delete_confirm">
+         <item quantity="other">¿Borrar %d listas de reproducción?</item>
+         <item quantity="one">¿Borrar %d lista de reproducción?</item>
+     </plurals>
      <plurals name="Nnew_tracks_count">
         <item quantity="other">%d nuevo</item>
      </plurals>
@@ -22,6 +26,22 @@
      <plurals name="Ntracks_similar_count">
         <item quantity="other">%d canciones similares</item>
         <item quantity="one">%d canción similar</item>
+     </plurals>
+     <plurals name="Nartists_count">
+         <item quantity="other">%d artistas</item>
+         <item quantity="one">%d artista</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+         <item quantity="other">%d bandas</item>
+         <item quantity="one">%d banda</item>
+     </plurals>
+     <plurals name="dialog_delete_descript">
+         <item quantity="other">¿Borrar %d canciones?</item>
+         <item quantity="one">¿Borrar %d canción?</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+         <item quantity="other">¿Quitar %d canciones?</item>
+         <item quantity="one">¿Quitar %d canción?</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d canciones añadidas a la lista de reproducción</item>
@@ -35,6 +55,10 @@
         <item quantity="other">%d canciones</item>
         <item quantity="one">1 canción</item>
      </plurals>
+     <plurals name="Nquit_warning">
+         <item quantity="other">El reproductor parará en %d minutos</item>
+         <item quantity="one">El reproductor parará en %d minuto</item>
+     </plurals>
      <plurals name="send_songs_toast">
         <item quantity="other">Se enviarán %d canciones</item>
         <item quantity="one">Se enviará 1 canción</item>
@@ -46,5 +70,13 @@
      <plurals name="Nnew_local_audios">
         <item quantity="other">%d canciones añadidas</item>
         <item quantity="one">%d canción añadida</item>
+     </plurals>
+     <plurals name="multichoice_title">
+         <item quantity="other">%d elementos seleccionados</item>
+         <item quantity="one">%d elemento seleccionado</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+         <item quantity="other">Canciones marcada como favoritas.</item>
+         <item quantity="one">Canción marcada como favorita.</item>
      </plurals>
 </resources>
