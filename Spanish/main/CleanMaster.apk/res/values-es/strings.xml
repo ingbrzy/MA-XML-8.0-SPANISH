@@ -56,7 +56,7 @@
      <string name="clean_content_two">2 elementos</string>
      <string name="clean_content_zero">Ninguno</string>
      <string name="confirm_auto_cleaner">Aceptar</string>
-     <string name="deepclean_app_content">Desinstalar aplicaciones que no hayas usado en 7 días</string>
+     <string name="deepclean_app_content">Desinstalar aplicaciones que no hayas usado en 30 días</string>
 	 <string name="deepclean_cache_content">Limpiar datos generados por aplicaciones</string>
      <string name="deepclean_cache_header_left">Ficheros de datos: %d</string>
      <string name="deepclean_large_content">Eliminar ficheros mayores a 10MB</string>
@@ -98,6 +98,7 @@
      <string name="hints_garbage_handle_item_content">%1$d elementos, %2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Vacío</string>
 	 <string name="hints_header_left">%d</string>
+	 <string name="hints_install_apps_else">Usado %s</string>
      <string name="hints_install_apps_interval">Usado hace %d días</string>
      <string name="hints_install_apps_new">Nunca se ha abierto</string>
      <string name="hints_install_apps_risk">riesgo detectado</string>
@@ -159,7 +160,7 @@
      <string name="pref_summary_garbage_cleanup_check_time">Programar una rutina de limpieza</string>
      <string name="pref_summary_garbage_process_mode">Establecer notificaciones cuando se ejecuta la limpieza</string>
      <string name="pref_summary_open_optimizer_cloud_scan">Subir y comparar nombres de archivos desconocidos con definiciones en línea</string>
-	 <string name="pref_summary_open_optimizer_memory_scan">Comprobar y limpiar automáticamente la memoria</string>
+	 <string name="pref_summary_open_optimizer_memory_scan">Elegir automáticamente las aplicaciones a limpiar</string>
      <string name="pref_title_auto_clean_and_alert">Limpiar automáticamente</string>
      <string name="pref_title_auto_clean_content_choose">Seleccione elementos a limpiar</string>
      <string name="pref_title_auto_update_cleanup_db">Actualización automática</string>
