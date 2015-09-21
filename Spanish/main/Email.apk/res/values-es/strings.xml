@@ -219,6 +219,8 @@
   <string name="collapse_recipient_details">Colapsar detalles del destinatario</string>
   <string name="colon">:</string>
   <string name="compose">Redactar</string>
+  <string name="compose_attachment_number_limit">No se pueden adjuntar más de 10 ficheros</string>
+  <string name="compose_picturesexceedlimits">No se pueden añadir más de 5 imágenes</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado con éxito</string>
   <string name="confirm">confirmar</string>
@@ -231,6 +233,14 @@
   <string name="confirm_send_message_with_no_body">"No existe ningún texto en el cuerpo del mensaje."</string>
   <string name="confirm_send_message_with_no_subject">"No existe ningún texto en el asunto del mensaje."</string>
   <string name="confirm_send_title">¿Enviar mensaje?</string>
+  <string name="contact_edit_set_black_list">Establecer lista de bloqueo</string>
+  <string name="contact_edit_set_black_list_from">Borrar todos los emails de este remitente</string>
+  <string name="contact_edit_set_black_list_receive">Borrar emails con este destinatario</string>
+  <string name="contact_edit_set_black_list_receive_summary">Borrar emails que incluyan este destinatario en los campos Para o Cc</string>
+  <string name="contact_edit_set_phone_contact">Editar contactos del teléfono</string>
+  <string name="contact_edit_title_phone_contact">Lista de contactos del teléfono</string>
+  <string name="contact_in_filter_call_phone_str">llamar: %s</string>
+  <string name="contact_in_filter_title">Viene de él/ella.</string>
   <string name="contact_info_string">Mostrar la información de contacto de %1$s</string>
   <string name="contact_info_string_default">Mostrar información de contacto</string>
   <string name="contact_list_add_btn">Añadir</string>
@@ -413,7 +423,7 @@
   <string name="mail">Correo</string>
   <string name="mail_body_turncated">Este email es demasiado grande para cargar y solo se muestra parte de el, para visualizarlo completo use un PC</string>
   <string name="mail_header_network_not_available">No tiene conexión de red.</string>
-  <string name="mailbox_list_account_selector_combined_view">Bandeja de entrada combinada</string>
+  <string name="mailbox_list_account_selector_combined_view">Cuenta combinada</string>
   <string name="mailbox_name_display_drafts">Borradores</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
   <string name="mailbox_name_display_junk">No deseado</string>

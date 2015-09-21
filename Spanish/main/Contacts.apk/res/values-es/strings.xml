@@ -249,7 +249,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="default_ringtone">Tono de llamada por defecto</string>
   <string name="deleteConfirmation">Este contacto se eliminará.</string>
   <string name="deleteConfirmationDetail">¿Eliminar \"%s\"?</string>
-  <string name="deleteConfirmation_title">Eliminar</string>
+  <string name="deleteConfirmation_title">¿Eliminar este contacto?</string>
   <string name="delete_call_log_selected_title">¿Borrar registro de llamada seleccionado?</string>
   <string name="delete_call_log_title">Seleccionar registro de llamadas</string>
   <string name="delete_contact_calllog_title">¿Borrar registro de llamadas?</string>
@@ -889,7 +889,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="quit_dialog_confirm_message">No has fusionado ningún contacto</string>
   <string name="quit_dialog_confirm_title">Cancelar la fusión de contactos</string>
   <string name="readOnlyContactDeleteConfirmation">Este contacto contiene información de varias cuentas. Esta información es de sólo lectura y se ocultará en su lista de contactos, pero no se borrará.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene información de varias cuentas. Esta información es de sólo lectura y se ocultará en su lista de contactos, pero no se borrará.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene información de varias cuentas. Cualquier información que no se pueda borrar se ocultará de tu lista de contactos.</string>
   <string name="readOnlyContactWarning">"No puedes eliminar contactos de cuentas de sólo lectura, pero puedes ocultarlos de tus listas de contactos."</string>
   <string name="readingSimContacts">Leyendo tarjeta SIM…</string>
   <string name="reading_vcard_canceled_title">Lectura de vCard cancelada</string>
@@ -1126,7 +1126,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="set_photo_failed_msg">No se pudo asignar una imagen.</string>
   <string name="share_error">Este contacto no se puede compartir</string>
   <string name="share_over_limit">Por encima del límite, no puede compartir</string>
-  <string name="share_via">Enviar</string>
+  <string name="share_via">Enviar usando</string>
   <string name="share_visible_contacts">Compartir contactos</string>
   <string name="shortcutActivityTitle">Elija un atajo para el contacto</string>
   <string name="shortcutContact">Contacto</string>
@@ -1278,8 +1278,8 @@ Elija una de las siguientes opciones: "</string>
   <string name="websiteLabelsGroup">Página web</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Borrar datos</string>
-  <string name="yellowPageNavigationIconLabel">Agenda</string>
-  <string name="yellowPageNavigationLabel">Agenda</string>
+  <string name="yellowPageNavigationIconLabel">Páginas amarillas</string>
+  <string name="yellowPageNavigationLabel">Páginas amarillas</string>
   <string name="yellowpage_navigation_clear_search_history">Borrar historial</string>
   <string name="yellowpage_navigation_more_items">Más</string>
   <string name="yellowpage_navigation_more_items_title">Más servicios</string>
