@@ -199,8 +199,9 @@
   <string name="impunity_declaration_title">Términos de uso</string>
   <string name="in_searching_please_wait">Buscando…</string>
   <string name="is_loading_data">Cargando canciones. Espera un minuto o dos e inténtalo de nuevo.</string>
-  <string name="is_scanning">Escaneando, espera por favor.</string>
-  <string name="is_scanning_support_online">Escaneando, por favor espera o selecciona música online.</string>
+  <string name="is_scanning">Comprobando almacenamiento…</string>
+  <string name="is_scanning_support_online">"Comprobando almacenamiento…
+(De mientras puedes haces streaming de música online)"</string>
   <string name="japan_korea_female">Artistas femeninas (Japón/Corea)</string>
   <string name="japan_korea_group">Bandas (Japón/Corea)</string>
   <string name="japan_korea_male">Artistas masculinos (Japón/Corea)</string>
@@ -223,7 +224,7 @@
   <string name="lyric_setting">Ajustes de letras</string>
   <string name="male_artist">Artistas masculinos</string>
   <string name="max_sleep_time">90</string>
-  <string name="message_delete_playlist">¿Eliminar lista de reproducción %s ?</string>
+  <string name="message_delete_playlist">¿Eliminar lista de reproducción %s?</string>
   <string name="metered_alert">Alerta de uso de datos</string>
   <string name="metered_alert_msg">"Usar la conexión de datos móviles para escuchar música incrementará tu uso de datos. Ten cuidado en no exceder el límite mensual de tu operadora puesto que puede resultar en cargos extras."</string>
   <string name="metered_allow">Aceptar</string>
@@ -302,7 +303,7 @@
   <string name="ok">Aceptar</string>
   <string name="one_month">1 mes</string>
   <string name="online_music_enabled_subtitle">Pulsa para hacer streaming de tus canciones favoritas.</string>
-  <string name="online_music_enabled_summary">Escucha y descarga tus canciones favoritas. ¡Consulta las listas de éxitos y listas de reproducción recomendadas estés donde estés!</string>
+  <string name="online_music_enabled_summary">Escucha y descarga tus canciones favoritas. ¡Consulta las mejores canciones y listas de reproducción recomendadas estés donde estés!</string>
   <string name="online_music_enabled_title">El streaming gratuito está aquí</string>
   <string name="online_playlist_is_empty">La lista de reproducción está vacía</string>
   <string name="only_online_can_select_quality">Sólo se puede seleccionar la calidad con las canciones reproducidas por streaming</string>
@@ -387,7 +388,7 @@
   <string name="sort_by_name">Nombre</string>
   <string name="sort_by_time">Fecha</string>
   <string name="source_from">Fuente: %1$s</string>
-  <string name="start_to_download">Empezar la descarga…</string>
+  <string name="start_to_download">Descargando…</string>
   <string name="start_to_play">Reproducir</string>
   <string name="stream_quality">Calidad de streaming</string>
   <string name="streamloadingtext">Conectando a %s</string>

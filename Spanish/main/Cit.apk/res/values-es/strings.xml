@@ -11,17 +11,17 @@
   <string name="cit_accelermeter_sensor_check_summary">"Mueve rápidamente el dispositivo en una dirección. Abajo se muestran valores de coordenadas X，Y，Z. (si el teléfono está en movimiento: X representa izquierda/derecha, Y representa delante y detras, Z representa arriba y abajo). Antes de calibrar el dispositivo, coloquelo sobre una superficie plana."</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerómetro</string>
   <string name="cit_aud_spkcal">Calibrar</string>
-  <string name="cit_audio_cali_done">¡Calibrado!</string>
-  <string name="cit_audio_cali_failed">Calibration Fallida, ¡Vuelva a intentarlo!</string>
-  <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
-  <string name="cit_audio_cali_playing">Press button to do calibration</string>
-  <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
-  <string name="cit_audio_cali_title">Speaker PA Calibration Test</string>
-  <string name="cit_audio_cali_valueC">Counter:</string>
+  <string name="cit_audio_cali_done">Calibrado</string>
+  <string name="cit_audio_cali_failed">Calibración fallida, vuelve a intentarlo</string>
+  <string name="cit_audio_cali_file_existed">El fichero de música no existe, no se puede hacer la calibración</string>
+  <string name="cit_audio_cali_playing">Pulsa el botón para calibrar</string>
+  <string name="cit_audio_cali_summary">Calibrar altavoz PA</string>
+  <string name="cit_audio_cali_title">Prueba de calibración del altavoz PA</string>
+  <string name="cit_audio_cali_valueC">Contador:</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Impedance:</string>
+  <string name="cit_audio_cali_valueR">Impedancia:</string>
   <string name="cit_audio_cali_valueT">tCoef:</string>
-  <string name="cit_audio_calibrating">Calibration is ongoing...</string>
+  <string name="cit_audio_calibrating">Calibración en curso...</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Prueba de retroalimentación del micrófono posterior</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Prueba de retroalimentación del micrófono principal</string>
   <string name="cit_audio_lb_phonecall_title">Simulación llamada de prueba</string>
@@ -89,7 +89,12 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_fm_open_2">Inicio FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Abriendo Bluetooth…</string>
   <string name="cit_fm_start_service">Iniciar audio</string>
-  <string name="cit_front_camera_check_summary">"Instrucciones de la prueba: 1 Pulse el botón de cámara más abajo para entrar en frontal cámara interfaz 2 Tap el obturador botón 3 toque el icono del cheque. El sistema guardará la foto automáticamente. 4. la foto que tomaste debe ser exhibida por debajo. Pulse eliminar para completar la prueba".</string>
+  <string name="cit_front_camera_check_summary">"Instrucciones de la prueba:
+ 		 
+1.Toca el botón de cámara de abajo para entrar en la interfaz de cámara frontal.
+2.Toca el obturador.
+3.Toca el icono de Prueba. El sistema guardará la foto automáticamente.
+4.La foto que tomaste debería mostrarse debajo. Toca Eliminar para completar la prueba."</string>
   <string name="cit_front_camera_check_title">Cámara frontal</string>
   <string name="cit_gps_check_summary">La correspondiente información GPS debe ser exhibida por debajo.</string>
   <string name="cit_gps_check_title">GPS</string>
@@ -137,11 +142,17 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_lcdlight_brightness_min">MIN</string>
   <string name="cit_leds_check_summary">Contraluz, luz de notificación y luz de destello (parte posterior), deben responder cuando se presiona el botón correspondiente.</string>
   <string name="cit_leds_check_title">Luz de notificación (LED)</string>
-  <string name="cit_light_sensor_check_summary">Valor DAC debería aparecer debajo de</string>
+  <string name="cit_light_sensor_check_summary">El valor DAC debería aparecer debajo.</string>
   <string name="cit_light_sensor_check_title">Sensor de luz</string>
   <string name="cit_magnetic_sensor_check_summary">Los valores para X，Y，Z, coordenadas deben aparecer debajo de</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
-  <string name="cit_main_camera_check_summary">"Instrucciones de la prueba: 1 Pulse brevemente el botón de cámara más abajo para entrar en cámara posterior interfaz 2 Asegúrese de que el flash esté activado 3 Tap el obturador botón 4 toque el icono del cheque. El sistema guardará la foto automáticamente. 5. la foto que tomaste debe mostrarse por debajo. Pulse eliminar para completar la prueba".</string>
+  <string name="cit_main_camera_check_summary">"Instrucciones de la prueba:
+ 		 
+1.Toca el botón de cámara de abajo para entrar en la interfaz de cámara trasera.
+2.Asegúrate de que el flash está activado.
+3.Toca el obturador.
+4.Toca el icono de Prueba. El sistema guardará la foto automáticamente.
+5.La foto que tomaste debería mostrarse debajo. Toca Eliminar para completar la prueba."</string>
   <string name="cit_main_camera_check_title">Cámara trasera</string>
   <string name="cit_name">Pruebas de hardware</string>
   <string name="cit_not_available">"Esta prueba no está disponible en esta versión de MIUI"</string>
@@ -237,16 +248,16 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_tool_wifi_rx_ap">RX: AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">RX: canal</string>
-  <string name="cit_tool_wifi_rx_count_error">Valor de salida no es un número</string>
+  <string name="cit_tool_wifi_rx_count_error">El valor de salida no es un número.</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-  <string name="cit_tool_wifi_rx_error">Error al ejecutar el programa</string>
+  <string name="cit_tool_wifi_rx_error">Error al ejecutar el programa.</string>
   <string name="cit_tool_wifi_rx_exit">RX: salida</string>
   <string name="cit_tool_wifi_rx_run">Ejecutar</string>
   <string name="cit_tool_wifi_rx_stop">Parar</string>
   <string name="cit_tool_wifi_rxbg_test">RX: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">Canal:</string>
   <string name="cit_tool_wifi_rxn_test">RX: n</string>
-  <string name="cit_tool_wifi_rxn_test_bw">ancho de banda:</string>
+  <string name="cit_tool_wifi_rxn_test_bw">Ancho de banda:</string>
   <string name="cit_tool_wifi_rxn_test_channel">Canal:</string>
   <string name="cit_tool_wifi_tx_ac">TX: CA</string>
   <string name="cit_tool_wifi_tx_bg">TX: un/b/g</string>
@@ -254,7 +265,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">velocidad de datos:</string>
   <string name="cit_tool_wifi_tx_n">TX: n</string>
-  <string name="cit_tool_wifi_tx_n_bandwidth">ancho de banda:</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">Ancho de banda:</string>
   <string name="cit_tool_wifi_tx_n_chan">Canal:</string>
   <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_n_txrt">velocidad de datos: MCS</string>
@@ -278,7 +289,7 @@ Sostenga el teléfono como si hiciera una llamada y hable al microfono, debería
   <string name="cit_vga_camera_capture_fail">No se pudo tomar fotografía</string>
   <string name="cit_vga_camera_delete">Eliminar</string>
   <string name="cit_vga_camera_deleted">Fotografía eliminada</string>
-  <string name="cit_vibrator_check_summary">Comprobar si la vibración (larga y corta) está funcionando correctamente</string>
+  <string name="cit_vibrator_check_summary">Comprobar si la vibración (larga y corta) está funcionando correctamente.</string>
   <string name="cit_vibrator_check_title">Vibración</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
   <string name="cit_vibrator_haptic">Háptica</string>

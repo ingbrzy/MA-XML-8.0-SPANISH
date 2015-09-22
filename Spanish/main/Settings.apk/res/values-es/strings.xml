@@ -1671,6 +1671,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="oldman_mode_entry_title">Modo sencillo</string>
      <string name="oldman_mode_settings_caption">Ajustes de modo sencillo</string>
      <string name="oldman_mode_summary">Usar pantalla de inicio y menus simplificados</string>
+	 <string name="oldman_mode_summary_cta">El modo sencillo necesita conectarse a internet y leer tus contactos, mensajes y localización para funcionar con normalidad.</string>
      <string name="online_resource_entry">Recursos en linea</string>
      <string name="only_one_home_message">Los ajustes de inicio serán ocultados mientras no instale otra aplicación de inicio.</string>
      <string name="only_when_charging">Solo cuando se esté cargando</string>
@@ -1793,7 +1794,8 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="preference_change_password_title">Cambiar contraseña</string>
      <string name="preferred_app_settings">Aplicaciones predeterminadas</string>
      <string name="preferred_app_settings_default">Por defecto</string>
-     <string name="preferred_app_settings_reset">Restaurar aplicaciones por defecto?</string>
+     <string name="preferred_app_settings_reset">Restablecer valores por defecto</string>
+	 <string name="preferred_app_settings_reset_button">Restablecer</string>
      <string name="preferred_app_settings_reset_message">Todas las aplicaciones por defecto serán restauradas a los ajustes iniciales de MIUI.</string>
      <string name="preferred_application_title">Preferidas %s</string>
      <string name="preferred_application_warning_message">Reemplazar la aplicación por defecto %1$s  puede incrementar el consumo de energía, reducir la velocidad, y poner en riesgo los contenidos del teléfono. Usar %2$s en su lugar.</string>
