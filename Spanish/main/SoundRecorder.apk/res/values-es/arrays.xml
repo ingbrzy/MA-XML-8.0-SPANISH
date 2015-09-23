@@ -26,4 +26,9 @@
         <item>Música</item>
         <item>Voz</item>
      </string-array>
+	 <string-array name="record_quality_entries">
+        <item>Alta</item>
+        <item>Estándar</item>
+        <item>Baja</item>
+    </string-array>
 </resources>
