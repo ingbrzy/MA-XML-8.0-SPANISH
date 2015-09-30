@@ -127,6 +127,14 @@
   <string name="notification_action_end_call">Colgar</string>
   <string name="notification_dialing">Llamando</string>
   <string name="notification_incoming_call">Llamada entrante</string>
+  <string name="notification_missedCallTicker">Llamada perdida de %s</string>
+  <string name="notification_missedCallTitle">Llamada perdida</string>
+  <string name="notification_missedCall_call_back">Responder</string>
+  <string name="notification_missedCall_message">Mensaje</string>
+  <string name="notification_missedCallsMsg">%s llamadas perdidas</string>
+  <string name="notification_missedCallsTitle">Llamadas perdidas</string>
+  <string name="notification_network_selection_text">Red seleccionada (%s) no disponible</string>
+  <string name="notification_network_selection_title">No hay servicio</string>
   <string name="notification_on_hold">En espera</string>
   <string name="notification_ongoing_call">Llamada en curso</string>
   <string name="notification_requesting_video_call">Petición de vídeo entrante</string>
