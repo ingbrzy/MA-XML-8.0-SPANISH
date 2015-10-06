@@ -33,8 +33,7 @@
   <string name="backup_items_app_tailer">"  Archivos de datos de la aplicación "</string>
   <string name="backup_items_sysdata_tailer">"  Archivos de datos del sistema, "</string>
   <string name="backup_new">Nuevo:</string>
-  <string name="backup_progress">Haciendo copia de seguridad…;</string>
-  <string name="backup_recently">"  (más reciente) "</string>
+  <string name="backup_progress">Haciendo copia de seguridad…</string>
   <string name="backup_report">Ver detalles de la copia de seguridad</string>
   <string name="backup_update">Actualizar</string>
   <string name="batch_delete_backup_confirm">¿Borrar %d copias de seguridad?</string>
@@ -84,6 +83,15 @@
   <string name="enable_encrypt_summery2">"Las copias de seguridad se cifrarán automáticamente. Necesitarás iniciar sesión en tu cuenta Mi para acceder a las copias de seguridad cifradas."</string>
   <string name="enable_encrypt_title">Activar el cifrado</string>
   <string name="enable_encrypt_xiaomi_account">Esta copia de seguridad fue creada por %1$s. Para restaurar, borrar la cuenta actual e iniciar sesión como %2$s.</string>
+  <string name="err_authentication_failed">Autentificación fallida</string>
+  <string name="err_bakfile_broken">No se puede usar esta copia</string>
+  <string name="err_filesystem_mount">No se puede acceder al almacentamiento del router</string>
+  <string name="err_low_storage">No hay suficiente espacio</string>
+  <string name="err_router_disconnected">Comprueba la conexión de tu router y vuelve a intentarlo.</string>
+  <string name="err_router_files_delete">No se pudieron eliminar las copias del router</string>
+  <string name="err_unknown">Error desconocido</string>
+  <string name="err_version_too_old">El fichero de copia es demasiado viejo.</string>
+  <string name="err_version_unsupported">La versión de la copia no está soportada.</string>
   <string name="every_day">Cada día</string>
   <string name="exchange_account">Cambiar de cuenta</string>
   <string name="fail">Falló</string>
@@ -161,6 +169,8 @@
   <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="start_backup">Copia de seguridad</string>
   <string name="start_restore">Restaurar</string>
+  <string name="state_mounting">Accediendo al almacenamiento del router…</string>
+  <string name="state_waiting">Un momento…</string>
   <string name="succeed">Completa</string>
   <string name="system_backup">Copia de seguridad</string>
   <string name="system_backup_info">Configuración del sistema y disposición de la pantalla de inicio</string>

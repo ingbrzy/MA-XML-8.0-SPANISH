@@ -122,6 +122,7 @@
   <string name="error_info_cant_send_folder">"No se puede enviar este tipo de archivo."</string>
   <string name="error_open_file_failed_no_app_found">No se encontró ninguna aplicación para realizar esta acción.</string>
   <string name="expand_all">Todo</string>
+  <string name="extract">Extraer</string>
   <string name="fail_to_create_folder">No hay suficiente espacio o la carpeta ya existe.</string>
   <string name="fail_to_create_folder_unknown">"No se puede crear la carpeta"</string>
   <string name="fail_to_rename">Ya existe un fichero con el mismo nombre.</string>
@@ -194,6 +195,9 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="load_err">"No se puede cargar"</string>
   <string name="load_more">Ver más</string>
   <string name="loading">Cargando…</string>
+  <string name="local_image">Fotos</string>
+  <string name="local_music">Música</string>
+  <string name="local_video">Vídeo</string>
   <string name="login_reg_content">Almacene archivos y sincronícelos en múltiples dispositivos.</string>
   <string name="login_reg_content0">Use KuaiPan desde cualquier parte.</string>
   <string name="megabyteShort">MB</string>
@@ -213,6 +217,7 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"No se puede cortar"</string>
+  <string name="move_to">Mover a…</string>
   <string name="multi_select_title">%1$s seleccionados</string>
   <string name="my_app">Datos de la aplicación</string>
   <string name="my_app_desc"/>
@@ -364,6 +369,9 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="search_result_more">Más</string>
   <string name="search_title">Buscar</string>
   <string name="search_title_hint">Buscar</string>
+  <string name="select_image">Elegir fotos</string>
+  <string name="select_music">Elegir canciones</string>
+  <string name="select_video">Elegir vídeos</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Este tipo de archivo no está soportado.</string>
   <string name="server_control_advanced_settings">Ajustes FTP</string>
@@ -387,10 +395,13 @@ Espacio gratuito añadido %1$s"</string>
   <string name="stay_awake_title">Permanecer encendido</string>
   <string name="stop_server">Detener el servidor</string>
   <string name="storage_info">%1$s disponibles</string>
-  <string name="storage_info_detail">Disponible:%1$s Total:%1$s</string>
+  <string name="storage_info_detail">Disponible:%1$s Total:%2$s</string>
   <string name="storage_internal">Almacenamiento interno</string>
+  <string name="storage_internal_description">Almacenamiento interno</string>
   <string name="storage_sd_card">Tarjeta SD</string>
+  <string name="storage_sd_card_description">Tarjeta SD</string>
   <string name="storage_usb">Almacenamiento USB</string>
+  <string name="storage_usb_description">Almacenamiento USB</string>
   <string name="storage_warning">"No se puede utilizar almacenamiento externo"</string>
   <string name="sys_size_enable">" disponible"</string>
   <string name="system_alert">Conexión a internet</string>

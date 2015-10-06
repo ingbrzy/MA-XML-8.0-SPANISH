@@ -44,7 +44,7 @@
   <string name="add_new_quicklink">Añadir atajo</string>
   <string name="add_ql_bm_title">Guardar</string>
   <string name="add_quicklink_to_popular">Agregar a la página de inicio</string>
-  <string name="add_quicklinks">Añadir</string>
+  <string name="add_quicklinks">Añadir a la página de inicio</string>
   <string name="add_to_bookmark">Añadir a marcadores</string>
   <string name="add_to_desk">Añadir a la pantalla Home</string>
   <string name="add_to_desk_success">Añadido a la pantalla Home</string>
@@ -125,6 +125,7 @@
   <string name="choosertitle_sharevia">Compartir a través de</string>
   <string name="clear">Limpiar</string>
   <string name="clear_history">Borrar historial</string>
+  <string name="clear_most_visited">Grabar historial</string>
   <string name="clear_history_group">Borrar historial (%s paginas)</string>
   <string name="clear_search_history">Borrar historial</string>
   <string name="clip_dialog_title">¿Abrir la URL copiada?</string>
@@ -291,6 +292,13 @@
   <string name="history_saved_webpage">Guardar página</string>
   <string name="history_track">Historial</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+  <string name="homepage_delete_card_menu">Borrar</string>
+  <string name="homepage_get_location">Obtener localización</string>
+  <string name="homepage_get_location_failed">No se pudo recuperar la información, elegir una ciudad</string>
+  <string name="homepage_more_cards">Más tarjetas</string>
+  <string name="homepage_more_sites">Más sitios web</string>
+  <string name="homepage_search_hint">Buscar</string>
+  <string name="homepage_top_card_menu">Arriba</string>
   <string name="homepage_set">Establecer página de inicio</string>
   <string name="http">http://</string>
   <string name="in_incognito">"Estás de incógnito! Las páginas web que ves en esta pestaña no aparecen en el historial del navegador."</string>
@@ -376,8 +384,29 @@
   <string name="miuichromium_error_page_title">"No se puede encontrar esta página"</string>
   <string name="miuichromium_error_page_url">Ver la página: URL</string>
   <string name="miuichromium_error_page_wlan">Configuración Wi-Fi</string>
+  <string name="miuishare_account_activate_confirmation">Activación requerida</string>
+  <string name="miuishare_account_activate_ok">Activar</string>
+  <string name="miuishare_account_login_cancel">Cancelar</string>
+  <string name="miuishare_account_login_confirmation">Inicia sesión primero</string>
+  <string name="miuishare_account_login_ok">Iniciar sesión</string>
+  <string name="miuishare_account_need_activate">La cuenta Weibo debería emparejarse con tu cuenta Mi. ¿Iniciar sesión con tu cuenta Mi?</string>
+  <string name="miuishare_account_need_login">La cuenta Weibo debería emparejarse con tu cuenta Mi actual. ¿Iniciar sesión para compartir ahora?</string>
+  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_no_network">No se pudo conectar a la red</string>
+  <string name="miuishare_publish">Enviar</string>
+  <string name="miuishare_share_done">Compartido</string>
+  <string name="miuishare_share_editor_title">Compartir</string>
+  <string name="miuishare_title_more">Más</string>
+  <string name="miuishare_title_share">Compartir</string>
+  <string name="miuishare_wechat_timeline_title">Línea de tiempo Wechat</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Se necesita el almacenamiento USB para modificar esta ruta</string>
   <string name="month_picker_dialog_title">Fijar en este mes</string>
+  <string name="nav_bottom_bar_back">Atrás</string>
+  <string name="nav_bottom_bar_close_all">Cerrar todo</string>
+  <string name="nav_bottom_bar_new_tab">Nueva pestaña</string>
+  <string name="nav_screen_container_tab_incognito">Pestaña de incógnito</string>
+  <string name="nav_screen_container_tab_normal">Pestaña normal</string>
   <string name="move_to_up_folder">Subir un nivel</string>
   <string name="name">Etiqueta</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Conectarse a esta red</string>
@@ -417,6 +446,8 @@
   <string name="pref_autologin_progress_in_background">Iniciar sesión en sitios Google utilizando %s en segundo plano</string>
   <string name="pref_autologin_title">Inicio de sesión automático en Google</string>
   <string name="pref_category_title_version">Versión</string>
+  <string name="pref_auto_update_under_wifi">Actualizar automáticamente con Wi-Fi</string>
+  <string name="pref_category_hint">Categoría</string>
   <string name="pref_check_security_url_summary">"Enviar las URL de los sitios web a los servidores de Xiaomi para validación"</string>
   <string name="pref_check_security_url_title">Comprobar seguridad de la URL</string>
   <string name="pref_clear_adblock_statistics">Limpiar historial del filtro de publicidad</string>
@@ -466,6 +497,9 @@
   <string name="pref_development_viewport">Utilizar vista amplia</string>
   <string name="pref_development_visual_indicator">Activar indicador visual</string>
   <string name="pref_enable_adblock_notification">Notificaciones del filtro de publicidad</string>
+  <string name="pref_enable_news">Alertas de noticias</string>
+  <string name="pref_enable_novels">Alertas de novelas</string>
+  <string name="pref_enable_videos">Alertas de vídeos</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Cerrar aplicación con la ultima pestaña</string>
   <string name="pref_extras_reset_default">Restablecer a valores por defecto</string>
   <string name="pref_extras_reset_default_dlg">¿Regresar ajustes a los valores predeterminados?</string>
@@ -505,6 +539,9 @@
   <string name="pref_link_prefetch_title">Precargar páginas web</string>
   <string name="pref_link_prefetch_value_never_summary">Nunca precargar paginas web enlazadas</string>
   <string name="pref_min_font_size_value">%dpt</string>
+  <string name="pref_notifications_hint">Notificaciones</string>
+  <string name="pref_notifications_receive">Alertas de nuevas notificaciones</string>
+  <string name="pref_notifications_title">Notificaciones</string>
   <string name="pref_other_title">Otros</string>
   <string name="pref_privacy_clear_cache">Borrar caché</string>
   <string name="pref_privacy_clear_cache_dlg">¿Eliminar bases de datos y contenido de la caché local?</string>
@@ -645,6 +682,7 @@
   <string name="search_s139">139</string>
   <string name="search_settings_description">Marcadores e historial web</string>
   <string name="search_shipin">Vídeo</string>
+  <string name="search_sm">SM</string>
   <string name="search_sogou">Sogou</string>
   <string name="search_taobao">Taobao</string>
   <string name="search_tupian">Imagen</string>
@@ -727,6 +765,7 @@
   <string name="url_find_on_page_result">Ver en el Navegador</string>
   <string name="url_find_on_page_result_item">Ver todo el texto de \"%s\"</string>
   <string name="url_hint">Busque o escriba URL</string>
+  <string name="url_hint_from_search">Introduce la búsqueda</string>
   <string name="url_opened_in_background">Abrir en una pestaña de fondo</string>
   <string name="url_suggest_indicator_bookmark">Marcadores/historial</string>
   <string name="url_suggest_indicator_hoturl">Popular</string>

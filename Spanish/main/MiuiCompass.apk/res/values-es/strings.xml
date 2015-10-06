@@ -8,7 +8,6 @@
   <string name="altitude_uncalibrate_tip">No se puede calibrar la altitud</string>
   <string name="altitude_unit">M</string>
   <string name="app_label">Brújula</string>
-  <string name="calibrate_altitude">Calibrando...</string>
   <string name="calibrate_failed">Calibración de altitud fallida</string>
   <string name="calibrate_failed_no_location">"No se puede calibrar"</string>
   <string name="calibrate_failed_timeout">"No se puede conectar al servidor"</string>
@@ -33,7 +32,6 @@
   <string name="error_camera_unavailable_title">Cámara no disponible</string>
   <string name="first_using_dialog_message">"La Brújula necesita usar la conexión del dispositivo, la cámara, y los servicios de localización para funcionar con normalidad."</string>
   <string name="first_using_dialog_title">Permiso de acceso</string>
-  <string name="getting_location">Calibrando…</string>
   <string name="guide_toast">Para calibrar, mueva el teléfono como se muestra a continuación</string>
   <string name="latitude">LAT</string>
   <string name="location_east">EL</string>
@@ -46,7 +44,6 @@
   <string name="location_south">SL</string>
   <string name="location_west">OL</string>
   <string name="longitude">LON</string>
-  <string name="menu_calibrate">Calibrar brújula</string>
   <string name="mobiledata_alert_dialog_message">¿Conectarse a internet para calibrar la altitud?</string>
   <string name="mobiledata_alert_dialog_title">Alerta de uso de datos</string>
   <string name="pressure">%.1f</string>

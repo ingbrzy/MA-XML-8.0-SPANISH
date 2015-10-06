@@ -20,6 +20,7 @@
   <string name="download_unknown_title">&lt;Sin título&gt;</string>
   <string name="enter_garbage_clean">Limpiar almacenamiento interno.</string>
   <string name="insufficient_space">No hay suficiente espacio en el almacenamiento interno de tu dispositivo</string>
+  <string name="mobile_recommended_title">Uso de datos móviles</string>
   <string name="notif_text_engine_off">Acelerador Xunlei desactivado.</string>
   <string name="notif_text_engine_on">Acelerando…</string>
   <string name="notif_title_file_size">%1$d total</string>
@@ -52,12 +53,8 @@
   <string name="privacy_tip_content">¿Usar el Acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su cuenta Mi también se subirán para comprobar si tiene alguna suscripción activa a este servicio.</string>
   <string name="privacy_tip_ok">Aceptar</string>
   <string name="privacy_tip_title">¿Usar Acelerador Xunlei?</string>
-  <string name="recommended_file_more_in_mobile" formatted="false">Usar tu conexión de datos móviles para descargar estos %s ficheros (%s ) incrementará tu uso de datos móviles.</string>
-  <string name="recommended_file_one_in_mobile">Usar tu conexión de datos móviles para descargar este fichero (%s ) incrementará tu uso de datos móviles.</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"No estás conectado por Wi-Fi en este momento. %s
-
-No se puede obtener el tamaño del fichero. Para usar tu conexión de datos móviles para descargar este fichero, pulsa %s. Para esperar y descargar este fichero con Wi-Fi, pulsa %s."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">No se puede obtener el tamaño del fichero. Para usar tu conexión de datos móviles para descargar este fichero, pulsa %s. Para esperar y descargar este fichero con Wi-Fi, pulsa %s.</string>
+  <string name="recommended_file_size_download_in_mobile">¿Usar %s de datos móviles para descargar este fichero?</string>
+  <string name="recommended_no_file_size_download_in_mobile">¿Usar tu conexión de datos móviles para descargar este fichero?</string>
   <string name="root_downloads">Descargas</string>
   <string name="task_already_exist">Ya existe la tarea</string>
   <string name="warning_tip_cancel">Descargar</string>
