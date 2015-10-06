@@ -115,7 +115,7 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar es
   <string name="loading">Cargando</string>
   <string name="loading_hint">Cargando</string>
   <string name="master_alert_notif_dspt_add">"%s no han sido sincronizados."</string>
-  <string name="master_alert_notif_dspt_no">"Todo está actualizado."</string>
+  <string name="master_alert_notif_dspt_no">Sincronizado</string>
   <string name="master_alert_notif_title">Última sincronización hace %s días</string>
   <string name="micloud_check_sim_notify_text">"Parece que Vd. ha cambiado de SIM.
 Inicie sesión en su cuenta Mi para reactivar Mi Cloud."</string>
@@ -257,7 +257,7 @@ Esta función cifra y sube la ID de su dispositivo a los servidores Mi."</string
   <string name="start_micloud">Comenzar</string>
   <string name="storage">Almacenamiento</string>
   <string name="sub_alert_notif_dspt_add">"%s no han sido sincronizados."</string>
-  <string name="sub_alert_notif_dspt_no">"Todo está actualizado."</string>
+  <string name="sub_alert_notif_dspt_no">Sincronizado</string>
   <string name="sub_alert_notif_title">Sin sincronizar</string>
   <string name="sub_sync_item_sms_summary">"Sincronizar mensajes que contengan fotos, audio u otro contenido multimedia únicamente cuando estés conectado a una red Wi-Fi"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Utilizar sólo Wi-Fi para sincronizar MMS</string>
