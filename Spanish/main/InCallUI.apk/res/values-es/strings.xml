@@ -44,10 +44,12 @@
   <string name="call_recording_notification_message_sd_unmounted">La tarjeta SD card se ha quitado.</string>
   <string name="call_recording_notification_title">Llamada grabada</string>
   <string name="call_recording_notification_title_error">No se pudo grabar la llamada</string>
+  <string name="call_self">No se puede marcar el teléfono propio</string>
   <string name="call_title_redialing_with_times">Rellamado %d veces</string>
   <string name="caller_manage_header">Llamada de conferencia %s</string>
   <string name="calling_via_template">Llamando vía %s</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_call">Colgar</string>
   <string name="card_title_call_ended">"La llamada finalizó "</string>
   <string name="card_title_conf_call">Llamada de conferencia</string>
   <string name="card_title_dialing">Llamando</string>
@@ -81,6 +83,7 @@
   <string name="description_image_button_two">dos</string>
   <string name="description_image_button_zero">cero</string>
   <string name="description_target_answer">Responder</string>
+  <string name="dial_with_gsm_phone">Llamada normal</string>
   <string name="emergency_call_dialog_number_for_display">Número de emergencia</string>
   <string name="fraud_call_answer">Responder</string>
   <string name="fraud_call_decline">Rechazar</string>
@@ -116,10 +119,17 @@
   <string name="modify_call_option_vt_tx">Transmitir vídeo</string>
   <string name="modify_call_prompt_no">No</string>
   <string name="modify_call_prompt_yes">Sí</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="network_error_message">Intenta hacer una llamada normal. Será cobrada por tu operador.</string>
+  <string name="network_error_title">Error de red</string>
+  <string name="no_balance_message">No tienes saldo suficiente en tu paquete de recarga. Puedes hacer una llamada normal en su lugar.</string>
+  <string name="no_balance_title">Saldo insuficiente</string>
   <string name="no_vm_number">No hay número de buzón de voz</string>
   <string name="no_vm_number_msg">Ningún número de buzón de voz almacenado en la tarjeta SIM.</string>
   <string name="non_ivr_menu_collapse_menu">Contraer menú</string>
   <string name="non_ivr_menu_view_menu">Ver menú</string>
+  <string name="not_support_message">El paquete de recarga no soporta estos números. Puedes hacer una llamada normal en su lugar.</string>
+  <string name="not_support_title">Número no soportado</string>
   <string name="notification_action_accept">Aceptar</string>
   <string name="notification_action_answer_video">Vídeo</string>
   <string name="notification_action_answer_voice">Voz</string>
@@ -159,6 +169,7 @@
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Teléfono público</string>
   <string name="private_num">Número privado</string>
+  <string name="purchase_now">Recargar</string>
   <string name="respond_via_sms_custom_message">Escribe tu propio…</string>
   <string name="select_voice_call_sim">Elegir tarjeta SIM</string>
   <string name="separate_from_conference">Separada llamada</string>

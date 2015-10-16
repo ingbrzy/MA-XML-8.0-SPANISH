@@ -70,7 +70,7 @@
   <string name="datausage_purchase_goto_monthsetting">Editar información del paquete</string>
   <string name="datausage_purchase_none_history">Vacío</string>
   <string name="datausage_purchase_order_failure">Compra fallida</string>
-  <string name="datausage_purchase_order_failure_cause">Su compra falló debido a…</string>
+  <string name="datausage_purchase_order_failure_cause">Compra fallida…</string>
   <string name="datausage_purchase_order_history">Historial</string>
   <string name="datausage_purchase_ordering">Comprando…</string>
   <string name="datausage_purchase_pay_captcha_hint">Introduzca aquí el código recibido</string>
@@ -468,6 +468,8 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_saving_msg_today">ahorrados hoy</string>
   <string name="traffic_saving_need_optimize">Se puede optimizar</string>
   <string name="traffic_saving_notification_button_start">Activar</string>
+  <string name="traffic_saving_notify_no_apps_saving">Ninguna aplicación está usando el Ahorro de datos</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tocar para encender el Ahorro de datos.</string>
   <string name="traffic_saving_notify_start_content">%s ahorrados este mes</string>
   <string name="traffic_saving_notify_start_title">Uso de datos reducido</string>
   <string name="traffic_saving_one_key_optimize">Optimizar para ahorrar datos</string>

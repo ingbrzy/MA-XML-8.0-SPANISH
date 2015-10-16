@@ -82,6 +82,8 @@
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Álbum del bebé</string>
   <string name="baby_album_new_photo_page_title">"Álbum de %1$s"</string>
+  <string name="baby_album_new_photo_remind">Hay nuevas fotos en tu álbum de bebé.</string>
+  <string name="baby_album_no_share_user_tip">No hay seguidores actualmente</string>
   <string name="baby_album_picker_default_title">"Selecciona la cara de %1$s"</string>
   <string name="baby_album_setting_title">Información del bebé</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
@@ -525,6 +527,7 @@
   <string name="cloud_be_shared_guide_title">Este álbum viene de un amigo</string>
   <string name="cloud_camera_display_name">Cámara de fotos</string>
   <string name="cloud_folder_chooser_move">Borrar imágenes del álbum original</string>
+  <string name="cloud_full_tip_str">No hay suficiente espacio en la nube</string>
   <string name="cloud_gallery_recyclebin_full">La papelera está llena. Vacíe su papelera en i.mi.com.</string>
   <string name="cloud_gallery_space_full">No tiene suficiente espacio en la nube</string>
   <string name="cloud_media_set_set">Nube</string>
@@ -552,7 +555,13 @@
   <string name="confirm_download">Tiene que descargar %s.</string>
   <string name="confirm_download_video_message">La descarga de este vídeo debe terminar antes de que usted puede verlo. La descarga se reanudará cuando Wi-Fi está disponible.</string>
   <string name="confirm_download_video_title">Descargar vídeo</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Combinar este álbum con &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; ¿Combinar este álbum con &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; ¿Combinar estos álbumes con %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_not_face">No es</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; ¿Estás seguro de que es &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Se moverá al álbum \"%2$s\" después de la confirmación. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; ¿Estás seguro de que no es &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Se moverá al álbum \"%2$s\" después de la confirmación. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; ¿Estás seguro de que son &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Se moverán al álbum \"%2$s\" después de la confirmación. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; ¿Estás seguro de que no son &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Se moverán al álbum \"%2$s\" después de la confirmación. &lt;/Data&gt;" "</string>
   <string name="contact_photo">Establecer como foto de contacto</string>
   <string name="context_menu_add_contact">Agregar a contactos</string>
   <string name="context_menu_copy">Copiar</string>
@@ -615,6 +624,7 @@
   <string name="duration">Duración</string>
   <string name="early_bird">Earlybird</string>
   <string name="edit">Editar</string>
+  <string name="edit_baby_info">Ver información del bebé</string>
   <string name="edited_photo_bucket_name">Editado</string>
   <string name="effect">Filtros</string>
   <string name="email_picker_title">Agregar correo compartido</string>
@@ -625,6 +635,7 @@
   <string name="error_cloud_not_active">No hay fotos en la nube</string>
   <string name="error_forbidden">La sincronización ha sido desactivada debido a problemas con tu cuenta Mi.</string>
   <string name="error_invalid_link">Enlace no válido</string>
+  <string name="error_link_has_expired">Enlace expirado</string>
   <string name="error_not_acceptable">La sincronización ha sido desactivada.</string>
   <string name="error_repeat_apply">Este álbum ya ha sido compartido</string>
   <string name="error_share_not_support">Unir álbumes compartidos no está soportado de momento</string>
@@ -663,6 +674,7 @@
   <string name="fail_to_pick_email">El email no válido</string>
   <string name="fail_to_sync_album">"No se pudo sincronizar el álbum. Compruebe la conexión de datos y vuelva a intentarlo."</string>
   <string name="family_member_invitation_text">Otro miembro de la familia</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_not_exist_message">"El archivo no existe"</string>
   <string name="file_size">Tamaño</string>
   <string name="filllight">Luz de relleno</string>
@@ -692,6 +704,7 @@
   <string name="gallery_cloud_provider_name">Fotos en Mi Cloud</string>
   <string name="gallery_setting">Galería</string>
   <string name="get_album_info_in_process">"Obteniendo los detalles del álbum compartido…"</string>
+  <string name="gigabyteShort">GB</string>
   <string name="global_setting">Ajustes</string>
   <string name="go_setting">Ver ajustes</string>
   <string name="grain">Grano de la película</string>
@@ -722,7 +735,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importación completa</string>
   <string name="import_fail">No se pudo importar</string>
-  <string name="impunity_declaration">¿Está de acuerdo en conectar a la red al usar la Galería?</string>
+  <string name="impunity_declaration">Al usar este servicio, aceptas %1$s y %2$s de Xiaomi. Algunas características requieren conexión a internet para funcionar con normalidad.</string>
   <string name="impunity_declaration_ignore">"No mostrar de nuevo"</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Mostrar aviso de red</string>
@@ -760,6 +773,10 @@
   <string name="kick_sharer">Quitar espectador compartido</string>
   <string name="kick_sharer_failed">"No se pudo eliminar esta persona"</string>
   <string name="kick_sharer_successfully">Esta persona fue eliminada</string>
+  <string name="kilobyteShort">KB</string>
+  <string name="last_chinese_new_year">Último año nuevo chino</string>
+  <string name="last_new_year">Último año nuevo</string>
+  <string name="last_valentine_day">Último día de San Valentín</string>
   <string name="loading">Cargando…</string>
   <string name="loading_failure">"No se puede cargar la foto"</string>
   <string name="loading_image">Descargando imagen…</string>
@@ -777,6 +794,7 @@
   <string name="maker">Fabricante</string>
   <string name="manual">Manual</string>
   <string name="me">Yo</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_item_sort">Ordenar</string>
   <string name="menu_item_sort_date">Fecha</string>
   <string name="menu_item_sort_date_asc">Fecha (ascendente)</string>
@@ -816,9 +834,9 @@
   <string name="multiface_crop_help">Toque una cara para comenzar</string>
   <string name="must_pick_file">Seleccione una imagen</string>
   <string name="name_wrong">No es %s</string>
-  <string name="need_to_turn_on_network">Conectar a internet</string>
-  <string name="need_to_turn_on_sync">"Encender sincronización con Mi Cloud "</string>
-  <string name="need_to_turn_on_wlan">Conectar a Wi-Fi</string>
+  <string name="need_to_turn_on_network">No tienes conexión a internet</string>
+  <string name="need_to_turn_on_sync">Activar primero la sincronización con Mi Cloud</string>
+  <string name="need_to_turn_on_wlan">Conectar a Wi-Fi primero</string>
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Lector de noticias NetEase</string>
   <string name="new_device_tips">Pulse para ver el dispositivo</string>
@@ -834,12 +852,13 @@
   <string name="no_such_item">"No se pudo encontrar el elementp"</string>
   <string name="no_thumbnail">Sin miniatura</string>
   <string name="none_picture">Sin imágenes</string>
+  <string name="not_ask_any_more">"No volver a pedir respuestas de \"%s\" "</string>
   <string name="not_auto_create_recent_album">Deshacer crear favoritos</string>
   <string name="not_is">No</string>
   <string name="not_now">Ahora no</string>
   <string name="not_remind_any_more">No mostrar de nuevo</string>
   <string name="not_show_hidden_albums">No mostrar álbumes ocultos</string>
-  <string name="number_of_uploading_finish">Todos los ficheros subidos a Mi Cloud</string>
+  <string name="number_of_uploading_finish">Sincronizado con Mi Cloud</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Mostrar sólo rollo de cámara</string>
   <string name="only_show_camera_in_first_page_summary">"Mostrar sólo fotos del rollo de cámara de Mi Cloud"</string>
@@ -858,7 +877,7 @@
   <string name="operation_remove_from_face_album">Eliminar del álbum</string>
   <string name="operation_remove_secret">Quitar secreto</string>
   <string name="operation_rename">Renombrar</string>
-  <string name="operation_rename_baby">Introducir nombre del bebé</string>
+  <string name="operation_rename_baby">Introducir nombre</string>
   <string name="operation_set_as_screensaver">Establecer como protector de pantalla</string>
   <string name="operation_share">Compartir</string>
   <string name="operation_successful">Hecho</string>
@@ -877,6 +896,7 @@
   <string name="path">Ruta de acceso</string>
   <string name="people">Gente</string>
   <string name="pet_album_display_name">Fotos de mascotas</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Añadir número de teléfono</string>
   <string name="photo_page_always_rotate">Rotación automática imágenes</string>
   <string name="photo_page_detail_show_in_the_map">Ver la ubicación en el mapa</string>
@@ -978,9 +998,9 @@
   <string name="send_public_url">Enviar URL del álbum</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Usar como fondo de pantalla de bloqueo</string>
-  <string name="set_baby_icon_picker_default_title">Establecer miniatura</string>
+  <string name="set_baby_icon_picker_default_title">Establecer icono de bebé</string>
   <string name="set_bg_file_exist_message">Este elemento ya existe</string>
-  <string name="set_bg_picker_default_title">Establecer foto de portada</string>
+  <string name="set_bg_picker_default_title">Establecer miniatura superior</string>
   <string name="set_bg_unknow_reasons">Error desconocido</string>
   <string name="set_hidden_album">Álbum oculto</string>
   <string name="set_label_all_albums">Todo</string>
@@ -1044,7 +1064,7 @@
   <string name="sync_album_set_error">"No se puede sincronizar estos álbumes. Compruebe la conexión de datos y vuelva a intentarlo."</string>
   <string name="sync_album_summary">Sincronizar con Mi Cloud</string>
   <string name="sync_battery_low">Batería baja</string>
-  <string name="sync_cloud_space_full">Almacenamiento en la nube completo</string>
+  <string name="sync_cloud_space_full">No hay suficiente espacio en la nube</string>
   <string name="sync_history_power_on">Sincronizar el historial de imágenes sólo durante la carga</string>
   <string name="sync_in_progress_message">Sincronizando…</string>
   <string name="sync_only_in_wifi">Sólo utilizar Wi-Fi para subir fotos</string>
@@ -1061,6 +1081,7 @@
   <string name="tencent_mobile_qq_img_save">QQ 2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="terabyteShort">TB</string>
   <string name="there_is_no_image">No hay imágenes en este archivo</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Hora</string>
@@ -1083,11 +1104,15 @@
   <string name="unpublish_succeeded">Publicación de álbum retirada</string>
   <string name="unpublishing">Cancelando…</string>
   <string name="untagged">Sin etiquetar</string>
+  <string name="upgrade_micloud_space">Conseguir más espacio</string>
+  <string name="user_agreement">" Términos de Servicio"</string>
   <string name="user_alias_self">Auto</string>
+  <string name="user_policy">Política de Privacidad</string>
   <string name="video_err">"No se puede reproducir el vídeo"</string>
   <string name="video_not_exist">"Vídeo no existe"</string>
   <string name="videos">" vídeos"</string>
   <string name="view_baby_album">Ver álbum del bebé</string>
+  <string name="view_baby_info">Editar información del bebé</string>
   <string name="view_face_album">Ver álbum</string>
   <string name="view_sharers">Ver partícipes</string>
   <string name="vignette">Vignette</string>

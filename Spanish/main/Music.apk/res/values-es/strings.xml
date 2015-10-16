@@ -2,7 +2,7 @@
 <resources>
   <string name="account">Cuenta</string>
   <string name="account_and_cloud">Cuenta</string>
-  <string name="action_item_add">Añadir a lista de reproducción</string>
+  <string name="action_item_add">Añadir</string>
   <string name="action_item_add_song">Añadir a lista de reproducción</string>
   <string name="action_item_add_to_current_playlist">Lista de reproducción actual</string>
   <string name="action_item_add_to_favorite_playlist">Lista de reproducción favorita</string>
@@ -36,11 +36,14 @@
   <string name="audio_picker_title">Elige una canción</string>
   <string name="auto_download_in_wifi">Descargar canciones favoritas usando Wi-Fi</string>
   <string name="auto_payment">Renovar automáticamente</string>
+  <string name="auto_payment_date">Próximo pago: %s</string>
   <string name="avail_services">Servicios disponibles</string>
   <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
   <string name="avoid_to_use_traffic_summary">No usar datos móviles para escuchar música por streaming</string>
   <string name="avoid_to_use_traffic_title">Usar sólo Wi-Fi para streaming de música</string>
   <string name="baidu_music">Música de Baidu</string>
+  <string name="being_disable_auto_payment">Desactivando…</string>
+  <string name="being_enable_auto_payment">Activando…</string>
   <string name="bill_list_fragment_title">Listas</string>
   <string name="bluetooth_device">Dispositivo de audio Bluetooth</string>
   <string name="buffering">Cargando búfer…</string>
@@ -59,6 +62,7 @@
   <string name="close_music_time">"Tiempo restante: "</string>
   <string name="cloud_enable">Sincronizar música con Mi Cloud</string>
   <string name="cloud_settings">Ajustes de sincronización</string>
+  <string name="confirm_to_renew">Renovar</string>
   <string name="cp_info_first">Servicio de streaming provisto por Ultimate Inc.</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_playlist">Crear lista de reproducción</string>
@@ -85,6 +89,10 @@
   <string name="dialog_title_name_playlist">Nombre de la lista de reproducción</string>
   <string name="dialog_title_remove_tracks">Eliminar</string>
   <string name="dialog_title_track_picker">Seleccionar canciones</string>
+  <string name="disable_auto_payment_fail">No se pudo desactivar</string>
+  <string name="disable_auto_payment_fail_message">No se pudo desactivar la renovación automática</string>
+  <string name="disable_auto_payment_success">Desactivar</string>
+  <string name="disable_auto_payment_success_message">Se desactivó la renovación automática. Después de que finalice tu suscripción actual, tendrás que volver a suscribirte para descargar canciones.</string>
   <string name="disallow_add_to_personal_radio">Radio personal es sólo de lecura</string>
   <string name="done">Hecho</string>
   <string name="download">Descargar</string>
@@ -113,6 +121,10 @@
   <string name="empty_page_no_artist">No hay artistas.</string>
   <string name="empty_page_no_document">No hay ficheros de audio.</string>
   <string name="empty_page_no_track">No hay canciones.</string>
+  <string name="enable_auto_payment_fail">No se pudo activar</string>
+  <string name="enable_auto_payment_fail_message">No se pudo activar la renovación automática</string>
+  <string name="enable_auto_payment_success">Renovar automáticamente</string>
+  <string name="enable_auto_payment_success_message">Renovación automática activada. Próximo pago: %s.</string>
   <string name="enabled">Activado</string>
   <string name="english_female">Artistas femeninas (USA/Europa)</string>
   <string name="english_group">Bandas (USA/Europa)</string>
@@ -310,10 +322,9 @@
   <string name="order_process_fail">"No se pudo autorizar tu cuenta. Espera unos minutos y vuelve a intentarlo."</string>
   <string name="page_local_setting">Ajustes</string>
   <string name="pay">Pagar:</string>
-  <string name="pay_now">Pagar ahora</string>
+  <string name="pay_now">Servicio actual</string>
   <string name="payment_fail">Ocurrió un error en el pago</string>
   <string name="payment_success">Pago completado</string>
-  <string name="period_format">%1$s-%2$s</string>
   <string name="play_all_song">Reproducir todo</string>
   <string name="playback_failed_no_title_by_bad_file">"El formato no es compatible o el archivo no existe."</string>
   <string name="playlist_deleted_message">Lista de reproducción eliminada</string>
@@ -336,6 +347,8 @@
   <string name="renew">Renovar:</string>
   <string name="renew_1">Renovar</string>
   <string name="renew_period">"Expira: "</string>
+  <string name="repeat_all_notif">Repitiendo todas las canciones.</string>
+  <string name="repeat_current_notif">Repitiendo canción actual.</string>
   <string name="retry">Volver a intentar</string>
   <string name="ringtone_not_support">"Este formato de canción no está soportado"</string>
   <string name="search_album">Buscar álbumes</string>
@@ -375,6 +388,8 @@
   <string name="share_end_note">De Mi Music</string>
   <string name="share_text_list">"Lista de reproducción en Mi Music: "</string>
   <string name="share_text_song">"Canción en Mi Music: "</string>
+  <string name="shuffle_off_notif">Aleatorio encendido.</string>
+  <string name="shuffle_on_notif">Aleatorio apagado.</string>
   <string name="similar_songs">Canciones similares</string>
   <string name="sleep_mode">Temporizador</string>
   <string name="sleep_mode_canceled">Temporizador desactivado</string>
@@ -418,6 +433,7 @@
   <string name="title_online_suggest">Puede que te guste</string>
   <string name="title_search_history">Histórico de búsqueda</string>
   <string name="title_search_hot">Popular</string>
+  <string name="to_mi_pay">Mi Credits</string>
   <string name="too_freq">Demasiadas peticiones desde este dispositivo</string>
   <string name="tos">Términos de Servicio</string>
   <string name="track_list_control_download">Descargar</string>
@@ -444,7 +460,7 @@
   <string name="upgrade_suggest">"Suspendemos el servicio de streaming de música debido a asuntos de copyright. Actualízate a la última versión de la aplicación Música para escuchar música en alta calidad."</string>
   <string name="upgrade_to">Actualizar a</string>
   <string name="upgrade_waringing">"Sólo podrás escuchar la música almacenada en el dispositivo."</string>
-  <string name="valid_period">"Válido: "</string>
+  <string name="valid_period">Válido: %s</string>
   <string name="vip_expiration_message">Después de que tu afiliación expire, sólo podrás hacer streaming de música a 128Kbps. Por motivos legales, algunas canciones no están disponibles para descargar.</string>
   <string name="vip_expiration_title">Tu afiliación expira pronto</string>
   <string name="vip_recommend_title">Obtenga música de mayor calidad</string>

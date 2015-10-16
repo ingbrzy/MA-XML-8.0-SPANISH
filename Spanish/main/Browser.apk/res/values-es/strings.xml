@@ -295,7 +295,7 @@
   <string name="homepage_delete_card_menu">Borrar</string>
   <string name="homepage_get_location">Obtener localización</string>
   <string name="homepage_get_location_failed">No se pudo recuperar la información, elegir una ciudad</string>
-  <string name="homepage_more_cards">Más tarjetas</string>
+  <string name="homepage_more_cards">Más servicios</string>
   <string name="homepage_more_sites">Más sitios web</string>
   <string name="homepage_search_hint">Buscar</string>
   <string name="homepage_top_card_menu">Arriba</string>
@@ -398,7 +398,7 @@
   <string name="miuishare_share_editor_title">Compartir</string>
   <string name="miuishare_title_more">Más</string>
   <string name="miuishare_title_share">Compartir</string>
-  <string name="miuishare_wechat_timeline_title">Línea de tiempo Wechat</string>
+  <string name="miuishare_wechat_timeline_title">Línea de tiempo WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Se necesita el almacenamiento USB para modificar esta ruta</string>
   <string name="month_picker_dialog_title">Fijar en este mes</string>
@@ -497,15 +497,16 @@
   <string name="pref_development_viewport">Utilizar vista amplia</string>
   <string name="pref_development_visual_indicator">Activar indicador visual</string>
   <string name="pref_enable_adblock_notification">Notificaciones del filtro de publicidad</string>
-  <string name="pref_enable_news">Alertas de noticias</string>
-  <string name="pref_enable_novels">Alertas de novelas</string>
-  <string name="pref_enable_videos">Alertas de vídeos</string>
+  <string name="pref_enable_news">Noticias</string>
+  <string name="pref_enable_novels">Libros</string>
+  <string name="pref_enable_videos">Vídeos</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Cerrar aplicación con la ultima pestaña</string>
   <string name="pref_extras_reset_default">Restablecer a valores por defecto</string>
   <string name="pref_extras_reset_default_dlg">¿Regresar ajustes a los valores predeterminados?</string>
   <string name="pref_extras_reset_default_summary">Restaurar valores predeterminados</string>
   <string name="pref_extras_reset_default_title">Otros</string>
   <string name="pref_extras_title">Avanzado</string>
+  <string name="pref_extras_title_version">Versión</string>
   <string name="pref_extras_website_settings">Datos de la página web</string>
   <string name="pref_extras_website_settings_summary">Configuración avanzada para sitios web individuales</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Restaurar valores predeterminados</string>
@@ -540,7 +541,7 @@
   <string name="pref_link_prefetch_value_never_summary">Nunca precargar paginas web enlazadas</string>
   <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_notifications_hint">Notificaciones</string>
-  <string name="pref_notifications_receive">Alertas de nuevas notificaciones</string>
+  <string name="pref_notifications_receive">Notificaciones</string>
   <string name="pref_notifications_title">Notificaciones</string>
   <string name="pref_other_title">Otros</string>
   <string name="pref_privacy_clear_cache">Borrar caché</string>
@@ -585,12 +586,15 @@
   <string name="pref_setting_title">Configuración de página</string>
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_string">Cadena de agente de usuario</string>
+  <string name="pref_version_info">Versión</string>
   <string name="pref_ua_title">Gestor de agentes de usuario</string>
   <string name="pref_version_summary">Versión: %s</string>
   <string name="pref_video_preload_dialogtitle">Precargando el vídeo</string>
   <string name="pref_video_preload_summary">: Permitir al navegador la precarga de vídeos si el servidor lo permite</string>
   <string name="pref_video_preload_title">Precarga de vídeos</string>
   <string name="pref_volume_key_action">Botones de volumen: página anterior/siguiente</string>
+  <string name="pref_weather_location_summary">Usado por el plugin de tiempo del navegador</string>
+  <string name="pref_weather_location_title">Localización del tiempo</string>
   <string name="pref_volume_key_enabled">Botones de volumen</string>
   <string name="pref_volume_key_operation">Funciones de los botones volumen</string>
   <string name="pref_webapp_settings_fontsize">Tamaño de letra</string>
@@ -698,7 +702,8 @@
   <string name="share_page">compartir página</string>
   <string name="share_page_text">"Estoy disfrutando 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"La URL de esta web se enviará a los servidores de Xiaomi para verificar su seguridad. Puede desactivar esta característica en Ajustes en cualquier momento."</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Seguridad de URL</string>
+  <string name="show_security_tip_dialog_title">Términos de Servicio</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Los servicios de tiempo necesitan tu localización para darte información actualizada del tiempo en tu navegador. Puedes desactivar esta característica en Ajustes.</string>
   <string name="sign_in_to" formatted="false">Iniciar sesión en %s1 \"%s2\"</string>
   <string name="snapshot_failed">"No se pudo guardar para lectura offline"</string>
   <string name="snapshot_go_live">Ir a vivir</string>
@@ -778,6 +783,12 @@
   <string name="v5_deselect_all">Deseleccionar todo</string>
   <string name="v5_edit_mode_title_empty">0 seleccionados</string>
   <string name="v5_select_all">Seleccionar todo</string>
+  <string name="version_check_button_checking">Comprobando…</string>
+  <string name="version_check_button_default">Buscando actualizaciones</string>
+  <string name="version_check_button_downloading">Descargando…</string>
+  <string name="version_check_button_install">Instalar</string>
+  <string name="version_check_button_newest">No hay actualizaciones</string>
+  <string name="version_check_button_no_network">No se puede conectar a la red</string>
   <string name="video_activity_name">Recopilación de Vídeo</string>
   <string name="video_collect_cancel">Cancelar Recopilación</string>
   <string name="video_collect_success">Recopilación de Vídeo correcta</string>
