@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">¿Borrar grabaciones seleccionadas?</string>
-  <string name="alert_message_delete_record_title">Borrar grabación</string>
+  <string name="alert_message_delete_record_title">¿Borrar grabación?</string>
   <string name="app_name">Grabadora</string>
   <string name="back">Atrás</string>
   <string name="button_queue_for_wifi">Esperar</string>
   <string name="button_start_now">Descargar</string>
   <string name="call_record">Grabaciones de llamadas (%d)</string>
   <string name="cloud_record">%d sincronizadas</string>
+  <string name="cloud_record_open">Sincronizar grabaciones</string>
+  <string name="cloud_record_tip">Sincronizar grabaciones con Mi Cloud.</string>
+  <string name="cloud_status_full_dialog_cancel">Ahora no</string>
+  <string name="cloud_status_full_dialog_msg">Tu almacentamiento en la nube está completo, no puedes sincronizar grabaciones. Actualiza tu cuenta para conseguir más espacio.</string>
+  <string name="cloud_status_full_dialog_ok">Actualizar</string>
+  <string name="cloud_status_full_dialog_title">Almacentamiento en Mi Cloud completo</string>
   <string name="data_connection_body">Si usa la conexión de datos móviles para descargar este fichero aumentará su uso de datos. Si supera el límite de datos contratados, su proveedor podría cobrarle un extra.</string>
   <string name="data_connection_button_text">Aceptar</string>
   <string name="data_connection_title">Aviso sobre el uso de datos</string>
@@ -53,7 +59,7 @@
   <string name="record_back_pressed_hint">Para detener la grabación, pulse Atrás de nuevo</string>
   <string name="record_download">Descargar desde Mi Cloud</string>
   <string name="record_download_activity">Lista de descargas</string>
-  <string name="record_download_complete">Completada</string>
+  <string name="record_download_complete">Descargada</string>
   <string name="record_download_failed">Falló</string>
   <string name="record_download_msg">Las grabaciones sólo pueden reproducirse tras finalizar su descarga.</string>
   <string name="record_download_msg_reload">"Esta grabación no existe"</string>

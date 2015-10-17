@@ -162,8 +162,8 @@
   <string name="passport_choose_which_one_sim">Elija un número de teléfono</string>
   <string name="passport_click_email_to_valid">"
 
-Para activar su cuenta, siga el enlace en el 
- mensaje que le hemos enviado a su bandeja de entrada."</string>
+Para activar su cuenta, siga el enlace
+ que le hemos enviado a su bandeja de entrada."</string>
   <string name="passport_completed">Finalizar</string>
   <string name="passport_confirm">Aceptar</string>
   <string name="passport_confirm_recycle_account">Sí</string>
@@ -190,7 +190,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_error_phone_error">Número de teléfono no válido</string>
   <string name="passport_error_server">Error de servidor</string>
   <string name="passport_error_sim_not_ready">"No se encuentra la tarjeta SIM"</string>
-  <string name="passport_error_ssl_hand_shake">Error con la conexión al servidor. Intente ajustar la fecha y hora de su sistema a la actual.</string>
+  <string name="passport_error_ssl_hand_shake">No se pudo conectar al servidor.</string>
   <string name="passport_error_unknown">"No se pudo abrir sesión"</string>
   <string name="passport_error_user_name">El nombre de usuario introducido no es válido.</string>
   <string name="passport_error_verify_code">El código que ha introducido es incorrecto</string>
@@ -246,8 +246,8 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_reg_via_sms_alert">Su compañía puede cobrarle por el mensaje SMS usado para activar este servicio.</string>
   <string name="passport_reging">Creando cuenta…</string>
   <string name="passport_register">Crear una cuenta</string>
-  <string name="passport_register_account_goto_email">Ir a su bandeja de entrada</string>
-  <string name="passport_register_account_verified_confirm">"Ya ha verificado su cuenta"</string>
+  <string name="passport_register_account_goto_email">Ir a bandeja de entrada</string>
+  <string name="passport_register_account_verified_confirm">Cuenta verificada</string>
   <string name="passport_register_by_email"><u>Crear una cuenta usando una dirección de email</u></string>
   <string name="passport_register_restricted">Demasiadas cuentas asociadas con este número de teléfono, intenta uno diferente</string>
   <string name="passport_register_restricted_title">No se puede usar este número de teléfono</string>
@@ -256,7 +256,7 @@ Para activar su cuenta, siga el enlace en el
   <string name="passport_relogin_notice">Necesita iniciar sesión de nuevo</string>
   <string name="passport_remove_confirm">Cerrar sesión</string>
   <string name="passport_remove_unactivated_account_notice">"Su cuenta no ha sido activada."</string>
-  <string name="passport_resend_active_email">Reenviar email de activación</string>
+  <string name="passport_resend_active_email">Email reenviado</string>
   <string name="passport_reset_fail_title">No se pudo reestablecer</string>
   <string name="passport_reset_password_prompt">Contraseña incorrecta</string>
   <string name="passport_reset_password_title">Restablecer contraseña</string>

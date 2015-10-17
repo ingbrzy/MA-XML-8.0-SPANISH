@@ -32,7 +32,6 @@
   <string name="artist_search_title">Artista</string>
   <string name="artist_view">Artista</string>
   <string name="atmd_music">Ultimate</string>
-  <string name="atmd_tel">Soporte：0755-86699030</string>
   <string name="audio_picker_title">Elige una canción</string>
   <string name="auto_download_in_wifi">Descargar canciones favoritas usando Wi-Fi</string>
   <string name="auto_payment">Renovar automáticamente</string>
@@ -319,6 +318,7 @@
   <string name="online_music_enabled_title">El streaming gratuito está aquí</string>
   <string name="online_playlist_is_empty">La lista de reproducción está vacía</string>
   <string name="only_online_can_select_quality">Sólo se puede seleccionar la calidad con las canciones reproducidas por streaming</string>
+  <string name="order_pending">Esperando confirmación</string>
   <string name="order_process_fail">"No se pudo autorizar tu cuenta. Espera unos minutos y vuelve a intentarlo."</string>
   <string name="page_local_setting">Ajustes</string>
   <string name="pay">Pagar:</string>
@@ -411,17 +411,17 @@
   <string name="support_online_only">Sólo streaming</string>
   <string name="sync_only_in_wifi">Sincronizar sólo con Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Sincronizar tu música en todos tus dispositivos con Mi Cloud. Usar tu conexión de datos para sincronizar música incrementará tu uso de datos.  Si te pasas del límite de tu plan, tu proveedor puede cobrarte un extra.</string>
-  <string name="tab_album">Álbumes</string>
+  <string name="tab_album">Álbum.</string>
   <string name="tab_album_list">Álbum.</string>
-  <string name="tab_artist">Artistas</string>
+  <string name="tab_artist">Artist.</string>
   <string name="tab_artist_list">Artist.</string>
   <string name="tab_chinese">China</string>
   <string name="tab_europa_america">Occidental</string>
-  <string name="tab_folder">Carpetas</string>
+  <string name="tab_folder">Carp.</string>
   <string name="tab_japanese_korean">J-Pop/K-Pop</string>
   <string name="tab_local_folder_list">Carp.</string>
   <string name="tab_local_track_list">Canc.</string>
-  <string name="tab_track">Canciones</string>
+  <string name="tab_track">Canc.</string>
   <string name="tab_track_list">Canc.</string>
   <string name="take_effect_afater_restart">Es necesario reiniciar la aplicación para que esta configuración tenga efecto.</string>
   <string name="title_online_artist">Artistas de moda</string>
@@ -452,7 +452,7 @@
   <string name="unknown_album_name">Álbum desconocido</string>
   <string name="unknown_artist_name">Artista desconocido</string>
   <string name="upgrade">Actualizar:</string>
-  <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_force">Dejamos de dar servicio a nuestro servicio de streaming actual por problemas de copyright. Actualiza a la última versión de nuestra aplicación de Música para escuchar música de alta calidad.</string>
   <string name="upgrade_immediate">Actualizar ahora</string>
   <string name="upgrade_nobeta">"Suspendemos el servicio de streaming de música mientras solventamos asuntos de copyright. Disculpas por los inconvenientes :("</string>
   <string name="upgrade_remind">Actualización disponible</string>
@@ -461,8 +461,14 @@
   <string name="upgrade_to">Actualizar a</string>
   <string name="upgrade_waringing">"Sólo podrás escuchar la música almacenada en el dispositivo."</string>
   <string name="valid_period">Válido: %s</string>
-  <string name="vip_expiration_message">Después de que tu afiliación expire, sólo podrás hacer streaming de música a 128Kbps. Por motivos legales, algunas canciones no están disponibles para descargar.</string>
-  <string name="vip_expiration_title">Tu afiliación expira pronto</string>
+  <string name="vip_auto_renew_message">Tu suscripción de Música seá renovada automáticamente esta noche. Asegúrate de tener suficientes Mi Credits en tu cuenta para completar el pago.</string>
+  <string name="vip_auto_renew_notification_message">Añade Mi Credits para renovar tu suscripción de Música.</string>
+  <string name="vip_auto_renew_notification_title">Pago de suscripción</string>
+  <string name="vip_auto_renew_title">Renovación de suscripción</string>
   <string name="vip_recommend_title">Obtenga música de mayor calidad</string>
+  <string name="vip_renew_message">No podrás escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad normal.</string>
+  <string name="vip_renew_notification_message">No podrás escuchar música en streaming de alta calidad cuando tu suscripción expire.</string>
+  <string name="vip_renew_notification_title">La suscripción expira mañana</string>
+  <string name="vip_renew_title">Suscripción expirada</string>
   <string name="vip_required">Lo siento, VIP requerido</string>
 </resources>

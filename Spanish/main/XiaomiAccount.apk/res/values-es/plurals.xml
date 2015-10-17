@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="updated_contacts">
-        <item quantity="other">%s contactos actualizados</item>
-        <item quantity="one">%s contacto actualizado</item>
-    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d contactos</item>
         <item quantity="one">%d contacto</item>
@@ -15,5 +11,9 @@
     <plurals name="dirty_note_count">
         <item quantity="other">%d notas</item>
         <item quantity="one">%d nota</item>
+    </plurals>
+    <plurals name="updated_contacts">
+        <item quantity="other">%s contactos actualizados</item>
+        <item quantity="one">%s contacto actualizado</item>
     </plurals>
 </resources>
