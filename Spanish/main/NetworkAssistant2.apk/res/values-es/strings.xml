@@ -15,7 +15,7 @@
   <string name="apn_exception_summary">"Configuraciones de prueba de compañia Nombre Punto de Acceso"</string>
   <string name="apn_exception_title">Comprobar configuración de APN</string>
   <string name="app_detail">Detalles</string>
-  <string name="app_mobile">Datos</string>
+  <string name="app_mobile">Móvil</string>
   <string name="app_name">Uso de datos</string>
   <string name="app_version">Versión</string>
   <string name="app_wifi">Wi-Fi</string>
@@ -109,9 +109,9 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="firewall_fragment_tab_title_nonsys">Instalado</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
   <string name="firewall_network_restrict_notify_message">Tocar para cambiar los ajustes.</string>
-  <string name="firewall_network_restrict_notify_mobile">Datos móviles</string>
+  <string name="firewall_network_restrict_notify_mobile">datos móviles</string>
   <string name="firewall_network_restrict_notify_title">"%1$s no puede usar %2$s."</string>
-  <string name="firewall_rule_group_title_mobile">Datos</string>
+  <string name="firewall_rule_group_title_mobile">Móvil</string>
   <string name="firewall_rule_group_title_roaming">Itinerancia internacional</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s está restringido para usar %2$s redes</string>
@@ -453,6 +453,7 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_saving_button_start">Activar</string>
   <string name="traffic_saving_button_stop">Desactivar</string>
   <string name="traffic_saving_can_optimized">Optimizar</string>
+  <string name="traffic_saving_detail">Detalles</string>
   <string name="traffic_saving_history_title">Historial</string>
   <string name="traffic_saving_history_total_money">Total ahorrado</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
@@ -463,6 +464,7 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_saving_history_total_rate">Porcentaje</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Ahorro de datos</string>
+  <string name="traffic_saving_mobile_usage">Uso móvil</string>
   <string name="traffic_saving_msg_month">Ahorrado este mes</string>
   <string name="traffic_saving_msg_not_started">Ahorro de datos desconectado</string>
   <string name="traffic_saving_msg_today">ahorrados hoy</string>
@@ -481,7 +483,8 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_saving_recommanded_open">Encender este elemento</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activar Ahorro de datos automáticamente para reducir el uso de datos móviles de las aplicaciones.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Si tienes un plan de datos mensual, recuerda apagar el Ahorro de datos para aplicaciones individuales para evitar cargos adicionales por parte de tu proveedor.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Activar</string>
-  <string name="traffic_saving_tecsupport">Desarrollado por Opera Max</string>
+  <string name="traffic_saving_tecsupport">Desarrollado por Opera</string>
+  <string name="traffic_saving_tecsupport_international">Desarrollado por Opera Max</string>
   <string name="traffic_saving_title">Ahorro de datos</string>
   <string name="traffic_saving_toast_start_mobile">Ahorro de datos activado</string>
   <string name="traffic_saving_toast_start_none_mobile">El Ahorro de datos arrancará cuando empieces a usar los datos móviles</string>
@@ -494,6 +497,7 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_saving_whitelist_btn_removed">Aplicación eliminada de la lista</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; de uso de datos de las aplicaciones no está restringidos"</string>
   <string name="traffic_saving_whitelist_no_app">Ninguna aplicación</string>
+  <string name="traffic_saving_wifi_usage">Uso Wi-Fi</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_daily_limit_summary">Establecer límite uso de datos</string>

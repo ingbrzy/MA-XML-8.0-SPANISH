@@ -87,6 +87,19 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="add_auto_startup_application">Añadir aplicaciones de auto-arranque</string>
      <string name="add_device_admin">Activar</string>
      <string name="add_device_admin_msg">¿Activar Administrador de dispositivo?</string>
+	 <string name="add_fingerprint_done_msg">Ahora puedes desbloquear tu dispositivo con tu huella.</string>
+	 <string name="add_fingerprint_done_title">¡Hecho!</string>
+	 <string name="add_fingerprint_finished_button_text">Hecho</string>
+	 <string name="add_fingerprint_instruction_dialog_msg">Para añadir la información de tu huella, apoya el dedo en el sensor.
+Asegúrate de que tu dedo cubre la parte interior del sensor</string>
+	 <string name="add_fingerprint_instruction_msg">Desbloquea tu dispositivo o valida pagos con tu huella</string>
+	 <string name="add_fingerprint_instruction_title">Apoya el dedo en el escáner de huella</string>
+	 <string name="add_fingerprint_move_finger_title">Retira el dedo</string>
+	 <string name="add_fingerprint_put_finger_edge_msg">Después de pulsar el sensor, retira el dedo y repite de nuevo.</string>
+	 <string name="add_fingerprint_put_finger_msg">Después de pulsar el sensor, retira el dedo y repite de nuevo.</string>
+	 <string name="add_fingerprint_put_finger_title">Apoya el dedo</string>
+	 <string name="add_fingerprint_text">Añadir huella</string>
+	 <string name="add_fingerprint_toast_text">Apoya el dedo en el escáner ahora</string>
      <string name="additional_system_update" />
      <string name="additional_system_update_menu" />
      <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales de Sistema</string>
@@ -194,7 +207,9 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="applications_settings">Aplicaciones instaladas</string>
      <string name="applications_settings_header">Ajustes de aplicación</string>
      <string name="applications_settings_summary">Organizar aplicaciones, establecer accesos directos</string>
+	 <string name="apply_fingerprint_to_category_title">Aplicar huella a…</string>
      <string name="apply_now_button_text">Actualizar</string>
+	 <string name="apply_password_to_category_title">Aplicar contraseña a…</string>
      <string name="apply_update_fail">Fallo de actualización del sistema.</string>
      <string name="apps_with_restrictions_header">Aplicaciones con restricciones</string>
      <string name="apps_with_restrictions_settings_button">Expandir ajustes de la aplicación</string>
@@ -795,6 +810,10 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
      <string name="default_input_method">Elegir método de entrada por defecto</string>
      <string name="default_usb_mode">Conexión USB</string>
      <string name="delete">Eliminar</string>
+	 <string name="delete_fingerprint_confirm_msg">¿Eliminar huella?</string>
+	 <string name="delete_fingerprint_text">Eliminar huella</string>
+	 <string name="delete_legacy_fingerprint">Eliminar</string>
+	 <string name="delete_or_keep_legacy_passwords_confirm_msg">¿Eliminar datos de huella?</string>
      <string name="deny">Denegar</string>
      <string name="deny_sms_message">No permitir que las aplicaciones instaladas envíen SMS</string>
      <string name="deny_sms_title">Bloquear SMS</string>
@@ -1027,6 +1046,11 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
      <string name="filter_apps_running">Ejecutando</string>
      <string name="filter_apps_third_party">Descargado</string>
      <string name="filter_dlg_title">Elegir opciones del filtro</string>
+	 <string name="fingerprint_and_password_entrance_title">Contraseña y huella</string>
+	 <string name="fingerprint_identificating_msg">Escaneando huella…</string>
+	 <string name="fingerprint_identify_input_password_msg">Introducir contraseña</string>
+	 <string name="fingerprint_identify_try_again_msg">No se pudo escanear, intentar de nuevo</string>
+	 <string name="fingerprint_list_title">Huella</string>
      <string name="finish_application">Fin</string>
      <string name="finish_button_label">Finalizar</string>
      <string name="firmware_version">Versión de Android</string>
@@ -1173,6 +1197,7 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="incoming_call_breathing_light_color_title">Color para llamadas</string>
      <string name="incoming_call_breathing_light_freq_title">Frecuencia de parpadeo del LED para llamadas</string>
      <string name="incoming_call_volume_title">Tono de llamada</string>
+	 <string name="information_dialog_button_text">Lo tengo</string>
      <string name="input_method">Método de entrada</string>
      <string name="input_method_selector">Selecionar método de entrada</string>
      <string name="input_method_selector_always_hide_title">Ocultar siempre</string>
@@ -1218,6 +1243,7 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="join_many_items_last">%1$s y %2$s</string>
      <string name="join_many_items_middle">%1$s, %2$s</string>
      <string name="join_two_items">%1$s y %2$s</string>
+	 <string name="keep_legacy_fingerprint">Mantener</string>
      <string name="keep_screen_on">Permanecer encendida</string>
      <string name="keep_screen_on_summary">La pantalla no se apagará mientras esté cargando</string>
      <string name="kernel_version">Versión del Kernel</string>
@@ -1454,6 +1480,7 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
      <string name="master_clear_personal_data_sdcard">"¿Eliminar el contenido e información personal? ¡Esta acción no se puede deshacer!"</string>
      <string name="master_clear_summary">Elimina todos los datos del teléfono</string>
      <string name="master_clear_title">Reseteo de fábrica</string>
+	 <string name="max_fingerprint_number_reached">No se pueden añadir más de 5 huellas. Para añadir una nueva huella, borra una primero.</string>
      <string name="media_button">Botón multimedia</string>
      <string name="media_feedback_enable_title">Vibrar con el ritmo</string>
      <string name="media_format_button_text">Eliminar almacenamiento USB</string>
@@ -1737,6 +1764,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="page_layout_page2_title">Previsualización</string>
      <string name="page_layout_small_title">Extra pequeño</string>
      <string name="passwordIncorrect">La contraseña introducida es incorrecta</string>
+	 <string name="password_entrance_title">Contraseña</string>
      <string name="password_guard">Contraseña</string>
      <string name="percentage">%d%%</string>
      <string name="performance_category">Rendimiento</string>
@@ -2168,6 +2196,7 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
      <string name="search_wallpaper">fondo de pantalla</string>
      <string name="search_wifi">wi-fi</string>
      <string name="search_wifi_display">wi-fi display</string>
+	 <string name="secure_keyguard_business_title">Contraseña de pantalla de bloqueo</string>
      <string name="security_enable_widgets_disabled_summary">Desactivado por administrador</string>
      <string name="security_enable_widgets_title">Activar widgets</string>
      <string name="security_keyguard_category_name">Pantalla de bloqueo</string>
@@ -2537,9 +2566,11 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="tts_status_ok">%1$s está completamente soportado</string>
      <string name="tts_status_requires_network">%1$s requiere conexión de red</string>
      <string name="tts_status_title">Estado de idioma por defecto</string>
+	 <string name="turn_off_common_password_confirm_msg">La contraseña se desactivará también.</string>
      <string name="turn_off_radio">Apagar radio</string>
      <string name="turn_off_security_lock">Quitar bloqueo</string>
      <string name="turn_on_radio">Encender radio</string>
+	 <string name="turn_on_security_lock">Añadir contraseña de seguridad</string>
      <string name="under_keyguard">Con la pantalla bloqueada</string>
      <string name="uninstall_all_users_text">Desinstalar para todos los usuarios</string>
      <string name="uninstall_text">Desinstalar</string>
