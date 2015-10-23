@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="mins_ago">
+        <item quantity="other">Hace %1$d minutos</item>
+        <item quantity="zero">Hace %1$d minutos</item>
+        <item quantity="one">Hace %1$d minuto</item>
+        <item quantity="two">Hace %1$d minutos</item>
+        <item quantity="few">Hace %1$d minutos</item>
+        <item quantity="many">Hace %1$d minutos</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Hace %1$d horas</item>
+        <item quantity="zero">Hace %1$d horas</item>
+        <item quantity="one">Hace %1$d hora</item>
+        <item quantity="two">Hace %1$d horas</item>
+        <item quantity="few">Hace %1$d horas</item>
+        <item quantity="many">Hace %1$d horas</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Hace %1$d días</item>
+        <item quantity="zero">Hace %1$d días</item>
+        <item quantity="one">Hace %1$d día</item>
+        <item quantity="two">Hace %1$d días</item>
+        <item quantity="few">Hace %1$d días</item>
+        <item quantity="many">Hace %1$d días</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Descargado por %1$d personas</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Descargado por %1$d personas</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Descargado por %1$d personas</item>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
         <item quantity="one">%d grupo</item>
