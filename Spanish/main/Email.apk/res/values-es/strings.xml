@@ -138,7 +138,7 @@
   <string name="activity_folder_selection">Elija carpeta</string>
   <string name="activity_mailbox_selection">Elija cuenta</string>
   <string name="add_account">Agregar cuenta</string>
-  <string name="add_attachment">Adjuntar archivos</string>
+  <string name="add_attachment">Añadir adjunto</string>
   <string name="add_calendar">Recordatorio</string>
   <string name="add_label">Agregar carpeta</string>
   <string name="add_pre_message_attachments">¿Añadir los adjuntos del mensaje previo?</string>
@@ -153,7 +153,7 @@
   <string name="archived">Archivado</string>
   <string name="att_download_failed_content">Descarga fallida</string>
   <string name="att_download_failed_title">Descarga del archivo adjunto fallida</string>
-  <string name="att_file_not_exists">¡No se encontró el archvo %s!</string>
+  <string name="att_file_not_exists">No se encontró %s</string>
   <string name="att_mgr_no_attachment">Vacío</string>
   <string name="att_mgr_title_order_mime">Formato</string>
   <string name="att_mgr_title_order_name">Nombre</string>
@@ -166,13 +166,15 @@
   <string name="attachment_application_vnd_ms_excel">Hoja de cálculo</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentación</string>
   <string name="attachment_audio">Audio</string>
-  <string name="attachment_canceling">Cancelando. Por favor, espere</string>
-  <string name="attachment_decoding">El adjunto se ha descargado completamente y se está decodificando ahora. Por favor, espere.</string>
+  <string name="attachment_canceling">Cancelando…</string>
+  <string name="attachment_decoding">Extrayendo adjuntos…</string>
   <string name="attachment_download_all">Descargar todo</string>
   <string name="attachment_image">Imagen</string>
   <string name="attachment_list_search_hint">Buscar adjuntos</string>
   <string name="attachment_mgr_name">Archivos adjuntos</string>
   <string name="attachment_not_exists">¡El adjunto no está disponible!</string>
+  <string name="attachment_open_SecurityException_hint">Puede que no tengas permisos para abrir este fichero, o que esté dañado.</string>
+  <string name="attachment_open_SecurityException_title">No se puede abrir el fichero</string>
   <string name="attachment_stop_all">Parar</string>
   <string name="attachment_text">Texto</string>
   <string name="attachment_type_blocked">"Por desgracia, no se puede guardar o abrir este tipo de archivo adjunto."</string>
@@ -239,8 +241,8 @@
   <string name="contact_edit_set_black_list_receive_summary">Borrar emails que incluyan este destinatario en los campos Para o Cc</string>
   <string name="contact_edit_set_phone_contact">Editar contactos del teléfono</string>
   <string name="contact_edit_title_phone_contact">Lista de contactos del teléfono</string>
-  <string name="contact_in_filter_call_phone_str">llamar: %s</string>
-  <string name="contact_in_filter_title">Viene de él/ella.</string>
+  <string name="contact_in_filter_call_phone_str">Llamar desde %s</string>
+  <string name="contact_in_filter_title">" de esta persona."</string>
   <string name="contact_info_string">Mostrar la información de contacto de %1$s</string>
   <string name="contact_info_string_default">Mostrar información de contacto</string>
   <string name="contact_list_add_btn">Añadir</string>
@@ -291,6 +293,7 @@
   <string name="discard">Descartar</string>
   <string name="discard_drafts">Descartar proyecto</string>
   <string name="dismiss_tip_hover_text">Descartar consejo</string>
+  <string name="disturb_switch">No molestar</string>
   <string name="done">Hecho</string>
   <string name="done_action">Hecho</string>
   <string name="donot_disturb_endtime_title">Para</string>
@@ -391,7 +394,9 @@
   <string name="get_database_exception">Borra los datos de la aplicación en Ajustes y vuelve a intentarlo</string>
   <string name="gmail_acceleration">Usar servidor proxy para la cuenta de Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">¿Utilizar servidor proxy para acceder a tu cuenta de Gmail?</string>
-  <string name="gmail_web_login_go">OK</string>
+  <string name="gmail_login_failed_non_proxy_title">Acceso fallido al servidor de Gmail</string>
+  <string name="gmail_server_authorization_deleted">Error al recuperar la autorización de acceso.</string>
+  <string name="gmail_web_login_go">Aceptar</string>
   <string name="gmail_web_login_required_message">Accede a Gmail</string>
   <string name="header_category_account">Configuración de la cuenta</string>
   <string name="header_category_other">Otros</string>
@@ -532,6 +537,7 @@
   <string name="outbox_alert_description_cannot_authenticate">No se pudo autentificar %s.</string>
   <string name="outbox_alert_description_email_size_error">Se ha alcanzado el tamaño máximo de Email.</string>
   <string name="outbox_alert_description_fail_authentication">El usuario o la contraseña son inválidos.</string>
+  <string name="outbox_alert_description_fail_network">Anomalía en la red.</string>
   <string name="outbox_alert_description_http_error">Causa: Error de autenticación del servidor durante la sincronización de la bandeja de salida</string>
   <string name="outbox_alert_description_insufficient_storage_error">Almacenamiento insuficiente en el servidor de correo</string>
   <string name="outbox_alert_description_provision_error">Causa: Error de provisión del servidor durante la sincronización de la bandeja de salida</string>
@@ -666,8 +672,8 @@
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Guardar borrador a fallado</string>
-  <string name="save_power_summary">Las notificaciones de los emails que llegan serán silenciadas</string>
-  <string name="save_power_title">No molestar</string>
+  <string name="save_power_summary">Ahorra energía en el ajuste del tiempo</string>
+  <string name="save_power_title">Modo ahorro de energía</string>
   <string name="saved">Guardado, %s</string>
   <string name="saving">Guardando…</string>
   <string name="sdcard_cannot_use">La tarjeta de almacenamiento no se puede utilizar</string>
@@ -704,7 +710,7 @@
   <string name="ser_resp_err_map_ssl">"Por favor, intente elegir ' SSL/TLS (aceptar todos los certificados)' en 'Tipo de seguridad'"</string>
   <string name="set_network">Definir red</string>
   <string name="settings_activity_title">Ajustes</string>
-  <string name="share_choose">Por favor, elija</string>
+  <string name="share_choose">Elegir fichero a compartir</string>
   <string name="sharing">Compartir</string>
   <string name="shortcut_name_title">Nombre para atajo de carpeta</string>
   <string name="show_elided">▶ Mostrar texto citado</string>
@@ -757,7 +763,7 @@
   <string name="toast_bar_open_gmail_synchronization">Toque para utilizar servidor proxy para Gmail</string>
   <string name="too_large_to_attach_additional">Archivo no adjuntado. %1$s de límite alcanzado.</string>
   <string name="too_large_to_attach_multiple">Uno o más archivos no adjuntados. Límite de %1$s.</string>
-  <string name="too_large_to_attach_single">"No se pueden adjuntar archivos mayores de %1$s."</string>
+  <string name="too_large_to_attach_single">No se pueden adjuntar archivos más grandes que %1$s.</string>
   <string name="trash_folder_selection_title">Seleccione la carpeta de basura del servidor para %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>

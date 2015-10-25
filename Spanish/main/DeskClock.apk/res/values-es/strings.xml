@@ -85,6 +85,8 @@
   <string name="shutdown_alarm_enable_summary">Encender dispositivo y sonar</string>
   <string name="shutdown_alarm_title">Alarma con dispositivo apagado</string>
   <string name="silent_alarm_summary">Silenciosa</string>
+  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
+  <string name="skip_alarm_once_hint">Apagar una vez el %s</string>
   <string name="slider_text">Deslice hacia arriba para cerrar</string>
   <string name="snooze_confirm_cancel">Cancelar repetición</string>
   <string name="snooze_duration_title">Duración de la repetición</string>
@@ -108,7 +110,11 @@
   <string name="timer_notify_text">Retrasar o ignorar alarma.</string>
   <string name="timer_start_alarm">"¡El tiempo se ha acabado!"</string>
   <string name="timer_title">Temporizador</string>
-  <string name="timezone_exist_error_message">"Ya se está mostrando esa zona horaria"</string>
+  <string name="timezone_exist_error_message">Ya se está mostrando esa zona horaria</string>
+  <string name="today">Hoy</string>
+  <string name="tomorrow">Mañana</string>
+  <string name="turn_off_a_repeat_alarm">Apagar una alarma de repetición</string>
+  <string name="turn_off_this_repeat_alarm">Apagar esta alarma de repetición</string>
   <string name="vibrate_pref_summary">Vibrar cuando suene la alarma</string>
   <string name="vibrate_when_ringing">Vibrar mientras suena</string>
   <string name="volume_button_setting_summary">"Establecer la función de los botones de volumen durante la alarma"</string>

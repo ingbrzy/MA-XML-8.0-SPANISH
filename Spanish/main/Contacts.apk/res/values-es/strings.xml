@@ -389,9 +389,10 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="eventTypeCustom">Personalizado</string>
   <string name="event_edit_field_hint_text">Fecha</string>
   <string name="export_sim_contact_finish">Contactos exportados</string>
-  <string name="export_sim_contact_finish_failure">%1$d transferido | %2$d restante</string>
-  <string name="export_to_sdcard">Copiar a la tarjeta de memoria</string>
-  <string name="export_to_sim">Copiar a la tarjeta SIM</string>
+  <string name="export_sim_contact_finish_msg">%1$d transferidos | %2$d duplicados | %3$d restantes</string>
+  <string name="export_sim_contact_finish_failure">%1$d transferidos | %2$d restantes</string>
+  <string name="export_to_sdcard">Exportar al almacenamiento</string>
+  <string name="export_to_sim">Exportar a la tarjeta SIM</string>
   <string name="export_to_sim1">Exportar a SIM 1</string>
   <string name="export_to_sim2">Exportar a SIM 2</string>
   <string name="export_to_sim_title">Exportando…</string>
@@ -659,6 +660,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Encender</string>
   <string name="miprofile_switch_on_alertdialog_title">Actualización de foto de perfil</string>
   <string name="missing_name">(Sin nombre)</string>
+  <string name="more_call_logs">Para más registros de llamadas visita i.mi.com</string>
   <string name="move_and_resize">Mover y cambiar el tamaño</string>
   <string name="multipleContactDeleteConfirmation">Eliminar este contacto eliminará la información en varias cuentas.</string>
   <string name="multipleContactDeleteConfirmationDetail">Al eliminar \"%s\" sera eliminado de varias cuentas.</string>

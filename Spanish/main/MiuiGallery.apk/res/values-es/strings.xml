@@ -26,7 +26,7 @@
   <string name="add_to_secret_successfully_message">Añadido al álbum secreto</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s elementos no se han añadido al álbum secreto</string>
   <string name="adding_recipients">Añadiendo destinos…</string>
-  <string name="adjust">Ajustar</string>
+  <string name="adjust">Ajusta</string>
   <string name="album_member">Miembros del álbum %s</string>
   <string name="album_name">Nombre del álbum</string>
   <string name="album_quota_fulfiled">Demasiados álbumes. Elimine algunos y vuelva a intentarlo.</string>
@@ -60,6 +60,7 @@
   <string name="androidesk_wallpapers">Fondos de pantalla para Android</string>
   <string name="aperture">Apertura</string>
   <string name="app_name">Galería</string>
+  <string name="app_name_edit_picture">Editar imagen</string>
   <string name="app_name_view_picture">Ver imagen</string>
   <string name="apply">Aplicar</string>
   <string name="appwidget_empty_text">Sin fotos</string>
@@ -113,11 +114,13 @@
   <string name="black_white">B&amp;N Plano</string>
   <string name="brannan">Brannan</string>
   <string name="browse_category">Pantalla</string>
+  <string name="buy_member_tip">convertirse en miembro.</string>
   <string name="by_email">Email</string>
   <string name="by_others">Otros</string>
   <string name="by_sms">Mensaje de texto</string>
   <string name="byteShort">B</string>
-  <string name="calculated_pictures_time_tip">Fotos ordenadas desde %1$s hasta ahora. as fotos restantes se ordenarán gradualmente. Para acelerar este proceso, %2$s</string>
+  <string name="calculated_pictures_time_tip">Fotos ordenadas desde %1$s hasta ahora. Las fotos restantes se ordenarán gradualmente. Para acelerar este proceso, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Fotos ordenadas desde %1$s hasta ahora. Las fotos restantes se ordenarán gradualmente.</string>
   <string name="calculated_pictures_time_tip_for_vip">Fotos ordenadas desde %1$s hasta ahora. Las fotos restantes se ordenarán pronto.</string>
   <string name="camera_black_white">Blanco y Negro</string>
   <string name="camera_connected">Cámara conectada</string>
@@ -581,16 +584,16 @@
   <string name="create_new_face">Nueva persona</string>
   <string name="create_quick_icon_on_desk">Crear accesos directos</string>
   <string name="creating_baby_album">Creando álbum…</string>
-  <string name="crop">Recortar</string>
+  <string name="crop">Recorta</string>
   <string name="crop_fail_to_load_image">"No se puede cargar la imagen"</string>
-  <string name="crop_label">Recortar</string>
+  <string name="crop_label">Recorta</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_recognize_text">Reconocer</string>
   <string name="crop_save_text">Guardar</string>
   <string name="crop_save_text_setas">Aplicar</string>
   <string name="crop_tooltip">Arrastre los marcadores para recortar</string>
   <string name="crossprocess">Proceso cruzado</string>
-  <string name="cut">Recortar</string>
+  <string name="cut">Recorta</string>
   <string name="damaged_file">Archivo corrompido</string>
   <string name="dcim_100media">Taobao TMall</string>
   <string name="dcim_opaipic">Opaipic</string>
@@ -629,7 +632,7 @@
   <string name="edit">Editar</string>
   <string name="edit_baby_info">Ver información del bebé</string>
   <string name="edited_photo_bucket_name">Editado</string>
-  <string name="effect">Filtros</string>
+  <string name="effect">Filtro</string>
   <string name="email_picker_title">Agregar correo compartido</string>
   <string name="enable">Activar</string>
   <string name="enable_cloud_for_sharing">Se necesita activar álbumes en la nube para ver fotos compartidas.</string>
@@ -896,6 +899,8 @@
   <string name="paint_crop_cancel_context">¿Quiere guardar el recorte resultante?</string>
   <string name="paint_crop_cancel_title">Abandonar cambios</string>
   <string name="paint_crop_tips">Para obtener una mejor imagen, por favor, trate de colocar las partes interesantes en los puntos de la malla redimensionando y moviendo.</string>
+  <string name="paint_highlight">Pinta</string>
+  <string name="paint_highlight_cancel_context">¿Guardar imagen pintada?</string>
   <string name="path">Ruta de acceso</string>
   <string name="people">Gente</string>
   <string name="pet_album_display_name">Fotos de mascotas</string>
@@ -906,7 +911,7 @@
   <string name="photo_page_save_image">Guardar</string>
   <string name="photo_page_save_uri_image_fail">"No se pudo guardar a Cámara de fotos"</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada a Cámara de fotos</string>
-  <string name="photo_paint_crop">Recortar</string>
+  <string name="photo_paint_crop">Recorta</string>
   <string name="photo_save_succeed">Guardado con éxito</string>
   <string name="photo_size">Tamaño</string>
   <string name="photoeditor_name">Mi Photo Studio</string>
@@ -967,7 +972,7 @@
   <string name="retry_to_create_album">Reintentar</string>
   <string name="retry_to_request_qr_code">Reintentar</string>
   <string name="rise">Cálido</string>
-  <string name="rotate">Rotar</string>
+  <string name="rotate">Rota</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Arrastrar foto para rotar</string>
   <string name="same_name_album_exist_and_toast">"Ya existe un álbum con el mismo nombre. Creado '%s' en su lugar."</string>
@@ -1057,7 +1062,7 @@
   <string name="start_to_use_face_albumset">Ordenar por gente</string>
   <string name="storage_all_volumes">Todos los dispositivos de almacenamiento</string>
   <string name="storage_no_space">No hay espacio suficiente</string>
-  <string name="straighten">Ajustar</string>
+  <string name="straighten">Ajusta</string>
   <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
   <string name="straighten_tooltip">Arrastrar foto para enderezar</string>
   <string name="success_create_quick_icon_on_desk">Creado con éxito</string>

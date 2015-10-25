@@ -2,6 +2,7 @@
 <resources>
   <string name="agree">Aceptar</string>
   <string name="congratulation_label">Disfrute de su nuevo teléfono :)</string>
+  <string name="desc_fingerprint">Usa tu huella para desbloquear tu dispositivo, verificar transacciones Mi Pay, o iniciar sesión en aplicaciones y servicios.</string>
   <string name="disagree">Cancelar</string>
   <string name="ime_privacy_policy">Política de Privacidad para el teclado seleccionado</string>
   <string name="ime_privacy_policy_no_network">No hay conexión a la red. Vea la Política de Privacidad para este teclado en %s.</string>
@@ -15,6 +16,7 @@
   <string name="multisim_settings_title">Detectadas 2 tarjetas SIM</string>
   <string name="network_access_warning">Necesita conectarse a internet para activar los servicios Mi.</string>
   <string name="next">Siguiente</string>
+  <string name="next_fingerprint">Siguiente</string>
   <string name="other_settings">Ajustes adicionales</string>
   <string name="other_settings_location">Acceso de la ubicación</string>
   <string name="other_settings_location_summary">Permitir a las aplicaciones localizar su ubicación</string>
@@ -45,7 +47,8 @@ Ver Política de Privacidad del teclado seleccionado."</string>
   <string name="terms_of_use_label">"Su privacidad es muy importante para nosotros. Por favor lea nuestros Términos de Servicio y Política de privacidad para entender qué información recopilamos, cómo la utilizamos y qué opciones están disponibles para usted.
 
 Usted debe estar de acuerdo con nuestros Términos de Servicio y Política de Privacidad antes de poder utilizar MIUI."</string>
-  <string name="title_congratulation">"You're ready to rock!"</string>
+  <string name="title_congratulation">¡Estás preparado para comenzar!</string>
+  <string name="title_fingerprint">Añade tu huella</string>
   <string name="user_agreement">Términos del Servicio</string>
   <string name="welcome">Bienvenido</string>
 </resources>

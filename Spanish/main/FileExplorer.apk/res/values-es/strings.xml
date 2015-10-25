@@ -36,6 +36,8 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"No se pueden enviar todos esos elementos"</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_error">No se pudieron quitar, intenta de nuevo</string>
+  <string name="cancel_success">"Quitados correctamente, todos los ficheros fueron movidos a sdcard/fileexplorer/decryption"</string>
   <string name="category">Categorías</string>
   <string name="category_all">Todo</string>
   <string name="category_apk">APKs</string>
@@ -94,7 +96,11 @@
   <string name="decompress_title">Extraer</string>
   <string name="decompress_to">Extraer ficheros en…</string>
   <string name="decompress_to_here">Extraer aquí</string>
+  <string name="decrypt">Quitar de privada</string>
+  <string name="decrypt_error">No se pudo desencriptar</string>
+  <string name="decrypting">Desencriptando…</string>
   <string name="delete_dialog_button">Eliminar</string>
+  <string name="delete_error">No se pudieron borrar los ficheros, intenta de nuevo</string>
   <string name="delete_failed">"No se puede eliminar"</string>
   <string name="delete_file">¿Eliminar este archivo?</string>
   <string name="delete_file_error">No se pudo eliminar el archivo</string>
@@ -109,6 +115,7 @@
   <string name="dialog_type_image">Imágenes</string>
   <string name="dialog_type_text">Documentos</string>
   <string name="dialog_type_video">Vídeos</string>
+  <string name="dir_not_support">Esta carpeta no se puede hacer privada.</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Vacío</string>
   <string name="dlg_error_unmount_text">No se ha podido desmontar el almacenamiento USB.</string>
@@ -118,6 +125,9 @@
   <string name="downloading">Descargando</string>
   <string name="downloading_in_3g">Descargando por 3G…</string>
   <string name="enable_sd_card">Insertar la tarjeta SD o desactivar el almacenamiento masivo USB.</string>
+  <string name="encrypt_error">No se pudieron hacer privados los ficheros, intenta de nuevo</string>
+  <string name="encrypt_success">Todos los ficheros fueron hechos privados</string>
+  <string name="encrypting">Encriptando…</string>
   <string name="error_filename_too_long">El nombre de archivo introducido es demasiado largo.</string>
   <string name="error_info_cant_send_folder">"No se puede enviar este tipo de archivo."</string>
   <string name="error_open_file_failed_no_app_found">No se encontró ninguna aplicación para realizar esta acción.</string>
@@ -197,9 +207,11 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="loading">Cargando…</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Música</string>
+  <string name="local_sticker_str">Descargado</string>
   <string name="local_video">Vídeo</string>
   <string name="login_reg_content">Almacene archivos y sincronícelos en múltiples dispositivos.</string>
   <string name="login_reg_content0">Use KuaiPan desde cualquier parte.</string>
+  <string name="make_private">Hacer privado</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Limpiar</string>
   <string name="menu_item_ftp">FTP</string>
@@ -218,6 +230,7 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"No se puede cortar"</string>
   <string name="move_to">Mover a…</string>
+  <string name="msg_set_password">Establecer contraseña primero</string>
   <string name="multi_select_title">%1$s seleccionados</string>
   <string name="my_app">Datos de la aplicación</string>
   <string name="my_app_desc"/>
@@ -250,15 +263,29 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="net_lose_connected">Conexión perdida.</string>
   <string name="networkView_notConnected">"No se puede conectar a la red"</string>
   <string name="network_connect_confirm_des">El Explorador debe conectarse a internet para funcionar con normalidad</string>
+  <string name="network_spent_reminding">Abrir esta página requiere tráfico de tu plan de datos.</string>
+  <string name="network_spent_reminding_title">Notificación de uso de datos</string>
   <string name="never_notify_network_connect">"Recordar preferencia"</string>
   <string name="new_folder_name">Carpeta sin nombre</string>
+  <string name="new_function">Sobre carpetas privadas</string>
+  <string name="new_function_info">"Carpeta privada es una nueva característica de MIUI.
+Puedes encriptar tus ficheros
+y guardarlos en un lugar seguro.
+
+Tira en la pantalla principal para descubrirlo."</string>
+  <string name="new_function_str">"Las pegatinas de WeChat pueden recogerse automáticamente ahora.
+Descárgalas cuando quieras
+y no te pierdas nunca las más nuevas y mejores"</string>
+  <string name="new_function_title_str">Sobre pegatinas de WeChat</string>
   <string name="no">No</string>
   <string name="no_app_tags">Vacío</string>
   <string name="no_display_file">"No se puede mostrar %1$s"</string>
   <string name="no_enough_storage_indication">"El espacio de almacenamiento del dispositivo está lleno."</string>
   <string name="no_enough_storage_title">No hay espacio suficiente</string>
   <string name="no_file">Vacío</string>
+  <string name="no_local_sticker_tip">No se encontraron pegatinas descargadas. Descubre las pegatinas compartidas por fans de Mi.</string>
   <string name="no_more_space">No hay espacio suficiente.</string>
+  <string name="no_network_str">No se pudo conectar a la red. Comprueba tu conexión e inténtalo de nuevo.</string>
   <string name="no_recent_files">No hay ficheros recientes</string>
   <string name="no_tasks">No hay tareas.</string>
   <string name="no_wifi">No hay ninguna red detectada</string>
@@ -279,6 +306,7 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
 2. Subirlo a tu cuenta de KuaiPan"</string>
   <string name="open_changed_file_title">Cambio aplicado.</string>
   <string name="open_file_failed">No se puede abrir</string>
+  <string name="open_private_folder">Creando una carpeta privada…</string>
   <string name="operate_confirm_in_3g">¿Usar conexión de datos móviles para descargar este archivo grande?</string>
   <string name="operating">Procesando…</string>
   <string name="operation_add_fav">Añadiendo a favoritos…</string>
@@ -319,15 +347,27 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="operation_show_sys">Mostrar archivos ocultos</string>
   <string name="operation_unfavorite">No favorito</string>
   <string name="pan_settting">Configuración de KuaiPan</string>
+  <string name="partial_cancel_successful">"No se pudieron quitar algunos ficheros. El resto fueron movidos a sdcard/fileexplorer/decryption"</string>
+  <string name="partial_delete_failure">No se pudieron eliminar algunos ficheros, intenta de nuevo</string>
+  <string name="partial_encrypt_success">No se pudieron hacer privados algunos ficheros, intenta de nuevo</string>
+  <string name="partial_repair_done">Algunos ficheros se restauraron correctamente</string>
   <string name="paused">En pausa</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Teléfono</string>
   <string name="port_range">El puerto debe estar entre 1024 y 65535</string>
+  <string name="private_files">Privados</string>
+  <string name="private_folder">Carpeta privada</string>
+  <string name="promot_enctypt_password">Introduce la contraseña utilizada para desbloquear tu dispositivo o apagar el Modo niño</string>
   <string name="pull_to_signin">Deslizar hacia abajo para registrarte.</string>
   <string name="release_to_signin">Soltar para registrarte</string>
   <string name="rename_alert">"Si cambias la extensión de este fichero, puede que no lo consigas abrir."</string>
   <string name="rename_description">Renombrando…</string>
   <string name="rename_failed">"No se puede renombrar %1$s"</string>
+  <string name="repair_done">Restaurado</string>
+  <string name="repair_error">No se pudo restaurar</string>
+  <string name="repair_file">Restaurar ficheros encriptados</string>
+  <string name="reset_password">Restablecer contraseña</string>
+  <string name="restoring">Restaurando…</string>
   <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
   <string name="rlv_loading_more">Un momento…</string>
   <string name="rlv_pull_to_refresh">Tirar para recargar</string>
@@ -381,6 +421,14 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="share_box_receive">Recibido</string>
   <string name="share_box_send">Enviado</string>
   <string name="share_link_failed">No se pudo generar el enlace.</string>
+  <string name="shared_sticker_network_permission_tip">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
+  <string name="shared_sticker_page_no_file">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
+  <string name="shared_sticker_str">Compartidos por fans de Mi</string>
+  <string name="shared_sticker_suffix">Pegatina en %s</string>
+  <string name="shared_sticker_use_tip">"Puedes enviar las pegatinas que guardarste en conversaciones de WeChat igual que envías imágenes.
+(Los GIFs se puede añadir a Personalizados en las pegatinas de WeChat)."</string>
+  <string name="shared_sticker_use_tip_title">Cómo usar pegatinas</string>
+  <string name="shared_str">Compartido por %s</string>
   <string name="show_message">Necesitas descargar este archivo para poder abrirlo.</string>
   <string name="sign_description">Iniciando sesión…</string>
   <string name="signin_error">"No se puede conectar al servidor. Compruebe su conexión de red."</string>
@@ -420,6 +468,8 @@ Espacio gratuito añadido %1$s"</string>
   <string name="toast_file_not_can_read">No se encontró ninguna aplicación para realizar esta acción.</string>
   <string name="tools">HERRAMIENTAS</string>
   <string name="trans_task">Transferencia por red</string>
+  <string name="transfer_done">Ficheros movidos correctamente.</string>
+  <string name="transfer_private_data">Moviendo ficheros privados a la tarjeta SD…</string>
   <string name="transing">Enviando</string>
   <string name="trash_box_capacity">Papelera de reciclaje %1$s</string>
   <string name="trash_box_link">Para vaciar la papelera, visite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
@@ -447,6 +497,7 @@ Espacio gratuito añadido %1$s"</string>
   <string name="user_guide_save_file">Guarde sus archivos usando KuaiPan</string>
   <string name="user_guide_summary">Un breve resumen</string>
   <string name="user_guide_upload_to_kuaipan">Guarde archivos en KuaiPan desde su teléfono</string>
+  <string name="user_not_login">Inicia sesión primero</string>
   <string name="utf8_summary">Codificación predeterminada del sistema FTP</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Esperando la red</string>
@@ -455,6 +506,7 @@ Espacio gratuito añadido %1$s"</string>
   <string name="waiting">Esperando</string>
   <string name="wangpan_root_path">Mi unidad</string>
   <string name="wechat_video">Vídeo en %s</string>
+  <string name="weixin_sticker_tag_str">Pegatinas de WeChat</string>
   <string name="wifi_state">Red Wi-Fi</string>
   <string name="xiaomi_account">Cuenta Mi</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>

@@ -117,11 +117,17 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar es
   <string name="master_alert_notif_dspt_add">"%s no han sido sincronizados."</string>
   <string name="master_alert_notif_dspt_no">Sincronizado</string>
   <string name="master_alert_notif_title">Última sincronización hace %s días</string>
-  <string name="micloud_check_sim_notify_text">"Parece que Vd. ha cambiado de SIM.
-Inicie sesión en su cuenta Mi para reactivar Mi Cloud."</string>
+  <string name="micloud_all_sub_1_intl_sms">"Se enviará un SMS internacional para activar tu tarjeta SIM. Tu operador te cobrará. Cuando enciendas 'Buscar dispositivo', puede que se envíe un SMS de activación después de que hayas cambiado la tarjeta SIM."</string>
+  <string name="micloud_all_sub_1_sms">"Se enviará un SMS normal para activar tu tarjeta SIM. Tu operador te cobrará. Cuando enciendas 'Buscar dispositivo', puede que se envíe un SMS de activación después de que hayas cambiado la tarjeta SIM."</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">"Se enviarán dos SMS (normal e internacional) para activar tu tarjeta SIM. Tu operador te cobrará. Cuando enciendas 'Buscar dispositivo', puede que se envíe un SMS de activación después de que hayas cambiado la tarjeta SIM."</string>
+  <string name="micloud_all_sub_2_intl_sms">"Se enviarán dos SMS internacionales para activar tu tarjeta SIM. Tu operador te cobrará. Cuando enciendas 'Buscar dispositivo', puede que se envíe un SMS de activación después de que hayas cambiado la tarjeta SIM."</string>
+  <string name="micloud_all_sub_2_sms">"Se enviarán dos SMS normales para activar tu tarjeta SIM. Tu operador te cobrará. Cuando enciendas 'Buscar dispositivo', puede que se envíe un SMS de activación después de que hayas cambiado la tarjeta SIM."</string>
+  <string name="micloud_buy_member">Cuenta</string>
+  <string name="micloud_check_sim_notify_text">"Parece que has cambiado de SIM.
+Inicia sesión en tu cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
-  <string name="micloud_check_sim_title">"Parece que has cambiado las tarjetas SIM. Entre
-en su cuenta Mi para reactivar Mi Cloud."</string>
+  <string name="micloud_check_sim_title">"Parece que has cambiado las tarjetas SIM. Entra
+en tu cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_download_syncing">Descargando %s</string>
   <string name="micloud_detail_fail">"Falló"</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
