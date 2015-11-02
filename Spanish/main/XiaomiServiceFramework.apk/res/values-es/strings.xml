@@ -2,6 +2,9 @@
 <resources>
   <string name="accept">Aceptar</string>
   <string name="activate">Activar</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para activar \"Encontrar dispositivo\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado desde la tarjeta SIM %s para activar \"Encontrar dispositivo\"</string>
+  <string name="activate_auto_sms_notification_title">Activación de tarjeta SIM</string>
   <string name="activate_feature_call_log_sync">Sincronizar registro de llamadas</string>
   <string name="activate_feature_find_device">Encontrar dispositivo</string>
   <string name="activate_feature_mms_sync">Sincronizar mensajes</string>
@@ -14,8 +17,8 @@
   <string name="activate_popup_confirm_failed_send_sms">Reenviar</string>
   <string name="activate_popup_confirm_failed_server">Reintentar</string>
   <string name="activate_popup_confirm_upload_diagnosis_info">Informar</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">Se enviarán 2 SMS internacionales para activar su tarjeta SIM sirve para activar funciones como %s (se aplican tarifas del operador)</string>
-  <string name="activate_popup_desc_2_sim_cards">Se enviarán 2 SMS para activar sus tarjetas SIM sirve para activar funciones como %s (se aplican tarifas del portador)</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">Se enviarán 2 SMS internacionales para activar %s. Le cobrará su operador.</string>
+  <string name="activate_popup_desc_2_sim_cards">Se enviarán 2 SMS para activar %s. Le cobrará su operador.</string>
   <string name="activate_popup_desc_failed_phone_error">El número introducido no es válido.</string>
   <string name="activate_popup_desc_failed_query_info">No puede adquirir su número de teléfono. Por favor asegúrese que la tarjeta SIM está en servicio.</string>
   <string name="activate_popup_desc_failed_receive_sms">Por favor, compruebe el número ingresado y asegúrese de que su tarjeta SIM esté en servicio.</string>
@@ -32,8 +35,10 @@
   <string name="activate_popup_desc_register_account">Se enviará un SMS para registrar su cuenta Mi</string>
   <string name="activate_popup_desc_register_account_downlink">Introduzca el número de su tarjeta SIM, con el fin de registrarse</string>
   <string name="activate_popup_desc_register_account_intl">Se enviará un SMS Internacional para registrar su cuenta Mi</string>
-  <string name="activate_popup_desc_sim_card">Se enviarán 2 SMS para activar tu tarjeta SIM sirve para activar funciones como %s (se aplican tarifas del portador)</string>
-  <string name="activate_popup_desc_sim_card_downlink">Introduzca el número de su tarjeta SIM, con el fin de activar funciones como %s</string>
+  <string name="activate_popup_desc_sim_card">Se enviará un SMS para activar %s. Le cobrará su proveedor</string>
+  <string name="activate_popup_desc_sim_card_downlink">Introduce tu número de teléfono para activar %s</string>
+  <string name="activate_popup_desc_voip_privacy">Política de privacidad</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">"Servicio de VoIP soportado por Weihui. Ver de Weihui "</string>
   <string name="activate_popup_desc_upload_diagnosis_info">¿Informar de este problema a Mi? (ID del informe : %s)</string>
   <string name="activate_popup_link_diagnosis_detail">¿Qué información se va a incluir?</string>
   <string name="activate_popup_title_diagnosis_detail">Información de diagnosis</string>

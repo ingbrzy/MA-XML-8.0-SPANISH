@@ -176,6 +176,8 @@
   <string name="change_password">Cambiar contraseña de restricción de llamadas</string>
   <string name="change_pin">Cambiar el PIN de la SIM</string>
   <string name="change_pin2">Cambiar el PIN2</string>
+  <string name="chose_product_summary">Llamar más barato</string>
+  <string name="chose_product_title">Paquete de recarga</string>
   <string name="clir_choices_hide_number">Ocultar número</string>
   <string name="clir_choices_network_default">Predeterminado por red</string>
   <string name="clir_choices_show_number">Mostrar número</string>
@@ -475,6 +477,7 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="livetalk_nsufficient_balance">Saldo insuficiente</string>
   <string name="livetalk_package_introduction_text">Descuento exclusivo para usuarios de MIUI. Menor uso de datos y precios más bajos.</string>
   <string name="livetalk_package_name">Recargar saldo</string>
+  <string name="livetalk_provider">Operado por %1$s</string>
   <string name="livetalk_provision">Términos de Servicio</string>
   <string name="livetalk_provision_checkbox">Aceptar Términos de Servicio</string>
   <string name="livetalk_provision_second">, y necesita conectarse a internet para funcionar con normalidad.</string>
@@ -487,7 +490,8 @@ Contacte con su operadora si el problema persiste."</string>
   <string name="livetalk_white_list_number_title">Llamar sin usar el paquete de recarga</string>
   <string name="load_networks_progress">Buscando…</string>
   <string name="load_rates_failed">No se pudo cargar</string>
-  <string name="loading">Un momento…</string>
+  <string name="loading">Un momento</string>
+  <string name="loading_product">Un momento</string>
   <string name="loading_recent_failed">No se pudo cargar</string>
   <string name="local_disable">Noticias locales desactivadas</string>
   <string name="local_enable">Noticias locales activadas</string>
@@ -745,6 +749,11 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="puk_unlocked">Su tarjeta SIM ha sido desbloqueada. Su teléfono está desbloqueandose</string>
   <string name="purchase">Comprar</string>
   <string name="purchase_confirm">Comprar</string>
+  <string name="purchase_description_summary">"- Operador libre, área libre;
+- No hay conflicto con los servicios de tu operador;
+- Inmediatamente después de recargar;
+- Simple, usar directamente."</string>
+  <string name="purchase_description_title">Descripción</string>
   <string name="purchase_limit">Has llegado al límite de la recarga</string>
   <string name="purchase_list">Historial de compra</string>
   <string name="purchase_notification">"Los precios de arriba son para llamadas nacionales. Para llamadas internacionales ver "</string>
@@ -778,6 +787,10 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="reject_via_sms">Respuestas rápidas</string>
   <string name="reject_via_sms_summary">Editar respuestas predefinidas</string>
   <string name="reject_via_sms_title">Respuestas rápidas</string>
+  <string name="remain_mins_divider">O</string>
+  <string name="remain_mins_domestic">restante nacional</string>
+  <string name="remain_mins_international">restante internacional</string>
+  <string name="remain_mins_unit">Min</string>
   <string name="remember_my_choice">Usar siempre llamadas por Internet</string>
   <string name="remove">Borrar</string>
   <string name="remove_ims_account">Borrar cuenta</string>
@@ -961,7 +974,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="time_statistic">%1$d minutos de tiempo de red ahorrados</string>
   <string name="title_country">Localización</string>
   <string name="title_duration">Duración</string>
-  <string name="title_purchase">Recargar</string>
+  <string name="title_purchase">Recargar paquete</string>
   <string name="title_rates">Tarifas</string>
   <string name="title_user_config">Activar tarjeta SIM</string>
   <string name="transport">Protocolo</string>
@@ -987,6 +1000,7 @@ Su tarjeta SIM será borrada después de otro intento fallido."</string>
   <string name="use_history">Actividad</string>
   <string name="use_history_duration_hour">%1$shora</string>
   <string name="use_history_duration_min">%1$smin</string>
+  <string name="use_range">Usar rango</string>
   <string name="use_history_endtime">Fin: %1$s</string>
   <string name="use_history_starttime">Inicio: %1$s</string>
   <string name="username_title">Nombre de usuario</string>

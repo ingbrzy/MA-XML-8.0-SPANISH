@@ -27,7 +27,8 @@
   <string name="input_puk_code">Introducir PUK</string>
   <string name="invalid_confirm_pin_hint">Los PIN no coinciden</string>
   <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, pulse el botón Encendido</string>
-  <string name="lock_screen_date">E dd/MM</string>
+  <string name="lock_screen_date">EEE, dd MMMM</string>
+  <string name="lock_screen_date_12">EEE, dd MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Patrón añadido</string>
   <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
   <string name="lockscreen_access_pattern_detected">Patrón completado</string>

@@ -45,9 +45,9 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 días</string>
   <string name="cloud_back_up_interval_short">1 hora</string>
   <string name="cloud_back_up_network_unavailable">"No se pudo eliminar. Conecte con Wi-Fi y vuelva a intentarlo."</string>
-  <string name="cloud_back_up_open_info">"Realiza copia de seguridad del diseño de la pantalla de inicio y las aplicaciones cada %1$s cuando se conecta a una red Wi-Fi
-Última copia de seguridad: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Realiza copia de seguridad del diseño de la pantalla de inicio y las aplicaciones cada %1$s cuando se conecta a una red Wi-Fi</string>
+  <string name="cloud_back_up_open_info">"Copiar cuando esté conectado a Wi-Fi una vez cada %1$s
+Última copia: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Copiar cuando esté conectado a Wi-Fi una vez cada %1$s</string>
   <string name="cloud_back_up_remove_success">Copia de seguridad eliminada</string>
   <string name="cloud_back_up_title">Copia de seguridad de la pantalla de inicio</string>
   <string name="cloud_backup_dialog_title">Copia de seguridad con Mi Cloud</string>
@@ -161,11 +161,13 @@ Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio
   <string name="micloud_main_space_full">Sin espacio</string>
   <string name="micloud_main_space_risk">Tiene %d datos sin sincronizar. Por favor, actualice el espacio de almacenamiento.</string>
   <string name="micloud_main_stop_sync">Sincronización parada</string>
+  <string name="micloud_main_suggest_setting">"Esperando a Wi-Fi para sincronizar.
+Toca el botón de ajustes de sincronización para ver más opciones"</string>
   <string name="micloud_main_suggest_sync">"Algunos elementos no se han sincronizado con su Mi Cloud"</string>
   <string name="micloud_main_sync_exception">Error de sincronización</string>
   <string name="micloud_main_sync_init">Obteniendo información</string>
   <string name="micloud_main_sync_now">Sincronizar ahora</string>
-  <string name="micloud_main_sync_on_wifi">Usar Wi-Fi</string>
+  <string name="micloud_main_sync_on_wifi">Esperando Wi-Fi</string>
   <string name="micloud_main_sync_pause">Sincronización pausada</string>
   <string name="micloud_main_sync_stop">Sincronización parada</string>
   <string name="micloud_main_synced_data_count">%d datos han sido sincronizados</string>

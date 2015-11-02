@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="all_call_livetalk_enable">Usa paquetes de recarga para llamadas nacionales e internacionales</string>
-  <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s Nacionales) | (%2$s %3$s)</string>
+  <string name="all_call_livetalk_enable">Usando paquetes de recarga para llamadas nacionales e internacionales</string>
+  <string name="all_call_livetalk_remain_mins">Minutos restantes:: %1$s nacional | %2$s internacional</string>
   <string name="alwaysUsePrompt">"No mostrar de nuevo"</string>
   <string name="apply_password_action">Establecer contraseña</string>
   <string name="apply_password_confirm_dlg_msg">¿Solicitar contraseña para %s​?</string>
@@ -15,8 +15,9 @@
   <string name="cancel_action">Cancelar</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
+  <string name="enable_livetalk">Habilitar recarga de paquete</string>
   <string name="fc_dialog_body">¿Enviar error a Mi para su análisis? Este informe puede contener información personal. Tu informe será usado para ayudar a arreglar el error y nunca será compartido en un contexto comercial.</string>
-  <string name="fc_dialog_jump_to_preview">Ver el sumario</string>
+  <string name="fc_dialog_jump_to_preview">Ver sumario</string>
   <string name="first_back_long_press_message">"Pulse y mantenga Atrás para finalizar el proceso actual y sus servicios en segundo plano.
 
 Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
@@ -31,12 +32,13 @@ Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
   <string name="handy_mode_enter_dlg_title">Operación con una mano</string>
   <string name="handy_mode_summary">Para cerrar pulse en un espacio vacío de la pantalla</string>
   <string name="handy_mode_title">Operación con una mano</string>
-  <string name="internal_livetalk_enable">Usar paquetes de recarga para llamadas nacionales</string>
-  <string name="internal_remain_mins">%1$s minutos restantes (llamadas nacionales)</string>
-  <string name="international_livetalk_enable">Usar paquetes de recarga para llamadas internacionales</string>
-  <string name="international_remain_mins">%1$s minutos restantes (%2$s llamadas)</string>
+  <string name="internal_livetalk_enable">Usando paquetes de recarga para llamadas nacionales</string>
+  <string name="internal_remain_mins">%1$s minutos restantes (nacional)</string>
+  <string name="international_livetalk_enable">Usando paquetes de recarga para llamadas internacionales</string>
+  <string name="international_remain_mins">%1$s minutos restantes (%2$s)</string>
   <string name="key_btn_ok">Aceptar</string>
   <string name="key_btn_space">Espacio</string>
+  <string name="livetalk_not_enable">Deshabilitar recarga de paquete</string>
   <string name="lockscreen_access_pattern_cell_added">Patrón añadido</string>
   <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
   <string name="lockscreen_access_pattern_detected">Patrón completado</string>
@@ -57,7 +59,7 @@ Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
   <string name="screen_on_proximity_sensor_hint">Para desactivar esta función, pulse Atrás y el botón de subir volumen simultáneamente.</string>
   <string name="screen_on_proximity_sensor_summary">"No tape el área naranja de la pantalla"</string>
   <string name="screen_on_proximity_sensor_title">Evitar llamadas accidentales</string>
-  <string name="screen_paper_mode_enter_toast">El modo lectura está activado. Puede activar o desactivar esta función en cualquier momento en Ajustes adicionales &gt; Modo lectura.</string>
+  <string name="screen_paper_mode_enter_toast">El modo lectura está activado. Puede activar o desactivar esta función en cualquier momento en Ajustes de pantalla &gt; Modo lectura.</string>
   <string name="screen_rotation_freeze_message">Auto-rotar desactivado.</string>
   <string name="select">Seleccionar</string>
   <string name="select_all">Selec. todo</string>

@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<string name="achieve_condition">Ganado por:</string>
+  <string name="achieved">GANADO</string>
+  <string name="achieved_time">Ganado el %s</string>
+  <string name="achievement_progress" formatted="false">Progreso: %d/%d</string>
+  <string name="achievements">Premios</string>
+  <string name="acquired_time_x">Recibido el %s</string>
   <string name="action">Ver</string>
   <string name="already_used">Usado</string>
   <string name="app_name">Mi VIP</string>
@@ -7,8 +13,10 @@
   <string name="award_time">Obtenido el %s</string>
   <string name="awarded_package_is_expired">Expirado</string>
   <string name="awarded_package_was_redeemed">Canjeado</string>
+  <string name="awards">Premios</string>
   <string name="browse">Ver</string>
   <string name="buff_enable">[ habilitar ]</string>
+  <string name="copy_and_use">Canjear</string>
   <string name="cube_ptr_hours_ago"> horas hace</string>
   <string name="cube_ptr_last_update">última actualización: </string>
   <string name="cube_ptr_minutes_ago"> minutos hace</string>
@@ -18,12 +26,22 @@
   <string name="cube_ptr_refreshing">Actualizando...</string>
   <string name="cube_ptr_release_to_refresh">Soltar para refrescar</string>
   <string name="cube_ptr_seconds_ago"> segundos hace</string>
+  <string name="daily_task">Desafíos diarios</string>
   <string name="days">%dd</string>
+  <string name="device_answer_phone_times">Llamadas contestadas</string>
+  <string name="device_charge_times">Veces cargado</string>
+  <string name="device_unlock_screen_times">Pantalla desbloqueda</string>
+  <string name="device_usage_data">Estadísticas de uso del teléfono</string>
+  <string name="download_message">¿Descargar %s?</string>
+  <string name="download_progress">%d%%</string>
+  <string name="download_title">¿Descargar esta aplicación?</string>
+  <string name="downloading">Descargando…</string>
   <string name="exp_buff">+%s%% puntos</string>
   <string name="experience">Pts</string>
   <string name="expired">Expirado</string>
   <string name="fail_reach_server">No se puede conectar al servidor</string>
   <string name="giveup">Abandonar</string>
+  <string name="go">Ver progreso</string>
   <string name="hello">Hola</string>
   <string name="hours">%dh</string>
   <string name="in_progress">Solicitando…</string>
@@ -33,18 +51,22 @@
   <string name="level_exp_value" formatted="false">Puntos: %d/%d</string>
   <string name="level_info_format" formatted="false">"Nivel %d %d/%d
 %s"</string>
+  <string name="limit_task">Desafíos limitados</string>
+  <string name="limit_task_format" formatted="false">%d/%d</string>
   <string name="millis">%dms</string>
   <string name="minutes">%dm</string>
   <string name="my_award">Mis premios</string>
+  <string name="no_achievements">Vacío.</string>
   <string name="no_app">Instalar la aplicación primero</string>
   <string name="no_award">Sin premios</string>
   <string name="no_network">No se puede conectar a la red</string>
   <string name="no_task">Todos los desafíos han sido completados</string>
   <string name="passive_task">Desafíos en segundo plano</string>
   <string name="privilege">Privilegios</string>
-  <string name="promote">Completar desafíos para ganar puntos</string>
+  <string name="promote">Actualizar tareas</string>
   <string name="query_level_fail">No se pudo obtener la información</string>
   <string name="query_user_tasks_fail">No se pudo obtener la información del desafío</string>
+  <string name="redeem">Canjear</string>
   <string name="seconds">%ds</string>
   <string name="start_activity_error">"No se puede lanzar: %s"</string>
   <string name="take_awarded_package">Canjear</string>
@@ -60,11 +82,11 @@
   <string name="task_select_title">Elegir un desafío</string>
   <string name="task_start">Comenzar</string>
   <string name="task_take_award">Obtener premios</string>
-  <string name="today_task">Desafíos de hoy</string>
-  <string name="today_task_format" formatted="false">%d/%d</string>
+  <string name="unachieved">DISPONIBLE</string>
   <string name="unlimited_task">Desafíos especiales</string>
   <string name="upgraded">¡Cuenta mejorada!</string>
   <string name="use">Usar</string>
+  <string name="use_immediately">Usar ahora</string>
   <string name="validity">Expira el %s</string>
   <string name="validity_unknown">Vencimiento desconocido</string>
 </resources>

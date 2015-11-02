@@ -151,7 +151,8 @@
   <string name="app_name">Correo</string>
   <string name="archive">Archivo</string>
   <string name="archived">Archivado</string>
-  <string name="att_download_failed_content">Descarga fallida</string>
+  <string name="att_download_failed_content">No se pudo descargar el adjunto de este mensaje</string>
+  <string name="att_download_failed_network_slow">Red lenta, por favor descarga más tarde</string>
   <string name="att_download_failed_title">Descarga del archivo adjunto fallida</string>
   <string name="att_file_not_exists">No se encontró %s</string>
   <string name="att_mgr_no_attachment">Vacío</string>
@@ -197,6 +198,13 @@
   <string name="bottom_bar_more_share">Compartir</string>
   <string name="bottom_bar_no_quickreply_toast">Sin respuestas rápida</string>
   <string name="bytes">%s B</string>
+  <string name="calendar_remind_dialog_title">Recordar</string>
+  <string name="calendar_remind_gridview_month_later">Un mes más tarde</string>
+  <string name="calendar_remind_gridview_nextweek">La siguiente semana</string>
+  <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
+  <string name="calendar_remind_gridview_tomorrow">Mañana</string>
+  <string name="calendar_remind_gridview_tonight">Esta noche</string>
+  <string name="calendar_remind_gridview_weekend">El fin de semana</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cant_move_or_change_labels">"No se puede mover porque la selección contiene varias cuentas."</string>
@@ -221,7 +229,7 @@
   <string name="collapse_recipient_details">Colapsar detalles del destinatario</string>
   <string name="colon">:</string>
   <string name="compose">Redactar</string>
-  <string name="compose_attachment_number_limit">No se pueden adjuntar más de 10 ficheros</string>
+  <string name="compose_attachment_number_limit">No se pueden añadir más de 10 adjuntos</string>
   <string name="compose_picturesexceedlimits">No se pueden añadir más de 5 imágenes</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado con éxito</string>
@@ -395,7 +403,7 @@
   <string name="gmail_acceleration">Usar servidor proxy para la cuenta de Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">¿Utilizar servidor proxy para acceder a tu cuenta de Gmail?</string>
   <string name="gmail_login_failed_non_proxy_title">Acceso fallido al servidor de Gmail</string>
-  <string name="gmail_server_authorization_deleted">Error al recuperar la autorización de acceso.</string>
+  <string name="gmail_server_authorization_deleted">No se pudo autentificar la cuenta. Prueba a añadir esta cuenta de nuevo.</string>
   <string name="gmail_web_login_go">Aceptar</string>
   <string name="gmail_web_login_required_message">Accede a Gmail</string>
   <string name="header_category_account">Configuración de la cuenta</string>
@@ -537,12 +545,12 @@
   <string name="outbox_alert_description_cannot_authenticate">No se pudo autentificar %s.</string>
   <string name="outbox_alert_description_email_size_error">Se ha alcanzado el tamaño máximo de Email.</string>
   <string name="outbox_alert_description_fail_authentication">El usuario o la contraseña son inválidos.</string>
-  <string name="outbox_alert_description_fail_network">Anomalía en la red.</string>
+  <string name="outbox_alert_description_fail_network">No se pudo conectar a la red.</string>
   <string name="outbox_alert_description_http_error">Causa: Error de autenticación del servidor durante la sincronización de la bandeja de salida</string>
   <string name="outbox_alert_description_insufficient_storage_error">Almacenamiento insuficiente en el servidor de correo</string>
   <string name="outbox_alert_description_provision_error">Causa: Error de provisión del servidor durante la sincronización de la bandeja de salida</string>
   <string name="outbox_alert_description_sent_failed">"El tamaño del archivo adjunto supera el límite del servidor."</string>
-  <string name="outbox_alert_duplicate_click">Aún sincronizando…</string>
+  <string name="outbox_alert_duplicate_click">Aún mandando…</string>
   <string name="outbox_alert_edit_resend">Editar y enviar de nuevo</string>
   <string name="outbox_alert_failed_edit_resend">No se pudo enviar. Edite e inténtelo de nuevo."</string>
   <string name="outbox_alert_mailbox_not_found">Dirección de email no encontrado</string>
@@ -663,6 +671,7 @@
   <string name="remove_folder">Borrado de %1$s</string>
   <string name="remove_star">Quitar estrella</string>
   <string name="reply">Responder</string>
+  <string name="reply_add_bodycontent">¿Añadir respuesta rápida al contenido del mensaje?</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">En %s, %s escribió:</string>
   <string name="report_phishing">Denunciar phishing</string>
@@ -672,8 +681,8 @@
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Guardar borrador a fallado</string>
-  <string name="save_power_summary">Ahorra energía en el ajuste del tiempo</string>
-  <string name="save_power_title">Modo ahorro de energía</string>
+  <string name="save_power_summary">Programar tiempos para reducir el uso de batería</string>
+  <string name="save_power_title">Ahorro de batería</string>
   <string name="saved">Guardado, %s</string>
   <string name="saving">Guardando…</string>
   <string name="sdcard_cannot_use">La tarjeta de almacenamiento no se puede utilizar</string>

@@ -96,7 +96,7 @@
   <string name="decompress_title">Extraer</string>
   <string name="decompress_to">Extraer ficheros en…</string>
   <string name="decompress_to_here">Extraer aquí</string>
-  <string name="decrypt">Quitar de privada</string>
+  <string name="decrypt">Quitar</string>
   <string name="decrypt_error">No se pudo desencriptar</string>
   <string name="decrypting">Desencriptando…</string>
   <string name="delete_dialog_button">Eliminar</string>
@@ -126,6 +126,7 @@
   <string name="downloading_in_3g">Descargando por 3G…</string>
   <string name="enable_sd_card">Insertar la tarjeta SD o desactivar el almacenamiento masivo USB.</string>
   <string name="encrypt_error">No se pudieron hacer privados los ficheros, intenta de nuevo</string>
+  <string name="encrypt_prefix">PRIVADO</string>
   <string name="encrypt_success">Todos los ficheros fueron hechos privados</string>
   <string name="encrypting">Encriptando…</string>
   <string name="error_filename_too_long">El nombre de archivo introducido es demasiado largo.</string>
@@ -269,8 +270,8 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="new_folder_name">Carpeta sin nombre</string>
   <string name="new_function">Sobre carpetas privadas</string>
   <string name="new_function_info">"Carpeta privada es una nueva característica de MIUI.
-Puedes encriptar tus ficheros
-y guardarlos en un lugar seguro.
+Puedes encriptar tus ficheros y guardarlos en
+un lugar seguro.
 
 Tira en la pantalla principal para descubrirlo."</string>
   <string name="new_function_str">"Las pegatinas de WeChat pueden recogerse automáticamente ahora.
@@ -333,6 +334,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="operation_move">Cortar</string>
   <string name="operation_moving">Moviendo…</string>
   <string name="operation_moving_detail">Moviendo (%1$d/%2$d)</string>
+  <string name="operation_other_apps">Abrir en otra aplicación</string>
   <string name="operation_paste">Pegar</string>
   <string name="operation_pasting">Copiando…</string>
   <string name="operation_pause">Pausar</string>
@@ -354,6 +356,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="paused">En pausa</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Teléfono</string>
+  <string name="pick_folder">Elegir carpeta</string>
   <string name="port_range">El puerto debe estar entre 1024 y 65535</string>
   <string name="private_files">Privados</string>
   <string name="private_folder">Carpeta privada</string>
@@ -383,6 +386,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="search_app">Fuente</string>
   <string name="search_app_more">Más</string>
   <string name="search_category">Tipo</string>
+  <string name="search_description">Buscar todos los ficheros en el dispositivo</string>
   <string name="search_empty_view_hint">No hay resultados</string>
   <string name="search_error_hint">Introducir palabras clave para buscar</string>
   <string name="search_file_type_apk">Apk</string>

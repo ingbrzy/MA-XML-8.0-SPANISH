@@ -99,6 +99,7 @@
   <string name="delete_topic_dialog_title">Realmente quiere cancelar \"%s\" ?</string>
   <string name="delete_topic_success">Darse de baja de \"%s\"</string>
   <string name="deleting_calendar">Darse de baja en</string>
+  <string name="departure">salida</string>
   <string name="description_label">Descripción</string>
   <string name="directory_searching_fmt">Buscando %s…</string>
   <string name="discard_label">Cancelar</string>
@@ -202,8 +203,10 @@
   <string name="not_exist_topic_list">No se puede obtener una lista de calendario suscrito</string>
   <string name="not_synced">no sincronizado</string>
   <string name="notice_button_ok">Aceptar</string>
+  <string name="notice_title_agreement">Términos de Uso</string>
   <string name="notice_title_request">Petición</string>
   <string name="online_calendar_activity_label">Sincronizar el calendario</string>
+  <string name="online_notice_message">"Al usar este produco, aceptas estar de acuerdo con nuestro %1$s y %2$s. Esta aplicación necesita conectarse a internet para funcionar con normalidad."</string>
   <string name="online_reminder_change_text">Modificar recordatorio</string>
   <string name="online_reminder_header_text">Recordar</string>
   <string name="online_reminder_minutes_text">Hora de recordatorio</string>
@@ -314,7 +317,9 @@
   <string name="timezone_label">Zona horaria</string>
   <string name="today">Hoy</string>
   <string name="today_at_time_fmt">Hoy a las %s</string>
+  <string name="today_flight_event">Vuelo</string>
   <string name="today_no_events">No hay eventos</string>
+  <string name="today_train_event">Tren</string>
   <string name="tomorrow">Mañana</string>
   <string name="tomorrow_at_time_fmt">Mañana a las %s</string>
   <string name="topic_event_list_header_label">Proximos eventos</string>

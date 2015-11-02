@@ -111,6 +111,8 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="firewall_network_restrict_notify_message">Tocar para cambiar los ajustes.</string>
   <string name="firewall_network_restrict_notify_mobile">datos móviles</string>
   <string name="firewall_network_restrict_notify_title">"%1$s no puede usar %2$s."</string>
+  <string name="firewall_restrict_android_dialog_content">Si no permites a Android conectarse a internet, algunas funcionalidades importantes, como el punto de acceso Wi-Fi, pueden verse afectadas.</string>
+  <string name="firewall_restrict_android_dialog_title">Atención</string>
   <string name="firewall_rule_group_title_mobile">Móvil</string>
   <string name="firewall_rule_group_title_roaming">Itinerancia internacional</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -135,6 +137,8 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="input_used_max_hint">Introduzca uso de datos (menos de %s)</string>
   <string name="international_roaming_setting">Itinerancia internacional</string>
   <string name="international_roaming_whitelist_count">%d aplicaciones pueden usar datos móviles en itinerancia</string>
+  <string name="ip_address_exception_summary">No se pudo obtener la dirección IP. Si vuelves a tener este problema, prueba a usar una IP estática.</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Vacío</string>
   <string name="load_fail">"No se pudo cargar"</string>
@@ -192,6 +196,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="main_traffic_used_text">usados</string>
   <string name="manual_input_free_traffic">Establecer uso de datos en hora valle</string>
   <string name="manual_input_traffic">Establecer uso de datos</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="mi_service_app_detail">Detalles de uso de datos</string>
   <string name="mi_service_framework">Estructura de Mi Service</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
@@ -208,7 +213,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="network_connected_exception_title">Comprobar red</string>
   <string name="network_control">Ver ajustes de la aplicación</string>
   <string name="network_diagnostics">Comprobar red</string>
-  <string name="network_speed_for_apps_title">Detalles de velocidad de conexión</string>
+  <string name="network_speed_for_apps_title">Conexión</string>
   <string name="network_speed_for_apps_total">Velocidad de conexión</string>
   <string name="none_mi_service_app_detail">Vacío</string>
   <string name="notify_daily_data_usage_body">Para limitar el uso de datos automáticamente, establecer el plan de datos mensual.</string>
@@ -308,7 +313,7 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="pref_title_over_traffic_limit_warning">Cuando se supere</string>
   <string name="pref_title_traffic_limit_number">Tamaño</string>
   <string name="pref_title_traffic_speed_state">Mostrar la velocidad de la red</string>
-  <string name="pref_title_update_notification">Mostrar uso de datos en área de notificaciones</string>
+  <string name="pref_title_update_notification">Notificaciones de uso de datos</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Permitir excepciones inteligentes</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Añadir automáticamente aplicaciones con capacidades de ahorro de datos a las excepciones</string>
   <string name="pref_traffic_saving_compressed">Comprimido</string>
