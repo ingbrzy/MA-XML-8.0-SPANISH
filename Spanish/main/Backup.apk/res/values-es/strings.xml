@@ -47,7 +47,8 @@
   <string name="call_title">Registros de llamadas</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_backup">Parar</string>
-  <string name="cancel_restore">Parar</string>
+  <string name="cancel_restore">Parar</string>  
+  <string name="click_to_view">Tocar para ver</string>
   <string name="cloud_app_name">Copia de seguridad de Mi Cloud</string>
   <string name="cloud_backup_hint">Para acceder a sus copias de seguridad, inicie sesión ahora</string>
   <string name="cloud_backup_login">Inicia sesión con tu cuenta Mi</string>
@@ -95,6 +96,10 @@
   <string name="every_day">Cada día</string>
   <string name="exchange_account">Cambiar de cuenta</string>
   <string name="fail">Falló</string>
+  <string name="feature_title_call_log">Historial de llamadas</string>
+  <string name="feature_title_mms">MMS</string>
+  <string name="file_uploading">Subiendo…</string>
+  <string name="files_backup_info">Todos los ficheros en la tarjeta SD (incluyendo fotos, canciones, vídeos, datos de aplicaciones, etc.)</string>
   <string name="findlost_contact">Restaurar contactos</string>
   <string name="findlost_contact_online">Restaurar contactos desde Mi Cloud</string>
   <string name="guarded_mode_dialog_message">"Esta función no está permitida en modo invitado."</string>
@@ -111,6 +116,7 @@
   <string name="local_no_backup">No hay copias de seguridad locales</string>
   <string name="local_restore_window_title">Restauración local</string>
   <string name="local_select_account_contact">Cuentas y contactos</string>
+  <string name="local_select_files">Tarjeta SD</string>
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicaciones</string>
   <string name="miliao_account_guide">"Crear una cuenta Mi para disfrutar de todos los servicios en línea de Xiaomi"</string>
@@ -129,6 +135,7 @@
   <string name="prompt_writing">Guardando…</string>
   <string name="read_encrypt_fail">"No se puede leer la copia de seguridad cifrada"</string>
   <string name="refresh">Actualizar</string>
+  <string name="remote_receive">Recibir</string>
   <string name="restore">Restaurar</string>
   <string name="restore_contact">Restaurar contactos</string>
   <string name="restore_contact_content">La restauración puede crear contactos duplicados.</string>
@@ -202,9 +209,46 @@
   <string name="task_service_not_launched">"Todavía no ha comenzado el proceso"</string>
   <string name="task_stopped_exception">Restauración cancelada</string>
   <string name="total_num">%d total</string>
-  <string name="unit_byte">"  bytes"</string>
+  <string name="trans_backingup">Copiando…</string>
+  <string name="trans_backingup_no_items">Sincronizando…</string>
+  <string name="trans_cancel_confirm">¿Transferencia en progreso, cancelar ahora?</string>
+  <string name="trans_cancelling">Cancelando</string>
+  <string name="trans_connect_failed_toast">No se pudo conectar</string>
+  <string name="trans_connecting_toast">Conectando…</string>
+  <string name="trans_detail_category_account">Cuentas y contactos</string>
+  <string name="trans_detail_category_files">Ficheros</string>
+  <string name="trans_detail_category_sysdata">Datos del sistema</string>
+  <string name="trans_detail_category_userdata">Aplicaciones</string>
+  <string name="trans_device_disconnected">Dispositivo desconectado</string>
+  <string name="trans_main_tutor">Transferir contactos, historial de llamadas, mensajes, disposición de la pantalla de inicio, aplicaciones, ajustes, etc. a un nuevo dispositivo</string>
+  <string name="trans_my_device">Mi dispositivo</string>
+  <string name="trans_one_key_migrate">Transferencia</string>
+  <string name="trans_progress_subdescript_br_receiver">Recibiendo %s</string>
+  <string name="trans_progress_subdescript_br_sender">Copiando %s</string>
+  <string name="trans_progress_subdescript_transing_receiver">Recibiendo %s</string>
+  <string name="trans_progress_subdescript_transing_sender">Enviando %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Recibiendo ficheros…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Enviando ficheros…</string>
+  <string name="trans_progress_subdescript_waiting">Esperando a recibir %s</string>
+  <string name="trans_receiver">Soy un receptor</string>
+  <string name="trans_receiving_completed">Datos recibidos</string>
+  <string name="trans_restoring">Restableciendo…</string>
+  <string name="trans_restoring_no_items">Sincronizando elementos</string>
+  <string name="trans_select_device_receive">Selecciona un dispositivo para recibir datos.</string>
+  <string name="trans_select_device_send">Selecciona un dispositivo para transferir datos.</string>
+  <string name="trans_sender">Soy un emisor</string>
+  <string name="trans_sender_connectting">Confirmar en el nuevo dispositivo</string>
+  <string name="trans_sender_searching">Buscando nuevos dispositivos</string>
+  <string name="trans_sender_searching_ensurance">"Asegúrate de que el viejo dispositivo
+está encendido para que el nuevo dispositivo se conecte…"</string>
+  <string name="trans_sending_completed">Datos enviados</string>
+  <string name="trans_time_format_second">menos de un minuto</string>
+  <string name="trans_time_remained">, listo en</string>
+  <string name="trans_waiting_ensurance">"Asegúrate de que el viejo dispositivo
+está encendido y la Transferencia activada"</string>
+  <string name="trans_waiting_for_sender">Esperando al viejo dispositivo para conectar…</string>
+  <string name="unit_byte">B</string>
   <string name="unit_piece">"  elementos"</string>
   <string name="unknown_hint">Desconocido</string>
   <string name="wifi_title">Configuración Wi-Fi</string>
-  <string name="xiaomi_account_type">com.Xiaomi</string>
 </resources>

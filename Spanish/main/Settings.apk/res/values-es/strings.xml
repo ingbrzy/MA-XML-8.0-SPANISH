@@ -542,7 +542,7 @@ Asegúrate de que tu dedo cubre la parte interior del sensor</string>
      <string name="button_text_reboot_now">Reiniciar</string>
      <string name="cache_header_label">Caché</string>
      <string name="cache_size_label">Caché</string>
-     <string name="cached">Cachear procesos en segundo plano</string>
+     <string name="cached">"Cachear procesos en segundo plano "</string>
      <string name="call_settings_summary">Configurar buzón de voz, devolución de llamada, llamada en espera, identificador de llamada</string>
      <string name="call_settings_title">Ajustes de llamada</string>
      <string name="camera_key_action_app_title">Abrir aplicación</string>
@@ -1056,7 +1056,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
      <string name="firmware_version">Versión de Android</string>
      <string name="floating_window_switch_label">Activar ventanas flotantes</string>
      <string name="floating_window_switch_label_disable">Desactivar ventanas flotantes</string>
-     <string name="fluency_mode">Optimizar rendimiento</string>
+     <string name="fluency_mode">Animaciones del sistema</string>
      <string name="fluency_mode_confirm_and_reboot">Reiniciar ahora</string>
      <string name="font_size_exhuge">Extra Enorme</string>
      <string name="font_size_huge">Enorme</string>
@@ -1182,8 +1182,8 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="help_url_vpn" />
      <string name="help_url_wifi" />
      <string name="hidden_ssid_label">SSID ocultos:</string>
-     <string name="high_performance_notif_summary">El modo alto rendimiento esta activo.</string>
-     <string name="high_performance_notif_title">Advertencia de uso de batería</string>
+     <string name="high_performance_notif_summary">El dispositivo se puede calentar con el uso exhaustivo.</string>
+     <string name="high_performance_notif_title">Modo rendimiento activado</string>
      <string name="high_performance_title">"Parece que esta ejecutando un benchmark. Establezca la administración de energía en \"Alto rendimiento\" para mejores resultados."</string>
      <string name="history_details_title">Detalles del historial</string>
      <string name="home_app_uninstall_button">Desinstalar esta aplicación</string>
@@ -1699,7 +1699,8 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="oldman_mode_settings_caption">Ajustes de modo sencillo</string>
      <string name="oldman_mode_summary">Usar pantalla de inicio y menus simplificados</string>
 	 <string name="oldman_mode_summary_cta">El modo sencillo necesita conectarse a internet y leer tus contactos, mensajes y localización para funcionar con normalidad.</string>
-     <string name="online_resource_entry">Recursos en linea</string>
+     <string name="onekey_migrate">Transferencia</string>
+	 <string name="online_resource_entry">Recursos en linea</string>
      <string name="only_one_home_message">Los ajustes de inicio serán ocultados mientras no instale otra aplicación de inicio.</string>
      <string name="only_when_charging">Solo cuando se esté cargando</string>
      <string name="onscreen_keyboard_settings_summary">Ajustes del teclado en pantalla</string>
@@ -1800,7 +1801,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_cell">Teléfono en espera</string>
      <string name="power_center">Energía</string>
-	 <string name="power_hide_mode_summary">Ahorra batería restringiendo los procesos en segundo plano, el Wi-Fi, las conexiones móviles y el GPS de las aplicaciones</string>
+	 <string name="power_hide_mode_summary">Ahorra batería restringiendo los procesos en segundo plano, el Wi-Fi, las conexiones móviles y el uso del GPS</string>
 	 <string name="power_hide_mode_title">Administrar uso de batería de aplicaciones</string>
      <string name="power_idle">Teléfono inactivo</string>
      <string name="power_mgr">Energía</string>
@@ -2352,7 +2353,11 @@ Una credencial de confianza instalada hace esto posible."</string>
      <string name="stable_build">" | Estable"</string>
      <string name="status_awake_time">Tiempo activo</string>
      <string name="status_bar_and_notification_bar">Área de notificaciones y barra de estado</string>
-     <string name="status_bar_app_disable_notification">Ocultar notificaciones</string>
+	 <string name="status_bar_app_des_separator">", "</string>
+     <string name="status_bar_app_disable_notification">Notificaciones ocultas</string>
+	 <string name="status_bar_app_enable_floating">Notificaciones flotantes</string>
+	 <string name="status_bar_app_enable_keyguard">Pantalla de bloqueo</string>
+	 <string name="status_bar_app_enable_message">Iconos</string>
      <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Pantalla de bloqueo, área de notificaciones</string>
      <string name="status_bar_app_enable_on_notificationBar">Área de notificaciones</string>
      <string name="status_bar_key_position_custom">Posición de tecla personalizada</string>
@@ -2382,10 +2387,11 @@ Una credencial de confianza instalada hace esto posible."</string>
      <string name="status_bar_settings_notification_sound_vibrate">Sonido y vibración</string>
      <string name="status_bar_settings_show_carrier">Mostrar el nombre del operador</string>
      <string name="status_bar_settings_show_carrier_summary">El nombre del operador se sigue mostrando en la pantalla de bloqueo y en el área de notificaciones cuando esta funcionalidad está apagada</string>
-     <string name="status_bar_settings_show_flow_info">Mostrar detalles de flujo</string>
+     <string name="status_bar_settings_show_floating_notification">Notificaciones flotantes</string>
+	 <string name="status_bar_settings_show_floating_notification_summary">Las notificaciones flotantes desaparecerán automáticamente después de mostrarse en la parte superior de la pantalla</string>
+	 <string name="status_bar_settings_show_flow_info">Mostrar detalles de flujo</string>
      <string name="status_bar_settings_show_home_message">Mostrar en icono de aplicación</string>
-     <string name="status_bar_settings_show_keyguard_notification">Flotantes y pantalla de bloqueo</string>
-     <string name="status_bar_settings_show_keyguard_notification_summary">Las notificaciones flotantes desaparecerán automáticamente después de mostrarse en la parte superior de la pantalla</string>
+     <string name="status_bar_settings_show_keyguard_notification">Pantalla de bloqueo</string>
      <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
      <string name="status_bar_settings_show_notification_icon">Mostrar iconos de notificación</string>
      <string name="status_bar_settings_show_screenshot_notification">Mostrar notificación de captura</string>

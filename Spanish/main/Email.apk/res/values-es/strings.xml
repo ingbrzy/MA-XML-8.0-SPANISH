@@ -199,8 +199,8 @@
   <string name="bottom_bar_no_quickreply_toast">Sin respuestas rápida</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Recordar</string>
-  <string name="calendar_remind_gridview_month_later">Un mes más tarde</string>
-  <string name="calendar_remind_gridview_nextweek">La siguiente semana</string>
+  <string name="calendar_remind_gridview_month_later">El mes siguiente</string>
+  <string name="calendar_remind_gridview_nextweek">La semana siguiente</string>
   <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
   <string name="calendar_remind_gridview_tomorrow">Mañana</string>
   <string name="calendar_remind_gridview_tonight">Esta noche</string>
@@ -381,7 +381,7 @@
   <string name="folder_trash_name_en2">Mensaje borrado</string>
   <string name="folder_trash_name_en3">[Gmail]/Papelera</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s%2$s</string>
+  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Reenviar</string>
   <string name="forward_attachment">Reenviar</string>
   <string name="forward_attribution">---------- Mensaje reenviado ----------De: %1$s Fecha: %2$s Asunto: %3$s Para: %4$s</string>
@@ -550,7 +550,7 @@
   <string name="outbox_alert_description_insufficient_storage_error">Almacenamiento insuficiente en el servidor de correo</string>
   <string name="outbox_alert_description_provision_error">Causa: Error de provisión del servidor durante la sincronización de la bandeja de salida</string>
   <string name="outbox_alert_description_sent_failed">"El tamaño del archivo adjunto supera el límite del servidor."</string>
-  <string name="outbox_alert_duplicate_click">Aún mandando…</string>
+  <string name="outbox_alert_duplicate_click">Enviando ahora…</string>
   <string name="outbox_alert_edit_resend">Editar y enviar de nuevo</string>
   <string name="outbox_alert_failed_edit_resend">No se pudo enviar. Edite e inténtelo de nuevo."</string>
   <string name="outbox_alert_mailbox_not_found">Dirección de email no encontrado</string>
@@ -681,7 +681,7 @@
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Guardar borrador a fallado</string>
-  <string name="save_power_summary">Programar tiempos para reducir el uso de batería</string>
+  <string name="save_power_summary">Establecer tiempo de ahorro de batería</string>
   <string name="save_power_title">Ahorro de batería</string>
   <string name="saved">Guardado, %s</string>
   <string name="saving">Guardando…</string>

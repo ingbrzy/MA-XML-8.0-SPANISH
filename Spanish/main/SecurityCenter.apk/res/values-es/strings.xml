@@ -186,7 +186,8 @@
      <string name="hints_last_virus_scan_yesterday_risk">Escaneado ayer: Sospechoso</string>
      <string name="hints_last_virus_scan_yesterday_safe">Escaneado ayer: Seguro</string>
      <string name="hints_last_virus_scan_yesterday_virus">Escaneado ayer: Peligroso</string>
-     <string name="hints_loading_text">Leyendo…</string>
+     <string name="hints_loading_text">Cargando…</string>
+	 <string name="hints_need_quick_clean">Buscar y borrar ficheros peligrosos</string>
      <string name="hints_need_quick_scan">Se recomienda escaneo rápido</string>
 	 <string name="hints_need_regular_scan">Escanea tu dispositivo regularmente</string>
      <string name="hints_power_percent_title">batería</string>
@@ -263,6 +264,7 @@
      <string name="menu_text_networkassistants_danger">%s sobrepasados</string>
      <string name="menu_text_networkassistants_remain">%s restantes</string>
      <string name="menu_text_power_manager">Uso de batería</string>
+	 <string name="menu_text_power_percent_title">Batería %s</string>
      <string name="month_report_activity_label">Informe mensual</string>
      <string name="month_report_click_reconnect_network">Intentar de nuevo</string>
      <string name="month_report_disconnect_tip">"No se puede conectar a la red"</string>
@@ -525,6 +527,7 @@
      <string name="summary_flow_verify">"No se han sincronizado las estadísticas de uso de datos con su proveedor de telefonía desde hace %d días"</string>
      <string name="summary_garbage_lib">Use las definiciones más recientes para eliminar spyware, adware, y otro software no solicitado</string>
      <string name="summary_install_virus">Comprobar aplicaciones en busca de virus antes de la instalación</string>
+	 <string name="summary_live_talk_purchase">Sólo ¥ 0.05 por minuto para llamadas nacionales.</string>
      <string name="summary_miui_update">Actualización disponible para %s.</string>
      <string name="summary_mms">Bloquear spam de SMS automáticamente</string>
      <string name="summary_network_switch">Permitir a la aplicación Seguridad conectarse a internet</string>
@@ -563,6 +566,7 @@
      <string name="title_garbage_lib">Actualizaciones automáticas</string>
      <string name="title_install_virus_no">Monitor de instalación desactivado</string>
      <string name="title_install_virus_yes">Monitor de instalación activado</string>
+	 <string name="title_live_talk_purchase">Recargar ahora</string>
      <string name="title_miui_update">Actualización disponible</string>
      <string name="title_mms_no">Filtro de mensajes desactivado</string>
      <string name="title_mms_yes">Filtro de mensajes activado</string>

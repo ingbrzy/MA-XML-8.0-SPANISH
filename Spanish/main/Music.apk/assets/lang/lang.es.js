@@ -55,7 +55,7 @@
 	"action_item_add_song": "Añadir",
 	"action_item_send": "Send",
 	"action_item_remove": "Remove",
-	"action_item_delete": "Delete",
+	"action_item_delete": "Borrar",
 	"action_item_cancel": "Cancelar",
 	"action_item_download": "Download",
 	"action_item_favorite": "Favorite",
@@ -90,13 +90,13 @@
 	"ktv_playlist": "KTV playlist",
 	"preset_music_playlist": "Mi Music playlist",
 	"my_playlist": "Listas de reproducción",
-	"create_playlist": "Create playlist",
+	"create_playlist": "Crear lista de reproducción",
 	"track_view": "Song",
 	"artist_view": "Artist",
 	"track_list_control_play": "Play",
 	"track_list_control_download": "Download",
 	"track_list_control_edit_add_tracks": "Añadir canc.",
-	"track_list_control_edit_delete_playlist": "Delete",
+	"track_list_control_edit_delete_playlist": "Borrar",
 	"track_list_control_edit_rename_playlist": "Rename",
 	"search_hint": "Search",
 	"NPlaylist_delete_confirm": {
@@ -117,8 +117,8 @@
 		"other": "\"${v} new\""
 	},
 	"Ntracks_count": {
-		"one": "\"${v} song\"",
-		"other": "\"${v} songs\""
+		"one": "\"${v} canción\"",
+		"other": "\"${v} canciones\""
 	},
 	"Ntracks_similar_count": {
 		"one": "\"${v} similar song\"",
@@ -147,15 +147,15 @@
 	"dialog_title_name_playlist": "Playlist name",
 	"dialog_title_track_picker": "Choose songs",
 	"dialog_title_remove_tracks": "Remove",
-	"dialog_title_delete_tracks": "Delete",
+	"dialog_title_delete_tracks": "Borrar",
 	"dialog_button_find_music": "Discover",
 	"dialog_button_editor_choice": "\"Featured\"",
-	"dialog_button_create_playlist": "Create playlist",
+	"dialog_button_create_playlist": "Crear lista de reproducción",
 	"cancel": "Cancelar",
 	"ok": "OK",
 	"done": "Done",
 	"retry": "Retry",
-	"delete": "Delete",
+	"delete": "Borrar",
 	"remove": "Remove",
 	"dialog_button_scan_tracks": "Search for music on this device",
 	"dialog_button_login": "Sign in and sync your music",
@@ -211,8 +211,8 @@
 		"other": "${v} songs removed from playlist"
 	},
 	"artist_list_fragment_item_count_format": {
-		"one": "\"1 song\"",
-		"other": "${v} songs"
+		"one": "\"1 canción\"",
+		"other": "${v} canciones"
 	},
 	"select_device": "Select device",
 	"project_device": "Mi Phone",
@@ -281,12 +281,12 @@
 	"no_results_return": "No search results",
 	"list_item_play_FM_radio": "Touch to play FM radio",
 	"baidu_music": "Baidu music",
-	"local_tracks_short": "Offline",
+	"local_tracks_short": "Local",
 	"tab_local_track_list": "Songs",
 	"tab_local_folder_list": "Folders",
 	"folder_songs_count": {
-		"one": "\"1 song\"",
-		"other": "${v} songs"
+		"one": "\"1 canción\"",
+		"other": "${v} canciones"
 	},
 	"song_not_find": "\"This song isn&apos;t available.\"",
 	"empty_page_no_track": "No songs.",
@@ -357,7 +357,7 @@
 	"recommend_fragment_title": "Featured",
 	"channel_list_fragment_title": "Radio",
 	"bill_list_fragment_title": "Charts",
-	"nowplaying_menu_item_delete": "Delete",
+	"nowplaying_menu_item_delete": "Borrar",
 	"similar_songs": "Similar songs",
 	"search_for_artist": "Artist",
 	"search_for_album": "Album",
@@ -400,7 +400,7 @@
 	"list_detail_title": "Detalles",
 	"all_music": "All songs",
 	"all_artist": "All artists",
-	"local_music": "Offline",
+	"local_music": "Local",
 	"tab_track": "Canc.",
 	"tab_artist": "Artist.",
 	"tab_album": "Álbum.",
