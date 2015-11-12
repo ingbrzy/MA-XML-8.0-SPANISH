@@ -245,7 +245,7 @@
 	"no_song_downloaded": "\"Couldn&apos;t connect to server\"",
 	"download_processing": "Downloading\\u2026",
 	"presonal_center": "Account settings",
-	"not_login": "Not signed in",
+	"not_login": "No has iniciado sesión",
 	"download": "Download",
 	"account": "Account",
 	"account_and_cloud": "Account",
