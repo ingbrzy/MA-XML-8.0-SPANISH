@@ -13,6 +13,7 @@
   <string name="action_item_favorite">Favorito</string>
   <string name="action_item_follow">Seguir</string>
   <string name="action_item_hide">Ocultar</string>
+  <string name="action_item_hifi">Auriculares y efectos de audio</string>
   <string name="action_item_multiple">Editar</string>
   <string name="action_item_play_all">Reproducir todo</string>
   <string name="action_item_remove">Quitar</string>
@@ -20,6 +21,7 @@
   <string name="action_item_send">Enviar</string>
   <string name="action_item_share">Compartir</string>
   <string name="add_music">Añadir canciones</string>
+  <string name="alaka_required">Esta canción no está disponible.</string>
   <string name="album_name">Álbum</string>
   <string name="album_search_title">Álbum</string>  
   <string name="all_artist">Todos los artistas</string>
@@ -27,6 +29,7 @@
   <string name="all_tracks">Todas las canciones</string>
   <string name="all_tracks_short">Todo</string>
   <string name="already_download">Descargando…</string>
+  <string name="already_favorited">Ya está en Favoritos</string>
   <string name="artist">Artistas</string>
   <string name="artist_is_empty">El nombre del artista no puede estar vacío.</string>
   <string name="artist_name">Artista</string>
@@ -41,6 +44,7 @@
   <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
   <string name="avoid_to_use_traffic_summary">No usar datos móviles para escuchar música por streaming</string>
   <string name="avoid_to_use_traffic_title">Usar sólo Wi-Fi para streaming de música</string>
+  <string name="back_confirm">Toca otra vez para salir</string>
   <string name="baidu_music">Música de Baidu</string>
   <string name="being_disable_auto_payment">Desactivando…</string>
   <string name="being_enable_auto_payment">Activando…</string>
@@ -62,6 +66,7 @@
   <string name="close_music_time">"Tiempo restante: "</string>
   <string name="cloud_enable">Sincronizar música con Mi Cloud</string>
   <string name="cloud_settings">Ajustes de sincronización</string>
+  <string name="confirm_download">Descargar</string>
   <string name="confirm_to_renew">Renovar</string>
   <string name="cp_info_first">Servicio de streaming provisto por Ultimate Inc.</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
@@ -101,9 +106,6 @@
   <string name="download_auto_after_favorite_title">Descargar favoritas</string>
   <string name="download_auto_cancel">Descargar favoritas está desactivado</string>
   <string name="download_auto_message">"Las canciones que hayas marcado como favoritas se descargarán automáticamente cuando estés conectado a una red Wi-Fi. Puedes cambiar esto en Ajustes."</string>
-  <string name="download_auto_quality_alert_sub_title_for_expired">Tu periodo de prueba o suscripción ha caducado. Por favor, selecciona otra calidad de descarga.</string>
-  <string name="download_auto_quality_alert_sub_title_for_login">Para activar, inicia sesión en tu cuenta Mi ahora.</string>
-  <string name="download_auto_quality_alert_title">Calidad de la descarga de música</string>
   <string name="download_auto_when_all_network">Usar datos móviles y Wi-Fi</string>
   <string name="download_auto_when_free_network">Usar sólo Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Ajustes adicionales para canciones favoritas</string>
@@ -194,7 +196,6 @@
   <string name="group_artist">Bandas</string>
   <string name="handle_later">No ahora</string>
   <string name="headset_settings">Ajustes de auriculares</string>
-  <string name="high_quality">Superior</string>
   <string name="higher_quality_music">Música de alta calidad</string>
   <string name="higher_quality_music_summary">Escuchar y descargar música a mayor tasa de bits</string>
   <string name="home_tab_local">Mi música</string>
@@ -321,7 +322,6 @@
   <string name="online_music_enabled_summary">Escucha y descarga tus canciones favoritas. ¡Consulta las mejores canciones y listas de reproducción recomendadas estés donde estés!</string>
   <string name="online_music_enabled_title">El streaming gratuito está aquí</string>
   <string name="online_playlist_is_empty">La lista de reproducción está vacía</string>
-  <string name="only_online_can_select_quality">Sólo se puede seleccionar la calidad con las canciones reproducidas por streaming</string>
   <string name="order_pending">Esperando confirmación</string>
   <string name="order_process_fail">"No se pudo autorizar tu cuenta. Espera unos minutos y vuelve a intentarlo."</string>
   <string name="page_local_setting">Ajustes</string>
@@ -402,6 +402,7 @@
   <string name="song_is_empty">El nombre de la canción no puede estar vacío.</string>
   <string name="song_name">Canción</string>
   <string name="song_not_find">"La canción no está disponible."</string>
+  <string name="song_offline">Esta canción ya no está disponible.</string>
   <string name="song_unit">elementos</string>
   <string name="sort_by_language">Idioma</string>
   <string name="sort_by_name">Nombre</string>
@@ -469,7 +470,6 @@
   <string name="vip_auto_renew_notification_message">Añade Mi Credits para renovar tu suscripción de Música.</string>
   <string name="vip_auto_renew_notification_title">Pago de suscripción</string>
   <string name="vip_auto_renew_title">Renovación de suscripción</string>
-  <string name="vip_recommend_title">Obtenga música de mayor calidad</string>
   <string name="vip_renew_message">No podrás escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad normal.</string>
   <string name="vip_renew_notification_message">No podrás escuchar música en streaming de alta calidad cuando tu suscripción expire.</string>
   <string name="vip_renew_notification_title">La suscripción expira mañana</string>

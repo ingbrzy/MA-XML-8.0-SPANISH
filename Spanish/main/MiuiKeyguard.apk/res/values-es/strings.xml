@@ -27,8 +27,8 @@
   <string name="input_puk_code">Introducir PUK</string>
   <string name="invalid_confirm_pin_hint">Los PIN no coinciden</string>
   <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, pulse el botón Encendido</string>
-  <string name="lock_screen_date">EEE, d MMMM</string>
-  <string name="lock_screen_date_12">EEE, d MMMM</string>
+  <string name="lock_screen_date">EEEE, d MMMM</string>
+  <string name="lock_screen_date_12">EEEE, d MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Patrón añadido</string>
   <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
   <string name="lockscreen_access_pattern_detected">Patrón completado</string>
@@ -52,6 +52,7 @@ Inténtelo de nuevo en %d segundos."</string>
   <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %s minutos</string>
   <string name="phone_locked_timeout_seconds_string">Inténtelo de nuevo en %s segundos</string>
+  <string name="set_lock_wallpaper_failed">Sin nuevo fondo de pantalla</string>
   <string name="unlock_sim_string">Desbloquear SIM</string>
   <string name="unlock_string">Desbloquear</string>
   <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>

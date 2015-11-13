@@ -24,7 +24,9 @@
      <string name="activity_title_power_manager">Uso de batería</string>
      <string name="activity_title_risk">Riesgos</string>
      <string name="activity_title_risk_detail">Detalles de riesgos</string>
+	 <string name="activity_title_root_acquired">Permitir acceso root</string>
      <string name="activity_title_root_manager">Acceso root</string>
+	 <string name="activity_title_root_note">Sobre el acceso root</string>
      <string name="activity_title_settings">Ajustes</string>
      <string name="activity_title_system">Sistema</string>
      <string name="activity_title_trash">Caché</string>
@@ -303,6 +305,7 @@
      <string name="permission_send_sms_descx">Aplicaciones pueden enviar mensajes SMS y MMS</string>
      <string name="permission_with_SMS_and_MMS">Permisos relativos a SMS y MMS</string>
      <string name="permission_with_call_and_contact">Permisos relativos a llamadas de teléfono, información de contactos y registro de llamadas.</string>
+	 <string name="pm_root_success_notification_title">Acceso root habilitado</string>
      <string name="power_20s_enter_mode">Cuando la batería esté en %1$ds cambiar a %2$s</string>
      <string name="power_20s_shutdown">Apagado en 20 segundos</string>
      <string name="power_apply_toast">Cambiado a %s</string>
@@ -483,6 +486,7 @@
 	 <string name="preferred_app_entries_music">Música</string>
      <string name="process_kernel_label">Android</string>
      <string name="process_mediaserver_label">Servidor de medios</string>
+	 <string name="prompt_input_time_illegal">No se puede establecer esta hora, cámbiala e intenta de nuevo</string>
      <string name="protection_category_dangerous_title">Riesgos (%d)</string>
      <string name="protection_category_recommend_title">Cambios recomendados (%d)</string>
      <string name="protection_category_security_title">Limpio (%d)</string>

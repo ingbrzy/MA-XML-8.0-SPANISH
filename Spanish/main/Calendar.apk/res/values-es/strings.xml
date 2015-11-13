@@ -151,6 +151,7 @@
   <string name="gadget_no_events">No hay eventos de calendario próximos</string>
   <string name="gadget_title">Calendario</string>
   <string name="goto_today">Hoy</string>
+  <string name="guide_card_hint_text">Tocar para abrir Mi Cloud</string>
   <string name="hide_controls">Ocultar controles</string>
   <string name="hint_attendees">Invitados</string>
   <string name="hint_description">Descripción</string>
@@ -158,6 +159,8 @@
   <string name="hint_where">Ubicación</string>
   <string name="huangli_bad_type">Evitar</string>
   <string name="huangli_good_type">Yo</string>
+  <string name="internet_connection_notification">Notificación de conexión a internet</string>
+  <string name="internet_connection_notification_descrip">Mostrar notificación de conexión a internet cada vez que abres Calendario</string>
   <string name="jump_date">Ir a</string>
   <string name="jump_date_full">Ir a fecha</string>
   <string name="label_recent_events">Eventos recientes</string>
@@ -202,11 +205,14 @@
   <string name="no_title_label">(Sin título)</string>
   <string name="not_exist_topic_list">No se puede obtener una lista de calendario suscrito</string>
   <string name="not_synced">no sincronizado</string>
+  <string name="notice_button_exit">Salir</string>
   <string name="notice_button_ok">Aceptar</string>
+  <string name="notice_declaration_ignore">No mostrar de nuevo</string>
+  <string name="notice_title_agreement">Conexión a internet</string>
   <string name="notice_title_agreement">Términos de Servicio</string>
   <string name="notice_title_request">Petición</string>
   <string name="online_calendar_activity_label">Sincronizar el calendario</string>
-  <string name="online_notice_message">"Al usar este produco, aceptas estar de acuerdo con nuestro %1$s y %2$s. Esta aplicación necesita conectarse a internet para funcionar con normalidad."</string>
+  <string name="online_notice_message">"Al usar este producto, aceptas los %1$s y %2$s de Xiaomi. Algunas características requieren una conexión a internet para funcionar con normalidad."</string>
   <string name="online_reminder_change_text">Modificar recordatorio</string>
   <string name="online_reminder_header_text">Recordar</string>
   <string name="online_reminder_minutes_text">Hora de recordatorio</string>

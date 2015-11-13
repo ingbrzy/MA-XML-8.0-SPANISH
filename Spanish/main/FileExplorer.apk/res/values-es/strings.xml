@@ -40,7 +40,7 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_error">No se pudieron quitar, intenta de nuevo</string>
   <string name="cancel_operation">Cancelar operación</string>
-  <string name="cancel_success">"Quitados correctamente, todos los ficheros fueron movidos a sdcard/fileexplorer/decryption"</string>
+  <string name="cancel_success">Quitados correctamente, todos los ficheros fueron movidos a %s</string>
   <string name="cancelled_by_user">Operación cancelada</string>
   <string name="category">Categorías</string>
   <string name="category_all">Todo</string>
@@ -119,7 +119,7 @@
   <string name="dialog_type_image">Imágenes</string>
   <string name="dialog_type_text">Documentos</string>
   <string name="dialog_type_video">Vídeos</string>
-  <string name="dir_not_support">Esta carpeta no se puede hacer privada.</string>
+  <string name="dir_not_support">No se puede ocultar esta carpeta.</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Vacío</string>
   <string name="dlg_error_unmount_text">No se ha podido desmontar el almacenamiento USB.</string>
@@ -130,9 +130,9 @@
   <string name="downloading">Descargando</string>
   <string name="downloading_in_3g">Descargando por 3G…</string>
   <string name="enable_sd_card">Insertar la tarjeta SD o desactivar el almacenamiento masivo USB.</string>
-  <string name="encrypt_error">No se pudieron hacer privados los ficheros, intenta de nuevo</string>
-  <string name="encrypt_prefix">PRIVADO</string>
-  <string name="encrypt_success">Todos los ficheros fueron hechos privados</string>
+  <string name="encrypt_error">No se pudieron ocultar los ficheros, intenta de nuevo</string>
+  <string name="encrypt_prefix">OCULTO</string>
+  <string name="encrypt_success">Todos los ficheros se ocultaron</string>
   <string name="encrypting">Encriptando…</string>
   <string name="error_filename_too_long">El nombre de archivo introducido es demasiado largo.</string>
   <string name="error_info_cant_send_folder">"No se puede enviar este tipo de archivo."</string>
@@ -219,7 +219,7 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="local_video">Vídeo</string>
   <string name="login_reg_content">Almacene archivos y sincronícelos en múltiples dispositivos.</string>
   <string name="login_reg_content0">Use KuaiPan desde cualquier parte.</string>
-  <string name="make_private">Hacer privado</string>
+  <string name="make_private">Ocultar</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Limpiar</string>
   <string name="menu_item_ftp">FTP</string>
@@ -276,12 +276,8 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="network_spent_reminding_title">Notificación de uso de datos</string>
   <string name="never_notify_network_connect">"Recordar preferencia"</string>
   <string name="new_folder_name">Carpeta sin nombre</string>
-  <string name="new_function">Sobre carpetas privadas</string>
-  <string name="new_function_info">"Carpeta privada es una nueva característica de MIUI.
-Puedes encriptar tus ficheros y guardarlos en
-un lugar seguro.
-
-Tira en la pantalla principal para descubrirlo."</string>
+  <string name="new_function">Carpetas ocultas</string>
+  <string name="new_function_info">Para crear una carpeta oculta, tira hasta el final de la pantalla desde la primera fila de iconos de la página de inicio del explorador de archivos.</string>
   <string name="new_function_str">"Las pegatinas de WeChat pueden recogerse automáticamente ahora.
 Descárgalas cuando quieras
 y no te pierdas nunca las más nuevas y mejores"</string>
@@ -311,15 +307,15 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="notification_title">Notificar cuando se añadan nuevos ficheros a %1$s</string>
   <string name="notification_wechat_expired_empty">WeChat ya ha borrado estos vídeos.</string>
   <string name="notification_wechat_title">Notificaciones de vídeos WeChat</string>
-  <string name="notify_private_folder_msg">Toca para saber más sobre las carpetas privadas.</string>
-  <string name="notify_private_folder_title">Protege tus ficheros personales</string>
+  <string name="notify_private_folder_msg">Toca para saber más.</string>
+  <string name="notify_private_folder_title">Crear carpetas ocultas</string>
   <string name="online_not_support">No se puede ver este fichero online por el momento.</string>
   <string name="open_changed_file_message">"El archivo que estás intentando abrir ha sido modificado. Por favor:
 1. Descargar el archivo de nuevo para actualizarlo.
 2. Subirlo a tu cuenta de KuaiPan"</string>
   <string name="open_changed_file_title">Cambio aplicado.</string>
   <string name="open_file_failed">No se puede abrir</string>
-  <string name="open_private_folder">Creando una carpeta privada…</string>
+  <string name="open_private_folder">Creando una carpeta oculta…</string>
   <string name="operate_confirm_in_3g">¿Usar conexión de datos móviles para descargar este archivo grande?</string>
   <string name="operating">Procesando…</string>
   <string name="operation_add_fav">Añadiendo a favoritos…</string>
@@ -362,17 +358,17 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="operation_show_sys">Mostrar archivos ocultos</string>
   <string name="operation_unfavorite">No favorito</string>
   <string name="pan_settting">Configuración de KuaiPan</string>
-  <string name="partial_cancel_successful">"No se pudieron quitar algunos ficheros. El resto fueron movidos a sdcard/fileexplorer/decryption"</string>
+  <string name="partial_cancel_successful">No se pudieron quitar algunos ficheros. El resto fueron movidos a %s.</string>
   <string name="partial_delete_failure">No se pudieron eliminar algunos ficheros, intenta de nuevo</string>
-  <string name="partial_encrypt_success">No se pudieron hacer privados algunos ficheros, intenta de nuevo</string>
+  <string name="partial_encrypt_success">No se pudieron ocultar algunos ficheros, intenta de nuevo</string>
   <string name="partial_repair_done">Algunos ficheros se restauraron correctamente</string>
   <string name="paused">En pausa</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Teléfono</string>
   <string name="pick_folder">Elegir carpeta</string>
   <string name="port_range">El puerto debe estar entre 1024 y 65535</string>
-  <string name="private_files">Privados</string>
-  <string name="private_folder">Carpeta privada</string>
+  <string name="private_files">Ocultos</string>
+  <string name="private_folder">Carpeta oculta</string>
   <string name="promot_enctypt_password">Introduce la contraseña utilizada para desbloquear tu dispositivo o apagar el Modo niño</string>
   <string name="pull_to_signin">Deslizar hacia abajo para registrarte.</string>
   <string name="qq_not_installed">QQ no está instalado</string>
@@ -491,7 +487,7 @@ Espacio gratuito añadido %1$s"</string>
   <string name="tools">HERRAMIENTAS</string>
   <string name="trans_task">Transferencia por red</string>
   <string name="transfer_done">Ficheros movidos correctamente.</string>
-  <string name="transfer_private_data">Moviendo ficheros privados a la tarjeta SD…</string>
+  <string name="transfer_private_data">Moviendo carpetas ocultas de la tarjeta SD…</string>
   <string name="transing">Enviando</string>
   <string name="trash_box_capacity">Papelera de reciclaje %1$s</string>
   <string name="trash_box_link">Para vaciar la papelera, visite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
@@ -536,5 +532,5 @@ Espacio gratuito añadido %1$s"</string>
   <string name="xiaomi_account">Cuenta Mi</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Sí</string>
-  <string name="yesterday">ayer</string>
+  <string name="yesterday">Ayer</string>
 </resources>

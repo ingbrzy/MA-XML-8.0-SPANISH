@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_call_livetalk_enable">Usando paquetes de recarga para llamadas nacionales e internacionales</string>
-  <string name="all_call_livetalk_remain_mins">Minutos restantes:: %1$s nacional | %2$s internacional</string>
+  <string name="all_call_livetalk_remain_mins">Minutos restantes:: %1$s nacional ó %2$s internacional</string>
   <string name="alwaysUsePrompt">"No mostrar de nuevo"</string>
   <string name="apply_password_action">Establecer contraseña</string>
   <string name="apply_password_confirm_dlg_msg">¿Solicitar contraseña para %s​?</string>
@@ -16,6 +16,9 @@
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
   <string name="enable_livetalk">Habilitar recarga de paquete</string>
+  <string name="default_name">Defecto</string>
+  <string name="enable_livetalk_summary">¥ 0.05 por minuto para llamadas domésticas</string>
+  <string name="enable_livetalk_title">Activar recarga de paquete</string>
   <string name="fc_dialog_body">¿Enviar error a Mi para su análisis? Este informe puede contener información personal. Tu informe será usado para ayudar a arreglar el error y nunca será compartido en un contexto comercial.</string>
   <string name="fc_dialog_jump_to_preview">Ver sumario</string>
   <string name="first_back_long_press_message">"Pulse y mantenga Atrás para finalizar el proceso actual y sus servicios en segundo plano.
@@ -28,10 +31,15 @@ Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Apagar</string>
   <string name="global_actions_silent_mode">Modo silencio</string>
+  <string name="group_name_contacts">Contactos</string>
+  <string name="group_name_coworkers">Compañeros</string>
+  <string name="group_name_family">Familia</string>
+  <string name="group_name_friends">Amigos</string>
   <string name="handy_mode_enter_dlg_msg">¿Activar modo operación con una mano?</string>
   <string name="handy_mode_enter_dlg_title">Operación con una mano</string>
   <string name="handy_mode_summary">Para cerrar pulse en un espacio vacío de la pantalla</string>
   <string name="handy_mode_title">Operación con una mano</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Pón tu dedo en el botón Home</string>
   <string name="internal_livetalk_enable">Usando paquetes de recarga para llamadas nacionales</string>
   <string name="internal_remain_mins">%1$s minutos restantes (nacional)</string>
   <string name="international_livetalk_enable">Usando paquetes de recarga para llamadas internacionales</string>
@@ -43,6 +51,7 @@ Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
   <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
   <string name="lockscreen_access_pattern_detected">Patrón completado</string>
   <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
+  <string name="maml_component_customization_title">Ajustes</string>
   <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
   <string name="memory_clear_result">limpiados %1$sB  |  %2$sB disponibles</string>
   <string name="miui">miui</string>
@@ -52,6 +61,7 @@ Para activar esta función, vaya a Ajustes &gt; Sistema &gt; Botones"</string>
   <string name="reboot_info_shutdown_alarm">El teléfono se reiniciará y sonará la alarma a las %s</string>
   <string name="reboot_progress">Reiniciando…</string>
   <string name="replace">Reemplazar</string>
+  <string name="resource_select">Seleccionar</string>
   <string name="screen_button_disabled_message">Botones de navegación desactivados. Para volver a activar, pulse Home y el botón de encendido simultáneamente.</string>
   <string name="screen_button_enabled_message">Botones de navegación activados.</string>
   <string name="screen_button_notification_text">Para activarlos pulse Home y el botón de encendido simultáneamente.</string>

@@ -17,6 +17,7 @@
   <string name="alter_message_switch_mode_message">Cuando cambies modos, tus ajustes previos dejarán de usarse en esta aplicación.</string>
   <string name="app_frozen_app_list_summary">Aplicaciones en segundo plano</string>
   <string name="app_list_title">Elegir aplicaciones</string>
+  <string name="app_list_total">%d aplicaciones</string>
   <string name="app_name">Ahorro de batería</string>
   <string name="background">Aplicación funcionando en segundo plano</string>
   <string name="config_custom_description">Si las configuraciones sugeridas no cumplen tus necesidades, puedes personalizarlas</string>
@@ -74,6 +75,10 @@
   <string name="power_config_cpu_mode_title">Modo de CPU</string>
   <string name="power_config_data_connect_summary">Permitir a las aplicaciones conectarse a la red en segundo plano</string>
   <string name="power_config_data_connect_title">Conexión de datos</string>
+  <string name="power_config_disable_description">MIUI Deshabilitar</string>
+  <string name="power_config_disable_title">Deshabilitar</string>
+  <string name="power_config_enhance_description">MIUI Mejorar</string>
+  <string name="power_config_enhance_title">Mejorar</string>
   <string name="power_config_event_delete">Borrar</string>
   <string name="power_config_idle_notification_summary">Mostrar sólo la primera notificación de la aplicación</string>
   <string name="power_config_idle_notification_title">Mostrar sólo primera notificación</string>
@@ -83,11 +88,16 @@
   <string name="power_config_lcd_mode_title">Modo LCD</string>
   <string name="power_config_location_summary">Permitir a la aplicación ver tu localización</string>
   <string name="power_config_location_title">Acceso a localización</string>
+  <string name="power_config_mode_title">Modo</string>
+  <string name="power_config_normal_description">Normal MIUI</string>
+  <string name="power_config_normal_title">Normal</string>
   <string name="power_config_phone_charging_title">Cargando</string>
   <string name="power_config_phone_idle_title">Inactivo</string>
   <string name="power_config_select_apps_empty">Toca para seleccionar aplicaciones</string>
   <string name="power_config_select_apps_title">Aplicaciones</string>
   <string name="power_config_title">Ajustes</string>
+  <string name="power_config_ultimate_description">MIUI Extremo</string>
+  <string name="power_config_ultimate_title">Extremo</string>
   <string name="power_configure_screen_brightness_enable">Establecer brillo de pantalla</string>
   <string name="power_customize_giveup_change">¿Descartar cambios?</string>
   <string name="power_dialog_cancel">Cancelar</string>

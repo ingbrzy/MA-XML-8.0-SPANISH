@@ -254,6 +254,8 @@
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mensajes en la nube</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
+  <string name="msg_type_hint_mx_b2c">Notificación de red</string>
+  <string name="msg_type_hint_mx_b2c_omit">Notificación de red</string>
   <string name="msg_type_hint_sms">Mensaje de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Desilize abajo para leer más</string>
@@ -282,6 +284,8 @@
   <string name="mx_auto_resend_sms">Enviar como MMS</string>
   <string name="mx_auto_resend_sms_summary">"Se envia como MMS mediante conexión de datos móviles cuando no estás conectado a Wi-Fi (se aplican cargos normales por el uso de datos)."</string>
   <string name="mx_b2c_message_desc">Notificaciones de red</string>
+  <string name="mx_b2c_message_resend_not_online">No se puede reenviar el mensaje. Mi Message está fuera de línea.</string>
+  <string name="mx_b2c_message_server">Servidor</string>
   <string name="mx_btn_enable">Activar</string>
   <string name="mx_btn_enable_now">Activar</string>
   <string name="mx_count_dspt">"Has enviado %1$d SMS y %2$d MMS"</string>

@@ -116,6 +116,17 @@
   <string name="open_now">Activar</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pausar</string>
+  <string name="pm_root_acquired_button">Acceso root</string>
+  <string name="pm_root_acquired_notification_title">Obteniendo acceso root</string>
+  <string name="pm_root_acquired_rooting">Obteniendo acceso root %s</string>
+  <string name="pm_root_checking">Comprobando información del sistema…</string>
+  <string name="pm_root_fail_button_retry">Reintentar</string>
+  <string name="pm_root_fail_msg">Esta aplicación no pudo obtener acceso root. Intenta de nuevo.</string>
+  <string name="pm_root_fail_service_busy">Espera hasta que el dispositivo haya terminado de actualizarse e intenta de nuevo.</string>
+  <string name="pm_root_fail_title">No se pudo obtener el acceso root</string>
+  <string name="pm_root_notification_download_title">Descargando</string>
+  <string name="pm_root_success_msg">Reinicia tu dispositivo para completar el último paso.</string>
+  <string name="pm_root_success_title">Acceso root habilitado</string>
   <string name="previous">Anterior</string>
   <string name="progress_title_checking">Comprobando actualizaciones…</string>
   <string name="reboot">Reiniciar</string>
@@ -128,6 +139,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_power_not_enough_msg_plugged">La batería debe tener más del 15% para actualizar el dispositivo</string>
   <string name="recovery_power_not_enough_title">Batería baja</string>
   <string name="repeat">Reintentar</string>
+  <string name="root_acquired">Permitir acceso root</string>
+  <string name="root_agree_check_box_title">Entiendo los riesgos del acceso root</string>
+  <string name="root_dangerous_msg">Permitir el acceso root es extremadamente peligroso y puede exponer tu dispositivo y tus datos personales a aplicaciones maliciosas. Aceptas que eres el único responsable del daño y la pérdida de datos que puede sufrir tu dispositivo debido a permitir el acceso root.</string>
   <string name="set_auto">Buscar actualizaciones automáticamente</string>
   <string name="set_auto_msg">Descargar actualizaciones automáticamente cuando esté conectado con Wi-Fi.</string>
   <string name="set_auto_update_title">Descargar actualizaciones automáticamente</string>
@@ -136,6 +150,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_installfail_title">¿Quiere intentar la descarga de nuevo?</string>
   <string name="set_installfail_title_full">Actualización fallida</string>
   <string name="set_network_msg">Conéctese mediante Wi-Fi antes de descargar esta actualización.</string>
+  <string name="set_network_root_msg">Para obtener acceso root, conéctate a una red Wi-Fi.</string>
   <string name="set_network_title">Conectar a Wi-Fi</string>
   <string name="set_only_wifi">Sólo con Wi-Fi</string>
   <string name="share">Compartir</string>
@@ -187,7 +202,9 @@ Pero podrás participar de nuevo el próximo martes."</string>
   <string name="update_success_title">Dispositivo actualizado</string>
   <string name="updater_nolog">No hay resumen de la actualización</string>
   <string name="updater_nonetwork">No se puede conectar a la red</string>
-  <string name="updater_nonetwork_clause">"No se puede conectar a la red"</string>
+  <string name="updater_nonetwork_clause">No se puede conectar a la red</string>
+  <string name="updater_service_busy_msg">Esta aplicación usa el servicio Actualizador para obtener acceso root para los ficheros fuente requeridos.</string>
+  <string name="updater_service_busy_title">El servicio Actualizador está ocupado</string>
   <string name="upgrade_close">Cerrar</string>
   <string name="upgrade_kernel">El kernel del sistema está obsoleto</string>
   <string name="upgrade_kernel_msg">"La versión del kernel que estás utilizando no coincide con la última versión de MIUI. Es necesario actualizar la versión del kernel manualmente. Diríjase al tutorial de actualización de Xiaomi: 

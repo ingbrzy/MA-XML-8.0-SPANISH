@@ -212,7 +212,10 @@ Para activar su cuenta, siga el enlace
   <string name="passport_license_host_unreachable">"No se puede conectar a la red. Puede ver esta página en %s."</string>
   <string name="passport_loading">Cargando…</string>
   <string name="passport_login">Iniciar sesión con una cuenta existente</string>
-  <string name="passport_login_failed">"No se puede iniciar sesión"</string>
+  <string name="passport_login_check_find_device">Comprobando status de Encontrar dispositivo…</string>
+  <string name="passport_login_check_find_device_failed">No se pudo comprobar el status de Encontrar dispositivo. Comprueba tu conexión de red.</string>
+  <string name="passport_login_failed">No se puede iniciar sesión</string>
+  <string name="passport_login_find_device_bind">Este dispositivo está asociado con el ID de la cuenta Mi existente (%s). Inicia sesión para activar este dispositivo.</string>
   <string name="passport_login_instead_reg">Usar este número</string>
   <string name="passport_login_instead_reg_with_email">Usar este Email</string>
   <string name="passport_login_notice">Iniciando sesión…</string>
@@ -288,7 +291,7 @@ Para activar su cuenta, siga el enlace
   <string name="passport_wrong_password">Contraseña incorrecta</string>
   <string name="passport_wrong_phone_number_format">El formato del número de teléfono que ha introducido no es válido</string>
   <string name="passport_wrong_vcode">El código que ha introducido es incorrecto</string>
-  <string name="passport_xiaomi_account_dspt">Utilice su cuenta Mi para iniciar sesión desde cualquier parte en Mi Cloud, MIUI Theme Store y otros servicios Mi.</string>
+  <string name="passport_xiaomi_account_dspt">Utiliza tu cuenta Mi para iniciar sesión desde cualquier parte en Mi Cloud, MIUI Theme Store y otros servicios Mi.</string>
   <string name="passport_xiaomi_account_sec_dspt2">Necesita una conexión a internet para iniciar sesión con su cuenta Mi. Además, se encenderán automáticamente el acceso a la localización, Mi Cloud y Mi VIP.</string>
   <string name="password">Introduzca su contraseña</string>
   <string name="phone_activated">%s activado</string>

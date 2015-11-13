@@ -209,7 +209,7 @@ Asegúrate de que tu dedo cubre la parte interior del sensor</string>
      <string name="applications_settings_summary">Organizar aplicaciones, establecer accesos directos</string>
 	 <string name="apply_fingerprint_to_category_title">Aplicar huella a…</string>
      <string name="apply_now_button_text">Actualizar</string>
-	 <string name="apply_password_to_category_title">Aplicar contraseña a…</string>
+	 <string name="apply_password_to_category_title">Requerir contraseña</string>
      <string name="apply_update_fail">Fallo de actualización del sistema.</string>
      <string name="apps_with_restrictions_header">Aplicaciones con restricciones</string>
      <string name="apps_with_restrictions_settings_button">Expandir ajustes de la aplicación</string>
@@ -588,8 +588,10 @@ Asegúrate de que tu dedo cubre la parte interior del sensor</string>
      <string name="cell_broadcast_settings_summary">Seleccione los tipos de alertas de emergencia para mostrar</string>
      <string name="change_password">Cambiar contraseña</string>
      <string name="change_security_lock">Probar otras formas de desbloqueo</string>
+	 <string name="check_find_device_status_failure_confirm">Aceptar</string>
      <string name="check_update">Comprobar actualizaciones</string>
      <string name="checkbox_notification_same_as_incoming_call">Utilizar el volumen de llamadas entrantes para las notificaciones</string>
+	 <string name="checking_find_device_status">Comprobando status de Encontrar dispositivo…</string>
      <string name="checking_for_updates">Comprobando actualizaciones…</string>
      <string name="children_mode_enable_title">Modo niño</string>
      <string name="children_mode_set_apps_title">Aplicaciones accesibles</string>
@@ -1036,7 +1038,11 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
      <string name="external_code_size_label">En almacenamiento USB</string>
      <string name="external_data_size_label">Tarjeta SD</string>
      <string name="factory_reset_summary">"Eliminar todos los datos del almacenamiento interno del teléfono"</string>
+	 <string name="failed_to_check_find_device_status_content">No se pudo comprobar el status de Encontrar dispositivo. Espera un minuto o dos y vuelve a intentar.</string>
+	 <string name="failed_to_check_find_device_status_title">No se pudo comprobar el status de Encontrar dispositivo</string>
      <string name="failed_to_open_app_settings_toast">No se pudieron abrir los ajustes para %1$s</string>
+	 <string name="failed_to_shut_down_find_device_content">No se pudo apagar Encontrar dispositivo. Espera un minuto o dos y vuelve a intentar.</string>
+	 <string name="failed_to_shut_down_find_device_title">No se pudo apagar Encontrar dispositivo</string>
      <string name="fcc_equipment_id">ID de equipo</string>
      <string name="filter">Filtro</string>
      <string name="filter_apps_all">Todas</string>
@@ -2206,6 +2212,7 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
      <string name="security_keyguard_category_name">Pantalla de bloqueo</string>
      <string name="security_password_category_name">Bloqueo de pantalla</string>
      <string name="security_passwords_title">Contraseña</string>
+	 <string name="security_patch">Nivel de parcheo de seguridad de Android</string>
      <string name="security_privacy_settings_title">Seguridad</string>
      <string name="security_relative">Seguridad relacionada</string>
      <string name="security_settings_billing_desc">Esta aplicación puede cobrarle dinero:</string>
@@ -2279,6 +2286,10 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
      <string name="show_touches">Mostrar pulsaciones</string>
      <string name="show_touches_summary">Mostrar ubicación de pulsaciones en pantalla</string>
      <string name="show_user_info_on_lockscreen_label">Mostrar información de usuario en pantalla de bloqueo</string>
+	 <string name="shut_down_find_device_failure_confirm">Aceptar</string>
+	 <string name="shut_down_find_device_network_failure_content">No se pudo apagar Encontrar dispositivo. Asegúrate de que tu dispositivo está conectado a internet.</string>
+	 <string name="shut_down_find_device_network_failure_title">No se puede conectar a la red</string>
+	 <string name="shuting_down_find_device">Apagando Encontrar dispositivo…</string>
      <string name="silent_mode_title">Modo silencio</string>
      <string name="sim_bad_pin">PIN incorrecto</string>
      <string name="sim_change_failed">"No se puedo cambiar PIN.
@@ -2391,7 +2402,7 @@ Una credencial de confianza instalada hace esto posible."</string>
 	 <string name="status_bar_settings_show_floating_notification_summary">Las notificaciones flotantes desaparecerán automáticamente después de mostrarse en la parte superior de la pantalla</string>
 	 <string name="status_bar_settings_show_flow_info">Mostrar detalles de flujo</string>
      <string name="status_bar_settings_show_home_message">Mostrar en icono de aplicación</string>
-     <string name="status_bar_settings_show_keyguard_notification">Pantalla de bloqueo</string>
+     <string name="status_bar_settings_show_keyguard_notification">Notificaciones de pantalla de bloqueo</string>
      <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
      <string name="status_bar_settings_show_notification_icon">Mostrar iconos de notificación</string>
      <string name="status_bar_settings_show_screenshot_notification">Mostrar notificación de captura</string>
@@ -2778,7 +2789,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
      <string name="virus_scanner_auto_update">Actualizar automáticamente</string>
      <string name="virus_scanner_date_formater">dd MMM AAAA</string>
      <string name="virus_scanner_lib_already_latest">"Está usando las definiciones más actuales"</string>
-     <string name="virus_scanner_lib_update_failed">Falló actualización</string>
+     <string name="virus_scanner_lib_update_failed">No se pudo actualizar</string>
      <string name="virus_scanner_lib_updating">Actualizando definiciones…</string>
      <string name="virus_scanner_manual_update">Actualizados %s</string>
      <string name="virus_scanner_provider">Definición brindada por %s</string>
@@ -3183,7 +3194,7 @@ La configuración del teléfono puede necesitar gran tráfico de datos."</string
      <string name="wifi_wapi_cert_mgmt_as_dont_exist">La tarjeta SD no tiene un certificado AS.</string>
      <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">El formato del certificado AS es incorrecto.</string>
      <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introduzca nombre de certificado AS</string>
-     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Error al crear directorio.</string>
+     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">No se pudo crear la carpeta.</string>
      <string name="wifi_wapi_cert_mgmt_subdir_exist">Ya existe un directorio con ese nombre.</string>
      <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzca nombre de directorio</string>
      <string name="wifi_wapi_cert_mgmt_titlebar">Administración de Certificados WAPI</string>

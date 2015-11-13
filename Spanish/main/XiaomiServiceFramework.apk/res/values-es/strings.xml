@@ -9,8 +9,15 @@
   <string name="activate_feature_find_device">Encontrar dispositivo</string>
   <string name="activate_feature_mms_sync">Sincronizar mensajes</string>
   <string name="activate_feature_mx">Mensajería gratuita en la nube</string>
-  <string name="activate_phone_failed_notif_title">"Error en la activación del servicio MiCloud"</string>
-  <string name="activate_phone_failed_notif_title_msim">"No se puede iniciar MiCloud para la SIM %s"</string>
+  <string name="activate_feature_mx_and_voip">Mi Message y Voz</string>
+  <string name="activate_feature_register_xiaomi_account">Configuración de cuenta Mi</string>
+  <string name="activate_feature_verify_mx_token">Verificación de cuenta Mi</string>
+  <string name="activate_phone_cancel_notif_title">Activación de tarjeta SIM cancelada</string>
+  <string name="activate_phone_cancel_notif_title_msim">Activación de tarjeta SIM %s cancelada</string>
+  <string name="activate_phone_failed_notif_title">Error en la activación del servicio Mi Cloud</string>
+  <string name="activate_phone_failed_notif_title_msim">No se puede iniciar Mi Cloud para la SIM %s</string>
+  <string name="activate_phone_success_notif_title">Tarjeta SIM activada</string>
+  <string name="activate_phone_success_notif_title_msim">Tarjeta SIM %s activada</string>
   <string name="activate_popup_confirm_failed_phone_error">Reintentar</string>
   <string name="activate_popup_confirm_failed_query_info">Reintentar</string>
   <string name="activate_popup_confirm_failed_receive_sms">Reintentar</string>
@@ -57,6 +64,7 @@
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"No se pudo recuperar el número de teléfono"</string>
   <string name="activate_status_desc_checking_xiaomi_account">Verificación de la cuenta Mi</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Se ha producido un error en la verificación de su cuenta Mi</string>
+  <string name="activate_status_desc_completed_with_sms_sent">Enviado SMS para activar SIM</string>
   <string name="activate_status_desc_failed_getting_gateway">"No se pudo recuperar la pasarela SMS"</string>
   <string name="activate_status_desc_getting_gateway">Recibiendo pasarela SMS</string>
   <string name="activate_status_desc_getting_sim_info">Obtener información de la tarjeta SIM</string>
