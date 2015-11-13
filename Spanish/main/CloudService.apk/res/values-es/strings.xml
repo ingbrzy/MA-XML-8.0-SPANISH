@@ -62,9 +62,11 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="contact">Contactos</string>
   <string name="deskclock_backup">Copia de seguridad del reloj</string>
   <string name="disable_find_device_error">No se puede desactivar la búsqueda del dispositivo. %1$s</string>
+  <string name="disable_find_device_success">Encontrar dispositivo apagado.</string>
   <string name="enableAll">Sincronizar todo</string>
   <string name="enable_cloud_service_notification">No tiene activada Mi Cloud</string>
   <string name="enable_find_device_error">No se puede activar la búsqueda del dispositivo. %1$s</string>
+  <string name="enable_find_device_success">Encontrar dispositivo encendido.</string>
   <string name="enable_micloud">Inicia sesión o crea una cuenta</string>
   <string name="enable_sync">Activar</string>
   <string name="enable_sync_dspt">La sincronización está desactivada</string>
@@ -89,17 +91,20 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="find_device_dspt_provision_4">Si cambia de tarjetas SIM, se enviará automáticamente un mensaje SMS para reactivar esta función.</string>
   <string name="find_device_enabling">Encendiendo…</string>
   <string name="find_device_error_network">Compruebe su conexión de datos y vuelva a intentarlo.</string>
+  <string name="find_device_error_password_changed">La contraseña de la cuenta se ha cambiado recientemente.</string>
   <string name="find_device_error_server">Algo falló en nuestros servidores.</string>
-  <string name="find_device_noise_title">Localizar el sonido del dispositivo</string>
+  <string name="find_device_error_unknown">Error desconocido.</string>
   <string name="find_device_notice_p1">Vaya a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear, o borrar su teléfono.
 Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar esta función."</string>
+  <string name="find_device_reading_status">Cargando status…</string>
+  <string name="find_device_reading_status_failure">No se pudo cargar el status.</string>
   <string name="find_device_send_sms_alert">Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar el servicio.</string>
   <string name="find_device_status_ok">Encuentre su dispositivo desde cualquier lugar en i.mi.com</string>
   <string name="find_device_status_ok_international">Encuentre su dispositivo desde cualquier lugar en www.mi.com/micloud</string>
-  <string name="find_device_stop_noise">Toca Aceptar para silenciar</string>
   <string name="find_device_success_title">Encontrar dispositivo</string>
+  <string name="forget_password"><u>Olvidé la contraseña</u></string>
   <string name="free_space_has_received">Ya ha recibido espacio Gratis este mes</string>
   <string name="free_space_receive_fail">"No se puede actualizar o ya ha sido actualizado"</string>
   <string name="get_first_month_gb">Obtener %s espacio gratis por primera vez</string>
@@ -111,6 +116,7 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar es
   <string name="header_data_and_synchronization">Datos y sincronización</string>
   <string name="header_other_settings">Otros</string>
   <string name="i_know">Aceptar</string>
+  <string name="input_password_hint">Introducir contraseña</string>
   <string name="license_host_unreachable">"No se pudo conectar a la red. Para ver esta información ahora, vaya a %s."</string>
   <string name="loading">Cargando</string>
   <string name="loading_hint">Cargando</string>
@@ -122,6 +128,8 @@ Si cambia de tarjeta SIM se enviará otro SMS automáticamente para reactivar es
   <string name="micloud_all_sub_1_sms_1_intl_sms">"Se enviarán dos SMS (normal e internacional) para activar tu tarjeta SIM. Tu operador te cobrará. Cuando enciendas 'Buscar dispositivo', puede que se envíe un SMS de activación después de que hayas cambiado la tarjeta SIM."</string>
   <string name="micloud_all_sub_2_intl_sms">"Se enviarán dos SMS internacionales para activar tu tarjeta SIM. Tu operador te cobrará. Cuando enciendas 'Buscar dispositivo', puede que se envíe un SMS de activación después de que hayas cambiado la tarjeta SIM."</string>
   <string name="micloud_all_sub_2_sms">"Se enviarán dos SMS normales para activar tu tarjeta SIM. Tu operador te cobrará. Cuando enciendas 'Buscar dispositivo', puede que se envíe un SMS de activación después de que hayas cambiado la tarjeta SIM."</string>
+  <string name="micloud_battery_low_notification_message">Conectar el cargador para sincronizar</string>
+  <string name="micloud_battery_low_notification_title">Batería baja</string>
   <string name="micloud_buy_member">Cuenta</string>
   <string name="micloud_check_sim_notify_text">"Parece que has cambiado de SIM.
 Inicia sesión en tu cuenta Mi para reactivar Mi Cloud."</string>
@@ -131,6 +139,8 @@ en tu cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_download_syncing">Descargando %s</string>
   <string name="micloud_detail_fail">"Falló"</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
+  <string name="micloud_detail_lastest_with_off">Sincronizado</string>
+  <string name="micloud_detail_not_synced">No sincronizado</string>
   <string name="micloud_detail_pending">Pendiente</string>
   <string name="micloud_detail_preference_syncing">Sincronizando</string>
   <string name="micloud_detail_preference_wlan">Sincronizar por Wi-Fi</string>
@@ -152,32 +162,46 @@ Cuando su nube está llena, sus datos antiguos no irán a ninguna parte. Sin emb
 
 Para solucionar esto, puede limpiar algunos archivos antiguos para dejar espacio a nuevos o adquirir espacio de almacenamiento adicional."</string>
   <string name="micloud_full_influence_title">Cuando su Mi Cloud está llena…</string>
+  <string name="micloud_main_battery_low">No hay suficiente batería para sincronizar</string>
+  <string name="micloud_main_battery_message">"Conecta el dispositivo a una fuente de energía para sincronizar
+%d elementos"</string>
+  <string name="micloud_main_clear_now">Limpiar</string>
   <string name="micloud_main_data_unsynced">%d elementos a sincronizar</string>
   <string name="micloud_main_detail">Ver detalles</string>
   <string name="micloud_main_last_sync_time">La última sincronización fue en %s</string>
+  <string name="micloud_main_memory_low_message">Para sincronizar, borra algunos de los elementos almacenados en la nube.</string>
+  <string name="micloud_main_memory_low_title">No hay suficiente espacio</string>
   <string name="micloud_main_network_abnormal">No se pudo conectar a la red</string>
   <string name="micloud_main_network_error">No se pudo conectar a la red</string>
   <string name="micloud_main_set_internet">Red</string>
+  <string name="micloud_main_space_full">Almacenamiento en la nube completo</string>
+  <string name="micloud_main_space_full_title">Almacenamiento en la nube completo</string>
   <string name="micloud_main_space_full">Sin espacio</string>
   <string name="micloud_main_space_risk">Tiene %d datos sin sincronizar. Por favor, actualice el espacio de almacenamiento.</string>
   <string name="micloud_main_stop_sync">Sincronización parada</string>
+  <string name="micloud_main_suggest_master_sync">No se pudo sincronizar todo</string>
   <string name="micloud_main_suggest_setting">"Esperando a Wi-Fi para sincronizar.
 Toca el botón de ajustes de sincronización para ver más opciones"</string>
   <string name="micloud_main_suggest_sync">"Algunos elementos no se han sincronizado con su Mi Cloud"</string>
   <string name="micloud_main_sync_exception">Error de sincronización</string>
   <string name="micloud_main_sync_init">Obteniendo información</string>
   <string name="micloud_main_sync_now">Sincronizar ahora</string>
+  <string name="micloud_main_sync_on">Sincronización activada</string>
   <string name="micloud_main_sync_on_wifi">Esperando Wi-Fi</string>
   <string name="micloud_main_sync_pause">Sincronización pausada</string>
+  <string name="micloud_main_sync_pending">Esperando para sincronizar</string>
   <string name="micloud_main_sync_stop">Sincronización parada</string>
   <string name="micloud_main_synced_data_count">%d datos han sido sincronizados</string>
-  <string name="micloud_main_syncing">sincronizando datos...</string>
+  <string name="micloud_main_syncing">Sincronizando…<string>
+  <string name="micloud_main_title_master_sync_off">Autosincronización apagada</string>
   <string name="micloud_main_title_sync_fail">"No se puede sincronizar"</string>
   <string name="micloud_main_title_sync_off">Sincronización parada</string>
   <string name="micloud_main_title_sync_on_wifi">Usar Wi-Fi</string>
   <string name="micloud_main_update_space">actualice el tamaño de almacenamiento</string>
   <string name="micloud_main_wlan_sync_data_count">%d datos se sincronizarán por Wi-Fi</string>
-  <string name="micloud_more">Aprende más</string>
+  <string name="micloud_more">Saber más</string>
+  <string name="micloud_notif_content_depend_wifi">Conectar a Wi-Fi para sincronizar.</string>
+  <string name="micloud_notif_title_depend_wifi">%d esperando para sicronizarse</string>
   <string name="micloud_other_product_price">Precio de otros productos similares:</string>
   <string name="micloud_proceed">Continuar</string>
   <string name="micloud_sec_dspt">y compartir cosas con amigos.</string>
@@ -198,6 +222,7 @@ Toca el botón de ajustes de sincronización para ver más opciones"</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Debe renovar su suscripción.</string>
   <string name="micloud_storage_expires_soon_title">El almacenamiento en Mi Cloud expira pronto</string>
   <string name="micloud_storage_expires_very_soon_title">El almacenamiento en Mi Cloud expira pronto</string>
+  <string name="micloud_storage_full">Almacenamiento en la nube completo</string>
   <string name="micloud_storage_usage" formatted="false">Usado %s/Espacio total %s</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s usados | %s restantes"</string>
@@ -205,6 +230,7 @@ Toca el botón de ajustes de sincronización para ver más opciones"</string>
   <string name="micloud_title_full_dspt">"¡Has alcanzado tu límite de almacenamiento!"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Activar Mi Cloud</string>
+  <string name="micloud_upgrade_member">Consigue más espacio de almacenamiento</string>
   <string name="micloud_upgrade_space">Consigue más espacio de almacenamiento</string>
   <string name="micloud_user_space_title">Espacio de almacenamiento</string>
   <string name="micloud_user_space_usage">Espacio de almacenamiento</string>
