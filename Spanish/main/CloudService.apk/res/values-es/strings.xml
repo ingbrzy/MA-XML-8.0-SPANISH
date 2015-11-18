@@ -136,6 +136,36 @@ Inicia sesión en tu cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
   <string name="micloud_check_sim_title">"Parece que has cambiado las tarjetas SIM. Entra
 en tu cuenta Mi para reactivar Mi Cloud."</string>
+  <string name="micloud_confusion_account_hint">Los cambios que hagas en este dispositivo se sincronizarán en todos tus dispositivos. Para proteger tu cuenta, recomendamos que apagues la sincronización para otros dispositivos cuando no los estés usando.</string>
+  <string name="micloud_confusion_account_name">"ID de cuenta Mi: "</string>
+  <string name="micloud_confusion_account_notify_text">Tu cuenta Mi ha sido modificada desde otro dispositivo.</string>
+  <string name="micloud_confusion_account_notify_title">Verificar cuenta</string>
+  <string name="micloud_confusion_account_question">¿Esta ID %s de cuenta de Mi te pertenece?</string>
+  <string name="micloud_confusion_account_title">ID de cuenta Mi</string>
+  <string name="micloud_confusion_alert_message">La información de tu cuenta Mi ha sido modificada desde un %s.</string>
+  <string name="micloud_confusion_alert_negative">Más tarde</string>
+  <string name="micloud_confusion_alert_positive">Detalles</string>
+  <string name="micloud_confusion_alert_title">Otro dispositivo está modificando tu cuenta</string>
+  <string name="micloud_confusion_cancel">Cancelar</string>
+  <string name="micloud_confusion_check_account_title">Reactivar Mi Cloud</string>
+  <string name="micloud_confusion_entrance_hint">Para mantener tu nube segura, no accedas a los datos que has almacenado en Mi Cloud desde dispositivos compartidos.</string>
+  <string name="micloud_confusion_entrance_notify_text">Tocar para ver detalles.</string>
+  <string name="micloud_confusion_entrance_notify_title">El contenido de Mi Cloud se ha modificado</string>
+  <string name="micloud_confusion_entrance_question">¿Iniciaste sesión e hiciste cambios en tus datos de Mi Cloud usando un %s?</string>
+  <string name="micloud_confusion_entrance_title">El contenido de Mi Cloud se ha modificado</string>
+  <string name="micloud_confusion_finish_hint">Los cambios que hagas en este dispositivo se sincronizarán en todos tus dispositivos. Para proteger tu cuenta, recomendamos que apagues la sincronización para otros dispositivos cuando no los estés usando.</string>
+  <string name="micloud_confusion_finish_message">Asegúrate de que ninguno de tus viejos o inactivos dispositivos están sincronizándose todavía con Mi Cloud.</string>
+  <string name="micloud_confusion_finish_title">Cuenta verificada</string>
+  <string name="micloud_confusion_no">No</string>
+  <string name="micloud_confusion_ok">Aceptar</string>
+  <string name="micloud_confusion_setting_notify_text">Asegúrate de que ninguno de tus viejos o inactivos dispositivos están sincronizándose todavía con Mi Cloud.</string>
+  <string name="micloud_confusion_setting_notify_title">Protege tu cuenta</string>
+  <string name="micloud_confusion_setting_password_error">La contraseña que has introducido es incorrecta</string>
+  <string name="micloud_confusion_setting_question">Apagar la sincronización con otros dispositivos asociados a tu cuenta.</string>
+  <string name="micloud_confusion_setting_title">Demasiados dispositivos</string>
+  <string name="micloud_confusion_toast_confirm">Dispositivo verificado</string>
+  <string name="micloud_confusion_toast_deny">Inicia sesión en tu cuenta Mi</string>
+  <string name="micloud_confusion_yes">Sí</string>
   <string name="micloud_detail_download_syncing">Descargando %s</string>
   <string name="micloud_detail_fail">"Falló"</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
@@ -152,6 +182,24 @@ en tu cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_wlan_mms">%d mms no sincronizados</string>
   <string name="micloud_dspt">Usa Mi Cloud para sincronizar datos, localizar tu dispositivo,</string>
   <string name="micloud_dspt_provision">Usa Mi Cloud para sincronizar datos, localizar tu dispositivo y compartir cosas con amigos.</string>
+  <string name="micloud_find_device_finish">Hecho</string>
+  <string name="micloud_find_device_guide_button">Encender Encontrar dispositivo</string>
+  <string name="micloud_find_device_guide_content">Cuando cambies la tarjeta SIM, se te enviará un mensaje automáticamente para reactivar esta funcionalidad.</string>
+  <string name="micloud_find_device_guide_fail_reopen">Encender Encontrar dispositivo en Mi Cloud</string>
+  <string name="micloud_find_device_guide_fail_sub_net">Comprueba tu conexión de red y vuelve a intentarlo.</string>
+  <string name="micloud_find_device_guide_fail_sub_timeout">Conexión expirada. Inténtalo más tarde.</string>
+  <string name="micloud_find_device_guide_micloud">Encender sincronización con Mi Cloud</string>
+  <string name="micloud_find_device_guide_micloud_sub_content">Sincroniza contactos, fotos, notas y más con Mi Cloud</string>
+  <string name="micloud_find_device_guide_noti_content">Encender</string>
+  <string name="micloud_find_device_guide_noti_title">Enciende Encontrar dispositivo para proteger tus datos hasta cuando pierdas el dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Enciende Encontrar dispositivo para proteger tus datos de WeChat</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Enciende Encontrar dispositivo para proteger tus datos de Alipay</string>
+  <string name="micloud_find_device_guide_progress">Encendiendo Encontrar dispositivo…</string>
+  <string name="micloud_find_device_guide_title">"Inicia sesión en %s para encontrar, bloquear,
+o borrar tu dispositivo."</string>
+  <string name="micloud_find_device_open_fail">No se pudo encender Encontrar dispositivo</string>
+  <string name="micloud_find_device_opened">Encontrar dispositivo en</string>
+  <string name="micloud_find_device_opened_content">Encuentra tu dispositivo en %s</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Todas sus fotos, vídeos, notas y aplicaciones permanecerán respaldadas en la nube.
@@ -246,12 +294,18 @@ Toca el botón de ajustes de sincronización para ver más opciones"</string>
   <string name="microsoft_cloud_price">Aprox. 10 EUR al año</string>
   <string name="more_activity_in_upgrade_space">Aprenda más en &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi Message</string>
-  <string name="mx_dspt_provision">"Mi Message le permite enviar mensajes a otros usuarios MIUI sin incurrir en los costes de los SMS.
+  <string name="mx_dspt_provision">"Mi Message te permite enviar mensajes a otros usuarios MIUI sin incurrir en los costes de los SMS.
 
-Puede activar o desactivar esta característica en cualquier momento en Ajustes."</string>
-  <string name="mx_dspt_provision_privacy">"Esta función puede requerir su número de teléfono. Su compañía podría cobrarle por un mensaje SMS utilizado para activar esta función.
+Puedes activar o desactivar esta característica en cualquier momento en Ajustes."</string>
+  <string name="mx_dspt_provision_privacy">"Esta funcionalidad puede requerir tu número de teléfono. Tu compañía podría cobrarte por un mensaje SMS utilizado para activar esta funcionalidad.
 
-Esta función cifra y sube la ID de su dispositivo a los servidores Mi."</string>
+Esta funcionalidad cifra y sube la ID de tu dispositivo a los servidores Mi."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Esta funcionalidad puede requerir tu número de teléfono. Tu compañía podría cobrarte por un mensaje SMS utilizado para activar esta funcionalidad.
+
+Esta funcionalidad cifra y sube la ID de tu dispositivo a los servidores Mi."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Esta funcionalidad puede requerir tu número de teléfono. Tu compañía podría cobrarte por un mensaje SMS utilizado para activar esta funcionalidad cuando se detecte una tarjeta SIM.
+
+Esta funcionalidad cifra y sube la ID de tu dispositivo a los servidores Mi."</string>
   <string name="mx_dspt_provision_with_voip">Llame a otros usuarios MIUI gratis usando su conexión a internet. Puede activar o desactivar esta función en cualquier momento en Ajustes. VoIP ofrecida por Weihui. Vea la Política de Privacidad de Weihui</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Llamadas por internet</string>
@@ -339,6 +393,8 @@ Puede activar o desactivar esta característica en cualquier momento en Ajustes.
   <string name="upgrade_space_successful_total">Espacio Total actualizado a %sGB</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Acuerdo de Usuario</string>
+  <string name="user_agreement_p5">"
+"</string>
   <string name="user_agreement_p6">"El uso de esta característica está sujeto a "</string>
   <string name="user_agreement_p7">"los Términos de Servicio de Mi Cloud"</string>
   <string name="user_agreement_p8">.</string>
