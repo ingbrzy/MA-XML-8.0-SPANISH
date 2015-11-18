@@ -63,6 +63,7 @@
   <string name="category_zip">Archivos</string>
   <string name="choose_send_type">Seleccione un método</string>
   <string name="choose_upload_location">Subir archivos a la carpeta KuaiPan</string>
+  <string name="clean_hint">Tocar para liberar espacio</string>
   <string name="clean_message">%1$s de espacio liberado.</string>
   <string name="clean_title">Eliminar los archivos con más de 30 días de antigüedad.</string>
   <string name="clean_trash_box">Vaciar papelera</string>
@@ -82,6 +83,12 @@
   <string name="create_new_folder_desctiption">Creando carpeta…</string>
   <string name="create_new_folder_failed">No se pudo crear la carpeta.</string>
   <string name="create_share_link_description">Creando enlace#8230;</string>
+  <string name="create_shortcut_cancel">No gracias</string>
+  <string name="create_shortcut_checkbox_hint">No mostrar de nuevo</string>
+  <string name="create_shortcut_confirm">Crear</string>
+  <string name="create_shortcut_message">Usas el Explorador a menudo. ¿Crear un acceso directo en la pantalla de inicio?</string>
+  <string name="create_shortcut_success">Acceso directo creado</string>
+  <string name="create_shortcut_title">Crear un acceso directo</string>
   <string name="cution">Consejos</string>
   <string name="data_capacity">Datos %1$s</string>
   <string name="data_consumption_cancel">Salir</string>
@@ -226,6 +233,7 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="menu_item_search">Buscar</string>
   <string name="menu_item_sort">Ordenar por</string>
   <string name="menu_item_sort_add_time">"Creado "</string>
+  <string name="menu_item_sort_by_added_time">Añadido</string>
   <string name="menu_item_sort_date">Fecha de modificación</string>
   <string name="menu_item_sort_name">Nombre</string>
   <string name="menu_item_sort_size">Tamaño</string>
@@ -304,7 +312,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="notification_dialog_title">Notificaciones</string>
   <string name="notification_setting">Notificaciones</string>
   <string name="notification_summary">"%1$s no permite esta característica actualmente"</string>
-  <string name="notification_title">Notificar cuando se añadan nuevos ficheros a %1$s</string>
+  <string name="notification_title">Cuando %1$s crea un fichero</string>
   <string name="notification_wechat_expired_empty">WeChat ya ha borrado estos vídeos.</string>
   <string name="notification_wechat_title">Notificaciones de vídeos WeChat</string>
   <string name="notify_private_folder_msg">Toca para saber más.</string>
@@ -369,6 +377,9 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="port_range">El puerto debe estar entre 1024 y 65535</string>
   <string name="private_files">Ocultos</string>
   <string name="private_folder">Carpeta oculta</string>
+  <string name="private_toast_hint1">Toca para añadir ficheros a carpetas ocultas</string>
+  <string name="private_toast_hint2">Para ocultar un fichero, pulsa y mantén, después añádelo a una carpeta oculta.</string>
+  <string name="private_toast_hint3">Tira para abrir las carpetas ocultas</string>
   <string name="promot_enctypt_password">Introduce la contraseña utilizada para desbloquear tu dispositivo o apagar el Modo niño</string>
   <string name="pull_to_signin">Deslizar hacia abajo para registrarte.</string>
   <string name="qq_not_installed">QQ no está instalado</string>
