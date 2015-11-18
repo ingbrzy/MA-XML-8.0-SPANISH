@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Búsqueda</string>
-  <string name="clear_history">borrar registros del historial</string>
+  <string name="clear_history">Borrar historial</string>
   <string name="clear_shortcuts">Borrar accesos directos</string>
   <string name="clear_shortcuts_agree">Borrar accesos directos</string>
   <string name="clear_shortcuts_disagree">"No borrar accesos directos"</string>
@@ -29,15 +29,15 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="google_search_hint">Google Search</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google Search</string>
-  <string name="hot_search">más buscado</string>
-  <string name="loading">cargando</string>
+  <string name="hot_search">Popular</string>
+  <string name="loading">Un momento…</string>
   <string name="menu_help">Ayuda</string>
   <string name="menu_settings">Ajustes de búsqueda</string>
   <string name="recently_shortcut_label">Accesos directos recientes</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
   <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
-  <string name="search_history">historial de búsqueda</string>
-  <string name="search_in_app_store">Buscar en app market</string>
+  <string name="search_history">Historial</string>
+  <string name="search_in_app_store">Buscar en Mi App Store</string>
   <string name="search_in_web">Buscar en internet</string>
   <string name="search_settings">Ajustes de búsqueda</string>
   <string name="search_sources">Elementos rastreables</string>
@@ -51,8 +51,8 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="searchable_lable_video">vídeo</string>
   <string name="searchable_sources">En línea</string>
   <string name="send_secret_code">Enviar código</string>
-  <string name="show_more">mostrar más</string>
+  <string name="show_more">Mostrar más</string>
   <string name="system_search_category_title">Teléfono</string>
-  <string name="voice_search_hint_title">Prueba diciendo:</string>
+  <string name="voice_search_hint_title">"Prueba diciendo: "</string>
   <string name="xiaomi_search_label">Resultados</string>
 </resources>
