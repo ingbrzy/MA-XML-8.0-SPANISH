@@ -522,13 +522,13 @@
         <item>Comprobar sólo contenido DRM</item>
         <item>Comprobar siempre</item>
      </string-array>
-     <string-array name="install_non_market_app_contents">
-        <item>Solicitar permiso</item>
-        <item>Permitir</item>
-     </string-array>
      <string-array name="install_non_market_app_entries">
-        <item>Solicitar permiso para aplicaciones peligrosas</item>
-        <item>Permitir</item>
+        <item>Encender (Recomendado)</item>
+        <item>No usar (peligroso)</item>
+     </string-array>
+     <string-array name="install_non_market_app_contents">
+        <item>Encender</item>
+        <item>No usar</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Azul</item>

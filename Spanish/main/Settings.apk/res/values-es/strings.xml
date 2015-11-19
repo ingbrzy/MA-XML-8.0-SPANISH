@@ -1221,8 +1221,8 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="input_settings">Ajustes de entrada</string>
      <string name="install_all_warning">Su teléfono y datos personales son mas vulnerables al ataque de aplicaciones de fuentes desconocidas. Recuerde que usted será el único responsable de cualquier daño que se pudiera producir a su teléfono o cualquier perdida de datos personales ocasionada por el uso de estas aplicaciones.</string>
      <string name="install_applications">Fuentes desconocidas</string>
-     <string name="install_no_market_app_summary">Permitir la instalación de aplicaciones de fuentes desconocidas</string>
-     <string name="install_no_market_app_title">Fuentes desconocidas</string>
+     <string name="install_no_market_app_summary">Escanear aplicaciones de terceros en busca de virus antes de instalar</string>
+     <string name="install_no_market_app_title">Escanear aplicaciones de terceros</string>
      <string name="install_preinstall_app">Cargando aplicaciones…</string>
      <string name="install_text">Instalar</string>
      <string name="install_unknown_applications">Permitir la instalación de aplicaciones de fuentes desconocidas</string>
@@ -1375,7 +1375,8 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="lock_settings_common_title">Ajustes de bloqueo</string>
      <string name="lock_settings_picker_settings">Establecer bloqueo de pantalla</string>
      <string name="lock_settings_picker_title">Elegir bloqueo de pantalla</string>
-     <string name="lock_settings_title">Ajustes de seguridad</string>
+     <string name="lock_settings_title">Seguridad de pantalla</string>
+	 <string name="lock_settings_with_fingerprint">Pantalla de bloqueo y contraseña</string>
      <string name="lock_setup">Configuración completada.</string>
      <string name="lock_sounds_enable_title">Sonido al bloquear pantalla</string>
      <string name="lockpassword_cancel_label">Cancelar</string>

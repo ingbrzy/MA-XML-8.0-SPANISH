@@ -56,6 +56,7 @@
      <string name="cache_title_empty_folder">Carpeta vacía (%d)</string>
      <string name="cache_title_empty_folder2">Carpeta vacía</string>
      <string name="cache_title_system_cache">Caché del sistema</string>
+	 <string name="cached_garbage">Caché</string>
      <string name="cancel">Cancelar</string>
      <string name="clean_content_all">Todo</string>
      <string name="clean_content_one">1 elemento</string>
@@ -96,11 +97,13 @@
      <string name="empty_title_installed_apps">Vacío</string>
      <string name="empty_title_large_files">Vacío</string>
      <string name="empty_title_residual">No se encontraron archivos residuales</string>
+	 <string name="flow_rank_title">Uso de datos</string>
 	 <string name="garbage_clean_detail">Detalles</string>
 	 <string name="garbage_cleanup_detail">%1$d veces, limpiado %2$s</string>
 	 <string name="garbage_month">Limpiado %s este mes</string>
 	 <string name="go_to">Proceder</string>
 	 <string name="goto_set">Establecer</string>
+	 <string name="grabage_rank_title">Limpiado hoy</string>
 	 <string name="harass_detail">Bloqueados %1$d SMS y %2$d llamadas</string>
      <string name="header_optimizer">Usando esta función, usted está de acuerdo en %s.</string>
      <string name="hints_ad_header_left">Archivos de publicidad</string>
@@ -235,7 +238,7 @@
      <string name="privacy_clipboard_type">Portapapeles</string>
      <string name="privacy_search_desc">Historial de búsqueda</string>
      <string name="privacy_search_type">Búsqueda de Google</string>
-	 <string name="promotion">Selección del editor</string>
+	 <string name="promotion">Anuncio</string>
 	 <string name="recommended">Recomendado</string>
 	 <string name="safety_check_detail">%1$d veces, ganados %2$d puntos</string>
 	 <string name="safety_rank">Por delante de %d%% usuarios de MIUI en términos de seguridad</string>
@@ -298,7 +301,9 @@
 	 <string name="toast_selecte_group_restore_succeed">Fotos restauradas</string>
      <string name="toast_uninstall_success">Desinstalación completa</string>
 	 <string name="total_clean">Total limpiado: %s</string>
+	 <string name="total_clean_text">Limpiado</string>
 	 <string name="traffic_top">Las 5 aplicaciones que más datos consumen</string>
+	 <string name="unlike">No gracias</string>
 	 <string name="virus_scan">Escaneo de virus</string>
      <string name="white_list_ad_header">Ficheros de publicidad: %d</string>
      <string name="white_list_apk_header">Instalar paquetes: %d</string>
