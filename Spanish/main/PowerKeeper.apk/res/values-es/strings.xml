@@ -31,7 +31,7 @@
   <string name="full_screen_enter">Pantalla completa</string>
   <string name="full_screen_exit">Salir de pantalla completa</string>
   <string name="hide_mode">Administrar uso de batería de aplicaciones</string>
-  <string name="hide_mode_desc">Cuando una aplicación esté en segundo plano, su actividad será monitorizada para reducir el uso de batería. La conexión a la red, localización, radio, reloj, etc., pueden verse afectados. Esta configuración es recomendable para la mayoría de aplicaciones, pero si una aplicación en concreto no se comporta correctamente, puedes personalizar los ajustes de esta aplicación.</string>
+  <string name="hide_mode_desc">Ahorra batería restringiendo procesos en segundo plano de aplicaciones, Wi-Fi y conexiones de datos, y GPS.</string>
   <string name="hide_mode_desc_title">Administrar uso de batería de aplicaciones</string>
   <string name="high">Rendimiento</string>
   <string name="hints_loading_text">Un momento…</string>
@@ -64,6 +64,7 @@
   <string name="power_chooser_user_define_title">Nuevo modo</string>
   <string name="power_config_alarm_sync_summary">Permitir a la aplicación alarmas en segundo plano</string>
   <string name="power_config_alarm_sync_title">Alarma</string>
+  <string name="power_config_apps">Ahorro de batería en segundo plano</string>
   <string name="power_config_app_background_title">Segundo plano</string>
   <string name="power_config_app_full_screen_title">Pantalla completa</string>
   <string name="power_config_app_launch_title">Primer plano</string>
