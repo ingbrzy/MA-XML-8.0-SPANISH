@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activate_xiaomi_account">Activar este dispositivo</string>
+  <string name="app_name">Encontrar dispositivo</string>
+  <string name="captcha">Captcha</string>
+  <string name="change_find_device_status_failed">No se puede desbloquear. %s.</string>
+  <string name="disable_find_device_error">No se puede apagar Encontrar dispositivo. %1$s</string>
+  <string name="disable_find_device_success">Encontrar dispositivo apagado</string>
+  <string name="enable_find_device_error">No se puede encender Encontrar dispositivo. %1$s</string>
+  <string name="enable_find_device_success">Encontrar dispositivo encendido</string>
+  <string name="find_device">Encontrar dispositivo</string>
+  <string name="find_device_error_account_sys_timeout">No se pudo conectar a la cuenta Mi</string>
+  <string name="find_device_error_network">Comprueba tu conexión de datos e intenta de nuevo.</string>
+  <string name="find_device_error_password_changed">La contraseña de la cuenta se ha cambiado recientemente.</string>
+  <string name="find_device_error_server">Error de servidor</string>
+  <string name="find_device_error_unknown">Error desconocido.</string>
+  <string name="find_device_noise_title">Alarma de localizar dispositivo</string>
+  <string name="find_device_notice_p1">Ir a</string>
+  <string name="find_device_notice_p3">"para localizar, bloquear, o restaurar tu teléfono.
+Si cambias de tarjeta SIM se enviará otro SMS automáticamente para reactivar esta función."</string>
+  <string name="find_device_stop_noise">Pulsa Aceptar para silenciar</string>
+  <string name="find_device_success_title">Encontrar dispositivo</string>
+  <string name="i_know">Aceptar</string>
+  <string name="login_failed">No se pudo iniciar sesión</string>
+  <string name="password">Contraseña</string>
+  <string name="phone_locked">Puede que este dispositivo esté asociado con una cuenta Mi existente (%s). Inicia sesión para activar este dispositivo.</string>
+  <string name="stop_on_empty_captcha">El captcha no puede estar vacío</string>
+  <string name="stop_on_empty_password">La contraseña no puede estar vacía</string>
+  <string name="unlock">Activar</string>
+  <string name="unlock_access_denied">Acceso denegado</string>
+  <string name="unlock_bad_authentication">Usuario o contraseña inválidos</string>
+  <string name="unlock_error_device_id">No se puede obtener el ID del dispositivo</string>
+  <string name="unlock_error_interrupted">Interrumpido</string>
+  <string name="unlock_error_network">No se puede conectar a la red</string>
+  <string name="unlock_error_rpc">Error RPC</string>
+  <string name="unlock_error_server">Error de servidor</string>
+  <string name="unlock_error_ssl_hand_shake">No se pudo conectar al servidor, prueba a configurar manualmente la fecha y hora.</string>
+  <string name="unlock_error_unknown">No se pudo iniciar sesión</string>
+  <string name="unlock_error_user_name">Usuario inválido</string>
+  <string name="unlock_wrong_captcha">El código introducido es incorrecto</string>
+  <string name="unlocking">Activando…</string>
+  <string name="verify_password_failed">No se pudo verificar el ID de la cuenta Mi. %s.</string>
+</resources>
