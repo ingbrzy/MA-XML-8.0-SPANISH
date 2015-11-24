@@ -53,8 +53,8 @@
         <item quantity="one">¿Eliminar este vídeo de %2$d álbumes?</item>
      </plurals>
     <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">¿Eliminar %1$d imágenes de %2$d álbumes?</item>
-        <item quantity="one">¿Eliminar esta imagen de %2$d álbumes?</item>
+        <item quantity="other">¿Eliminar %1$d fotos de %2$d álbumes?</item>
+        <item quantity="one">¿Eliminar esta foto de %2$d álbumes?</item>
     </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
@@ -87,8 +87,8 @@
         <item quantity="one">%d carpeta</item>
      </plurals>
      <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"No tiene permiso para borrar estos %d ficheros."</item>
-        <item quantity="one">"No tiene permiso para borrar este fichero."</item>
+        <item quantity="other">No tienes permiso para borrar estos %d ficheros.</item>
+        <item quantity="one">No tienes permiso para borrar este fichero.</item>
      </plurals>
      <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Puede seleccionar %d elementos</item>

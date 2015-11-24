@@ -3,6 +3,7 @@
   <string name="account_bind_prompt">Moviendo los datos del usuario… Esto puede tardar unos minutos.</string>
   <string name="action_mode_deselect_all">Deseleccionar todos</string>
   <string name="action_mode_select_all">Seleccionar todos</string>
+  <string name="add_private">Añadir ficheros a carpetas ocultas</string>
   <string name="add_private_files">Añadir ficheros</string>
   <string name="add_task">Añadir tareas</string>
   <string name="adding_upload_tasks">Añadiendo tareas#8230;</string>
@@ -77,7 +78,7 @@
   <string name="confirm_know">Aceptar</string>
   <string name="connect_network_setting_des">Avisar cuando se conecte a internet</string>
   <string name="connection_error">No se pudo conectar</string>
-  <string name="copy_failed">"No se puede copiar"</string>
+  <string name="copy_failed">No se pudo copiar, parece que el almacenamiento está lleno</string>
   <string name="copy_file_to_kuaipan">Copiar archivo a KuaiPan</string>
   <string name="create_kuaipan_shortcut_pref">Poner en la pantalla de inicio</string>
   <string name="create_new_folder_desctiption">Creando carpeta…</string>
@@ -140,6 +141,7 @@
   <string name="encrypt_error">No se pudieron ocultar los ficheros, intenta de nuevo</string>
   <string name="encrypt_prefix">OCULTO</string>
   <string name="encrypt_success">Todos los ficheros se ocultaron</string>
+  <string name="encrypt_success_first_five">Encriptado correctamente. Tira hacia abajo en la pantalla de inicio del Explorador para ver los ficheros.</string>
   <string name="encrypting">Encriptando…</string>
   <string name="error_filename_too_long">El nombre de archivo introducido es demasiado largo.</string>
   <string name="error_info_cant_send_folder">"No se puede enviar este tipo de archivo."</string>
@@ -377,6 +379,8 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="port_range">El puerto debe estar entre 1024 y 65535</string>
   <string name="private_files">Ocultos</string>
   <string name="private_folder">Carpeta oculta</string>
+  <string name="private_folder_no_file_hints">Pulsa y mantén un fichero o carpeta para ocultarlo.</string>
+  <string name="private_folder_update">Actualizando carpetas ocultas</string>
   <string name="private_toast_hint1">Toca para añadir ficheros a carpetas ocultas</string>
   <string name="private_toast_hint2">Para ocultar un fichero, pulsa y mantén, después añádelo a una carpeta oculta.</string>
   <string name="private_toast_hint3">Tira para abrir las carpetas ocultas</string>
@@ -390,7 +394,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="repair_done">Restaurado</string>
   <string name="repair_error">No se pudo restaurar</string>
   <string name="repair_file">Restaurar ficheros encriptados</string>
-  <string name="reset_password">Restablecer contraseña</string>
+  <string name="reset_password">Cambiar contraseña</string>
   <string name="restoring">Restaurando…</string>
   <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
   <string name="rlv_loading_more">Un momento…</string>
