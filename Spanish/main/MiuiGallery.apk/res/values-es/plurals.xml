@@ -2,29 +2,29 @@
 <resources>
      <plurals name="confirm_delete_album">
         <item quantity="other">¿Eliminar %1$s álbumes (%2$s en total)?</item>
-        <item quantity="one">¿Eliminar %1$s álbum (%2$s en total)?</item>
+        <item quantity="one">¿Eliminar este álbum (%2$s en total)?</item>
      </plurals>
 	 <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-         <item quantity="other">Los elementos seleccionados incluyen fotos o vídeos en Mi Cloud, ¿eliminar %s elementos de este dispositivo y de Mi Cloud?</item>
+         <item quantity="other">¿Eliminar %s elementos de la memoria de este dispositivo y de Mi Cloud?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-         <item quantity="other">Los elementos seleccionados incluyen fotos en Mi Cloud, ¿eliminar %s fotos de este dispositivo y de Mi Cloud?</item>
-         <item quantity="one">El elemento seleccionado incluye una foto en Mi Cloud, ¿eliminar %s foto de este dispositivo y de Mi Cloud?</item>
+         <item quantity="other">¿Eliminar %s fotos de la memoria de este dispositivo y de Mi Cloud?</item>
+         <item quantity="one">¿Eliminar esta foto de la memoria de este dispositivo y de Mi Cloud?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-         <item quantity="other">Los elementos seleccionados incluyen vídeos en Mi Cloud, ¿eliminar %s vídeos de este dispositivo y de Mi Cloud?</item>
-         <item quantity="one">El elemento seleccionado incluye un vídeo en Mi Cloud, ¿eliminar %s vídeo de este dispositivo y de Mi Cloud?</item>
+         <item quantity="other">¿Eliminar %s vídeos de la memoria de este dispositivo y de Mi Cloud?</item>
+         <item quantity="one">¿Eliminar este vídeo de la memoria de este dispositivo y de Mi Cloud?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-         <item quantity="other">Los elementos seleccionados son fotos o vídeos en Mi Cloud, ¿eliminar %s elementos de Mi Cloud?</item>
+         <item quantity="other">¿Eliminar %s elementos de Mi Cloud?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_from_homepage">
-         <item quantity="other">Los elementos seleccionados son fotos en Mi Cloud, ¿eliminar %s fotos de Mi Cloud?</item>
-         <item quantity="one">El elemento seleccionado es una foto en Mi Cloud, ¿eliminar %s foto de Mi Cloud?</item>
+         <item quantity="other">¿Eliminar %s fotos de Mi Cloud?</item>
+         <item quantity="one">¿Eliminar esta foto de Mi Cloud?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video_from_homepage">
-         <item quantity="other">Los elementos seleccionados son vídeos en Mi Cloud, ¿eliminar %s vídeos de Mi Cloud?</item>
-         <item quantity="one">El elemento seleccionado es un vídeo en Mi Cloud, ¿eliminar %s vídeo de Mi Cloud?</item>
+         <item quantity="other">¿Eliminar %s vídeos de Mi Cloud?</item>
+         <item quantity="one">¿Eliminar este vídeo de Mi Cloud?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video">
          <item quantity="other">¿Eliminar %s elementos de este álbum?</item>
@@ -33,28 +33,28 @@
          <item quantity="other">¿Eliminar %s elementos?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" " ¿Eliminar %s fotos de este álbum?" "</item>
-        <item quantity="one">" " ¿Eliminar %s foto de este álbum?" "</item>
+        <item quantity="other">¿Eliminar %s fotos de este álbum?</item>
+        <item quantity="one">¿Eliminar esta foto de este álbum?</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">¿Eliminar %s fotos?</item>
-        <item quantity="one">¿Eliminar %s foto?</item>
+        <item quantity="one">¿Eliminar esta foto?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" " ¿Eliminar %s vídeos de este álbum?" "</item>
-        <item quantity="one">" " ¿Eliminar %s vídeo de este álbum?" "</item>
+        <item quantity="other">¿Eliminar %s vídeos de este álbum?</item>
+        <item quantity="one">¿Eliminar este vídeo de este álbum?</item>
      </plurals>
      <plurals name="confirm_delete_has_local_video">
         <item quantity="other">¿Eliminar %s vídeos?</item>
-        <item quantity="one">¿Eliminar %s vídeo?</item>
+        <item quantity="one">¿Eliminar este vídeo?</item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" " ¿Eliminar %1$d vídeos de %2$d álbumes?" "</item>
-        <item quantity="one">" " ¿Eliminar %1$d vídeo de %2$d álbumes?" "</item>
+        <item quantity="other">¿Eliminar %1$d vídeos de %2$d álbumes?</item>
+        <item quantity="one">¿Eliminar este vídeo de %2$d álbumes?</item>
      </plurals>
     <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other"> ¿Eliminar %1$d imágenes de %2$d álbumes?</item>
-        <item quantity="one"> ¿Eliminar %1$d imagen de %2$d álbumes?</item>
+        <item quantity="other">¿Eliminar %1$d imágenes de %2$d álbumes?</item>
+        <item quantity="one">¿Eliminar esta imagen de %2$d álbumes?</item>
     </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
@@ -146,14 +146,14 @@
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Sincronizando %1$d fotos…</item>
-        <item quantity="one">Sincronizando 1 foto…</item>
+        <item quantity="one">Sincronizando foto…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
         <item quantity="other">Sincronizando %1$d vídeos…</item>
-        <item quantity="one">Sincronizando 1 vídeo…</item>
+        <item quantity="one">Sincronizando vídeo…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Sincronizando %1$d elementos…</item>
-        <item quantity="one">Sincronizando 1 elemento…</item>
+        <item quantity="one">Sincronizando elemento…</item>
     </plurals>
 </resources>
