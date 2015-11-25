@@ -111,7 +111,7 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="firewall_network_restrict_notify_message">Tocar para cambiar los ajustes.</string>
   <string name="firewall_network_restrict_notify_mobile">datos móviles</string>
   <string name="firewall_network_restrict_notify_title">"%1$s no puede usar %2$s."</string>
-  <string name="firewall_restrict_android_dialog_content">Si no permites a Android conectarse a internet, algunas funcionalidades importantes, como el punto de acceso Wi-Fi, pueden verse afectadas.</string>
+  <string name="firewall_restrict_android_dialog_content">Para asegurarse de que tu dispositivo funciona con normalidad, alguna aplicaciones de Android se conectarán a internet de todas formas. Estas aplicaciones usarán tu conexión de datos y pueden ocasionar ligeros gastos con tu proveedor.</string>
   <string name="firewall_restrict_android_dialog_title">Atención</string>
   <string name="firewall_rule_group_title_mobile">Móvil</string>
   <string name="firewall_rule_group_title_roaming">Itinerancia internacional</string>
@@ -199,7 +199,6 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mi_service_app_detail">Detalles de uso de datos</string>
   <string name="mi_service_framework">Estructura de Mi Service</string>
-  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Detalles de Marco</string>
   <string name="mian_page_primary_txt">Itinerancia internacional</string>
   <string name="miuishare_title_more">Más</string>
@@ -475,7 +474,7 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_saving_msg_today">ahorrados hoy</string>
   <string name="traffic_saving_need_optimize">Se puede optimizar</string>
   <string name="traffic_saving_notification_button_start">Activar</string>
-  <string name="traffic_saving_notify_no_apps_saving">Ninguna aplicación está usando el Ahorro de datos</string>
+  <string name="traffic_saving_notify_no_apps_saving">Reducir uso de datos</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Tocar para encender el Ahorro de datos.</string>
   <string name="traffic_saving_notify_start_content">%s ahorrados este mes</string>
   <string name="traffic_saving_notify_start_title">Uso de datos reducido</string>
@@ -492,7 +491,7 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_saving_tecsupport_international">Desarrollado por Opera Max</string>
   <string name="traffic_saving_title">Ahorro de datos</string>
   <string name="traffic_saving_toast_start_mobile">Ahorro de datos activado</string>
-  <string name="traffic_saving_toast_start_none_mobile">El Ahorro de datos arrancará cuando empieces a usar los datos móviles</string>
+  <string name="traffic_saving_toast_start_none_mobile">El Ahorro de datos se activará cuando uses los datos móviles</string>
   <string name="traffic_saving_toast_start_unreachable">No se puede arrancar el Ahorro de datos</string>
   <string name="traffic_saving_toast_stop">Ahorro de datos desactivado</string>
   <string name="traffic_saving_whitelist_btn_add">Añadir</string>
