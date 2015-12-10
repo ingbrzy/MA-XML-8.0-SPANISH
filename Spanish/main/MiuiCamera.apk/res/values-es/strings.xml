@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"No se pudo acceder al almacenamiento USB."</string>
+  <string name="accessibility_audio_shutter_bg">Disparador de audio de fondo</string>
   <string name="accessibility_camera_picker">Alternar entre cámara frontal y trasera</string>
+  <string name="accessibility_countdown">Botón de cuenta atrás</string>
   <string name="accessibility_flash_mode_button">Botón flash</string>
   <string name="accessibility_hdr">Botón activar HDR</string>
-  <string name="accessibility_module_picker">Selección módulo</string>
   <string name="accessibility_panorama_review_cancel">Cancelar</string>
+  <string name="accessibility_peak">Botón de pico de enfoque</string>
   <string name="accessibility_review_thumbnail">Foto más reciente</string>
   <string name="accessibility_seek_bar_line">Deslizador</string>
   <string name="accessibility_setting_button">Botón ajustes adicionales</string>
