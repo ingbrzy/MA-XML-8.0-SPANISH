@@ -17,14 +17,14 @@
         <item>Mostrar después</item>
      </string-array>
 	 <string-array name="cache_clean_menu">
-        <item>Limpiar</item>
-        <item>Fichero</item>
+        <item>Limpiar este fichero</item>
+        <item>Ver localización del fichero</item>
 		<item>Añadir fichero a excepciones</item>
         <item>Añadir aplicación a excepciones</item>
     </string-array>
 	<string-array name="trash_clean_menu">
-		<item>Limpiar</item>
-        <item>Fichero</item>
+		<item>Limpiar este fichero</item>
+        <item>Ver localización del fichero</item>
 		<item>Añadir fichero a excepciones</item>
         <item>Añadir aplicación a excepciones</item>
      </string-array>		   
@@ -33,9 +33,9 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Limpiar</item>
-        <item>Fichero</item>
-        <item>Excepción</item>
-        <item>Instalar</item>
+        <item>Ver localización del apk</item>
+        <item>Añadir a excepciones</item>
+        <item>Instalar este apk</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Desinstalar</item>

@@ -87,6 +87,7 @@
   <string name="account_setup_failed_dlg_server_message_fmt">"No se puede contactar con el servidor.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"No se pudo terminar"</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Error desconocido.</string>
   <string name="account_setup_failed_ioerror">"No se pudo abrir la conexión al servidor."</string>
   <string name="account_setup_failed_protocol_unsupported">"Se ha escrito una dirección de servidor incorrecta o el servidor necesita una versión de protocolo que no es compatible con Email."</string>
   <string name="account_setup_failed_security">"No se pudo abrir la conexión con el servidor debido a un error de seguridad."</string>
@@ -124,6 +125,7 @@
   <string name="account_setup_options_mail_window_auto">Automático</string>
   <string name="account_setup_options_mail_window_default">Usar cuenta predeterminada</string>
   <string name="account_setup_options_mail_window_label">Días a sincronizar</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Mantener para</string>
   <string name="account_setup_options_title">Configuración de la cuenta</string>
   <string name="account_setup_outgoing_port_label">Puerto</string>
   <string name="account_setup_outgoing_require_login_label">Necesita iniciar sesión</string>
@@ -199,12 +201,7 @@
   <string name="bottom_bar_no_quickreply_toast">Sin respuestas rápida</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Recordar</string>
-  <string name="calendar_remind_gridview_month_later">El mes siguiente</string>
-  <string name="calendar_remind_gridview_nextweek">La semana siguiente</string>
   <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
-  <string name="calendar_remind_gridview_tomorrow">Mañana</string>
-  <string name="calendar_remind_gridview_tonight">Esta noche</string>
-  <string name="calendar_remind_gridview_weekend">El fin de semana</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cant_move_or_change_labels">"No se puede mover porque la selección contiene varias cuentas."</string>
@@ -244,15 +241,15 @@
   <string name="confirm_send_message_with_no_subject">"No existe ningún texto en el asunto del mensaje."</string>
   <string name="confirm_send_title">¿Enviar mensaje?</string>
   <string name="contact_edit_set_black_list">Establecer lista de bloqueo</string>
-  <string name="contact_edit_set_black_list_filtering">Filtrando...</string>
+  <string name="contact_edit_set_black_list_filtering">Filtrando…</string>
   <string name="contact_edit_set_black_list_from">Mover todos los emails de este remitente a la basura</string>
   <string name="contact_edit_set_black_list_receive">Mover emails con este destinatario a la basura (sólo nuevos)</string>
   <string name="contact_edit_set_black_list_receive_summary">Borrar emails que incluyan este destinatario en los campos Para o Cc</string>
-  <string name="contact_edit_set_black_list_title">Establecer lista negra</string>
+  <string name="contact_edit_set_black_list_title">Establecer lista de bloqueo</string>
   <string name="contact_edit_set_phone_contact">Editar contactos del teléfono</string>
   <string name="contact_edit_title_phone_contact">Lista de contactos del teléfono</string>
   <string name="contact_in_filter_call_phone_str">Llamar desde %s</string>
-  <string name="contact_in_filter_title">" de esta persona."</string>
+  <string name="contact_in_filter_title">Remitente</string>
   <string name="contact_info_string">Mostrar la información de contacto de %1$s</string>
   <string name="contact_info_string_default">Mostrar información de contacto</string>
   <string name="contact_list_add_btn">Añadir</string>
@@ -289,6 +286,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">AJUSTES POR DEFECTO</string>
   <string name="default_signature">Enviado desde mi Xiaomi</string>
+  <string name="del_account_questionnair_hint">¿Nos puedes decir por qué estás borrando esta cuenta?</string>
   <string name="delete">Eliminar</string>
   <string name="deleted">Eliminado</string>
   <string name="device_activity_btn_str">Devolverse para activar</string>
@@ -297,6 +295,10 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">El administrador de dispositivos no está activado</string>
   <string name="device_not_activiey_lint2">Servicio de correo no funciona correctamente exchange</string>
+  <string name="dialog_account_auto_sync_setting_no_open">No se pueden recibir nuevos mensajes. La sincronización está apagada.</string>
+  <string name="dialog_auto_sync_setting_no_open">No se pueden recibir nuevos mensajes. La sincronización está apagada.</string>
+  <string name="dialog_change_sync_lookback">El correo recibido hace %s será borrado automáticamente. Tocar para cambiar.</string>
+  <string name="dialog_gmail_proxy_server_is_error">Error de servidor proxy de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No se puede terminar de descargar. No hay suficiente espacio de almacenamiento externo."</string>
   <string name="dialog_insufficient_space_on_internal">"No hay suficiente espacio en el almacenamiento interno."</string>
   <string name="disable_admin_warning">"ADVERTENCIA: Desactivando los permisos de la aplicación de email para administrar el dispositivo, se eliminarán todas las cuentas de email que lo requieran, junto con su email, contactos, calendario de eventos y otros datos."</string>
@@ -418,7 +420,6 @@
   <string name="hide_atts_remaining">Ocultar %1$d adjuntos</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hint_quick_reply_all">Responder a todos</string>
-  <string name="ignore_spam_warning">Ignorar, confió en este mensaje</string>
   <string name="imap_name">IMAP</string>
   <string name="inline_picture_deleted">No se encuentra esta imagen, descargando…</string>
   <string name="input_password_prompt">Introduce tu contraseña</string>
@@ -444,7 +445,7 @@
   <string name="mailbox_list_account_selector_combined_view">Cuenta combinada</string>
   <string name="mailbox_name_display_drafts">Borradores</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
-  <string name="mailbox_name_display_junk">Correo basura</string>
+  <string name="mailbox_name_display_junk">No deseado</string>
   <string name="mailbox_name_display_outbox">Salida</string>
   <string name="mailbox_name_display_sent">Enviados</string>
   <string name="mailbox_name_display_starred">Destacados</string>
@@ -630,6 +631,15 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Tire hacia abajo para actualizar</string>
+  <string name="questionnair_body_invisibility">No se muestran los mensajes</string>
+  <string name="questionnair_confirm_delete">Eliminar</string>
+  <string name="questionnair_instability">Aplicación inestable, reinicios</string>
+  <string name="questionnair_not_send">No se pueden enviar emails</string>
+  <string name="questionnair_not_sync">Sincronización inestable</string>
+  <string name="questionnair_other_reasons">Otras razones</string>
+  <string name="questionnair_title">Eliminando cuenta</string>
+  <string name="questionnair_ui_not_pretty">No me gusta el diseño</string>
+  <string name="questionnair_waste_resource">Borrar puede ganar espacio</string>  
   <string name="quick_1">¡Gracias!</string>
   <string name="quick_2">Me parece muy bien!</string>
   <string name="quick_3">"Que yo iré leyendo esto más adelante y volver a ti."</string>
@@ -671,8 +681,6 @@
   <string name="release_to_refresh">Soltar para refrescar</string>
   <string name="remote_search_result">%s correos encontrados en el servidor</string>
   <string name="remove_account">Eliminar cuenta</string>
-  <string name="remove_account_confirm">La cuenta \"%1$s\" se eliminarán del correo WPS.</string>
-  <string name="remove_account_confirm_title">Eliminar cuenta</string>
   <string name="remove_folder">Borrado de %1$s</string>
   <string name="remove_star">Quitar estrella</string>
   <string name="reply">Responder</string>
@@ -718,9 +726,9 @@
   <string name="ser_resp_err_map_certificate_validator_err">"No se ha podido validar certificado de servidor
 \u0009 (asegúrese si está activado \'Tiempo de sincronización automática\' en Ajustes)"</string>
   <string name="ser_resp_err_map_nouser">No existe ese usuario</string>
-  <string name="ser_resp_err_map_or">O</string>
+  <string name="ser_resp_err_map_or">%1$s o %2$s</string>
   <string name="ser_resp_err_map_pserr">Nombre de usuario o contraseña incorrecta</string>
-  <string name="ser_resp_err_map_serclosed">Servicio cerrado</string>
+  <string name="ser_resp_err_map_serclosed">Servidor %s cerrado</string>
   <string name="ser_resp_err_map_ssl">"Por favor, intente elegir ' SSL/TLS (aceptar todos los certificados)' en 'Tipo de seguridad'"</string>
   <string name="set_network">Definir red</string>
   <string name="settings_activity_title">Ajustes</string>

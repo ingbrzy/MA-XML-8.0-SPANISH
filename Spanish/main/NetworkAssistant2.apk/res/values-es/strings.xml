@@ -413,6 +413,10 @@ Consumo en horas punta: %1$s%2$s queda | %3$s usado"</string>
   <string name="tips_dialog_title">¿No conoce su límite?</string>
   <string name="tips_message">"Si no tiene claros los detalles de su plan de datos puede verlos llamando al %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Límite de uso de datos diario</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Plan mensual cambiado a %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Plan de datos actualizado</string>
+  <string name="traffic_alert_auto_modify_package_summary">Ajustar automáticamente paquete de datos de acuerdo a la información del operador</string>
+  <string name="traffic_config_alert_auto_modify">Actualizar plan de datos automáticamente</string>
   <string name="traffic_config_alert_body">"La contabilidad de su operador muestra que ha usado %s
 ¿Actualizar la información de uso de datos?"</string>
   <string name="traffic_config_alert_body_extra">"
@@ -425,9 +429,6 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
 La contabilidad de su operador muestra que a Vd. le quedan %s de datos de hora valle. Vd. no ha puesto un límite para los datos en hora valle."</string>
   <string name="traffic_config_alert_body_normal">"
 La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hora punta este mes, esto difiere de los %2$s que Vd. ha establecido manualmente."</string>
-  <string name="traffic_config_alert_cancel">Cancelar</string>
-  <string name="traffic_config_alert_nomore">"No mostrar de nuevo"</string>
-  <string name="traffic_config_alert_ok">Aceptar</string>
   <string name="traffic_config_alert_setted">Ajustes aplicados</string>
   <string name="traffic_config_alert_title">%s corrección</string>
   <string name="traffic_correction_failed">No se puede obtener la información</string>
@@ -435,8 +436,7 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_correction_start_correction_failed">Falló la solicitud, por faro compruebe los ajustes del operador</string>
   <string name="traffic_correction_success">Uso de datos actualizado</string>
   <string name="traffic_limit_error_alert_body">"La contabilidad de su compañía muestra que usted tiene %1$s restantes este mes. Eso es más de los %2$s límite que ha configurado manualmente."</string>
-  <string name="traffic_limit_error_alert_iknow">Aceptar</string>
-  <string name="traffic_limit_error_alert_reset">Reiniciar límite</string>
+  <string name="traffic_limit_error_alert_package">Datos restantes incluyen datos que se han pasado del mes anterior.</string>
   <string name="traffic_limit_error_alert_title">Recordatorio límite de datos %s</string>
   <string name="traffic_none">Ninguno</string>
   <string name="traffic_over_purchase_body">Toque para ver los detalles.</string>

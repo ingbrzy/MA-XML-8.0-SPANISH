@@ -19,6 +19,9 @@
   <string name="activate_phone_failed_notif_title_msim">No se puede iniciar Mi Cloud para la SIM %s</string>
   <string name="activate_phone_success_notif_title">Tarjeta SIM activada</string>
   <string name="activate_phone_success_notif_title_msim">Tarjeta SIM %s activada</string>
+  <string name="activate_popup_confirm_all_gateway_failed_query_info">Reintentar</string>
+  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Reintentar</string>
+  <string name="activate_popup_confirm_error_device_id">Reintentar</string>
   <string name="activate_popup_confirm_failed_phone_error">Reintentar</string>
   <string name="activate_popup_confirm_failed_query_info">Reintentar</string>
   <string name="activate_popup_confirm_failed_receive_sms">Reintentar</string>
@@ -27,6 +30,7 @@
   <string name="activate_popup_confirm_upload_diagnosis_info">Informar</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Se enviarán 2 SMS internacionales para activar %s. Le cobrará su operador.</string>
   <string name="activate_popup_desc_2_sim_cards">Se enviarán 2 SMS para activar %s. Le cobrará su operador.</string>
+  <string name="activate_popup_desc_error_device_id">Marca *#06# para comprobar el IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">El número introducido no es válido.</string>
   <string name="activate_popup_desc_failed_query_info">No puede adquirir su número de teléfono. Por favor asegúrese que la tarjeta SIM está en servicio.</string>
   <string name="activate_popup_desc_failed_receive_sms">Por favor, compruebe el número ingresado y asegúrese de que su tarjeta SIM esté en servicio.</string>
@@ -50,6 +54,7 @@
   <string name="activate_popup_desc_upload_diagnosis_info">¿Informar de este problema a Mi? (ID del informe : %s)</string>
   <string name="activate_popup_link_diagnosis_detail">¿Qué información se va a incluir?</string>
   <string name="activate_popup_title_diagnosis_detail">Información de diagnosis</string>
+  <string name="activate_popup_title_error_device_id">IMEI inválido</string>
   <string name="activate_popup_title_failed_phone_error">Error de activación</string>
   <string name="activate_popup_title_failed_query_info">Error de activación</string>
   <string name="activate_popup_title_failed_receive_sms">Error de activación</string>
@@ -66,6 +71,7 @@
   <string name="activate_status_desc_checking_xiaomi_account">Verificación de la cuenta Mi</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Se ha producido un error en la verificación de su cuenta Mi</string>
   <string name="activate_status_desc_completed_with_sms_sent">Enviado SMS para activar SIM</string>
+  <string name="activate_status_desc_device_id_error">IMEI inválido</string>
   <string name="activate_status_desc_failed_getting_gateway">"No se pudo recuperar la pasarela SMS"</string>
   <string name="activate_status_desc_getting_gateway">Recibiendo pasarela SMS</string>
   <string name="activate_status_desc_getting_sim_info">Obtener información de la tarjeta SIM</string>

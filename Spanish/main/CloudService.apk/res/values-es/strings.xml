@@ -42,16 +42,18 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_back_up_button_ok">Forzar parada</string>
   <string name="cloud_back_up_close_info">Pulse para realizar copia de seguridad.</string>
   <string name="cloud_back_up_dialog_content">"¿Parar copia de seguridad en progreso? Si para ahora, no podrá utilizar esta copia de seguridad para restaurar aplicaciones."</string>
-  <string name="cloud_back_up_interval_long">7 días</string>
-  <string name="cloud_back_up_interval_short">1 hora</string>
   <string name="cloud_back_up_network_unavailable">"No se pudo eliminar. Conecte con Wi-Fi y vuelva a intentarlo."</string>
   <string name="cloud_back_up_open_info">"Copiar cuando esté conectado a Wi-Fi una vez cada %1$s
 Última copia: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Copiar cuando esté conectado a Wi-Fi una vez cada %1$s</string>
   <string name="cloud_back_up_remove_success">Copia de seguridad eliminada</string>
-  <string name="cloud_back_up_title">Copia de seguridad de la pantalla de inicio</string>
+  <string name="cloud_back_up_summary">Copiar cuando esté conectado a Wi-Fi</string>
+  <string name="cloud_back_up_title">Copiar dispositivo</string>
   <string name="cloud_backup_dialog_title">Copia de seguridad con Mi Cloud</string>
+  <string name="cloud_backup_have_data">Encontrada copia en Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Elegir copia de Mi Cloud</string>
   <string name="cloud_find_device">Encontrar dispositivo</string>
+  <string name="cloud_restore_title">Restaurar desde copia</string>
   <string name="cloud_space_upgrade_message">Toque para obtener %s GB de espacio gratis este mes</string>
   <string name="cloud_space_upgrade_no_quota_info">Fecha errónea, por favor inténtelo de nuevo</string>
   <string name="cloud_space_upgrade_title">Más espacio para Mi Cloud</string>
@@ -112,8 +114,10 @@ Si cambias de tarjeta SIM se enviará otro SMS automáticamente para reactivar e
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Aprox. 18 EUR al año</string>
+  <string name="header_cloud_backup_settings">Copia y recuperación</string>
+  <string name="header_cloud_restore_summary">Reinstalar aplicaciones y recuperar pantalla de inicio y ajustes de sistema desde una copia de Mi Cloud</string>
   <string name="header_data_and_synchronization">Datos y sincronización</string>
-  <string name="header_other_settings">Otros</string>
+  <string name="header_find_device_settings">Encontrar dispositivo</string>
   <string name="i_know">Aceptar</string>
   <string name="input_password_hint">Introducir contraseña</string>
   <string name="license_host_unreachable">"No se pudo conectar a la red. Para ver esta información ahora, vaya a %s."</string>

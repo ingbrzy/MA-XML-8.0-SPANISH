@@ -610,6 +610,10 @@ Asegúrate de que tu dedo cubre la parte interior del sensor</string>
      <string name="clear_failed_dlg_text">"No se pudieron eliminar los datos para la aplicación."</string>
      <string name="clear_failed_dlg_title">Eliminar datos</string>
      <string name="clear_user_data_text">Eliminar datos</string>
+	 <string name="cloud_backup_section_title">Copia de seguridad de Mi Cloud</string>
+	 <string name="cloud_backup_settings_section_title">Ajustes de copia</string>
+	 <string name="cloud_restore_section_summary">Restaurar aplicaciones, pantalla de inicio y ajustes del sistema</string>
+	 <string name="cloud_restore_section_title">Restaurar desde Mi Cloud</string>
      <string name="cmcc_hardware_version">Versión hardware</string>
      <string name="color_black">Negro</string>
      <string name="color_blue">Azul</string>
@@ -1111,6 +1115,7 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="free_wifi_user_agreement_allow">Acordar</string>
      <string name="free_wifi_user_agreement_title">Términos de uso</string>
      <string name="free_wifi_wiwide_provider">WiWide</string>
+	 <string name="free_xiaomi_wifi_connect_summary">Toca para conectarte a %1$s.</string>
      <string name="frequently_fragment_delete">Eliminar</string>
      <string name="frequently_fragment_tempty">Los elementos usados frecuentemente aparecerán listados aqui</string>
      <string name="gadget_bluetooth">Bluetooth</string>
@@ -2342,7 +2347,7 @@ Posiblemente PIN incorrecto."</string>
      <string name="sms_received_sound_title">Mensaje recibido</string>
      <string name="sort_order_alpha">Ordenar por nombre</string>
      <string name="sort_order_size">Ordenar por tamaño</string>
-     <string name="sound_category_call_ringtone_vibrate_title">Tono de llamada y vibración</string>
+     <string name="sound_category_call_ringtone_vibrate_title">Tono y vibración</string>
      <string name="sound_category_notification_title">Notificaciones</string>
      <string name="sound_category_sound_title">General</string>
      <string name="sound_category_system_title">Sistema</string>

@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Copia de disposición de pantalla de inicio​</string>
+  <string name="about_to_recover">Un momento…</string>
+  <string name="app_name">Copia de seguridad Mi Cloud</string>
+  <string name="as_new_device">Reemplazar ajustes y pantalla de inicio previas</string>
+  <string name="as_new_device_summary">Borrar copias previas de Mi Cloud</string>
   <string name="back_up_task_in_process">Realizando copia de seguridad…</string>
   <string name="back_up_task_unfinished">copia de seguridad no finalizada</string>
   <string name="backing_up_to_micloud">Realizando copia de seguridad…</string>
-  <string name="backup_fail">No se pudo hacer la copia de las aplicaciones de pantalla de inicio</string>
+  <string name="backup_fail">No se pudo hacer la copia</string>
   <string name="backup_size">Tamaño: %s</string>
-  <string name="backup_success">Copia de seguridad de aplicaciones de pantalla de inicio realizada</string>
+  <string name="backup_success">Copia realizada</string>
   <string name="backup_to_cloud">Copia de seguridad de aplicación</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_delete">Borrar</string>
@@ -17,7 +20,7 @@
   <string name="cloud_app_check_data">Conectando con Mi Cloud…</string>
   <string name="cloud_app_current_device">Dispositivo actual</string>
   <string name="cloud_app_dont_restore">"No restaurar"</string>
-  <string name="cloud_app_no_data">Sin pantalla de inicio y aplicaciones</string>
+  <string name="cloud_app_no_data">No hay copias</string>
   <string name="cloud_app_no_network">"No se puede conectar a la red"</string>
   <string name="cloud_app_other_devices">Otros dispositivos</string>
   <string name="cloud_app_restore_app_and_data">Restaurar diseño de escritorio y aplicaciones</string>
@@ -25,10 +28,40 @@
   <string name="cloud_app_restore_error">"No se pudo restaurar"</string>
   <string name="cloud_app_restore_success">Aplicaciones restauradas</string>
   <string name="cloud_app_restore_wifi_prompt">Para restaurar la aplicación, conectese a una red Wi-Fi.</string>
-  <string name="cloud_back_up_task">Realizando copia de seguridad…</string>
-  <string name="cloud_restore_from_other_device">la restauración desde %s está en proceso, borrar la copia de seguridad de la misma cancelará la tarea, está seguro de borrarla?</string>
+  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+  <string name="cloud_back_up_detail_discription">"Los datos de la copia se guardarán en Mi Cloud cuando el dispositivo esté conectado a Wi-Fi:
+*\u0009\u0009\u0009\u0009Aplicaciones y disposición de pantalla de inicio
+*\u0009\u0009\u0009\u0009Tonos, fondos y fuentes
+*\u0009\u0009\u0009\u0009Alarmas y ajustes de tiempo
+*\u0009\u0009\u0009\u0009Ajustes de notificaciones
+*\u0009\u0009\u0009\u0009Ajustes del modo No molestar
+*\u0009\u0009\u0009\u0009Ajustes de MIUI y del sistema 
+Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</string>
+  <string name="cloud_back_up_frequence_choice_title">Programar copia</string>
+  <string name="cloud_back_up_frequence_long">Cada 7 días</string>
+  <string name="cloud_back_up_frequence_short">Todos los días</string>
+  <string name="cloud_back_up_interval_long">7 días</string>
+  <string name="cloud_back_up_interval_short">Cada día</string>
+  <string name="cloud_back_up_no_network_warn">No se puede conectar a la red</string>
+  <string name="cloud_back_up_ok_btn">Aceptar</string>
+  <string name="cloud_back_up_opening">Un momento…</string>
+  <string name="cloud_back_up_share_activity_confirm">Actualizar</string>
+  <string name="cloud_back_up_share_activity_discription">Consigue más espacio, copias diarias y más.</string>
+  <string name="cloud_back_up_share_activity_title">Actualizar cuenta Mi</string>
+  <string name="cloud_back_up_task">Copiando…</string>
+  <string name="cloud_backup_detail_frequence">Programación de la copia</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s copiar una vez</string>
+  <string name="cloud_backup_detail_manage">Administrar copia</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s copia, tamaño: %2$s</string>
+  <string name="cloud_backup_detail_state">Copia de seguridad de Mi Cloud</string>
+  <string name="cloud_backup_detail_state_summary">Aplicaciones, pantalla de inicio y ajustes del sistema</string>
+  <string name="cloud_backup_detail_time">, hora de la copia:%1$s</string>
+  <string name="cloud_restore_from_other_device">La restauración desde %s está en proceso, borrar la copia de seguridad de la misma cancelará la tarea, está seguro de borrarla?</string>
   <string name="cloud_restore_task">Restaurando…</string>
   <string name="cloud_task_in_process">Hay un %s tarea en proceso! Borrando la copia de seguridad del dispositivo actual cancelará la tarea, está seguro de borrarla?</string>
+  <string name="confirm_restore">Restaurar</string>
+  <string name="confirm_restore_summary">La pantalla de inicio se reiniciará y las aplicaciones se descargarán automáticamente cuando estés conectado a Wi-Fi</string>
+  <string name="confirm_restore_title">Restaurar</string>
   <string name="customization"><u>Personalizar</u></string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarma del reloj</string>
@@ -56,6 +89,9 @@
   <string name="open_wifi_description">Conéctese a una red Wi-Fi para restaurar aplicaciones</string>
   <string name="open_wifi_setting">Configuración Wi-Fi</string>
   <string name="process_whole_recovery">Restaurando \"%s\"</string>
+  <string name="query_restore_back_view">Copia de seguridad de Mi Cloud</string>
+  <string name="query_restore_description">Restaurar aplicaciones de pantalla de inicio y ajustes usando esta copia. Esto sobreescribirá los datos de las aplicaciones ya instaladas en el dispositivo. Las aplicaciones no incluídas en la copia se moverán a la última pantalla del escritorio.</string>
+  <string name="query_restore_summary">Se encontró una copia en Mi Cloud para este dispositivo. ¿Restaurar aplicaciones de pantalla de inicio y ajustes o usarlo como nuevo dispositivo y borrar las copias previas de Mi Cloud?</string>
   <string name="recover_from_micloud">Restaurar de copia en Mi Cloud</string>
   <string name="recover_home_settings">Restaurar configuración de la pantalla de inicio</string>
   <string name="recover_miui_settings">Restaurar ajustes del sistema</string>
@@ -63,12 +99,16 @@
   <string name="recovering">Restaurando %s</string>
   <string name="remove_task_in_process">Eliminando…</string>
   <string name="remove_task_unfinished">Eliminado no finalizado</string>
+  <string name="restore_data_summary">Esta funcionalidad requiere conexión a internet.</string>
   <string name="restore_from_cloud">Restaurar desde Mi Cloud</string>
+  <string name="restore_from_this_device">Restaurar usando esta copia</string>
+  <string name="restore_home_screen_apps">Restaurar desde copia de Mi Cloud</string>
   <string name="restoreing_file_tile">Restaurando %d archivos</string>
   <string name="retry">Reintentar</string>
   <string name="self_phone">Este teléfono</string>
   <string name="start_backup_to_micloud">Realizar copia de seguridad de aplicaciones a Mi Cloud</string>
-  <string name="start_recover">Recuperado %s</string>
+  <string name="start_recover">Recuperar %s</string>
+  <string name="success_open_cloudbackup">Copias de aplicaciones de pantalla de inicio encendidas</string>
   <string name="wait_icon_download">Descargando iconos de aplicaciones</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
