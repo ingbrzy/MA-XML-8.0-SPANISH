@@ -1087,6 +1087,7 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="force_stop">Forzar detención</string>
      <string name="force_stop_dlg_text">Si fuerza la detención de una aplicación, puede funcionar erróneamente.</string>
      <string name="force_stop_dlg_title">¿Forzar detención?</string>
+	 <string name="forget_password_button_text"><u>Olvidé la contraseña</u></string>
      <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
      <string name="found_new_version">Actualización disponible</string>
      <string name="free_wifi_agreement_remind_never">"No mostrar de nuevo"</string>
@@ -2035,7 +2036,8 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
  No se perderá ningún dato de aplicación."</string>
      <string name="reset_app_preferences_title">Restablecer preferencias de aplicación?</string>
      <string name="reset_legacy_password_settings_preface_text">Tiene que cambiar la contraseña de pantalla de bloqueo.</string>
-     <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
+     <string name="resolver_settings_label">Ordenar</string>
+	 <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
      <string name="restore_default_apn">Restaurando ajustes APN por defecto.</string>
      <string name="restore_default_apn_completed">Reseteo de ajustes APN por defecto completo.</string>
      <string name="restrict_background_data_dialog_summary">Las aplicaciones que se están ejecutando en segundo plano no pueden recibir mensajes</string>

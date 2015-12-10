@@ -19,8 +19,15 @@
 	 <string-array name="cache_clean_menu">
         <item>Limpiar</item>
         <item>Fichero</item>
-        <item>Excepción</item>
+		<item>Añadir fichero a excepciones</item>
+        <item>Añadir aplicación a excepciones</item>
     </string-array>
+	<string-array name="trash_clean_menu">
+		<item>Limpiar</item>
+        <item>Fichero</item>
+		<item>Añadir fichero a excepciones</item>
+        <item>Añadir aplicación a excepciones</item>
+     </string-array>		     </string-array>
 	<string-array name="empty_floder_clean_menu">
         <item>Limpiar</item>
     </string-array>
@@ -31,9 +38,6 @@
         <item>Instalar</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Detalles</item>
-        <item>Fichero</item>
-        <item>Copiar y desinstalar</item>
         <item>Desinstalar</item>
     </string-array>
      <string-array name="cache_sort_type">

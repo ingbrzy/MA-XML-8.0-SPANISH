@@ -100,8 +100,10 @@
   <string name="callrecordview_item_op_time_rejected">Rechazado</string>
   <string name="callrecordview_item_op_time_short_incoming">"Entrante: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Saliente: "</string>
+  <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Añadir nota de llamada</string>
   <string name="callrecordview_menu_batch_delete">Eliminar lote</string>
+  <string name="callrecordview_menu_conference">Conferencia</string>
   <string name="callrecordview_menu_delete">Limpiar registro de llamadas </string>
   <string name="callrecordview_menu_delete_accepted">Limpiar llamadas respondidas</string>
   <string name="callrecordview_menu_delete_all">Limpiar registro de llamadas</string>
@@ -663,6 +665,11 @@ Motivo: \"%s\""</string>
   <string name="missing_name">(Sin nombre)</string>
   <string name="more_call_logs">Ver registro detallado de llamadas en i.mi.com</string>
   <string name="move_and_resize">Mover y cambiar el tamaño</string>
+  <string name="multi_number_menu_call">Llamar</string>
+  <string name="multi_number_menu_delete">Eliminar</string>
+  <string name="multi_number_menu_group">Nuevo grupo</string>
+  <string name="multi_number_menu_message">Mensaje</string>
+  <string name="multi_number_title">Conferencia</string>
   <string name="multipleContactDeleteConfirmation">Eliminar este contacto eliminará la información en varias cuentas.</string>
   <string name="multipleContactDeleteConfirmationDetail">Al eliminar \"%s\" sera eliminado de varias cuentas.</string>
   <string name="my_in_call_show">Mi vídeo</string>
@@ -1114,6 +1121,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="search_settings_description">Nombres de tus contactos</string>
   <string name="searching_vcard_message">Buscando vCard en el almacenamiento…</string>
   <string name="select_all">Seleccionar todo</string>
+  <string name="select_done">No hay más para seleccionar</string>
   <string name="select_groups">Grupos seleccionados</string>
   <string name="select_new_photo_from_photo_package">Navegar por las carpetas</string>
   <string name="select_none">Nada seleccionado</string>
@@ -1259,6 +1267,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="vcard_import_will_start_message">%s se importarán pronto.</string>
   <string name="vcard_import_will_start_message_with_default_name">El archivo se importará dentro de poco.</string>
   <string name="vcard_unknown_filename">Contacto</string>
+  <string name="video_call">Videollamada</string>
   <string name="video_chat">Videochat</string>
   <string name="viewContactDesription">Ver contacto</string>
   <string name="viewContactTitle">Datos de contacto</string>

@@ -244,9 +244,11 @@
   <string name="confirm_send_message_with_no_subject">"No existe ningún texto en el asunto del mensaje."</string>
   <string name="confirm_send_title">¿Enviar mensaje?</string>
   <string name="contact_edit_set_black_list">Establecer lista de bloqueo</string>
-  <string name="contact_edit_set_black_list_from">Borrar todos los emails de este remitente</string>
-  <string name="contact_edit_set_black_list_receive">Borrar emails con este destinatario</string>
+  <string name="contact_edit_set_black_list_filtering">Filtrando...</string>
+  <string name="contact_edit_set_black_list_from">Mover todos los emails de este remitente a la basura</string>
+  <string name="contact_edit_set_black_list_receive">Mover emails con este destinatario a la basura (sólo nuevos)</string>
   <string name="contact_edit_set_black_list_receive_summary">Borrar emails que incluyan este destinatario en los campos Para o Cc</string>
+  <string name="contact_edit_set_black_list_title">Establecer lista negra</string>
   <string name="contact_edit_set_phone_contact">Editar contactos del teléfono</string>
   <string name="contact_edit_title_phone_contact">Lista de contactos del teléfono</string>
   <string name="contact_in_filter_call_phone_str">Llamar desde %s</string>
@@ -340,6 +342,7 @@
   <string name="exchange_name">Corporativo</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Ampliar detalles del destinatario</string>
+  <string name="fail_get_email_message">Recuperación de mensaje fallida.</string>
   <string name="failed">"No se pudo cargar la imagen"</string>
   <string name="feedback">Enviar comentarios</string>
   <string name="feedback_body">Comentarios</string>
@@ -360,6 +363,8 @@
   <string name="folder_junk_name_cn1">Papelera</string>
   <string name="folder_junk_name_en0">No deseado</string>
   <string name="folder_junk_name_en1">Correo masivo</string>
+  <string name="folder_junk_name_en2">Correo basura</string>
+  <string name="folder_junk_name_en3">Correo basura</string>
   <string name="folder_picker_title">Selector de carpeta</string>
   <string name="folder_removed">Borrado de %1$s</string>
   <string name="folder_sent_name_cn0">Enviado</string>
@@ -439,7 +444,7 @@
   <string name="mailbox_list_account_selector_combined_view">Cuenta combinada</string>
   <string name="mailbox_name_display_drafts">Borradores</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
-  <string name="mailbox_name_display_junk">No deseado</string>
+  <string name="mailbox_name_display_junk">Correo basura</string>
   <string name="mailbox_name_display_outbox">Salida</string>
   <string name="mailbox_name_display_sent">Enviados</string>
   <string name="mailbox_name_display_starred">Destacados</string>

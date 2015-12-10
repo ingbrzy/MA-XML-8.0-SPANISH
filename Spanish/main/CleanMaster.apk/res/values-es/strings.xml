@@ -73,6 +73,11 @@
 	 <string name="deepclean_cache_content">Limpiar datos generados por aplicaciones</string>
      <string name="deepclean_cache_header_left">Ficheros de datos: %d</string>
      <string name="deepclean_large_content">Eliminar ficheros mayores a 10MB</string>
+	 <string name="deepclean_list_item_from_app">App store</string>
+	 <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
+	 <string name="deepclean_list_item_from_download">Descargas</string>
+	 <string name="deepclean_list_item_from_gallery">Galería</string>
+	 <string name="deepclean_list_item_from_sdcard">Tarjeta SD</string>
      <string name="deepclean_similar_ignore">Ignorar</string>
      <string name="deepclean_title_large_file">Eliminar ficheros grandes</string>
      <string name="deepclean_title_uninstall_apps">Aplicaciones poco usadas</string>
@@ -112,6 +117,7 @@
      <string name="hints_app_uninstall_residual">¿Limpiar archivos residuales de desintalación?</string>
      <string name="hints_cache_header_left">Archivos de caché</string>
      <string name="hints_cleanfinish">Limpieza completada</string>
+	 <string name="hints_deepclean_list_item_from">Desde %s</string>
      <string name="hints_deepclean_scanning">Escaneando %s</string>
      <string name="hints_finish_quick_cleanup">Hecho</string>
      <string name="hints_finish_quick_cleanup_title">Acabada limpieza %s residuales</string>

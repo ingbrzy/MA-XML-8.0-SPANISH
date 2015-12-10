@@ -275,6 +275,13 @@
   <string name="mx_activate_int_hint_malformed_info">Tu operador puede cobrar por mensaje SMS Internacional utilizado para reactivar Mi Message.</string>
   <string name="mx_activate_int_hint_server">Tu operador puede cobrar por mensaje SMS Internacional utilizado para reactivar Mi Message.</string>
   <string name="mx_activate_int_hint_sim_change">"Parece que has cambiado las tarjetas SIM. Tu operador puede cobrar por el mensaje de reactivación de Mi Message."</string>
+  <string name="mx_activate_status_desc_activating_now">Activando…</string>
+  <string name="mx_activate_status_desc_check_net_connection">No se pudo conectar a la red</string>
+  <string name="mx_activate_status_desc_fail">No se pudo activar Mi Message</string>
+  <string name="mx_activate_status_desc_prepare_sending_sms">Enviando mensaje de activación…</string>
+  <string name="mx_activate_status_desc_query_activte_info">Comprobando información de la SIM…</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">El número de teléfono introducido es inválido</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">No se pudo activar Mi Message</string>
   <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
   <string name="mx_and_voip_enable_popup_msg">Enviar mensajes y hacer llamadas a otros usuarios de MIUI sin incurrir en gastos con tu proveedor. VoIP desarrollada por Weihui. Ver Política de Privacidad de Weihui.</string>
   <string name="mx_and_voip_enable_popup_msg2">Política de Privacidad</string>
@@ -294,6 +301,10 @@
   <string name="mx_dspt_provision">Mi Message permite enviar y recibir SMS con cualquier usuario de MIUI sin sufrir cargos de SMS. Su compañía podría cobrarle por el SMS usado para activar este servicio.</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_popup_msg">Envia mensajes a otros usuarios de MIUI gratis.</string>
+  <string name="mx_filter_message_from_stranger">Bloquear Mi Messages de números desconocidos</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">Seguirás recibiendo SMS de números desconocidos. Puedes activar o desactivar esta funcionalidad en Mensajes &gt; Ajustes."</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Messages de números desconocidos</string>
+  <string name="mx_filter_message_from_stranger_summary">Seguirás recibiendo SMS de números desconocidos</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Fuera de línea</string>
   <string name="mx_on_sim_1">Mensaje Mi con la SIM de la ranura 1</string>
@@ -335,6 +346,7 @@
   <string name="pref_edit_smsc_address">Número de centro de SMS</string>
   <string name="pref_forward_title">Adelante</string>
   <string name="pref_key_mx_feedback">Enviar comentarios</string>
+  <string name="pref_message_recovery_introduction_title">Recuperar mensaje</string>
   <string name="pref_messages_to_save">Establecer numero de mensajes a guardar</string>
   <string name="pref_mms_settings_title">Mensajes multimedia (MMS)</string>
   <string name="pref_notification_settings_title">Notificaciones</string>

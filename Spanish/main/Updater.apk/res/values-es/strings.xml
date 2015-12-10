@@ -28,8 +28,14 @@
   <string name="button_text_update">Actualizar</string>
   <string name="cancel_download">¿Detener la descarga de esta actualización?</string>
   <string name="cancel_download_buton_text">Cancelar</string>
+  <string name="check_local_package_update_btn">Reiniciar y actualizar</string>
+  <string name="check_local_package_update_msg">Vas a actualizar a la versión %s de MIUI. El dispositivo se reiniciará automáticamente durante la actualización.</string>
+  <string name="check_local_package_update_title">Actualizar</string>
   <string name="check_local_package_validate_error_button">Aceptar</string>
   <string name="check_local_package_validate_error_msg">No se pudo verificar el paquete.</string>
+  <string name="check_local_package_wipe_btn">Borrar y actualizar</string>
+  <string name="check_local_package_wipe_msg">Vas a cambiar a la versión %s de MIUI, que es más vieja que tu versión actual. Tus datos personales serán borrados. Asegúrate de copiar todos los elementos importantes antes de iniciar el proceso.</string>
+  <string name="check_local_package_wipe_title">Borrar datos</string>
   <string name="check_new_version">Comprobar</string>
   <string name="check_update_policy">Ajustes</string>
   <string name="check_update_when_wifi_available">Utilizar sólo Wi-Fi para comprobar actualizaciones</string>
@@ -42,6 +48,9 @@
   <string name="comment_upload_hint">¡Gracias por su opinión!</string>
   <string name="comment_upload_not_logined">Primero tienes que iniciar sesión en tu cuenta Mi</string>
   <string name="comment_upload_success">Enviado</string>
+  <string name="confirm_local_package_wipe_btn">Borrar y actualizar</string>
+  <string name="confirm_local_package_wipe_msg">Tus datos personales serán borrados. Asegúrate de copiar todos los elementos importantes antes de iniciar el proceso.</string>
+  <string name="confirm_local_package_wipe_title">¿Borrar datos?</string>
   <string name="daily_build">Diaria</string>
   <string name="download_again">Descargar de nuevo</string>
   <string name="download_cancel">Cancelar</string>
