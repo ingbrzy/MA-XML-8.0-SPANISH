@@ -72,6 +72,7 @@
   <string name="cleaning">Limpiando…</string>
   <string name="close">Cerrar</string>
   <string name="compress_fail">No se pudo comprimir. Ya existe un archivo con el mismo nombre.</string>
+  <string name="compress_fail_unknown">No se pudo comprimir. Almacenamiento completo o error desconocido.</string>
   <string name="compress_message">Comprimir en…</string>
   <string name="compress_title">Comprimir</string>
   <string name="confirm">Aceptar</string>
@@ -102,7 +103,7 @@
   <string name="decompress_confirm">Extraer</string>
   <string name="decompress_destination_error">No se pueden extraer los ficheros en esta ubicación</string>
   <string name="decompress_encrypted_rar_not_supported">Los ficheros encriptados rar no están soportados.</string>
-  <string name="decompress_fail">No se pudieron extraer los ficheros. Ya existe un archivo con el mismo nombre o el archivo está corrupto.</string>
+  <string name="decompress_fail">No se pudo extraer. Almacenamiento completo o error desconocido.</string>
   <string name="decompress_input_password">Introduce la contraseña…</string>
   <string name="decompress_password_error">La contraseña introducida es errónea.</string>
   <string name="decompress_success">Extracción completada</string>
@@ -252,7 +253,9 @@ Nuestro servidor está caído. Por favor, inténtalo más tarde…
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"No se puede cortar"</string>
+  <string name="move_icon_to_desktop_hint">Crea un acceso directo en la pantalla de inicio para administrar los ficheros más eficazmente.</string>
   <string name="move_to">Mover a…</string>
+  <string name="move_to_confirm">Crear</string>
   <string name="msg_set_password">Establecer contraseña primero</string>
   <string name="multi_select_title">%1$s seleccionados</string>
   <string name="my_app">Datos de la aplicación</string>

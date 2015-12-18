@@ -1447,6 +1447,9 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="lockscreen_glogin_checking_password">Comprobando…</string>
      <string name="lockscreen_glogin_password_hint">Contraseña</string>
      <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
+	 <string name="login_account_dialog_message">Inicia sesión con tu cuenta Mi y enciende la sincronización con Mi Cloud.</string>
+	 <string name="login_account_dialog_title">Iniciar sesión con cuenta Mi</string>
+	 <string name="login_action">Iniciar sesión</string>
      <string name="lte_ram_dump_off">Desactivar volcado ram lte</string>
      <string name="lte_ram_dump_on">Activar volcado ram lte</string>
      <string name="macaddr_label">Dirección MAC:</string>
@@ -1615,6 +1618,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="music_dirac_mode_general_earbuds">Normales</string>
      <string name="music_dirac_mode_general_inear">In-ear normales</string>
      <string name="music_dirac_mode_in_ear">Mi in-ear</string>
+	 <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
      <string name="music_dirac_mode_off">Dirac desactivado</string>
      <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
      <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -1855,6 +1859,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="print_blocked_state_title_template">Impresora bloqueada %1$s</string>
      <string name="print_cancel">Cancelar</string>
      <string name="print_cancelling_state_title_template">Cancelando %1$s</string>
+	 <string name="print_enable">Habilitar impresión</string>
      <string name="print_failed_state_title_template">Error de impresora %1$s</string>
      <string name="print_feature_state_off">Apagar</string>
      <string name="print_feature_state_on">Encender</string>
@@ -1870,6 +1875,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="print_print_job">Trabajo de impresión</string>
      <string name="print_print_jobs">Trabajos de impresión</string>
      <string name="print_printing_state_title_template">Imprimiendo %1$s</string>
+	 <string name="print_remind">Habilitar impresión primero</string>
      <string name="print_restart">Reiniciar</string>
      <string name="print_search_box_hidden_utterance">Buscar buzón oculto</string>
      <string name="print_search_box_shown_utterance">Buscar buzón</string>

@@ -399,8 +399,8 @@ con %s"</string>
   <string name="kg_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
   <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden.</string>
   <string name="kg_invalid_puk">Vuelve a introducir el código PUK correcto. Si introduces un código incorrecto varias veces, se desactivará la tarjeta SIM.</string>
-  <string name="kg_invalid_sim_pin_hint">Introduce un código PIN con una longitud comprendida entre cuatro y ocho dígitos.</string>
-  <string name="kg_invalid_sim_puk_hint">El código PUK debe tener ocho números como mínimo.</string>
+  <string name="kg_invalid_sim_pin_hint">El PIN debe contener entre cuatro y ocho dígitos.</string>
+  <string name="kg_invalid_sim_puk_hint">El PUK debe tener ocho números al menos.</string>
   <string name="kg_login_account_recovery_hint">""Si has olvidado tu nombre de usuario o tu contraseña,
 accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="kg_login_checking_password">Comprobando cuenta…</string>
