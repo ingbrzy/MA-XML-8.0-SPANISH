@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Búsqueda</string>
+  <string name="apps_search_activity"/>
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_history">Borrar historial</string>
   <string name="clear_shortcuts">Borrar accesos directos</string>
   <string name="clear_shortcuts_agree">Borrar accesos directos</string>
@@ -22,15 +24,20 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="cta_declaration_positive_text">Aceptar y continuar</string>
   <string name="cta_declaration_title">Términos del Servicio</string>
   <string name="default_hint">Busca aplicaciones, música, vídeos, libros...</string>
+  <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">Borrar accesos directos</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
   <string name="google_app_label">Google Search</string>
+  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Sugerencias de Google search</string>
   <string name="google_search_hint">Google Search</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google Search</string>
+  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="loading">Un momento…</string>
   <string name="menu_help">Ayuda</string>
   <string name="menu_settings">Ajustes de búsqueda</string>
@@ -44,19 +51,14 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="search_sources">Elementos rastreables</string>
   <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
   <string name="search_widget">Buscar</string>
-  <string name="searchable_lable_app">apps</string>
-  <string name="searchable_lable_browser">navega</string>
-  <string name="searchable_lable_duokan">duokan</string>
-  <string name="searchable_lable_music">música</string>
-  <string name="searchable_lable_o2o">mapas</string>
-  <string name="searchable_lable_video">vídeo</string>
-  <string name="searchable_sources">En línea</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="show_more">Mostrar más</string>
   <string name="system_search_category_title">Teléfono</string>
-  <string name="voice_search_hint_title">"Prueba diciendo: "</string>
+  <string name="voice_search_hint_quotation_end">\"</string>
+  <string name="voice_search_hint_quotation_start">\"</string>
+  <string name="voice_search_hint_title">"Prueba diciendo "</string>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
   <string name="xiaomi_search_label">Resultados</string>
-  <string name="xiaomi_suggest_base"/>
-  <string name="xiaomi_hot_query"/>
-  <string name="xiaomi_hint"/>  
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>
