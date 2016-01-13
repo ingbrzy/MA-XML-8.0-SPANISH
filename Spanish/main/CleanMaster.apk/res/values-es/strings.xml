@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string name="activity_title_ad">Publicidad</string>
      <string name="activity_title_apk">Paquetes</string>
 	 <string name="activity_title_brightness_image">Sub y sobreexpuestas</string>
      <string name="activity_title_cache">Caché</string>
      <string name="activity_title_cache_data">Datos de aplicación</string>
+	 <string name="activity_title_deep_apk">Borrar APKs</string>
      <string name="activity_title_deep_clean">Limpieza profunda</string>
      <string name="activity_title_garbage_cleanup">Limpiador</string>
 	 <string name="activity_title_ignored_image">Ignoradas</string>
@@ -21,6 +21,7 @@
 	 <string name="activity_title_similar_image_group">Borrar duplicadas</string>
 	 <string name="activity_title_tedious_image">Fotos accidentales</string>
      <string name="activity_title_uninstall_apps">Aplicaciones</string>
+	 <string name="activity_title_video">Borrar vídeos</string>
      <string name="activity_title_white_list">Excepciones</string>
      <string name="apk_status_damage">Corrupto</string>
      <string name="apk_status_duplicate">Duplicado</string>
@@ -47,6 +48,8 @@
      <string name="button_text_delete_from_white_list">Quitar</string>
 	 <string name="button_text_delete_pic">Eliminar</string>
 	 <string name="button_text_deselect_all_photos">Deseleccionar todo</string>
+	 <string name="button_text_group_ignore">Ignorar</string>
+	 <string name="button_text_group_unlike">No hay duplicadas</string>
      <string name="button_text_install">Instalar</string>
 	 <string name="button_text_install_now">Instalar</string>
      <string name="button_text_keep_one">Mantener uno</string>
@@ -83,6 +86,9 @@
      <string name="confirm_auto_cleaner">Aceptar</string>
 	 <string name="conn_of_function_safe">Conexión de red para Seguridad</string>
 	 <string name="connecting">Conectando…</string>
+	 <string name="deepclean_apk_content">Borrar APKs o aplicaciones innecesarias</string>
+	 <string name="deepclean_apk_summary_empty">Todo pinta bien, no hay APKs a borrar</string>
+	 <string name="deepclean_apk_version_error">Desconocido</string>
      <string name="deepclean_app_content">Desinstalar aplicaciones que no hayas usado en 30 días</string>
 	 <string name="deepclean_app_summary_empty">Todo pinta bien, no hay aplicaciones a borrar</string>
 	 <string name="deepclean_cache_content">Limpiar datos generados por aplicaciones</string>
@@ -104,13 +110,19 @@
 	 <string name="deepclean_size_summary_normal">Almacenamiento disponible</string>
      <string name="deepclean_title_large_file">Eliminar ficheros grandes</string>
      <string name="deepclean_title_uninstall_apps">Aplicaciones poco usadas</string>
+	 <string name="deepclean_video_content">Borrar los vídeos ya vistos o innecesarios</string>
+	 <string name="deepclean_video_summary_empty">Todo pinta bien</string>
      <string name="default_cache_type">Ficheros de datos</string>
+	 <string name="dialog_content_checkbox_delete_cloud_image">Borrar fotos de Mi Cloud también</string>
+	 <string name="dialog_content_delete_image_confirm">¿Borrar %d fotos?</string>
+	 <string name="dialog_content_select_all_confirm">¿Guardar una copia de esta foto?</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Hacer copia de seguridad y borrar las siguientes aplicaciones?</string>
      <string name="dialog_msg_check_all">Confirmar la selección %1$s que contiene %2$d entradas</string>
      <string name="dialog_msg_load_cleanup_engine_error">El motor de limpieza se ha malogrado.</string>
      <string name="dialog_msg_uninstall_apps">Desinstalar estas aplicaciones?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Hacer copia de seguridad y desinstalar</string>
      <string name="dialog_title_check_all">Seleccionar todo</string>
+	 <string name="dialog_title_delete_image">Borrar imágenes seleccionadas</string>
      <string name="dialog_title_load_cleanup_engine_error">Algo salió mal</string>
      <string name="dialog_title_uninstall_apps">Desinstalar</string>
 	 <string name="download">Descargar</string>
@@ -126,6 +138,7 @@
      <string name="empty_title_installed_apps">Vacío</string>
      <string name="empty_title_large_files">Vacío</string>
      <string name="empty_title_residual">No se encontraron archivos residuales</string>
+	 <string name="empty_title_video">No se encontraron vídeos​</string>
 	 <string name="flow_rank_title">Uso de datos</string>
 	 <string name="garbage_clean_detail">Detalles</string>
 	 <string name="garbage_cleanup_detail">%1$d veces, limpiado %2$s</string>
@@ -135,6 +148,8 @@
 	 <string name="grabage_rank_title">Limpiado hoy</string>
 	 <string name="harass_detail">Bloqueados %1$d SMS y %2$d llamadas</string>
      <string name="header_optimizer">Usando esta función, usted está de acuerdo en %s.</string>
+	 <string name="hint_bar_select_image">%d seleccionadas</string>
+	 <string name="hint_clean_select_similar_image">Borrando duplicadas…</string>
      <string name="hints_ad_header_left">Archivos de publicidad</string>
      <string name="hints_apk_header_left">Paquetes</string>
      <string name="hints_apk_version">Versión %s</string>
@@ -158,6 +173,9 @@
      <string name="hints_install_apps_risk">Riesgo detectado</string>
      <string name="hints_install_apps_today">Usado hoy</string>
      <string name="hints_install_apps_virus">Virus detectado</string>
+	 <string name="hints_installed_app_fewer">Poco usada</string>
+	 <string name="hints_installed_app_near">Usada recientemente</string>
+	 <string name="hints_installed_app_never">Nunca usada</string>
      <string name="hints_installed_apps_header_left">Aplicaciones instaladas: %d</string>
      <string name="hints_large_file_header_left">Archivos grandes: %d</string>
      <string name="hints_latest_garbage_cleanup_date">Ultima limpieza: %d días atrás</string>
@@ -186,6 +204,8 @@
      <string name="hints_storage_free_size">Total: %1$s, disponible: %2$s</string>
      <string name="hints_storage_news">Novedades de seguridad</string>
      <string name="hints_title_garbage">papelera</string>
+	 <string name="hints_video_camera">Vídeos grabados</string>
+	 <string name="hints_video_download">Vídeos descargados</string>
 	 <string name="hot">Popular</string>
 	 <string name="hot_today">Popular hoy</string>
 	 <string name="installed">Instalado</string>
@@ -289,6 +309,8 @@
 	 <string name="sponsored">Esponsorizado</string>
 	 <string name="start_install">Instalar ahora</string>
      <string name="summary_auto_cleaner">¿Limpiar su sistema automáticamente cada 3 días?</string>
+	 <string name="summary_delete_apk">¿Borrar las APKs seleccionadas permanentemente?</string>
+	 <string name="summary_delete_cache">¿Borrar caché de las aplicaciones seleccionadas?</string>
      <string name="summary_delete_cache">Todos los datos de esta aplicación serán borrados permanentemente (incluyendo todos los ficheros, ajustes y cuentas).</string>
      <string name="summary_delete_large_file">Algunos archivos grandes pueden ser útiles cuando no tienes una conexión a internet (p. ej. mapas, horarios, etc.). Asegúrate de que no necesitas este fichero. </string>
      <string name="summary_optimizer">"Esta característica sube nombres de carpetas para actualizar la base de datos en línea de Cheetah Mobile's y requiere la identidad de su dispositivo."</string>
@@ -308,6 +330,7 @@
      <string name="title_auto_cleaner">¿Limpiar automáticamente?</string>
      <string name="title_delete_cache">¿Borrar datos en caché?</string>
      <string name="title_delete_clipboard">Contenidos del portapapeles</string>
+	 <string name="title_delete_deepclean">Borrar</string>
      <string name="title_delete_large_file">¿Borrar este fichero?</string>
 	 <string name="title_of_auto_launch_manage">Inicio automático</string>
 	 <string name="title_of_cloud_service">Servicios en la nube</string>
@@ -325,8 +348,10 @@
      <string name="toast_backup_uninstall_failed">No se pudo hacer copia de seguridad de %d aplicaciones. Espere un momento e inténtelo de nuevo.</string>
      <string name="toast_backup_uninstall_failed2">"No se puede realizar copia de seguridad"</string>
      <string name="toast_backup_uninstall_success">Copia de seguridad y desinstalación completas</string>
+	 <string name="toast_delete_select_image_succeed">Borrada</string>
      <string name="toast_garbage_cleanup_success">Limpieza correcta</string>
      <string name="toast_garbage_list_empty">¡Todo correcto, no necesita hacer limpieza!</string>
+	 <string name="toast_must_select_before_restore">Elegir fotos a restaurar</string>
      <string name="toast_network_eror">No se puede conectar a la red</string>
 	 <string name="toast_network_switch">Esta aplicación se puede conectar a internet</string>
      <string name="toast_removed_from_white_list">" quitado de las excepciones"</string>
