@@ -128,9 +128,9 @@ Para más información mire el mensaje que habrá recibido de su proveedor de se
   <string name="free_traffic_settings">Ajustes de uso de datos en hora valle</string>
   <string name="gateway_exception_summary">Compruebe su router e inténtelo de nuevo.</string>
   <string name="gateway_exception_title">Probar router</string>
+  <string name="hints_input_roaming_daily_limit">Introduzca el límite de uso de datos</string>
   <string name="hints_install_apps_new">Nunca usado</string>
   <string name="hints_install_apps_today">Usado hoy</string>
-  <string name="hints_input_roaming_daily_limit">Introduzca el límite de uso de datos</string>
   <string name="input_aviable_traffic">Establecer límite de uso de datos</string>
   <string name="input_traffic_pkg">Introduzca datos adicionales</string>
   <string name="input_used_hint">Introduzca uso de datos</string>
@@ -440,14 +440,14 @@ La contabilidad de su operador muestra que Vd. ha usado %1$s de sus datos de hor
   <string name="traffic_limit_error_alert_title">Recordatorio límite de datos %s</string>
   <string name="traffic_none">Ninguno</string>
   <string name="traffic_over_purchase_body">Toque para ver los detalles.</string>
-  <string name="traffic_over_purchase_link">"Ha alcanzado el límite de uso del plan de datos móviles.&lt;br/&gt;Si sobrepasa el límite de uso del plan de datos móviles, su operador podría cobrarle gastos adicionales.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;<u>Pulse para recargar su saldo.</u>&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Ha alcanzado el límite de uso del plan de datos móviles.&lt;br/&gt;Si sobrepasa el límite de uso del plan de datos móviles, su operador podría cobrarle gastos adicionales.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Pulse para recargar su saldo.&lt;/u&gt;&amp;lt;/font&amp;gt;"</string>
   <string name="traffic_over_purchase_title">Límite de datos excedido</string>
   <string name="traffic_protection_data_usage_summary">"Establecer alertas de uso de datos para evitar exceder los límites mensuales de datos del plan del operador."</string>
   <string name="traffic_protection_label">Aviso de uso de datos</string>
   <string name="traffic_protection_next">Siguiente</string>
   <string name="traffic_protection_summary">Establecer alertas para cuando el uso de datos alcance cierto valor</string>
   <string name="traffic_protection_text_hint">Establecer límite de uso de datos en %s</string>
-  <string name="traffic_protection_unknown"><u>Configurar más tarde</u></string>
+  <string name="traffic_protection_unknown">&lt;u&gt;Configurar m&amp;#225;s tarde&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Datos activados</string>
   <string name="traffic_purchase_body">Pulse para recargar su saldo.</string>
   <string name="traffic_purchse_suggestion">Límite de datos excedido</string>

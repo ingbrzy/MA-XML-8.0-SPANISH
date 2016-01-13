@@ -175,8 +175,8 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">¿Cargar mensajes %1$s a %2$s?</string>
   <string name="found_old_messages_title">¿Cargar mensajes de tus otras tarjetas SIM?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar los mensajes desde Mi Cloud, entra en tu cuenta Mi y activa la sincronización de SMS.</string>
   <string name="found_wild_messages">Los mensajes de los números siguientes se han almacenado en su Mi Cloud. ¿%s Download ahora?</string>
+  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar los mensajes desde Mi Cloud, entra en tu cuenta Mi y activa la sincronización de SMS.</string>
   <string name="found_wild_messages_title">Descargar mensajes</string>
   <string name="from_label">"De: "</string>
   <string name="group_message">Mensaje de grupo</string>
@@ -253,9 +253,9 @@
   <string name="msg_type_hint_mms">Mensajes multimedia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mensajes en la nube</string>
-  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_mx_b2c">Notificación de red</string>
   <string name="msg_type_hint_mx_b2c_omit">Notificación de red</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Mensaje de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Desilize abajo para leer más</string>
@@ -282,10 +282,10 @@
   <string name="mx_activate_status_desc_query_activte_info">Comprobando información de la SIM…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">El número de teléfono introducido es inválido</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">No se pudo activar Mi Message</string>
+  <string name="mx_activate_user_agreement_p1">"Al utilizar este servicio, usted acepta Mi Message "</string>
   <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
   <string name="mx_and_voip_enable_popup_msg">Enviar mensajes y hacer llamadas a otros usuarios de MIUI sin incurrir en gastos con tu proveedor. VoIP desarrollada por Weihui. Ver Política de Privacidad de Weihui.</string>
   <string name="mx_and_voip_enable_popup_msg2">Política de Privacidad</string>
-  <string name="mx_activate_user_agreement_p1">"Al utilizar este servicio, usted acepta Mi Message "</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
   <string name="mx_auto_resend_mms_summary">"Se envia como MMS mediante conexión de datos móviles cuando no estás conectado a Wi-Fi (se aplican cargos normales por el uso de datos)."</string>
   <string name="mx_auto_resend_sms">Enviar como MMS</string>
@@ -459,7 +459,7 @@
   <string name="search_setting_description">Texto en tus mensajes</string>
   <string name="search_show_more_results">Ver más</string>
   <string name="secs">segs</string>
-  <string name="security_alert_desc">"El remitente no está en tus contactos. "<u>&lt;font color="red"&gt;Reportar este número&lt;/font&gt;</u></string>
+  <string name="security_alert_desc">"El remitente no está en tus contactos. "&lt;u&gt;&amp;lt;font color="red"&amp;gt;Reportar este n&amp;#250;mero&amp;lt;/font&amp;gt;&lt;/u&gt;</string>
   <string name="security_alert_dialog_desc">Reportar este número (%s) y mensaje enviándolo a Xiaomi para que lo revise.</string>
   <string name="security_alert_dialog_title">Reportar</string>
   <string name="select_audio">Seleccione audio</string>

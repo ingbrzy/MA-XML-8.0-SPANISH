@@ -49,9 +49,9 @@
   <string name="activate_popup_desc_register_account_intl">Se enviará un SMS Internacional para registrar su cuenta Mi</string>
   <string name="activate_popup_desc_sim_card">Se enviará un SMS para activar %s. Le cobrará su operador</string>
   <string name="activate_popup_desc_sim_card_downlink">Introduce tu número de teléfono para activar %s</string>
+  <string name="activate_popup_desc_upload_diagnosis_info">¿Informar de este problema a Mi? (ID del informe : %s)</string>
   <string name="activate_popup_desc_voip_privacy">Política de privacidad</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"Servicio de VoIP soportado por Weihui. Ver de Weihui "</string>
-  <string name="activate_popup_desc_upload_diagnosis_info">¿Informar de este problema a Mi? (ID del informe : %s)</string>
   <string name="activate_popup_link_diagnosis_detail">¿Qué información se va a incluir?</string>
   <string name="activate_popup_title_diagnosis_detail">Información de diagnosis</string>
   <string name="activate_popup_title_error_device_id">IMEI inválido</string>
@@ -63,8 +63,8 @@
   <string name="activate_popup_title_manual">Activación de tarjeta SIM</string>
   <string name="activate_popup_title_new_sim_card">Nueva activación de tarjeta SIM</string>
   <string name="activate_popup_title_register_account">Registrar una cuenta</string>
-  <string name="activate_sms_postfix">Este SMS se usa para activar tu dispositivo Mi</string>
   <string name="activate_popup_title_upload_diagnosis_info">"No se puede activar tarjeta SIM"</string>
+  <string name="activate_sms_postfix">Este SMS se usa para activar tu dispositivo Mi</string>
   <string name="activate_status_desc_acquire_phone_number">Adquisición de número de teléfono del servidor</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Se produjo un error en el servidor al adquirir el número de teléfono</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"No se pudo recuperar el número de teléfono"</string>
