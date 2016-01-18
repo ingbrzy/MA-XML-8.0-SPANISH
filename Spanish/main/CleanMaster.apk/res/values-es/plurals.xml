@@ -51,14 +51,22 @@
     </plurals>
     <plurals name="deepclean_app_summary">
         <item quantity="other">%d aplicaciones instaladas, puedes borrar las aplicaciones poco usadas</item>
-        <item quantity="one">%d aplicación instalada, puedes borrar esta</item>
+        <item quantity="one">%d aplicación instalada, puedes borrarla</item>
     </plurals>
     <plurals name="deepclean_large_summary">
         <item quantity="other">Encontrados %d ficheros grandes, puedes borrar los no importantes</item>
-        <item quantity="one">Encontrado %d fichero grande, puedes borrar este</item>
+        <item quantity="one">Encontrado %d fichero grande, puedes borrarlo</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
         <item quantity="other">Encontradas %d fotos, puedes borrar las duplicadas o redundantes</item>
         <item quantity="one">Encontrada %d foto, puedes borrar las duplicadas o redundantes</item>
+    </plurals>
+	<plurals name="deepclean_apk_summary">
+        <item quantity="other">Encontradas %d APKs, puedes borrar las no necesarias.</item>
+        <item quantity="one">Encontrada %d APK, puedes borrarla.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Encontrados %d vídeos, puedes borrar los no necesarios.​</item>
+        <item quantity="one">Encontrado %d vídeo, puedes borrarlo.</item>
     </plurals>
 </resources>
