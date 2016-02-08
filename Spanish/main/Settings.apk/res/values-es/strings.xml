@@ -1091,7 +1091,7 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
   <string name="force_stop">Forzar detención</string>
   <string name="force_stop_dlg_text">Si fuerza la detención de una aplicación, puede funcionar erróneamente.</string>
   <string name="force_stop_dlg_title">¿Forzar detención?</string>
-  <string name="forget_password_button_text">&lt;u&gt;Olvid&amp;#233; la contrase&amp;#241;a&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Olvidé la contraseña</u></string>
   <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
   <string name="found_new_version">Actualización disponible</string>
   <string name="free_wifi_agreement_remind_never">"No mostrar de nuevo"</string>
@@ -1537,9 +1537,9 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
   <string name="menu_new">Nuevo APN</string>
   <string name="menu_proc_stats_duration">Duración</string>
   <string name="menu_proc_stats_type">Tipo de estadísticas</string>
-  <string name="menu_proc_stats_type_background">Fondo de pantalla</string>
+  <string name="menu_proc_stats_type_background">En segundo plano</string>
   <string name="menu_proc_stats_type_cached">En caché</string>
-  <string name="menu_proc_stats_type_foreground">Primer plano</string>
+  <string name="menu_proc_stats_type_foreground">En primer plano</string>
   <string name="menu_restore">Restablecer por defecto</string>
   <string name="menu_save">Guardar</string>
   <string name="menu_show_system">Mostrar sistema</string>
@@ -1911,7 +1911,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
   <string name="process_service_in_use_description">Servicio %1$s se está usando.</string>
   <string name="process_stats_avg_ram_use">Uso promedio de RAM</string>
   <string name="process_stats_max_ram_use">Uso máximo de RAM</string>
-  <string name="process_stats_memory_status">La memoria del dispositivo es actualmente de %1$s</string>
+  <string name="process_stats_memory_status">Nivel de memoria del dispositivo actualmente: %1$s</string>
   <string name="process_stats_run_time">Tiempo en ejecución</string>
   <string name="process_stats_summary">Estadísticas Geeky sobre los procesos en ejecución</string>
   <string name="process_stats_summary_title">Estadísticas de procesos</string>
