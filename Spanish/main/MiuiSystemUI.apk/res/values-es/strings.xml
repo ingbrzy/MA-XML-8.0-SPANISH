@@ -23,8 +23,8 @@
   <string name="accessibility_menu">Menú</string>
   <string name="accessibility_no_data">Sin datos.</string>
   <string name="accessibility_no_phone">Sin teléfono.</string>
-  <string name="accessibility_no_wifi">Sin Wi-Fi.</string>
-  <string name="accessibility_no_wimax">Sin WiMAX.</string>
+  <string name="accessibility_no_wifi">Sin red Wi-Fi.</string>
+  <string name="accessibility_no_wimax">Sin red WiMAX.</string>
   <string name="accessibility_phone_four_bars">Tlf. 4 barras.</string>
   <string name="accessibility_phone_one_bar">Tlf. 1 barra.</string>
   <string name="accessibility_phone_signal_full">Máx. señal de tlf.</string>
@@ -36,15 +36,15 @@
   <string name="accessibility_ringer_vibrate">Vibración.</string>
   <string name="accessibility_search_light">Búsqueda</string>
   <string name="accessibility_tty_enabled">Teletipo activado.</string>
-  <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>
+  <string name="accessibility_wifi_one_bar">Wi-Fi con una barra.</string>
   <string name="accessibility_wifi_signal_full">Máx. señal Wi-Fi.</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi tres barras.</string>
-  <string name="accessibility_wifi_two_bars">Wi-Fi dos barras.</string>
+  <string name="accessibility_wifi_two_bars">Wi-Fi con dos barras.</string>
   <string name="accessibility_wimax_one_bar">WiMAX 1 barra.</string>
   <string name="accessibility_wimax_signal_full">Máx señal WiMAX.</string>
-  <string name="accessibility_wimax_three_bars">WiMAX 3 barras.</string>
-  <string name="accessibility_wimax_two_bars">WiMAX 2 barras.</string>
-  <string name="always_use_accessory">Usar por defecto para este accesorio USB</string>
+  <string name="accessibility_wimax_three_bars">WiMAX con 3 barras.</string>
+  <string name="accessibility_wimax_two_bars">WiMAX 2 con barras.</string>
+  <string name="always_use_accessory">Usar éste accesorio USB por defecto</string>
   <string name="always_use_device">Usar por defecto para este dispositivo USB</string>
   <string name="app_label">Interfaz de sistema</string>
   <string name="audio_effect_custom">Configurar</string>
@@ -60,7 +60,7 @@
   <string name="call_status_dialing">Marcando</string>
   <string name="call_status_ringing">Sonando</string>
   <string name="camera_key_action_app_title">Abrir aplicación</string>
-  <string name="camera_key_action_category_title">Usar si no está abierta la aplicación cámara</string>
+  <string name="camera_key_action_category_title">Usar si no está abierta la aplicación de cámara</string>
   <string name="camera_key_action_none_title">Ninguna acción</string>
   <string name="camera_key_action_setting_title">Botón Mi</string>
   <string name="camera_key_action_shortcut_call">Llamar</string>
@@ -156,7 +156,7 @@ Use únicamente el cargador suministrado."</string>
   <string name="screen_pinning_description_accessible">La mantiene a la vista hasta que quites la fijación. Toca y mantén pulsado a la vez Home y el botón de encendido para quitar la fijación.</string>
   <string name="screen_pinning_negative">No gracias</string>
   <string name="screen_pinning_positive">Lo tengo</string>
-  <string name="screen_pinning_title">Pantalla fijada</string>
+  <string name="screen_pinning_title">Pantalla fija</string>
   <string name="screenshot_failed_text">"No se pudo guardar la captura de pantalla, debido a problemas de almacenamiento o a que no está permitido por la aplicación o tu organización."</string>
   <string name="screenshot_saved_text">Presione para ver la captura.</string>
   <string name="screenshot_saved_title">Pantalla guardada</string>
@@ -177,12 +177,12 @@ Use únicamente el cargador suministrado."</string>
   <string name="status_bar_network_flow_purchase">"   Adquirir &gt;"</string>
   <string name="status_bar_network_flow_today">Hoy: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
-  <string name="status_bar_no_recent_apps">No hay aplicaciones recientes</string>
+  <string name="status_bar_no_recent_apps">Sin aplicaciones recientes</string>
   <string name="status_bar_notification_inspect_item_title">Información de la aplicación</string>
-  <string name="status_bar_recent_guide_all">"Deslice arriba para cerrar
+  <string name="status_bar_recent_guide_all">"Deslice hacia arriba para cerrar
  Deslice abajo para bloquear"</string>
-  <string name="status_bar_recent_guide_bottom">Deslice abajo para bloquear</string>
-  <string name="status_bar_recent_guide_top">Deslice arriba para cerrar</string>
+  <string name="status_bar_recent_guide_bottom">Deslice hacia abajo para bloquear</string>
+  <string name="status_bar_recent_guide_top">Deslice hacia arriba para cerrar</string>
   <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponibles</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Volver a la Grabadora</string>
@@ -190,7 +190,7 @@ Use únicamente el cargador suministrado."</string>
   <string name="status_bar_settings_airplane">Avión</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">No hay conexión a internet</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectada</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Red Wi-Fi conectada</string>
   <string name="status_bar_style_settings">Notificaciones</string>
   <string name="task_access_locked_app_msg">Contenido de la aplicación oculto</string>
   <string name="title_usb_accessory">Accesorio USB</string>
@@ -228,7 +228,7 @@ Use únicamente el cargador suministrado."</string>
   <string name="usb_storage_stop_notification_title">Desactivar almacenamiento USB</string>
   <string name="usb_storage_stop_title">Unidad USB en uso</string>
   <string name="usb_storage_title">USB conectado</string>
-  <string name="user_guide_for_notification">Deslice abajo con un dedo para ver la pantalla de notificaciones</string>
+  <string name="user_guide_for_notification">Deslice hacia abajo con un dedo para ver las notificaciones</string>
   <string name="user_guide_for_toggle">La lista de conmutadores se puede desplazar horizontalmente</string>
   <string name="user_guide_for_toggle_list">Organizar conmutadores</string>
   <string name="vpn_text">Toque para ver ajustes.</string>
