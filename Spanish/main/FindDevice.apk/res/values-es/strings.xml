@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activate_xiaomi_account">Activar este dispositivo</string>
-  <string name="app_name">Encontrar dispositivo</string>
+  <string name="activate_xiaomi_account">Activar éste dispositivo</string>
+  <string name="app_name">Encontrar Dispositivo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">No se puede desbloquear. %s.</string>
-  <string name="disable_find_device_error">No se puede apagar Encontrar dispositivo. %1$s</string>
-  <string name="disable_find_device_success">Encontrar dispositivo apagado</string>
-  <string name="enable_find_device_error">No se puede encender Encontrar dispositivo. %1$s</string>
+  <string name="disable_find_device_error">No se pudo apagar la aplicación Encontrar Dispositivo. %1$s</string>
+  <string name="disable_find_device_success">Encontrar Dispositivo apagado</string>
+  <string name="enable_find_device_error">No se pudo encender Encontrar Dispositivo. %1$s</string>
   <string name="enable_find_device_success">Encontrar dispositivo encendido</string>
   <string name="find_device">Encontrar dispositivo</string>
   <string name="find_device_error_account_sys_timeout">No se pudo conectar a la cuenta Mi</string>
@@ -33,11 +33,15 @@ Si cambias de tarjeta SIM se enviará otro SMS automáticamente para reactivar e
   <string name="unlock_error_interrupted">Interrumpido</string>
   <string name="unlock_error_network">No se puede conectar a la red</string>
   <string name="unlock_error_rpc">Error RPC</string>
+  <string name="device_lost">Éste dispositivo está Perdido</string>
+  <string name="default_lock_msg_words_with_phone">¡Hola! Perdí mi teléfono. ¿Podrías contactarme? ¡Gracias!</string>
+  <string name="default_lock_msg_words">¡Hola! Perdí mi teléfono. Te contactaré pronto. ¡Gracias por entender!</string>
+  <string name="lock_msg_phone">Información de Contacto: %s</string>
   <string name="unlock_error_server">Error de servidor</string>
   <string name="unlock_error_ssl_hand_shake">No se pudo conectar al servidor, prueba a configurar manualmente la fecha y hora.</string>
   <string name="unlock_error_unknown">No se pudo iniciar sesión</string>
   <string name="unlock_error_user_name">Usuario inválido</string>
   <string name="unlock_wrong_captcha">El código introducido es incorrecto</string>
-  <string name="unlocking">Activando…</string>
+  <string name="unlocking">Activando...</string>
   <string name="verify_password_failed">No se pudo verificar el ID de la cuenta Mi. %s.</string>
 </resources>
