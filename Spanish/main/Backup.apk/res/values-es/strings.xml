@@ -95,7 +95,7 @@
   <string name="err_router_disconnected">Comprueba la conexión de tu router y vuelve a intentarlo.</string>
   <string name="err_router_files_delete">No se pudieron eliminar las copias del router</string>
   <string name="err_unknown">Error desconocido</string>
-  <string name="err_version_too_old">El fichero de copia es demasiado viejo.</string>
+  <string name="err_version_too_old">El archivo de copia es demasiado antiguo.</string>
   <string name="err_version_unsupported">La versión de la copia no está soportada.</string>
   <string name="every_day">Cada día</string>
   <string name="exchange_account">Cambiar de cuenta</string>
@@ -103,7 +103,7 @@
   <string name="feature_title_call_log">Historial de llamadas</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Subiendo…</string>
-  <string name="files_backup_info">Todos los ficheros en la tarjeta SD (incluyendo fotos, canciones, vídeos, datos de aplicaciones, etc.)</string>
+  <string name="files_backup_info">Todos los archivos en la tarjeta SD (incluyendo fotos, canciones, vídeos, datos de aplicaciones, etc.)</string>
   <string name="findlost_contact">Restaurar contactos</string>
   <string name="findlost_contact_online">Restaurar contactos desde Mi Cloud</string>
   <string name="guarded_mode_dialog_message">"Esta función no está permitida en modo invitado."</string>
@@ -131,7 +131,7 @@
   <string name="no_encrypt_password">Sin contraseña</string>
   <string name="no_network">"No se puede conectar a red"</string>
   <string name="note_title">Notas</string>
-  <string name="nothing_searched">"No se ha encontrado nada"</string>
+  <string name="nothing_searched">"Nada se encontró"</string>
   <string name="progress_backup_hint">Haciendo copia de seguridad…</string>
   <string name="progress_restore_hint">Restaurando…</string>
   <string name="prompt_reading">Leyendo…</string>
@@ -200,9 +200,9 @@
   <string name="task_post_running">Procesando…</string>
   <string name="task_pre_running">Comenzando…</string>
   <string name="task_progress">Progreso</string>
-  <string name="task_restore_cancel_dialog">Detener ahora puede resultar en la pérdida de datos.</string>
+  <string name="task_restore_cancel_dialog">Si Cancela ahora puede resultar en pérdida de datos.</string>
   <string name="task_restore_cancel_progress">Cancelando…</string>
-  <string name="task_restore_finished_local">Restauración completada</string>
+  <string name="task_restore_finished_local">Restauración completa</string>
   <string name="task_restore_none">Nada que restaurar</string>
   <string name="task_running_backup_dialog">Copia de seguridad realizándose. Presione Aceptar para ver.</string>
   <string name="task_running_backup_hint">Esta tarea ya se está ejecutando en segundo plano</string>
@@ -220,7 +220,7 @@
   <string name="trans_connect_failed_toast">No se pudo conectar</string>
   <string name="trans_connecting_toast">Conectando…</string>
   <string name="trans_detail_category_account">Cuentas y contactos</string>
-  <string name="trans_detail_category_files">Ficheros</string>
+  <string name="trans_detail_category_files">Archivos</string>
   <string name="trans_detail_category_sysdata">Datos del sistema</string>
   <string name="trans_detail_category_userdata">Aplicaciones</string>
   <string name="trans_device_disconnected">Dispositivo desconectado</string>
@@ -232,9 +232,9 @@
 Ve a Ajustes &gt; Ajustes adicionales &gt; Transferencia
 Toca [Soy un receptor] para crear el código QR"</string>
   <string name="trans_operate_old_phone_tips1">"Método A
-1. Instala la aplicación Transferencia en tu viejo dispositivo
+1. Instala la aplicación Transferencia en tu dispositivo antiguo
 2. Abre la aplicación y selecciona [Soy un emisor]
-3. Escanea el código QR con tu viejo dispositivo"</string>
+3. Escanea el código QR con tu dispositivo antiguo"</string>
   <string name="trans_operate_old_phone_tips2">"Método B
 Ve a Ajustes &gt; Ajustes adicionales &gt; Transferencia
 Toca [Soy un emisor]"</string>
@@ -242,8 +242,8 @@ Toca [Soy un emisor]"</string>
   <string name="trans_progress_subdescript_br_sender">Copiando %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Recibiendo %s</string>
   <string name="trans_progress_subdescript_transing_sender">Enviando %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Recibiendo ficheros…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Enviando ficheros…</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Recibiendo archivos…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Enviando archivos…</string>
   <string name="trans_progress_subdescript_waiting">Esperando a recibir %s</string>
   <string name="trans_receiver">Soy un receptor</string>
   <string name="trans_receiving_completed">Datos recibidos</string>
@@ -256,7 +256,7 @@ Toca [Soy un emisor]"</string>
   <string name="trans_sender">Soy un emisor</string>
   <string name="trans_sender_connectting">Confirmar en el nuevo dispositivo</string>
   <string name="trans_sender_searching">Buscando nuevos dispositivos</string>
-  <string name="trans_sender_searching_ensurance">"Asegúrate de que el viejo dispositivo
+  <string name="trans_sender_searching_ensurance">"Asegúrate de que el dispositivo antiguo
 está encendido para que el nuevo dispositivo se conecte…"</string>
   <string name="trans_sending_completed">Datos enviados</string>
   <string name="trans_show_qr_code_tips">Escanea el código QR usando el viejo dispositivo</string>
@@ -264,7 +264,7 @@ está encendido para que el nuevo dispositivo se conecte…"</string>
   <string name="trans_time_remained">, listo en</string>
   <string name="trans_waiting_ensurance">"Asegúrate de que el viejo dispositivo
 está encendido y la Transferencia activada"</string>
-  <string name="trans_waiting_for_sender">Esperando al viejo dispositivo para conectar…</string>
+  <string name="trans_waiting_for_sender">Esperando que el dispositivo antiguo se pueda conectar…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">"  elementos"</string>
   <string name="unknown_hint">Desconocido</string>
