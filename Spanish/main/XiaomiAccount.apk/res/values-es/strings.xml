@@ -66,8 +66,8 @@
   <string name="button_cancel">Cancelar</string>
   <string name="button_unbind">Desvincular</string>
   <string name="change_password">Cambiar contraseña</string>
-  <string name="checking_account">Comprobando contraseña...</string>
-  <string name="checking_input">Comprobación de entrada...</string>
+  <string name="checking_account">Comprobando contraseña…</string>
+  <string name="checking_input">Comprobación de entrada…</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="cloud_service_dspt">Sincronice sus fotos, contactos, notas, aplicaciones y más para todos sus dispositivos.</string>
   <string name="completed">Finalizar</string>
@@ -78,7 +78,7 @@
   <string name="delete_device_btn">Eliminar</string>
   <string name="delete_device_failed">"No se puede remover el dispositivo"</string>
   <string name="delete_device_notice">"Después de remover el dispositivo, será eliminado de su Cuenta Mi automáticamente. No podrá utilizar este dispositivo de nuevo para acceder a las fotos, mensajes y/o cualquier otro contenido almacenado en su cuenta."</string>
-  <string name="device_delete_loading">Un momento...</string>
+  <string name="device_delete_loading">Un momento…</string>
   <string name="device_delete_success_message">"Si no ha iniciado sesión en este dispositivo, cambie su contraseña inmediatamente."</string>
   <string name="device_delete_success_title">Sesión cerrada</string>
   <string name="device_list__header">Mis dispositivos</string>
@@ -104,11 +104,11 @@
   <string name="input_captcha_hint">Introduzca código</string>
   <string name="input_password_hint">Introducir contraseña</string>
   <string name="input_vcode_hint">Introduzca el código de verificación</string>
-  <string name="just_a_second">Un momento...</string>
+  <string name="just_a_second">Un momento…</string>
   <string name="license_host_unreachable">"No se puede conectar a la red. Para ver esta información ahora, vaya a %s."</string>
-  <string name="loading">Un momento...</string>
-  <string name="loading_micloud_sync_data">Un momento...</string>
-  <string name="loading_mili_center">Cargando...</string>
+  <string name="loading">Un momento…</string>
+  <string name="loading_micloud_sync_data">Un momento…</string>
+  <string name="loading_mili_center">Cargando…</string>
   <string name="login">Iniciar sesión</string>
   <string name="login_failed">"No se puede iniciar sesión"</string>
   <string name="login_instead_reg">Usar este número</string>
@@ -149,7 +149,7 @@
   <string name="passport_account_not_activated">"La cuenta no ha sido activada"</string>
   <string name="passport_account_not_actived">"Su cuenta no ha sido activada"</string>
   <string name="passport_active_email_visit">Revise su bandeja de entrada en %s</string>
-  <string name="passport_activing_account">Activando...</string>
+  <string name="passport_activing_account">Activando…</string>
   <string name="passport_area_code_hot">USADO FRECUENTEMENTE</string>
   <string name="passport_area_code_title">Código de país</string>
   <string name="passport_bad_authentication">Nombre de usuario o contraseña incorrectos</string>
@@ -158,8 +158,8 @@
   <string name="passport_captcha">Introducir código</string>
   <string name="passport_change_account"><u>Cambiar cuenta</u></string>
   <string name="passport_change_phone_number">Cambiar números</string>
-  <string name="passport_checking_account">Comprobando contraseña...</string>
-  <string name="passport_checking_input">Comprobando entrada...</string>
+  <string name="passport_checking_account">Comprobando contraseña…</string>
+  <string name="passport_checking_input">Comprobando entrada…</string>
   <string name="passport_choose_which_one_sim">Elija un número de teléfono</string>
   <string name="passport_click_email_to_valid">"
 
@@ -210,15 +210,15 @@ Para activar su cuenta, siga el enlace
   <string name="passport_input_vcode_hint">Introducir código de verificación</string>
   <string name="passport_input_verify_code_hint">Introducir código de verificación</string>
   <string name="passport_license_host_unreachable">"No se puede conectar a la red. Puede ver esta página en %s."</string>
-  <string name="passport_loading">Cargando...</string>
+  <string name="passport_loading">Cargando…</string>
   <string name="passport_login">Iniciar sesión con una cuenta existente</string>
-  <string name="passport_login_check_find_device">Comprobando estado de Encontrar dispositivo...</string>
+  <string name="passport_login_check_find_device">Comprobando estado de Encontrar dispositivo…</string>
   <string name="passport_login_check_find_device_failed">No se pudo comprobar el estado de la aplicación Encontrar Dispositivo. Comprueba la conexión de red.</string>
   <string name="passport_login_failed">No se puede iniciar sesión</string>
   <string name="passport_login_find_device_bind">Este dispositivo está asociado con el ID de la cuenta Mi existente (%s). Inicia sesión para activar este dispositivo.</string>
   <string name="passport_login_instead_reg">Usar este número</string>
   <string name="passport_login_instead_reg_with_email">Usar este Email</string>
-  <string name="passport_login_notice">Iniciando sesión...</string>
+  <string name="passport_login_notice">Iniciando sesión…</string>
   <string name="passport_login_short">Iniciar sesión</string>
   <string name="passport_login_title">Iniciar sesión en su cuenta Mi</string>
   <string name="passport_login_with_email_or_id"><u>Iniciar sesión con dirección e-mail ó ID de cuenta Mi</u></string>
@@ -248,7 +248,7 @@ Para activar su cuenta, siga el enlace
   <string name="passport_reg_using_other_phone_number_prompt">"Crear una nueva cuenta usando "</string>
   <string name="passport_reg_using_phone_number_prompt">Crear cuenta usando el número de teléfono</string>
   <string name="passport_reg_via_sms_alert">Su compañía telefónica puede cobrarle por el MSM usado para activar este servicio.</string>
-  <string name="passport_reging">Creando cuenta...</string>
+  <string name="passport_reging">Creando cuenta…</string>
   <string name="passport_register">Crear una cuenta</string>
   <string name="passport_register_account_goto_email">Ir a bandeja de entrada</string>
   <string name="passport_register_account_verified_confirm">Cuenta verificada</string>
@@ -268,7 +268,7 @@ Para activar su cuenta, siga el enlace
   <string name="passport_restart_register_prompt">Puede que sea necesario otro mensaje de verificación para crear tu cuenta.</string>
   <string name="passport_restart_register_title">Crear cuenta Mi</string>
   <string name="passport_send_too_many_code">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y vuelve a intentarlo.</string>
-  <string name="passport_setting">Configurando...</string>
+  <string name="passport_setting">Configurando…</string>
   <string name="passport_sim_index_info">Tarjeta SIM %1$d - %2$s</string>
   <string name="passport_skip_login">Saltar inicio de sesión</string>
   <string name="passport_skip_register">Saltar registro</string>
@@ -309,7 +309,7 @@ Para activar su cuenta, siga el enlace
   <string name="quick_login_title">Introduce tu contraseña</string>
   <string name="re_register">Iniciar sesión otra vez</string>
   <string name="reg_failed">"No se puede establecer una cuenta"</string>
-  <string name="reging">Creando cuenta...</string>
+  <string name="reging">Creando cuenta…</string>
   <string name="register">Crear una cuenta</string>
   <string name="register_by_email"><u>Registro con e-mail</u></string>
   <string name="relogin">Iniciar sesión de nuevo</string>
@@ -317,7 +317,7 @@ Para activar su cuenta, siga el enlace
   <string name="remove_device_success_notice">Si elimina este dispositivo de sus dispositivos de confianza, puede que tenga que ir al proceso de verificación de nuevo al iniciar sesión.​</string>
   <string name="remove_trust_btn">Eliminar de dispositivos de confianza</string>
   <string name="remove_trust_notice">Eliminar de dispositivos de confianza y cerrar sesión</string>
-  <string name="removing_account">Cerrando sesión...</string>
+  <string name="removing_account">Cerrando sesión…</string>
   <string name="rename_current_device">"Cambiar nombre del dispositivo"</string>
   <string name="scan_barcode_title">Para iniciar sesión en tu cuenta Mi, escanear el código QR</string>
   <string name="service_error">Error del servicio</string>
@@ -340,7 +340,7 @@ Para activar su cuenta, siga el enlace
   <string name="user_agreement_p4">Política de privacidad</string>
   <string name="user_agreement_p6">"Usted está aceptando el acuerdo de Xiaomi"</string>
   <string name="user_avatar_update_title">Actualizar imagen de perfil</string>
-  <string name="user_avatar_uploading">Subiendo...</string>
+  <string name="user_avatar_uploading">Subiendo…</string>
   <string name="vcode">Código de verificación</string>
   <string name="vcode_notification_title">La verificación de su inicio de sesión esta incompleta</string>
   <string name="vcode_prompt_long">Introduzca el código de verificación generado por el token de seguridad Mi</string>
