@@ -27,7 +27,7 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="done">Hecho</string>
   <string name="high_risk_perms">Permisos de alto riesgo</string>
   <string name="install">Instalar</string>
-  <string name="install_confirm_question">¿Quiere instalar esta aplicación?</string>
+  <string name="install_confirm_question">¿Quiere instalar ésta aplicación?</string>
   <string name="install_done">Aplicación instalada</string>
   <string name="install_failed">Aplicación no instalada</string>
   <string name="install_failed_cpu_abi_incompatible">"Esta aplicación no es compatible con la CPU de este teléfono."</string>
@@ -39,7 +39,7 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="install_failed_system_incompatible">"Esta aplicación no es compatible con MIUI"</string>
   <string name="install_failed_verify_failed">El paquete no pasó la verificación y no se puede instalar.</string>
   <string name="install_failed_verify_timeout">El tiempo de espera se agotó durante la verificación de este paquete. Intente instalarlo de nuevo más tarde.</string>
-  <string name="install_from_appstore_hint">Te recomendamos que instales la aplicación desde &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_from_appstore_hint">Te recomendamos que instales la aplicación desde &lt;u>&lt;font color=#91c727>AppStore&lt;/font>&lt;/u></string>
   <string name="installing">Instalando…</string>
   <string name="launch">Abrir</string>
   <string name="lift_ban">Permitir</string>
@@ -59,7 +59,7 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="out_of_space_dlg_title">No hay espacio suficiente</string>
   <string name="package_delete_confirm_step_1">¿Eliminar %s?</string>
   <string name="package_delete_confirm_step_2">Eliminar esta aplicación puede hacer que el sistema se vuelva inestable.</string>
-  <string name="package_delete_confirm_step_3">No podrás abrir esta aplicación después de que la elimines.</string>
+  <string name="package_delete_confirm_step_3">No podrás abrir esta aplicación después de ser eliminada.</string>
   <string name="perm_action_accept">Permitir</string>
   <string name="perm_action_prompt">Preguntar</string>
   <string name="perm_action_reject">Denegar</string>
@@ -105,8 +105,8 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="unknown_installer">Herramientas de PC no identificadas</string>
   <string name="virus_scan_caller_unknown">Desconocido</string>
   <string name="virus_scan_clear">Eliminar</string>
-  <string name="virus_scan_install">&lt;u&gt;Instalar en cualquier caso&lt;/u&gt;</string>
-  <string name="virus_scan_is_risk">"Esta aplicación presenta riesgo para la seguridad de su dispositivo."</string>
+  <string name="virus_scan_install"><u>Instalar de todos modos</u></string>
+  <string name="virus_scan_is_risk">"Esta aplicación presenta riesgo para la seguridad para su dispositivo."</string>
   <string name="virus_scan_is_virus">Esta aplicación contiene un virus.</string>
   <string name="waiting_tip">Puede que tarde un tiempo, pero valdrá la pena</string>
 </resources>
