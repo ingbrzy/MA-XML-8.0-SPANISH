@@ -168,7 +168,7 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="HIPS_Perm_Read_Contact_Desc">Leer sus contactos</string>
   <string name="HIPS_Perm_Read_Contact_Hint">%1$s aplicaciones pueden leer sus contactos</string>
   <string name="HIPS_Perm_Read_MMS">Leer mensajes MMS</string>
-  <string name="HIPS_Perm_Read_MMS_Desc">Leer sus mensajes multimedia</string>
+  <string name="HIPS_Perm_Read_MMS_Desc">Leer sus mensajes multimedia</strsing>
   <string name="HIPS_Perm_Read_MMS_Hint">%1$s aplicaciones pueden leer sus mensajes multimedia</string>
   <string name="HIPS_Perm_Read_SMS">Leer SMS</string>
   <string name="HIPS_Perm_Read_SMS_Desc">Leer sus SMS</string>
@@ -211,7 +211,7 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="HIPS_Perm_WIFINetwork_Desc">La aplicación podrá usar Wi-Fi para conectarse a internet</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicaciones pueden usar Wi-Fi para conectarse a internet</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">La aplicación podrá activar Wi-Fi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">entonces la aplicación podrá activar Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplicaciones pueden activar Wi-Fi</string>
   <string name="HIPS_Perm_Wakelock">Dormir</string>
   <string name="HIPS_Perm_Wakelock_Desc">La aplicación podrá impedir la dormida del dispositivo</string>
@@ -246,7 +246,7 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="HIPS_SecurityPrompt_Reject">Denegar (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Denegar una vez (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">"No volver a preguntar"</string>
-  <string name="HIPS_SecurityPrompt_Title">%1$s está tratando de %2$s</string>
+  <string name="HIPS_SecurityPrompt_Title">%1$s trata de %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permisos</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d permisos - &lt;font color=#478800&gt;Confiados&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Finalizado</string>
