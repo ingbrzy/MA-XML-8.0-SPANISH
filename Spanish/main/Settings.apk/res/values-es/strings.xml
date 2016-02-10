@@ -20,7 +20,7 @@
   <string name="accessibility_captioning_title">Subtítulos</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidad es experimental y puede afectar al rendimiento.</string>
   <string name="accessibility_display_daltonizer_preference_title">Corrección de color</string>
-  <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Puede afectar al rendimiento</string>
+  <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Puede afectar el rendimiento</string>
   <string name="accessibility_display_inversion_preference_title">Inversión de color</string>
   <string name="accessibility_display_title">Pantalla</string>
   <string name="accessibility_enable">Accesibilidad</string>
@@ -60,7 +60,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="accessibility_sync_disabled">Sincronización desactivada</string>
   <string name="accessibility_sync_enabled">Sincronización activada</string>
   <string name="accessibility_sync_error">Error de Sincronización.</string>
-  <string name="accessibility_sync_in_progress">Sincronizando</string>
+  <string name="accessibility_sync_in_progress">Sincronizando...</string>
   <string name="accessibility_system_title">Sistema</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Texto de alto contraste</string>
   <string name="accessibility_toggle_large_text_preference_title">Texto Grande</string>
@@ -86,11 +86,11 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
   <string name="add_auto_startup_application">Añadir aplicaciones de auto-arranque</string>
   <string name="add_device_admin">Activar</string>
   <string name="add_device_admin_msg">¿Activar Administrador de dispositivo?</string>
-  <string name="add_fingerprint_done_msg">Ahora puedes desbloquear tu dispositivo con tu huella.</string>
+  <string name="add_fingerprint_done_msg">¡Ahora puedes desbloquear tu dispositivo con tu huella!</string>
   <string name="add_fingerprint_done_title">¡Hecho!</string>
   <string name="add_fingerprint_finished_button_text">Hecho</string>
   <string name="add_fingerprint_instruction_dialog_msg">Para añadir la información de tu huella, apoya el dedo en el sensor.
-Asegúrate de que tu dedo cubre la parte interior del sensor</string>
+Asegúrate de que tu dedo cubra la parte interior del sensor</string>
   <string name="add_fingerprint_instruction_msg">Desbloquea tu dispositivo o valida pagos con tu huella</string>
   <string name="add_fingerprint_instruction_title">Apoya el dedo en el escáner de huella</string>
   <string name="add_fingerprint_move_finger_title">Retira el dedo</string>
@@ -140,8 +140,8 @@ Asegúrate de que tu dedo cubre la parte interior del sensor</string>
   <string name="apn_auth_type_none">Ninguna</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">沃宽带用户连接互联网</string>
-  <string name="apn_chinaunicom_3gwap_general">沃宽带用户手机上网</string>
+  <string name="apn_chinaunicom_3gnet_general">chinaunicom 3g</string>
+  <string name="apn_chinaunicom_3gwap_general">chinaunicom 3gwap</string>
   <string name="apn_cm_net">CMNET</string>
   <string name="apn_cm_wap">CMWAP</string>
   <string name="apn_edit">Editar punto de acceso</string>
@@ -639,8 +639,8 @@ Asegúrate de que tu dedo cubre la parte interior del sensor</string>
   <string name="confirm_action">Aceptar</string>
   <string name="confirm_download_cancelation_dialog_message">¿Cancelar descarga?</string>
   <string name="confirm_erase">Borrar</string>
-  <string name="confirm_fingerprint_msg">Apoya tu dedo en el escaner de huellas</string>
-  <string name="confirm_new_backup_pw_prompt">Vuelva a escribir su nueva contraseña de la copia de seguridad completa aqui</string>
+  <string name="confirm_fingerprint_msg">Apoya tu dedo en el escáner de huellas</string>
+  <string name="confirm_new_backup_pw_prompt">Confirme la nueva contraseña de la copia de seguridad aquí</string>
   <string name="connect_to_internet">Conectar a la red</string>
   <string name="connected_wifi">Conectado</string>
   <string name="contributors_title">Colaboradores</string>
@@ -841,13 +841,13 @@ Este ajuste afecta a todos los usuarios de este teléfono."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Doble-núcleo</string>
   <string name="device_cpu4_info">Cuatro-núcleos</string>
-  <string name="device_cpu8_info">Ocho-núcleos</string>
+  <string name="device_cpu8_info">Ocho-núcleos </string>
   <string name="device_edit_title">Renombrar teléfono</string>
   <string name="device_info_default">Desconocido</string>
   <string name="device_info_label">Información del dispositivo</string>
   <string name="device_info_not_available">No disponible</string>
   <string name="device_info_settings">Estado del teléfono</string>
-  <string name="device_internal_memory">Memoria interna</string>
+  <string name="device_internal_memory">Memoria interna </string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">Versión MIUI</string>
   <string name="device_name">Nombre del dispositivo</string>
@@ -1497,7 +1497,7 @@ Para eliminar música, fotos y otros datos de usuario, el "&lt;b&gt;almacenamien
   <string name="master_clear_personal_data_sdcard">"¿Eliminar el contenido e información personal? ¡Esta acción no se puede deshacer!"</string>
   <string name="master_clear_summary">Elimina todos los datos del teléfono</string>
   <string name="master_clear_title">Reseteo de fábrica</string>
-  <string name="max_fingerprint_number_reached">No se pueden añadir más de 5 huellas. Para añadir una nueva huella, borra una primero.</string>
+  <string name="max_fingerprint_number_reached">No se pueden añadir más de 5 huellas. Para añadir una nueva, borre una antigua.</string>
   <string name="media_button">Botón multimedia</string>
   <string name="media_feedback_enable_title">Vibrar con el ritmo</string>
   <string name="media_format_button_text">Eliminar almacenamiento USB</string>
@@ -1935,7 +1935,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
   <string name="proxy_error_invalid_host">"El hostname que tecleó no es válido."</string>
   <string name="proxy_error_invalid_port">"El puerto que tecleó no es válido."</string>
   <string name="proxy_exclusionlist_hint">ejemplo.com,mycomp.test.com,localhost</string>
-  <string name="proxy_exclusionlist_label">By pass para</string>
+  <string name="proxy_exclusionlist_label">Pase libre para</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Hostname</string>
   <string name="proxy_port_hint">8080</string>
@@ -2472,7 +2472,7 @@ Una credencial de confianza instalada hace esto posible."</string>
   <string name="strict_mode_summary">Destellear si las aplicaciones tardan mucho en el proceso principal</string>
   <string name="sum_carrier_select">Escoger un operador de red</string>
   <string name="summary_font_size">%1$s</string>
-  <string name="supl_not_set">&lt;No establecido&gt;</string>
+  <string name="supl_not_set">&lt;No establecido></string>
   <string name="supplicant_state_label">Modo suplicante:</string>
   <string name="symbols_not_allowed_for_password">"La contraseña no puede contener símbolos"</string>
   <string name="sync_active">Sincronización activa</string>
@@ -3101,9 +3101,9 @@ Permitir a los servicios de localización de Google y otras aplicaciones buscar 
   <string name="wifi_setup_back">Volver</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
-  <string name="wifi_setup_description_connected">"Toque &lt;b&gt;Siguiente&lt;/b&gt;" para continuar con configuración.
+  <string name="wifi_setup_description_connected">Pulse <b>Siguiente</b>" y continúe con la instalación.
 
-Toque "&lt;b&gt;Atras&lt;/b&gt; para conectar a una red Wi-Fi diferente."</string>
+Toque "<b>Atrás</b> y conecte a las diferentes redes Wi-Fi</string>
   <string name="wifi_setup_description_connecting">Conectando, esto puede llevar unos minutos…</string>
   <string name="wifi_setup_detail">Detalles de red</string>
   <string name="wifi_setup_eap_not_supported">"No se puede configurar una conexión EAP Wi-Fi durante la configuración. Después puede ir a Ajustes &gt; Wi-Fi y redes."</string>
