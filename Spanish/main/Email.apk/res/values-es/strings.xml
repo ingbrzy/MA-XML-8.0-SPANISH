@@ -176,8 +176,8 @@
   <string name="attachment_list_search_hint">Buscar adjuntos</string>
   <string name="attachment_mgr_name">Archivos adjuntos</string>
   <string name="attachment_not_exists">¡El adjunto no está disponible!</string>
-  <string name="attachment_open_SecurityException_hint">Puede que no tengas permisos para abrir este fichero, o que esté dañado.</string>
-  <string name="attachment_open_SecurityException_title">No se puede abrir el fichero</string>
+  <string name="attachment_open_SecurityException_hint">Puede que no tengas permisos para abrir este archivo, o que esté dañado.</string>
+  <string name="attachment_open_SecurityException_title">No se puede abrir el archivo</string>
   <string name="attachment_stop_all">Parar</string>
   <string name="attachment_text">Texto</string>
   <string name="attachment_type_blocked">"Por desgracia, no se puede guardar o abrir este tipo de archivo adjunto."</string>
@@ -693,7 +693,7 @@
   <string name="respond_inline">Responder en línea</string>
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
-  <string name="save_draft_failed">Guardar borrador a fallado</string>
+  <string name="save_draft_failed">Error al guardar borrador</string>
   <string name="save_power_summary">Establecer tiempo de ahorro de batería</string>
   <string name="save_power_title">Ahorro de batería</string>
   <string name="saved">Guardado, %s</string>
@@ -713,7 +713,7 @@
   <string name="security_notification_content_unsupported_title">"Las políticas de seguridad no pueden cumplirse"</string>
   <string name="security_notification_content_update_title">Actualización de seguridad requerida</string>
   <string name="security_unsupported_ticker_fmt">"La cuenta \"%s\" no puede ser sincronizada debido a los requisitos de seguridad."</string>
-  <string name="select_attachment_type">Elija la fuente del fichero adjunto</string>
+  <string name="select_attachment_type">Elija la fuente del archivo adjunto</string>
   <string name="select_no_file">No hay archivos adjuntos seleccionados</string>
   <string name="send">Enviar</string>
   <string name="send_failed">"El mensaje no fue enviado."</string>
@@ -732,7 +732,7 @@
   <string name="ser_resp_err_map_ssl">"Por favor, intente elegir ' SSL/TLS (aceptar todos los certificados)' en 'Tipo de seguridad'"</string>
   <string name="set_network">Definir red</string>
   <string name="settings_activity_title">Ajustes</string>
-  <string name="share_choose">Elegir fichero a compartir</string>
+  <string name="share_choose">Elegir archivo para compartir</string>
   <string name="sharing">Compartir</string>
   <string name="shortcut_name_title">Nombre para atajo de carpeta</string>
   <string name="show_elided">▶ Mostrar texto citado</string>
