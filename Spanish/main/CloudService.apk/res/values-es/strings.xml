@@ -250,8 +250,16 @@ Toca el botón de ajustes de sincronización para ver más opciones"</string>
   <string name="micloud_main_update_space">actualice el tamaño de almacenamiento</string>
   <string name="micloud_main_wlan_sync_data_count">%d datos se sincronizarán por Wi-Fi</string>
   <string name="micloud_more">Saber más</string>
+  <string name="micloud_notif_content_battery_low">Batería demasiado baja.</string>
   <string name="micloud_notif_content_depend_wifi">Conectar a Wi-Fi para sincronizar.</string>
+  <string name="micloud_notif_content_master_depend_wifi">Conectar a Wi-Fi primero.</string>
+  <string name="micloud_notif_content_memory_low">No hay suficiente espacio.</string>
+  <string name="micloud_notif_content_sync_with_off">Tocar para sincronizar ahora.</string>
+  <string name="micloud_notif_title_battery_low">No se puede sincronizar con Mi Cloud</string>
   <string name="micloud_notif_title_depend_wifi">%d esperando para sicronizarse</string>
+  <string name="micloud_notif_title_master_depend_wifi">No se puede sincronizar con Mi Cloud</string>
+  <string name="micloud_notif_title_memory_low">No se puede sincronizar con Mi Cloud</string>
+  <string name="micloud_notif_title_sync_with_off">Sincronizar con Mi Cloud</string>
   <string name="micloud_other_product_price">Precio de otros productos similares:</string>
   <string name="micloud_proceed">Continuar</string>
   <string name="micloud_sec_dspt">y compartir cosas con amigos.</string>
