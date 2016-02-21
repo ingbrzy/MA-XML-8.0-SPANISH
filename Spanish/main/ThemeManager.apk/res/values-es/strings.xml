@@ -232,11 +232,14 @@
   <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
   <string name="resource_save_to_note">Guardar en Notas</string>
-  <string name="resource_search_list_empty">"No se ha encontrado nada."</string>
+  <string name="resource_search_list_empty">No se ha encontrado nada</string>
   <string name="resource_see_more">Ver más</string>
   <string name="resource_select">Seleccionar</string>
-  <string name="resource_select_ringtone_confirm">¿Seleccionar este sonido?</string>
-  <string name="resource_select_ringtone_confirm_picker">¿Seleccionar este sonido?</string>
+  <string name="resource_select_alarm_audio_confirm">¿Establecer como tono de alarma?</string>
+  <string name="resource_select_audio_confirm_picker">¿Seleccionar este sonido?</string>
+  <string name="resource_select_boot_audio_confirm">¿Establecer como sonido de arranque?</string>
+  <string name="resource_select_notification_audio_confirm">¿Establecer como tono de notificación?</string>
+  <string name="resource_select_ringtone_audio_confirm">¿Seleccionar este tono de llamada?</string>
   <string name="resource_selected">Destacados</string>
   <string name="resource_send">Enviar</string>
   <string name="resource_server_alert_dialog_title">"Volveremos…"</string>
