@@ -5,7 +5,7 @@
   <string name="antispam_marked_count">Informado por %1$d usuarios MIUI</string>
   <string name="antispam_notification_title">Número desconocido</string>
   <string name="antispam_provider">Identificado por %s</string>
-  <string name="callFailed_cb_enabled">"No puede hacer llamadas mientras esté activada la restricción de llamadas."</string>
+  <string name="callFailed_cb_enabled">"No pueden hacer llamadas mientras esté activada la restricción de llamadas."</string>
   <string name="callFailed_congestion">Red ocupada</string>
   <string name="callFailed_dialToDial">Petición DIAL modificada a DIAL con diferente número.</string>
   <string name="callFailed_dialToSs">Petición DIAL modificada a petición SS.</string>
@@ -19,7 +19,7 @@
   <string name="callFailed_limitExceeded">Límite ACM excedido</string>
   <string name="callFailed_noSignal">Sin señal</string>
   <string name="callFailed_number_unreachable">Número fuera de cobertura</string>
-  <string name="callFailed_outOfService">área fuera del de servicio</string>
+  <string name="callFailed_outOfService">Área fuera de servicio</string>
   <string name="callFailed_out_of_network">Llamada desde fuera de la red</string>
   <string name="callFailed_powerOff">Radio apagada</string>
   <string name="callFailed_server_error">Error del servidor. Inténtalo más tarde.</string>
@@ -50,7 +50,7 @@
   <string name="calling_via_template">Llamando vía %s</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_call">Colgar</string>
-  <string name="card_title_call_ended">"La llamada finalizó "</string>
+  <string name="card_title_call_ended">"Llamada finalizada "</string>
   <string name="card_title_conf_call">Llamada de conferencia</string>
   <string name="card_title_dialing">Llamando</string>
   <string name="card_title_hanging_up">"Colgando "</string>
@@ -58,7 +58,7 @@
   <string name="card_title_in_call_short">En llamada</string>
   <string name="card_title_incoming_call">Llamada entrante</string>
   <string name="card_title_on_hold">"En espera "</string>
-  <string name="card_title_threeway_call">Llamada a 3 bandas</string>
+  <string name="card_title_threeway_call">Llamada a 3</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s personas</string>
   <string name="contactPhoto">Foto del contacto</string>
@@ -87,7 +87,7 @@
   <string name="emergency_call_dialog_number_for_display">Número de emergencia</string>
   <string name="fraud_call_answer">Responder</string>
   <string name="fraud_call_decline">Rechazar</string>
-  <string name="fraud_call_waring">Comprueba antes siempre la identidad del contacto por teléfono o vídeo antes de responder a cualquier mensaje que incluya su información personal.</string>
+  <string name="fraud_call_waring">Comprueba siempre la identidad del contacto por teléfono o vídeo antes de responder a cualquier mensaje que incluya su información personal.</string>
   <string name="incall_call_type_label_sip">Llamada internet</string>
   <string name="incall_error_supp_service_conference">Incapaz de realizar llamadas de conferencia.</string>
   <string name="incall_error_supp_service_hangup">No se puede(n) liberar la(s) llamada(s).</string>
