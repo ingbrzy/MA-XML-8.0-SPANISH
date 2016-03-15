@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="broadcast_general_type_restricted">
+        <item>android.intent.action.SCREEN_ON</item>
+        <item>android.intent.action.SCREEN_OFF</item>
+        <item>android.net.wifi.RSSI_CHANGED</item>
+        <item>android.net.wifi.SCAN_RESULTS</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <integer-array name="alarm_general_type_restricted">
+        <item>-1</item>
+    </integer-array>
+    <string-array name="group_name">
+        <item>normal</item>
+        <item>hide</item>
+        <item>reading</item>
+        <item>media</item>
+    </string-array>
     <string-array name="group_name_translate">
         <item>Defecto</item>
         <item>Modo oculto</item>
         <item>Modo lectura</item>
         <item>Modo multimedia</item>
     </string-array>
-    <string-array name="event_name_translate">
+    <string-array name="event_name">
+        <item>foreground_change</item>
+        <item>screen_on</item>
+        <item>screen_off</item>
+        <item>screen_off_10_min</item>
+        <item>full_screen_enter</item>
+        <item>full_screen_exit</item>
+        <item>background_change</item>
+        <item>start_charging</item>
+        <item>stop_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+       <string-array name="event_name_translate">
         <item>Aplicación funcionando en primer plano</item>
         <item>Pantalla encendida</item>
         <item>Pantalla apagada</item>
@@ -18,6 +46,17 @@
         <item>Teléfono no está cargándose</item>
         <item>Teléfono inactivo</item>
     </string-array>
+    <string-array name="action_name">
+        <item>set_brightness</item>
+        <item>set_cpufreq_max</item>
+        <item>set_lcd_mode</item>
+        <item>set_cpu_powermode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_bg_data_delay_time</item>
+    </string-array>
     <string-array name="action_name_translate">
         <item>Máximo brillo de pantalla</item>
         <item>Máxima frecuencia de CPU</item>
@@ -28,6 +67,21 @@
         <item>Primera notificación</item>
         <item>Notificaciones en pantalla de bloqueo</item>
         <item>Restringir conexiones de datos en segundo plano</item>
+    </string-array>
+        <string-array name="action_param">
+        <item>none</item>
+        <item>ui</item>
+        <item>still</item>
+        <item>movie</item>
+        <item>low</item>
+        <item>middle</item>
+        <item>high</item>
+        <item>true</item>
+        <item>false</item>
+        <item>bg_delay_0_mins</item>
+        <item>bg_delay_10_mins</item>
+        <item>bg_delay_30_mins</item>
+        <item>bg_delay_screen_off</item>
     </string-array>
     <string-array name="action_param_translate">
         <item>Ninguno</item>
@@ -44,13 +98,70 @@
         <item>Después de 30 min</item>
         <item>Cuando la pantalla esté apagada</item>
     </string-array>
+    <string-array name="shown_mandatory_event_name">
+        <item>foreground_change</item>
+    </string-array>
+    <string-array name="shown_optional_event_name">
+        <item>full_screen_enter</item>
+        <item>start_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+    <string-array name="shown_action_name">
+        <item>set_cpu_powermode</item>
+        <item>set_lcd_mode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_sync_alarm</item>
+        <item>set_bg_data_delay_time</item>
+    </string-array>
+    <string-array name="shown_action_param_default">
+        <item>middle</item>
+        <item>ui</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>bg_delay_10_mins</item>
+    </string-array>
     <string-array name="app_groups">
-        <item>seleccionadas</item>
-        <item>no seleccionadas</item>
-        <item>otras seleccionadas</item>
+        <item>Seleccionadas</item>
+        <item>No seleccionadas</item>
+        <item>Otras seleccionadas</item>
     </string-array>
 	<string-array name="hmode_app_groups">
-        <item>personalizado</item>
-        <item>sugerido</item>
+        <item>Personalizadas</item>
+        <item>Sugeridas</item>
+    </string-array>    <string-array name="power_checker_group_prefix">
+        <item>using</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>Escaneo WIFI</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Despierto</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>Escaneo WIFI</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Despierto</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>Demasiado ahora</item>
+        <item>Demasiado en ese día</item>
+    </string-array>
+    <array name="read_enable" />
+    <string-array name="read_disable">
+        <item>com.chaozh.iReaderFree</item>
     </string-array>
 </resources>
