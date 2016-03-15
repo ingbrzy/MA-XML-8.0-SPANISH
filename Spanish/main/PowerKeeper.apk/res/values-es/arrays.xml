@@ -34,7 +34,7 @@
         <item>stop_charging</item>
         <item>idle_enter</item>
     </string-array>
-       <string-array name="event_name_translate">
+    <string-array name="event_name_translate">
         <item>Aplicación funcionando en primer plano</item>
         <item>Pantalla encendida</item>
         <item>Pantalla apagada</item>
@@ -68,7 +68,7 @@
         <item>Notificaciones en pantalla de bloqueo</item>
         <item>Restringir conexiones de datos en segundo plano</item>
     </string-array>
-        <string-array name="action_param">
+    <string-array name="action_param">
         <item>none</item>
         <item>ui</item>
         <item>still</item>
@@ -131,10 +131,11 @@
         <item>No seleccionadas</item>
         <item>Otras seleccionadas</item>
     </string-array>
-	<string-array name="hmode_app_groups">
+    <string-array name="hmode_app_groups">
         <item>Personalizadas</item>
         <item>Sugeridas</item>
-    </string-array>    <string-array name="power_checker_group_prefix">
+    </string-array>
+    <string-array name="power_checker_group_prefix">
         <item>using</item>
         <item></item>
         <item></item>
