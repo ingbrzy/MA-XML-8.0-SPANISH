@@ -2,4 +2,4 @@
 SPANISH MIUI TRANSLATION FOR XIAOMI.EU MULTILANG
 
 XML checking script
-http://translators.xiaomi.eu/XML_MIUI6-Spanish-es.html
+http://translators.xiaomi.eu/XML_MIUI7-Spanish-es.html
