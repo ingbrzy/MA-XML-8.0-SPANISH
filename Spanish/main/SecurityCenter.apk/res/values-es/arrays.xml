@@ -7,15 +7,79 @@
         <item>En 30 minutos</item>
         <item>Nunca</item>
     </string-array>
-    <string-array name="preferred_app_entries">
-        <item>Launcher</item>
-        <item>Marcador telefónico</item>
-        <item>Mensajes</item>
-        <item>Navegador</item>
-        <item>Cámara</item>
-        <item>Galería</item>
-        <item>Música</item>
-        <item>Email</item>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Esta semana "</item>
+        <item>"Hoy "</item>
+        <item>"Este mes "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ayer "</item>
+        <item>"Hoy "</item>
+        <item>"Este mes "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Esta semana: "</item>
+        <item>"Hoy: "</item>
+        <item>"Este mes: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ayer: "</item>
+        <item>"Hoy: "</item>
+        <item>"Este mes: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Ayer (datos)</item>
+        <item>Hoy (datos)</item>
+        <item>Este mes (datos)</item>
+        <item>Ayer Wi-Fi</item>
+        <item>Hoy Wi-Fi</item>
+        <item>Este mes Wi-Fi</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Ayer (datos)</item>
+        <item>Hoy (datos)</item>
+        <item>Este mes (datos)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 segs</item>
+        <item>4 segs</item>
+        <item>5 segs</item>
+        <item>6 segs</item>
+        <item>7 segs</item>
+        <item>8 segs</item>
+        <item>9 segs</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Uso de datos móviles "</item>
+        <item>"Uso de red Wi-Fi "</item>
+        <item>"Datos ahorrados "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Uso de datos móviles "</item>
+        <item>"Uso de red Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Uso de datos móviles "</item>
+        <item>"Uso de red Wi-Fi "</item>
+        <item>"Datos ahorrados "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Obtener automáticamente</item>
+        <item>Establecer manualmente</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Mostrar un aviso</item>
+        <item>Avisar y desactivar datos móviles</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Más utilizadas</item>
+        <item>Nombre</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Ninguno</item>
+        <item>Bajo</item>
+        <item>Medio</item>
+        <item>Alto</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Después de 1 minuto</item>
@@ -39,7 +103,7 @@
     <string-array name="power_dialog_wifi_internet_state_items">
         <item>Apagar</item>
         <item>Encender</item>
-        <item>Defecto</item>
+        <item>Por defecto</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>No vibrar nunca</item>
