@@ -1,43 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="power_center_battery_day">
-		<item quantity="other">"%d días "</item>
-		<item quantity="one">"%d día "</item>
-	</plurals>
-	<plurals name="power_center_battery_hour">
-		<item quantity="other">"%d hrs "</item>
-		<item quantity="one">"%d hr "</item>
-	</plurals>
-	<plurals name="power_center_battery_minute">
-		<item quantity="other">"%d mins "</item>
-		<item quantity="one">"%d min "</item>
-	</plurals>
-	<plurals name="hints_auto_start_enable_title">
-		<item quantity="other">%d aplicaciones pueden iniciar automáticamente</item>
-		<item quantity="one">%d aplicación puede auto iniciar automáticamente</item>
-	</plurals>
-	<plurals name="hints_auto_start_disable_title">
-		<item quantity="other">A %d aplicaciones no se les permite iniciar automáticamente</item>
-		<item quantity="one">A %d aplicación no se le permite iniciar automáticamente</item>
-	</plurals>
-	<plurals name="hints_apps_perm_count">
-		<item quantity="other">%d permisos</item>
-		<item quantity="one">%d permiso</item>
-	</plurals>
-	<plurals name="hints_permission_apps_count">
-		<item quantity="other">%d aplicaciones</item>
-		<item quantity="one">%d aplicación</item>
-	</plurals>
-	<plurals name="hints_get_root_enable_title">
-		<item quantity="other">%d aplicaciones tienen acceso root</item>
-		<item quantity="one">%d aplicación tiene acceso root</item>
-	</plurals>
-	<plurals name="hints_get_root_disable_title">
-		<item quantity="other">%d aplicaciones no tienen acceso root</item>
-		<item quantity="one">%d aplicación no tiene acceso root</item>
-	</plurals>
-	<plurals name="summary_app_update">
-		<item quantity="other">Actualizaciones disponibles para %d aplicaciones.</item>
-		<item quantity="one">Actualización disponible para %d aplicación.</item>
-	</plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">No supervisar el uso de datos en %d aplicaciones</item>
+        <item quantity="one">No supervisar el uso de datos en %d aplicación</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Supervisando el uso de datos en %d aplicaciones</item>
+        <item quantity="one">Supervisando el uso de datos en %d aplicación</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d aplicaciones optimizadas</item>
+        <item quantity="one">%d aplicación optimizada</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d aplicaciones pueden ser optimizadas</item>
+        <item quantity="one">%d aplicación puede ser optimizada</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d aplicaciones están utilizando Ahorro de datos</item>
+        <item quantity="one">%d aplicación está utilizando Ahorro de datos</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d aplicaciones no están utilizando Ahorro de datos</item>
+        <item quantity="one">%d aplicación no está utilizando Ahorro de datos</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Usada hace %d días</item>
+        <item quantity="one">Usada ayer</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Buscar %d aplicaciones</item>
+        <item quantity="one">Buscar %d aplicación</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplicaciones pueden utilizar datos en roaming</item>
+        <item quantity="one">%d aplicación puede utilizar datos en roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d aplicaciones encontradas</item>
+        <item quantity="one">%d aplicación encontrada</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d días "</item>
+        <item quantity="one">"%d día "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d hrs "</item>
+        <item quantity="one">"%d hr "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d mins "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplicaciones pueden iniciarse automáticamente</item>
+        <item quantity="one">%d aplicación puede auto iniciarse automáticamente</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">A %d aplicaciones no se les permite iniciar automáticamente</item>
+        <item quantity="one">A %d aplicación no se le permite iniciar automáticamente</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d permisos</item>
+        <item quantity="one">%d permiso</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplicaciones</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d aplicaciones tienen acceso root</item>
+        <item quantity="one">%d aplicación tiene acceso root</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d aplicaciones no tienen acceso root</item>
+        <item quantity="one">%d aplicación no tiene acceso root</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Actualizaciones disponibles para %d aplicaciones.</item>
+        <item quantity="one">Actualización disponible para %d aplicación.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">La contraseña debe contener, al menos, %d letras.</item>
+        <item quantity="one">"La contraseña debe contener, al menos, una letra. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">La contraseña debe contener, al menos, %d letras minúsculas.</item>
+        <item quantity="one">La contraseña debe contener, al menos, una letra minúscula …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">La contraseña debe contener, al menos, %d letras mayúsculas.</item>
+        <item quantity="one">La contraseña debe contener, al menos, una letra mayúscula …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">La contraseña debe contener, al menos, %d números.</item>
+        <item quantity="one">La contraseña debe contener, al menos, un número …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">La contraseña debe contener, al menos, %d símbolos.</item>
+        <item quantity="one">La contraseña debe contener, al menos, un símbolo …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">La contraseña debe contener, al menos, %d caracteres que no sean letras.</item>
+        <item quantity="one">La contraseña debe contener, al menos, ub caracter de otro tipo …</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplicaciones bloqueadas</item>
+        <item quantity="one">%d aplicación bloqueada</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplicaciones sin bloquear</item>
+        <item quantity="one">%d aplicación sin bloquear</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Buscar entre %d aplicaciones</item>
+        <item quantity="one">Buscar entre %d aplicación</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d aplicaciones encontradas</item>
+        <item quantity="zero">Ninguna aplicación encontrada</item>
+        <item quantity="one">%d aplicación encontrada</item>
+    </plurals>
 </resources>
