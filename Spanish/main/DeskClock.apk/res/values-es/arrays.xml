@@ -1,372 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-     <string-array name="alarm_in_furture">
-        <item>Alarma en menos de 1 minuto</item>
-        <item>Sonará en %1$s</item>
-        <item>Sonará en %2$s</item>
-        <item>Sonará en %1$s %2$s</item>
-        <item>Sonará en %3$s</item>
-        <item>Sonará en %1$s %3$s</item>
-        <item>Sonará en %2$s %3$s</item>
-        <item>Sonará en %1$s %2$s %3$s</item>
-     </string-array>
-     <string-array name="alarm_repeat_type">
-        <item>Una sola vez</item>
-        <item>Diariamente</item>
-        <item>En días de trabajo</item>
-        <item>De lunes a viernes</item>
-        <item>Personalizado</item>
-     </string-array>
-     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Una sola vez</item>
-        <item>Diario</item>
-        <item>De lunes a viernes</item>
-        <item>Personalizado</item>
-     </string-array>
-     <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-     </integer-array>
-     <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-     </integer-array>
-     <string-array name="alarm_set">
-        <item>La alarma sonará en menos de 1 minuto.</item>
-        <item>La alarma sonará en %1$s.</item>
-        <item>Alarma para %2$s a partir de ahora.</item>
-        <item>La alarma sonará en %1$s y %2$s.</item>
-        <item>La alarma sonará en %3$s.</item>
-        <item>La alarma sonará en %1$s y %3$s.</item>
-        <item>La alarma sonará en %2$s y %3$s.</item>
-        <item>La alarma sonará en %1$s, %2$s, and %3$s.</item>
-     </string-array>
-     <string-array name="auto_silence_entries">
-        <item>Nunca</item>
-        <item>1 minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-     </string-array>
-     <string-array name="auto_silence_values">
-        <item>-1</item>
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-     </string-array>
-     <string-array name="cities_id_miui">
-        <item>C1</item>
-        <item>C2</item>
-        <item>C3</item>
-        <item>C4</item>
-        <item>C5</item>
-        <item>C6</item>
-        <item>C7</item>
-        <item>C8</item>
-        <item>C9</item>
-        <item>C10</item>
-        <item>C11</item>
-        <item>C12</item>
-        <item>C13</item>
-        <item>C14</item>
-        <item>C15</item>
-        <item>C16</item>
-        <item>C17</item>
-        <item>C18</item>
-        <item>C19</item>
-        <item>C20</item>
-        <item>C21</item>
-        <item>C22</item>
-        <item>C23</item>
-        <item>C24</item>
-        <item>C25</item>
-        <item>C26</item>
-        <item>C27</item>
-        <item>C28</item>
-        <item>C29</item>
-        <item>C30</item>
-        <item>C31</item>
-        <item>C32</item>
-        <item>C33</item>
-        <item>C34</item>
-        <item>C35</item>
-        <item>C36</item>
-        <item>C37</item>
-        <item>C38</item>
-        <item>C39</item>
-        <item>C40</item>
-        <item>C41</item>
-        <item>C42</item>
-        <item>C43</item>
-        <item>C44</item>
-        <item>C45</item>
-        <item>C46</item>
-        <item>C47</item>
-        <item>C48</item>
-        <item>C49</item>
-        <item>C50</item>
-        <item>C51</item>
-        <item>C52</item>
-        <item>C53</item>
-        <item>C54</item>
-        <item>C55</item>
-        <item>C56</item>
-        <item>C57</item>
-        <item>C58</item>
-        <item>C59</item>
-        <item>C60</item>
-        <item>C61</item>
-        <item>C62</item>
-        <item>C63</item>
-        <item>C64</item>
-        <item>C65</item>
-        <item>C66</item>
-        <item>C67</item>
-        <item>C68</item>
-        <item>C69</item>
-        <item>C70</item>
-        <item>C71</item>
-        <item>C72</item>
-        <item>C73</item>
-        <item>C74</item>
-        <item>C75</item>
-        <item>C76</item>
-        <item>C77</item>
-        <item>C78</item>
-        <item>C79</item>
-        <item>C80</item>
-        <item>C81</item>
-        <item>C82</item>
-        <item>C83</item>
-        <item>C84</item>
-        <item>C85</item>
-        <item>C86</item>
-        <item>C87</item>
-        <item>C88</item>
-        <item>C89</item>
-        <item>C90</item>
-        <item>C91</item>
-        <item>C92</item>
-        <item>C93</item>
-        <item>C94</item>
-        <item>C95</item>
-        <item>C96</item>
-        <item>C97</item>
-        <item>C98</item>
-        <item>C99</item>
-        <item>C100</item>
-        <item>C101</item>
-        <item>C102</item>
-        <item>C103</item>
-        <item>C104</item>
-        <item>C105</item>
-        <item>C106</item>
-        <item>C107</item>
-        <item>C108</item>
-        <item>C109</item>
-        <item>C110</item>
-        <item>C111</item>
-        <item>C112</item>
-        <item>C113</item>
-        <item>C114</item>
-        <item>C115</item>
-        <item>C116</item>
-        <item>C118</item>
-        <item>C119</item>
-        <item>C120</item>
-        <item>C121</item>
-        <item>C122</item>
-        <item>C123</item>
-        <item>C124</item>
-        <item>C125</item>
-        <item>C126</item>
-        <item>C127</item>
-        <item>C128</item>
-        <item>C129</item>
-        <item>C130</item>
-        <item>C131</item>
-        <item>C132</item>
-        <item>C133</item>
-        <item>C134</item>
-        <item>C135</item>
-        <item>C136</item>
-        <item>C137</item>
-        <item>C138</item>
-        <item>C139</item>
-        <item>C140</item>
-        <item>C141</item>
-        <item>C142</item>
-        <item>C143</item>
-        <item>C144</item>
-        <item>C145</item>
-        <item>C146</item>
-        <item>C147</item>
-        <item>C148</item>
-        <item>C149</item>
-        <item>C150</item>
-        <item>C151</item>
-        <item>C152</item>
-        <item>C153</item>
-        <item>C154</item>
-        <item>C155</item>
-        <item>C156</item>
-        <item>C157</item>
-        <item>C158</item>
-        <item>C159</item>
-        <item>C160</item>
-        <item>C161</item>
-        <item>C162</item>
-        <item>C163</item>
-        <item>C164</item>
-        <item>C165</item>
-        <item>C166</item>
-        <item>C167</item>
-        <item>C168</item>
-        <item>C169</item>
-        <item>C170</item>
-        <item>C171</item>
-        <item>C172</item>
-        <item>C173</item>
-        <item>C174</item>
-        <item>C175</item>
-        <item>C176</item>
-        <item>C177</item>
-        <item>C178</item>
-        <item>C180</item>
-        <item>C181</item>
-        <item>C182</item>
-        <item>C183</item>
-        <item>C184</item>
-        <item>C185</item>
-        <item>C186</item>
-        <item>C187</item>
-        <item>C188</item>
-        <item>C189</item>
-        <item>C190</item>
-        <item>C191</item>
-        <item>C192</item>
-        <item>C193</item>
-        <item>C194</item>
-        <item>C195</item>
-        <item>C196</item>
-        <item>C197</item>
-        <item>C198</item>
-        <item>C199</item>
-        <item>C200</item>
-        <item>C201</item>
-        <item>C202</item>
-        <item>C203</item>
-        <item>C204</item>
-        <item>C205</item>
-        <item>C206</item>
-        <item>C207</item>
-        <item>C208</item>
-        <item>C209</item>
-        <item>C210</item>
-        <item>C211</item>
-        <item>C212</item>
-        <item>C213</item>
-        <item>C214</item>
-        <item>C215</item>
-        <item>C216</item>
-        <item>C217</item>
-        <item>C218</item>
-        <item>C219</item>
-        <item>C220</item>
-        <item>C221</item>
-        <item>C222</item>
-        <item>C223</item>
-        <item>C224</item>
-        <item>C225</item>
-        <item>C226</item>
-        <item>C227</item>
-        <item>C228</item>
-        <item>C229</item>
-        <item>C230</item>
-        <item>C231</item>
-        <item>C232</item>
-        <item>C233</item>
-        <item>C234</item>
-        <item>C235</item>
-        <item>C236</item>
-        <item>C237</item>
-        <item>C238</item>
-        <item>C239</item>
-        <item>C240</item>
-        <item>C241</item>
-        <item>C242</item>
-        <item>C243</item>
-        <item>C244</item>
-        <item>C245</item>
-        <item>C246</item>
-        <item>C247</item>
-        <item>C248</item>
-        <item>C249</item>
-        <item>C250</item>
-        <item>C251</item>
-        <item>C252</item>
-        <item>C253</item>
-        <item>C254</item>
-        <item>C255</item>
-        <item>C256</item>
-        <item>C257</item>
-        <item>C258</item>
-        <item>C259</item>
-        <item>C260</item>
-        <item>C261</item>
-        <item>C262</item>
-        <item>C263</item>
-        <item>C264</item>
-        <item>C265</item>
-        <item>C266</item>
-        <item>C267</item>
-        <item>C268</item>
-        <item>C269</item>
-        <item>C270</item>
-        <item>C271</item>
-        <item>C272</item>
-        <item>C273</item>
-        <item>C274</item>
-        <item>C275</item>
-        <item>C276</item>
-        <item>C277</item>
-        <item>C278</item>
-        <item>C279</item>
-        <item>C280</item>
-        <item>C281</item>
-        <item>C282</item>
-        <item>C283</item>
-        <item>C284</item>
-        <item>C285</item>
-        <item>C286</item>
-        <item>C287</item>
-        <item>C288</item>
-        <item>C289</item>
-        <item>C290</item>
-        <item>C291</item>
-        <item>C292</item>
-        <item>C293</item>
-        <item>C294</item>
-        <item>C295</item>
-        <item>C296</item>
-        <item>C297</item>
-        <item>C298</item>
-        <item>C299</item>
-     </string-array>
-     <string-array name="cities_names_miui">
+    <string-array name="cities_names_miui">
         <item>Abidjan</item>
         <item>Accra</item>
         <item>Addis Ababa</item>
@@ -448,7 +82,7 @@
         <item>Beulah</item>
         <item>Center</item>
         <item>New Salem</item>
-        <item>Panama</item>
+        <item>Panamá</item>
         <item>Phoenix</item>
         <item>Port of Spain</item>
         <item>Port-au-Prince</item>
@@ -664,8 +298,36 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
-     </string-array>
-     <string-array name="cities_tz_miui">
+    </string-array>
+    <string-array name="timezone_alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="cities_tz_miui">
         <item>Africa/Abidjan</item>
         <item>Africa/Accra</item>
         <item>Africa/Addis_Ababa</item>
@@ -963,13 +625,365 @@
         <item>America/Tegucigalpa</item>
         <item>America/Paramaribo</item>
         <item>America/Panama</item>
-     </string-array>
-     <string-array name="days">
+    </string-array>
+    <string-array name="cities_id_miui">
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>C6</item>
+        <item>C7</item>
+        <item>C8</item>
+        <item>C9</item>
+        <item>C10</item>
+        <item>C11</item>
+        <item>C12</item>
+        <item>C13</item>
+        <item>C14</item>
+        <item>C15</item>
+        <item>C16</item>
+        <item>C17</item>
+        <item>C18</item>
+        <item>C19</item>
+        <item>C20</item>
+        <item>C21</item>
+        <item>C22</item>
+        <item>C23</item>
+        <item>C24</item>
+        <item>C25</item>
+        <item>C26</item>
+        <item>C27</item>
+        <item>C28</item>
+        <item>C29</item>
+        <item>C30</item>
+        <item>C31</item>
+        <item>C32</item>
+        <item>C33</item>
+        <item>C34</item>
+        <item>C35</item>
+        <item>C36</item>
+        <item>C37</item>
+        <item>C38</item>
+        <item>C39</item>
+        <item>C40</item>
+        <item>C41</item>
+        <item>C42</item>
+        <item>C43</item>
+        <item>C44</item>
+        <item>C45</item>
+        <item>C46</item>
+        <item>C47</item>
+        <item>C48</item>
+        <item>C49</item>
+        <item>C50</item>
+        <item>C51</item>
+        <item>C52</item>
+        <item>C53</item>
+        <item>C54</item>
+        <item>C55</item>
+        <item>C56</item>
+        <item>C57</item>
+        <item>C58</item>
+        <item>C59</item>
+        <item>C60</item>
+        <item>C61</item>
+        <item>C62</item>
+        <item>C63</item>
+        <item>C64</item>
+        <item>C65</item>
+        <item>C66</item>
+        <item>C67</item>
+        <item>C68</item>
+        <item>C69</item>
+        <item>C70</item>
+        <item>C71</item>
+        <item>C72</item>
+        <item>C73</item>
+        <item>C74</item>
+        <item>C75</item>
+        <item>C76</item>
+        <item>C77</item>
+        <item>C78</item>
+        <item>C79</item>
+        <item>C80</item>
+        <item>C81</item>
+        <item>C82</item>
+        <item>C83</item>
+        <item>C84</item>
+        <item>C85</item>
+        <item>C86</item>
+        <item>C87</item>
+        <item>C88</item>
+        <item>C89</item>
+        <item>C90</item>
+        <item>C91</item>
+        <item>C92</item>
+        <item>C93</item>
+        <item>C94</item>
+        <item>C95</item>
+        <item>C96</item>
+        <item>C97</item>
+        <item>C98</item>
+        <item>C99</item>
+        <item>C100</item>
+        <item>C101</item>
+        <item>C102</item>
+        <item>C103</item>
+        <item>C104</item>
+        <item>C105</item>
+        <item>C106</item>
+        <item>C107</item>
+        <item>C108</item>
+        <item>C109</item>
+        <item>C110</item>
+        <item>C111</item>
+        <item>C112</item>
+        <item>C113</item>
+        <item>C114</item>
+        <item>C115</item>
+        <item>C116</item>
+        <item>C118</item>
+        <item>C119</item>
+        <item>C120</item>
+        <item>C121</item>
+        <item>C122</item>
+        <item>C123</item>
+        <item>C124</item>
+        <item>C125</item>
+        <item>C126</item>
+        <item>C127</item>
+        <item>C128</item>
+        <item>C129</item>
+        <item>C130</item>
+        <item>C131</item>
+        <item>C132</item>
+        <item>C133</item>
+        <item>C134</item>
+        <item>C135</item>
+        <item>C136</item>
+        <item>C137</item>
+        <item>C138</item>
+        <item>C139</item>
+        <item>C140</item>
+        <item>C141</item>
+        <item>C142</item>
+        <item>C143</item>
+        <item>C144</item>
+        <item>C145</item>
+        <item>C146</item>
+        <item>C147</item>
+        <item>C148</item>
+        <item>C149</item>
+        <item>C150</item>
+        <item>C151</item>
+        <item>C152</item>
+        <item>C153</item>
+        <item>C154</item>
+        <item>C155</item>
+        <item>C156</item>
+        <item>C157</item>
+        <item>C158</item>
+        <item>C159</item>
+        <item>C160</item>
+        <item>C161</item>
+        <item>C162</item>
+        <item>C163</item>
+        <item>C164</item>
+        <item>C165</item>
+        <item>C166</item>
+        <item>C167</item>
+        <item>C168</item>
+        <item>C169</item>
+        <item>C170</item>
+        <item>C171</item>
+        <item>C172</item>
+        <item>C173</item>
+        <item>C174</item>
+        <item>C175</item>
+        <item>C176</item>
+        <item>C177</item>
+        <item>C178</item>
+        <item>C180</item>
+        <item>C181</item>
+        <item>C182</item>
+        <item>C183</item>
+        <item>C184</item>
+        <item>C185</item>
+        <item>C186</item>
+        <item>C187</item>
+        <item>C188</item>
+        <item>C189</item>
+        <item>C190</item>
+        <item>C191</item>
+        <item>C192</item>
+        <item>C193</item>
+        <item>C194</item>
+        <item>C195</item>
+        <item>C196</item>
+        <item>C197</item>
+        <item>C198</item>
+        <item>C199</item>
+        <item>C200</item>
+        <item>C201</item>
+        <item>C202</item>
+        <item>C203</item>
+        <item>C204</item>
+        <item>C205</item>
+        <item>C206</item>
+        <item>C207</item>
+        <item>C208</item>
+        <item>C209</item>
+        <item>C210</item>
+        <item>C211</item>
+        <item>C212</item>
+        <item>C213</item>
+        <item>C214</item>
+        <item>C215</item>
+        <item>C216</item>
+        <item>C217</item>
+        <item>C218</item>
+        <item>C219</item>
+        <item>C220</item>
+        <item>C221</item>
+        <item>C222</item>
+        <item>C223</item>
+        <item>C224</item>
+        <item>C225</item>
+        <item>C226</item>
+        <item>C227</item>
+        <item>C228</item>
+        <item>C229</item>
+        <item>C230</item>
+        <item>C231</item>
+        <item>C232</item>
+        <item>C233</item>
+        <item>C234</item>
+        <item>C235</item>
+        <item>C236</item>
+        <item>C237</item>
+        <item>C238</item>
+        <item>C239</item>
+        <item>C240</item>
+        <item>C241</item>
+        <item>C242</item>
+        <item>C243</item>
+        <item>C244</item>
+        <item>C245</item>
+        <item>C246</item>
+        <item>C247</item>
+        <item>C248</item>
+        <item>C249</item>
+        <item>C250</item>
+        <item>C251</item>
+        <item>C252</item>
+        <item>C253</item>
+        <item>C254</item>
+        <item>C255</item>
+        <item>C256</item>
+        <item>C257</item>
+        <item>C258</item>
+        <item>C259</item>
+        <item>C260</item>
+        <item>C261</item>
+        <item>C262</item>
+        <item>C263</item>
+        <item>C264</item>
+        <item>C265</item>
+        <item>C266</item>
+        <item>C267</item>
+        <item>C268</item>
+        <item>C269</item>
+        <item>C270</item>
+        <item>C271</item>
+        <item>C272</item>
+        <item>C273</item>
+        <item>C274</item>
+        <item>C275</item>
+        <item>C276</item>
+        <item>C277</item>
+        <item>C278</item>
+        <item>C279</item>
+        <item>C280</item>
+        <item>C281</item>
+        <item>C282</item>
+        <item>C283</item>
+        <item>C284</item>
+        <item>C285</item>
+        <item>C286</item>
+        <item>C287</item>
+        <item>C288</item>
+        <item>C289</item>
+        <item>C290</item>
+        <item>C291</item>
+        <item>C292</item>
+        <item>C293</item>
+        <item>C294</item>
+        <item>C295</item>
+        <item>C296</item>
+        <item>C297</item>
+        <item>C298</item>
+        <item>C299</item>
+    </string-array>
+    <string-array name="stat_volume_button_behaviors">
+        <item>No</item>
+        <item>Posponer alarma</item>
+        <item>Apagar</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarma en menos de 1 minuto</item>
+        <item>Sonará en %1$s</item>
+        <item>Sonará en %2$s</item>
+        <item>Sonará en %1$s %2$s</item>
+        <item>Sonará en %3$s</item>
+        <item>Sonará en %1$s %3$s</item>
+        <item>Sonará en %2$s %3$s</item>
+        <item>Sonará en %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
         <item>Ayer</item>
         <item>Hoy</item>
         <item>Mañana</item>
-     </string-array>
-     <string-array name="snooze_duration_entries">
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una Sola Vez</item>
+        <item>Diariamente</item>
+        <item>En Días Laborales</item>
+        <item>En Días de Descanso</item>
+        <item>De Lunes a Viernes</item>
+        <item>Personalizar</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una Sola Vez</item>
+        <item>Diariamente</item>
+        <item>Lunes a Viernes</item>
+        <item>Personalizar</item>
+    </string-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+    <string-array name="alarm_set">
+        <item>La alarma sonará en menos de 1 minuto.</item>
+        <item>La alarma sonará en %1$s.</item>
+        <item>Alarma para %2$s a partir de ahora.</item>
+        <item>La alarma sonará en %1$s y %2$s.</item>
+        <item>La alarma sonará en %3$s.</item>
+        <item>La alarma sonará en %1$s y %3$s.</item>
+        <item>La alarma sonará en %2$s y %3$s.</item>
+        <item>La alarma sonará en %1$s, %2$s, y %3$s.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
         <item>1 minuto</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
@@ -977,8 +991,8 @@
         <item>20 minutos</item>
         <item>25 minutos</item>
         <item>30 minutos</item>
-     </string-array>
-     <string-array name="snooze_duration_values">
+    </string-array>
+    <string-array name="snooze_duration_values">
         <item>1</item>
         <item>5</item>
         <item>10</item>
@@ -986,43 +1000,35 @@
         <item>20</item>
         <item>25</item>
         <item>30</item>
-     </string-array>
-     <string-array name="timezone_alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-     </string-array>
-     <string-array name="volume_button_setting_entries">
-        <item>No hacer nada</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Nunca</item>
+        <item>1 minuto</item>
+        <item>5 minutes</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Sin Acción</item>
         <item>Repetir</item>
         <item>Rechazar</item>
-     </string-array>
-     <string-array name="volume_button_setting_values">
+    </string-array>
+    <string-array name="volume_button_setting_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-     </string-array>
+    </string-array>
 </resources>
