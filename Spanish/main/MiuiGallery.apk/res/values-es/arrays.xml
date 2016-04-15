@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="slideshow_time_entries">
-		<item>5 minutos</item>
-		<item>15 minutos</item>
-		<item>30 minutos</item>
-		<item>1 hora</item>
-		<item>Ilimitado</item>
-	</string-array>
     <string-array name="baby_sexy">
         <item>Chico</item>
         <item>Chica</item>
@@ -19,7 +12,7 @@
         <item>Abuelo materno</item>
         <item>Abuela materna</item>
     </string-array>
-	<string-array name="relation_with_me">
+    <string-array name="relation_with_me">
         <item>yo</item>
         <item>niño/a</item>
         <item>familia</item>
@@ -27,5 +20,12 @@
         <item>compañero/a de clase</item>
         <item>amigo/a</item>
         <item>desconocido/a</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>Ilimitado</item>
     </string-array>
 </resources>
