@@ -2,55 +2,32 @@
 <resources>
     <string-array name="contact_entries">
         <item>Nombre</item>
-        <item>Apodo</item>
+        <item>Sobrenombre</item>
         <item>Teléfono</item>
-        <item>E-mail</item>
+        <item>Correo electrónico</item>
         <item>Organización</item>
         <item>IM</item>
         <item>Teléfono SIP</item>
         <item>Cumpleaños</item>
-        <item>Sitio WEB</item>
+        <item>Página web</item>
         <item>Dirección</item>
         <item>Nota</item>
     </string-array>
-    <string-array name="contact_values">
-        <item>vnd.android.cursor.item/name</item>
-        <item>vnd.android.cursor.item/nickname</item>
-        <item>vnd.android.cursor.item/phone_v2</item>
-        <item>vnd.android.cursor.item/email_v2</item>
-        <item>vnd.android.cursor.item/organization</item>
-        <item>vnd.android.cursor.item/im</item>
-        <item>vnd.android.cursor.item/sip_address</item>
-        <item>vnd.android.cursor.item/contact_event</item>
-        <item>vnd.android.cursor.item/website</item>
-        <item>vnd.android.cursor.item/postal-address_v2</item>
-        <item>vnd.android.cursor.item/note</item>
-    </string-array>
     <string-array name="font_size_names">
-        <item>Pequeño</item>
-        <item>Por Defecto</item>
+        <item>Pequeña</item>
+        <item>Medio</item>
         <item>Grande</item>
-        <item>Super</item>
+        <item>Muy grande</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Toque para Crear una Nota
+        <item>"Toca para crear una nota
 "</item>
-        <item>"Para añadir una imagen o mostrar casillas de verificación, pulse en el botón de abajo
+        <item>"Para agregar una foto o mostrar casillas de verificación, toca el botón de abajo
 "</item>
-        <item>"Toque y mantenga pulsada una nota para ponerla en la clavija, moverla o eliminarla
+        <item>"Presiona y mantén una nota para colgarla, moverla o eliminarla
 "</item>
-        <item>"¡Y muchas más características!
-  - Sincronización con cuenta Mi Cloud
-  - Establecer Recordatorios
-
-Si desea más información, visite
-http://www.miui.com/forum.php?lang=1
-"</item>
+        <item>"¡Y otras grandes características!
+ - Sincronizar con Mi Cloud
+ - Establecer recordatorios"</item>
     </string-array>
-    <integer-array name="welcome_notes_color">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
 </resources>
