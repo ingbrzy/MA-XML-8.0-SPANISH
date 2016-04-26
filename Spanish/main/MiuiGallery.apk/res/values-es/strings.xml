@@ -316,7 +316,21 @@
     <string name="flash_off">Sin Flash</string>
     <string name="add_to_album">Añadir al álbum</string>
     <string name="delete">Eliminar</string>
+	<string name="delete_finish_format">%d borrado</string>
+    <string name="delete_in_process">Borrando…</string>
+    <string name="delete_album_success">Álbum borrado</string>
+    <string name="delete_album_failed">"No se pudo borrar el álbum"</string>
+    <string name="delete_other_shared_images">"No se pueden eliminar fotos compartidas por otros usuarios"</string>
+    <string name="delete_owner_and_other_shared_images_format">%1$d borrada, %2$d guardada</string>
+    <string name="delete_from_all_devices">de todos los dispositivos</string>
+    <string name="delete_from_album">de \"%s\" álbum (todos los dispositivos)</string>
+    <string name="delete_from_album_no_account">de \"%s\" álbum</string>
+    <string name="delete_album_msg_format">Borrar \"%2$s\" álbum %1$s%3$s?</string>
+    <string name="delete_third_party_photo">¿Borrar ésta foto?</string>
+    <string name="delete_third_party_video">¿Borrar éste video?</string>
     <string name="album_already_exists">Ya existe un álbum con ese nombre</string>
+	<string name="create_new_album">Crear álbum</string>
+    <string name="create_new_album_failed">"No se puedo crear un nuevo álbum"</string>
     <string name="album_name">Nombre del álbum</string>
     <string name="by_sms">Mensaje de texto</string>
     <string name="by_email">Email</string>
@@ -434,6 +448,12 @@
     <string name="other_settings">Ajustes adicionales</string>
     <string name="impunity_declaration_settings">Mostrar aviso de red</string>
     <string name="impunity_declaration_summary">Mostrar aviso de red cada vez que se inicie la aplicación Galería</string>
+	<string name="user_agreement2">" Términos del Servicio"</string>
+    <string name="user_agreement4">Política de Privacidad</string>
+    <string name="user_agree">De acuerdo</string>
+    <string name="do_not_remind_me">"No mostrar de nuevo"</string>
+    <string name="user_notice_identify_summary_format">"Al usar éste servicio, estás de acuerdo con  los  %1$s y %2$s de Xiaomi."</string>
+    <string name="user_notice_title">Atención</string>
     <string name="secret_album_display_name">Álbum oculto</string>
     <string name="alert_secret_album_title">Álbum oculto</string>
     <string name="alert_secret_album_message">Tira hacia abajo en la sección de la nube para ver el álbum oculto.</string>
@@ -809,8 +829,8 @@
     <string name="operation_remove_secret_button">Mostrar</string>
     <string name="cant_delete_cloud_album">No se puede borrar %s porque es un álbum de sistema o está siendo compartido con otros usuarios.</string>
     <string name="photo_paint_crop">Recortar</string>
-    <string name="ubifocus_map_error">Algunos de los datos de esta imagen contiene errores</string>
-    <string name="ubifocus_refocus_data_missing">No se puede reenfocar porque faltan algunos de los datos de esta imagen</string>
-    <string name="ubifocus_refocus_map_error">No se puede reenfocar porque algunos de los datos de esta imagen contienen errores</string>
+    <string name="ubifocus_map_error">Algunos de los datos de ésta imagen contienen errores</string>
+    <string name="ubifocus_refocus_data_missing">No se puede reenfocar porque faltan algunos de los datos de ésta imagen</string>
+    <string name="ubifocus_refocus_map_error">No se puede reenfocar porque algunos de los datos de ésta imagen contienen errores</string>
     <string name="merge_album_positive_button_text">Fusionar</string>
 </resources>
