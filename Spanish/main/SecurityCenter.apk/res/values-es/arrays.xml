@@ -28,17 +28,17 @@
         <item>"Este mes: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Ayer (datos)</item>
-        <item>Hoy (datos)</item>
-        <item>Este mes (datos)</item>
-        <item>Ayer Wi-Fi</item>
-        <item>Hoy Wi-Fi</item>
-        <item>Este mes Wi-Fi</item>
+        <item>Datos móviles utilizados ayer</item>
+        <item>Datos móviles utilizados hoy</item>
+        <item>Datos móviles utilizados este mes</item>
+        <item>Wi-Fi utilizado ayer</item>
+        <item>Wi-Fi utilizado hoy</item>
+        <item>Wi-Fi utilizado este mes</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Ayer (datos)</item>
-        <item>Hoy (datos)</item>
-        <item>Este mes (datos)</item>
+        <item>Datos móviles utilizados ayer</item>
+        <item>Datos móviles utilizados hoy</item>
+        <item>Datos móviles utilizados este mes</item>
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>3 segs</item>
@@ -51,16 +51,16 @@
     </string-array>
     <string-array name="traffic_type">
         <item>"Uso de datos móviles "</item>
-        <item>"Uso de red Wi-Fi "</item>
+        <item>"Uso de Wi-Fi "</item>
         <item>"Datos ahorrados "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Uso de datos móviles "</item>
-        <item>"Uso de red Wi-Fi "</item>
+        <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="traffic_sort_type">
         <item>"Uso de datos móviles "</item>
-        <item>"Uso de red Wi-Fi "</item>
+        <item>"Uso de Wi-Fi "</item>
         <item>"Datos ahorrados "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
@@ -68,11 +68,11 @@
         <item>Establecer manualmente</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
-        <item>Mostrar un aviso</item>
-        <item>Avisar y desactivar datos móviles</item>
+        <item>Mostrar advertencia</item>
+        <item>Advertir y desactivar los datos móviles</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
-        <item>Más utilizadas</item>
+        <item>Más utilizados</item>
         <item>Nombre</item>
     </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
@@ -80,6 +80,11 @@
         <item>Bajo</item>
         <item>Medio</item>
         <item>Alto</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Siempre</item>
+        <item>Sólo para las excepciones</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Después de 1 minuto</item>
@@ -98,16 +103,16 @@
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>Alto rendimiento</item>
-        <item>Equilibrado</item>
+        <item>Balanceado</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Apagar</item>
-        <item>Encender</item>
-        <item>Por defecto</item>
+        <item>Desactivar</item>
+        <item>Activar</item>
+        <item>Predeterminado</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>No vibrar nunca</item>
-        <item>Vibrar cuando esté en silencio</item>
+        <item>Vibrar en modo silencio</item>
         <item>Vibrar siempre</item>
     </string-array>
     <string-array name="power_dialog_vibration_items_values">
@@ -120,25 +125,12 @@
         <item>Todos los días</item>
         <item>Días laborables</item>
         <item>Entre semana</item>
-        <item>Personalizar</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Una vez</item>
         <item>Todos los días</item>
-        <item>Entre semana</item>
-        <item>Personalizar</item>
+        <item>Días de semana</item>
+        <item>Personalizado</item>
     </string-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
 </resources>
