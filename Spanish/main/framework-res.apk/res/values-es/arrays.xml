@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string-array name="app_ops_labels">
         <item>Intentando acceder a la ubicación</item>
@@ -53,19 +52,20 @@
         <item>Intentando escribir MMS</item>
         <item>Intentando arrancar al inicio</item>
      </string-array>
+     <integer-array name="maps_starting_lat_lng">
+        <item>40413496</item>
+        <item>-3713379</item>
+     </integer-array>
+     <integer-array name="maps_starting_zoom">
+        <item>6</item>
+     </integer-array>
      <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
-     <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
-     <string-array name="imProtocols">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
         <item>Yahoo</item>
@@ -74,33 +74,32 @@
         <item>Google Talk</item>
         <item>ICQ</item>
         <item>Jabber</item>
-     </string-array>
-     <integer-array name="maps_starting_lat_lng">
-        <item>36149777</item>
-        <item>-95993398</item>
-     </integer-array>
-     <integer-array name="maps_starting_zoom">
-        <item>3</item>
-     </integer-array>
-     <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
-     <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
-        <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
-     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Móvil</item>
+        <item>Trabajo</item>
+        <item>Fax laboral</item>
+        <item>Fax residencial</item>
+        <item>Localizador</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
 </resources>
