@@ -1,71 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-     <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to modify settings</item>
-        <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
-        <item>Trying to use media buttons</item>
-        <item>Trying to use audio focus</item>
-        <item>Trying to use master volume</item>
-        <item>Trying to use voice volume</item>
-        <item>Trying to use ring volume</item>
-        <item>Trying to use media volume</item>
-        <item>Trying to use alarm volume</item>
-        <item>Trying to use notification volume</item>
-        <item>Trying to use bluetooth volume</item>
-        <item>Trying to Keep device awake</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to turn on/off Wi-Fi</item>
-        <item>Trying to turn on/off bluetooth</item>
-        <item>Trying to turn on/off mobile data</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
-        <item>Trying to start at bootup</item>
-     </string-array>
-     <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
-     <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
-     <string-array name="imProtocols">
+    <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
         <item>Yahoo</item>
@@ -74,33 +15,32 @@
         <item>Google Talk</item>
         <item>ICQ</item>
         <item>Jabber</item>
-     </string-array>
-     <integer-array name="maps_starting_lat_lng">
-        <item>40413496</item>
-        <item>-3713379</item>
-     </integer-array>
-     <integer-array name="maps_starting_zoom">
-        <item>6</item>
-     </integer-array>
-     <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
-     <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
-        <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
-     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-     </string-array>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Móvil</item>
+        <item>Trabajo</item>
+        <item>Fax laboral</item>
+        <item>Fax residencial</item>
+        <item>Localizador</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
+    </string-array>
 </resources>
