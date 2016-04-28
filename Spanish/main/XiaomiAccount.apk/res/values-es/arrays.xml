@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="education">
+        <item>Educación Secundaria</item>
+        <item>Educación Primaria</item>
+        <item>Educación Preparatoria</item>
+        <item>Educación vocacional</item>
+        <item>Universidad</item>
+        <item>Maestría</item>
+        <item>Docotorado</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Familia</item>
+        <item>Nombre de la abuela materna</item>
+        <item>Nombre del abuelo materno</item>
+        <item>Nombre del abuelo paterno</item>
+        <item>Nombre de la abuela paterna</item>
+        <item>Cumpleaños del padre</item>
+        <item>Cumpleaños de la madre</item>
+        <item>¿Cuál es la diferencia de edad de sus padres (años y meses)?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Alma mater</item>
+        <item>¿Cuál era el nombre de su presidente de clase en la escuela secundaria?</item>
+        <item>¿Cuál era el nombre de su presidente de clase en la escuela primaria?</item>
+        <item>Su ID de estudiante en la universidad</item>
+        <item>¿Cuál es el nombre de su compañero de cuarto en la universidad?</item>
+        <item>¿Cuál es el nombre de su supervisor en la universidad?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Información personal</item>
+        <item>¿Cómo le llaman sus padres?</item>
+        <item>Los últimos 6 números de su pasaporte</item>
+        <item>¿En qué hospital nació?</item>
+        <item>¿Cuál es el nombre de su mejor amigo/a?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Primeras veces</item>
+        <item>¿Cuál es el nombre de su primera mascota?</item>
+        <item>¿Cuál es el nombre de su primera novio/a?</item>
+        <item>¿Cuál es el nombre de la empresa en la que consiguió su primer empleo?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Matrimonio</item>
+        <item>¿Cuando te casaste?</item>
+        <item>El nombre de su cónyuge</item>
+        <item>El cumpleaños de su cónyuge</item>
+    </string-array>
+</resources>
