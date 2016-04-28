@@ -72,15 +72,15 @@
     <string name="no_price">No hay información de precios</string>
     <string name="no_evaluation">No hay comentarios</string>
     <string name="no_brief">Sin resumen</string>
-    <string name="average_price">Promedio de %d RMB</string>
-    <string name="minimum_price">%d RMB min</string>
+    <string name="average_price">Promedio de %d DÓL</string>
+    <string name="minimum_price">%d DÓL min</string>
     <string name="more_coupons">Todos los cupones</string>
     <string name="coupon_bought_count">%d comprados</string>
     <string name="gallery">Galería</string>
     <string name="hms_notification">Mensajes</string>
     <string name="hms_no_subject_view">(Sin asunto)</string>
     <string name="content_desc_send_sms">Enviar SMS</string>
-    <string name="currency_character">RMB</string>
+    <string name="currency_character">DÓL</string>
     <string name="app_recommendation_install">Instalar</string>
     <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="menu_follow_yellow_page">Seguir</string>
@@ -161,13 +161,13 @@
     <string name="payment_unknown_status_summary">Comprueba tu conexión a internet y vuelve a intentarlo.</string>
     <string name="recharge_input_phone_title">Introduce el numero de teléfono (China Mobile, China Unicom o China Telecom)</string>
     <string name="recharge_select_money_title">Selecciona la cantidad de recarga</string>
-    <string name="recharge_charge_range">Precio: RMB %1$s-%2$s</string>
-    <string name="recharge_charge_value">Precio: RMB %s</string>
+    <string name="recharge_charge_range">Precio: DÓL %1$s-%2$s</string>
+    <string name="recharge_charge_value">Precio: DÓL %s</string>
     <string name="recharge_pay">Recargar ahora</string>
     <string name="mishop_web_payment_title">Comprobación del MI Store</string>
     <string name="recharge_pay_hint_license">Recargar noticia</string>
     <string name="recharge_title">Arriba</string>
-    <string name="recharge_payment_result_ok_title">Añadidos RMB %s</string>
+    <string name="recharge_payment_result_ok_title">Añadidos DÓL %s</string>
     <string name="recharge_payment_result_ok_summary">Confirma que esta cantidad se refleja en tu saldo.</string>
     <string name="recharge_payment_result_failed_title">No se pudo recargar</string>
     <string name="recharge_payment_result_failed_summary">Vuelve a intentarlo</string>
@@ -176,13 +176,13 @@
     <string name="recharge_phone_number_error">El teléfono introducido no es válido</string>
     <string name="recharge_phone_number_empty">El número de teléfono no puede estar vacío</string>
     <string name="recharge_user_confirm_title">Confirmación de recarga</string>
-    <string name="recharge_user_confirm_summary">"Has cargado RMB %2$s por %1$s.
+    <string name="recharge_user_confirm_summary">"Has cargado DÓL %2$s por %1$s.
 
-Total: RMB %3$s"</string>
+Total: DÓL %3$s"</string>
     <string name="recharge_order_id">Pedido #:</string>
     <string name="recharge_status_description">Estado:</string>
     <string name="recharge_actual_price">Precio:</string>
-    <string name="recharge_order_original_price">RMB %s</string>
+    <string name="recharge_order_original_price">DÓL %s</string>
     <string name="recharge_order_actual_price">$%s</string>
     <string name="recharge_order_pay">Comprobar</string>
     <string name="recharge_history">Hisotrial de recargas</string>
@@ -330,7 +330,7 @@ Comprueba el número de rastreo."</string>
     <string name="navigation_search_no_city_list">Sin resultados</string>
     <string name="navigation_search_hot_cities">Popular</string>
     <string name="navigation_search_all_cities">Todas las ciudades</string>
-    <string name="rmb">RMB</string>
+    <string name="rmb">DÓL</string>
     <string name="order_type_recharge">Recargar</string>
     <string name="order_empty_hint">Sin pedidos</string>
     <string name="order_merchant_title">Mis pedidos</string>
@@ -366,7 +366,7 @@ Comprueba el número de rastreo."</string>
     <string name="follow_success">Seguir ahora %1$s.</string>
     <string name="nearby_yellow_page_title">Cercano</string>
     <string name="nearby_no_yellow_page">Sin resultados cercanos</string>
-    <string name="nearby_average_price">Promedio de %d RMB</string>
+    <string name="nearby_average_price">Promedio de %d DÓL</string>
     <string name="user_agreement2">" Términos del Servicio"</string>
     <string name="user_agreement4">Política de Privacidad</string>
     <string name="callNoAnswerTimeFormat">Ha sonado %s veces</string>
