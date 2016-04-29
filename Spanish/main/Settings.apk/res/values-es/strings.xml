@@ -58,12 +58,12 @@
     <string name="title_local_resource">Recursos locales</string>
     <string name="online_resource_entry">Recursos en línea</string>
     <string name="status_bar_and_notification_bar">Panel de notificación y barra de estado</string>
-    <string name="status_bar_settings_manage_notification">Notificaciones de apps</string>
+    <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>
     <string name="status_bar_settings_all_app_display_loading">Un segundo…</string>
     <string name="status_bar_settings_enable_notification">Mostrar notificaciones</string>
     <string name="status_bar_settings_notification_priority">Prioridad</string>
     <string name="status_bar_settings_notification_priority_summary">Mostrar notificaciones en la parte superior de la lista</string>
-    <string name="status_bar_settings_show_home_message">Distintivo de ícono de App</string>
+    <string name="status_bar_settings_show_home_message">Distintivo de ícono de Aplicación</string>
     <string name="status_bar_settings_show_floating_notification">Notificaciones flotantes</string>
     <string name="status_bar_settings_show_floating_notification_summary">Las notificaciones flotantes desaparecerán después de ser mostradas</string>
     <string name="status_bar_settings_show_keyguard_notification">Bloquear las notificaciones en la pantalla</string>
@@ -97,7 +97,7 @@
     <string name="status_bar_key_position_custom">Posición del botón personalizado</string>
     <string name="status_bar_screen_key_menu">Botón menú</string>
     <string name="status_bar_screen_key_home">Botón inicio</string>
-    <string name="status_bar_screen_key_recent_apps">Botón de apps recientes</string>
+    <string name="status_bar_screen_key_recent_apps">Botón de aplicaciones recientes</string>
     <string name="status_bar_screen_key_back">Botón volver</string>
     <string name="yes">Sí</string>
     <string name="no">No</string>
@@ -893,7 +893,7 @@ PIN posiblemente incorrecto."</string>
     <string name="wrong_pin_code_pukked">El código PIN de la tarjeta SIM es incorrecto. Debes comunicarte con el proveedor para desbloquear el dispositivo.</string>
     <string name="pin_failed">Error al desbloquear la tarjeta SIM con el PIN</string>
     <string name="device_info_settings">Estado del dispositivo</string>
-    <string name="system_update_settings_list_item_title">Actualiz. del sistema</string>
+    <string name="system_update_settings_list_item_title">Actualizaciones del sistema</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Versión de Android</string>
     <string name="security_patch">Nivel de parche de seguridad de Android</string>
@@ -1139,7 +1139,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
     <string name="location_mode_battery_saving_description">Usa la Wi-Fi y las redes móviles para determinar la ubicación</string>
     <string name="location_mode_sensors_only_description">Determinar ubicación con GPS</string>
     <string name="location_network_based">Wi-Fi y red móvil</string>
-    <string name="location_neighborhood_level">Permitir que las apps usen datos de las redes móviles y Wi-Fi para estimar tu ubicación</string>
+    <string name="location_neighborhood_level">Permitir que las aplicaciones usen datos de las redes móviles y Wi-Fi para estimar tu ubicación</string>
     <string name="location_neighborhood_level_wifi">Ubicación determinada por Wi-Fi</string>
     <string name="location_gps">Satélites de GPS</string>
     <string name="location_street_level">Permitir que las aplicaciones usen el sistema GPS de tu dispositivo para determinar tu ubicación</string>
@@ -1272,9 +1272,9 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
     <string name="manage_space_text">Administrar el espacio</string>
     <string name="filter">Filtro</string>
     <string name="filter_dlg_title">Elegir opciones de filtro</string>
-    <string name="filter_apps_all">Todos</string>
+    <string name="filter_apps_all">Todas</string>
     <string name="filter_apps_disabled">Inhabilitadas</string>
-    <string name="filter_apps_third_party">Descargado</string>
+    <string name="filter_apps_third_party">Descargadas</string>
     <string name="filter_apps_running">En ejecución</string>
     <string name="filter_apps_onsdcard">Almacenamiento USB</string>
     <string name="disabled">Inhabilitadas</string>
@@ -1869,9 +1869,9 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
     <string name="allow_usage_access_message">Si permites el acceso, esta aplicación podrá ver información general sobre las aplicaciones del dispositivo, como la frecuencia con la que las utilizas.</string>
     <string name="emergency_tone_title">Tono de emergencia</string>
     <string name="emergency_tone_summary">Establecer el comportamiento cuando se establece una llamada de emergencia</string>
-    <string name="privacy_settings">Copia de seguridad y restablecer</string>
-    <string name="privacy_settings_title">Copia de seguridad y restablecer</string>
-    <string name="backup_section_title">Crear copia de seguridad y Restablecer</string>
+    <string name="privacy_settings">Respaldo y restablecimiento</string>
+    <string name="privacy_settings_title">Respaldo y restablecimiento</string>
+    <string name="backup_section_title">Crear copia de seguridad</string>
     <string name="personal_data_section_title">Datos personales</string>
     <string name="backup_data_title">Hacer una copia de seguridad de mis datos</string>
     <string name="backup_data_summary">Crear copia de seguridad de datos, contraseñas Wi-Fi y otros ajustes en los servidores de Google</string>
@@ -1887,7 +1887,7 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
     <string name="local_backup_password_toast_confirmation_mismatch">La nueva contraseña y la de confirmación no coinciden.</string>
     <string name="local_backup_password_toast_validation_failure">Error al definir contraseña de copia de seguridad</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">¿Desea detener el backup vía Wi-Fi de sus datos, contraseñas, otros ajustes, datos de apps y eliminar también las copias en los servidores de Google?</string>
+    <string name="backup_erase_dialog_message">¿Desea detener el backup vía Wi-Fi de sus datos, contraseñas, otros ajustes, datos de aplicaciones y eliminar también las copias en los servidores de Google?</string>
     <string name="device_admin_settings_title">Configuración de la administración del dispositivo</string>
     <string name="active_device_admin_msg">Administrador del dispositivo</string>
     <string name="remove_device_admin">Desactivar</string>
@@ -2101,7 +2101,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="data_usage_forground_label">En primer plano:</string>
     <string name="data_usage_background_label">En segundo plano:</string>
     <string name="data_usage_app_settings">Configuración de la aplicación</string>
-    <string name="data_usage_app_restrict_background">Restr. datos 2.º plano aplicac.</string>
+    <string name="data_usage_app_restrict_background">Restr. datos en 2° plano.</string>
     <string name="data_usage_app_restrict_background_summary">Inhabilitar datos en segundo plano en redes móviles</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Para restringir datos en 2.º plano aquí, limita datos móviles.</string>
     <string name="data_usage_app_restrict_dialog_title">¿Restringir el uso de datos en segundo plano?</string>
@@ -2125,7 +2125,7 @@ Algunas cuentas también podrían copiar de forma automática en la Web los camb
 
 Dado que el teléfono mide el uso de datos, y que este puede diferir del cálculo de uso de tu proveedor, considera usar un límite prudente."</string>
     <string name="data_usage_restrict_background_title">¿Restringir el uso de datos en segundo plano?</string>
-    <string name="data_usage_restrict_background">Si restringe los datos en segundo plano, algunas apps y servicios no funcionarán correctamente si no está conectado por Wi-Fi.</string>
+    <string name="data_usage_restrict_background">Si restringe los datos en segundo plano, algunas aplicaciones y servicios no funcionarán correctamente si no está conectado por Wi-Fi.</string>
     <string name="data_usage_restrict_background_multiuser">"Si restringes los datos móviles en segundo plano, algunas aplicaciones y servicios no funcionarán a menos que te conectes a una red Wi-Fi.
 
 Esta configuración afecta a todos los usuarios del teléfono."</string>
@@ -2139,7 +2139,7 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
     <string name="data_usage_total_during_range">%2$s: se usaron unos %1$s.</string>
     <string name="data_usage_total_during_range_mobile">%2$s: se usaron unos %1$s según tu teléfono. La medición de tu proveedor puede diferir.</string>
     <string name="data_usage_metered_title">Restricciones de red</string>
-    <string name="data_usage_metered_body">Seleccione las redes Wi-Fi que sean puntos de acceso móviles. Se puede impedir que las aplicaciones usen estas redes cuando se ejecuten en segundo plano. Las apps también te notificarán antes de usar estas redes en casos de grandes descargas.</string>
+    <string name="data_usage_metered_body">Seleccione las redes Wi-Fi que sean puntos de acceso móviles. Se puede impedir que las aplicaciones usen estas redes cuando se ejecuten en segundo plano. Las aplicaciones también te notificarán antes de usar estas redes en casos de grandes descargas.</string>
     <string name="data_usage_metered_mobile">Redes móviles</string>
     <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
     <string name="data_usage_metered_wifi_disabled">Para seleccionar puntos Wi-Fi, actívelo ahora mismo.</string>
@@ -2661,7 +2661,7 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="privacy_mode_enable_sum">Ocultar mensajes, notas, fotos, ajustes y llamadas entrantes</string>
     <string name="ac_enable_title">Bloquear aplicación</string>
     <string name="ac_enable_summary">Se requerirá una contraseña para abrir la aplicación</string>
-    <string name="ac_set_apps_title">Elegir apps para bloquear</string>
+    <string name="ac_set_apps_title">Elegir aplicaciones para bloquear</string>
     <string name="ac_privacy_mode_title">Contraseña</string>
     <string name="ac_privacy_mode_sum">Pedir contraseña para desactivar el modo invitado</string>
     <string name="access_control_password_title">Contraseña</string>
@@ -2671,7 +2671,7 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
 "</string>
     <string name="access_control_no_back_footer">Pulse [icon] para salir</string>
     <string name="access_control_recording_intro_header">Dibuje un patrón de desbloqueo</string>
-    <string name="access_control_app_entry_single">Abrir app</string>
+    <string name="access_control_app_entry_single">Abrir aplicación</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
     <string name="apn_mms">MMS</string>
     <string name="apn_general">General</string>
@@ -2692,8 +2692,8 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="preferred_application_warning_use_system">Usar %s</string>
     <string name="preferred_sms_warning_message">Si utiliza \"%1$s\" como su aplicación de mensajería por defecto podría aumentar el uso de datos móviles o poner sus datos personales en riesgo.</string>
     <string name="preferred_sms_warning_use_system">No usar</string>
-    <string name="preferred_sms_settings">Esta será tu app principal de mensajería para leer y redactar mensajes.</string>
-    <string name="preferred_sms_title">App principal de mensajería</string>
+    <string name="preferred_sms_settings">Esta será tu aplicación principal de mensajería para leer y redactar mensajes.</string>
+    <string name="preferred_sms_title">Aplicación principal de mensajería</string>
     <string name="wallpaper_desktop">Pantalla de Inicio</string>
     <string name="wallpaper_lockscreen">Pantalla de bloqueo</string>
     <string name="wallpaper_live">Fondo animado</string>
@@ -2733,7 +2733,7 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="camera_key_action_none_title">No hacer nada</string>
     <string name="camera_key_action_shortcut_title">Capturar</string>
     <string name="camera_key_action_toggle_title">Alternar controles</string>
-    <string name="camera_key_action_app_title">Iniciar app</string>
+    <string name="camera_key_action_app_title">Iniciar aplicación</string>
     <string name="camera_key_action_shortcut_home">Pantalla de inicio</string>
     <string name="camera_key_action_shortcut_screenshot">Captura de pantalla</string>
     <string name="camera_key_action_shortcut_search">Buscar</string>
@@ -2859,14 +2859,14 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="erase_personal_data_description">Eliminar la información de tu cuenta Mi, datos de apps y ajustes de sistema</string>
     <string name="erase_optional">Contenido</string>
     <string name="erase_application">Eliminar apps</string>
-    <string name="erase_application_description">Eliminar las apps descargadas</string>
+    <string name="erase_application_description">Eliminar las aplicaciones descargadas</string>
     <string name="erase_data">Eliminar</string>
     <string name="confirm_erase">Eliminar</string>
     <string name="master_clear_personal_data">¿Borrar todos tus datos personales? ¡Esta acción no podrá deshacerse!</string>
-    <string name="master_clear_personal_data_application">¿Borrar todos tus datos personales y las apps descargadas? ¡Esta acción no podrá deshacerse!</string>
+    <string name="master_clear_personal_data_application">¿Borrar todos tus datos personales y las aplicaciones descargadas? ¡Esta acción no podrá deshacerse!</string>
     <string name="master_clear_personal_data_sdcard">¿Borrar todo tus contenidos y tus datos personales? ¡Esta acción no podrá deshacerse!</string>
     <string name="master_clear_all">¿Borrar todos los datos de la memoria interna de tu teléfono? ¡Esta acción no podrá deshacerse!</string>
-    <string name="master_clear_erase_application_progress">Eliminar apps…</string>
+    <string name="master_clear_erase_application_progress">Eliminar aplicaciones…</string>
     <string name="erase_internal_storage">Borrar contenido almacenado</string>
     <string name="erase_internal_storage_description">Borrar música, videos, fotos y otros datos personales</string>
     <string name="storage_format">Formato</string>
@@ -2932,7 +2932,7 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="password_guard">Contraseña</string>
     <string name="wifi_menu_wfd">Pantalla inalámbrica</string>
     <string name="wfd_settings_title">Pantalla inalámbrica</string>
-    <string name="wfd_settings_description">Conectarse a una pantalla usando Wi-Fi</string>
+    <string name="wfd_settings_description">Conectarse a una pantalla externa con Wi-Fi</string>
     <string name="wfd_enabler_title">Pantalla inalámbrica</string>
     <string name="wfd_enable_wifi_diag_title">¿Activar Wi-Fi?</string>
     <string name="wfd_menu_search">Buscar dispositivos</string>
@@ -2949,7 +2949,7 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="virtual_sim_description">Servicio de roaming internacional confiable</string>
     <string name="virtual_sim_search_title">SIM Virtual</string>
     <string name="power_mode">Ajustes de energía</string>
-    <string name="high_performance_title">Parece que se está ejecutando una app de testeo de benchmark. Establezca en la administración de energía en modo de \"Alto rendimiento\" para obtener mejores resultados.</string>
+    <string name="high_performance_title">Parece que se está ejecutando una aplicación de testeo de benchmark. Establezca en la administración de energía en modo de \"Alto rendimiento\" para obtener mejores resultados.</string>
     <string name="high_performance_notif_title">El modo de alto rendimiento está activado</string>
     <string name="high_performance_notif_summary">El dispositivo puede calentarse durante uso intenso.</string>
     <string name="skip_step">Omitir</string>
@@ -3016,7 +3016,7 @@ Seleccione su sistema operativo:"</string>
     <string name="privacy_relative">Privacidad</string>
     <string name="other_relative">Otros</string>
     <string name="permission_manage_title">%s permisos</string>
-    <string name="filter_apps_cached">Caché</string>
+    <string name="filter_apps_cached">En Caché</string>
     <string name="screen">Pantalla</string>
     <string name="system">Sistema</string>
     <string name="screen_color_temperature">Colores</string>
@@ -3040,9 +3040,9 @@ Seleccione su sistema operativo:"</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">No mostrar de nuevo</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
     <string name="screen_paper_mode_range_title">Configuraciones</string>
-    <string name="screen_paper_mode_global_title">Todas los apps</string>
+    <string name="screen_paper_mode_global_title">Todas los aplicaciones</string>
     <string name="screen_paper_mode_global_summary">Usar el modo Lectura para todas las aplicaciones</string>
-    <string name="screen_paper_mode_local_title">Apps seleccionadas</string>
+    <string name="screen_paper_mode_local_title">Aplicaciones seleccionadas</string>
     <string name="screen_paper_mode_local_summary">Usar el modo Lectura para las aplicaciones que selecciones</string>
     <string name="screen_paper_mode_set_apps_title">Aplicaciones en modo Lectura</string>
     <string name="screen_paper_mode_apps_loading">Un segundo…</string>
@@ -3053,11 +3053,11 @@ Seleccione su sistema operativo:"</string>
     <string name="finish_application">Forzar cierre</string>
     <string name="header_category_accounts">Cuentas</string>
     <string name="auto_startup_application_manage">Inicio automático</string>
-    <string name="add_auto_startup_application">Añadir apps con inicio automático</string>
+    <string name="add_auto_startup_application">Añadir aplicaciones con inicio automático</string>
     <string name="power_autorun_apps_empty">Vacío</string>
     <string name="power_autorun_empty">Vacío</string>
     <string name="auto_startup_count">%d aplicaciones pueden iniciarse automáticamente</string>
-    <string name="man_add_application">Añadir apps con inicio automático</string>
+    <string name="man_add_application">Añadir aplicaciones con inicio automático</string>
     <string name="application_item_disable">Denegar</string>
     <string name="application_item_permission">Permitir</string>
     <string name="application_item_already_permission">Permitido</string>
@@ -3220,7 +3220,7 @@ Seleccione su sistema operativo:"</string>
     <string name="xiaomi_router_available_notif_summary">Pulsa para saber más.</string>
     <string name="restrict_background_data_title">Restringir datos en segundo plano</string>
     <string name="restrict_background_data_dialog_summary">Las aplicaciones que se ejecuten en segundo plano no podrán recibir mensajes.</string>
-    <string name="restrict_background_data_notification_summary">Las apps no pueden conectarse a la red si los datos en segundo plano están restringidos</string>
+    <string name="restrict_background_data_notification_summary">Las aplicaciones no pueden conectarse a la red si los datos en segundo plano están restringidos</string>
     <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
     <string name="toast_need_login">Inicie sesión con su cuenta Mi</string>
     <string name="preferred_app_settings">Valores predeterminados</string>
@@ -3275,7 +3275,7 @@ Seleccione su sistema operativo:"</string>
     <string name="google_backup_section_title">Copia de seguridad y restauración de Google</string>
     <string name="system_backup_section_title">Copia de seguridad</string>
     <string name="local_backup_section_title">Copias de seguridad locales</string>
-    <string name="local_backup_section_summary">Crear copia de seguridad de los ajustes, cuenta y apps</string>
+    <string name="local_backup_section_summary">Crear copia de seguridad de los ajustes, cuenta y aplicaciones</string>
     <string name="other_personal_settings">Ajustes personales</string>
     <string name="local_auto_backup_section_title">Crear copia de seguridad automáticamente</string>
     <string name="local_auto_backup_on">Activado</string>
@@ -3383,7 +3383,7 @@ Seleccione su sistema operativo:"</string>
     <string name="page_layout_3">Galería</string>
     <string name="page_layout_4">Música</string>
     <string name="page_layout_5">Video</string>
-    <string name="page_layout_6">Apps</string>
+    <string name="page_layout_6">Aplicaciones</string>
     <string name="page_layout_7">Juegos</string>
     <string name="page_layout_8">Mi Life</string>
     <string name="page_layout_9">Temas</string>
@@ -3495,7 +3495,7 @@ Seleccione su sistema operativo:"</string>
     <string name="edge_mode_back">Volver</string>
     <string name="edge_mode_clean">Limpiar caché del sistema</string>
     <string name="edge_mode_screenshot">Captura de pantalla</string>
-    <string name="edge_mode_photo_summary">En la app de Cámara, toque el borde de su teléfono para activar el obturador y toque de nuevo para tomar una foto</string>
+    <string name="edge_mode_photo_summary">En la aplicación de Cámara, toque el borde de su teléfono para activar el obturador y toque de nuevo para tomar una foto</string>
     <string name="edge_mode_back_summary">Toque dos veces el borde de su teléfono para volver</string>
     <string name="edge_mode_clean_summary">Deslice en ambos bordes simultáneamente para limpiar el caché del sistema</string>
     <string name="edge_mode_screenshot_summary">Toque dos veces en ambos bordes para hacer una captura de pantalla</string>
@@ -3535,7 +3535,7 @@ Seleccione su sistema operativo:"</string>
     <string name="add_fingerprint_finished_button_text">Aceptar</string>
     <string name="add_fingerprint_instruction_dialog_msg">Para añadir su huella dactilar, coloque el dedo en el sensor y levántelo cuando sienta una vibración.</string>
     <string name="add_fingerprint_toast_text">Coloque su dedo en el sensor</string>
-    <string name="onekey_migrate">Mi Mover</string>
+    <string name="onekey_migrate">Transferencia</string>
     <string name="lock_settings_with_fingerprint">Pantalla de bloqueo y huella dactilar</string>
     <string name="confirm_fingerprint_msg">Coloque su dedo en el sensor</string>
     <string name="managed_profile_location_category">Perfil de trabajo</string>
