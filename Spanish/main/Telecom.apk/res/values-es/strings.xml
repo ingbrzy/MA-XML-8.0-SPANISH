@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ui_default_package_dialer">com.android.contacts</string>
-    <string name="ui_default_package">com.android.incallui</string>
-    <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
-    <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
-    <string name="default_connection_manager_component" />
-    <string name="Lch_dtmf_key">D</string>
     <string name="telecommAppLabel">Teléfono</string>
     <string name="unknown">Desconocido</string>
     <string name="notification_missedCallTitle">Llamada perdida</string>
