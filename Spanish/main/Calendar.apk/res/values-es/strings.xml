@@ -65,7 +65,7 @@
      <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
      <string name="birthday_notification_text_three_days_later">3 días para el %3$s (%4$s)</string>
      <string name="birthday_notification_text_today">No olvides felicitarle</string>
-     <string name="birthday_notification_title_days_later">%1$s&apos;s %2$s is coming up.</string>
+     <string name="birthday_notification_title_days_later">"%1$s&apos;s %2$s is coming up."</string>
      <string name="birthday_notification_title_three_days_later">El %2$s de %1$s se acerca</string>
      <string name="birthday_notification_title_today">%3$s de %1$s</string>
      <string name="birthday_notification_type_term_lunar" />
@@ -131,7 +131,6 @@
      <string name="date_pattern_mm_dd">MMesddía</string>
      <string name="date_pattern_mm_dd_kk_mm">MMesddía HH:mm</string>
      <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
-     <string name="date_time_fmt">%s, %s</string>
      <string name="day_view">Día</string>
      <string name="day_view_new_event_hint">Nuevo evento</string>
      <string name="default_reminder_mode">Recordatorios</string>
