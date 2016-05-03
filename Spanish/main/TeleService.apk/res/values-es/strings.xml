@@ -179,7 +179,7 @@
      <string name="callind_multi_sim">Ajustes SUBS</string>
      <string name="calling_via_template">Llamando vía %s</string>
      <string name="callwait_open_hint">La función de llamada en espera la facilita su operador. Si recibe un aviso de error, contacte con su operador para asegurarse de que admita esta función.</string>
-     <string name="can_not_call_self">Can&apos;t dial own number</string>
+     <string name="can_not_call_self">Can\`t dial own number</string>
      <string name="can_not_use_for_not_data_sim">(No se puede utilizar: Se debe establecer como datos SIM por defecto)</string>
      <string name="cancel">Cancelar</string>
      <string name="cancel_call">Cancelar</string>
@@ -452,7 +452,7 @@
      <string name="enterName">Nombre:</string>
      <string name="enterNumber">Número de teléfono:</string>
      <string name="enter_callbarring_password">Introduzca la contraseña (4 dígitos) de restricción de llamadas</string>
-     <string name="enter_input">El mensaje USSD debe tener entre %d y %d caracteres. Inténtelo de nuevo.</string>
+     <string name="enter_input" formatted="false">El mensaje USSD debe tener entre %d y %d caracteres. Inténtelo de nuevo.</string>
      <string name="enter_ip_prefix_number">Enter prefix number</string>
      <string name="enter_pin2_text">PIN2</string>
      <string name="enter_pin_text">PIN de tarjeta SIM:</string>
