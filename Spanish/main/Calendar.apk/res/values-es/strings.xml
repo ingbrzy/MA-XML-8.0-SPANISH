@@ -23,10 +23,19 @@
      <string name="acessibility_cal_notification">Notificación de calendario</string>
      <string name="acessibility_selected_marker_description">Evento seleccionado</string>
      <string name="acessibility_snooze_notification">Notificación de repetición</string>
-     <string name="action_label">Return</string>
+     <string name="action_label">Regresar</string>
      <string name="action_text_new_event">Evento nuevo</string>
      <string name="action_text_online">Suscribirse</string>
      <string name="action_text_today">Hoy</string>
+     <string name="ad_card_connecting">Conexión</string>
+     <string name="ad_card_download_count">%1$sDescargas personales</string>
+     <string name="ad_card_download_count_million">%1$sMillones de descargas</string>
+     <string name="ad_card_downloading">Descargando</string>
+     <string name="ad_card_install">Instalar ahora</string>
+     <string name="ad_card_installed">Instalado</string>
+     <string name="ad_card_installing">Instalando</string>
+     <string name="ad_card_network_error">No hay conexión a la red, por favor intente de nuevo ¡más tarde!</string>
+     <string name="ad_card_spread">Divulgación</string>
      <string name="add_account">Añadir cuenta</string>
      <string name="add_calendar">Suscribirse</string>
      <string name="add_card">Añadir tarjeta</string>
@@ -65,7 +74,7 @@
      <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
      <string name="birthday_notification_text_three_days_later">3 días para el %3$s (%4$s)</string>
      <string name="birthday_notification_text_today">No olvides felicitarle</string>
-     <string name="birthday_notification_title_days_later">"%1$s&apos;s %2$s is coming up."</string>
+     <string name="birthday_notification_title_days_later">"%1$será %2$s muy pronto".</string>
      <string name="birthday_notification_title_three_days_later">El %2$s de %1$s se acerca</string>
      <string name="birthday_notification_title_today">%3$s de %1$s</string>
      <string name="birthday_notification_type_term_lunar" />
@@ -187,7 +196,7 @@
      <string name="event_hide_more">Ocultar</string>
      <string name="event_info_descrip">Descripción\u0009\u0009\u0009</string>
      <string name="event_info_end">Fin\u0009\u0009\u0009</string>
-     <string name="event_info_from">From</string>
+     <string name="event_info_from">De</string>
      <string name="event_info_organizer">Organizador:</string>
      <string name="event_info_reminders_label">Recordatorios</string>
      <string name="event_info_reminders_label_1">Recordatorio</string>
@@ -239,6 +248,8 @@
      <string name="marketing_activity_text_cake">Pastel de cumpleaños predeterminado</string>
      <string name="marketing_activity_text_flower">Enviar flores</string>
      <string name="marketing_activity_text_header">Enviar un regalo</string>
+     <string name="match_ed">已结束</string>
+     <string name="match_ing">进行中</string>
      <string name="menu_about_preferences">Acerca de Calendario</string>
      <string name="menu_general_preferences">Configuración general</string>
      <string name="menu_preferences">Ajustes</string>
@@ -292,6 +303,9 @@
      <string name="online_reminder_minutes_text">Hora de recordatorio</string>
      <string name="online_reminder_slider_text">Activar recordatorios</string>
      <string name="pengzu">pengzu</string>
+     <string name="prefDefault_alerts_vibrateWhen">never</string>
+     <string name="prefDefault_alerts_vibrate_false">never</string>
+     <string name="prefDefault_alerts_vibrate_true">always</string>
      <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
      <string name="pref_error_no_ringtone_select">Ninguno seleccionado</string>
      <string name="pref_title_alarm_remind">Recordatorio de alarma</string>
