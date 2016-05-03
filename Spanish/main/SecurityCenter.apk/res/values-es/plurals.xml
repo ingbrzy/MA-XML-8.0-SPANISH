@@ -107,6 +107,9 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">La contraseña debe contener al menos %d caracteres diferentes a letra.</item>
         <item quantity="one">La contraseña debe contener al menos un carácter diferente a letra.</item>
+    </plurals><plurals name="notification_apps">
+        <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
+        <item quantity="one">%d aplicación tiene riesgo de privacidad</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicaciones bloqueadas</item>
