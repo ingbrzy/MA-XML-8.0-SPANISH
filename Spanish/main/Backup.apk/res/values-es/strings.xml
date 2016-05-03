@@ -108,17 +108,17 @@
      <string name="every_day">Cada día</string>
      <string name="exchange_account">Cambiar de cuenta</string>
      <string name="fail">Falló</string>
-     <string name="feature_title_account">Account</string>
+     <string name="feature_title_account">Cuenta</string>
      <string name="feature_title_call_log">Historial de llamadas</string>
      <string name="feature_title_mms">MMS</string>
      <string name="file_uploading">Subiendo…</string>
      <string name="files_backup_info">Todos los archivos en la tarjeta SD (incluyendo fotos, canciones, vídeos, datos de aplicaciones, etc.)</string>
      <string name="findlost_contact">Restaurar contactos</string>
      <string name="findlost_contact_online">Restaurar contactos desde Mi Cloud</string>
-     <string name="guarded_mode_dialog_backup_message">"Backups aren&apos;t allowed in Guest mode."</string>
+     <string name="guarded_mode_dialog_backup_message">"No puedes hacer respaldos en el Modo invidato."</string>
      <string name="guarded_mode_dialog_message">"Esta función no está permitida en modo invitado."</string>
      <string name="guarded_mode_dialog_title">"Estás en modo de invitado"</string>
-     <string name="guarded_mode_dialog_transfer_message">"Can&apos;t use Mi Mover in Guest mode."</string>
+     <string name="guarded_mode_dialog_transfer_message">"No puedes usar Transferencia en Modo Invitado."</string>
      <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga MiTalk e inicia sesión.
 \u0009http://www.miliao.com
 
@@ -209,6 +209,11 @@
      <string name="size_mega_byte">MB</string>
      <string name="sms_title">Mensajería</string>
      <string name="software_backup_info">Datos de la aplicación</string>
+     <string name="st_antispam_mode_blacklist_state">11112121</string>
+     <string name="st_antispam_mode_only_all_deny_state">10000000</string>
+     <string name="st_antispam_mode_only_contacts_state">11110000</string>
+     <string name="st_antispam_mode_only_whitelist_state">11000000</string>
+     <string name="st_antispam_mode_smart_state">11111111</string>
      <string name="start_backup">Copia de seguridad</string>
      <string name="start_restore">Restaurar</string>
      <string name="state_mounting">Accediendo al almacenamiento del router…</string>
@@ -347,7 +352,7 @@ está encendido y la Transferencia activada"</string>
      <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_router">Router Mi</string>
      <string name="xiaomi_router_location">Router Mi %s</string>
-     <string name="xiaomi_update_dialog_message">Presentando la versió %1$s
+     <string name="xiaomi_update_dialog_message">Presentando la versión %1$s
 Tañamo: %2$s</string>
      <string name="xiaomi_update_dialog_message_diff">Presentando la versión %1$s
 Tamaño de descarga: %2$s</string>
