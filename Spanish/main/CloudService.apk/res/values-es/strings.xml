@@ -306,7 +306,7 @@ Pulse el botón Ajustes para más opciones."</string>
      <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
      <string name="micloud_sync_alert_dialog_positive">Aceptar</string>
      <string name="micloud_sync_alert_dialog_title">Usar Mi Cloud</string>
-     <string name="micloud_title_dspt">"%s en total
+     <string name="micloud_title_dspt" formatted="false">"%s en total
  %s usados | %s restantes"</string>
      <string name="micloud_title_dspt_remain">%s restantes</string>
      <string name="micloud_title_full_dspt">¡Ha agotado su espacio de almacenamiento!</string>
