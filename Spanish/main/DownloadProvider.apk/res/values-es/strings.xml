@@ -65,13 +65,13 @@
      <string name="warning_tip_content">"Ya no está conectado a Wi-Fi. Usar su conexión de datos móviles para completar esta descarga incrementará el uso de datos. Si excede el límite de datos contratado, su compañía podría cobrar tasas adicionales."</string>
      <string name="warning_tip_ok">Pausar</string>
      <string name="warning_tip_title">Advertencia de uso de datos</string>
-     <string name="wifi_recommended_body">"Iniciar esta descarga de %s puede resultar en un uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.
+     <string name="wifi_recommended_body" formatted="false">"Iniciar la descarga de %s puede resultar en un uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.
 
-Toque %s para iniciar esta descarga la próxima vez que esté conectado a una red Wi-Fi."</string>
+ Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo WLAN."</string>
      <string name="wifi_recommended_title">¿Poner en cola para descargar más tarde?</string>
-     <string name="wifi_required_body">"Debe usar Wi-Fi para completar esta descarga de %s.
+     <string name="wifi_required_body" formatted="false">"Debes usar una conexión WLAN para completar la descarga de %s. 
 
-Toque %s para iniciar esta descarga la próxima vez que esté conectado a una red Wi-Fi."</string>
+Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo WLAN."</string>
      <string name="wifi_required_title">Descarga demasiado grande para la red del operador</string>
      <string name="xl_speedup_experience_notify_context">La velocidad de descarga aunmenta de manera excepcional al inscribirte como usuario Xunlei</string>
      <string name="xl_speedup_experience_notify_title">Membresía Xunlei</string>
