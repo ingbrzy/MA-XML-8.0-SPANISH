@@ -21,7 +21,6 @@
      <string name="administrative_disable">Administrativo desactivado</string>
      <string name="administrative_enable">Administrativo activado</string>
      <string name="advanced_settings">Ajustes opcionales</string>
-     <string name="advanced_settings_container">contenedor de ajustes avanzados</string>
      <string name="advanced_settings_hide">▽ Toca para ocultar todo</string>
      <string name="advanced_settings_show">▷ Toca para mostrar todo</string>
      <string name="advertisements_disable">Anuncios desactivados</string>
@@ -56,7 +55,6 @@
      <string name="audio_mode_earpiece">Auricular manos libres</string>
      <string name="audio_mode_speaker">Altavoz</string>
      <string name="audio_mode_wired_headset">Auriculares con cable</string>
-     <string name="auth_username">AuthUserName</string>
      <string name="auth_username_summary">Nombre de usuario utilizado para la autenticación</string>
      <string name="auth_username_title">Nombre de usuario de autenticación</string>
      <string name="auto_answer_delay_entries_delay_10s">10 segundos</string>
@@ -309,9 +307,7 @@
      <string name="default_area_code_setting">Código de área predeterminado</string>
      <string name="default_areacode">Código de área predeterminado</string>
      <string name="default_notification_description">Sonido predeterminado (%1$s)</string>
-     <string name="default_port">5060</string>
      <string name="default_preference_summary">&lt;Sin definir></string>
-     <string name="default_transport">UDP</string>
      <string name="delete">Eliminar</string>
      <string name="deleteAllSimEntries">Eliminar todos los contactos de SIM</string>
      <string name="deleteSimContacts">Borrando…</string>
@@ -380,11 +376,9 @@
      <string name="disable_fdn_ok">Activar FDN</string>
      <string name="disable_pin_ok">PIN de SIM desactivado.</string>
      <string name="disable_sim_pin">Desactivar PIN de SIM</string>
-     <string name="display_name">DisplayName</string>
      <string name="display_name_summary">&lt;Igual que el nombre de usuario></string>
      <string name="display_name_title">Nombre para mostrar</string>
      <string name="do_not_ask">No preguntar nuevamente</string>
-     <string name="domain_address">SipDomain</string>
      <string name="domain_address_title">Servidor</string>
      <string name="domestic_calls">Only domestic</string>
      <string name="doneButton">Listo</string>
@@ -954,7 +948,6 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
      <string name="other_settings">Otras opciones de llamado</string>
      <string name="other_settings_category">Otros</string>
      <string name="overseas_roaming_setting">Roaming de datos</string>
-     <string name="password">Contraseña</string>
      <string name="password_changed">Contraseña cambiada</string>
      <string name="password_title">Contraseña</string>
      <string name="pause_prompt_no">No</string>
@@ -1012,7 +1005,6 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
      <string name="place_a_call3">Suscripción 3</string>
      <string name="plmn_list_setting_add_plmn">New PLMN</string>
      <string name="plmn_list_setting_title">Preferred networks</string>
-     <string name="port">Port</string>
      <string name="port_title">Número de puerto</string>
      <string name="preference_auto_ip_summary_disable">Desactivado</string>
      <string name="preference_category_ringtone">Tono y vibración</string>
@@ -1208,10 +1200,8 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
      <string name="select_voice_call_sim">Seleccione tarjeta SIM</string>
      <string name="sendSms">Enviar SMS</string>
      <string name="send_button">Enviar</string>
-     <string name="send_keepalive">SendKeepAlive</string>
      <string name="send_keepalive_title">Enviar mensaje de mantenimiento de conexión</string>
      <string name="send_order_failed">No se pudo enviar la orden</string>
-     <string name="set_primary">SetPrimary</string>
      <string name="set_primary_summary">Se utiliza para llamadas salientes</string>
      <string name="set_primary_title">Establecer como cuenta principal</string>
      <string name="set_smsc_address_error">No es posible establecer el número</string>
@@ -1249,10 +1239,7 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
      <string name="sip_accounts">Cuentas (SIP) de llamadas por internet</string>
      <string name="sip_accounts_title">Cuentas SIP</string>
      <string name="sip_add_account_tip_text">Para usar llamadas por internet, agregue una cuenta SIP</string>
-     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-     <string name="sip_always">SIP_ALWAYS</string>
      <string name="sip_always_send_keepalive">Enviar siempre</string>
-     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
      <string name="sip_call_options_entry_1">Para todas las llamadas cuando los datos móviles están disponibles</string>
      <string name="sip_call_options_entry_2">Sólo para las llamadas por internet</string>
      <string name="sip_call_options_entry_3">Preguntar para cada llamada</string>
@@ -1376,7 +1363,6 @@ El próximo período comienza en %2$d días (%3$s)"</string>
      <string name="title_user_config">Activando tarjeta SIM</string>
      <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
      <string name="top_up_first">Recargar primero</string>
-     <string name="transport">Protocolo</string>
      <string name="transport_title">Tipo de transporte</string>
      <string name="tty_mode_entries_full">TTY Completo</string>
      <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -1406,7 +1392,6 @@ El próximo período comienza en %2$d días (%3$s)"</string>
      <string name="use_history">Actividad</string>
      <string name="use_history_duration_min">%1$s mins</string>
      <string name="use_range">Características</string>
-     <string name="username">Nombre de usuario</string>
      <string name="username_title">Usuario</string>
      <string name="ussdRunning">Código USSD en ejecución…</string>
      <string name="ussd_dialog_sep">----------</string>
