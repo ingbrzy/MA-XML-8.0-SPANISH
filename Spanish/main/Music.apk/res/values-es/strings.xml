@@ -738,8 +738,8 @@
      <string name="warning_tip_ok">Pause</string>
      <string name="warning_tip_title">Data usage warning</string>
      <string name="welcome_to_new_music">Wecome to new version of Mi Music</string>
-     <string name="wifi_required_body">You must use WLAN to complete this %s download. 
+     <string name="wifi_required_body" formatted="false">"Debes usar una red WLAN para completar ésta %s descarga. 
 
-Touch %s to start this download the next time you are connected to a WLAN network.</string>
-     <string name="wifi_required_title">Download too large for operator network</string>
+Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo WLAN."</string>
+     <string name="wifi_required_title">Archivo de descarga muy grande para el operador de red</string>
 </resources>
