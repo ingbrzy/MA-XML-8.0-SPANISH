@@ -11,7 +11,7 @@
      <string name="activity_title_ignored_image">Ignoradas</string>
      <string name="activity_title_image_gallery">Borrar duplicadas</string>
      <string name="activity_title_large_file">Archivos grandes</string>
-     <string name="activity_title_main">Aceleración de Limpieza</string>
+     <string name="activity_title_main">Limpieza en Curso</string>
      <string name="activity_title_news">Novedades</string>
      <string name="activity_title_privacy_cache">Cache privada</string>
      <string name="activity_title_residual">Archivos residuales</string>
@@ -118,7 +118,7 @@
      <string name="dialog_content_checkbox_delete_cloud_image">Borrar fotos de Mi Cloud también</string>
      <string name="dialog_content_delete_image_confirm">¿Borrar %d fotos?</string>
      <string name="dialog_content_select_all_confirm">¿Guardar una copia de esta foto?</string>
-     <string name="dialog_msg_add_white_list_error">The file doesn&apos;t support to add to exceptions</string>
+     <string name="dialog_msg_add_white_list_error">El archivo no soporta ser agregado a excepciones</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Hacer copia de seguridad y borrar las siguientes aplicaciones?</string>
      <string name="dialog_msg_check_all">Confirmar la selección %1$s que contiene %2$d entradas</string>
      <string name="dialog_msg_esc_cleanmaster">¿Detener la limpieza en curso?</string>
@@ -164,9 +164,9 @@
      <string name="hints_apk_version">Versión %s</string>
      <string name="hints_app_uninstall_residual">¿Limpiar archivos residuales de desintalación?</string>
      <string name="hints_cache_header_left">Archivos de caché</string>
-     <string name="hints_cache_msd_desc">Deleting delta updates won&apos;t influence app usage</string>
-     <string name="hints_cache_msd_title">Delta update</string>
-     <string name="hints_cleanfinish">Limpieza completada</string>
+     <string name="hints_cache_msd_desc">Borrar actualizaciones delta no influye en el uso de las aplicaciones</string>
+     <string name="hints_cache_msd_title">Actualización delta</string>
+     <string name="hints_cleanfinish">Limpieza terminada</string>
      <string name="hints_deepclean_list_item_from">Desde %s</string>
      <string name="hints_deepclean_scanning">Escaneando %s</string>
      <string name="hints_finish_quick_cleanup">Hecho</string>
