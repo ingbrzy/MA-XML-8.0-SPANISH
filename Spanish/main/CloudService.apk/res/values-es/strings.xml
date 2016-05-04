@@ -301,7 +301,7 @@ Pulse el botón Ajustes para más opciones."</string>
      <string name="micloud_storage_expires_soon_title">El almacenamiento de Mi Cloud caducará pronto</string>
      <string name="micloud_storage_expires_very_soon_title">El almacenamiento de Mi Cloud caducará pronto</string>
      <string name="micloud_storage_full">Mi Cloud está lleno</string>
-     <string name="micloud_storage_usage">Usado %s/Espacio total %s</string>
+     <string name="micloud_storage_usage" formatted="false">Usado %s/Espacio total %s</string>
      <string name="micloud_sync_alert_dialog_message">Sincronizar sus fotos, contactos, notas, aplicaciones y más a través de todos sus dispositivos.</string>
      <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
      <string name="micloud_sync_alert_dialog_positive">Aceptar</string>
