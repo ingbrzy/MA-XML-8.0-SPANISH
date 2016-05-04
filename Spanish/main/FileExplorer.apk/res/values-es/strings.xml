@@ -163,12 +163,12 @@
      <string name="encrypt_success">Encriptados correctamente</string>
      <string name="encrypt_success_first_five">Encriptado y ocultado. Tira hacia abajo en la pantalla de inicio del Explorador para ver los archivos.</string>
      <string name="encrypting">Encriptando…</string>
-     <string name="error_contains_sharer_path">Can&apos;t encrypt files in folder /MIUI/Gallery/cloud/sharer. Move files to another directory and try again.</string>
+     <string name="error_contains_sharer_path">No se puede encriptar archivos en la carpeta /MIUI/Gallery/cloud/sharer. Muévalos a otro sitio e intente de nuevo.</string>
      <string name="error_filename_too_long">El nombre de archivo introducido es demasiado largo.</string>
      <string name="error_info_cant_send_folder">No se puede enviar este tipo de archivo.</string>
      <string name="error_open_file_failed_no_app_found">No se encontró ninguna aplicación para realizar esta acción.</string>
      <string name="expand_all">Todo</string>
-     <string name="extended_storage_file_can_not_open">Can&apos;t open file. Copy file to internal storage first.</string>
+     <string name="extended_storage_file_can_not_open">No se pudo abrir el archivo. Copie el archivo al almacenamiento interno primero.</string>
      <string name="extract">Extraer</string>
      <string name="fail_to_create_folder">No hay suficiente espacio o la carpeta ya existe.</string>
      <string name="fail_to_create_folder_unknown">No se puede crear la carpeta</string>
@@ -257,7 +257,7 @@ Nuestro servidor está caído. Por favor, inténtelo más tarde…
      <string name="kuaipan_tech_support">Iniciar sesión en Kuaipan.cn</string>
      <string name="load_err">No se puede cargar</string>
      <string name="load_more">Ver más</string>
-     <string name="load_sticker_fail">Couldn&apos;t load sticker</string>
+     <string name="load_sticker_fail">No se pudo cargar la pegatinar</string>
      <string name="loading">Cargando…</string>
      <string name="local_image">Fotos</string>
      <string name="local_music">Música</string>
@@ -477,9 +477,9 @@ y no te pierdas nunca las más nuevas y mejores"</string>
      <string name="qq_platform">QQ</string>
      <string name="qzone_platform">Qzone</string>
      <string name="release_to_signin">Soltar para registrarte</string>
-     <string name="remote_video_no_network">Can&apos;t connect to the network.</string>
-     <string name="remote_video_report_success">Thank you for your feedback! We&apos;ll follow up as soon as possible.</string>
-     <string name="remote_video_server_error">Couldn&apos;t connect to server.</string>
+     <string name="remote_video_no_network">No hubo conexión con la red.</string>
+     <string name="remote_video_report_success">¡Gracias por la retroalimentación! Estaremos prestos a ello muy pronto.</string>
+     <string name="remote_video_server_error">No hubo conexión con el servidor.</string>
      <string name="rename_alert">Si cambias la extensión de este archivo, puede que no lo consigas abrir.</string>
      <string name="rename_description">Renombrando…</string>
      <string name="rename_failed">No se puede renombrar %1$s</string>
@@ -496,7 +496,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
      <string name="request_timeout">Tiempo de espera de red agotado</string>
      <string name="reset_password">Cambiar contraseña</string>
      <string name="restoring">Restaurando…</string>
-     <string name="rlv_last_loading_time">Last refreshed: %1$s</string>
+     <string name="rlv_last_loading_time">Última actualización: %1$s</string>
      <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
      <string name="rlv_loading_more">Un momento…</string>
      <string name="rlv_pull_to_refresh">Tire hacia abajo para recargar</string>
