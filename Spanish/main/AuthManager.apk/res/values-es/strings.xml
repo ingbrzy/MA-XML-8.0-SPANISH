@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplicaciones</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Al desactivarlo detendrá el servicio de monitoreo de solicitudes de aplicación lo que detendrá la protección de su seguridad y privacidad.
-¿Está seguro de que quiere desactivarlo?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI no supervisará las solicitudes de permiso de aplicaciones.</string>
   <string name="Dashboard_HIPS_Disable_Title">Permisos</string>
   <string name="Dashboard_Log">Registros</string>
   <string name="Dashboard_Log_Clear_Content">Se borrarán todos los registros.</string>
@@ -29,8 +28,6 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Descargar MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Acceso root</string>
-  <string name="Dashboard_Su_Enable_Content">"Permitir acceso root a aplicaciones puede causar inestabilidad en el sistema, pérdida de datos personales o del sistema, o incluso daño en el hardware"</string>
-  <string name="Dashboard_Su_Enable_Title">Acceso root</string>
   <string name="Generic_Canceling">Cancelando…</string>
   <string name="Generic_Check">Verificar</string>
   <string name="Generic_Clean">Limpiar</string>
