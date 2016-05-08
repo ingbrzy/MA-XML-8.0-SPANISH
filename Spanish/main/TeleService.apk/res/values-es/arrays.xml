@@ -71,12 +71,6 @@
         <item>- Tienes que encender Free Listening para usar este servicio, de lo contrario tu proveedor puede cobrarte por roaming.</item>
         <item>- Soporte del servicio: YunZhiXun, RongLianYunTongXun, LTSC</item>
     </string-array>
-     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_0586</item>
-        <item>@string/APKTOOL_DUMMY_0584</item>
-        <item>@string/APKTOOL_DUMMY_0585</item>
-        <item>@string/APKTOOL_DUMMY_0587</item>
-    </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
         <item>1</item>
@@ -89,37 +83,11 @@
         <item>LTE</item>
         <item>Triple mode</item>
     </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>modo Triple</item>
-    </string-array>
     <string-array name="uplmn_prefer_network_mode_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
-    </string-array>
-    <string-array name="ivr_type_settings_entries">
-        <item>@string/ivr_type_cm_1</item>
-        <item>@string/ivr_type_cm_2</item>
-        <item>@string/ivr_type_cm_3</item>
-        <item>@string/ivr_type_cu_1</item>
-        <item>@string/ivr_type_cu_2</item>
-        <item>@string/ivr_type_cu_3</item>
-        <item>@string/ivr_type_ct_1</item>
-        <item>@string/ivr_type_ct_2</item>
-    </string-array>
-    <string-array name="ivr_type_settings_values">
-        <item>cm_1</item>
-        <item>cm_2</item>
-        <item>cm_3</item>
-        <item>cu_1</item>
-        <item>cu_2</item>
-        <item>cu_3</item>
-        <item>ct_1</item>
-        <item>ct_2</item>
     </string-array>
     <integer-array name="support_networktypes_cdma_master">
         <item>10</item>
