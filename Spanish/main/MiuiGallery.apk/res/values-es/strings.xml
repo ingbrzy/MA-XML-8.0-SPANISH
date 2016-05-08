@@ -128,9 +128,11 @@
      <string name="auto_upload_guide_title">Sincronizar fotos con Mi Cloud</string>
      <string name="auto_upload_title">Sincronizar automáticamente</string>
      <string name="autofix">Auto-reparar</string>
+     <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
      <string name="autohomemain">Autohomemain</string>
      <string name="baby_album">Álbum del bebé</string>
      <string name="baby_album_change_background">Cambiar foto de fondo</string>
+     <string name="baby_album_needs_auto_backup_tip">baby album cannot disable autoBackup</string>
      <string name="baby_album_new_photo_page_title">Álbum de %1$s</string>
      <string name="baby_album_new_photo_remind">Hay nuevas fotos en tu álbum de bebé.</string>
      <string name="baby_album_no_share_user_tip">No hay seguidores actualmente</string>
@@ -630,7 +632,7 @@
      <string name="confirm_download">Tiene que descargar %s.</string>
      <string name="confirm_download_video_message">La descarga de este vídeo debe terminar antes de que usted puede verlo. La descarga se reanudará cuando Wi-Fi está disponible.</string>
      <string name="confirm_download_video_title">Descargar vídeo</string>
-     <string name="confirm_face">Match</string>
+     <string name="confirm_face">Coincidencia</string>
      <string name="confirm_merge_face_albums">" "<Data> ¿Combinar este álbum con %s? </Data>" "</string>
      <string name="confirm_merge_many_face_albums">" "<Data> ¿Combinar estos álbumes con %s? </Data>" "</string>
      <string name="confirm_not_face">No es</string>
@@ -680,12 +682,12 @@
      <string name="delete_files_and_folders">¿Eliminar %1$d archivos y %2$d carpetas?</string>
      <string name="delete_finish_format">%d borrado</string>
      <string name="delete_folder">¿Eliminar %1$d carpetas?</string>
-     <string name="delete_from_album">Borrar ésta foto del álbum \"%s\" de (todos los dispositivos)</string>
+     <string name="delete_from_album">del álbum \"%s\" de todos los dispositivos</string>
      <string name="delete_from_album_no_account">de \"%s\" álbum</string>
      <string name="delete_from_all_devices">de todos los dispositivos</string>
-     <string name="delete_from_devices">All devices that are synced automatically</string>
+     <string name="delete_from_devices">Todos los dispositivos que han sido sincronizados de manera automática</string>
      <string name="delete_from_devices_album">Todos los dispositivos en los cuales éste álbum está sincronizado</string>
-     <string name="delete_from_homepage_album">Albums on the home page</string>
+     <string name="delete_from_homepage_album">Álbumes en la página inicial</string>
      <string name="delete_from_web">Álbumes online</string>
      <string name="delete_in_album">Cuando eliminas una foto o video de un álbum, también se eliminarán de:</string>
      <string name="delete_in_home_page">Cuando eliminas una foto o video de la página inicial, también se eliminarán de:</string>
@@ -847,6 +849,7 @@
      <string name="highlight">Destacados</string>
      <string name="highlight2">Deslumbrantes</string>
      <string name="highlight_abbr">H</string>
+     <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
      <string name="home_page_empty">Vacío</string>
      <string name="home_page_label">Fotos</string>
      <string name="home_page_tab_cloud">Nube</string>
@@ -854,6 +857,7 @@
      <string name="home_page_tab_local">Local</string>
      <string name="home_page_tab_photo">Fotos</string>
      <string name="how_to_set_relation">Mantener pulsado un álbum para asignarle un grupo</string>
+     <string name="hue_polymorphism">photoeditor_effect_hue</string>
      <string name="hybrid_check_network">Ajustes de red</string>
      <string name="hybrid_data_error">Un error ocurrió</string>
      <string name="hybrid_locating_fail">No dimos con tu localización</string>
@@ -978,7 +982,7 @@
      <string name="moman_camera_picture">Fotos Moman Camera</string>
      <string name="more">Más</string>
      <string name="more_face_album_name">Más personas</string>
-     <string name="mosaic">Mosaic</string>
+     <string name="mosaic">Mosaico</string>
      <string name="move">Mover</string>
      <string name="move_to_cloud_album">Mover a</string>
      <string name="mtgif">MTGIF</string>
@@ -1004,7 +1008,7 @@
      <string name="no_secret_photo">No hay fotos ocultas</string>
      <string name="no_storage_disable_cloud_albums">Lo Nube no está disponible.</string>
      <string name="no_such_album">Álbum no encontrado</string>
-     <string name="no_such_item">No se pudo encontrar el elementp</string>
+     <string name="no_such_item">No se pudo encontrar el elemento</string>
      <string name="no_thumbnail">Sin miniatura</string>
      <string name="none_picture">Sin imágenes</string>
      <string name="not_ask_any_more">No volvers a pedir \"%s\" respuestas</string>
@@ -1143,6 +1147,7 @@
      <string name="recommanded_face_abandon_tip">Removido de las sugerencia</string>
      <string name="recommanded_face_added_tip">Añadido a &quot;%s&quot;</string>
      <string name="redeye">Ojo rojo</string>
+     <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
      <string name="redeye_tooltip">Toque para eliminar el efecto ojos rojos</string>
      <string name="refocus_data_downloading">Descargando datos de reenfoque…</string>
      <string name="relation_text_empty_alert">Añadir información de la relación</string>
@@ -1179,11 +1184,13 @@
      <string name="return_to_top">Toca &quot;Foto&quot; para regresar al inicio</string>
      <string name="rise">Cálido</string>
      <string name="rotate">Rotar</string>
+     <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
      <string name="rotate_tooltip">Arrastre para rotar</string>
      <string name="same_name_album_exist_and_toast">"Ya existe un álbum con el mismo nombre. Creado '%s' en su lugar."</string>
      <string name="same_name_album_exists_alert">Ya existe un álbum con el mismo nombre del que intenta compartir, ¿está seguro de querer subir automáticamente las fotos a dicho álbum?</string>
      <string name="saturation">Saturación</string>
      <string name="saturation_abbr">S</string>
+     <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
      <string name="save">Guardar</string>
      <string name="save_error">No se pudo guardar la imagen recortada</string>
      <string name="save_photo">¿Guardar la foto editada?</string>
@@ -1242,6 +1249,7 @@
      <string name="settings">Ajustes</string>
      <string name="settings_i_xiaomi_com">Vea sus fotos en i.mi.com</string>
      <string name="shadow">Sombras</string>
+     <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
      <string name="share">Share</string>
      <string name="share_album">Compartir álbum</string>
      <string name="share_album_needs_auto_upload_tip">"No se puedo cargar el respaldo para álbumes compartidos"</string>
@@ -1255,6 +1263,7 @@
      <string name="share_with_family">Compartir con la familia</string>
      <string name="sharer_quota_fulfiled">Ya has compartido este álbum con el número máximo de personas.</string>
      <string name="sharpen">Afilado</string>
+     <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
      <string name="show_all">Imágenes y vídeos</string>
      <string name="show_hidden_album">Ver álbumes ocultos</string>
      <string name="show_hidden_album_title">Mostrar álbumes ocultos</string>
@@ -1283,6 +1292,7 @@
      <string name="slim_introduce">Reemplaza la máxima resolución de fotos/vídeos del almacenamiento local con versiones optimizadas después de que hayan sido respaldadas en Mi Cloud. Los elementos con máxima resolución todavía estarán en almacenan en Mi Cloud. Esto puede ahorrar espacio en más de un 90%(necesita una cuenta Xiaomi).</string>
      <string name="slim_introduce_with_specific_size">Reemplaza la máxima resolución de fotos/vídeos del almacenamiento local con versiones optimizadas después de que hayan sido respaldadas en Mi Cloud. Los elementos con máxima resolución todavía estarán en almacenan en Mi Cloud. Esto puede ahorrar espacio en más de un %1$s(necesita una cuenta Xiaomi).</string>
      <string name="slim_now">Adelgazar ahora</string>
+     <string name="slim_result_size">saved %1$s</string>
      <string name="slim_result_title">Adelgazamiento terminado</string>
      <string name="slim_tip_msg">Los álbumes serán adelgazados de forma automática cuando se conecte WLAN. Descargue archivos de resolución completa haciendo clic &quot;Descargar foto&quot; el menú está en los los detalles de la foto.</string>
      <string name="slim_tip_title">Tip de adelgazamiento</string>
@@ -1294,6 +1304,7 @@
      <string name="storage_all_volumes">Todos los dispositivos de almacenamiento</string>
      <string name="storage_no_space">No hay espacio suficiente</string>
      <string name="straighten">Enderezado</string>
+     <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
      <string name="straighten_tooltip">Arrastre foto para enderezar</string>
      <string name="success_create_quick_icon_on_desk">Creado con éxito</string>
      <string name="sync_album">Sincronizar álbumes</string>
@@ -1378,6 +1389,7 @@
      <string name="view_queuing_status">Comprobar status</string>
      <string name="view_sharers">Ver partícipes</string>
      <string name="vignette">Viñeta</string>
+     <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
      <string name="wallpaper">Fondo de pantalla de inicio</string>
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Advertencia</string>
