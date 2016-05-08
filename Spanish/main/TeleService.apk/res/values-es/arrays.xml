@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
      <string-array name="cdma_system_select_choices">
         <item>En casa sólo</item>
@@ -62,7 +63,7 @@
         <item>GSM</item>
         <item>WCDMA</item>
         <item>LTE</item>
-        <item>Triple mode</item>
+        <item>Triple modo</item>
      </string-array>
     <string-array name="livetalk_about_info_array">
         <item>- Soporta números de teléfono nacionales e internacionales.</item>
@@ -71,83 +72,4 @@
         <item>- Tienes que encender Free Listening para usar este servicio, de lo contrario tu proveedor puede cobrarte por roaming.</item>
         <item>- Soporte del servicio: YunZhiXun, RongLianYunTongXun, LTSC</item>
     </string-array>
-    <string-array name="tty_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Triple mode</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <integer-array name="support_networktypes_cdma_master">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="support_networktypes_cdma_vice">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="support_networktypes_gsm_master">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="support_networktypes_gsm_vice">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cm">
-        <item>16</item>
-        <item>1</item>
-        <item>13</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cm">
-        <item>17</item>
-        <item>16</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cu">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cu">
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_gsm">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cdma">
-        <item>7</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cdma">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_all_lte">
-        <item>10</item>
-        <item>8</item>
-        <item>20</item>
-    </integer-array>
-    <item type="array" name="APKTOOL_DUMMY_0048">false</item>
-    <item type="array" name="APKTOOL_DUMMY_004a">false</item>
 </resources>
