@@ -207,6 +207,7 @@
   <string name="create_shortcut_bookmark">Agregar un acceso directo a la página de inicio</string>
   <string name="data_traffic_prompt_change">Usar su conexión de datos para ver vídeos incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
   <string name="data_traffic_prompt_message">Usar la conexión de datos para navegar incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
+  <string name="data_traffic_prompt_message_short">Usar la conexión de datos para navegar incrementará el uso de datos.</string>
   <string name="data_traffic_prompt_title">Aviso de uso de datos</string>
   <string name="date_picker_dialog_clear">Limpiar</string>
   <string name="date_picker_dialog_other_button_label">Otros</string>
@@ -869,6 +870,9 @@
   <string name="video_downloaded_group">Descargado</string>
   <string name="video_downloading_group">Descargando</string>
   <string name="video_edit">Editar</string>
+  <string name="video_float_window">PopUp</string>
+ +<string name="video_float_window_playing">Reproduciendo video</string>
+ +<string name="video_float_window_text">PopUp</string>
   <string name="video_fragment_name_collections">Favoritos</string>
   <string name="video_fragment_name_download">Vídeo offline</string>
   <string name="video_fragment_name_historys">Ver historial</string>
