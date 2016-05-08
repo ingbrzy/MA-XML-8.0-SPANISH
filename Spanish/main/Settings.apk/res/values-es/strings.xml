@@ -2944,9 +2944,12 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="wfd_disconnect_multiple_diag_message">¿Desconectar de %1$s y %2$s otros dispositivos?</string>
     <string name="wfd_wps_keypad">Utilizar el teclado</string>
     <string name="wfd_wps_pbc">Introduzca el PIN</string>
-    <string name="virtual_sim_category_title">SIM Virtual</string>
+    <string name="virtual_sim_category_title">Mi Roaming</string>
     <string name="virtual_sim_title">Red de datos de roaming</string>
     <string name="virtual_sim_description">Servicio de roaming internacional confiable</string>
+    <string name="virtual_sim_global_category_title">Mi SIM</string>
+    <string name="virtual_sim_global_description">No se requiere tener una Sim card para que te conectes a la red de datos</string>
+    <string name="virtual_sim_global_title">Servicio de tráfico de datos</string>
     <string name="virtual_sim_search_title">SIM Virtual</string>
     <string name="power_mode">Ajustes de energía</string>
     <string name="high_performance_title">Parece que se está ejecutando una aplicación de testeo de benchmark. Establezca en la administración de energía en modo de \"Alto rendimiento\" para obtener mejores resultados.</string>

@@ -7,6 +7,7 @@
      <string name="Settings_title_garbage_cleanup">Configuración del limpiador</string>
      <string name="Settings_title_network_assistants">Configuración de uso de datos</string>
      <string name="Settings_title_power_center">Ajustes de la batería</string>
+     <string name="ac_enable_title">Activar bloqueo de Aplicaciones</string>
      <string name="access_control_need_password">"%s añadido exitosamente
 "</string>
      <string name="access_control_need_to_unlock">"Escanee su huella dactilar
@@ -52,6 +53,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
      <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado hace 2 días</string>
      <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ayer a las %s</string>
      <string name="adjust_traffic_data">Establecer uso de datos</string>
+     <string name="after_the_lock_screen">"La Aplicación está bloqueada junto con la pantalla, Tú puedes cambiar esto en los ajustes de bloqueo de Aplicaciones."</string>
      <string name="antivirus_choose_engine">%s</string>
      <string name="antivirus_choose_engine_dialog_title">Elegir definiciones</string>
      <string name="antivirus_choose_engine_disable_toast">No se pueden cambiar las definiciones mientras el escaneo está en progreso</string>
@@ -411,6 +413,7 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
      <string name="list_empty_text">Vacío</string>
      <string name="load_fail">No se pudo cargar</string>
      <string name="local_ip_exception_summary">No se pudo obtener la dirección IP local. Para informar este problema a MIUI, vaya a la aplicación Informe de error y envíe un registro de su dispositivo.</string>
+     <string name="lock_mode_title">Ajustes de bloqueo</string>
      <string name="lock_screen_traffic_guide_notification_summary">%s utilizado en la pantalla de bloqueo</string>
      <string name="lock_screen_traffic_guide_notification_title">Toque para gestionar el uso de datos.</string>
      <string name="lock_screen_traffic_notify_body">Bloqueado por %2$s a las %1$s, datos usados %3$s</string>
@@ -533,7 +536,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
      <string name="mi_service_framework">Mi Service Framework</string>
      <string name="mi_service_traffic_detail">Detalles del Framework</string>
      <string name="mian_page_primary_txt">Roaming de datos</string>
-     <string name="modify_password_info">Desbloquear patrón</string>
      <string name="modifypassword">Cambiar contraseña</string>
      <string name="monitor_requests_from_pc">Administrar la instalación de las aplicaciones vía USB</string>
      <string name="month_report_month_report_switch">Mostrar informe mensual</string>
