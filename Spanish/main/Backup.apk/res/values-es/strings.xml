@@ -77,7 +77,6 @@
      <string name="current_sim">Actual tarjeta SIM</string>
      <string name="custom_progress">%d items</string>
      <string name="data_item_desc">Data</string>
-     <string name="data_no_enough_space">No hay espacio suficiente</string>
      <string name="data_no_enough_space_message">"No hay suficiente espacio en la memoria interna del teléfono."</string>
      <string name="date_format">aaaa-MM-dd HH:mm:ss</string>
      <string name="delete">Eliminar</string>
@@ -116,7 +115,6 @@
      <string name="findlost_contact">Restaurar contactos</string>
      <string name="findlost_contact_online">Restaurar contactos desde Mi Cloud</string>
      <string name="guarded_mode_dialog_backup_message">"No puedes hacer respaldos en el Modo invidato."</string>
-     <string name="guarded_mode_dialog_message">"Esta función no está permitida en modo invitado."</string>
      <string name="guarded_mode_dialog_title">"Estás en modo de invitado"</string>
      <string name="guarded_mode_dialog_transfer_message">"No puedes usar Transferencia en Modo Invitado."</string>
      <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga MiTalk e inicia sesión.
@@ -273,16 +271,12 @@ Por favor elimina al menos %s</string>
      <string name="trans_one_key_migrate">Transferencia</string>
      <string name="trans_operate_func_one">Método A</string>
      <string name="trans_operate_func_two">Método B</string>
-     <string name="trans_operate_new_phone_tips">"Escanea el código QR usando el nuevo dispositivo
-Ve a Ajustes &gt; Ajustes adicionales &gt; Transferencia
+     <string name="trans_operate_new_phone_tips">"Ve a Ajustes &gt; Ajustes adicionales &gt; Transferencia
 Toca [Soy un receptor] para crear el código QR"</string>
-     <string name="trans_operate_old_phone_tips1">"Método A
-1. Instala la aplicación Transferencia en tu dispositivo antiguo
+     <string name="trans_operate_old_phone_tips1">"1. Instala la aplicación Transferencia en tu dispositivo antiguo
 2. Abre la aplicación y selecciona [Soy un emisor]
 3. Escanea el código QR con tu dispositivo antiguo"</string>
-     <string name="trans_operate_old_phone_tips2">"Método B
-Ve a Ajustes &gt; Ajustes adicionales &gt; Transferencia
-Toca [Soy un emisor]"</string>
+     <string name="trans_operate_old_phone_tips2">"Ve a Ajustes &gt; Ajustes adicionales &gt; Transferencia, Toca [Soy un emisor]"</string>
      <string name="trans_please_waiting">Por favor, espera…</string>
      <string name="trans_progress_subdescript_br_receiver">Recibiendo %s</string>
      <string name="trans_progress_subdescript_br_sender">Copiando %s</string>
@@ -296,8 +290,9 @@ Toca [Soy un emisor]"</string>
      <string name="trans_progress_subdescript_transingsddata_sender">Enviando datos de tarjeta SD de %1$s, %2$s completados</string>
      <string name="trans_progress_subdescript_waiting">Esperando a recibir %s</string>
      <string name="trans_receiver">Soy un receptor</string>
-     <string name="trans_receiver_time_remained">%s restantes.
-No apagues el punto de acceso WLAN. Mantén los dispositivos cerca.</string>
+     <string name="trans_receiver_time_remained">"%s restantes.
+No apagues el punto de acceso WLAN. 
+Mantén los dispositivos cerca."</string>
      <string name="trans_receiving_completed">Datos recibidos</string>
      <string name="trans_restoring">Restableciendo…</string>
      <string name="trans_restoring_no_items">Sincronizando elementos</string>
@@ -319,8 +314,8 @@ está encendido para que el nuevo dispositivo se conecte…"</string>
      <string name="trans_sender_time_remained">%s restantes.
 No apagues el punto de acceso WLAN. Mantén los dispositivos cerca.</string>
      <string name="trans_sending_completed">Datos enviados</string>
-     <string name="trans_show_qr_code_label">Connect old device</string>
-     <string name="trans_show_qr_code_tips">Escanea el código QR usando el viejo dispositivo</string>
+     <string name="trans_show_qr_code_label">Conecte el dispositivo viejo</string>
+     <string name="trans_show_qr_code_tips">Escanea el código QR usando el dispositivo viejo</string>
      <string name="trans_start_failed_message">Fallo al iniciar, intenta de nuevo o reinicia</string>
      <string name="trans_start_failed_title">Fallo al iniciar</string>
      <string name="trans_time_format_second">menos de un minuto</string>
