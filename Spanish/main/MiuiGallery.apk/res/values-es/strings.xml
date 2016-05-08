@@ -121,8 +121,9 @@
      <string name="auto_upload_album_comfirm_to_share">Es un álbum que se subirá automáticamente, ¿está seguro de querer compartirlo?</string>
      <string name="auto_upload_before_share_message">Restaure éste álbum a Mi Cloud antes de compartirlo</string>
      <string name="auto_upload_before_share_title">Pista</string>
-     <string name="auto_upload_disable_toast">"Las Fotos y Videos NO se guardarán automáticamente en éste álbum"</string>
-     <string name="auto_upload_enable_toast">Las Fotos y Videos se guardarán automáticamente en éste álbum</string>
+     <string name="auto_upload_disable_tip">El Auto-Respaldo está dehabilitado</string>
+     <string name="auto_upload_disable_toast_long_press_menu">El Auto-Respaldo está dehabilitado，será añadido a otro álbum</string>
+     <string name="auto_upload_enable_toast_long_press_menu">El Auto-Respaldo está dehabilitado, regresa a la página inicial del álbum</string>
      <string name="auto_upload_guide_msssage">" &lt;Data> Sincronizar fotos automáticamente desde otras aplicaciones con Mi Cloud. Puede activar o desactivar esta característica en cualquier momento en &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Ajustes &amp;gt; Sincronizar con Mi Cloud &amp;gt; Sincronizar automáticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data> "</string>
      <string name="auto_upload_guide_title">Sincronizar fotos con Mi Cloud</string>
      <string name="auto_upload_title">Sincronizar automáticamente</string>
@@ -658,7 +659,7 @@
      <string name="creating_baby_album">Creando álbum…</string>
      <string name="crop">Recortar</string>
      <string name="crop_fail_to_load_image">No se puede cargar la imagen</string>
-     <string name="crop_label">Fotos Recortadas</string>
+     <string name="crop_label">Recortadas</string>
      <string name="crop_polymorphism">photoeditor_effect_crop</string>
      <string name="crop_recognize_text">Reconocer</string>
      <string name="crop_save_text">Guardar</string>
@@ -1065,6 +1066,7 @@
      <string name="orientation_unlock_tip">Auto-rotación Activada</string>
      <string name="original">Original</string>
      <string name="original_scale">Original</string>
+     <string name="other_album">Otros álbumes</string>
      <string name="other_category">Additional settings</string>
      <string name="other_settings">Ajustes adicionales</string>
      <string name="owner_album_subtitle">Compartido con %1$s personas</string>
