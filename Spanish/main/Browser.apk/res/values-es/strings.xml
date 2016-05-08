@@ -204,7 +204,6 @@
   <string name="data_traffic_prompt_change">Usar su conexión de datos para ver vídeos incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
   <string name="data_traffic_prompt_message">Usar la conexión de datos para navegar incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
   <string name="data_traffic_prompt_message_short">El uso de datos móviles para la transmisión de vídeo puede hacer que te pases del límite del plan de datos.</string>
-  <string name="data_traffic_prompt_message_short">Usar la conexión de datos para navegar incrementará el uso de datos.</string>
   <string name="data_traffic_prompt_title">Aviso de uso de datos</string>
   <string name="date_picker_dialog_clear">Limpiar</string>
   <string name="date_picker_dialog_other_button_label">Otros</string>
@@ -270,7 +269,6 @@
   <string name="edit_bookmark">Editar favoritos</string>
   <string name="edit_folder">Editar carpeta</string>
   <string name="edit_quicklink">Editar</string>
-  <string name="empty_history_hint">Historial vacío</string>
   <string name="empty_history_hint">Vacío</string>
   <string name="empty_snapshot_hint">Vacío</string>
   <string name="empty_snapshots_folder">No hay páginas guardadas.</string>
@@ -379,7 +377,6 @@
   <string name="menu_enable_night_mode">Activar el modo noche</string>
   <string name="menu_enable_save_bandwidth_mode">Reducir el uso de datos</string>
   <string name="menu_exit">Salir</string>
-  <string name="menu_exit_nightmode">salir</string>
   <string name="menu_hv_swap">Pantalla V/H</string>
   <string name="menu_nightmode">modo nocturno con. / desc.</string>
   <string name="menu_preferences">Ajustes</string>
@@ -434,7 +431,6 @@
   <string name="miuichromium_error_page_homepage">Inicio</string>
   <string name="miuichromium_error_page_mobile">Datos móviles</string>
   <string name="miuichromium_error_page_network_hijack">La red actual no es segura</string>
-  <string name="miuichromium_error_page_mobile">Red de telefonía móvil</string>
   <string name="miuichromium_error_page_reason_network">Ver enlace URL</string>
   <string name="miuichromium_error_page_reason_server">"El navegador no puede cargar esta página"</string>
   <string name="miuichromium_error_page_reload">Recargar</string>
@@ -491,7 +487,7 @@
   <string name="page_info_address">Dirección:</string>
   <string name="page_info_view">Ver información de la pagina</string>
   <string name="password">Contraseña</string>
-  <string name="password_generation_popup_content_description">Mostrando la ventana emergente de generación de contraseña</string
+  <string name="password_generation_popup_content_description">Mostrando la ventana emergente de generación de contraseña</string>
   <string name="pause_download">En pausa</string>
   <string name="paused_queued_for_wifi">Esperando a conectar…</string>
   <string name="paused_unknown">En pausa</string>
@@ -812,8 +808,7 @@
   <string name="video_activity_name">Favoritos</string>
   <string name="video_buffering_percent">"Almacenando "</string>
   <string name="video_buffering_percent_string">"Almacenando "</string>
-  <string name="video_activity_name">Recopilación de Vídeo</string>
-  <string name="video_collect_cancel">No favorito</string>
+  <string name="video_collect_cancel">Ya no es favorito</string>
   <string name="video_collect_success">Favorito</string>
   <string name="video_download_clear_info">%d cachés de vídeo borradas correctamente</string>
   <string name="video_download_clear_prompt">¿Borrar %d cachés de vídeo seleccionadas?</string>
