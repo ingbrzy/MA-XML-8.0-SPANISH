@@ -403,6 +403,20 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="owner_info_settings_title">Información del propietario</string>
     <string name="security_enable_widgets_title">Habilitar widgets</string>
     <string name="security_enable_widgets_disabled_summary">Inhabilitada por el administrador</string>
+    <string name="security_encryption_alert_dialog_info_first">"Establezca una contraseña de bloqueo de pantalla para activar esta función. Vas a tener que introducir la contraseña de bloqueo de pantalla después de cada reinicio para descifrar y utilizar el dispositivo normalmente."</string>
+    <string name="security_encryption_alert_dialog_title_first">Establecer pantalla de bloqueo primero</string>
+    <string name="security_encryption_attention_1">"No podrás usar las alarmas mientras el dispositivo esté apagado."</string>
+    <string name="security_encryption_attention_2">"Vas a tener que introducir la contraseña de bloqueo de pantalla después de cada reinicio para descifrar el dispositivo. Los reinicios tomarán más tiempo de lo habitual."</string>
+    <string name="security_encryption_attention_3">"Tendrás que establecer una nueva contraseña para el bloqueo de pantalla."</string>
+    <string name="security_encryption_attention_4">"Asegúrese de recordar la contraseña de bloqueo de pantalla, de lo contrario tendrá que realizar un reinicio de fábrica y se borrarán todos los datos del dispositivo."</string>
+    <string name="security_encryption_attention_info">Puede cifrar cuentas, configuración, aplicaciones descargadas y sus datos, archivos multimedia y otros archivos.</string>
+    <string name="security_encryption_attention_symbol">•</string>
+    <string name="security_encryption_attention_title">Importante</string>
+    <string name="security_encryption_close_dialog_info">La elección de no cifrar el dispositivo utilizando la contraseña de bloqueo de pantalla puede hacer que algunos servicios de Google no estén disponible..</string>
+    <string name="security_encryption_close_dialog_title">Volver a la protección de contraseña por defecto</string>
+    <string name="security_encryption_diaglog_continue">Siguiente</string>
+    <string name="security_encryption_is_used">Encendida</string>
+    <string name="security_encryption_title">Cifrar dispositivo usando la contraseña de bloqueo de pantalla</string>
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Ingresa el texto para la pantalla bloqueada.</string>
     <string name="show_user_info_on_lockscreen_label">Mostrar la información del usuario en la pantalla de bloqueo</string>
@@ -907,6 +921,7 @@ PIN posiblemente incorrecto."</string>
     <string name="device_status_activity_title">Estado</string>
     <string name="device_status">Estado</string>
     <string name="device_status_summary">Número de teléfono, señal, etc.</string>
+    <string name="storage_internal_title">Almacenamiento interno</string>
     <string name="storage_settings">Espacio de almacenamiento</string>
     <string name="storage_settings_title">Configuración de almacenamiento</string>
     <string name="storage_settings_summary">Desmontar almacenamiento USB, ver almacenamiento disponible</string>
@@ -3458,6 +3473,8 @@ Seleccione su sistema operativo:"</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">No mostrar de nuevo</string>
     <string name="wifi_connect_cmcc_dialog_cancel">Cancelar</string>
     <string name="wifi_connect_cmcc_dialog_confirm">Aceptar</string>
+    <string name="wifi_no_internet">"Sin Acceso a Internet Detectado, no habrá reconexión automática."</string>
+    <string name="wifi_not_in_range">Fuera de rango</string>
     <string name="wifi_notify_cmcc_connected_title">Notificación de red CMCC</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostrar una notificación cuando se conecte a la red CMCC</string>
     <string name="wifi_switch_to_gsm_title">¿Usar GSM?</string>
