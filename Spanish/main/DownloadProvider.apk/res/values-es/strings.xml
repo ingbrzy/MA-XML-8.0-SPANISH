@@ -36,6 +36,8 @@
      <string name="notification_download_success_more">%1$d descargas completadas.</string>
      <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere red Wi-Fi.</string>
      <string name="notification_paused_in_background">Pausado en segundo plano.</string>
+     <string name="notify_disabled_net_by_app">Conexión a internet restringida por la aplicación de Seguridad</string>
+     <string name="notify_only_wifi_download">A la espera de la red WLAN</string>
      <string name="paused_waiting_for_network">A la espera de conexión a la red</string>
      <string name="permdesc_accessAllDownloads">Permite a la aplicación ver y modificar todas las descargas iniciadas por cualquier aplicación en el sistema.</string>
      <string name="permdesc_downloadCacheNonPurgeable">"Permite a la aplicación descargar archivos en la caché de descarga, que no se pueden eliminar automáticamente cuando el gestor de descargas necesita más espacio."</string>
