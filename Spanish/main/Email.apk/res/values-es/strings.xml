@@ -10,14 +10,18 @@
   <string name="abc_searchview_description_search">Buscar</string>
   <string name="abc_searchview_description_submit">Enviar consulta</string>
   <string name="abc_searchview_description_voice">Búsqueda por voz</string>
-  <string name="account_duplicate_dlg_message_fmt">"Ya estás usando este nombre de usuario para la cuenta \"%s\"."</string>
+  <string name="account_cache_provider">Proveedor Caché de Cuenta</string>
+  <string name="account_duplicate_dlg_message_fmt">"        Ya estás usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_name_toast">"No se pudo crear la cuenta. Ya existe una cuenta con el mismo nombre."</string>
   <string name="account_options_sync_title">Ajustes de sincronización</string>
-  <string name="account_password_spaces_error">"Esta contraseña comienza o termina con uno o más espacios en blanco. Muchos servidores no admiten contraseñas con espacios en blanco."</string>
-  <string name="account_security_dialog_content_fmt">%s requiere que actualice la configuración de seguridad.</string>
+  <string name="account_password_spaces_error">"Esta contraseña comienza o termina con uno o más
+        espacios en blanco. Muchos servidores no admiten contraseñas con espacios en blanco."</string>
+  <string name="account_security_dialog_content_fmt">"%s requiere que actualice la configuración de
+         seguridad."</string>
   <string name="account_security_dialog_title">Actualización de seguridad</string>
-  <string name="account_security_policy_explanation_fmt">El servidor %s requiere que permita controlar remotamente algunas características de seguridad en tu dispositivo Android.</string>
+  <string name="account_security_policy_explanation_fmt">"El servidor %s requiere que permita controlar remotamente
+         algunas características de seguridad en tu dispositivo Android."</string>
   <string name="account_security_title">Dispositivo de seguridad</string>
   <string name="account_set_up_change_type_note">Si desea cambiar la configuracion de su cuenta de POP3 e IMAP, primero debe borrar la cuenta y volver a configurar el inicio de sesión.</string>
   <string name="account_settings_action">Configuración de la cuenta</string>
