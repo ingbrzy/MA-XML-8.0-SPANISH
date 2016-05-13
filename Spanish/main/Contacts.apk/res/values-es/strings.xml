@@ -826,6 +826,7 @@ Las tarjetas de contacto están apagadas"</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Importar/exportar</string>
     <string name="preference_import_export_title">Importar/exportar contactos</string>
+    <string name="preference_key_trash_bin_title">Explorar contactos respaldados los cuales han sido borrados recientemente</string>
     <string name="import_vcard_description">Importar contactos de la memoria interna del teléfono</string>
     <string name="export_vcard_description">Exportar vCard a la memoria interna del teléfono</string>
     <string name="export_sim_contact_finish_msg">%1$d transferidos | %2$d duplicados | %3$d restantes</string>
@@ -1012,6 +1013,12 @@ Las tarjetas de contacto están apagadas"</string>
     <string name="device_import_failed_message">No se puede importar</string>
     <string name="hint_distance" />
     <string name="hint_more_contact">Combinar contactos duplicados</string>
+    <string name="hybrid_check_network">Configuración de red</string>
+    <string name="hybrid_data_error">ha ocurrido un error</string>
+    <string name="hybrid_locating_fail">"No se pudo acceder a su localización"</string>
+    <string name="hybrid_network_unavaliable">"No se pudo acceder a la red"</string>
+    <string name="hybrid_service_unavailiable">Sin servicio</string>
+    <string name="hybrid_try_again">Inténtalo de nuevo</string>
     <string name="device_import_account_dialog_title">Elegir una cuenta</string>
     <string name="device_import_account_dialog_title_suffix">"
 (encontrados %1$s contactos)"</string>
