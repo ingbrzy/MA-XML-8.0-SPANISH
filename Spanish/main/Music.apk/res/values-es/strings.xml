@@ -124,6 +124,7 @@
      <string name="desktop_lyric_dialog_msg">Abrir en mi configuración de la música-Configuración avanzada</string>
      <string name="desktop_lyric_dialog_positive_button">Inténtalo ahora</string>
      <string name="desktop_lyric_dialog_title">Probar letra en escritorio</string>
+     <string name="desktop_lyric_lock_toast">Bloqueado. Use el Mini Reproductor en la Barra de Notificaciones para desbloquear</string>
      <string name="desktop_lyric_setting_summary">Mostrar la letra flotando en el escritorio</string>
      <string name="desktop_lyric_setting_title">Letras en escritorio</string>
      <string name="desktop_lyric_textsize">Texto</string>
@@ -503,7 +504,11 @@
      <string name="pay">Pagar:</string>
      <string name="pay_now">Servicio actual</string>
      <string name="payment_fail">Ocurrió un error en el pago</string>
-     <string name="payment_success">Pago completado</string>
+     <string name="payment_success">Pago realizado</string>
+     <string name="permission_declaration_message">Permitir acceso al almacenamiento en Seguridad &gt; Permisos &gt; Permisos &gt; Almacenamientoe &gt; Música disponible para usar Música de manera normal</string>
+     <string name="permission_declaration_negative_text">Después</string>
+     <string name="permission_declaration_positive_text">Ir a Seguridad</string>
+     <string name="permission_declaration_title">Permitir acceso</string>
      <string name="play_all_song">Reproducir todo</string>
      <string name="play_next">Siguiente...</string>
      <string name="playback_failed_no_title_by_bad_file">"El formato no es compatible o el archivo no existe."</string>
