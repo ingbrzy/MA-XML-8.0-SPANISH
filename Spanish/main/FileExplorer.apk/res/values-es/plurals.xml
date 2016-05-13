@@ -160,4 +160,29 @@
         <item quantity="few">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
         <item quantity="many">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
     </plurals>
+    </plurals>
+      <plurals name="video_play_num">
+          <item quantity="other">%1$s plays</item>
+          <item quantity="zero">%1$s plays</item>
+          <item quantity="one">%1$s play</item>
+          <item quantity="two">%1$s plays</item>
+          <item quantity="few">%1$s plays</item>
+          <item quantity="many">%1$s plays</item>
+      </plurals>
+      <plurals name="video_num">
+          <item quantity="other">%1$s videos</item>
+          <item quantity="zero">%1$s videos</item>
+          <item quantity="one">%1$s video</item>
+          <item quantity="two">%1$s videos</item>
+          <item quantity="few">%1$s videos</item>
+          <item quantity="many">%1$s videos</item>
+      </plurals>
+      <plurals name="user_upload_items">
+          <item quantity="other">videos</item>
+          <item quantity="zero">videos</item>
+          <item quantity="one">video</item>
+          <item quantity="two">videos</item>
+          <item quantity="few">videos</item>
+          <item quantity="many">videos</item>
+     </plurals>
 </resources>
