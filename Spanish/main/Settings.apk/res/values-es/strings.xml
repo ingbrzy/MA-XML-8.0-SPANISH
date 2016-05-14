@@ -346,9 +346,9 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
     <string name="yes_all_caps">SÍ</string>
     <string name="no_all_caps">NO</string>
     <string name="forget">OLVIDAR</string>
-    <string name="settings_label">Configuración</string>
-    <string name="settings_label_launcher">Configuración</string>
-    <string name="settings_shortcut">Configuración</string>
+    <string name="settings_label">Ajustes</string>
+    <string name="settings_label_launcher">Ajustes</string>
+    <string name="settings_shortcut">Ajustes</string>
     <string name="airplane_mode">Modo avión</string>
     <string name="radio_controls_title">Más</string>
     <string name="wireless_networks_settings_title">Conexiones inalámbricas y redes</string>
@@ -872,7 +872,7 @@ de Wi‑Fi"</string>
     <string name="screensaver_settings_disabled_prompt">Para controlar qué sucede cuando el dispositivo está conectado o inactivo, activa el protector de pantalla.</string>
     <string name="screensaver_settings_when_to_dream">Cuándo activarlo</string>
     <string name="screensaver_settings_dream_start">Comenzar ahora</string>
-    <string name="screensaver_settings_button">Configuración</string>
+    <string name="screensaver_settings_button">Ajustes</string>
     <string name="automatic_brightness">Brillo automático</string>
     <string name="lift_to_wake_title">Levantar el dispositivo para activarlo</string>
     <string name="doze_title">Pantalla ambiente</string>
@@ -1401,7 +1401,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
     <string name="show_password">Mostrar las contraseñas</string>
     <string name="ime_security_warning">%1$sEste teclado puede grabar todo lo que escriba, inclusive contraseñas, números de tarjetas de crédito y otros datos personales.</string>
     <string name="spellchecker_security_warning">Este corrector ortográfico puede recopilar todo el texto que escribas, incluidos los datos personales como contraseñas y números de tarjetas de crédito. Proviene de la aplicación %1$s. ¿Deseas usar este corrector ortográfico?</string>
-    <string name="spellchecker_quick_settings">Configuración</string>
+    <string name="spellchecker_quick_settings">Ajustes</string>
     <string name="spellchecker_language">Idioma</string>
     <string name="failed_to_open_app_settings_toast">Se produjo un error al abrir la configuración de %1$s.</string>
     <string name="pointer_settings_category">Mouse y panel táctil</string>
@@ -1456,8 +1456,8 @@ Añade una palabra pulsando el botón (+) añadir"</string>
     <string name="input_method_selector_always_show_title">Mostrar siempre</string>
     <string name="input_method_selector_always_hide_title">Ocultar siempre</string>
     <string name="configure_input_method">Configurar métodos de entrada</string>
-    <string name="input_method_settings">Configuración</string>
-    <string name="input_method_settings_button">Configuración</string>
+    <string name="input_method_settings">Ajustes</string>
+    <string name="input_method_settings_button">Ajustes</string>
     <string name="active_input_method_subtypes">Métodos de entrada activos</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar el idioma del sistema</string>
     <string name="input_methods_settings_label_format">Configuración de %1$s</string>
@@ -1574,7 +1574,7 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
     <string name="daltonizer_mode_deuteranomaly">Deuteronomalía (rojo-verde)</string>
     <string name="daltonizer_mode_protanomaly">Protanomalía (rojo-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalía (azul-amarillo)</string>
-    <string name="accessibility_menu_item_settings">Configuración</string>
+    <string name="accessibility_menu_item_settings">Ajustes</string>
     <string name="accessibility_feature_state_on">Activado</string>
     <string name="accessibility_feature_state_off">Desactivado</string>
     <string name="accessibility_feature_or_input_method_not_allowed">Tu organización no lo permite</string>
@@ -1620,14 +1620,14 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
     <string name="disable_service_message">Si tocas ACEPTAR, %1$s se detendrá.</string>
     <string name="accessibility_no_services_installed">No se instaló ningún servicio.</string>
     <string name="accessibility_service_default_description">No se proporcionó ninguna descripción.</string>
-    <string name="settings_button">Configuración</string>
+    <string name="settings_button">Ajustes</string>
     <string name="print_settings">Impresión</string>
     <string name="print_settings_title">Servicios de impresión</string>
     <string name="print_service_security_warning_title">¿Quieres usar %1$s?</string>
     <string name="print_service_security_warning_summary">Es posible que el documento pase por uno o varios servidores antes de imprimirse.</string>
     <string name="print_no_services_installed">No se instaló ningún servicio.</string>
     <string name="print_no_printers_found">No se encontraron impresoras</string>
-    <string name="print_menu_item_settings">Configuración</string>
+    <string name="print_menu_item_settings">Ajustes</string>
     <string name="print_menu_item_add_printers">Agregar impresoras</string>
     <string name="print_feature_state_on">Sí</string>
     <string name="print_feature_state_off">No</string>
@@ -2387,8 +2387,8 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="sim_pref_divider">Actividades</string>
     <string name="sim_calls_ask_first_prefs_title">Preguntar primero</string>
     <string name="sim_selection_required_pref">Selección requerida</string>
-    <string name="dashboard_title">Configuración</string>
-    <string name="search_results_title">Configuración</string>
+    <string name="dashboard_title">Ajustes</string>
+    <string name="search_results_title">Ajustes</string>
     <string name="search_menu">Búsqueda</string>
     <string name="query_hint_text">Configuración de búsqueda</string>
     <string name="search_recents_queries_label">Búsquedas recientes</string>
@@ -2484,7 +2484,7 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="app_notification_row_sensitive">Personal</string>
     <string name="app_notifications_dialog_done">Listo</string>
     <string name="zen_mode_default_option">Hasta que lo desactives</string>
-    <string name="zen_mode_important_category">Configuración</string>
+    <string name="zen_mode_important_category">Ajustes</string>
     <string name="zen_mode_downtime_category">Tiempo inact. (solo interrup. prioridad)</string>
     <string name="zen_mode_downtime_days">Días</string>
     <string name="zen_mode_downtime_days_none">Ninguno</string>
@@ -2996,7 +2996,7 @@ Seleccione su sistema operativo:"</string>
     <string name="msd_install_download_zhushou">He descargado Mi Phone Manager</string>
     <string name="vpn_settings_password">Contraseña del VPN</string>
     <string name="vpn_safe">Seguridad</string>
-    <string name="vpn_configure">Configuración</string>
+    <string name="vpn_configure">Ajustes</string>
     <string name="vpn_enable">VPN</string>
     <string name="vpn_dns_servers_hint">ej. 8.8.8.8</string>
     <string name="vpn_routes_hint">ej. 10.0.0.0/8</string>
