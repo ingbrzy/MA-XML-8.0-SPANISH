@@ -19,8 +19,8 @@
   <string name="accessibility_time_picker_second">Segundo</string>
   <string name="account_prifix">Cuenta:</string>
   <string name="action">Iniciar sesión</string>
-  <string name="action_menu_account_not_login">No iniciar sesión</string>
-  <string name="action_menu_account_not_login_hint">Utilice la configuración de la nube al iniciar sesión</string>
+  <string name="action_menu_account_not_login">No has iniciado sesión</string>
+  <string name="action_menu_account_not_login_hint">Inicia sesión para sincronizar con Mi Cloud</string>
   <string name="action_menu_bookshelf">Estante para libros</string>
   <string name="action_menu_current_version">Versión actual</string>
   <string name="action_menu_text_add_bookmark">Añadir marcador</string>
@@ -44,7 +44,7 @@
   <string name="action_menu_text_snapshot">Guardar página</string>
   <string name="action_menu_text_video">Vídeo</string>
   <string name="action_menu_toolbox">Herramientas</string>
-  <string name="action_menu_useful_page">Añadir a inicio</string>
+  <string name="action_menu_useful_page">Añadir acceso directo</string>
   <string name="action_menu_useful_page_added">Añadida a la página de inicio</string>
   <string name="actionbar_share">Compartir</string>
   <string name="actionbar_web_search">Búsqueda en la web</string>
@@ -145,6 +145,8 @@
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturación</string>
   <string name="color_picker_value">Valor</string>
+  <string name="comment_app_menu">Comentario</string>
+  <string name="comment_menu">Comentario</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.es</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -182,8 +184,8 @@
   <string name="current_version_phone">Teléfono</string>
   <string name="custom_head_card_text">"Siempre cree que algo maravilloso
 está a punto de suceder"</string>
-  <string name="custom_head_card_text_incognito">"Sólo Dios y tú saben qué
-hay en la ventana de la privacidad"</string>
+  <string name="custom_head_card_text_incognito">"Estás ahora en modo incógnito
+Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="data_traffic_prompt_change">Usar su conexión de datos para ver vídeos incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
   <string name="data_traffic_prompt_message">Usar la conexión de datos para navegar incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
   <string name="data_traffic_prompt_message_short">El uso de datos móviles para transmitir vídeo puede hacer que usted se pase de su límite del plan de datos.</string>
@@ -325,6 +327,7 @@ hay en la ventana de la privacidad"</string>
   <string name="last_month">Mes pasado</string>
   <string name="loading_tips">Tire hacia abajo para actualizar</string>
   <string name="local_bookmarks">Mi</string>
+  <string name="login_failed_toast">"No hubo conexión, actualiza e intenta de nuevo"</string>
   <string name="location">Dirección</string>
   <string name="low_memory_error">No se puede completar la anterior operación debido a la poca memoria</string>
   <string name="max_tabs_warning">Limite de pestañas alcanzado</string>
@@ -584,6 +587,7 @@ hay en la ventana de la privacidad"</string>
   <string name="remove_history_item">Borrar del historial</string>
   <string name="remove_snapshot">Borrar página guardada</string>
   <string name="removed_from_bookmarks">Eliminado de marcadores</string>
+  <string name="reply_comment_title">Res: %s</string>
   <string name="resume_download">Empezar</string>
   <string name="retry_after_network_available">No se puede conectar a la red</string>
   <string name="retry_download">Reintentar</string>
@@ -638,6 +642,8 @@ hay en la ventana de la privacidad"</string>
   <string name="security_warnings_confirm_message">Apagar esta característica puede crear riesgos de seguridad.</string>
   <string name="select_dot">Seleccionar texto</string>
   <string name="select_download_device">Elegir dispositivo</string>
+  <string name="send_comment_button">Enviar</string>
+  <string name="send_comment_title">Comentario</string>
   <string name="share_page_text">"Estoy disfrutando 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"La URL de esta web se enviará a los servidores de Xiaomi para verificar su seguridad. Puede desactivar esta característica en Ajustes en cualquier momento."</string>
   <string name="show_security_tip_dialog_title">Términos de Servicio</string>
@@ -747,9 +753,9 @@ hay en la ventana de la privacidad"</string>
   <string name="video_downloaded_group">Descargado</string>
   <string name="video_downloading_group">Descargando</string>
   <string name="video_edit">Editar</string>
-  <string name="video_float_window">PopUp</string>
+  <string name="video_float_window">Pop-Up</string>
   <string name="video_float_window_playing">Reproduciendo vídeo</string>
-  <string name="video_float_window_text">PopUp</string>
+  <string name="video_float_window_text">Pop-Up</string>
   <string name="video_fragment_name_collections">Favoritos</string>
   <string name="video_fragment_name_download">Vídeo local</string>
   <string name="video_fragment_name_historys">Ver historial</string>
