@@ -6,7 +6,7 @@
      <string name="__leak_canary_delete">Borrar</string>
      <string name="__leak_canary_delete_all">Borrar Todo</string>
      <string name="__leak_canary_display_activity_label">Fugas</string>
-     <string name="__leak_canary_failure_report">"Por favor, informar de esta falla en http://github.com/square/leakcanary
+     <string name="__leak_canary_failure_report">"Por favor, informar de este error en http://github.com/square/leakcanary
 "</string>
      <string name="__leak_canary_leak_list_title">Fugas en %s</string>
      <string name="__leak_canary_notification_message">Haga clic para más detalles</string>
@@ -166,9 +166,9 @@
      <string name="big_screen_alertdialog_title">Lista de dispositivos</string>
      <string name="bigscreen_slide_exit">Salir del Pase de diapositivas</string>
      <string name="bigscreen_slide_fail_cause_loading">Reiniciar el Pase de diapositivas después de cargar la imagen</string>
-     <string name="bigscreen_slide_playing">El Pase de diapositivas en %s</string>
+     <string name="bigscreen_slide_playing">Pase de diapositivas en %s</string>
      <string name="bigscreen_video_quit">Toque para salir</string>
-     <string name="black_white">B y N Plano</string>
+     <string name="black_white">B y N plano</string>
      <string name="blank_app_name" />
      <string name="brannan">Brannan</string>
      <string name="browse_category">Display</string>
@@ -758,15 +758,15 @@
      <string name="error_title">No se puede sincronizar</string>
      <string name="error_unauthorized">La sincronización se ha desactivado debido a demasiados intentos de inicio de sesión.</string>
      <string name="error_unknown_host">No se puede conectar a la red. Compruebe su conexión de datos e inténtelo de nuevo.</string>
-     <string name="event_create_long_photo">Creating photo…</string>
+     <string name="event_create_long_photo">Creando foto…</string>
      <string name="event_manage_photos">Administrar fotos</string>
      <string name="exit">Salir</string>
      <string name="exit_share">Salir del álbum</string>
      <string name="exit_share_failed">No se pudo salir de %1$s</string>
      <string name="exit_share_in_process">Saliendo…</string>
      <string name="exit_share_successfully">Salió de %1$s</string>
-     <string name="exit_video_play">Exit</string>
-     <string name="expand_people">Show more people</string>
+     <string name="exit_video_play">Salir</string>
+     <string name="expand_people">Mostrar más personas</string>
      <string name="exposure_time">Tiempo de exposición</string>
      <string name="external_sd_card">Tarjeta SD</string>
      <string name="external_sdcard_root">Directorio raíz de SD externa</string>
@@ -835,7 +835,7 @@
      <string name="global_setting">Ajustes</string>
      <string name="go_setting">Ver ajustes</string>
      <string name="grain">Granulado</string>
-     <string name="grayscale">B y N</string>
+     <string name="grayscale">Escala de grises</string>
      <string name="group_by">Agrupar por</string>
      <string name="group_by_album">Por álbum</string>
      <string name="group_by_faces">Por la persona</string>
@@ -921,7 +921,7 @@
      <string name="last_chinese_new_year">Último año nuevo chino</string>
      <string name="last_new_year">Último año nuevo</string>
      <string name="last_valentine_day">Último día de San Valentín</string>
-     <string name="last_year_today">1 year ago</string>
+     <string name="last_year_today">Hace un año</string>
      <string name="limit_height">La altura debe ser > 0</string>
      <string name="limit_width">La anchura debería ser > 0</string>
      <string name="loading">Cargando…</string>
@@ -949,7 +949,7 @@
      <string name="me">Yo</string>
      <string name="megabyteShort">MB</string>
      <string name="menu_album_new_album">Nuevo álbum</string>
-     <string name="menu_item_sort">Sort</string>
+     <string name="menu_item_sort">Ordenar</string>
      <string name="menu_item_sort_date">Fecha</string>
      <string name="menu_item_sort_date_asc">Fecha (ascendente)</string>
      <string name="menu_item_sort_date_desc">Fecha (descendente)</string>
@@ -1035,7 +1035,7 @@
      <string name="operation_delete">Borrar</string>
      <string name="operation_delete_confirm_message_folder">"Se eliminará todo el contenido de la carpeta. "</string>
      <string name="operation_detail">Detalles</string>
-     <string name="operation_disable_auto_upload">Apagar restauración automática</string>
+     <string name="operation_disable_auto_upload">Desactivar la restauración automática</string>
      <string name="operation_download">Descargar foto (%s)</string>
      <string name="operation_edit">Editar</string>
      <string name="operation_enable_auto_upload">Encender restauración automática</string>
@@ -1055,7 +1055,7 @@
      <string name="operation_rename_baby">Introducir nombre</string>
      <string name="operation_save">Guardar</string>
      <string name="operation_send">Enviar</string>
-     <string name="operation_set_as_screensaver">Set as screensaver</string>
+     <string name="operation_set_as_screensaver">Establecer como salvapantallas</string>
      <string name="operation_set_contact_photo">Asignar a contacto</string>
      <string name="operation_set_wallpaper">Establecer como fondo de pantalla</string>
      <string name="operation_share">Compartir</string>
@@ -1146,9 +1146,9 @@
      <string name="qzone">QZone</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recognizing_image">Reconociendo imagen…</string>
-     <string name="recommanded_face_abandon_tip">Removido de las sugerencia</string>
+     <string name="recommanded_face_abandon_tip">Eliminado de las sugerencia</string>
      <string name="recommanded_face_added_tip">Añadido a &quot;%s&quot;</string>
-     <string name="redeye">Ojo rojo</string>
+     <string name="redeye">Ojos rojos</string>
      <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
      <string name="redeye_tooltip">Toque para eliminar el efecto ojos rojos</string>
      <string name="refocus_data_downloading">Descargando datos de reenfoque…</string>
@@ -1165,7 +1165,7 @@
      <string name="remove_from_secret_failed_message_with_count">%2$s elementos no pueden ser eliminados del álbum oculto: %1$s.</string>
      <string name="remove_from_secret_failed_with_reason">No se pudo eliminar del álbum oculto. %1$s.</string>
      <string name="remove_from_secret_failed_with_reason_and_count">%2$s elementos no se dejaron eliminar del álbum oculto. %1$s.</string>
-     <string name="remove_from_secret_successful">Removido del álbum oculto</string>
+     <string name="remove_from_secret_successful">Eliminado del álbum oculto</string>
      <string name="remove_from_secret_successfully_message">Eliminado del álbum oculto</string>
      <string name="remove_from_secret_unfinished_message_with_count">%1$s elementos no han sido borrados del álbum oculto</string>
      <string name="remove_hidden_album">Mostrar el álbum</string>
@@ -1271,7 +1271,7 @@
      <string name="show_hidden_album">Ver álbumes ocultos</string>
      <string name="show_hidden_album_title">Mostrar álbumes ocultos</string>
      <string name="show_hidden_albums">Ver álbumes ocultos</string>
-     <string name="show_images_only">Imégenes solamente</string>
+     <string name="show_images_only">Imágenes solamente</string>
      <string name="show_on_map">Ver en mapa</string>
      <string name="show_videos_only">Videos solamente</string>
      <string name="sina_weibo">Weibo</string>
@@ -1294,12 +1294,12 @@
      <string name="slim_after_backuped_title">Optimizar el almacenamiento local luego de terminar los respaldos</string>
      <string name="slim_introduce">Reemplaza la máxima resolución de fotos/vídeos del almacenamiento local con versiones optimizadas después de que hayan sido respaldadas en Mi Cloud. Los elementos con máxima resolución todavía estarán en almacenan en Mi Cloud. Esto puede ahorrar espacio en más de un 90%(necesita una cuenta Xiaomi).</string>
      <string name="slim_introduce_with_specific_size">Reemplaza la máxima resolución de fotos/vídeos del almacenamiento local con versiones optimizadas después de que hayan sido respaldadas en Mi Cloud. Los elementos con máxima resolución todavía estarán en almacenan en Mi Cloud. Esto puede ahorrar espacio en más de un %1$s(necesita una cuenta Xiaomi).</string>
-     <string name="slim_now">Adelgazar ahora</string>
-     <string name="slim_result_size">saved %1$s</string>
-     <string name="slim_result_title">Adelgazamiento terminado</string>
-     <string name="slim_tip_msg">Los álbumes serán adelgazados de forma automática cuando se conecte WLAN. Descargue archivos de resolución completa haciendo clic &quot;Descargar foto&quot; el menú está en los los detalles de la foto.</string>
-     <string name="slim_tip_title">Tip de adelgazamiento</string>
-     <string name="slimming">Adelgazanto…</string>
+     <string name="slim_now">Reducir peso ahora</string>
+     <string name="slim_result_size">reducción %1$s</string>
+     <string name="slim_result_title">Reducción de peso terminada</string>
+     <string name="slim_tip_msg">El peso de los álbumes será reducido de forma automática cuando se conecte a través de WLAN. Puede descargar los archivos en su resolución completa mediante la opción &quot;Descargar foto&quot; del menú de detalles de la foto.</string>
+     <string name="slim_tip_title">Tip de reducción de peso</string>
+     <string name="slimming">Reducciendo peso…</string>
      <string name="sports_camera">Cámara Deportiva</string>
      <string name="square">Cuadrado</string>
      <string name="start_slide_show">Iniciar pase de diapositivas</string>
@@ -1335,7 +1335,7 @@
      <string name="tencent_qq_hd_pic">QQ HD</string>
      <string name="tencent_qzonepic">Qzone</string>
      <string name="terabyteShort">TB</string>
-     <string name="there_is_no_image">No images in this file</string>
+     <string name="there_is_no_image">No hay imágenes en este fichero</string>
      <string name="tieba">Tie Ba</string>
      <string name="time">Time</string>
      <string name="times">Times</string>
@@ -1345,7 +1345,7 @@
      <string name="tip_capture_time">Fecha de captura:</string>
      <string name="tip_file_info">Información del archivo:</string>
      <string name="tip_file_path">Ruta del archivo:</string>
-     <string name="tip_not_download">No download. Will automatically download when playing.</string>
+     <string name="tip_not_download">No descargado. Se descargará automáticamente al reproducir.</string>
      <string name="title">Nombre de archivo</string>
      <string name="title_set_name">Establecer nombre</string>
      <string name="title_warn">Aviso</string>
@@ -1355,7 +1355,7 @@
      <string name="to_enable_sync_dialog_positive_button_text">Ir a Ajustes</string>
      <string name="to_enable_sync_dialog_title">Sincronización</string>
      <string name="too_many_recipients">No puede agregar más de %2$s destinatarios (Actualmente ha agregado %1$s).</string>
-     <string name="trash_bin">Trash bin</string>
+     <string name="trash_bin">Papelera</string>
      <string name="trash_bin_summary">Navegar por las fotos de respaldo que se hayan eliminado recientemente</string>
      <string name="try_to_send">Enviar</string>
      <string name="ubifocus_data_invalid">Algunos de los datos de esta imagen no son válidos</string>
@@ -1374,7 +1374,7 @@
      <string name="untagged">Sin etiquetar</string>
      <string name="upgrade_micloud_space">Conseguir más espacio de almacenamiento</string>
      <string name="user_agree">De acuerdo</string>
-     <string name="user_agreement">Términos de Servicio</string>
+     <string name="user_agreement">Términos del Servicio</string>
      <string name="user_agreement2">" Términos del Servicio"</string>
      <string name="user_agreement4">Política de Privacidad</string>
      <string name="user_alias_self">Auto</string>
@@ -1389,7 +1389,7 @@
      <string name="view_baby_info">Editar información del bebé</string>
      <string name="view_by_gallery_tip">Galería MIUI</string>
      <string name="view_face_album">Ver álbum</string>
-     <string name="view_queuing_status">Comprobar status</string>
+     <string name="view_queuing_status">Comprobar estado</string>
      <string name="view_sharers">Ver partícipes</string>
      <string name="vignette">Viñeta</string>
      <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
@@ -1397,15 +1397,15 @@
      <string name="wandoujia">SnapPea</string>
      <string name="warn">Advertencia</string>
      <string name="wechat">WeChat</string>
-     <string name="wechat_timeline_title">WeChat timeline</string>
+     <string name="wechat_timeline_title">Historial de WeChat</string>
      <string name="weibo">Weibo</string>
      <string name="weikan_weikan">Weikan TV</string>
      <string name="weixin">WeChat</string>
      <string name="welcome_to_micloud">Bienvenid@ a MiCloud</string>
-     <string name="welcome_to_slim">Bienvenid@ al adelgazamiento de fotos</string>
+     <string name="welcome_to_slim">Bienvenid@ a la reducción de peso de fotos</string>
      <string name="where_is_barcode">¿Dónde está el código QR?</string>
      <string name="white_balance">Balance de blancos</string>
-     <string name="who_is_this">¿Quién?</string>
+     <string name="who_is_this">¿Quién es?</string>
      <string name="widget_type">Elija imágenes</string>
      <string name="widget_type_album">Elija un álbum</string>
      <string name="widget_type_photo">Elija una imagen</string>
