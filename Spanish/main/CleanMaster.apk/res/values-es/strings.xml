@@ -11,7 +11,7 @@
      <string name="activity_title_ignored_image">Ignoradas</string>
      <string name="activity_title_image_gallery">Borrar duplicadas</string>
      <string name="activity_title_large_file">Archivos grandes</string>
-     <string name="activity_title_main">Limpieza en Curso</string>
+     <string name="activity_title_main">Limpiador</string>
      <string name="activity_title_news">Novedades</string>
      <string name="activity_title_privacy_cache">Cache privada</string>
      <string name="activity_title_residual">Archivos residuales</string>
@@ -130,7 +130,7 @@
      <string name="dialog_title_backup_and_uninstall_apps">Hacer copia de seguridad y desinstalar</string>
      <string name="dialog_title_check_all">Seleccionar todo</string>
      <string name="dialog_title_delete_image">Borrar imágenes seleccionadas</string>
-     <string name="dialog_title_esc_cleanmaster">Sair de cleanmaster</string>
+     <string name="dialog_title_esc_cleanmaster">Salir del Limpiador</string>
      <string name="dialog_title_load_cleanup_engine_error">Algo salió mal</string>
      <string name="dialog_title_stop_scan">Detener el escaneado</string>
      <string name="dialog_title_uninstall_apps">Desinstalar</string>
@@ -244,7 +244,7 @@
      <string name="msg_update_error_code_success">Hecho</string>
      <string name="msg_update_error_code_unknown_error">Error desconocido</string>
      <string name="name_debuglog_dir">Bsp Debug Log</string>
-     <string name="name_optimizer">"Política de Privacidad de Cheetah Mobile's"</string>
+     <string name="name_optimizer">Política de Privacidad</string>
      <string name="nb_clear_set">Limpiar ROM, ver batería e información de la lista de bloqueo en el área de notificaciones</string>
      <string name="net_assistant_detail">Usados %1$s, ahorrados %2$s</string>
      <string name="net_assistant_title">Usados %s de datos móviles este mes</string>
@@ -253,9 +253,7 @@
      <string name="no_network">No se pudo conectar a la red, intenta de nuevo más tarde</string>
      <string name="no_network_btn">Intentar de nuevo</string>
      <string name="notification_summary_after_auto_cleanup">%s limpiado</string>
-     <string name="notification_summary_of_apps_cleanup">Aplicaciones sin uso ocupan %s de almacenamiento</string>
      <string name="notification_summary_of_garbage_cleanup">Su basura es superior a %s.</string>
-     <string name="notification_title_of_apps_cleanup">Aplicaciones sin uso</string>
      <string name="notification_title_of_garbage_cleanup">Tamaño de basura</string>
      <string name="notify_when">Notificar cuando el tamaño de la basura alcance los 100MB</string>
      <string name="ok">Aceptar</string>
@@ -275,7 +273,6 @@
      <string name="pref_content_cleanup_white_list_none">Nada</string>
      <string name="pref_section_auto_clean_and_alert">Limpia de forma automática</string>
      <string name="pref_summary_auto_clean_and_alert">Programar limpiador para que se ejecute automáticamente</string>
-     <string name="pref_summary_auto_deepclean_and_alert">Notificación de aplicaciones sin usar</string>
      <string name="pref_summary_auto_update_cleanup_db">Última actualización: %s</string>
      <string name="pref_summary_cleanup_white_list">Los archivos residuales incluidos en esta  lista de excepciones serán ignorados</string>
      <string name="pref_summary_expand_cache_group">Mostrar detalles de caché automáticamente</string>
@@ -285,12 +282,9 @@
      <string name="pref_summary_garbage_process_mode">Establecer notificaciones cuando se ejecuta la limpieza</string>
      <string name="pref_summary_open_optimizer_cloud_scan">Subir y comparar nombres de archivos desconocidos con definiciones en línea</string>
      <string name="pref_summary_open_optimizer_memory_scan">Elegir automáticamente las aplicaciones a limpiar</string>
-     <string name="pref_title_apps_check_size">Límite de espacio de almacenamiento</string>
-     <string name="pref_title_apps_check_time">Frecuencia</string>
      <string name="pref_title_apps_cleanup_size">​Cuando el tamaño de la caché ocupe</string>
      <string name="pref_title_auto_clean_and_alert">Limpiar automáticamente</string>
      <string name="pref_title_auto_clean_content_choose">Seleccione elementos a limpiar</string>
-     <string name="pref_title_auto_deepclean_and_alert">Notificación de aplicaciones sin uso</string>
      <string name="pref_title_auto_update_cleanup_db">Actualización automática</string>
      <string name="pref_title_choose_engine">Definitions</string>
      <string name="pref_title_cleanup_white_list">Excepciones</string>
@@ -305,14 +299,11 @@
      <string name="pref_title_open_optimizer_memory_scan">Elegir aplicaciones automáticamente</string>
      <string name="preference_category_information_setting">category_information_setting</string>
      <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
-     <string name="preference_key_apps_cleanup_auto_check_size">key_apps_cleanup_auto_check_size</string>
-     <string name="preference_key_apps_cleanup_auto_check_time">key_apps_cleanup_auto_check_time</string>
      <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
      <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
      <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
      <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
      <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
-     <string name="preference_key_checkbox_apps_auto_clean_and_alert">key_checkbox_apps_auto_clean_content</string>
      <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
      <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
      <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
