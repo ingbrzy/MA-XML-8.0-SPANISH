@@ -73,28 +73,28 @@
         <item quantity="many"> %1$d elementos</item>
     </plurals>
     <plurals name="search_head_hint_app">
-        <item quantity="other">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
-        <item quantity="zero">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
-        <item quantity="one">Fichero relacionado con la aplicación %1$s (%2$d elemento)</item>
-        <item quantity="two">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
-        <item quantity="few">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
-        <item quantity="many">Ficheros relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="other">archivos relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="zero">archivos relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="one">archivo relacionado con la aplicación %1$s (%2$d elemento)</item>
+        <item quantity="two">archivos relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="few">archivos relacionados con la aplicación %1$s (%2$d elementos)</item>
+        <item quantity="many">archivos relacionados con la aplicación %1$s (%2$d elementos)</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">Ficheros relacionados con %1$s (%2$d elementos)</item>
-        <item quantity="zero">Ficheros relacionados con %1$s (%2$d elementos)</item>
-        <item quantity="one">Fichero relacionado con %1$s (%2$d elemento)</item>
-        <item quantity="two">Ficheros relacionados con %1$s (%2$d elementos)</item>
-        <item quantity="few">Ficheros relacionados con %1$s (%2$d elementos)</item>
-        <item quantity="many">Ficheros relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="other">archivos relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="zero">archivos relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="one">archivo relacionado con %1$s (%2$d elemento)</item>
+        <item quantity="two">archivos relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="few">archivos relacionados con %1$s (%2$d elementos)</item>
+        <item quantity="many">archivos relacionados con %1$s (%2$d elementos)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
-        <item quantity="zero">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
-        <item quantity="one">Fichero relacionado con la etiqueta %1$s (%2$d elemento)</item>
-        <item quantity="two">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
-        <item quantity="few">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
-        <item quantity="many">Ficheros relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="other">archivos relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="zero">archivos relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="one">archivo relacionado con la etiqueta %1$s (%2$d elemento)</item>
+        <item quantity="two">archivos relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="few">archivos relacionados con la etiqueta %1$s (%2$d elementos)</item>
+        <item quantity="many">archivos relacionados con la etiqueta %1$s (%2$d elementos)</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">Hace %1$d minutos</item>
@@ -121,52 +121,52 @@
         <item quantity="many">Hace %1$d días</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Encontrados %1$d nuevos ficheros</item>
-        <item quantity="zero">Encontrados %1$d nuevos ficheros</item>
-        <item quantity="one">Encontrados %1$d nuevo fichero</item>
-        <item quantity="two">Encontrados %1$d nuevos ficheros</item>
-        <item quantity="few">Encontrados %1$d nuevos ficheros</item>
-        <item quantity="many">Encontrados %1$d nuevos ficheros</item>
+        <item quantity="other">Encontrados %1$d nuevos archivos</item>
+        <item quantity="zero">Encontrados %1$d nuevos archivos</item>
+        <item quantity="one">Encontrado %1$d nuevo archivo</item>
+        <item quantity="two">Encontrados %1$d nuevos archivos</item>
+        <item quantity="few">Encontrados %1$d nuevos archivos</item>
+        <item quantity="many">Encontrados %1$d nuevos archivos</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Recibidos %1$d ficheros de %2$s</item>
-        <item quantity="zero">Recibidos %1$d ficheros de %2$s</item>
-        <item quantity="one">Recibido %1$d fichero de %2$s</item>
-        <item quantity="two">Recibidos %1$d ficheros de %2$s</item>
-        <item quantity="few">Recibidos %1$d ficheros de %2$s</item>
-        <item quantity="many">Recibidos %1$d ficheros de %2$s</item>
+        <item quantity="other">Recibidos %1$d archivos de %2$s</item>
+        <item quantity="zero">Recibidos %1$d archivos de %2$s</item>
+        <item quantity="one">Recibido %1$d archivo de %2$s</item>
+        <item quantity="two">Recibidos %1$d archivos de %2$s</item>
+        <item quantity="few">Recibidos %1$d archivos de %2$s</item>
+        <item quantity="many">Recibidos %1$d archivos de %2$s</item>
     </plurals>
 	<plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Recibidos %1$d ficheros de WeChat</item>
-        <item quantity="zero">Recibidos %1$d ficheros de WeChat</item>
-        <item quantity="one">Recibido %1$d fichero de WeChat</item>
-        <item quantity="two">Recibidos %1$d ficheros de WeChat</item>
-        <item quantity="few">Recibidos %1$d ficheros de WeChat</item>
-        <item quantity="many">Recibidos %1$d ficheros de WeChat</item>
+        <item quantity="other">Recibidos %1$d archivos de WeChat</item>
+        <item quantity="zero">Recibidos %1$d archivos de WeChat</item>
+        <item quantity="one">Recibido %1$d archivo de WeChat</item>
+        <item quantity="two">Recibidos %1$d archivos de WeChat</item>
+        <item quantity="few">Recibidos %1$d archivos de WeChat</item>
+        <item quantity="many">Recibidos %1$d archivos de WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d ficheros de WeChat Video expirarán</item>
-        <item quantity="zero">%1$d ficheros de WeChat Video expirarán</item>
-        <item quantity="one">%1$d fichero de WeChat Video expirará</item>
-        <item quantity="two">%1$d ficheros de WeChat Video expirarán</item>
-        <item quantity="few">%1$d ficheros de WeChat Video expirarán</item>
-        <item quantity="many">%1$d ficheros de WeChat Video expirarán</item>
+        <item quantity="other">%1$d archivos de WeChat Video expirarán</item>
+        <item quantity="zero">%1$d archivos de WeChat Video expirarán</item>
+        <item quantity="one">%1$d archivo de WeChat Video expirará</item>
+        <item quantity="two">%1$d archivos de WeChat Video expirarán</item>
+        <item quantity="few">%1$d archivos de WeChat Video expirarán</item>
+        <item quantity="many">%1$d archivos de WeChat Video expirarán</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
-        <item quantity="zero">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
-        <item quantity="one">%1$d fichero temporal de WeChat Video se borrará, ¿quieres hacer copia?</item>
-        <item quantity="two">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
-        <item quantity="few">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
-        <item quantity="many">%1$d ficheros temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="other">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="zero">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="one">%1$d archivo temporal de WeChat Video se borrará, ¿quieres hacer copia?</item>
+        <item quantity="two">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="few">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="many">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
     </plurals>
     <plurals name="video_play_num">
-          <item quantity="other">%1$s plays</item>
-          <item quantity="zero">%1$s plays</item>
-          <item quantity="one">%1$s play</item>
-          <item quantity="two">%1$s plays</item>
-          <item quantity="few">%1$s plays</item>
-          <item quantity="many">%1$s plays</item>
+          <item quantity="other">%1$s vistas</item>
+          <item quantity="zero">%1$s vistas</item>
+          <item quantity="one">%1$s vista</item>
+          <item quantity="two">%1$s vistas</item>
+          <item quantity="few">%1$s vistas</item>
+          <item quantity="many">%1$s vistas</item>
     </plurals>
     <plurals name="video_num">
           <item quantity="other">%1$s videos</item>
