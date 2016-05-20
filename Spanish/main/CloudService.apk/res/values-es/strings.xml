@@ -121,7 +121,6 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
      <string name="master_alert_notif_dspt_add">%s elementos esperando sincronizar</string>
      <string name="master_alert_notif_dspt_no">Sincronizado</string>
      <string name="master_alert_notif_title">Encender MiCloud</string>
-     <string name="master_alert_notif_title">Última sincronización hace %s días</string>
      <string name="micloud_all_sub_1_intl_sms">Su operador puede cobrarle un SMS internacional para activar este servicio. Su operador le cobrará.</string>
      <string name="micloud_all_sub_1_sms">Se enviará un SMS para activar su tarjeta SIM. Su operador le cobrará.</string>
      <string name="micloud_all_sub_1_sms_1_intl_sms">Se enviarán 2 SMS (nacional e internacional) para activar su tarjeta SIM. Su operador le cobrará.</string>
@@ -179,7 +178,6 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
      <string name="micloud_detail_not_sync">%d esperando para sincronizar</string>
      <string name="micloud_detail_not_synced">no sincronizado</string>
      <string name="micloud_detail_ok">De acuerdo</string>
-     <string name="micloud_detail_not_synced">No sincronizado</string>
      <string name="micloud_detail_pending">Esperando</string>
      <string name="micloud_detail_preference_sync_items">Elementos</string>
      <string name="micloud_detail_query_error">"No se puede obtener el estado de sincronización"</string>
@@ -407,7 +405,6 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
      <string name="sub_alert_notif_dspt_add">%s elementos esperando sincronizar</string>
      <string name="sub_alert_notif_dspt_no">Sincronizado</string>
      <string name="sub_alert_notif_title">Sincronizado con Mi Cloud</string>
-     <string name="sub_alert_notif_title">No sincronizar</string>
      <string name="sub_sync_item_sms_summary">Solo sincronizar mensajes que contengan fotos, audio u otros archivos multimedia cuando esté conectado a una red Wi-Fi</string>
      <string name="sub_sync_item_sms_title_wifi_only">Solo sincronizar MMS por Wi-Fi</string>
      <string name="success_upgraded_space">%s añadido</string>
