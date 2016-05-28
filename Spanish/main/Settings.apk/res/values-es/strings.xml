@@ -105,8 +105,8 @@
     <string name="allow">Permitir</string>
     <string name="deny">Rechazar</string>
     <string name="device_info_default">Desconocido</string>
-    <string name="show_dev_on">¡Ya eres programador!</string>
-    <string name="show_dev_already">No es necesario, ya eres programador.</string>
+    <string name="show_dev_on">¡Ya eres usuario avanzado!</string>
+    <string name="show_dev_already">No es necesario, ya eres usuario avanzado.</string>
     <string name="header_category_wireless_networks">Red</string>
     <string name="header_category_connections">Conexiones</string>
     <string name="header_category_device">Dispositivo</string>
@@ -1465,9 +1465,9 @@ Añade una palabra pulsando el botón (+) añadir"</string>
     <string name="onscreen_keyboard_settings_summary">Configuración del teclado en pantalla</string>
     <string name="builtin_keyboard_settings_title">Teclado físico</string>
     <string name="builtin_keyboard_settings_summary">Configuración de teclado físico</string>
-    <string name="development_settings_title">Opciones del programador</string>
+    <string name="development_settings_title">Opciones de desarrollo</string>
     <string name="development_settings_summary">Establecer opciones para desarrollar aplicaciones</string>
-    <string name="development_settings_not_available">Las opciones de programador no están disponibles para este usuario.</string>
+    <string name="development_settings_not_available">Las opciones de desarrollo no están disponibles para este usuario.</string>
     <string name="vpn_settings_not_available">La configuración de la red VPN no está disponible para este usuario.</string>
     <string name="tethering_settings_not_available">La configuración de la conexión no está disponible para este usuario.</string>
     <string name="apn_settings_not_available">La configuración del nombre de punto de acceso no está disponible para este usuario.</string>
@@ -1499,7 +1499,7 @@ Añade una palabra pulsando el botón (+) añadir"</string>
     <string name="adb_warning_message">La depuración por USB solo está indicada para actividades de programación. Úsala para copiar datos entre tu computadora y el dispositivo, para instalar aplicaciones en el dispositivo sin recibir notificaciones y para leer datos de registro.</string>
     <string name="adb_keys_warning_message">¿Quieres revocar el acceso a la depuración por USB desde todas la computadoras que autorizaste hasta ahora?</string>
     <string name="dev_settings_warning_title">¿Permitir configuración de desarrollo?</string>
-    <string name="dev_settings_warning_message">Estos parámetros de configuración están destinados únicamente a los programadores. Pueden hacer que el dispositivo o sus aplicaciones no funcionen correctamente.</string>
+    <string name="dev_settings_warning_message">Estos parámetros de configuración están destinados únicamente para los desarrolladores. Pueden hacer que el dispositivo o sus aplicaciones no funcionen correctamente.</string>
     <string name="verify_apps_over_usb_title">Verificar aplicaciones por USB</string>
     <string name="verify_apps_over_usb_summary">Comprobar que las aplicaciones instaladas mediante ADB/ADT no ocasionen daños</string>
     <string name="enforce_read_external_title">Proteger almacenamiento USB</string>
@@ -1507,7 +1507,7 @@ Añade una palabra pulsando el botón (+) añadir"</string>
     <string name="enforce_read_external_confirm_title">¿Proteger almacenamiento USB?</string>
     <string name="enforce_read_external_confirm_message">"Cuando el almacenamiento USB está protegido, las aplicaciones deben solicitar permiso para leer los datos del almacenamiento externo.
 
-Es posible que algunas aplicaciones no funcionen hasta que los programadores las actualicen."</string>
+Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores las actualicen."</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_terminal_summary">Habilitar aplicac. de terminal que ofrece acceso al shell local</string>
     <string name="gadget_picker_title">Elegir gadget</string>
@@ -3006,7 +3006,7 @@ Seleccione su sistema operativo:"</string>
     <string name="bluetooth_enable">Bluetooth</string>
     <string name="sync_enable">Sincronizar</string>
     <string name="accessibility_enable">Accesibilidad</string>
-    <string name="development_enable">Opciones de desarrollador</string>
+    <string name="development_enable">Opciones de desarrollo</string>
     <string name="device_name">Nombre del dispositivo</string>
     <string name="device_edit_title">Renombrar teléfono</string>
     <string name="device_name_input_hint">Introduzca nombre</string>
