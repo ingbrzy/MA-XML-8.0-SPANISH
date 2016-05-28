@@ -1,112 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="confirm_delete_album">
-        <item quantity="other">¿¿Eliminar %1$s álbumes (%2$s total)?</item>
-        <item quantity="one">¿¿Eliminar éste ábum (%s total)?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">"&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementos del almacenamiento interno y de Mi Cloud?&lt;/Data>"</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">"&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos del almacenamiento interno y de Mi Cloud?&lt;/Data>"</item>
-        <item quantity="one">"&lt;Data>¿Eliminar esta foto del almacenamiento interno y de Mi Cloud?&lt;/Data>"</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">"&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos del almacenamiento interno y de Mi Cloud?&lt;/Data>"</item>
-        <item quantity="one">"&lt;Data>¿Eliminar éste video del almacenamiento interno y de Mi Cloud?&lt;/Data>"</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementos de Mi Cloud?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos de Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar esta foto de Mi Cloud?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos de Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar éste video de Mi Cloud?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementos de este álbum?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image_video">
-        <item quantity="other">¿Eliminar %s elementos?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos de este álbum?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar esta foto de este álbum?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">¿Eliminar %s fotos?</item>
-        <item quantity="one">¿Eliminar ésta foto?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos de este álbum?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video de este álbum?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">¿Eliminar %s videos?</item>
-        <item quantity="one">¿Eliminar éste video?</item>
-    </plurals>
-    <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%1$d videos&lt;/xliff:g> de %2$d álbumes?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar éste video de %2$d álbumes?&lt;/Data></item>
-    </plurals>
-    <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%1$d fotos&lt;/xliff:g> de %2$d álbumes?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar esta foto de %2$d álbumes?&lt;/Data></item>
-    </plurals>
-    <plurals name="number_of_elementos_selected">
-        <item quantity="other">%1$d seleccionado</item>
-        <item quantity="zero">%1$d seleccionado</item>
-        <item quantity="one">%1$d seleccionado</item>
-    </plurals>
-    <plurals name="number_of_pictures">
-        <item quantity="other">%1$d</item>
-        <item quantity="zero">%1$d</item>
-        <item quantity="one">%1$d</item>
-    </plurals>
-    <plurals name="how_many_pics">
-        <item quantity="other">%d fotos</item>
-        <item quantity="one">%d foto</item>
-    </plurals>
-    <plurals name="how_many_videos">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
-    </plurals>
-    <plurals name="how_many_sub_folders">
-        <item quantity="other">%d carpetas</item>
-        <item quantity="one">%d carpeta</item>
-    </plurals>
-    <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"No tienes permiso para eliminar estos %d archivos."</item>
-        <item quantity="one">"No tienes permiso para eliminar éste %d archivo."</item>
-    </plurals>
-    <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Puedes seleccionar %d elementos</item>
-        <item quantity="one">Puedes seleccionar %d elemento</item>
-    </plurals>
-    <plurals name="number_of_images">
-        <item quantity="other">%1$d fotos</item>
-        <item quantity="zero">%1$d fotos</item>
-        <item quantity="one">%1$d foto</item>
-    </plurals>
-    <plurals name="number_of_elementos">
-        <item quantity="other">%1$d elementos</item>
-        <item quantity="zero">%1$d elementos</item>
-        <item quantity="one">%1$d elemento</item>
-    </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%d segundos</item>
-        <item quantity="one">1 segundo</item>
-    </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"¿No mostrar éstas caras?"</item>
-        <item quantity="one">"¿No mostrar ésta face?"</item>
+        <item quantity="other">¿No mostrar éstas caras?</item>
+        <item quantity="one">¿No mostrar ésta face?</item>
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s fotos de %2$s</item>
         <item quantity="one">%1$s foto de %2$s</item>
+    </plurals>
+	<plurals name="age_year">
+        <item quantity="other">%d años</item>
+        <item quantity="one">%d año</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d meses</item>
+        <item quantity="one">%d mes</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d fotos de %2$s para ser añadidas</item>
@@ -116,21 +28,57 @@
         <item quantity="other">%1$d fotos de %2$s para ser añadidas</item>
         <item quantity="one">%1$d foto de %2$s para ser añadida</item>
     </plurals>
-    <plurals name="baby_age_subtitle_year">
-        <item quantity="other">"%1$d años "</item>
-        <item quantity="one">"%1$d año "</item>
+	<plurals name="album_already_share_user_count">
+        <item quantity="other">Compartido con %d personas</item>
+        <item quantity="one">Compartido con %d persona</item>
     </plurals>
-    <plurals name="baby_age_subtitle_month">
-        <item quantity="other">"%1$d meses "</item>
-        <item quantity="one">"%1$d mes "</item>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Eliminar %1$d fotos %2$s?</item>
+        <item quantity="one">Eliminar ésta foto %2$s?</item>
     </plurals>
-    <plurals name="baby_age_subtitle_day">
-        <item quantity="other">%1$d días</item>
-        <item quantity="one">%1$d día</item>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Eliminar %1$d videos %2$s?</item>
+        <item quantity="one">Eliminar thvideo %2$s?</item>
     </plurals>
-    <plurals name="baby_album_share_user_count_tip">
-        <item quantity="other">%1$d seguidores</item>
-        <item quantity="one">%1$d seguidor</item>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Eliminar %1$d elementos %2$s?</item>
+        <item quantity="one">Eliminar %1$d elemento %2$s?</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elementos)</item>
+        <item quantity="one">(%d elemento)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementos | %2$s</item>
+        <item quantity="one">%1$d elemento | %2$s</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d elementos han sido respaldados</item>
+        <item quantity="one">%1$d elemento ha sido respaldado</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d elementos esperando a ser respaldado(s)</item>
+        <item quantity="one">%1$d elemento esperando a ser respaldado(s)</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Network error. %1$d elementos esperando a ser respaldado(s)</item>
+        <item quantity="one">Network error. %1$d elemento esperando a ser respaldado(s)</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Sync off. %1$d elementos esperando a ser respaldado(s)</item>
+        <item quantity="one">Sync off. %1$d elemento esperando a ser respaldado(s)</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud está lleno. %1$d elementos esperando a ser respaldado(s)</item>
+        <item quantity="one">Mi Cloud está lleno. %1$d elemento esperando a ser respaldado(s)</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">No hay suficiente almacenamiento local. %1$d elementos esperando a ser respaldado(s)</item>
+        <item quantity="one">No hay suficiente almacenamiento local. %1$d elemento esperando a ser respaldado(s)</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d fotos esperando sincronización</item>
@@ -155,5 +103,129 @@
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Sincronizando %1$d elementos…</item>
         <item quantity="one">Sincronizando elemento…</item>
+    </plurals>
+	<plurals name="download_error">
+        <item quantity="other">"No ha sido posible descargar %1$d archivos"</item>
+        <item quantity="one">"No ha sido posible descargar %1$d archivo"</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d elementos seleccionados</item>
+        <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos de este álbum?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar esta foto de este álbum?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">¿Eliminar %s fotos?</item>
+        <item quantity="one">¿Eliminar ésta foto?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos de este álbum?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video de este álbum?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">¿Eliminar %s videos?</item>
+        <item quantity="one">¿Eliminar éste video?</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="zero">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d carpetas</item>
+        <item quantity="one">%d carpeta</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">No tienes permiso para eliminar estos %d archivos.</item>
+        <item quantity="one">No tienes permiso para eliminar éste %d archivo.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Puedes seleccionar %d elementos</item>
+        <item quantity="one">Puedes seleccionar %d elemento</item>
+    </plurals>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">¿¿Eliminar %1$s álbumes (%2$s total)?</item>
+        <item quantity="one">¿¿Eliminar éste ábum (%s total)?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%1$d videos&lt;/xliff:g> de %2$d álbumes?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar éste video de %2$d álbumes?&lt;/Data></item>
+    </plurals>
+    <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d días</item>
+        <item quantity="one">%1$d día</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">"%1$d meses "</item>
+        <item quantity="one">"%1$d mes "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d años "</item>
+        <item quantity="one">"%1$d año "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos de Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar esta foto de Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementos de este álbum?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementos de Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos del almacenamiento interno y de Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar esta foto del almacenamiento interno y de Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> elementos del almacenamiento interno y de Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos del almacenamiento interno y de Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar éste video del almacenamiento interno y de Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos de Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar éste video de Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">¿Eliminar %s elementos?</item>
+    </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%1$d fotos&lt;/xliff:g> de %2$d álbumes?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar esta foto de %2$d álbumes?&lt;/Data></item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+    <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d seguidores</item>
+        <item quantity="one">%1$d seguidor</item>
+    </plurals>
+    <plurals name="number_of_elements_selected">
+        <item quantity="other">%1$d seleccionado</item>
+        <item quantity="zero">%1$d seleccionado</item>
+        <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <plurals name="number_of_elements">
+        <item quantity="other">%1$d elementos</item>
+        <item quantity="zero">%1$d elementos</item>
+        <item quantity="one">%1$d elemento</item>
     </plurals>
 </resources>
