@@ -66,7 +66,7 @@
      <string name="download_current_rom">Reinicie para aplicar la actualización</string>
      <string name="download_diff">Descargar incremental</string>
      <string name="download_error">Error en la descarga. Espere un minuto o dos e inténtelo de nuevo.</string>
-     <string name="download_failed">Download failed</string>
+     <string name="download_failed">Descarga fallida</string>
      <string name="download_full">Descargar completa</string>
      <string name="download_success_reboot_immediately">Reboot to apply update</string>
      <string name="download_title">Descargando (%s)</string>
@@ -123,9 +123,9 @@
      <string name="no_wifi_msg">"Ya no está conectado con Wi-Fi. Si continúa la descarga con la red móvil de datos se incrementará mucho su uso de datos."</string>
      <string name="no_wifi_title">Aviso de uso de datos</string>
      <string name="not_open">No activar</string>
-     <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
+     <string name="notification_auto_reboot_seccess_title">El dispositivo se actualizara automaticamente.</string>
      <string name="notification_downloading">Descargando actualización…</string>
-     <string name="notification_fail_msg">Try downloading full ROM</string>
+     <string name="notification_fail_msg">Intentar la descarga completa de la ROM</string>
      <string name="notification_load_body_alpha">Consiga las últimas actualizaciones para su dispositivo.</string>
      <string name="notification_load_body_dev">Consiga las últimas actualizaciones para su dispositivo.</string>
      <string name="notification_load_now">Inicia sesión ahora</string>
@@ -200,7 +200,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="sina_token_expired_warning">Su cuenta Weibo ha caducado: por favor, vuelva a intentarlo</string>
      <string name="sina_token_invalid_warning">Su cuenta Weibo no es válida: por favor, vuelva a intentarlo</string>
      <string name="sogou_uninstall_msg">El teclado Sogou (Mi Edition) no es compatible con MIUI 7. Elige otro teclado o actualiza a una versión más reciente de Sogou.</string>
-     <string name="sogou_uninstall_negative_button">Update Sogou</string>
+     <string name="sogou_uninstall_negative_button">Actualizacion Sogou</string>
      <string name="sogou_uninstall_positive_button">Switch keyboards</string>
      <string name="sogou_uninstall_title">Keyboard compatibility</string>
      <string name="space_not_enough_msg">"No hay suficiente espacio de almacenamiento en su dispositivo para descargar esta actualización."</string>
