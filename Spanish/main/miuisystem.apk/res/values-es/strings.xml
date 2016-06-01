@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_frequent_phrases">Añadir frases frecuentes</string>
     <string name="android_ringtone_silent">Ninguno</string>
     <string name="android_ringtone_unknown">Tono de llamada desconocido</string>
     <string name="presentation_payphone">Teléfono público</string>
@@ -10,9 +11,14 @@
     <string name="yellow_page_sms_send_failed">No fue posible enviar el SMS</string>
     <string name="yellow_page_sms_sending">Enviando…</string>
     <string name="yellow_page_unable_send_sms">No es posible enviar el SMS</string>
+    <string name="delete_frequent_phrases">Borrar frases frecuentes</string>
+    <string name="delete_frequent_phrases_confirm">Borrar frase frecuente selecionada?</string>
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi Pad</string>
     <string name="device_xiaomi">Teléfono Mi</string>
+    <string name="edit_frequent_phrases">Editar frase frecuente</string>
+    <string name="frequent_phrases_des">Introducir frases frecuentes con solo un par de toques mientras que la edición de texto</string>
+    <string name="frequent_phrases_size_exceeded">Puede añadir hasta 10 frases frecuentes. Eliminar las innecesarias para añadir más</string>
     <string name="solar_calendar">公历</string>
     <string name="lunar_calendar">农历</string>
     <string name="lunar_zheng">正</string>
@@ -37,6 +43,10 @@
     <string name="lunar_nian">廿</string>
     <string name="lunar_yue">月</string>
     <string name="lunar_year">年</string>
+    <string name="menu_add_frequent_phrases">Añadir</string>
+    <string name="menu_delete">Borrar</string>
+    <string name="menu_edit">Editar</string>
+    <string name="miui_device_name">Android</string>
     <string name="the_spring_festival">春节</string>
     <string name="lantern_festival">元宵节</string>
     <string name="the_dragon_boat_festival">端午节</string>
