@@ -8,8 +8,11 @@
      <string name="Settings_title_network_assistants">Configuración de uso de datos</string>
      <string name="Settings_title_power_center">Ajustes de la batería</string>
      <string name="ac_enable_title">Activar bloqueo de Aplicaciones</string>
+     <string name="ac_enter_applock">Introduzca bloqueo App</string>
      <string name="ac_firstUseApplock_subTitle">Utilice el bloqueo de Aplicaciones para proteger su privacidad</string>
      <string name="ac_firstUseApplock_title">Solicitar contraseña para abrir aplicaciones seleccionadas</string>
+     <string name="ac_summaryOff">Desactivado, no se requiere ninguna contraseña para abrir aplicaciones</string>
+     <string name="ac_summaryOn">Activo, se requiere una contraseña para abrir aplicaciones</string>
      <string name="access_control_need_password">"%s añadido exitosamente
 "</string>
      <string name="access_control_need_to_unlock">"Escanee su huella dactilar
