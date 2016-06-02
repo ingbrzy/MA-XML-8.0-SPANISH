@@ -24,7 +24,7 @@
      <string name="auto_update_sum">Elegir automáticamente las mejores horas para descargar actualizaciones</string>
      <string name="autosetmode">Ajustes de actualización</string>
      <string name="best_update">La mejor actualización hasta el momento</string>
-     <string name="boot_recovery">Reiniciar en modo Recovery</string>
+     <string name="boot_recovery">Reiniciar en modo Recuperación</string>
      <string name="button_text_check">Comprobar</string>
      <string name="button_text_later_reboot">Reiniciar más tarde</string>
      <string name="button_text_reboot">Reiniciar ahora</string>
@@ -55,8 +55,8 @@
      <string name="confirm_local_package_wipe_btn">Borrar y actualizar</string>
      <string name="confirm_local_package_wipe_msg">Tus datos personales serán borrados. Asegúrate de copiar todos los elementos importantes antes de iniciar el proceso.</string>
      <string name="confirm_local_package_wipe_title">¿Borrar datos?</string>
-     <string name="continue_update_negative_btn">Continue</string>
-     <string name="continue_update_positive_btn">Stop</string>
+     <string name="continue_update_negative_btn">Continuar</string>
+     <string name="continue_update_positive_btn">Parar</string>
      <string name="daily_build">Diaria</string>
      <string name="dialog_no">No</string>
      <string name="dialog_ok">Aceptar</string>
@@ -68,7 +68,7 @@
      <string name="download_error">Error en la descarga. Espere un minuto o dos e inténtelo de nuevo.</string>
      <string name="download_failed">Descarga fallida</string>
      <string name="download_full">Descargar completa</string>
-     <string name="download_success_reboot_immediately">Reboot to apply update</string>
+     <string name="download_success_reboot_immediately">Reiniciar para aplicar la actualización</string>
      <string name="download_title">Descargando (%s)</string>
      <string name="download_title_first">Obteniendo información…</string>
      <string name="download_title_full_download">Obteniendo información…</string>
@@ -102,7 +102,7 @@
      <string name="menu_title_current_version_log">Resumen de actualizaciones</string>
      <string name="menu_title_download_current_rom">Descargar el paquete de actualización</string>
      <string name="menu_title_pick_rom_file">Seleccionar el paquete de actualización</string>
-     <string name="menu_title_recovery">Reiniciar en modo Recovery</string>
+     <string name="menu_title_recovery">Reiniciar en modo Recuperación</string>
      <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
      <string name="miui_summary_has_new_version">"  Hay disponible una actualización  "</string>
      <string name="miui_summary_no_new_version">No hay actualizaciones disponibles</string>
@@ -165,9 +165,9 @@
      <string name="reboot">Reiniciar</string>
      <string name="reboot_to_new_system">Reiniciar nuevo sistema</string>
      <string name="recovery_failed_button">Aceptar</string>
-     <string name="recovery_failed_msg">"El dispositivo no tiene suficiente memoria para entrar en modo Recovery y actualizar su sistema. Trate de usar Mi PC Suite en su lugar:
+     <string name="recovery_failed_msg">"El dispositivo no tiene suficiente memoria para entrar en modo Recuperación y actualizar su sistema. Trate de usar Mi PC Suite en su lugar:
 http://zhushou.xiaomi.com"</string>
-     <string name="recovery_failed_notification_msg">"No puede entrar en modo Recovery"</string>
+     <string name="recovery_failed_notification_msg">"No puede entrar en modo Recuperación"</string>
      <string name="recovery_failed_title">Utilizar Mi PC Suite para actualizar el sistema</string>
      <string name="recovery_power_not_enough_msg">Conecta el cargador para actualizar si queda menos del 30% de batería</string>
      <string name="recovery_power_not_enough_msg_plugged">La batería debe tener más del 15% para actualizar el dispositivo</string>
@@ -242,7 +242,7 @@ Pero podrás participar de nuevo el próximo martes."</string>
      <string name="updater_nonetwork_clause">No se puede conectar a la red</string>
      <string name="updater_service_busy_msg">Esta aplicación usa el servicio Actualizador para obtener acceso root para los ficheros fuente requeridos.</string>
      <string name="updater_service_busy_title">El servicio Actualizador está ocupado</string>
-     <string name="updater_wait_for_unzip">Unpacking update…</string>
+     <string name="updater_wait_for_unzip">Paquete de actualización…</string>
      <string name="upgrade_close">Cerrar</string>
      <string name="upgrade_kernel">El kernel del sistema está obsoleto</string>
      <string name="upgrade_kernel_msg">"La versión del kernel que estás utilizando no coincide con la última versión de MIUI. Es necesario actualizar la versión del kernel manualmente. Diríjase al tutorial de actualización de Xiaomi: 
