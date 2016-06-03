@@ -1,6 +1,5 @@
-# ![logo](https://lh3.googleusercontent.com/proxy/cMgiArTg8ZL3cI7MH0nuZuotJKsQOkv2SeqqAcHIo8fQ5utwbtIDipce7EsijpH_ci8ntbJusWowyk-Sq85ipjD9ORHL16y440FJ0kQj53w=w506-h284) 
+# ![logo](http://lh3.googleusercontent.com/lZAGpiQFk5q9_k9hqWFvf_Wh4SlEEEUTlWTe3xDur1c16JzvYirWEYDFARIbVNnIyCo=w300) # MA-XML-7.0-SPANISH
 
-# MA-XML-7.0-SPANISH
 SPANISH MIUI TRANSLATION FOR XIAOMI.EU MULTILANGUAJE ROMS
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
 
