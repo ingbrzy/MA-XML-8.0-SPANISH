@@ -1,5 +1,4 @@
-# ![logo](https://1.bp.blogspot.com/-vdm0WH71_MM/V1AygUG-YnI/AAAAAAAAB9o/-r4ePwXy4Us7yiKQyFDkI5VTEVqrLOQGgCLcB/s640/MIUI%2B8.png) 
-MIUI V8 Soon!
+# ![logo](https://lh3.googleusercontent.com/proxy/cMgiArTg8ZL3cI7MH0nuZuotJKsQOkv2SeqqAcHIo8fQ5utwbtIDipce7EsijpH_ci8ntbJusWowyk-Sq85ipjD9ORHL16y440FJ0kQj53w=w506-h284) 
 
 # MA-XML-7.0-SPANISH
 SPANISH MIUI TRANSLATION FOR XIAOMI.EU MULTILANGUAJE ROMS
