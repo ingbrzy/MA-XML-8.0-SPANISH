@@ -14,4 +14,4 @@ Latest XML changes from originals values to translate  |
 
 https://github.com/Acid-miuipolskapl/v6-XML-Compare/commits/master
 
-# If you want to help in translations, please contact @Jamflux or @inbrzy for further details.
+# If you want to help in translations, please contact @Jamflux or @ingbrzy for further details.
