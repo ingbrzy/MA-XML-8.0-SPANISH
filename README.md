@@ -1,4 +1,4 @@
-# ![logo](http://en.miui.com/static/index7/images/miui7/overview_0.png) MIUI V7 Spanish Translation
+# ![logo](https://1.bp.blogspot.com/-vdm0WH71_MM/V1AygUG-YnI/AAAAAAAAB9o/-r4ePwXy4Us7yiKQyFDkI5VTEVqrLOQGgCLcB/s640/MIUI%2B8.png) MIUI V8 Spanish Translation Soon
 # MA-XML-7.0-SPANISH
 SPANISH MIUI TRANSLATION FOR XIAOMI.EU MULTILANG
 
