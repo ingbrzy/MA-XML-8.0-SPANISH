@@ -1,4 +1,4 @@
-# ![logo](http://s33.postimg.org/eafvqkra7/xiaomi_eu_spanish1.png) 
+# ![logo](http://s33.postimg.org/gw0hcsa73/xiaomies_es1.png) 
 
 # MA-XML-7.0-SPANISH
 
