@@ -20,6 +20,7 @@
   <string name="delete">Eliminar</string>
   <string name="delete_dialog_message">¿Borrar la grabación?</string>
   <string name="deleting_message">Eliminando…</string>
+  <string name="details">Detalles</string>
   <string name="dialog_content_storage_full">"Grabación detenida porque no hay suficiente espacio en la memoria interna del dispositivo."</string>
   <string name="dialog_title_storage_full">No hay espacio suficiente</string>
   <string name="duration_format_hour">%sh</string>
@@ -79,6 +80,9 @@
   <string name="record_picker_title">Elija una grabación</string>
   <string name="record_quliaty_preference_title">Calidad de grabación</string>
   <string name="recording">Grabando</string>
+  string name="recording_quality_high">Alta calidad</string>
+  <string name="recording_quality_low">Baja calidad</string>
+  <string name="recording_quality_standard">Calidad estandar</string>
   <string name="recording_stopped">Grabación detenida</string>
   <string name="rename">Renombrar</string>
   <string name="rename_dialog_title">Renombrar grabación</string>
@@ -93,6 +97,15 @@
   <string name="sync_only_in_wifi">Usar sólo Wi-Fi para sincronizar</string>
   <string name="sync_only_in_wifi_summary">La grabadora no usará datos móviles para descargar y subir grabaciones si esta opción está activada</string>
   <string name="sync_records">Sincronizar con Mi Cloud</string>
+  <string name="text_btn_complete">Completo</string>
+  <string name="text_btn_list">Lista</string>
+  <string name="text_btn_mark">Marca</string>
+  <string name="text_btn_pause">Pausa</string>
+  <string name="text_btn_play">Reproducción</string>
+  <string name="text_btn_recognize">Reconocimiento</string>
+  <string name="text_btn_recording">Grabación</string>
+  <string name="text_btn_wave">Wave</string>
+  <string name="text_finish">Confirmar</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Este archivo se está descargando</string>
   <string name="toast_max_record_time">%1$s puede grabar durante %2$s aprox.</string>
