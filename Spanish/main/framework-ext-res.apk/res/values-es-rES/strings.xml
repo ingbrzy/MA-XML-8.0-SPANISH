@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_frequent_phrases">Añadir frases frecuentes</string>
+    <string name="security_permission_denied_text">Acceso denegado</string>
+    <string name="security_permission_failed_text">Error interno, vuelva a intentar más tarde</string>
+    <string name="security_permission_validate_warning">¡Gracias por ayudarnos a hacer MIUI mejor!</string>
+    <string name="security_permission_wifi_and_data_opened_text">WLAN y datos móviles encendidos</string>
+    <string name="security_permission_xiaomi_account_missed_text">Ingresa tu ID de la Cuenta Mi</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_auto_brightness">Brillo</string>
     <string name="status_bar_toggle_data">Datos</string>
@@ -71,8 +76,12 @@
     <string name="sim_added_reboot_confirm">Reinicializar</string>
     <string name="softap_notifif_title">Punto de acceso \" %s \" está activo</string>
     <string name="softap_notifif_summary">%d conectado</string>
+    <string name="translation_query_error">No se encontraron resultados</string>
+     <string name="translation_query_error_network">No se pudo conectar a la red. Compruebe la configuración y vuelva a intentarlo</string>
     <string name="turn_off">Desactivar</string>
     <string name="unknown_caller">Número desconocido</string>
+    <string name="user_switching_dialog_text">Cambiando…</string>
+     <string name="xspace_resolver_activity_title">Seleccionar aplicación</string>
     <string name="handy_mode_title">Modo reducido</string>
     <string name="handy_mode_summary">Para cerrar, toca el área oscurecida</string>
     <string name="handy_mode_enter_dlg_title">Introducir modo de una sola mano</string>
