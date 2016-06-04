@@ -1115,6 +1115,11 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
     <string name="usb_tethering_unavailable_subtext">USB no conectado</string>
     <string name="usb_tethering_turnon_subtext">Conéctate para activar.</string>
     <string name="usb_tethering_errored_subtext">Error de anclaje a red USB</string>
+    <string name="usb_use">Usar USB para</string>
+    <string name="usb_use_MIDI">MIDI</string>
+    <string name="usb_use_charging_only">Solo carga</string>
+    <string name="usb_use_file_transfers">Transferir archivos (MTP)</string>
+    <string name="usb_use_photo_transfers">Transferir Fotos (PTP)</string>
     <string name="bluetooth_tether_checkbox_text">Anclaje a red Bluetooth</string>
     <string name="bluetooth_tethering_available_subtext">Compartiendo conexión a Internet de dispositivo</string>
     <string name="bluetooth_tethering_device_connected_subtext">Conexión a Internet del dispositivo compartida con 1 disp.</string>
