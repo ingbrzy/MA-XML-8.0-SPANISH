@@ -22,6 +22,7 @@
   <string name="change_wallpaper">Fondo de pantalla</string>
   <string name="choose_new_themes">Temas</string>
   <string name="close">Cerrar</string>
+  <string name="component_backup_preference_title">Copia de seguridad de los temas</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">AVANZADO</string>
   <string name="deleting">Borrando…</string>
@@ -95,6 +96,7 @@
   <string name="payment_info">Créditos Mi</string>
   <string name="present_local_themes">Descargados</string>
   <string name="present_online_themes">En línea</string>
+  <string name="provision_default_theme_title">Por Defecto</string>
   <string name="purchased_list">Comprados</string>
   <string name="purchased_list_format">%1$s comprados</string>
   <string name="resource_account_abnormal_state">Error en la cuenta. Espere uno o dos minutos y vuelva a intentarlo.</string>
@@ -283,6 +285,10 @@
   <string name="selected_resource_file_invalid">"No se puede utilizar el archivo de recurso seleccionado"</string>
   <string name="settings">Ajustes</string>
   <string name="short_ringtone_resource">Corto</string>
+  <string name="title_my_audio_resource">Mis tonos de llamada</string>
+  <string name="title_my_wallpaper_resource">Mis fondos de pantalla</string>
+  <string name="title_system_audio_resource">Tonos de llamada del sistema</string>
+  <string name="title_system_wallpaper_resource">Fondos de pantalla del sistema</string>
   <string name="theme_apply_failured">No se puede aplicar el fondo de la pantalla de bloqueo</string>
   <string name="theme_apply_success">Pantalla de bloqueo aplicada</string>
   <string name="theme_applying">Aplicando…</string>
