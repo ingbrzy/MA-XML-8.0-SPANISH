@@ -157,7 +157,7 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
      <string name="beforeOneMonthDurationPast">Anterior a 1 mes atrás</string>
      <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
      <string name="bugreport_message">Se recopilará información sobre el estado actual de tu dispositivo, que se enviará por correo. Pasarán unos minutos desde que se inicie el informe de errores hasta que se envíe, por lo que te recomendamos que tengas paciencia.</string>
-     <string name="bugreport_status">%s (%s)</string>
+     <string name="bugreport_status" formatted="false">%s (%s)</string>
      <string name="bugreport_title">Iniciar informe de errores</string>
      <string name="byteShort">B</string>
      <string name="cancel">Cancelar</string>
@@ -232,9 +232,6 @@ con %s"</string>
      <string name="day">día</string>
      <string name="day_picker_description">Cuadrícula mensual de días</string>
      <string name="days">días</string>
-     <string name="db_default_journal_mode">PERSISTIR</string>
-     <string name="db_default_sync_mode">COMPLETO</string>
-     <string name="db_wal_sync_mode">COMPLETO</string>
      <string name="decline">Rechazar</string>
      <string name="defaultVoiceMailAlphaTag">Correo de voz</string>
      <string name="default_audio_route_category_name">Sistema</string>
@@ -305,7 +302,7 @@ con %s"</string>
      <string name="expires_on">Expira el:</string>
      <string name="ext_media_badremoval_notification_message">Desactivar el almacenamiento USB antes de extraerlo para evitar la pérdida de datos.</string>
      <string name="ext_media_badremoval_notification_title">Almacenamiento USB extraído inesperadamente</string>
-     <string name="ext_media_browse_action">Explore</string>
+     <string name="ext_media_browse_action">Explorar</string>
      <string name="ext_media_checking_notification_message">Verificando errores</string>
      <string name="ext_media_checking_notification_title">Preparando almacenamiento USB</string>
      <string name="ext_media_init_action">Preparación</string>
@@ -525,10 +522,10 @@ con %s"</string>
      <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto</string>
      <string name="kg_emergency_call_label">Realizar llamada de emergencia</string>
      <string name="kg_enter_confirm_pin_hint">Confirmar código PIN deseado</string>
-     <string name="kg_failed_attempts_almost_at_login">"Dibujaste incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos más, se te solicitará que desbloquees tu dispositivo mediante el uso de una cuenta de correo.
+     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Dibujaste incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos más, se te solicitará que desbloquees tu dispositivo mediante el uso de una cuenta de correo.
 
  Vuelve a intentarlo en %d segundos."</string>
-     <string name="kg_failed_attempts_almost_at_wipe">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Puedes intentarlo %d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos del usuario.</string>
+     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Puedes intentarlo %d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos del usuario.</string>
      <string name="kg_failed_attempts_now_wiping">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Se restablecerán los valores predeterminados de fábrica del dispositivo.</string>
      <string name="kg_forgot_pattern_button_text">¿Olvidaste el patrón?</string>
      <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden.</string>
@@ -555,13 +552,13 @@ Accede a "<b>google.com/accounts/recovery</b>.</string>
      <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
      <string name="kg_text_message_separator">" — "</string>
      <string name="kg_too_many_failed_attempts_countdown">Vuelve a intentarlo en %1$d segundos.</string>
-     <string name="kg_too_many_failed_password_attempts_dialog_message">"Escribiste incorrectamente tu contraseña %d veces. 
+     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Escribiste incorrectamente tu contraseña %d veces. 
 
 Vuelve a intentarlo en %d segundos."</string>
-     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Dibujaste incorrectamente tu patrón de desbloqueo %d veces. 
+     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Dibujaste incorrectamente tu patrón de desbloqueo %d veces. 
 
 Vuelve a intentarlo en %d segundos."</string>
-     <string name="kg_too_many_failed_pin_attempts_dialog_message">"Escribiste incorrectamente tu PIN %d veces. 
+     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Escribiste incorrectamente tu PIN %d veces. 
 
 Vuelve a intentarlo en %d segundos."</string>
      <string name="kg_wrong_password">Contraseña incorrecta</string>
@@ -600,8 +597,8 @@ Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendid
      <string name="lockscreen_access_pattern_start">Se inició el patrón</string>
      <string name="lockscreen_carrier_default">Sin servicio</string>
      <string name="lockscreen_emergency_call">Realizar llamada de emergencia</string>
-     <string name="lockscreen_failed_attempts_almost_at_wipe">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Puedes intentarlo %d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos de usuario.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin">"Has establecido incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos, se te solicitará que desbloquees tu dispositivo mediante el uso de tu información de acceso de Google.
+     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Puedes intentarlo %d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos de usuario.</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has establecido incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos, se te solicitará que desbloquees tu dispositivo mediante el uso de tu información de acceso de Google.
 
  Vuelve a intentarlo en %d segundos."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Se restablecerán los valores predeterminados de fábrica del dispositivo.</string>
@@ -639,13 +636,13 @@ Accede a "<b>google.com/accounts/recovery</b>.</string>
      <string name="lockscreen_sound_off_label">Sonido desactivado</string>
      <string name="lockscreen_sound_on_label">Sonido activado</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Vuelve a intentarlo en %d segundos.</string>
-     <string name="lockscreen_too_many_failed_attempts_dialog_message">"Estableciste incorrectamente tu patrón de desbloqueo %d veces. 
+     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Estableciste incorrectamente tu patrón de desbloqueo %d veces. 
 
 Vuelve a intentarlo en %d segundos."</string>
-     <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Escribiste incorrectamente tu contraseña %d veces. 
+     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Escribiste incorrectamente tu contraseña %d veces. 
 
 Vuelve a intentarlo en %d segundos."</string>
-     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Escribiste incorrectamente tu PIN %d veces. 
+     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Escribiste incorrectamente tu PIN %d veces. 
 
 Vuelve a intentarlo en %d segundos."</string>
      <string name="lockscreen_transport_ffw_description">Avanzar</string>
@@ -802,7 +799,6 @@ Vuelve a intentarlo en %d segundos."</string>
      <string name="number_picker_increment_button">Aumentar</string>
      <string name="number_picker_increment_scroll_action">Desliza el dedo hacia arriba para aumentar los valores y hacia abajo para reducirlos.</string>
      <string name="number_picker_increment_scroll_mode">Mantén presionado %s.</string>
-     <string name="numeric_date_template">%s/%s/%s</string>
      <string name="ok">Aceptar</string>
      <string name="old_app_action">Regresar a %1$s</string>
      <string name="old_app_description">No iniciar la nueva aplicación.</string>
