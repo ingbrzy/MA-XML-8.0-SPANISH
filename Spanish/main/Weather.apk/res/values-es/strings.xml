@@ -23,9 +23,12 @@
   <string name="add_city">Añadir</string>
   <string name="app_label">Proveedor del tiempo</string>
   <string name="app_name">Tiempo</string>
+  <string name="aqi_data_source">Información del tiempo por Caiyun</string>
   <string name="aqi_desc">Indicador de calidad del aíre</string>
   <string name="aqi_detail_24_hours">Pronóstico por hora</string>
   <string name="aqi_detail_5_days">Pronóstico diario</string>
+  <string name="aqi_publish_source">Actualizada a las %1$s por CNEMC</string>
+  <string name="aqi_publish_time">Actualizada %1$s</string>
   <string name="aqi_quality_index_break">ICA %1$s</string>
   <string name="aqi_quality_index_break_short_desc">%1$s</string>
   <string name="aqi_quality_index_dangerous">ICA %1$s</string>
@@ -42,6 +45,8 @@
   <string name="aqi_quality_index_pure_short_desc">%1$s</string>
   <string name="aqi_quality_index_unhealthy">ICA %1$s</string>
   <string name="aqi_quality_index_unhealthy_short_desc">%1$s</string>
+  <string name="aqi_short_desc">ICA %1$s</string>
+  <string name="aqi_sub_desc">ICA</string>
   <string name="aqi_top_pollution">Max Contaminación</string>
   <string name="button_abandon">Anular cambios</string>
   <string name="button_add_city">Añadir ciudad</string>
@@ -55,6 +60,7 @@
   <string name="daily_forcast_no_stable_direction">Sin viento</string>
   <string name="daily_forcast_no_wind">Sin viento</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+  <string name="daily_forcast_whirl_wind">Torbellino</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s más tarde.</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
   <string name="data_source_timezone">GMT%1$s</string>
@@ -65,6 +71,7 @@
   <string name="gps_hint">Ubicación actual</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Ahora</string>
+  <string name="hourly_forecast_title">Pronóstico por hora</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Sensación %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
