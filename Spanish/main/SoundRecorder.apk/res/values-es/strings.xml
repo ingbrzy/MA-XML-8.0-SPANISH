@@ -36,6 +36,7 @@
   <string name="fm_record">Grabaciones de radio (%d)</string>
   <string name="loading_recording">Cargando</string>
   <string name="low_battery_error">Queda menos del 5% de batería. Para impedir que se pierda su grabación, se ha pausado y guardado.</string>
+  <string name="mark_point_list_title">Lista de puntos marcados</string>
   <string name="message_file_size_error">La grabación ha alcanzado la longitud máxima soportada por %s</string>
   <string name="no_downloading_file">No se está descargando ningún archivo.</string>
   <string name="no_file">No hay grabaciones</string>
@@ -47,6 +48,8 @@
   <string name="notification_title_all_paused">Descarga pausada</string>
   <string name="notification_warning">Queda poco almacenamiento libre (menos de %d minutos)</string>
   <string name="pause">Pausar</string>
+  <string name="playback_delete_records">Eliminar la grabación</string>
+  <string name="playback_share_records">Compartir la grabación</string>
   <string name="preference_enable_earpiece_summary">Usar los auriculares para reproducción externa</string>
   <string name="preference_enable_earpiece_title">Usar auriculares para reproducir audio</string>
   <string name="preference_led_indicator">Notificación en pantalla de bloqueo</string>
@@ -89,6 +92,7 @@
   <string name="rename_duplicate">Ya existe una grabación con ese nombre.</string>
   <string name="rename_no_more_tip">No volver a mostrar</string>
   <string name="retry">Reintentar</string>
+  <string name="share">Compartir</string>
   <string name="sound_recorder_settings">Ajustes</string>
   <string name="start">Reanudar</string>
   <string name="status_bar_back">Toque para volver a Grabadora</string>
