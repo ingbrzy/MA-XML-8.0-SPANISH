@@ -18,7 +18,7 @@
     <string name="feedback_description_save_photo">"No se pudo guardar la foto o el vídeo"</string>
     <string name="no_storage">"Instala la tarjeta SD antes de usar la cámara"</string>
     <string name="no_network">"No se pudo conectar a la red"</string>
-    <string name="preparing_sd">"Preparando la tarjeta SD ..."</string>
+    <string name="preparing_sd">"Preparando la tarjeta SD …"</string>
     <string name="spaceIsLow_content">"No hay suficiente espacio en la tarjeta SD. Libera algo de espacio."</string>
     <string name="module_title_code">"Código QR"</string>
     <string name="module_title_shopping">"Compras"</string>
@@ -52,7 +52,6 @@
     <string name="language_value_russian">"ruso"</string>
     <string name="language_value_spanish">"español"</string>
     <string name="language_value_swedish">"sueco"</string>
-
     <string name="language_entry_chinese_cn">"Chino Simplificado"</string>
     <string name="language_entry_chinese_tw">"Chino Tradicional"</string>
     <string name="language_entry_danish">"Danés"</string>
@@ -120,7 +119,7 @@
     <string name="payment_weixin">"WeChat"</string>
     <string name="payment_zhifubao">"AliPay"</string>
     <string name="shopping_title">"Tomar una foto del producto"</string>
-    <string name="shopping_searching">"Buscando productos ..."</string>
+    <string name="shopping_searching">"Buscando productos …"</string>
     <string name="shopping_vendor_info">"Soporte técnico de Taobao"</string>
     <string name="translation_type_word">"Palabra"</string>
     <string name="translation_type_sentence">"Frase"</string>
@@ -145,7 +144,7 @@
     <string name="crop_done_description">"Listo"</string>
     <string name="crop_title_translation">"Seleccionar el texto a traducir"</string>
     <string name="translation_prompt_translating_sentence">"Traduciendo…"</string>
-    <string name="translation_prompt_translating_word">"Reconociendo ..."</string>
+    <string name="translation_prompt_translating_word">"Reconociendo …"</string>
     <string name="study_title">"Toma una foto del problema"</string>
     <string name="crop_title_study">"Recortar la foto"</string>
     <string name="action_search">"Buscar"</string>
@@ -164,7 +163,7 @@
     <string name="view_study_report">"Ver reporte"</string>
     <string name="namecard_title">"Coloque la tarjeta en el interior del marco"</string>
     <string name="namecard_recognize_failed_tip">"No se ha podido reconocer la tarjeta"</string>
-    <string name="namecard_recognizing">"Reconociendo..."</string>
+    <string name="namecard_recognizing">"Reconociendo…"</string>
     <string name="namecard_vendor_info">"Soporte técnico por CamCard"</string>
     <string name="document_title">"Toma una foto del documento"</string>
     <string name="document_crop_title">"Recortar el documento"</string>
@@ -177,10 +176,10 @@
     <string name="document_grayscale">"Escala de grises"</string>
     <string name="document_color_picture">"Color"</string>
     <string name="document_ocr_vendor_info">"Soporte OCR gracias a Kingsoft"</string>
-    <string name="document_ocr_tip_msg">"Reconociendo..."</string>
-    <string name="document_rectify_tip_msg">"Ajustando..."</string>
-    <string name="document_grayscale_tip_msg">"Convirtiendo a escala de grises..."</string>
-    <string name="document_color_picture_tip">"Convertir a color..."</string>
+    <string name="document_ocr_tip_msg">"Reconociendo…"</string>
+    <string name="document_rectify_tip_msg">"Ajustando…"</string>
+    <string name="document_grayscale_tip_msg">"Convirtiendo a escala de grises…"</string>
+    <string name="document_color_picture_tip">"Convertir a color…"</string>
     <string name="document_save_succeed_tip">"Documento guardado en %1$s"</string>
-    <string name="document_recognize_fail_tip">"No se pudo reconocer documento"</string>
+    <string name="document_recognize_fail_tip">"No se pudo reconocer el documento"</string>
 </resources>
