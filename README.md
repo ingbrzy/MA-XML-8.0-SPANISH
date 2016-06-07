@@ -15,6 +15,7 @@ Latest XML changes from originals values to translate  |
 https://github.com/Acid-miuipolskapl/v6-XML-Compare/commits/master
 
 What´s new in our repositorie?  | Últimas actualizaciones al repositorio en Español:
+
 https://github.com/ingbrzy/MA-XML-8.0-SPANISH/commits/master
 
 Special thanks to the active translators volunteers:
