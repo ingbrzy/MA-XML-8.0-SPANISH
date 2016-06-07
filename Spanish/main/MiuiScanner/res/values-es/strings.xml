@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">"Escáner"</string>
     <string name="impunity_declaration_title">"Términos de Servicio"</string>
@@ -51,6 +52,7 @@
     <string name="language_value_russian">"ruso"</string>
     <string name="language_value_spanish">"español"</string>
     <string name="language_value_swedish">"sueco"</string>
+
     <string name="language_entry_chinese_cn">"Chino Simplificado"</string>
     <string name="language_entry_chinese_tw">"Chino Tradicional"</string>
     <string name="language_entry_danish">"Danés"</string>
@@ -180,5 +182,5 @@
     <string name="document_grayscale_tip_msg">"Convirtiendo a escala de grises..."</string>
     <string name="document_color_picture_tip">"Convertir a color..."</string>
     <string name="document_save_succeed_tip">"Documento guardado en %1$s"</string>
-    <string name="document_recognize_fail_tip">"No se pudo reconocer el documento"</string>
+    <string name="document_recognize_fail_tip">"No se pudo reconocer documento"</string>
 </resources>
