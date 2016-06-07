@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Galería pantalla bloqueo</string>
+  <string name="app_name">Galería de pantalla bloqueo</string>
   <string name="at_least_one">Selecciona al menos una categoría</string>
-  <string name="auto_interval">Auto</string>
   <string name="cancel">Salir</string>
   <string name="cancel_international">Cancelar</string>
   <string name="change_time">Cambiar intervalo</string>
@@ -25,7 +24,7 @@
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">No se puede conectar a la red.</string>
   <string name="setting_head">Ajustes</string>
-  <string name="sst_favor_desc">View favorite wallpapers</string>
+  <string name="sst_favor_desc">Ver fondos de pantalla favoritos</string>
   <string name="sst_favor_title">Favoritos</string>
   <string name="sst_grid_view_select_all">Seleccionar todo</string>
   <string name="sst_grid_view_unselect_all">Deseleccionar todo</string>
@@ -38,8 +37,8 @@
   <string name="sst_subscribe_title">Mis categorías</string>
   <string name="sst_wifi_only_desc">Desactive esta función para evitar gastar datos móviles</string>
   <string name="sst_wifi_only_title">Actualizar imágenes de fondo usando datos móviles</string>
-  <string name="summary">"Acepta nuestro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacidad&lt;/a&gt; para comenzar. Es necesaria una conexión a internet.​"</string>
-  <string name="summary_international">Mediante el uso de este producto, usted está de acuerdo con nuestros &lt;a href =&apos;http://www.miui.com/res/doc/eula.html?lang=en_US&apos;&gt;User Agreement&lt;/a&gt; and &lt;a href=&apos;http://www.miui.com/res/doc/privacy/en.html&apos;&gt;Privacy Policy&lt;/a&gt;. Esta aplicación necesita conectarse a Internet para funcionar normalmente.​</string>
+  <string name="summary">"Acepta nuestro <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acuerdo de Usuario</a> y <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidad</a>. Es necesaria una conexión a internet."</string>
+  <string name="summary_international"> Mediante el uso de este producto, usted está de acuerdo con nuestro <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acuerdo de Usuario</a> y la <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidad</a>. Esta aplicación necesita conectarse a Internet para funcionar con normalidad.</string>
   <string name="theme_apply_failured">No se puede aplicar la pantalla de bloqueo</string>
   <string name="theme_apply_success">Pantalla de bloqueo aplicada</string>
   <string name="theme_applying">Aplicando…</string>
