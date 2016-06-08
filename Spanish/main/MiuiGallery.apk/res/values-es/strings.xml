@@ -1086,12 +1086,13 @@
      <string name="operation_add_secret">Añadir a álbum oculto</string>
      <string name="operation_add_secret_button">Ocultar</string>
      <string name="operation_delete">Borrar</string>
-     <string name="operation_delete_confirm_message_folder">"Se eliminará todo el contenido de la carpeta. "</string>
+     <string name="operation_delete_confirm_message_folder">"Se eliminará todo el contenido de la carpeta."</string>
      <string name="operation_detail">Detalles</string>
      <string name="operation_disable_auto_upload">Desactivar la restauración automática</string>
      <string name="operation_download">Descargar foto (%s)</string>
      <string name="operation_edit">Editar</string>
      <string name="operation_enable_auto_upload">Encender restauración automática</string>
+     <string name="operation_enter_delete_local">Eliminar la copia de seguridad de fotos y vídeos del dispositivo</string>
      <string name="operation_failed">La operación falló</string>
      <string name="operation_force_top">Anclar arriba</string>
      <string name="operation_give_name">Nombre</string>
@@ -1405,6 +1406,7 @@
      <string name="tip_file_info">Información del archivo:</string>
      <string name="tip_file_path">Ruta del archivo:</string>
      <string name="tip_not_download">No descargado. Se descargará automáticamente al reproducir.</string>
+     <string name="tip_screenshot_package_info">Nombre de la aplicación:</string>
      <string name="title">Nombre de archivo</string>
      <string name="title_set_name">Establecer nombre</string>
      <string name="title_warn">Aviso</string>
