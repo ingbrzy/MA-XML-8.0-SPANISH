@@ -6,6 +6,7 @@
   <string name="announcement">Atención</string>
   <string name="app_empty">"No has descargado ninguna aplicación"</string>
   <string name="app_label">Reportar error</string>
+  <string name="app_name"><Método de control de sistemas/string>
   <string name="btn_send">Enviar</string>
   <string name="bugreport_dump_complete_notification_summary">Toque para visualizar.</string>
   <string name="bugreport_dump_complete_notification_title">Informe de error creado</string>
@@ -42,10 +43,19 @@
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Familia Mi</string>
   <string name="err_type_xiaomi_service">Servicio al cliente</string>
+  <string name="feedback_description">Descripción</string>
+  <string name="feedback_description_bugreport_hint">En algunos casos () mi telefono tiene fallos ().</string>
+  <string name="feedback_description_label">Descripción</string>
+  <string name="feedback_select_images">Añadir imágenes</string>
+  <string name="feedback_select_upload_log">Añadir registros</string>
+  <string name="feedback_title">Título</string>
+  <string name="feedback_title_hint">Describe el problema brevemente</string>
   <string name="hot_problem">Ver errores comunes</string>
   <string name="loading_apps">Cargando lista…</string>
   <string name="logo_title">Centro de reporte de errores</string>
+  <string name="max_error">Su descripción debe ser más corta.</string>
   <string name="menu_copy">Copiar</string>
+  <string name="min_error">El título debe ser más largo.</string>
   <string name="modem_tool_log">Recuperar registros del módem</string>
   <string name="modem_tool_log_start">Empezar</string>
   <string name="modem_tool_log_start_toast">"Empezar a volcar los registros del módem a %s"</string>
@@ -88,4 +98,5 @@
   <string name="toast_report_copied_to_clipboard">Informe copiado en el portapapeles</string>
   <string name="toast_report_sent_failed">"No se puede enviar el informe"</string>
   <string name="toast_report_sent_succeed">Se ha enviado el informe</string>
+  <string name="toast_title_required">Describe tu problema</string>
 </resources>
