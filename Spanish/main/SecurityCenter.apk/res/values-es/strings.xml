@@ -389,7 +389,7 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
      <string name="force_stop_dlg_title">Restringir datos en segundo plano</string>
      <string name="foreground_traffic">Primer plano %s</string>
      <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
-     <string name="forget_pattern"><u>¿Olvidé la contraseña?</u></string>
+     <string name="forget_pattern"><u>¿Contraseña olvidada?</u></string>
      <string name="free_time_traffic">Límite de datos fuera de hora punta</string>
      <string name="free_time_traffic_hint">Ingrese el límite de datos fuera de pico</string>
      <string name="free_time_traffic_settings">Límite de datos fuera de pico</string>
@@ -1355,7 +1355,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
      <string name="timeshow_s">%ds</string>
      <string name="tips_dialog_title">¿No conoce su límite?</string>
      <string name="tips_message">Para ver los detalles de su plan de datos, marque %2$s (%1$s).</string>
-     <string name="title_app_lock_disable">Bloquear apps</string>
+     <string name="title_app_lock_disable">Bloquear aplicaciones</string>
      <string name="title_app_update">Actualizaciones disponibles</string>
      <string name="title_cleaner_cloudscan">Subir nombres de carpetas</string>
      <string name="title_cloud_account">Cuenta Mi</string>
@@ -1499,7 +1499,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
      <string name="traffic_saving_whitelist_btn_added">Añadido</string>
      <string name="traffic_saving_whitelist_btn_remove">Eliminar</string>
      <string name="traffic_saving_whitelist_btn_removed">Aplicación eliminada de la lista</string>
-     <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'>%1$d&lt;/font> usode datos de las aplicaciones no está restringido"</string>
+     <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; el uso de datos de las aplicaciones no ha sido restringido"</string>
      <string name="traffic_saving_whitelist_no_app">Sin aplicaciones</string>
      <string name="traffic_saving_wifi_usage">Economizador de Wi-Fi</string>
      <string name="traffic_setting_app_count">%d aplicación(es)</string>
@@ -1565,7 +1565,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
      <string name="wifi_network_blocked_notification_title">Sin conexión a internet</string>
      <string name="xiaomi_traffic_pass_btn_purchase">Comprar más</string>
      <string name="xiaomi_traffic_pass_dialog_warning_title">Mi plan de notificación de datos</string>
-     <string name="xiaomi_traffic_pass_exhausted">No hay datos móviles disponibles en su plan de datos. Cambiar con su operadora móvil su plan de datos.</string>
+     <string name="xiaomi_traffic_pass_exhausted">No hay datos móviles disponibles en su plan. Cambiar con su operadora móvil su plan de datos.</string>
      <string name="xiaomi_traffic_pass_expiry_date">activo hasta %s</string>
      <string name="xiaomi_traffic_pass_in_use">Utilizando</string>
      <string name="xiaomi_traffic_pass_not_current_simcard">Cambiar las tarjetas de datos móviles para usar mi plan de datos. cambiar ahora?</string>
