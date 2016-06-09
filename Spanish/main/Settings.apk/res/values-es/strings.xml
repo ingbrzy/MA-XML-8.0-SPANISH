@@ -2493,8 +2493,8 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="app_notifications_dialog_done">Listo</string>
     <string name="app_overlay_permission_preference">Permitir a una aplicación estar por encima de otras</string>
     <string name="app_permissions">Permisos de las aplicaciones</string>
-    <string name="app_permissions_group_summary">%d de %d aplicaciones permitidas</string>
-    <string name="app_permissions_summary">%d de %d aplicaciones que se permite un acceso adicional</string>
+    <string name="app_permissions_group_summary" formatted="false">%d de %d aplicaciones permitidas</string>
+    <string name="app_permissions_summary" formatted="false">%d de %d aplicaciones que se les permite un acceso adicional</string>
     <string name="zen_mode_default_option">Hasta que lo desactives</string>
     <string name="zen_mode_important_category">Ajustes</string>
     <string name="zen_mode_downtime_category">Tiempo inact. (solo interrup. prioridad)</string>
