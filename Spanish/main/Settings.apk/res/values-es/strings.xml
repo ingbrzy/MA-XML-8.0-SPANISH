@@ -800,6 +800,7 @@ de Wi‑Fi"</string>
     <string name="wifi_hotspot_configure_ap_text_summary">Zona Wi-Fi portátil AndroidAP WPA2 PSK</string>
     <string name="wifi_tether_configure_subtext">%1$s%2$s zona Wi-Fi portable.</string>
     <string name="wifi_tether_configure_ssid_default">Android Hotspot</string>
+    <string name="wifi_tether_settings_title">Punto de acceso personal</string>
     <string name="home_settings">Página principal</string>
     <string name="display_settings_title">Pantalla</string>
     <string name="sound_settings">Sonido</string>
@@ -1926,6 +1927,8 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
     <string name="adding_profile_owner_warning">"Al continuar, el usuario será administrado por el administrador, que también podría almacenar datos asociados, además de los datos personales.
 
 El administrador puede supervisar y administrar la configuración, el acceso, las aplicaciones y los datos asociados con este usuario, incluida la información acerca de la actividad de la red y la ubicación del dispositivo."</string>
+    <string name="additional_permissions">Permisos adicionales</string>
+    <string name="additional_permissions_more">%1$d más</string>
     <string name="untitled_apn">Sin título</string>
     <string name="sound_category_sound_title">General</string>
     <string name="notification_log_title">Registro de notificaciones</string>
@@ -2488,6 +2491,10 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="app_notification_row_priority">Prioridad</string>
     <string name="app_notification_row_sensitive">Personal</string>
     <string name="app_notifications_dialog_done">Listo</string>
+    <string name="app_overlay_permission_preference">App draw on top permission</string>
+    <string name="app_permissions">Permisos de las aplicaciones</string>
+    <string name="app_permissions_group_summary">%d de %d aplicaciones permitidas</string>
+    <string name="app_permissions_summary">%d de %d aplicaciones que se permite un acceso adicional</string>
     <string name="zen_mode_default_option">Hasta que lo desactives</string>
     <string name="zen_mode_important_category">Ajustes</string>
     <string name="zen_mode_downtime_category">Tiempo inact. (solo interrup. prioridad)</string>
@@ -3085,6 +3092,7 @@ Seleccione su sistema operativo:"</string>
     <string name="application_item_disable">Denegar</string>
     <string name="application_item_permission">Permitir</string>
     <string name="application_item_already_permission">Permitido</string>
+    <string name="application_lock_name">Bloqueo de aplicaciones</string>
     <string name="application_forbid_auto_startup">Evitar que %s se inicie en segundo plano</string>
     <string name="floating_window_switch_label">Activar ventanas flotantes</string>
     <string name="floating_window_switch_label_disable">Desactivar ventanas flotantes</string>
@@ -3125,6 +3133,9 @@ Seleccione su sistema operativo:"</string>
     <string name="wifi_auto_connect">Conectar automáticamente</string>
     <string name="select_ssid_type_title">Seleccionar SSID</string>
     <string name="gsm_to_wifi_connect_type_title">De GSM a Wi-Fi</string>
+    <string name="wifi_ap_band_config">Seleccione Punto de Acceso</string>
+    <string name="wifi_ap_choose_2G">2.4 GHz Banda</string>
+    <string name="wifi_ap_choose_5G">5 GHz Banda</string>
     <string name="wifi_priority_settings_label">Ajustes de prioridad</string>
     <string name="wifi_dialog_remind_type_title">Red de datos móviles</string>
     <string name="wifi_priority_type_title">Establecer la prioridad de los PA manualmente</string>
@@ -3249,6 +3260,7 @@ Seleccione su sistema operativo:"</string>
     <string name="restrict_background_data_notification_summary">Las aplicaciones no pueden conectarse a la red si los datos en segundo plano están restringidos</string>
     <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
     <string name="toast_need_login">Inicie sesión con su cuenta Mi</string>
+    <string name="path_wifi_display_settings">Ajustes/Más/Pantalla inalámbrica</string>
     <string name="preferred_app_settings">Valores predeterminados</string>
     <string name="preferred_app_settings_default">Valores predeterminados</string>
     <string name="preferred_app_settings_reset">Restablecer valores predeterminados</string>
@@ -3310,8 +3322,12 @@ Seleccione su sistema operativo:"</string>
     <string name="recent_location_requests_title">Acceso de ubicación</string>
     <string name="recent_location_requests_summary">Ver aplicaciones que solicitan acceder a su información de ubicación</string>
     <string name="permission_manager">Permisos</string>
+    <string name="second_space">Second space</string>
     <string name="security_keyguard_category_name">Pantalla de bloqueo</string>
     <string name="security_password_category_name">Bloqueo de pantalla</string>
+    <string name="status_bar_settings_style">Notificaciones y cambios de diseño</string>
+    <string name="status_bar_style_list">Conjunto</string>
+    <string name="status_bar_style_page">Separar</string>
     <string name="bluetooth_unlock_title">Desbloqueo por disp. bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Desactivado</string>
     <string name="bluetooth_unlock_turned_on">Encendido</string>
@@ -3625,6 +3641,14 @@ Seleccione su sistema operativo:"</string>
     <string name="zen_mode_from_sms">"Mensajes de "</string>
     <string name="dial_application_title">Marcar</string>
     <string name="key_position_cat">Posición de los botones</string>
+    <string name="keyguard_left_function_chooser_hint_text">Left shortcut changed to %s</string>
+    <string name="keyguard_left_function_chooser_title">Aplicación</string>
+    <string name="keyguard_left_function_title">Izquierda</string>
+    <string name="keyguard_right_function_chooser_hint_text">El atajo derecho cambió a %s</string>
+    <string name="keyguard_right_function_chooser_title">Aplicación</string>
+    <string name="keyguard_right_function_title">Derecha</string>
+    <string name="keyguard_shortcut_summary">Establecer un acceso directo para 2 aplicaciones en la pantalla de bloqueo</string>
+    <string name="keyguard_shortcut_title">Atajos en la pantalla de bloqueo</string>
     <string name="screen_key_position">Botones de navegación</string>
     <string name="battery_light_summary">Encender la luz de notificación mientras se carga el dispositivo</string>
     <string name="wifi_enable_data_and_wifi_roam">Activar datos y roaming WLAN</string>
