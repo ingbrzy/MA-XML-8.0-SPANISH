@@ -261,7 +261,7 @@ con %s"</string>
      <string name="downtime_condition_line_one">Hasta que finalice el tiempo de inactividad</string>
      <string name="downtime_condition_summary">Hasta que termine el tiempo de inactividad a la(s) %1$s</string>
      <string name="dump_heap_notification">%1$s Excedió el límite de memoria</string>
-     <string name="dump_heap_notification_detail">Heap dump has been collected; touch to share</string>
+     <string name="dump_heap_notification_detail">Volcado de Memoria recolectado; toque para compartir</string>
      <string name="dump_heap_text">El proceso %1$s ha excedido el límite de memoria de %2$s. Un volcado de pila está disponible para que comparta con el desarrollador. Tenga cuidado: este volcado de pila puede contener información personal a la que la aplicación tenga acceso.</string>
      <string name="dump_heap_title">¿Compartir volcado de memoria?</string>
      <string name="durationDayHour">%1$d día %2$d h</string>
@@ -1684,15 +1684,15 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
      <string name="turn_on_radio">Activar conexión inalámbrica</string>
      <string name="tutorial_double_tap_to_zoom_message_short">Toca dos veces para acceder al control de zoom.</string>
      <string name="unknownName">Desconocido</string>
-     <string name="untitled">&lt;Sin título></string>
+     <string name="untitled">&lt;Sin Título&gt;</string>
      <string name="upload_file">Elegir archivo</string>
      <string name="usb_accessory_notification_title">Conectado a un accesorio USB</string>
      <string name="usb_cd_installer_notification_title">Conectado como un instalador</string>
-     <string name="usb_charging_notification_title">USB for charging</string>
-     <string name="usb_midi_notification_title">USB for MIDI</string>
+     <string name="usb_charging_notification_title">USB para carga</string>
+     <string name="usb_midi_notification_title">USB para MIDI</string>
      <string name="usb_midi_peripheral_manufacturer_name">Android</string>
-     <string name="usb_midi_peripheral_name">Android USB Peripheral Port</string>
-     <string name="usb_midi_peripheral_product_name">USB Peripheral Port</string>
+     <string name="usb_midi_peripheral_name">Puerto Perisférico USB Android</string>
+     <string name="usb_midi_peripheral_product_name">Puerto Perisférico USB</string>
      <string name="usb_mtp_notification_title">Conectado como un dispositivo de medios</string>
      <string name="usb_notification_message">Toca para acceder a otras opciones de USB.</string>
      <string name="usb_ptp_notification_title">Conectado como una cámara</string>
@@ -1791,7 +1791,7 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
      <string name="work_profile_deleted_description_dpm_wipe">Su perfil de trabajo ya no está disponible en este dispositivo.</string>
      <string name="work_profile_deleted_details">La aplicación de administración de perfil de trabajo no se encuentra o está dañada. Por lo tanto, se eliminaron tu perfil de trabajo y los datos relacionados. Para obtener asistencia, comunícate con el administrador.</string>
      <string name="write_fail_reason_cancelled">Cancelada</string>
-     <string name="write_fail_reason_cannot_write">Error al escribir contenido</string>
+     <string name="write_fail_reason_cannot_write">Error al escribir el contenido</string>
      <string name="year">año</string>
      <string name="year_picker_description">Lista de años</string>
      <string name="years">años</string>
@@ -1800,7 +1800,7 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
      <string name="zen_mode_default_events_name">Evento</string>
      <string name="zen_mode_default_weekends_name">Fin de semana</string>
      <string name="zen_mode_default_weeknights_name">Noches del fin de semana</string>
-     <string name="zen_mode_downtime_feature_name">Downtime</string>
+     <string name="zen_mode_downtime_feature_name">Tiempo de caída</string>
      <string name="zen_mode_feature_name">No molestar</string>
      <string name="zen_mode_forever">Indefinidamente</string>
      <string name="zen_mode_forever_dnd">Hasta que se desactive la Función No Molestar</string>
