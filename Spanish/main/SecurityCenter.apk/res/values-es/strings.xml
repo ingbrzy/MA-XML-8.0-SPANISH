@@ -9,7 +9,7 @@
      <string name="Settings_title_power_center">Ajustes de la batería</string>
      <string name="ac_enable_title">Activar bloqueo de Aplicaciones</string>
      <string name="ac_enter_applock">Ingrese bloqueo de Aplicaciones</string>
-     <string name="ac_firstUseApplock_subTitle">Utilice el bloqueo de Aplicaciones para proteger su privacidad</string>
+     <string name="ac_firstUseApplock_subTitle">Proteja su privacidad con el bloqueo de Aplicaciones</string>
      <string name="ac_firstUseApplock_title">Abra aplicaciones seleccionadas mediante contraseña</string>
      <string name="ac_summaryOff">Apagado, no requiere ninguna contraseña para abrir aplicaciones</string>
      <string name="ac_summaryOn">Encendido, requiere una contraseña para abrir aplicaciones</string>
@@ -42,6 +42,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
      <string name="activity_title_root_acquired">Permitir el acceso root</string>
      <string name="activity_title_root_manager">Acceso root</string>
      <string name="activity_title_root_note">Permitir el acceso root</string>
+     <string name="activity_title_safepay">Seguridad de pagos</string>
      <string name="activity_title_settings">Ajustes</string>
      <string name="activity_title_system">Sistema</string>
      <string name="activity_title_trash">Caché</string>
@@ -73,8 +74,8 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
      <string name="antivirus_privacy_dialog_cloudscan_description">Cargar y escanear los nombres y detalles de las aplicaciones usando las definiciones de virus en línea.</string>
      <string name="antivirus_privacy_dialog_ok">Aceptar</string>
      <string name="antivirus_privacy_dialog_summary">Esta función cifra y transfiere la ID de su dispositivo a los servidores de AVL y Tencent (%s).</string>
-     <string name="antivirus_privacy_dialog_summary_link">ver la Política de privacidad</string>
-     <string name="antivirus_privacy_dialog_title">Política de privacidad</string>
+     <string name="antivirus_privacy_dialog_summary_link">ver la Política de Privacidad</string>
+     <string name="antivirus_privacy_dialog_title">Política de Privacidad</string>
      <string name="antivirus_sec_support">Provisto por %s</string>
      <string name="antivirus_update_db">%s</string>
      <string name="apn_exception_summary">Probar las configuraciones del nombre de punto de acceso del operador</string>
@@ -93,13 +94,14 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
      <string name="app_name">Bloqueo de Aplicaciones</string>
      <string name="app_name_na">Uso de datos</string>
      <string name="app_name_securitycenter">Seguridad</string>
+     <string name="app_name_select">Opciones de desbloqueo</string>
      <string name="app_not_installed_toast">Aplicación no instalada en tu dispositivo.</string>
      <string name="app_version">Versión</string>
      <string name="app_wifi">Wi-Fi</string>
      <string name="apps_item_sign_dialog_content">&quot;%s&quot;La firma es diferente de la versión en la App Store. ¿Eliminar esta aplicación e instalar la versión oficial? Nota: la instalación de una aplicación con una firma en conflicto puede conducir a la pérdida de datos de la aplicación.</string>
      <string name="apps_item_sign_dialog_title">Instalar Oficial versión de la aplicación</string>
      <string name="apps_item_sign_install_button_text">Reemplazar</string>
-     <string name="apps_item_sms_default_set_success">Establecer con éxito!</string>
+     <string name="apps_item_sms_default_set_success">¡Establecido con éxito!</string>
      <string name="apps_item_sms_reset_button_text">Restaurar los valores predeterminados</string>
      <string name="apps_item_sms_title">Configuración de mensajería por defecto</string>
      <string name="apps_item_summary_sms">%s tiene acceso a sus mensajes, puede causar problemas de seguridad</string>
@@ -470,6 +472,7 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
      <string name="item_usb_debug">Depuración USB</string>
      <string name="item_virus">Virus</string>
      <string name="item_virus_lib">Actualizar definiciones de virus automáticamente</string>
+     <string name="jump_remmend">Saltar Recomendado</string>
      <string name="kilobyteShort">KB</string>
      <string name="kilobyte_per_second">Kb/s</string>
      <string name="last_check_canceled">El análisis anterior fue cancelado</string>
@@ -612,6 +615,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
      <string name="mi_service_framework">Mi Service Framework</string>
      <string name="mi_service_traffic_detail">Detalles del Framework</string>
      <string name="mian_page_primary_txt">Roaming de datos</string>
+     <string name="modify_password_mode"><u>Cambiar estilo de contraseña</u></string>
      <string name="modifypassword">Cambiar contraseña</string>
      <string name="monitor_requests_from_pc">Administrar la instalación de las aplicaciones vía USB</string>
      <string name="month_report_month_report_switch">Mostrar informe mensual</string>
@@ -1083,8 +1087,8 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
      <string name="reach_daily_limit_value_body">Reducir el uso de datos móviles.</string>
      <string name="reach_daily_limit_value_body_open_traffic_saving">Pulse para activar el Ahorro de datos.</string>
      <string name="reach_daily_limit_value_title">Límite diario de datos alcanzada</string>
-     <string name="read_number">86 artículos</string>
-     <string name="read_unit">" artículos"</string>
+     <string name="read_number">86 elementos</string>
+     <string name="read_unit">" elementos"</string>
      <string name="recently_reject_message">Instalación de %1$s y %2$d otras aplicaciones rechazadas</string>
      <string name="recently_reject_message_one">%1$s solicitudes de instalación rechazadas</string>
      <string name="recommend_app">Aplicaciones recomendadas</string>
@@ -1217,7 +1221,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
      <string name="sp_scan_item_monitor">Monitoreo de pago</string>
      <string name="sp_scan_item_url_antispam">Protección de URLs maliciosas</string>
      <string name="sp_settings_group_title_ime">Configuración de IME seguras</string>
-     <string name="sp_settings_group_title_omit">Artículos omitidos</string>
+     <string name="sp_settings_group_title_omit">elementos omitidos</string>
      <string name="sp_settings_info_input_method">Utilizando el método de entrada del sistema en aplicaciones de pago</string>
      <string name="sp_settings_info_monitor">Monitorear el entorno del sistema cuando se inician las aplicaciones de pago</string>
      <string name="sp_settings_plugin_monitor_summary">Escanear cuando los complementos de pago sean iniciados por alguna aplicación</string>
@@ -1403,7 +1407,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
      <string name="toast_network_switch">Esta aplicacion necesita conectarse a internet</string>
      <string name="toast_root_apply_accept">Permiso root concedido a %s</string>
      <string name="toast_root_apply_reject">Permiso root denegado a %s</string>
-     <string name="toast_set_success">Abierto con éxito!</string>
+     <string name="toast_set_success">¡Abierto con éxito!</string>
      <string name="toast_shortcut_install">Acceso directo enviado al escritorio</string>
      <string name="toast_shortcut_uninstall">Acceso directo eliminado</string>
      <string name="toast_show_notification">Acoplado al panel de notificación</string>
