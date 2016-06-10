@@ -12,7 +12,7 @@ Latest XML changes from originals values to translate  |
 Últimos cambios hechos al repositorio original en Inglés para añadir y traducir:
 
 
-https://github.com/Acid-miuipolskapl/v6-XML-Compare/commits/master
+https://github.com/Acid-miuipolskapl/v8-XML-Compare
 
 What´s new in our repositorie?  | Últimas actualizaciones al repositorio en Español:
 
