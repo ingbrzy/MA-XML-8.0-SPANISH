@@ -100,6 +100,20 @@
   <string name="power_config_ultimate_description">MIUI congelará las aplicaciones en segundo plano</string>
   <string name="power_config_ultimate_title">Extremo</string>
   <string name="power_configure_screen_brightness_enable">Establecer brillo de pantalla</string>
+  <string name="empty_title_apps_container_list">No hay aplicaciones</string>
+  <string name="hints_loading_text">Un momento…</string>
+  <string name="config_mode_title">Ajustes en segundo plano</string>
+  <string name="config_suggest_title">Ahorro de batería MIUI</string>
+  <string name="config_suggest_suffix_title">Protector de la batería MIUI (recomendado)</string>
+  <string name="config_no_restrict_title">Sin restricciones</string>
+  <string name="config_restrict_function_title">Restringir aplicaciones en segundo plano</string>
+  <string name="config_restrict_running_title">Restringir la actividad en segundo plano</string>
+  <string name="config_description">"MIUI puede identificar aplicaciones con procesos de fondo específicos (e.j., mensajería y aplicaciones de navegación , reproductores multimedia), and apply Battery saver in a way that won't influence important background activity."</string>
+  <string name="config_suggest_description">"Identify apps and activities to keep important processes going.
+Battery saver will treat important apps selectively."</string>
+  <string name="config_no_restrict_description">"El ahorro de batería no restringe la actividad de las aplicaciones"</string>
+  <string name="config_restrict_function_description">"Algunas características (e. j., notificaciones) pueden verse afectadas, pero las aplicaciones no se cerrarán"</string>
+  <string name="config_restrict_running_description">Las aplicaciones estarán cerradas para ahorrar energía</string>
   <string name="power_customize_giveup_change">¿Descartar cambios?</string>
   <string name="power_dialog_cancel">Cancelar</string>
   <string name="power_dialog_cpu_max_freq_title">Máxima frecuencia de CPU</string>
