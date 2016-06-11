@@ -1344,6 +1344,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
     <string name="app_install_location_summary">Cambiar la ubicación de instalación preferida para nuevas aplicaciones</string>
     <string name="app_disable_dlg_title">¿Inhabilitar aplic. incorp.?</string>
     <string name="app_disable_dlg_text">Si inhabilitas una aplicación incorporada, otras aplicaciones podrían funcionar incorrectamente.</string>
+    <string name="app_permissions">Permisos de aplicaciones</string>
     <string name="app_special_disable_dlg_title">¿Deseas eliminar los datos y desactivar la aplicación?</string>
     <string name="app_special_disable_dlg_text">Si desactivas una aplicación integrada, es posible que las otras aplicaciones no funcionen correctamente. También se eliminarán tus datos.</string>
     <string name="app_disable_notifications_dlg_title">¿Desactivar notificaciones?</string>
@@ -1764,6 +1765,8 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
     <string name="services_subtitle">Servicios</string>
     <string name="menu_proc_stats_duration">Duración</string>
     <string name="mem_details_title">Detalles de la memoria</string>
+    <string name="menu_hide_system">Ocultar sistema</string>
+    <string name="menu_show_system">Mostrar sistema</string>
     <string name="mem_state_subtitle">Estados de la memoria</string>
     <string name="mem_use_subtitle">Uso de memoria</string>
     <string name="mem_use_kernel_type">Kernel</string>
@@ -2218,6 +2221,8 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
     <string name="confirm_new_backup_pw_prompt">Vuelve a escribir aquí tu nueva contraseña de copia de seguridad completa</string>
     <string name="backup_pw_set_button_text">Definir contraseña de copia de seguridad</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
+    <string name="additional_permissions">Permisos adicionales</string>
+    <string name="additional_permissions_more">%1$d más</string>
     <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales del sistema</string>
     <string name="selinux_status_disabled">Desactivado</string>
     <string name="selinux_status_permissive">Permisivo</string>
@@ -3095,6 +3100,7 @@ Seleccione su sistema operativo:"</string>
     <string name="application_lock_name">Bloqueo de aplicaciones</string>
     <string name="application_item_already_permission">Permitido</string>
     <string name="application_lock_name">Bloqueo de aplicaciones</string>
+    <string name="application_permission_manager">Permisos de aplicaciones</string>
     <string name="application_forbid_auto_startup">Evitar que %s se inicie en segundo plano</string>
     <string name="floating_window_switch_label">Activar ventanas flotantes</string>
     <string name="floating_window_switch_label_disable">Desactivar ventanas flotantes</string>
