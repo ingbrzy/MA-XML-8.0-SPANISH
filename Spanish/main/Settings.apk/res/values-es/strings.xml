@@ -2689,6 +2689,7 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="ac_enable_title">Bloquear aplicación</string>
     <string name="ac_enable_summary">Se requerirá una contraseña para abrir la aplicación</string>
     <string name="ac_set_apps_title">Elegir aplicaciones para bloquear</string>
+    <string name="ac_enable_title">Bloqueo de aplicaciones</string>
     <string name="ac_privacy_mode_title">Contraseña</string>
     <string name="ac_privacy_mode_sum">Pedir contraseña para desactivar el modo invitado</string>
     <string name="access_control_password_title">Contraseña</string>
@@ -3091,6 +3092,7 @@ Seleccione su sistema operativo:"</string>
     <string name="man_add_application">Añadir aplicaciones con inicio automático</string>
     <string name="application_item_disable">Denegar</string>
     <string name="application_item_permission">Permitir</string>
+    <string name="application_lock_name">Bloqueo de aplicaciones</string>
     <string name="application_item_already_permission">Permitido</string>
     <string name="application_lock_name">Bloqueo de aplicaciones</string>
     <string name="application_forbid_auto_startup">Evitar que %s se inicie en segundo plano</string>
