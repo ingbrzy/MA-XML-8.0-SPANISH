@@ -56,6 +56,26 @@
         <item quantity="other">"%d mins "</item>
         <item quantity="one">"%d min "</item>
     </plurals>
+        <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">En %1$d mins</item>
+        <item quantity="one">En %1$d min</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Optimizado %d problemas con las baterías</item>
+        <item quantity="one">Optimizado %d problema con las batería</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Encontró %d problemas con las baterías</item>
+        <item quantity="one">Encontró %d problema con las batería</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d problemas con las baterías</item>
+        <item quantity="one">%d problema con las batería</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d problemas pueden ser optimizados</item>
+        <item quantity="one">%d problema puede ser optimizado</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplicaciones pueden iniciarse automáticamente</item>
         <item quantity="one">%d aplicación puede iniciarse automáticamente</item>
@@ -125,6 +145,23 @@
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d aplicaciones encontradas</item>
+        <item quantity="zero">0 aplicaciones encontradas</item>
         <item quantity="one">%d aplicación encontrada</item>
     </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s riesgos de pago</item>
+        <item quantity="one">%s riesgo de pago</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s aplicaciones de pago están protegidas</item>
+        <item quantity="one">%s aplicación de pago está protegida</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s aplicaciones están protegidas</item>
+        <item quantity="one">%s aplicación están protegida</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s aplicaciones no están protegidos</item>
+        <item quantity="one">%s aplicación no está protegida</item>
+</plurals>
 </resources>
