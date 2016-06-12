@@ -1779,7 +1779,6 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
     <string name="menu_duration_6h">6 horas</string>
     <string name="menu_duration_12h">12 horas</string>
     <string name="menu_duration_1d">1 día</string>
-    <string name="menu_show_system">Mostrar sistema</string>
     <string name="menu_use_uss">Usar USS</string>
     <string name="menu_proc_stats_type">Tipo de estadística</string>
     <string name="menu_proc_stats_type_background">En el fondo</string>
@@ -2221,8 +2220,6 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
     <string name="confirm_new_backup_pw_prompt">Vuelve a escribir aquí tu nueva contraseña de copia de seguridad completa</string>
     <string name="backup_pw_set_button_text">Definir contraseña de copia de seguridad</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
-    <string name="additional_permissions">Permisos adicionales</string>
-    <string name="additional_permissions_more">%1$d más</string>
     <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales del sistema</string>
     <string name="selinux_status_disabled">Desactivado</string>
     <string name="selinux_status_permissive">Permisivo</string>
@@ -2497,7 +2494,6 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="app_notification_row_sensitive">Personal</string>
     <string name="app_notifications_dialog_done">Listo</string>
     <string name="app_overlay_permission_preference">Permitir a una aplicación estar por encima de otras</string>
-    <string name="app_permissions">Permisos de las aplicaciones</string>
     <string name="app_permissions_group_summary" formatted="false">%d de %d aplicaciones permitidas</string>
     <string name="app_permissions_summary" formatted="false">%d de %d aplicaciones que se les permite un acceso adicional</string>
     <string name="zen_mode_default_option">Hasta que lo desactives</string>
@@ -2694,7 +2690,6 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="ac_enable_title">Bloquear aplicación</string>
     <string name="ac_enable_summary">Se requerirá una contraseña para abrir la aplicación</string>
     <string name="ac_set_apps_title">Elegir aplicaciones para bloquear</string>
-    <string name="ac_enable_title">Bloqueo de aplicaciones</string>
     <string name="ac_privacy_mode_title">Contraseña</string>
     <string name="ac_privacy_mode_sum">Pedir contraseña para desactivar el modo invitado</string>
     <string name="access_control_password_title">Contraseña</string>
@@ -3099,7 +3094,6 @@ Seleccione su sistema operativo:"</string>
     <string name="application_item_permission">Permitir</string>
     <string name="application_lock_name">Bloqueo de aplicaciones</string>
     <string name="application_item_already_permission">Permitido</string>
-    <string name="application_lock_name">Bloqueo de aplicaciones</string>
     <string name="application_permission_manager">Permisos de aplicaciones</string>
     <string name="application_forbid_auto_startup">Evitar que %s se inicie en segundo plano</string>
     <string name="floating_window_switch_label">Activar ventanas flotantes</string>
