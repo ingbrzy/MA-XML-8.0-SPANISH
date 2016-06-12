@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="auto_memory_clean">
-        <item>En 1 minuto</item>
-        <item>En 5 minutos</item>
-        <item>En 10 minutos</item>
-        <item>En 30 minutos</item>
-        <item>Nunca</item>
-    </string-array>
     <string-array name="date_of_traffic_cmcc">
         <item>"Esta semana "</item>
         <item>"Hoy "</item>
@@ -62,6 +55,7 @@
         <item>"Uso de datos móviles "</item>
         <item>"Uso de Wi-Fi "</item>
         <item>"Datos ahorrados "</item>
+        <item>Plan de datos Mi</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Obtener automáticamente</item>
@@ -100,6 +94,7 @@
         <item>Después de 1 minuto</item>
         <item>Después de 5 minutos</item>
         <item>Después de 10 minutos</item>
+        <item>Después de 30 minutos</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
