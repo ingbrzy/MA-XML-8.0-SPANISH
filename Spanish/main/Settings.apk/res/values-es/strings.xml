@@ -683,6 +683,7 @@ de Wi‑Fi"</string>
     <string name="wifi_menu_connect">Conectar a la red</string>
     <string name="wifi_menu_forget">Olvidar red</string>
     <string name="wifi_menu_modify">Modificar la red</string>
+    <string name="wifi_menu_wfd">Pantalla inalámbrica</string>
     <string name="wifi_menu_write_to_nfc">Escribir en etiqueta NFC</string>
     <string name="wifi_empty_list_wifi_off">Para ver redes disponibles, activa la conexión Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
@@ -805,6 +806,7 @@ de Wi‑Fi"</string>
     <string name="display_settings_title">Pantalla</string>
     <string name="sound_settings">Sonido</string>
     <string name="ringtone_summary" />
+    <string name="xspace">Aplicaciones clonadas</string>
     <string name="all_volume_title">Volumen</string>
     <string name="musicfx_title">Efectos de la música</string>
     <string name="ring_volume_title">Volumen del timbre</string>
@@ -1020,6 +1022,7 @@ PIN posiblemente incorrecto."</string>
     <string name="usb_ptp_summary">Te permite transferir fotos con el software de la cámara y archivos a computadoras que no admiten MTP.</string>
     <string name="usb_label_installer_cd">Instalar las herramientas de transferencia de archivos</string>
     <string name="storage_other_users">Otros usuarios</string>
+    <string name="alarm_sound_title">Sonido de alarma</string>
     <string name="battery_status_title">Estado de batería</string>
     <string name="battery_level_title">Nivel de la batería</string>
     <string name="apn_settings">APN</string>
@@ -1031,6 +1034,7 @@ PIN posiblemente incorrecto."</string>
     <string name="apn_http_port">Puerto</string>
     <string name="apn_user">Nombre de usuario</string>
     <string name="apn_password">Contraseña</string>
+    <string name="apn_ppp_number">APN PPP número de teléfono</string>
     <string name="apn_server">Servidor</string>
     <string name="apn_mmsc">MMSC</string>
     <string name="apn_mms_proxy">Proxy de MMS</string>
@@ -1048,6 +1052,7 @@ PIN posiblemente incorrecto."</string>
     <string name="carrier_enabled">Activar/Desactivar el APN</string>
     <string name="carrier_enabled_summaryOn">APN activado</string>
     <string name="carrier_enabled_summaryOff">APN inhabilitado</string>
+    <string name="calendar_sound_title">Sonido del calendario</string>
     <string name="bearer">Portador</string>
     <string name="mvno_type">Tipo de OMV</string>
     <string name="mvno_match_data">Valor de OMV</string>
@@ -2237,6 +2242,8 @@ Para obtener más información, comunícate con el administrador."</string>
 
 Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."</string>
     <string name="ssl_ca_cert_settings_button">Comprobar credenciales de confianza</string>
+    <string name="status_bar_style_list">Unir</string>
+    <string name="status_bar_style_page">Separar</string>
     <string name="user_settings_title">Usuarios</string>
     <string name="user_list_title">Usuarios y perfiles</string>
     <string name="user_add_user_or_profile_menu">Agregar usuario o perfil</string>
@@ -3690,4 +3697,5 @@ Seleccione su sistema operativo:"</string>
     <string name="enable_crypt_keeper_encrypt">Activar cifrado</string>
     <string name="experience_optimization_category">Programa de experiencia de usuario</string>
     <string name="advanced_text_layout">Habilitar diagramación avanzada de texto</string>
+    <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones clonadas serán eliminadas junto con los datos de las aplicaciones.</string>
 </resources>
