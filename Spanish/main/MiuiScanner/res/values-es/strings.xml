@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">"Escáner"</string>
+    <string name="barcode_into_rectangle">Coloque el código dentro del marco</string>
     <string name="impunity_declaration_title">"Términos del Servicio"</string>
     <string name="impunity_declaration_content">"Esta aplicación necesita conectarse a Internet para funcionar con normalidad."</string>
     <string name="impunity_declaration_positive_text">"Permitir"</string>
@@ -26,6 +27,11 @@
     <string name="module_title_study">"Estudiar"</string>
     <string name="module_title_namecard">"Tarjeta de negocios"</string>
     <string name="module_title_document">"Documento"</string>
+    <string name="name">Nombre:</string>
+    <string name="namecard_recognize_failed_tip">"No se pudo leer la tarjeta"</string>
+    <string name="namecard_recognizing">Leyendo…</string>
+    <string name="namecard_title">Acerque la tarjeta dentro del recuadro para escanearla</string>
+    <string name="namecard_vendor_info">Desarrollado por CamCard</string>
     <string name="flash_lable">"Flash"</string>
     <string name="picker_lable">"Foto"</string>
     <string name="common_retake_picture">"Volver a tomar"</string>
