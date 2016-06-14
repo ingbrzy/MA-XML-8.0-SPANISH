@@ -28,6 +28,8 @@
   <string name="empty_title_apps_container_list">No hay aplicaciones</string>
   <string name="error_filename_too_long">El nombre de fichero introducido es demasiado largo.</string>
   <string name="foreground_change">Aplicación funcionando en primer plano</string>
+  <string name="fragment_tab_title_nonsys">Aplicaciones instaladas</string>
+  <string name="fragment_tab_title_sys">Aplicaciones del sistema</string>
   <string name="full_screen_enter">Pantalla completa</string>
   <string name="full_screen_exit">Salir de pantalla completa</string>
   <string name="hide_mode">Administrar uso de batería de aplicaciones</string>
@@ -126,7 +128,7 @@
   <string name="power_hide_mode_app_list_title">Elegir aplicaciones a restringir</string>
   <string name="power_hide_mode_app_list_total">%d aplicaciones</string>
   <string name="power_hide_mode_summary">Ahorra batería restringiendo los procesos en segundo plano, el Wi-Fi, las conexiones móviles y el GPS de las aplicaciones</string>
-  <string name="power_hide_mode_title">Administrar uso de batería de aplicaciones</string>
+  <string name="power_hide_mode_title">Administrar el uso de batería por las aplicaciones</string>
   <string name="power_keeper">Ahorro de batería</string>
   <string name="power_mode_cpu_state_high">Rendimiento</string>
   <string name="power_mode_cpu_state_high_desc">Priorizar rendimiento sobre duración de batería</string>
