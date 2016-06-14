@@ -1340,6 +1340,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
     <string name="does_not_exist">La aplicación no existe.</string>
     <string name="app_forward_locked">La aplicación está protegida contra copias.</string>
     <string name="invalid_location">La ubicación de la instalación no es válida.</string>
+    <string name="system_and_device_section_title">Sistema y dispositivo</string>
     <string name="system_package">Las actualizaciones del sistema no se pueden instalar en medios externos.</string>
     <string name="force_stop_dlg_title">¿Deseas forzar la detención?</string>
     <string name="force_stop_dlg_text">Si fuerzas la detención de una aplicación, es posible que funcione incorrectamente.</string>
@@ -2503,6 +2504,7 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="app_overlay_permission_preference">Permitir a una aplicación estar por encima de otras</string>
     <string name="app_permissions_group_summary" formatted="false">%d de %d aplicaciones permitidas</string>
     <string name="app_permissions_summary" formatted="false">%d de %d aplicaciones que se les permite un acceso adicional</string>
+    <string name="application_manager_section_title">Ajustes de las aplicaciones</string>
     <string name="zen_mode_default_option">Hasta que lo desactives</string>
     <string name="zen_mode_important_category">Ajustes</string>
     <string name="zen_mode_downtime_category">Tiempo inact. (solo interrup. prioridad)</string>
@@ -3654,6 +3656,7 @@ Seleccione su sistema operativo:"</string>
     <string name="keyguard_right_function_title">Derecha</string>
     <string name="keyguard_shortcut_summary">Establecer un acceso directo para 2 aplicaciones en la pantalla de bloqueo</string>
     <string name="keyguard_shortcut_title">Atajos en la pantalla de bloqueo</string>
+    <string name="lab_functions_title">Funciones beta</string>
     <string name="screen_key_position">Botones de navegación</string>
     <string name="battery_light_summary">Encender la luz de notificación mientras se carga el dispositivo</string>
     <string name="wifi_enable_data_and_wifi_roam">Activar datos y roaming WLAN</string>
