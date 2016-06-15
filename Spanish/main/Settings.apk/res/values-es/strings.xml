@@ -2,6 +2,8 @@
 <resources>
     <string name="setup_wizard_next_button_label">Siguiente</string>
     <string name="setup_wizard_back_button_label">Atrás</string>
+    <string name="menu_hide_system">Ocultar aplicaciones del sistema</string>
+    <string name="menu_show_system">Mostrar aplicaciones del sistema</string>
     <string name="music_audio_effect_optimize">Configuración de audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, auriculares y otros ajustes de audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculares y otros ajustes de audio</string>
@@ -1937,6 +1939,9 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
 El administrador puede supervisar y administrar la configuración, el acceso, las aplicaciones y los datos asociados con este usuario, incluida la información acerca de la actividad de la red y la ubicación del dispositivo."</string>
     <string name="additional_permissions">Permisos adicionales</string>
     <string name="additional_permissions_more">%1$d más</string>
+    <string name="app_permissions_group_summary" formatted="false">%d de %d aplicaciones permitidas</string>
+    <string name="app_permissions_summary" formatted="false">%d de %d aplicaciones se permite un acceso adicional</string>
+    <string name="application_permission_manager">Permisos de aplicaciones</string>
     <string name="untitled_apn">Sin título</string>
     <string name="sound_category_sound_title">General</string>
     <string name="notification_log_title">Registro de notificaciones</string>
@@ -3126,7 +3131,7 @@ Seleccione su sistema operativo:"</string>
     <string name="sim_radio_off">Desactivado</string>
     <string name="slot_status_title">Info del IMEI</string>
     <string name="imei_information_summary">información relativa sobre IMEI</string>
-    <string name="imei_information_title">información sobre IMEI</string>
+    <string name="imei_information_title">Información sobre IMEI</string>
     <string name="next_button_label">Siguiente</string>
     <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá invertir esta acción! El teléfono se reiniciará después de haber borrado de almacenamiento interno.</string>
     <string name="internal_media_format_desc">¿Borrar todo el almacenamiento interno? <b>Todos</b> sus datos guardados serán borrados permanentemente. El teléfono se reiniciará después de haber borrado de almacenamiento interno.</string>
@@ -3459,7 +3464,7 @@ Seleccione su sistema operativo:"</string>
     <string name="page_layout_medium_title">Mediano</string>
     <string name="page_layout_large_title">Grande</string>
     <string name="page_layout_huge_title">Extra grande</string>
-    <string name="page_layout_godzilla_title">XXG</string>
+    <string name="page_layout_godzilla_title">Super grande</string>
     <string name="page_layout_page2_title">Vista previa</string>
     <string name="page_layout_page2_small_title">Extra pequeño</string>
     <string name="page_layout_page2_normal_title">Pequeño</string>
@@ -3472,7 +3477,7 @@ Seleccione su sistema operativo:"</string>
     <string name="page_layout_page2_medium_summary">Mediano</string>
     <string name="page_layout_page2_large_summary">Grande</string>
     <string name="page_layout_page2_huge_summary">Extra grande</string>
-    <string name="page_layout_page2_godzilla_summary">XXG</string>
+    <string name="page_layout_page2_godzilla_summary">Super grande</string>
     <string name="oldman_mode_summary_cta">El modo simplificado necesita conectarse a internet y acceder a sus contactos, mensajes y ubicación para funcionar con normalidad.</string>
     <string name="page_layout_32">Play Store</string>
     <string name="page_layout_33">Google</string>
