@@ -45,6 +45,7 @@
      <string name="answer_state_setting_summary">Otras opciones de llamada entrante</string>
      <string name="answer_state_setting_title">Configuración de llamada entrante</string>
      <string name="antispam_notification_title">Número desconocido</string>
+     <string name="antispam_setting">Lista de bloqueos</string>
      <string name="apn_settings">APN</string>
      <string name="area_code_preference_be_set_summary">Current location: %s</string>
      <string name="area_code_preference_summary">Marcar el código de área automáticamente</string>
@@ -128,6 +129,7 @@
      <string name="callFailed_unobtainable_number">El número no es válido.</string>
      <string name="callFailed_userBusy">Línea ocupada</string>
      <string name="callUnanswered_forwarded">Llamada perdida y reenviada</string>
+     <string name="call_advanced_setting_title">Ajustes avanzada</string>
      <string name="call_barring">Restricción de llamadas</string>
      <string name="call_barring_incoming">Restricción de llamadas entrantes</string>
      <string name="call_barring_outgoing">Restricción de llamadas salientes</string>
@@ -810,6 +812,7 @@ Recargar y empezar a hablar"</string>
      <string name="network_settings_sel_sub">Ajustes SUBS</string>
      <string name="network_settings_select_automatic_hint">"No se puede registrar en la red que ha seleccionado.
 Usando red preferida."</string>
+     <string name="network_settings_title">Redes móviles</string>
      <string name="network_settings_turn_off">apagado</string>
      <string name="network_settings_warn_message">Su dispositivo solo se conectará a redes que seleccione manualmente.</string>
      <string name="network_type">Tipo de red</string>
@@ -818,6 +821,9 @@ Usando red preferida."</string>
      <string name="network_type_3g_preferred_cmcc">3G/2G</string>
      <string name="network_type_4g">4G</string>
      <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
+     <string name="network_unlock">Desbloquear</string>
+     <string name="networks">Operadores de red</string>
+     <string name="networks_title">Redes móviles</string>
      <string name="network_unconnected_message_livetalk">Error de red, trate de realizar una llamada. Su operador puede cobrarle.</string>
      <string name="network_unconnected_title">Error de red</string>
      <string name="network_unlock">Desbloquear</string>
@@ -950,6 +956,7 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
      <string name="overseas_roaming_setting">Roaming de datos</string>
      <string name="password_changed">Contraseña cambiada</string>
      <string name="password_title">Contraseña</string>
+     <string name="path_antispam_setting">Aplicaciones del sistema/Teléfono/Lista de bloqueos</string>
      <string name="pause_prompt_no">No</string>
      <string name="pause_prompt_str">"Enviando tonos
 "</string>
@@ -1008,6 +1015,8 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
      <string name="port_title">Número de puerto</string>
      <string name="preference_auto_ip_summary_disable">Desactivado</string>
      <string name="preference_category_ringtone">Tono y vibración</string>
+     <string name="preference_data_usage_summary">Establecer el plan de datos para controlar el uso de datos móviles</string>
+     <string name="preference_data_usage_title">Ajustes de uso de datos</string>
      <string name="preference_dial_pad_touch_tone_default">Predeterminado</string>
      <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
      <string name="preference_dial_pad_touch_tone_title">Tonos del teclado de llamada</string>
@@ -1194,6 +1203,7 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
      <string name="ruim_unlock_success">RUIM desbloqueada correctamente.</string>
      <string name="save">Guardar</string>
      <string name="saving_account">Guardando…</string>
+     <string name="search_antispam_setting">Lista de bloqueos</string>
      <string name="search_networks">Buscar redes</string>
      <string name="selectContact">seleccionar contacto</string>
      <string name="select_automatically">Seleccionar automáticamente</string>
