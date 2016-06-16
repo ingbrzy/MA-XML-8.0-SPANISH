@@ -590,9 +590,11 @@ Elija una de las siguientes opciones: "</string>
     <string name="sim_error_not_ready">Cargando contactos de la tarjeta SIM…</string>
     <string name="sim_contact_existing">El contacto ya existe</string>
     <string name="sim_contact_invalid">Contacto SIM no válido</string>
+    <string name="path_contacts_recovery">Aplicaciones del sistema/Contactos/Recuperar contactos</string>
     <string name="pref_key_sim_manage">Configurar la tarjeta SIM</string>
     <string name="pref_key_sim_manage1">Configurar SIM 1</string>
     <string name="pref_key_sim_manage2">Configurar SIM 2</string>
+    <string name="preference_key_trash_bin_title">Recuperar contactos</string>
     <string name="simContacts_airplaneMode">Para importar los contactos de la tarjeta SIM, desactivar el modo avión</string>
     <string name="readingSimContacts">Leyendo tarjeta SIM…</string>
     <string name="importing_sim_contacts_miui">Importar contactos de la tarjeta SIM…</string>
@@ -640,6 +642,7 @@ Elija una de las siguientes opciones: "</string>
     <string name="contact_detail_miprofile_exchange_closed">"No hay ningún número de teléfono asociado con esta cuenta Mi
 Las tarjetas de contacto están apagadas"</string>
     <string name="contact_detail_miprofile_privacy_settings">Solicitar permiso para ver</string>
+    <string name="contacts_hybrid_activity_label">Recuperar contactos</string>
     <string name="miprofile_request_alertdialog_title">Intercambiar tarjetas de contacto</string>
     <string name="miprofile_request_alertdialog_message">Tu tarjeta será enviada automáticamente después de que esta persona acepte.</string>
     <string name="miprofile_save_alertdialog_title">Tarjeta de contacto recibida</string>
