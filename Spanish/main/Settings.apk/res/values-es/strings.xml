@@ -225,7 +225,6 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
      <string name="app_ops_settings_summary">View or change app permissions</string>
      <string name="app_overlay_permission_preference">Permitir a una aplicación estar por encima de otras</string>
      <string name="app_permissions">Permisos de aplicaciones</string>
-     <string name="app_permissions_summary">%d de %d aplicaciones se permite un acceso adicional</string>
      <string name="app_process_limit_title">Límite de procesos en segundo plano</string>
      <string name="app_restrictions_custom_label">Definir restricciones de aplicación</string>
      <string name="app_sees_restricted_accounts">Esta aplicación puede acceder a tus cuentas.</string>
@@ -3090,7 +3089,7 @@ PIN posiblemente incorrecto."</string>
      <string name="sim_change_pin">PIN de tarjeta SIM</string>
      <string name="sim_change_succeeded">El PIN de la tarjeta SIM se ha cambiado correctamente</string>
      <string name="sim_disable_sim_lock">Desbloquear tarjeta SIM</string>
-     <string name="sim_disabled">disabled</string>
+     <string name="sim_disabled">deshabilitado</string>
      <string name="sim_editor_carrier">Proveedor</string>
      <string name="sim_editor_color">Color de SIM</string>
      <string name="sim_editor_name">Nombre de SIM</string>
@@ -3100,12 +3099,12 @@ PIN posiblemente incorrecto."</string>
      <string name="sim_enable_disable_lock_not_supported">Unable to Change SIM/RUIM Lock.
  SIM/RUIM doesn't support it.</string>
      <string name="sim_enable_sim_lock">Bloquear la tarjeta SIM</string>
-     <string name="sim_enabled">enabled</string>
-     <string name="sim_enabler_airplane_on">ERROR, airplane mode is on!</string>
-     <string name="sim_enabler_both_inactive">Error, can't disable all the SIMs</string>
-     <string name="sim_enabler_disabling">Deactivating...</string>
-     <string name="sim_enabler_enabling">Activating...</string>
-     <string name="sim_enabler_in_call">ERROR, in call!</string>
+     <string name="sim_enabled">habilitado</string>
+     <string name="sim_enabler_airplane_on">ERROR, ¡el modo avión está activado!</string>
+     <string name="sim_enabler_both_inactive">Error al deshabilitar todas las SIMs</string>
+     <string name="sim_enabler_disabling">desactivando...</string>
+     <string name="sim_enabler_enabling">Activando...</string>
+     <string name="sim_enabler_in_call">¡ERROR al llamar!</string>
      <string name="sim_enabler_need_disable_sim">Deactivating the SIM, are you sure?</string>
      <string name="sim_enabler_need_enable_sim">Activating the SIM, are you sure?</string>
      <string name="sim_enabler_summary">SIM is %1$s</string>
@@ -3135,10 +3134,10 @@ Attempts Remaining :</string>
      <string name="sim_pin_change">Cambiar el PIN de la tarjeta SIM</string>
      <string name="sim_pin_change_failed_enable_sim_lock">Unable to Change SIM/RUIM PIN.
  Enable SIM/RUIM Lock.</string>
-     <string name="sim_pin_disable_failed">Can't disable PIN.</string>
-     <string name="sim_pin_disabled">PIN1 Disabled!</string>
-     <string name="sim_pin_enable_failed">Can't enable PIN.</string>
-     <string name="sim_pin_enabled">PIN1 Enabled!</string>
+     <string name="sim_pin_disable_failed">No se pudo deshabilitar el PIN.</string>
+     <string name="sim_pin_disabled">¡PIN1 Deshabilitado!</string>
+     <string name="sim_pin_enable_failed">No se pudo habilitar el PIN.</string>
+     <string name="sim_pin_enabled">¡PIN1 Habilitado!</string>
      <string name="sim_pin_toggle">Bloquear la tarjeta SIM</string>
      <string name="sim_pins_dont_match">Los PIN no coinciden</string>
      <string name="sim_pref_divider">Actividades</string>
@@ -3995,7 +3994,7 @@ de Wi‑Fi"</string>
      <string name="wifi_password">Contraseña</string>
      <string name="wifi_poor_network_detection">Evitar malas conexiones</string>
      <string name="wifi_poor_network_detection_summary">No usar una red Wi-Fi a menos que tenga una buena conexión</string>
-     <string name="wifi_priority_changed">Valor antiguo %s | Nuevo valor %s</string>
+	 <string name="wifi_priority_changed" formatted="false">Valor anterior %s | Nuevo valor %s</string>
      <string name="wifi_priority_label">Prioridad</string>
      <string name="wifi_priority_settings_label">Ajustes prioritarios</string>
      <string name="wifi_priority_settings_summary">Establecer prioridad de cada punto de acceso</string>
