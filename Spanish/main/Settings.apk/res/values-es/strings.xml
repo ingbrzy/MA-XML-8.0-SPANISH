@@ -1373,6 +1373,10 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
      <string name="free_xiaomi_wifi_connect_summary">Pulse para conectar a %1$s.</string>
      <string name="frequently_fragment_delete">Eliminiar</string>
      <string name="frequently_fragment_tempty">Los elementos usados frecuentemente serán enumerados aquí</string>
+     <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.
+
+   When you turn on automatic backup, device and app data is periodically saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos."</string>
+     <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on Google Drive?</string>
      <string name="gadget_bluetooth">Bluetooth</string>
      <string name="gadget_brightness_state_auto">automático</string>
      <string name="gadget_brightness_state_full">completo</string>
