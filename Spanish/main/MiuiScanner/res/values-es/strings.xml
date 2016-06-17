@@ -77,7 +77,6 @@
     <string name="language_entry_swedish">"Sueco"</string>
     <string name="language_entry_russian">"Ruso"</string>
     <string name="copy">"Copiar"</string>
-    <string name="name">"Nombre:"</string>
     <string name="nickname">"Apodo:"</string>
     <string name="company">"Empresa:"</string>
     <string name="title">"Título:"</string>
@@ -90,7 +89,6 @@
     <string name="recognize">"Escanear"</string>
     <string name="recognize_fail">"No se pudo leer el código"</string>
     <string name="place_barcode_into_rectangle">"Coloque el código dentro del marco"</string>
-    <string name="barcode_into_rectangle">"Coloque el código dentro del marco"</string>
     <string name="scan_fail">"No se pudo escanear el código"</string>
     <string name="scan_result">"Resultado"</string>
     <string name="url_is_safety">"Este sitio web es seguro"</string>
@@ -115,7 +113,6 @@
     <string name="copy_text">"Copiar texto"</string>
     <string name="copy_text_success">"Texto copiado"</string>
     <string name="wifi_open_fail">"No se puede encender la red WLAN"</string>
-    <string name="allow_check_website_security">"Notificarme si hay controles de seguridad de sitios web"</string>
     <string name="accept">"De acuerdo"</string>
     <string name="cancel">"Cancelar"</string>
     <string name="tips_message">"Conectarse a Internet para comprobar si el sitio que está a punto de visitar es seguro."</string>
@@ -168,14 +165,7 @@
     <string name="study_vendor_info">"Soporte técnico por Master Learner"</string>
     <string name="study_report_title">"Reportar"</string>
     <string name="view_study_report">"Ver reporte"</string>
-    <string name="namecard_title">"Coloque la tarjeta en el interior del marco"</string>
-    <string name="namecard_recognize_failed_tip">"No se ha podido reconocer la tarjeta"</string>
-    <string name="namecard_recognizing">"Reconociendo…"</string>
-    <string name="namecard_vendor_info">"Soporte técnico por CamCard"</string>
     <string name="document_title">"Toma una foto del documento"</string>
-    <string name="document_crop_title">"Recortar el documento"</string>
-    <string name="document_ocr_result_copy">"Copiar texto"</string>
-    <string name="document_ocr_result_save">"Guardar en Notas"</string>
     <string name="document_ocr_result_title">"Foto del documento"</string>
     <string name="document_top_panel_title">"Foto del documento"</string>
     <string name="document_ocr">"OCR"</string>
