@@ -1369,6 +1369,10 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
      <string name="free_xiaomi_wifi_connect_summary">Pulse para conectar a %1$s.</string>
      <string name="frequently_fragment_delete">Eliminiar</string>
      <string name="frequently_fragment_tempty">Los elementos usados frecuentemente serán enumerados aquí</string>
+     <string name="fullbackup_data_summary">"Automáticamente respalde los datos del dispositivo (como la clave Wi-Fi y el historial de llamadas) y datos de aplicaciones (como las configuraciones y los archivos almacenados por las aplicaciones) de manera remota.
+
+   Cuando active los respaldos automáticos, los datos del dispositivo se guardarán periódicamente de manera remota. Los datos de las aplicaciones pueden ser los datos almacenados por cualquier aplicación (de acuerdo a los ajustes de desarrollo), incluyendo información privada como los contactos, mensajes y fotos."</string>
+     <string name="fullbackup_erase_dialog_message">La acción detendrá el respaldo de los datos del dispositivo (como las claves Wi-Fi y el historial de llamadas) y los datos de las aplicaciones (como las configuraciones propias y los archivos almacenados), además se eliminarán todas las copias guardadas en Google Drive.¿Proseguir?</string>
      <string name="gadget_bluetooth">Bluetooth</string>
      <string name="gadget_brightness_state_auto">automático</string>
      <string name="gadget_brightness_state_full">completo</string>
@@ -2100,7 +2104,7 @@ Seleccione su sistema operativo:"</string>
      <string name="other_sound_settings">Otros sonidos</string>
      <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
      <string name="owner_info_settings_edit_text_hint">Ingresa el texto para la pantalla bloqueada.</string>
-     <string name="owner_info_settings_summary" />
+     <string name="owner_info_settings_summary">Ninguna</string>
      <string name="owner_info_settings_title">Información del propietario</string>
      <string name="packages_subtitle">Paquetes incluidos</string>
      <string name="page_layout_1">Domingo 16 de agosto</string>
@@ -2140,7 +2144,7 @@ Seleccione su sistema operativo:"</string>
      <string name="page_layout_medium_title">Mediano</string>
      <string name="page_layout_normal_title">Pequeño</string>
      <string name="page_layout_page2_godzilla_summary">Super grande</string>
-     <string name="page_layout_page2_godzilla_title">XXG</string>
+     <string name="page_layout_page2_godzilla_title">XXL</string>
      <string name="page_layout_page2_huge_summary">Extra grande</string>
      <string name="page_layout_page2_huge_title">Extra grande</string>
      <string name="page_layout_page2_large_summary">Grande</string>
@@ -2326,9 +2330,9 @@ Seleccione su sistema operativo:"</string>
      <string name="path_wifi_wapi_cert_uninstall">Settings/WLAN/Advanced settings/Uninstall WAPI certificate</string>
      <string name="path_wps_connect_title">Settings/WLAN/Advanced settings/WPS push button</string>
      <string name="path_xiaomi_account">Settings/Mi Account</string>
-     <string name="path_xiaomi_cloud_service">Apps</string>
-     <string name="path_xiaomi_money_service">Apps</string>
-     <string name="path_xspace">Settings/Cloned apps</string>
+     <string name="path_xiaomi_cloud_service">Aplicaciones</string>
+     <string name="path_xiaomi_money_service">Aplicaciones</string>
+     <string name="path_xspace">Ajustes/Aplicaciones clonadas</string>
      <string name="path_zen_mode_option_miui_silent">Settings/Sound &amp; vibration/Silent mode</string>
      <string name="performance_category">Rendimiento</string>
      <string name="permission_detail_info">Detalles</string>
@@ -3458,8 +3462,8 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
      <string name="uninstall_dlg_title">Uninstall now?</string>
      <string name="uninstall_text">Desinstalar...</string>
      <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones clonadas serán eliminadas junto con los datos de las aplicaciones.</string>
-     <string name="uninstall_xspace_app_dlg_msg">Uninstalling cloned app will remove all app data.</string>
-     <string name="uninstall_xspace_app_dlg_title">Uninstall cloned app?</string>
+     <string name="uninstall_xspace_app_dlg_msg">La desinstalación de aplicaciones clonadas eliminará todos los datos de las aplicaciones.</string>
+     <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicaciones clonadas?</string>
      <string name="unknown">Desconocido</string>
      <string name="unlock_backup_info_summary">Si el desbloqueo facial no te reconoce, ¿cómo quieres desbloquear la pantalla?</string>
      <string name="unlock_change_lock_password_title">Cambiar la contraseña de desbloqueo</string>
@@ -4225,6 +4229,7 @@ de Wi‑Fi"</string>
      <string name="zen_mode_from_anyone">Cualquiera</string>
      <string name="zen_mode_from_call">"Llamadas de "</string>
      <string name="zen_mode_from_contacts">Solo contactos</string>
+     <string name="zen_mode_from_none">Ninguna</string>
      <string name="zen_mode_from_sms">"Mensajes de "</string>
      <string name="zen_mode_from_starred">Solo contactos destacados</string>
      <string name="zen_mode_important_category">Ajustes</string>
