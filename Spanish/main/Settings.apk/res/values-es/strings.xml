@@ -1373,10 +1373,10 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
      <string name="free_xiaomi_wifi_connect_summary">Pulse para conectar a %1$s.</string>
      <string name="frequently_fragment_delete">Eliminiar</string>
      <string name="frequently_fragment_tempty">Los elementos usados frecuentemente serán enumerados aquí</string>
-     <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.
+     <string name="fullbackup_data_summary">"Automáticamente respalde los datos del dispositivo (como la clave Wi-Fi y el historial de llamadas) y datos de aplicaciones (como las configuraciones y los archivos almacenados por las aplicaciones) de manera remota.
 
-   When you turn on automatic backup, device and app data is periodically saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos."</string>
-     <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on Google Drive?</string>
+   Cuando active los respaldos automáticos, los datos del dispositivo se guardarán periódicamente de manera remota. Los datos de las aplicaciones pueden ser los datos almacenados por cualquier aplicación (de acuerdo a los ajustes de desarrollo), incluyendo información privada como los contactos, mensajes y fotos."</string>
+     <string name="fullbackup_erase_dialog_message">La acción detendrá el respaldo de los datos del dispositivo (como las claves Wi-Fi y el historial de llamadas) y los datos de las aplicaciones (como las configuraciones propias y los archivos almacenados), además se eliminarán todas las copias guardadas en Google Drive. ?Proseguir?</string>
      <string name="gadget_bluetooth">Bluetooth</string>
      <string name="gadget_brightness_state_auto">automático</string>
      <string name="gadget_brightness_state_full">completo</string>
