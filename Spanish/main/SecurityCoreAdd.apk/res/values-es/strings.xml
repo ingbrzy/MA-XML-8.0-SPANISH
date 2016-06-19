@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Active">"Activar"</string>
-     <string name="PassWordGuard">"Contraseña para espacio segundo"</string>
+     <string name="PassWordGuard">"Contraseña para el Segundo espacio"</string>
      <string name="PrivacyContactDes1">"Los contactos permanecerán privados. 
 Los mensajes sólo aparecerán en el Segundo espacio."</string>
      <string name="PrivacyContactDes2">"Si usa los mensajes privados en el Primer espacio,
@@ -78,7 +78,7 @@ Los mensajes sólo aparecerán en el Segundo espacio."</string>
      <string name="guide_contact_title_desc">"¿Quiere ver los elementos privados en el Segundo espacio?"</string>
      <string name="guide_pwd_detail_title">"Proteja sus datos 
 Ingrese al Segundo espacio desde la Pantalla de bloqueo"</string>
-     <string name="guide_setting_guide_title">"Administrar el Segundo espacio"</string>
+     <string name="guide_setting_guide_title">"Administrar Segundo espacio"</string>
      <string name="hidden_app">"Segundo espacio"</string>
      <string name="imageData">"Fotos"</string>
      <string name="import_application">"Importar aplicaciones"</string>
@@ -99,7 +99,7 @@ También puede importarlas por separado."</string>
      <string name="messageData">"Mensajes"</string>
      <string name="msg_switch_file">"¿Eliminar estos archivos del Primer espacio después de haberlos movidos?"</string>
      <string name="msg_switch_photo">"¿Eliminar estas fotos del Primer espacio después de haberlos movidos?"</string>
-     <string name="needSetKeyguardFirst">"Establecer la contraseña del Espacio primero"</string>
+     <string name="needSetKeyguardFirst">"Establecer contraseña del Primer espacio"</string>
      <string name="needSetKeyguardFirstDes">"Establezca una contraseña al Primer espacio antes que la contraseña del Segundo espacio"</string>
      <string name="newSecondSpace">"Activar Espacio segundo"</string>
      <string name="next_setp">"Siguiente"</string>
@@ -112,7 +112,7 @@ También puede importarlas por separado."</string>
      <string name="notification_setting_second_space">"Configurar Segundo espacio"</string>
      <string name="notification_setting_second_space_desc">"Añadir contraseña al Segundo espacio y mover los datos"</string>
      <string name="ok_button">"De acuerdo"</string>
-     <string name="openPasswordGuard">"Establecer la contraseña del Segundo espacio"</string>
+     <string name="openPasswordGuard">"Establecer contraseña del Segundo espacio"</string>
      <string name="openSuccess">"Activar"</string>
      <string name="opened">"Activado"</string>
      <string name="otherSettings">"Otros ajustes"</string>
@@ -137,8 +137,8 @@ También puede importarlas por separado."</string>
      <string name="setSecondSpacePassword">"Establecer la contraseña del Segundo espacio"</string>
      <string name="setSecondSpacePasswordGuide">"Establecer la contraseña del Segundo espacio"</string>
      <string name="setSecondSpacePasswordGuideDes">"Utilice esta contraseña para entrar al Segundo espacio desde la Pantalla de bloqueo"</string>
-     <string name="setSpacePasswordGuide">"Utilizar diferentes contraseñas para entrar a ambos espacios desde la Pantalla de bloqueo"</string>
-     <string name="setSuccess">"Contraseñas establecida con éxito"</string>
+     <string name="setSpacePasswordGuide">"Utilice contraseñas distintas para entrar a ambos espacios desde la Pantalla de bloqueo"</string>
+     <string name="setSuccess">"Contraseñas establecidas correctamente"</string>
      <string name="set_space_pwd_detail">"Puede acceder al Segundo espacio usando la contraseña"</string>
      <string name="set_space_pwd_suc">"Añadida contraseña del Segundo espacio"</string>
      <string name="setting_is_show_text_contacts">"Establecer los contactos privados y los mensajes"</string>
@@ -157,7 +157,7 @@ También puede importarlas por separado."</string>
      <string name="show_private_msg">"Mostrar mensajes privados"</string>
      <string name="show_private_msg_summary">"Mostrar mensajes privados en el Segundo espacio"</string>
      <string name="spaceSetting">"Ajustes"</string>
-     <string name="startSet">"Establecimiento"</string>
+     <string name="startSet">"Configurar"</string>
      <string name="startTransfer">"Mover"</string>
      <string name="start_setting_guide_desc_title">"Hay algunas cosas por establecer"</string>
      <string name="summary_switch_apps_settings">"Seleccione las aplicaciones que se utilizan en el Segundo espacio"</string>
