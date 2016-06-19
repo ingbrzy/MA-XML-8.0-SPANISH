@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Escaneando…</item>
+        <item>Conexión…</item>
+        <item>Autentificar…</item>
+        <item>Obteniendo dirección IP…</item>
+        <item>Desconectando</item>
+        <item>Desconectado</item>
+        <item>Sin éxito…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporalmente la mala conexión</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Escaneando…</item>
+        <item>Conexión a %1$s…</item>
+        <item>autenticando en  %1$s…</item>
+        <item>Obteniendo dirección IP de %1$s…</item>
+        <item>Conectado a %1$s</item>
+        <item>Suspendido</item>
+        <item>Desconexión de %1$s…</item>
+        <item>Desconectado</item>
+        <item>Sin éxito</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporalmente mala conexión</item>
+    </string-array>
+    <integer-array name="vibration_torch_on">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>90</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>50</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_torch_off">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <string-array name="duration_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>-</item>
+        <item>d</item>
+    </string-array>
+    <array name="duration_entryValues">
+        <item>@drawable/temp_0</item>
+        <item>@drawable/temp_1</item>
+        <item>@drawable/temp_2</item>
+        <item>@drawable/temp_3</item>
+        <item>@drawable/temp_4</item>
+        <item>@drawable/temp_5</item>
+        <item>@drawable/temp_6</item>
+        <item>@drawable/temp_7</item>
+        <item>@drawable/temp_8</item>
+        <item>@drawable/temp_9</item>
+        <item>@drawable/temp_minus</item>
+        <item>@drawable/temp_degree</item>
+    </array>
+    <string-array name="system_foreground_notification_whitelist">
+        <item>com.miui.home</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.updater</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.player</item>
+        <item>com.android.fileexplorer</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.cloudappbackup</item>
+        <item>com.miui.fmradio</item>
+        <item>com.android.systemui</item>
+    </string-array>
+    <string-array name="avoid_disturb_app_whitelist">
+        <item>com.baidu.BaiduMap</item>
+        <item>com.autonavi.xmgd.navigator</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.baidu.navi</item>
+        <item>com.baidu.bus</item>
+        <item>com.mapbar.android.mapbarmap1</item>
+        <item>com.mapbar.android.trybuynavi</item>
+        <item>com.mapbar.android.gpsnavi</item>
+        <item>com.tencent.map</item>
+        <item>com.tencent.navsns</item>
+        <item>com.uu.uunavi</item>
+        <item>com.sogou.map.android.maps</item>
+        <item>com.tigerknows</item>
+        <item>com.autonavi.cmccmap</item>
+        <item>brut.googlemaps</item>
+    </string-array>
+    <string-array name="carrier_name">
+        <item>SmarToneVodafone</item>
+        <item>SmarToneVodafone 3G</item>
+    </string-array>
+    <string-array name="carrier_simple_name">
+        <item>SMC HK</item>
+        <item>SMC HK 3G</item>
+    </string-array>
+    <string-array name="mcc_mnc">
+        <item>40552</item>
+        <item>40498</item>
+        <item>40431</item>
+        <item>40490</item>
+        <item>40493</item>
+        <item>40492</item>
+        <item>40551</item>
+        <item>40553</item>
+        <item>40470</item>
+        <item>40556</item>
+        <item>40416</item>
+        <item>40410</item>
+        <item>40440</item>
+        <item>40449</item>
+        <item>40496</item>
+        <item>40403</item>
+        <item>40555</item>
+        <item>40495</item>
+        <item>40445</item>
+        <item>40402</item>
+        <item>40494</item>
+        <item>40554</item>
+        <item>40497</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Soleado</item>
+        <item>Nublado</item>
+        <item>Claro</item>
+        <item>Bruma</item>
+        <item>Fuerte tormenta</item>
+        <item>Aguacero</item>
+        <item>Temporal de lluvia</item>
+        <item>Tormenta</item>
+        <item>Chubasco</item>
+        <item>Fuertes lluvias</item>
+        <item>Lluvia moderada</item>
+        <item>Lluvia ligera </item>
+        <item>Lluvia y nieve mezclada</item>
+        <item>Ventisca</item>
+        <item>Nieve</item>
+        <item>Fuertes nevadas</item>
+        <item>Nieve Moderada</item>
+        <item>Poca nieve</item>
+        <item>Fuerte tormenta de arena</item>
+        <item>Tormenta de arena</item>
+        <item>Arena</item>
+        <item>Vientos</item>
+        <item>Granizo</item>
+        <item>Polvo</item>
+        <item>Neblina</item>
+        <item>Lluvia helada</item>
+        <item></item>
+    </string-array>
+</resources>
