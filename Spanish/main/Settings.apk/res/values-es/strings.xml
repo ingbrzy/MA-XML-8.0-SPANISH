@@ -218,9 +218,11 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
      <string name="app_ops_never_used">(Sin utilizar)</string>
      <string name="app_ops_running">En curso</string>
      <string name="app_ops_settings">Operaciones de las aplicaciones</string>
+     <string name="app_permissions">Permisos de aplicaciones</string>
+     <string name="app_permissions_group_summary" formatted="false">%d de %d aplicaciones permitidas</string>
+     <string name="app_permissions_summary" formatted="false">%d de %d aplicaciones se le permite un acceso adicional</string>
      <string name="app_ops_settings_summary">View or change app permissions</string>
      <string name="app_overlay_permission_preference">Permitir a una aplicación estar por encima de otras</string>
-     <string name="app_permissions">Permisos de aplicaciones</string>
      <string name="app_process_limit_title">Límite de procesos en segundo plano</string>
      <string name="app_restrictions_custom_label">Definir restricciones de aplicación</string>
      <string name="app_sees_restricted_accounts">Esta aplicación puede acceder a tus cuentas.</string>
