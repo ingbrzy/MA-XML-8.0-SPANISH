@@ -10,6 +10,7 @@
     <string name="apply_action">Aplicar</string>
     <string name="apply_as_lockwallpaper_action">Aplicar</string>
     <string name="apply_negative_action">No Aplicar</string>
+    <string name="change_wallpaper">Cambio</string>
     <string name="download_action">Descargar</string>
     <string name="apply_as_lock_wallpaper_message">¿Aplicar a pantalla de bloqueo también?</string>
     <string name="lock_screen_failed_message">No se pudo aplicar a la pantalla de bloqueo</string>
@@ -38,6 +39,7 @@
     <string name="menu_settings">Ajustes</string>
     <string name="menu_reset_scene">Volver a escenario predeterminado</string>
     <string name="menu_exit_scene">Salir de Mi Space</string>
+    <string name="normal_wallpaper">Fondo de pantalla</string>
     <string name="permlab_install_shortcut">Instalar accesos directos</string>
     <string name="permdesc_install_shortcut">Permite que una aplicación añada accesos directos sin intervención del usuario.</string>
     <string name="permlab_uninstall_shortcut">Desinstalar accesos directos</string>
@@ -62,6 +64,8 @@
     <string name="menu_edit">Modificar escritorio</string>
     <string name="menu_sort">Ordenar aplicaciones</string>
     <string name="menu_launcher_setting">Ajustes del launcher</string>
+    <string name="menu_wallpaper">Fondo de pantalla</string>
+    <string name="normal_wallpaper">Fondo de pantalla</string>
     <string name="editing_tips">Editar escritorio</string>
     <string name="editing_mode_title">%1$d seleccionado</string>
     <string name="editing_mode_title_empty">0 seleccionados</string>
@@ -247,8 +251,10 @@
     <string name="children_folder_title">Niños</string>
     <string name="children_mode_exit">Salir</string>
     <string name="children_mode_tips">Volver a Ajustes para gestionar el acceso a las aplicaciones.</string>
+    <string name="wallpaper">Fondo de pantalla</string>
     <string name="wallpaper_auto_change_title">Pantalla de bloqueo</string>
     <string name="wallpaper_scaling_message">Escala a tamaño fijo</string>
+    <string name="wallpaper_settings">Fondo de pantalla</string>
     <string name="cant_edit_lock_screen">No se puede editar el estilo de la pantalla de bloqueo.</string>
     <string name="screen_number">%d pantalla</string>
     <string name="delete_screen">Eliminar pantalla</string>
