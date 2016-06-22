@@ -1,14 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">com.securitycore.miui_t</string>
-  <string name="avl_dialog_header">Esta funcionalidad encripta y sube el ID de tu dispositivo a los servidores de AVL (%s).</string>
-  <string name="avl_dialog_policy">ver Política de Privacidad</string>
-  <string name="avl_dialog_title">Política de Privacidad de AVL</string>
-  <string name="hello_world">¡Hola mundo!</string>
+  <string name="AVL">AVL</string>
+  <string name="Avast">Avast</string>
+  <string name="DesAVL">AVL</string>
+  <string name="DesAvast">Avast</string>
+  <string name="DesMi">Mi</string>
+  <string name="DesTencent">Tencent</string>
+  <string name="Mi">Mi</string>
+  <string name="Tencent">Tencent</string>
+  <string name="app_name">Componentes de seguridad MIUI</string>
+  <string name="avast_dialog_cloudscan"/>
+  <string name="avast_dialog_dbupdate"/>
+  <string name="avast_dialog_header">"Esta función cifra y carga tu ID de dispositivo a los servidores de Avast (%s)."</string>
+  <string name="avast_dialog_policy">Ver política de privacidad</string>
+  <string name="avast_dialog_title">"Avast política de privacidad"</string>
+  <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
+  <string name="avast_virus_type_adware_description">El virus es un programa publicitario.Crea anuncios de forma automática.</string>
+  <string name="avast_virus_type_cryportor_description">El virus es un cifrador.Es un software malicioso que se transmite por medio de replicarse a sí mismo en el espacio de almacenamiento.</string>
+  <string name="avast_virus_type_dropper_description">El virus es un dropper.Se lleva el código que instala otro virus malicioso.</string>
+  <string name="avast_virus_type_exploit_description">El virus es un exploit. Se aprovecha de un fallo o vulnerabilidad en el sistema con el fin de provocar un comportamiento no deseado o imprevisto.</string>
+  <string name="avast_virus_type_heuristic_description">La infección se infiere mediante el uso de una heurística específica. Un análisis heurístico específico dice que es un virus.</string>
+  <string name="avast_virus_type_joke_description">El virus es una broma. Se crea un efecto molesto o humorístico como una broma.Normalmente hace menos daño en el sistema de.</string>
+  <string name="avast_virus_type_pup_description">El virus es un programa potencialmente no deseado (PUP). Es un programa que puede ser no deseado (como software espía, adware, etc), a pesar de la posibilidad de que los usuarios den su consentimiento para descargarlo.</string>
+  <string name="avast_virus_type_rootkit_description">El virus es un rootkit. Es un tipo de software diseñado para ocultar el hecho de que un sistema operativo se ha visto comprometido.Se utiliza para obtener el control sobre el dispositivo al ocultar en el interior del sistema. Rootkits permiten a virus y malware "ocultarse a la vista" disfrazando archivos cuando sea necesario para que el software antivirus lo pasen por alto.</string>
+  <string name="avast_virus_type_spyware_description">"El virus es un software espía. Es un software que recopila información del usuario a través de su conexión a Internet sin su conocimiento."</string>
+  <string name="avast_virus_type_suspicious_description">Un archivo sospechoso común. El sistema antivirus está tratando de clasificarlo.</string>
+  <string name="avast_virus_type_tool_description">El virus es una herramienta potencialmente mal infectar por medios similares a PUP.</string>
+  <string name="avast_virus_type_trjan_description">El virus es un troyano. Es un un malware diseñado para proporcionar acceso no autorizado, a distancia para el dispositivo de un usuario. Los Troyanos normalmente no tienen la capacidad de replicarse a sí mismos como los virus; sin embargo, pueden dar lugar a otro tipo de malware que se instala en una máquina, diversos datos sean robados, u otras actividades maliciosas.</string>
+  <string name="avast_virus_type_unknown_description">Infección desconocida.</string>
+  <string name="avast_virus_type_worm_description">El virus es un gusano. Es un malware independiente que se replica a sí mismo con el fin de difundir a otros dispositivos. Se aprovecha de las características del archivo o de transporte de información de sistema (tales como la red), puede viajar sin ninguna acción humana. Los gusanos casi siempre causan al menos algunos daños en la red.</string>
+  <string name="avl_dialog_cloudscan"/>
+  <string name="avl_dialog_dbupdate"/>
+  <string name="avl_dialog_header">"Esta función cifra y carga tu ID de dispositivo a los servidores de AVL (%s)."</string>
+  <string name="avl_dialog_policy">Ver política de privacidad</string>
+  <string name="avl_dialog_title">"Política de privacidad de AVL"</string>
+  <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+  <string name="default_sdcard_volume_path"/>
+  <string name="hello_world">Hola Mundo!</string>
   <string name="menu_settings">Ajustes</string>
-  <string name="tencent_dialog_cloudscan">Subir y escanear nombres y detalles de aplicaciones usando definiciones de virus en línea.</string>
-  <string name="tencent_dialog_dbupdate">Actualizar definiciones de virus automáticamente</string>
-  <string name="tencent_dialog_header">Esta funcionalidad encripta y sube el ID de tu dispositivo a los servidores de Tencent (%s).</string>
-  <string name="tencent_dialog_policy">ver Política de Privacidad</string>
-  <string name="tencent_dialog_title">Política de Privacidad de Tencent</string>
+  <string name="tencent_dialog_cloudscan">Sube y escanear los nombres y detalles de la aplicación utilizando las definiciones de virus en línea.</string>
+  <string name="tencent_dialog_dbupdate">Actualización de las definiciones de virus automáticamente</string>
+  <string name="tencent_dialog_header">"Esta función cifra y carga tu ID de dispositivo a los servidores de Tencent (%s)."</string>
+  <string name="tencent_dialog_policy">Ver política de privacidad</string>
+  <string name="tencent_dialog_title">Política de privacidad de Tencent</string>
+  <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+  <string name="title_activity_main">Actividad principal</string>
 </resources>
