@@ -53,9 +53,16 @@
   <string name="feedback_title_hint">Describe el problema brevemente</string>
   <string name="hot_problem">Ver errores comunes</string>
   <string name="loading_apps">Cargando lista…</string>
+  <string name="login_system_failed">"No se pudo acceder, inténtelo de nuevo"</string>
   <string name="logo_title">Centro de reporte de errores</string>
   <string name="max_error">Su descripción debe ser más corta.</string>
   <string name="menu_copy">Copiar</string>
+  <string name="michat_cant_join_artifical">"No se puede conectar debido a fallo de red"</string>
+  <string name="michat_failed_to_fetch_fql">"No se pudo obtener información FAQ, compruebe la conexión de red"</string>
+  <string name="michat_lose_artifical">Se ha producido un error en la red, dejaste el chat</string>
+  <string name="michat_message_join_again">"¡Me alegro de que estés de vuelta!"</string>
+  <string name="michat_queue_pos_update">Hay %1$d personas delante de usted, espere un momento…</string>
+  <string name="michat_user_quit">Dejaste el chat</string>
   <string name="min_error">El título debe ser más largo.</string>
   <string name="modem_tool_log">Recuperar registros del módem</string>
   <string name="modem_tool_log_start">Empezar</string>
@@ -71,6 +78,8 @@
   <string name="plus_one_submit_dialog_content">Su comentario, junto con los registros de error, serán enviados a los servidores de Mi.</string>
   <string name="plus_one_submit_dialog_not_show_again">Recordar preferencia</string>
   <string name="refresh">Actualizar</string>
+  <string name="reply">Respuesta</string>
+  <string name="reply_failed">Fallo de Respuesta</string>
   <string name="report_miui">Reportar error</string>
   <string name="screen_lock">Bloqueo de pantalla</string>
   <string name="section_description">Descripción</string>
