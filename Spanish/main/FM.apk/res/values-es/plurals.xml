@@ -9,4 +9,8 @@
     <item quantity="few">%1$d emisoras encontradas</item>
     <item quantity="many">%1$d emisoras encontradas</item>
   </plurals>
+   <plurals name="notification_rec_content">
+    <item quantity="other">%d FM grabaciones</item>
+    <item quantity="one">%d FM grabación</item>
+  </plurals>
 </resources>
