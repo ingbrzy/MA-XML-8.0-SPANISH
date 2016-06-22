@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="menu_newContactButton">Añadir</string>
+    <string name="callrecordview_menu_ip">IP de marcación automática</string>
+    <string name="callrecordview_menu_blocklist">Lista de bloqueos</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_extensions_to_consider" />
     <string name="config_prohibited_phone_number_regexp" />
+    <string name="firewall_setting">Lista de bloqueos</string>
     <string name="help_url_people_main" />
     <string name="help_url_people_add" />
     <string name="help_url_people_edit" />
@@ -113,6 +116,7 @@
     <string name="contactsGroupsLabel">Grupos</string>
     <string name="contactsFavoritesLabel">Favoritos</string>
     <string name="dialerIconLabel">Recientes</string>
+    <string name="dialer_menu_title">Opciones de menú</string>
     <string name="recentCallsIconLabel">Registro de llamadas</string>
     <string name="menu_sendTextMessage">Enviar mensaje de texto</string>
     <string name="recentCalls_callNumber">Llamar a %s</string>
