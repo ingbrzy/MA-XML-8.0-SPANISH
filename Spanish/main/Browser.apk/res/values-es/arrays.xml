@@ -105,6 +105,18 @@
         <item>iPhone</item>
         <item>iPad</item>
      </string-array>
+     <string-array name="shortcut_dialog_title">
+       <item>Mensaje del Navegador</item>
+       <item>Siga los Juegos Olímpicos con el MI</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+       <item>OK</item>
+       <item>Seguir</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+        <item>Borrar</item>
+        <item>No, gracias</item>
+     </string-array>
      <string-array name="pref_video_preload_choices">
         <item>Nunca</item>
         <item>Sólo con Wi-Fi</item>
