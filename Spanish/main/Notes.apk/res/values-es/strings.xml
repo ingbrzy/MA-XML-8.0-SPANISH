@@ -31,6 +31,7 @@
     <string name="menu_mark_privacy">Ocultar</string>
     <string name="menu_unmark_privacy">Mostrar</string>
     <string name="menu_move_to">Mover a</string>
+    <string name="menu_send_as_image">Enviar como imagen</string>
     <string name="menu_send_to_desktop">Enviar a escritorio</string>
     <string name="menu_title_select_folder">Elegir carpeta</string>
     <string name="menu_move_parent_folder">Carpeta principal</string>
@@ -68,8 +69,8 @@ Pulse en el signo más para crear una carpeta"</string>
     <string name="search">Notas</string>
     <string name="button_new_note">Nuevo</string>
     <string name="default_folder_name">Notas</string>
-    <string name="attachment_gallery">Galería</string>
-    <string name="attachment_camera">Cámara</string>
+    <string name="attachment_gallery">Elegir de la galería</string>
+    <string name="attachment_camera">Tomar una foto</string>
     <string name="attachment_contact">Contactos</string>
     <string name="alert_edit_action_update">Cambiar</string>
     <string name="alert_edit_action_delete">Eliminar</string>
@@ -123,6 +124,7 @@ Pulse en el signo más para crear una carpeta"</string>
     <string name="dlg_info_creating_message">Creando mensaje…</string>
     <string name="sns_message_disconnect">No se puede conectar a la red. Comprueba la conexión de datos y vuelve a intentarlo.</string>
     <string name="sns_content_default">Compartir foto</string>
+    <string name="sns_desc_image_preview">Mensaje de previsualización</string>
     <string name="sns_toast_empty">No es posible enviar una publicación vacía</string>
     <string name="sns_toast_over_limit">Enviar como imagen (superior al límite de texto)</string>
     <string name="sns_desc_preview_weibo">Vista previa del mensaje en Weibo</string>
