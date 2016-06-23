@@ -3,6 +3,13 @@
     <string name="menu_newContactButton">Añadir</string>
     <string name="callrecordview_menu_ip">IP de marcación automática</string>
     <string name="callrecordview_menu_blocklist">Lista de bloqueos</string>
+    <string name="callrecordview_menu_mobiledata">Datos de compra</string>
+    <string name="callrecordview_menu_paste">Pegar</string>
+    <string name="callrecordview_menu_recharge">Completar</string>
+    <string name="callrecordview_menu_save_to_group">Guardar el historial de llamadas de grupo</string>
+    <string name="callrecordview_menu_settings">Ajustes</string>
+    <string name="callrecordview_menu_show">Filtrar</string>
+    <string name="callrecordview_menu_show_accepted">Llamadas atendidas</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />
@@ -28,6 +35,8 @@
     <string name="viewContactTitle">Datos de contacto</string>
     <string name="viewContactDesription">Ver contacto</string>
     <string name="editContactDescription">Editar contacto</string>
+    <string name="editContactNameExpandCloseDescription">Collapse name</string>
+    <string name="editContactNameExpandOpenDescription">Ampliar el nombre</string>
     <string name="insertContactDescription">Crear contacto</string>
     <string name="editGroupDescription">Editar grupo</string>
     <string name="insertGroupDescription">Crear grupo</string>
@@ -922,6 +931,7 @@ Las tarjetas de contacto están apagadas"</string>
     <string name="antispam_provider_format">Marcado como spam por %s</string>
     <string name="type_mx_msg">Mensaje Mi</string>
     <string name="qr_card_card">Código QR</string>
+    <string name="menuMoreDescription">Más</string>
     <string name="menu_new_favorite_action_bar">Nuevo</string>
     <string name="click_close">Tocar para cerrar</string>
     <string name="phone_primary">Primaria</string>
@@ -929,6 +939,10 @@ Las tarjetas de contacto están apagadas"</string>
     <string name="menu_bar_group_add">Añadir</string>
     <string name="menu_bar_group_sms">Grupo SMS</string>
     <string name="menu_bar_group_ringtone">Tono de llamada de grupo</string>
+    <string name="menu_bar_group_batch_copy">Copiar en el grupo</string>
+    <string name="menu_bar_group_batch_edit">Contactos múltiples</string>
+    <string name="menu_bar_group_batch_move">Mover al grupo</string>
+    <string name="menu_bar_group_batch_remove">Eliminar grupo</string>
     <string name="menu_bar_group_rename">Cambiar el nombre</string>
     <string name="menu_bar_group_delete">Eliminar</string>
     <string name="menu_bar_group_ringtone_largeui">Tono de llamada</string>
