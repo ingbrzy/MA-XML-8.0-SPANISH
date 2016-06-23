@@ -49,15 +49,20 @@
   <string name="actionbar_share">Compartir</string>
   <string name="actionbar_web_search">Búsqueda en la web</string>
   <string name="adblock_notification">%d anuncios bloqueados</string>
+  <string name="adblock_rules_not_updated_toast">"No se pudo actualizar"</string>
   <string name="adblock_rules_restore">Desbloquear</string>
+  <string name="adblock_rules_updated_toast">Actualizado correctamente</string>
   <string name="adblock_websites_settings_empyt_hint">No ha bloqueado ninún sitio.</string>
   <string name="adblock_websites_settings_title">Sitios bloqueados</string>
   <string name="add_bookmark_group">Agregar grupo</string>
+  <string name="add_bookshelf_popup_text">Añadido a la estantería</string>
   <string name="add_new_bookmark">Agregar un marcador</string>
   <string name="add_new_quicklink">Añadir atajo</string>
   <string name="add_ql_bm_title">Guardar</string>
   <string name="add_quicklink_to_popular">Agregar a la página de inicio</string>
   <string name="add_quicklinks">Añadir a la página de inicio</string>
+  <string name="add_shortcut">Añadir atajo</string>
+  <string name="add_shortcut_success">Añadido con éxito el acceso directo</string>
   <string name="add_to_bookmark">Añadir a marcadores</string>
   <string name="add_to_desk">Añadir a la pantalla Home</string>
   <string name="add_to_desk_success">Añadido a la pantalla Home</string>
@@ -450,6 +455,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="paused_unknown">En pausa</string>
   <string name="paused_waiting_for_network">Esperando a conectar…</string>
   <string name="paused_waiting_to_retry">Esperando a reintentar…</string>
+  <string name="pay_failed_toast">"No se puede realizar el pago"</string>
+  <string name="pay_success_toast">Pagado con éxito</string>
   <string name="popup_window_attempt">¿Permitir a este sitio abrir una ventana emergente?</string>
   <string name="positive_confirm_message">Apagar de todas formas</string>
   <string name="pref_accessibility">Accesibilidad</string>
@@ -615,6 +622,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="save_password_never">Nunca</string>
   <string name="save_password_notnow">Ahora no</string>
   <string name="save_password_remember">Recordar</string>
+  <string name="save_to">Salvar a</string>
   <string name="save_to_camera">Guardar en cámara</string>
   <string name="save_to_camera_failed">"No se puede guardar la imagen"</string>
   <string name="save_to_camera_success">Guardado en cámara</string>
@@ -647,6 +655,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="select_download_device">Elegir dispositivo</string>
   <string name="send_comment_button">Enviar</string>
   <string name="send_comment_title">Comentario</string>
+  <string name="senddesktop">Escritorio</string>
+  <string name="sendstartpage">Página de inicio</string>
   <string name="share_page_text">"Estoy disfrutando 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"La URL de esta web se enviará a los servidores de Xiaomi para verificar su seguridad. Puede desactivar esta característica en Ajustes en cualquier momento."</string>
   <string name="show_security_tip_dialog_title">Términos de Servicio</string>
