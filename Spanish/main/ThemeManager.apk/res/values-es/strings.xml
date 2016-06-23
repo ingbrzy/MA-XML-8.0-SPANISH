@@ -19,12 +19,17 @@
   <string name="backup_theme_name">Copia de seguridad del tema</string>
   <string name="backup_theme_progress_message">Haciendo copia de seguridad…</string>
   <string name="backup_theme_success_message">Copia de seguridad del tema realizada.</string>
+  <string name="change_host_hint">Change host</string>
   <string name="change_wallpaper">Fondo de pantalla</string>
   <string name="choose_new_themes">Temas</string>
   <string name="close">Cerrar</string>
   <string name="component_backup_preference_title">Copia de seguridad de los temas</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">AVANZADO</string>
+  <string name="component_title_ringtone">Tono de llamada</string>
+  <string name="component_title_wallpaper">Fondos de escritorio</string>
+  <string name="current_using_desktop_wallpaper_text">Pantalla de inicio</string>
+  <string name="current_using_lockscreen_wallpaper_text">Bloquear pantalla</string>
   <string name="deleting">Borrando…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Diseñador</string>
@@ -75,6 +80,9 @@
   <string name="gift_use_confirmation_dlg_title">¿Enviar este regalo?</string>
   <string name="gift_use_fail_dlg_title">Algo fue mal</string>
   <string name="gift_used">Enviado</string>
+  <string name="incompatible_dialog_message">Este tema no es totalmente compatible con MIUI 8. Algunos elementos se pueden mostrar incorrectamente.</string>
+  <string name="incompatible_dialog_ok">Lo tengo</string>
+  <string name="incompatible_dialog_title">Problemas de compatibilidad</string>
   <string name="live_wallpaper">Fondo de pantalla animado</string>
   <string name="loading">Un momento…</string>
   <string name="loading_resource_detail_fail">"No se puede cargar el recurso"</string>
