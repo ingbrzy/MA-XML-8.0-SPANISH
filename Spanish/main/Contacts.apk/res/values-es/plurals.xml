@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="group_move_success_toast">
+        <item quantity="other">Movido %1$d contactos</item>
+     </plurals>
+     <plurals name="group_copy_success_toast">
+        <item quantity="other">Copiado %1$d contactos</item>
+     </plurals>
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contactos con número de teléfono</item>
         <item quantity="one">1 contacto con número de teléfono</item>
@@ -75,6 +81,10 @@
      <plurals name="hint_search_emails">
         <item quantity="other">%1$d contactos con email</item>
         <item quantity="one">1 contacto con email</item>
+     </plurals>
+     <plurals name="hint_account_contacts">
+        <item quantity="other">encontró %1$d</item>
+        <item quantity="one">encontró 1</item>
      </plurals>
      <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favoritos</item>
