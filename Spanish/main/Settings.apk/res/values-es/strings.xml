@@ -1245,9 +1245,12 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
      <string name="enforce_read_external_title">Proteger almacenamiento USB</string>
      <string name="enhanced_4g_lte_mode_summary">Usar datos de LTE para mejorar la voz y las comunicaciones (recomendado)</string>
      <string name="enhanced_4g_lte_mode_title">Modo 4G LTE mejorado</string>
-     <string name="enter_password">Para iniciar el dispositivo Android, ingresa la contraseña.</string>
-     <string name="enter_pattern">Para iniciar el dispositivo Android, dibuja el patrón.</string>
-     <string name="enter_pin">Para iniciar el dispositivo Android, ingresa el PIN.</string>
+     <string name="enter_password">Introduzca la contraseña actual de la pantalla de bloqueo para descifrar el dispositivo después de reiniciar</string>
+     <string name="enter_pattern">Introduzca la contraseña actual de la pantalla de bloqueo para descifrar el dispositivo después de reiniciar</string>
+     <string name="enter_pin">Introduzca la contraseña actual de la pantalla de bloqueo para descifrar el dispositivo después de reiniciar</string>
+     <string name="erase_application">Borrar aplicaciones</string>
+     <string name="erase_application_description">Borrar las aplicaciones descargadas</string>
+     <string name="erase_data">Borrar</string>
      <string name="equalizer">Ecualizador</string>
      <string name="erase_application">Eliminar apps</string>
      <string name="erase_application_description">Eliminar las aplicaciones descargadas</string>
@@ -2966,7 +2969,7 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
      <string name="search_wifi_wapi_cert_uninstall">Uninstall WAPI certificate</string>
      <string name="search_wps_connect_title">WPS push button</string>
      <string name="search_xiaomi_account">Mi Account</string>
-     <string name="search_xspace">XSpace</string>
+     <string name="search_xspace">Aplicaciones clonadas</string>
      <string name="search_zen_mode_option_miui_silent">Silent mode</string>
      <string name="second_space">Espacio segundo</string>
      <string name="secure_keyguard_business_title">>Configurar bloqueo de pantalla</string>
