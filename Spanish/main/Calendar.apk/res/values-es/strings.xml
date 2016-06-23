@@ -66,9 +66,9 @@
      <string name="birthday_event_description_detail_leap" />
      <string name="birthday_event_description_detail_smart" />
      <string name="birthday_event_description_special">%1$s es el %3$s %4$s %5$s de %2$s</string>
-     <string name="birthday_event_description_today">Hoy</string>
-     <string name="birthday_event_description_tomorrow">Mañana</string>
-     <string name="birthday_event_description_yesterday">Ayer</string>
+     <string name="birthday_event_description_today">Hoy es</string>
+     <string name="birthday_event_description_tomorrow">Mañana es</string>
+     <string name="birthday_event_description_yesterday">Ayer fue</string>
      <string name="birthday_metric" />
      <string name="birthday_notification_age_term" />
      <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
@@ -227,6 +227,7 @@
      <string name="hint_description">Descripción</string>
      <string name="hint_what">Nombre del evento</string>
      <string name="hint_where">Ubicación</string>
+     <string name="holiday_card_title">Festivo</string>
      <string name="holiday_label">Festivales chinos</string>
      <string name="horoscope_card_comprehensive">Integral：</string>
      <string name="horoscope_card_financial">Financiero：</string>
