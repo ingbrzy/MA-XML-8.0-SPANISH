@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d sin leer</item>
+        <item quantity="other">%1$d nuevos mensajes</item>
+        <item quantity="one">%1$d nuevo mensaje</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">¿Archivar estas %1$d conversaciones?</item>
