@@ -21,6 +21,13 @@
         <item>Texto grande</item>
         <item>Texto enorme</item>
      </string-array>
+     <string-array name="general_preference_text_zoom_values">
+        <item>Texto diminuto</item>
+        <item>Texto pequeño</item>
+        <item>normal</item>
+        <item>Texto grande</item>
+        <item>Texto enorme</item>
+     </string-array>
      <string-array name="menu_att_mgr_sort_string_array">
         <item>Recientes</item>
         <item>Formato</item>
@@ -37,6 +44,11 @@
         <item>Más reciente</item>
         <item>Más antiguo</item>
         <item>Lista de conversaciones</item>
+     </string-array>
+     <string-array name="prefValues_autoAdvance">
+        <item>más nuevo</item>
+        <item>más antiguo</item>
+        <item>lista</item>
      </string-array>
      <string-array name="signature_normal_string_array">
         <item>Blog:</item>
