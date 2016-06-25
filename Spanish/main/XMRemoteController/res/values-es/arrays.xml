@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Refrigeración</item>
+        <item>Calentamiento</item>
+        <item>Deshumidificación</item>
+        <item>Ventilador</item>
+    </string-array>
+    <string-array name="answer">
+        <item>El dispositivo sólo puede emparejarse con Mi TV, Mi Box y otros dispositivos Android que utilizan Wi-Fi.</item>
+        <item>Asegúrese de que ha seleccionado el modelo correcto de aire acondicionado en el proceso de emparejamiento. Siga las indicaciones de su dispositivo hasta que se complete el emparejamiento.</item>
+        <item>No. Actualmente puede utilizar Mi 4, Mi 4c y Redmi Note 2 como dispositivos de infrarrojos.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="question">
+        <item>¿Por qué mi teléfono sigue buscando dispositivos inalámbricos?</item>
+        <item>¿Por qué sólo puedo encender el aire acondicionado y no puedo apagarlo?</item>
+        <item>¿Puedo usar Mi 3, Mi 2 y Redmi como un control remoto de infrarrojos?</item>
+    </string-array>
+</resources>

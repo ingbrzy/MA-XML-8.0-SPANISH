@@ -54,7 +54,7 @@
      <string name="audio_effect_custom">Configurar</string>
      <string name="audio_effect_info">Optimizar audio</string>
      <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
-     <string name="battery_low_percent_format">Quedan %d%%</string>
+     <string name="battery_low_percent_format">Queda un %d%% por ciento</string>
      <string name="battery_low_title">Conecta el cargador.</string>
      <string name="battery_profiles">Usar perfiles de batería</string>
      <string name="block_record_notification_more_text">Ocultando notificaciones de %1$s &amp; %2$d aplicaciones.</string>
@@ -94,6 +94,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
      <string name="dlg_error_title">Acción de USB fallida</string>
      <string name="dlg_ok">Aceptar</string>
      <string name="drive_mode_tip">Está en modo Automóvil</string>
+     <string name="enable_power_save_mode">Activar el ahorro de batería</string>
      <string name="expanded_confirm_disable_notification">Ocultar</string>
      <string name="expanded_notification_manager">Gestión de notificaciones</string>
      <string name="ext_media_badremoval_notification_message">Desactivar el almacenamiento USB antes de desmontar la unidad podría provocar la pérdida de datos.</string>
@@ -159,6 +160,9 @@ Usa sólo el cargador provisto."</string>
      <string name="oldman_incall_text">en llamada</string>
      <string name="oldman_status_bar_time_format_12">h:mm</string>
      <string name="oldman_status_bar_time_format_24">HH:mm</string>
+     <string name="recent_task_app_info_text">Información</string>
+     <string name="recent_task_lock_text">Bloquear</string>
+     <string name="recent_task_unlock_text">Desb.</string>
      <string name="reject_call">Rechazando llamada</string>
      <string name="return_to_incall_screen">Volver a la llamada</string>
      <string name="screen_button_notification_text">Para activarlos, presiona los botones de Inicio y Encender simultáneamente.</string>
@@ -168,12 +172,20 @@ Usa sólo el cargador provisto."</string>
      <string name="screen_pinning_negative">No thanks</string>
      <string name="screen_pinning_positive">Got it</string>
      <string name="screen_pinning_title">Screen is pinned</string>
+     <string name="screenshot_long_screenshot">Ampliar</string>
+     <string name="screenshot_edit">Editar</string>
+     <string name="screenshot_send">Enviar</string>
      <string name="screenshot_failed_text">No se pudo guardar la captura de pantalla. Puede que el almacenamiento esté en uso.</string>
      <string name="screenshot_saved_text">Toca para ver tu captura de pantalla.</string>
      <string name="screenshot_saved_title">Se guardó la captura de pantalla.</string>
      <string name="screenshot_saving_text">La captura de pantalla se está guardando.</string>
      <string name="screenshot_saving_ticker">Guardando captura de pantalla</string>
      <string name="screenshot_saving_title">Guardando la captura de pantalla...</string>
+     <string name="long_screenshot_not_support_msg">"La aplicación actual no soporta capturas de pantallas amplias."</string>
+     <string name="long_screenshot_out_of_memory_error">El tamaño de la imagen es demasiado grande</string>
+     <string name="long_screenshot_stop">Hecho</string>
+     <string name="long_screenshot_processing">Procesando...</string>
+     <string name="long_screenshot_top_msg">Tomando captura de pantalla amplia....</string>
      <string name="settings_custom_notification">Gestionar notificaciones</string>
      <string name="settings_toggle_position">Personalizar controles</string>
      <string name="settings_toggle_position_divider_list">Accesos activos encima de la barra de tareas</string>
@@ -251,4 +263,5 @@ Desliza hacia abajo para bloquear"</string>
      <string name="vpn_text_long">Conectado en %s. Pulsa para ver los detalles.</string>
      <string name="vpn_title">VPN activada</string>
      <string name="vpn_title_long">Conexión a VPN utilizando %s</string>
+     <string name="weather_publish_time">Actualizado %1$s</string>
 </resources>

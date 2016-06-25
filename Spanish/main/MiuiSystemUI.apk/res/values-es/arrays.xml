@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Escaneando…</item>
+        <item>Conexión…</item>
+        <item>Autentificar…</item>
+        <item>Obteniendo dirección IP…</item>
+        <item>Conectado</item>
+        <item>Suspendido</item>
+        <item>Desconexión…</item>
+        <item>Desconectado</item>
+        <item>Sin éxito</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporalmente la mala conexión</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Escaneando…</item>
+        <item>Conexión a %1$s…</item>
+        <item>Autenticando en %1$s…</item>
+        <item>Obteniendo dirección IP de %1$s…</item>
+        <item>Conectado a %1$s</item>
+        <item>Suspendido</item>
+        <item>Desconexión de %1$s…</item>
+        <item>Desconectado</item>
+        <item>Sin éxito</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporalmente mala conexión</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Soleado</item>
+        <item>Nublado</item>
+        <item>Claro</item>
+        <item>Bruma</item>
+        <item>Fuerte tormenta</item>
+        <item>Aguacero</item>
+        <item>Temporal de lluvia</item>
+        <item>Tormenta</item>
+        <item>Chubasco</item>
+        <item>Fuertes lluvias</item>
+        <item>Lluvia moderada</item>
+        <item>Lluvia ligera </item>
+        <item>Lluvia y nieve mezclada</item>
+        <item>Ventisca</item>
+        <item>Nieve</item>
+        <item>Fuertes nevadas</item>
+        <item>Nieve Moderada</item>
+        <item>Poca nieve</item>
+        <item>Fuerte tormenta de arena</item>
+        <item>Tormenta de arena</item>
+        <item>Arena</item>
+        <item>Vientos</item>
+        <item>Granizo</item>
+        <item>Polvo</item>
+        <item>Neblina</item>
+        <item>Lluvia helada</item>
+        <item></item>
+    </string-array>
+</resources>

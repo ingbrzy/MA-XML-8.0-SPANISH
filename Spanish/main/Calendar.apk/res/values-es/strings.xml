@@ -66,15 +66,15 @@
      <string name="birthday_event_description_detail_leap" />
      <string name="birthday_event_description_detail_smart" />
      <string name="birthday_event_description_special">%1$s es el %3$s %4$s %5$s de %2$s</string>
-     <string name="birthday_event_description_today">Hoy</string>
-     <string name="birthday_event_description_tomorrow">Mañana</string>
-     <string name="birthday_event_description_yesterday">Ayer</string>
+     <string name="birthday_event_description_today">Hoy es</string>
+     <string name="birthday_event_description_tomorrow">Mañana es</string>
+     <string name="birthday_event_description_yesterday">Ayer fue</string>
      <string name="birthday_metric" />
      <string name="birthday_notification_age_term" />
      <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
      <string name="birthday_notification_text_three_days_later">3 días para el %3$s (%4$s)</string>
      <string name="birthday_notification_text_today">No olvides felicitarle</string>
-     <string name="birthday_notification_title_days_later">"%1$será %2$s muy pronto".</string>
+     <string name="birthday_notification_title_days_later">Dentro de poco será el %2$s de %1$s</string>
      <string name="birthday_notification_title_three_days_later">El %2$s de %1$s se acerca</string>
      <string name="birthday_notification_title_today">%3$s de %1$s</string>
      <string name="birthday_notification_type_term_lunar" />
@@ -227,6 +227,7 @@
      <string name="hint_description">Descripción</string>
      <string name="hint_what">Nombre del evento</string>
      <string name="hint_where">Ubicación</string>
+     <string name="holiday_card_title">Festivo</string>
      <string name="holiday_label">Festivales chinos</string>
      <string name="horoscope_card_comprehensive">Integral：</string>
      <string name="horoscope_card_financial">Financiero：</string>
@@ -322,6 +323,7 @@
      <string name="preferences_alerts_popup_title">Notificación emergente</string>
      <string name="preferences_alerts_ringtone_title">Sonido</string>
      <string name="preferences_alerts_title">Notificaciones</string>
+     <string name="preferences_alerts_vibrate_title">Vibración y tonos de llamada</string>
      <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
      <string name="preferences_build_version">Versión</string>
      <string name="preferences_category_account_title">Cuenta</string>

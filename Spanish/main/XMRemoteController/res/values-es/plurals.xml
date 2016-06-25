@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s descargas</item>
+        <item quantity="one">%1$s descarga</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s usuarios</item>
+        <item quantity="one">%1$s usuario</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d marcas disponibles</item>
+        <item quantity="one">1 marca disponible</item>
+    </plurals>
+</resources>

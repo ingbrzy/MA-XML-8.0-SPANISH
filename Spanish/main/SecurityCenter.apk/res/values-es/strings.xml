@@ -195,6 +195,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
      <string name="button_text_cleanup">Limpiar</string>
      <string name="button_text_clear">Limpiar</string>
      <string name="button_text_create_shortcut">Crear un acceso directo en la pantalla de inicio</string>
+     <string name="button_text_deny">Denegar</string>
      <string name="button_text_disconnect_now">Desconectar</string>
      <string name="button_text_fix">Arreglar</string>
      <string name="button_text_fix_now">Arreglar</string>
@@ -234,6 +235,8 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
      <string name="connect_internet_by_usbshare">Compartir internet a través de USB</string>
      <string name="connect_internet_by_wifi">Wi-Fi</string>
      <string name="continue_install">Instalar</string>
+     <string name="convenient_mode">Desbloquear todas las aplicaciones a la vez</string>
+     <string name="convenient_summary">"No requerir contraseña después de que una aplicación ha sido desbloqueada"</string>
      <string name="correction_attention_dialog_message">Ajustando configuraciones. Espere a que termine e intente de nuevo.</string>
      <string name="cta_button_text_agree">Aceptar</string>
      <string name="cta_button_text_cancel">Cancelar</string>
@@ -296,7 +299,7 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
      <string name="datausage_purchase_title_pkglist">Recarga</string>
      <string name="datausage_purchase_view_detail">Ver detalles</string>
      <string name="declaration_dialog_msg">Esta característica puede ayudar a realizar un seguimiento de su uso, pero no garantiza que no se apliquen cargos adicionales. Para obtener mejores resultados, establezca un límite razonable.</string>
-     <string name="deep_clean_disconnect_data_title">Desactive móvil de datos cuando el dispositivo está bloqueado</string>
+     <string name="deep_clean_disconnect_data_title">Desactiva el plan de datos cuando el dispositivo está bloqueado</string>
      <string name="deep_clean_memory_clean_title">Borrar el caché cuando el dispositivo está bloqueado</string>
      <string name="deep_clean_never_memory_clean">Nunca</string>
      <string name="deep_save_memory_clean_summary">Limpiar cuando el dispositivo se bloquee para evitar que las aplicaciones usen batería</string>
@@ -675,6 +678,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
      <string name="notification_battery_over_heat_summary">Encuentra lo que provoca un calentamiento y enfriamiento del dispositivo.</string>
      <string name="notification_battery_over_heat_title">Temperatura actual es %d℃</string>
      <string name="notification_button_text_of_low_memory">Limpiar</string>
+     <string name="notification_charging_title">Carga</string>
      <string name="notification_exit_power_save_mode">Apagado el ahorro de batería</string>
      <string name="notification_exit_power_save_mode_subtitle">Bateria %s cargada.</string>
      <string name="notification_item">Proteger aplicaciones seleccionadas con el bloqueo de Aplicaciones</string>
@@ -1556,6 +1560,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
      <string name="usbsharenet_exception_title">Pobar internet compartida a través de USB</string>
      <string name="usbsharenet_pc_exception_summary">No se puede conectar a internet mediante conexión USB compartida. Compruebe la conexión a internet de su computadora.</string>
      <string name="virus_list_header_title">%d virus detectados</string>
+     <string name="wakepath_confirm_start_activity">¿Permite a %1$s abrir %2$s?</string>
      <string name="warning_open_mi_sim">Encender Mi SIM</string>
      <string name="wifi_exception_summary">Probar redes Wi-Fi disponibles</string>
      <string name="wifi_exception_title">Probar la red Wi-Fi</string>

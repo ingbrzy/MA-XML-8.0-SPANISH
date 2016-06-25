@@ -36,6 +36,7 @@
   <string name="msg_noantenna_message">Auriculares no detectados. Algunas funciones pueden no estar disponibles.</string>
   <string name="new_frequency">Nueva frecuencia</string>
   <string name="next_station">Siguiente emisora</string>
+  <string name="notification_rec_title">Toque para ver la grabación</string>
   <string name="pre_station">Emisora anterior</string>
   <string name="record_completed">Grabación completada</string>
   <string name="record_file_location_format">Guardado en %s</string>
@@ -59,5 +60,9 @@
   <string name="turn_off_fm">Apagar FM</string>
   <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Modo de reposo</string>
+  <string name="using_recorder_cancel">Cancelar</string>
+  <string name="using_recorder_confirm">Confirmar</string>
+  <string name="using_recorder_dialog_message">"La radio necesita utilizar los servicios de la grabadora del dispositivo para funcionar normalmente."</string>
+  <string name="using_recorder_dialog_title">Permiso de acceso</string>
   <string name="view_stations_list">Ver lista de emisoras</string>
 </resources>

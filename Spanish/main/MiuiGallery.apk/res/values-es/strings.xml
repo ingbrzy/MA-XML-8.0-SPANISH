@@ -1089,6 +1089,7 @@
      <string name="operation_delete_confirm_message_folder">"Se eliminará todo el contenido de la carpeta."</string>
      <string name="operation_detail">Detalles</string>
      <string name="operation_disable_auto_upload">Desactivar la restauración automática</string>
+     <string name="operation_do_delete_local_thumnail">Eliminar del dispositivo</string>
      <string name="operation_download">Descargar foto (%s)</string>
      <string name="operation_edit">Editar</string>
      <string name="operation_enable_auto_upload">Encender restauración automática</string>
@@ -1215,6 +1216,7 @@
      <string name="relation_text_maternal_grandmother">Abuela materna</string>
      <string name="relation_text_mother">Madre</string>
      <string name="relation_with_you">Elegir tipo de relación</string>
+     <string name="release_space_finish_format">Liberado %s de almacenamiento local</string>
      <string name="remove_from_secret_fail">Fallo al eliminar de álbum oculto</string>
      <string name="remove_from_secret_failed_message_with_count">%2$s elementos no pueden ser eliminados del álbum oculto: %1$s.</string>
      <string name="remove_from_secret_failed_with_reason">No se pudo eliminar del álbum oculto. %1$s.</string>
@@ -1459,11 +1461,14 @@
      <string name="video_editor_auto_trim_tip">Recorte automático…</string>
      <string name="video_editor_cancel">Cancelar</string>
      <string name="video_editor_done">Hecho</string>
+     <string name="video_editor_down_load_later">Después</string>
+     <string name="video_editor_down_load_no_wifi_tips">Sólo se puede descargar con WI-FI</string>
+     <string name="video_editor_down_load_now">Descargar</string>
      <string name="video_editor_encode_video">Codificando vídeo…</string>
      <string name="video_editor_encode_video_error">Fallo al codificar vídeo</string>
      <string name="video_editor_fatal_error">Error desconocido</string>
      <string name="video_editor_filter">Filtrar</string>
-     <string name="video_editor_filter_black_and_white">B&amp;N</string>
+     <string name="video_editor_filter_black_and_white">ByN</string>
      <string name="video_editor_filter_blue">Azul</string>
      <string name="video_editor_filter_cloud">Frío</string>
      <string name="video_editor_filter_gothic">Verde</string>
@@ -1478,6 +1483,9 @@
      <string name="video_editor_more">Avanzado</string>
      <string name="video_editor_not_support_tips">Archivos de video no soportados</string>
      <string name="video_editor_ok">De acuerdo</string>
+     <string name="video_editor_res_not_load_dialog_msg">Para usar esto, debe descargar los filtros</string>
+     <string name="video_editor_res_not_load_dialog_title">Necesitas descargar</string>
+     <string name="video_editor_template_family">Familia</string>
      <string name="video_editor_template_forbidden_tips">No se puede hacer esto cuando se utiliza una plantilla</string>
      <string name="video_editor_template_oldfilm">De época</string>
      <string name="video_editor_template_sports">Rock</string>

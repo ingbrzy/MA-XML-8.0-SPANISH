@@ -29,6 +29,7 @@
   <string name="callFailed_unobtainable_number">Número no válido</string>
   <string name="callFailed_userBusy">Línea ocupada</string>
   <string name="callUnanswered_forwarded">Llamada no respondida y desviada</string>
+  <string name="call_button_tools_text">Caracteristicas</string>
   <string name="call_description_recording">Grabando…</string>
   <string name="call_extension_conference_mode">Modo conferencia</string>
   <string name="call_record_button_label">Grabando: %s</string>
@@ -61,6 +62,7 @@
   <string name="card_title_threeway_call">Llamada a 3</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s personas</string>
+  <string name="conference_callers_exceeded">Callers in conference exceeded</string>
   <string name="contactPhoto">Foto del contacto</string>
   <string name="contacts_icon_label">Contactos</string>
   <string name="description_image_button_answer">Deslizar arriba para responder</string>
@@ -97,6 +99,12 @@
   <string name="incall_error_supp_service_transfer">No se puede transferir la llamada.</string>
   <string name="incall_error_supp_service_unknown">Servicio no soportado.</string>
   <string name="incoming_call_forwarded_title">Desviar llamadas entrantes</string>
+  <string name="incoming_circle_text_answer">Lanzamiento</string>
+  <string name="incoming_circle_text_answer_p">Deslizar hacia arriba</string>
+  <string name="incoming_circle_text_message">Lanzamiento</string>
+  <string name="incoming_circle_text_message_p">Deslizar hacia arriba</string>
+  <string name="incoming_circle_text_reject">Lanzamiento</string>
+  <string name="incoming_circle_text_reject_p">Deslizar hacia arriba</string>
   <string name="ivr_menu_dialing_msg">Desviando…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Ir al servicio seleccionado…[Corrección automática de errores está activada]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Presione %s</string>
@@ -163,7 +171,9 @@
   <string name="onscreen_call_record">Grabar</string>
   <string name="onscreen_hold_text">Retener</string>
   <string name="onscreen_merge_calls_text">Combinar las llamadas</string>
+  <string name="onscreen_mi_support_calls_text">Apoyo Mi</string>
   <string name="onscreen_mute_text">Silenciar</string>
+  <string name="onscreen_note_calls_text">Nota</string>
   <string name="onscreen_swap_calls_text">Alternar</string>
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_yes">Sí</string>
@@ -171,6 +181,9 @@
   <string name="private_num">Número privado</string>
   <string name="purchase_now">Recargar</string>
   <string name="respond_via_sms_custom_message">Escribe tu propio…</string>
+  <string name="select_audio_dialog_title">Seleccione el modo de respuesta</string>
+  <string name="select_one_sim_title">Sólo se puede utilizar la tarjeta SIM %1$d</string>
+  <string name="select_sim_hint">"No se puede utilizar la tarjeta SIM %2$d, mientras la SIM %1$d está en uso."</string>
   <string name="select_voice_call_sim">Elegir tarjeta SIM</string>
   <string name="separate_from_conference">Separada llamada</string>
   <string name="suspect_info">"Siempre verifique la identidad de la persona con la que está hablando mediante una llamada de teléfono o vídeo antes de responder a cualquier mensaje relacionado con sus finanzas personales."</string>

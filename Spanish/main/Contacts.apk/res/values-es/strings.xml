@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="menu_newContactButton">Añadir</string>
+    <string name="callrecordview_menu_ip">IP de marcación automática</string>
+    <string name="callrecordview_menu_blocklist">Lista de bloqueos</string>
+    <string name="callrecordview_menu_mobiledata">Datos de compra</string>
+    <string name="callrecordview_menu_recharge">Completar</string>
+    <string name="callrecordview_menu_save_to_group">Guardar el historial de llamadas de grupo</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />
@@ -26,6 +31,8 @@
     <string name="viewContactTitle">Datos de contacto</string>
     <string name="viewContactDesription">Ver contacto</string>
     <string name="editContactDescription">Editar contacto</string>
+    <string name="editContactNameExpandCloseDescription">Collapse name</string>
+    <string name="editContactNameExpandOpenDescription">Ampliar el nombre</string>
     <string name="insertContactDescription">Crear contacto</string>
     <string name="editGroupDescription">Editar grupo</string>
     <string name="insertGroupDescription">Crear grupo</string>
@@ -113,6 +120,7 @@
     <string name="contactsGroupsLabel">Grupos</string>
     <string name="contactsFavoritesLabel">Favoritos</string>
     <string name="dialerIconLabel">Recientes</string>
+    <string name="dialer_menu_title">Opciones de menú</string>
     <string name="recentCallsIconLabel">Registro de llamadas</string>
     <string name="menu_sendTextMessage">Enviar mensaje de texto</string>
     <string name="recentCalls_callNumber">Llamar a %s</string>
@@ -590,9 +598,11 @@ Elija una de las siguientes opciones: "</string>
     <string name="sim_error_not_ready">Cargando contactos de la tarjeta SIM…</string>
     <string name="sim_contact_existing">El contacto ya existe</string>
     <string name="sim_contact_invalid">Contacto SIM no válido</string>
+    <string name="path_contacts_recovery">Aplicaciones del sistema/Contactos/Recuperar contactos</string>
     <string name="pref_key_sim_manage">Configurar la tarjeta SIM</string>
     <string name="pref_key_sim_manage1">Configurar SIM 1</string>
     <string name="pref_key_sim_manage2">Configurar SIM 2</string>
+    <string name="preference_key_trash_bin_title">Recuperar contactos</string>
     <string name="simContacts_airplaneMode">Para importar los contactos de la tarjeta SIM, desactivar el modo avión</string>
     <string name="readingSimContacts">Leyendo tarjeta SIM…</string>
     <string name="importing_sim_contacts_miui">Importar contactos de la tarjeta SIM…</string>
@@ -604,6 +614,9 @@ Elija una de las siguientes opciones: "</string>
     <string name="miprofile_name">Mi perfil</string>
     <string name="miprofile_edit_title">Editar perfil</string>
     <string name="miprofile_account_type">Cuenta Mi</string>
+    <string name="contactDetailCalllog">Historial de llamadas</string>
+    <string name="contact_detail_action_item_calllog">Historial de llamadas</string>
+    <string name="contact_detail_action_item_nocalllog">No hay historial</string>
     <string name="contact_detail_miprofile_request">Intercambiar tarjetas de contacto</string>
     <string name="contact_detail_miprofile_request_subtitle">Actualizar automáticamente la información de este contacto</string>
     <string name="contact_detail_miprofile_request_success_toast">Petición enviada</string>
@@ -637,6 +650,7 @@ Elija una de las siguientes opciones: "</string>
     <string name="contact_detail_miprofile_exchange_closed">"No hay ningún número de teléfono asociado con esta cuenta Mi
 Las tarjetas de contacto están apagadas"</string>
     <string name="contact_detail_miprofile_privacy_settings">Solicitar permiso para ver</string>
+    <string name="contacts_hybrid_activity_label">Recuperar contactos</string>
     <string name="miprofile_request_alertdialog_title">Intercambiar tarjetas de contacto</string>
     <string name="miprofile_request_alertdialog_message">Tu tarjeta será enviada automáticamente después de que esta persona acepte.</string>
     <string name="miprofile_save_alertdialog_title">Tarjeta de contacto recibida</string>
@@ -786,7 +800,6 @@ Las tarjetas de contacto están apagadas"</string>
     <string name="import_contact_card_button">Importar contacto</string>
     <string name="success_message_import_from_account">Importación realizada</string>
     <string name="unknown_contact_name">Contacto desconocido</string>
-    <string name="contactDetailCalllog">Registro de llamadas</string>
     <string name="add_blacklist">Bloquear</string>
     <string name="remove_blacklist">Desbloquear</string>
     <string name="blacklist">Bloquear</string>
@@ -826,7 +839,6 @@ Las tarjetas de contacto están apagadas"</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Importar/exportar</string>
     <string name="preference_import_export_title">Importar/exportar contactos</string>
-    <string name="preference_key_trash_bin_title">Explorar contactos respaldados los cuales han sido borrados recientemente</string>
     <string name="import_vcard_description">Importar contactos de la memoria interna del teléfono</string>
     <string name="export_vcard_description">Exportar vCard a la memoria interna del teléfono</string>
     <string name="export_sim_contact_finish_msg">%1$d transferidos | %2$d duplicados | %3$d restantes</string>
@@ -915,6 +927,7 @@ Las tarjetas de contacto están apagadas"</string>
     <string name="antispam_provider_format">Marcado como spam por %s</string>
     <string name="type_mx_msg">Mensaje Mi</string>
     <string name="qr_card_card">Código QR</string>
+    <string name="menuMoreDescription">Más</string>
     <string name="menu_new_favorite_action_bar">Nuevo</string>
     <string name="click_close">Tocar para cerrar</string>
     <string name="phone_primary">Primaria</string>
@@ -922,6 +935,10 @@ Las tarjetas de contacto están apagadas"</string>
     <string name="menu_bar_group_add">Añadir</string>
     <string name="menu_bar_group_sms">Grupo SMS</string>
     <string name="menu_bar_group_ringtone">Tono de llamada de grupo</string>
+    <string name="menu_bar_group_batch_copy">Copiar en el grupo</string>
+    <string name="menu_bar_group_batch_edit">Contactos múltiples</string>
+    <string name="menu_bar_group_batch_move">Mover al grupo</string>
+    <string name="menu_bar_group_batch_remove">Eliminar grupo</string>
     <string name="menu_bar_group_rename">Cambiar el nombre</string>
     <string name="menu_bar_group_delete">Eliminar</string>
     <string name="menu_bar_group_ringtone_largeui">Tono de llamada</string>

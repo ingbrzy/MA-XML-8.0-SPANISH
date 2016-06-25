@@ -19,12 +19,17 @@
   <string name="backup_theme_name">Copia de seguridad del tema</string>
   <string name="backup_theme_progress_message">Haciendo copia de seguridad…</string>
   <string name="backup_theme_success_message">Copia de seguridad del tema realizada.</string>
+  <string name="change_host_hint">Change host</string>
   <string name="change_wallpaper">Fondo de pantalla</string>
   <string name="choose_new_themes">Temas</string>
   <string name="close">Cerrar</string>
   <string name="component_backup_preference_title">Copia de seguridad de los temas</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">AVANZADO</string>
+  <string name="component_title_ringtone">Tono de llamada</string>
+  <string name="component_title_wallpaper">Fondos de escritorio</string>
+  <string name="current_using_desktop_wallpaper_text">Pantalla de inicio</string>
+  <string name="current_using_lockscreen_wallpaper_text">Bloquear pantalla</string>
   <string name="deleting">Borrando…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Diseñador</string>
@@ -75,6 +80,9 @@
   <string name="gift_use_confirmation_dlg_title">¿Enviar este regalo?</string>
   <string name="gift_use_fail_dlg_title">Algo fue mal</string>
   <string name="gift_used">Enviado</string>
+  <string name="incompatible_dialog_message">Este tema no es totalmente compatible con MIUI 8. Algunos elementos se pueden mostrar incorrectamente.</string>
+  <string name="incompatible_dialog_ok">Lo tengo</string>
+  <string name="incompatible_dialog_title">Problemas de compatibilidad</string>
   <string name="live_wallpaper">Fondo de pantalla animado</string>
   <string name="loading">Un momento…</string>
   <string name="loading_resource_detail_fail">"No se puede cargar el recurso"</string>
@@ -97,6 +105,9 @@
   <string name="present_local_themes">Descargados</string>
   <string name="present_online_themes">En línea</string>
   <string name="provision_default_theme_title">Por Defecto</string>
+  <string name="provision_loading_tips">Un momento…</string>
+  <string name="provision_second_title">Seleccione uno de los cinco temas por defecto</string>
+  <string name="provision_title">Elija un tema</string>
   <string name="purchased_list">Comprados</string>
   <string name="purchased_list_format">%1$s comprados</string>
   <string name="resource_account_abnormal_state">Error en la cuenta. Espere uno o dos minutos y vuelva a intentarlo.</string>
@@ -109,6 +120,7 @@
   <string name="resource_app_name">Explorador de recursos</string>
   <string name="resource_apply">Aplicar</string>
   <string name="resource_apply_trial">Probar ahora</string>
+  <string name="resource_back">Atrás</string>
   <string name="resource_buy">Comprar</string>
   <string name="resource_can_not_selected">"No se puede seleccionar %1$s"</string>
   <string name="resource_category">Categoría</string>
@@ -149,6 +161,7 @@
   <string name="resource_comment_upload_not_bought">Es necesario aplicar el tema antes de poder escribir comentarios sobre él</string>
   <string name="resource_comment_upload_not_logined">Tiene que iniciar sesión primero</string>
   <string name="resource_comment_upload_success">Su comentario se mostrará después de una breve revisión.</string>
+  <string name="resource_continue">Siguiente</string>
   <string name="resource_default">Tono de llamada por defecto</string>
   <string name="resource_default_name">Recurso</string>
   <string name="resource_delete">Eliminar</string>
@@ -209,6 +222,7 @@
   <string name="resource_menu_refresh">Actualizar</string>
   <string name="resource_mute">Ninguno</string>
   <string name="resource_my">Local</string>
+  <string name="resource_network_diagnostics">&lt;u&gt;Comprobación de la conexión&lt;/u&gt;</string>
   <string name="resource_no_match_app">No se ha encontrado ninguna aplicación para realizar esta acción.</string>
   <string name="resource_no_network_text">"No se puede conectar a la red."</string>
   <string name="resource_no_result">"No se ha encontrado nada"</string>

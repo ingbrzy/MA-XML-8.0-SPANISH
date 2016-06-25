@@ -4,6 +4,12 @@
         <item quantity="other">%d canciones encontradas</item>
         <item quantity="one">%d canción encontrada</item>
      </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">"Sólo puedes descargar %d canciones de este mes de tu suscripción. Actualizar tu suscripción para descargar más de canciones. "</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">"Sólo puedes descargar %d canciones de este mes de tu suscripción. ¿Descargar canciones seleccionadas?"</item>
+    </plurals>
      <plurals name="Nexpired_remind">
         <item quantity="other">%d días restantes</item>
         <item quantity="one">%d día restante</item>

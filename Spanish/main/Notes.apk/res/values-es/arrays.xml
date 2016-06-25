@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="folder_operations">
+        <item>Renombrar</item>
+        <item>Borrar</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Cámara</item>
+        <item>Galería</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Nombre</item>
         <item>Sobrenombre</item>

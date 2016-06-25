@@ -28,6 +28,10 @@
         <item>10 minutos</item>
         <item>30 minutos</item>
     </string-array>
+    <string-array name="status_bar_style_entries">
+        <item>Conjunto</item>
+        <item>Separar</item>
+    </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>De inmediato</item>
         <item>5 segundos</item>
@@ -506,6 +510,12 @@
         <item>Fuerte</item>
         <item>Medio</item>
         <item>Suave</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_texts">
+        <item>Apagado</item>
+        <item>Suave</item>
+        <item>Medio</item>
+        <item>Fuerte</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Fuerte</item>
