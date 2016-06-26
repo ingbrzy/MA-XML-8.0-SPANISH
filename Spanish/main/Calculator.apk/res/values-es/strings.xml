@@ -191,16 +191,37 @@
     <string name="unit_data_default_weight_1">g</string>
     <string name="unit_data_display_area_acre">Acre</string>
     <string name="unit_data_display_area_are">Area</string>
+    <string name="unit_data_display_area_ha">Hectárea</string>
+    <string name="unit_data_display_area_mu">Mu</string>
+    <string name="unit_data_display_area_qing">Qing</string>
+    <string name="unit_data_display_area_sq.chi">Chi cuadrado</string>
+    <string name="unit_data_display_area_sq.cun">Cun cuadrado</string>
+    <string name="unit_data_display_area_sq.cm">Centímetro cuadrado</string>
+    <string name="unit_data_display_area_sq.dm">Decímetro cuadrado</string>
+    <string name="unit_data_display_area_sq.ft">Pie cuadrado</string>
+    <string name="unit_data_display_area_sq.gongli">Gongli cuadrado</string>
+    <string name="unit_data_display_area_sq.in">Pulgada cuadrada</string>
+    <string name="unit_data_display_area_sq.km">Kilometro cuadrado</string>
+    <string name="unit_data_display_area_sq.m">Metro cuadrado</string>
+    <string name="unit_data_display_area_sq.mi">Milla cuadrada</string>
+    <string name="unit_data_display_area_sq.mm">Milímetro cuadrado</string>
+    <string name="unit_data_display_area_sq.rd">Radio cuadrado</string>
+    <string name="unit_data_display_area_sq.um">Micrómetros cuadrados</string>
+    <string name="unit_data_display_area_sq.yd">Yarda cuadrada</string>
+    <string name="unit_data_display_currency_cnh">RMB en alta mar</string>
+    <string name="unit_data_display_length_au">Unidad astronómica</string>
+    <string name="unit_data_display_length_chi">Chi</string>
+    <string name="unit_data_display_length_cm">Centímetro</string>
+    <string name="unit_data_display_length_cun">Cun</string>
+    <string name="unit_data_display_length_dm">Decímetro</string>
+    
+ 
     
     
-    
-    
-
-    <string name="unit_data_display_currency_cnh">"RMB en alta mar"</string>
-<string name="unit_data_display_length_m">"Metro"</string>
+    <string name="unit_data_display_length_m">"Metro"</string>
     <string name="unit_data_display_length_km">"Kilómetro"</string>
-    <string name="unit_data_display_length_dm">"Decímetro"</string>
-    <string name="unit_data_display_length_cm">"Centímetro"</string>
+    
+    
     <string name="unit_data_display_length_mm">"Milímetro"</string>
     <string name="unit_data_display_length_um">"Micrómetro"</string>
     <string name="unit_data_display_length_nm">"Nanómetro"</string>
@@ -215,13 +236,13 @@
     <string name="unit_data_display_length_gongli">"Gong Li"</string>
     <string name="unit_data_display_length_li">"Li"</string>
     <string name="unit_data_display_length_zhang">"Zhang"</string>
-    <string name="unit_data_display_length_chi">"Chi"</string>
-    <string name="unit_data_display_length_cun">"Cun"</string>
+    
+    
     <string name="unit_data_display_length_fen">"Fen"</string>
     <string name="unit_data_display_length_lii">"Lii"</string>
     <string name="unit_data_display_length_hao">"Hao"</string>
     <string name="unit_data_display_length_ly">"Año luz"</string>
-    <string name="unit_data_display_length_au">"Unidad astronómica"</string>
+    
     <string name="unit_data_display_length_ld">"Distancia lunar"</string>
     <string name="unit_data_display_length_pc">"Parsec"</string>
     <string name="unit_data_short_length_um">"μm"</string>
@@ -238,25 +259,12 @@
     <string name="unit_data_short_length_fen">""</string>
     <string name="unit_data_short_length_lii">""</string>
     <string name="unit_data_short_length_hao">""</string>
-<string name="unit_data_display_area_sq.m">"Metro cuadrado"</string>
-    <string name="unit_data_display_area_sq.km">"Kilometro cuadrado"</string>
-    <string name="unit_data_display_area_ha">"Hectárea"</string>
     
-    <string name="unit_data_display_area_sq.dm">"Decímetro cuadrado"</string>
-    <string name="unit_data_display_area_sq.cm">"Centímetro cuadrado"</string>
-    <string name="unit_data_display_area_sq.mm">"Milímetro cuadrado"</string>
-    <string name="unit_data_display_area_sq.um">"Micrómetros cuadrados"</string>
-    <string name="unit_data_display_area_sq.in">"Pulgada cuadrada"</string>
-    <string name="unit_data_display_area_acre">"Acre"</string>
-    <string name="unit_data_display_area_sq.mi">"Milla cuadrada"</string>
-    <string name="unit_data_display_area_sq.yd">"Yarda cuadrada"</string>
-    <string name="unit_data_display_area_sq.ft">"Pie cuadrado"</string>
-    <string name="unit_data_display_area_sq.rd">"Radio cuadrado"</string>
-    <string name="unit_data_display_area_sq.gongli">"Gongli cuadrado"</string>
-    <string name="unit_data_display_area_qing">"Qing"</string>
-    <string name="unit_data_display_area_mu">"mu"</string>
-    <string name="unit_data_display_area_sq.chi">"Chi cuadrado"</string>
-    <string name="unit_data_display_area_sq.cun">"Cun cuadrado"</string>
+    
+    
+    
+    
+    
     <string name="unit_data_short_area_sq.m">"m²"</string>
     <string name="unit_data_short_area_sq.km">"km²"</string>
     <string name="unit_data_short_area_sq.dm">"dm²"</string>
@@ -273,6 +281,16 @@
     <string name="unit_data_short_area_sq.chi">""</string>
     <string name="unit_data_short_area_sq.cun">""</string>
     <string name="unit_data_short_area_sq.gongli">""</string>
+    
+    
+    
+    
+    
+    
+
+    
+ 
+
     
     <string name="unit_data_display_volume_cu.m">"Metro cúbico"</string>
     <string name="unit_data_display_volume_cu.cm">"Centímetro cúbico"</string>
