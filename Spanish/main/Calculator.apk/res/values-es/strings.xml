@@ -46,10 +46,102 @@
     <string name="equal">=</string>=</string>
     <string name="equalDesc">es igual a</string>
     <string name="error">Error</string>
+    <string name="error_fomrat">Error del formato</string>
+    <string name="factorial">!</string>
+    <string name="factorialDesc">factorial</string>
+    <string name="from_num">100</string>
+    <string name="from_unit">km/h</string>
+    <string name="from_unit_en">Kilómetro por hora</string>
+    <string name="from_unit_short">km/h</string>
+    <string name="item_title_aa_payment">Dividir la cuenta</string>
+    <string name="item_title_area_conversion">Área</string>
+    <string name="item_title_calculator">Calculadora</string>
+    <string name="item_title_currency">Moneda</string>
+    <string name="item_title_dress_size">Talla de ropa</string>
+    <string name="item_title_length_conversion">Longitud</string>
+    <string name="item_title_mortgage">Hipoteca</string>
+    <string name="item_title_scientific_calculator">Científica</string>
+    <string name="item_title_tax">Impuestos</string>
+    <string name="item_title_temprature_conversion">Temperatura</string>
+    <string name="item_title_time_conversion">Hora</string>
+    <string name="item_title_tip">Propina</string>
+    <string name="item_title_vel_conversion">Velocidad</string>
+    <string name="item_title_volume_conversion">Volumen</string>
+    <string name="item_title_weight_conversion">Masa</string>
+    <string name="leftParen">(</string>
+    <string name="leftParenDesc">paréntesis izquierdo</string>
+    <string name="lg">log</string>
+    <string name="lgDesc">logaritmo</string>
+    <string name="lg_mathematical_value">lg</string>
+    <string name="ln">ln</string>
+    <string name="lnDesc">logaritmo natural</string>
+    <string name="ln_mathematical_value">ln</string>
+    <string name="loan_edittext_hint_commercial">Introduzca la cantidad</string>
+    <string name="loan_edittext_hint_commercial_combined">Comercial</string>
+    <string name="loan_edittext_hint_fund">Introduzca la cantidad</string>
+    <string name="loan_edittext_hint_fund_combined">Préstamo del Fondo</string>
+    <string name="loan_first_pay_date">Primer pago</string>
+    <string name="loan_interest_rate">Interés</string>
+    <string name="loan_pay_years">Periodo de préstamo</string>
+    <string name="loan_payback_way">Reembolso</string>
+    <string name="loan_unit">×10K</string>
+    <string name="minus">-</string>
+    <string name="minusDesc">menos</string>
+    <string name="mortgage_amount">Total</string>
+    <string name="mortgage_average_repayment_first_month">Primer mes de pago</string>
+    <string name="mortgage_average_repayment_monthly">Pago mensual</string>
+    <string name="mortgage_calculate">Calcular</string>
+    <string name="mortgage_descript_accumulation">Tipo de interés: %s (fondo)</string>
+    <string name="mortgage_descript_commercial">Tipo de interés:  %s (comercial)</string>
+    <string name="mortgage_detail_month">Mes</string>
+    <string name="mortgage_detail_monthly_interest">Interés</string>
+    <string name="mortgage_detail_monthly_principal">Principal</string>
+    <string name="mortgage_detail_monthly_remain">Restante</string>
+    <string name="mortgage_detail_yearly_repayment">Reembolso</string>
+    <string name="mortgage_detail_yearly_interest">Interés</string>
+    <string name="mortgage_detail_yearly_repayment">Reembolso</string>
+    <string name="mortgage_details">Detalles de la hipoteca</string>
+    <string name="mortgage_equals">=</string>
+    <string name="mortgage_hint_accumulation_fund">Introduzca la cantidad</string>
+    <string name="mortgage_hint_commercial">Introduzca la cantidad</string>
+    <string name="mortgage_hint_loan">Introduzca la cantidad</string>
+    <string name="mortgage_input_error">Introduzca la cantidad</string>
+    <string name="mortgage_interest_amount">Cantidad de interés</string>
+    <string name="mortgage_interest_rate">Interés</string>
+    <string name="mortgage_item_repayment">Método de pago</string>
+    <string name="mortgage_item_start_time">Fecha de inicio</string>
+    <string name="mortgage_item_years">Período de la hipoteca</string>
+    
+    
+    
+    
+    <string name="mortgage_detail_monthly_repayment">"Reembolso"</string>
+    
+    
+    
+    <string name="mortgage_tab_commercial_loan">"Comercial"</string>
+    <string name="mortgage_tab_accumulation_fund">"Fondo de acumulación"</string>
+    <string name="mortgage_tab_combining_loan">"Combinado"</string>
+    <string name="mortgage_interest_rate">"Tasa de interés"</string>
+
+
+
+    
+    <string name="mortgage_result">"Resultado de la hipoteca"</string>
+    
+    <string name="mortgage_repayment_amount">"Importe de la devolución"</string>
+    <string name="mortgage_loans_amount">"Cantidad de préstamos"</string>
+    <string name="mortgage_years_amount">"Años de hipoteca"</string>
+    <string name="mortgage_show_details">"Ver detalles"</string>
+
+    
+    
+    
+    
     
     <string name="mul">"×"</string>
     <string name="plus">"+"</string>
-    <string name="minus">"-"</string>
+    
     
     
     <string name="sin">"sen"</string>
@@ -60,15 +152,14 @@
     <string name="pi">"π"</string>
     
     
-    <string name="ln">"ln"</string>
-    <string name="ln_mathematical_value">"ln"</string>
-    <string name="lg">"log"</string>
-    <string name="lg_mathematical_value">"lg"</string>
+   
+    
+    
     <string name="leftParen">"("</string>
     <string name="rightParen">")"</string>
     <string name="sqrt">"√"</string>
     <string name="power">"^"</string>
-    <string name="factorial">"!"</string>
+    
     <string name="leftParenDesc">"paréntesis izquierdo"</string>
     <string name="rightParenDesc">"paréntesis derecho"</string>
     <string name="factorialDesc">"factorial"</string>
@@ -126,38 +217,7 @@
     <string name="unit_year">"Y"</string>
     <string name="unit_year_format">"Año %s"</string>
     <string name="error_fomrat">"Error de formato"</string>
-    <string name="mortgage_tab_commercial_loan">"Comercial"</string>
-    <string name="mortgage_tab_accumulation_fund">"Fondo de acumulación"</string>
-    <string name="mortgage_tab_combining_loan">"Combinado"</string>
-    <string name="mortgage_amount">"Importe de la hipoteca"</string>
-    <string name="mortgage_interest_rate">"Tasa de interés"</string>
-    <string name="mortgage_calculate">"Calcular"</string>
-    <string name="mortgage_hint_loan">"Por favor escriba el número total de préstamos"</string>
-    <string name="mortgage_hint_accumulation_fund">"Por favor escriba el número total del fondo de acumulación"</string>
-    <string name="mortgage_hint_commercial">"Por favor escriba el número total de créditos comerciales"</string>
-    <string name="mortgage_descript_commercial">"Tipo de interés actual: comercial %s"</string>
-    <string name="mortgage_descript_accumulation">"Tipo de interés actual: acumulación %s"</string>
-    <string name="mortgage_equals">"="</string>
-    <string name="mortgage_item_repayment">"Método de reembolso"</string>
-    <string name="mortgage_item_years">"Años de hipoteca"</string>
-    <string name="mortgage_item_start_time">"Fecha de inicio"</string>
-    <string name="mortgage_input_error">"Ingrese el monto de la hipoteca"</string>
-    <string name="mortgage_result">"Resultado de la hipoteca"</string>
-    <string name="mortgage_average_repayment_monthly">"Carga mensual"</string>
-    <string name="mortgage_average_repayment_first_month">"Primer mes de pago"</string>
-    <string name="mortgage_interest_amount">"Cantidad de interés"</string>
-    <string name="mortgage_repayment_amount">"Importe de la devolución"</string>
-    <string name="mortgage_loans_amount">"Cantidad de préstamos"</string>
-    <string name="mortgage_years_amount">"Años de hipoteca"</string>
-    <string name="mortgage_show_details">"Ver detalles"</string>
-    <string name="mortgage_details">"Detalles de la hipoteca"</string>
-    <string name="mortgage_detail_yearly_repayment">"Devolución en este año"</string>
-    <string name="mortgage_detail_yearly_interest">"Interés en este año"</string>
-    <string name="mortgage_detail_month">"Mes"</string>
-    <string name="mortgage_detail_monthly_repayment">"Reembolso"</string>
-    <string name="mortgage_detail_monthly_principal">"Principal"</string>
-    <string name="mortgage_detail_monthly_interest">"Interés"</string>
-    <string name="mortgage_detail_monthly_remain">"Permanecer"</string>
+
     <string name="tax_individual_income_tax">"Impuesto sobre la renta individual"</string>
     <string name="tax_individual_income_tax_result">"Resultado individual de impuestos"</string>
     <string name="tax_city">"Ciudad"</string>
