@@ -1,30 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">"Calculadora"</string>
+    <string name="app_name">Calculadora</string>
+    <string name="cal_convert_to_word_figure">Convertir a los carácteres financieros</string>
+    <string name="cal_copy">Copiar</string>
+    <string name="cal_edit_mode">Modo de edición</string>
+    <string name="cal_result_format">= %s</string>
+    <string name="cal_text_copied">Texto copiado</string>
+    <string name="choose_currency">Elija una moneda</string>
+    <string name="choose_unit">Elija una unidad</string>
+    <string name="clear">C</string>
+    <string name="clearDesc">limpiar</string>
+    <string name="clear_history">Limpiar historial</string>
+    <string name="convert_currency">Convertidor de moneda</string>
+    <string name="convertion_unit">Conversión de unidades</string>
+    <string name="convertion_unit_area">Área de conversión</string>
+    <string name="convertion_unit_length">Conversión de longitud</string>
+    <string name="convertion_unit_temperature">Conversión de temperatura</string>
+    <string name="convertion_unit_time">Conversión de tiempo</string>
+    <string name="convertion_unit_velocity">Conversión de velocidad</string>
+    <string name="convertion_unit_volume">Conversión de volumen</string>
+    <string name="convertion_unit_weight">Conversión del peso</string>
+    <string name="cos">cos</string>
+    <string name="cosDesc">coseno</string>
+    <string name="cos_mathematical_value">cos</string>
+    <string name="currency_update_time_format">Actualizado %s</string>
+    <string name="del">BOR</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="div">÷</string>
+    <string name="divDesc">dividir</string>
+    <string name="dot">.</string>
+    <string name="dotDesc">punto</string>
+    
+    
+    
     <string name="error">"Error"</string>
-    <string name="digit0">"0"</string>
-    <string name="digit1">"1"</string>
-    <string name="digit2">"2"</string>
-    <string name="digit3">"3"</string>
-    <string name="digit4">"4"</string>
-    <string name="digit5">"5"</string>
-    <string name="digit6">"6"</string>
-    <string name="digit7">"7"</string>
-    <string name="digit8">"8"</string>
-    <string name="digit9">"9"</string>
-    <string name="del">"BOR"</string>
-    <string name="clear">"C"</string>
-    <string name="div">"÷"</string>
+    
     <string name="mul">"×"</string>
     <string name="plus">"+"</string>
     <string name="minus">"-"</string>
-    <string name="dot">"."</string>
     <string name="equal">"="</string>
     <string name="enter">"↓"</string>
     <string name="sin">"sen"</string>
     <string name="sin_mathematical_value">"sen"</string>
-    <string name="cos">"cos"</string>
-    <string name="cos_mathematical_value">"cos"</string>
+    
     <string name="tan">"tan"</string>
     <string name="tan_mathematical_value">"tan"</string>
     <string name="pi">"π"</string>
@@ -39,7 +66,6 @@
     <string name="sqrt">"√"</string>
     <string name="power">"^"</string>
     <string name="factorial">"!"</string>
-    <string name="clear_history">"Limpiar historial"</string>
     <string name="leftParenDesc">"paréntesis izquierdo"</string>
     <string name="rightParenDesc">"paréntesis derecho"</string>
     <string name="factorialDesc">"factorial"</string>
@@ -160,23 +186,6 @@
     <string name="tax_cal_method_fixed_salary">"Método de cálculo del IRPF"</string>
     <string name="tax_cal_method_annual">"Método de cálculo de aguinaldo"</string>
     <string name="wf_word_figure">"Carácteres financieros"</string>
-    <string name="cal_result_format">"= %s"</string>
-    <string name="cal_edit_mode">"Modo de edición"</string>
-    <string name="cal_copy">"Copiar"</string>
-    <string name="cal_convert_to_word_figure">"Convertir a los carácteres financieros"</string>
-    <string name="cal_text_copied">"Texto copiado"</string>
-    <string name="convertion_unit">"Conversión de unidades"</string>
-    <string name="convertion_unit_length">"Conversión de longitud"</string>
-    <string name="convertion_unit_area">"Área de conversión"</string>
-    <string name="convertion_unit_volume">"Conversión de volumen"</string>
-    <string name="convertion_unit_weight">"Conversión del peso"</string>
-    <string name="convertion_unit_velocity">"Conversión de velocidad"</string>
-    <string name="convertion_unit_temperature">"Conversión de temperatura"</string>
-    <string name="convertion_unit_time">"Conversión de tiempo"</string>
-    <string name="convert_currency">"Convertidor de moneda"</string>
-    <string name="currency_update_time_format">"Actualizado %s"</string>
-    <string name="choose_unit">"Elija una unidad"</string>
-    <string name="choose_currency">"Elija una moneda"</string>
     <string name="unit_data_default_currency_0">"CNY"</string>
     <string name="unit_data_default_currency_1">"Dólar estadounidense"</string>
     <string name="unit_data_default_currency_2">"Euro"</string>
