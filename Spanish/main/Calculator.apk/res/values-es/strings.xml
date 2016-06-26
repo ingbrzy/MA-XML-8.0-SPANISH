@@ -97,7 +97,7 @@
     <string name="mortgage_detail_monthly_interest">Interés</string>
     <string name="mortgage_detail_monthly_principal">Principal</string>
     <string name="mortgage_detail_monthly_remain">Restante</string>
-    <string name="mortgage_detail_yearly_repayment">Reembolso</string>
+    <string name="mortgage_detail_monthly_repayment">Reembolso</string>g>
     <string name="mortgage_detail_yearly_interest">Interés</string>
     <string name="mortgage_detail_yearly_repayment">Reembolso</string>
     <string name="mortgage_details">Detalles de la hipoteca</string>
@@ -111,36 +111,27 @@
     <string name="mortgage_item_repayment">Método de pago</string>
     <string name="mortgage_item_start_time">Fecha de inicio</string>
     <string name="mortgage_item_years">Período de la hipoteca</string>
+    <string name="mortgage_loans_amount">Cantidad de préstamos</string>
+    <string name="mortgage_repayment_amount">Importe de la devolución</string>
+    <string name="mortgage_result">Resultado de la hipoteca</string>
+    <string name="mortgage_show_details">Ver detalles</string>
+    <string name="mortgage_tab_accumulation_fund">Fondo de acumulación</string>
+    <string name="mortgage_tab_combining_loan">Combinado</string>
+    <string name="mortgage_tab_commercial_loan">Comercial</string>
+    <string name="mortgage_years_amount">Años de hipoteca</string>
+    <string name="mul">×</string>
+    <string name="mulDesc">multiplicar</string>
+    <string name="network_confirm_content">"Las funciones de conversión de moneda, impuestos y cálculo de hipoteca utilizan la conexión de red del dispositivo para funcionar con normalidad."</string>
+    <string name="network_confirm_title">Es necesario la conexión a la red/string>
     
     
-    
-    
-    <string name="mortgage_detail_monthly_repayment">"Reembolso"</string>
-    
-    
-    
-    <string name="mortgage_tab_commercial_loan">"Comercial"</string>
-    <string name="mortgage_tab_accumulation_fund">"Fondo de acumulación"</string>
-    <string name="mortgage_tab_combining_loan">"Combinado"</string>
-    <string name="mortgage_interest_rate">"Tasa de interés"</string>
-
-
-
-    
-    <string name="mortgage_result">"Resultado de la hipoteca"</string>
-    
-    <string name="mortgage_repayment_amount">"Importe de la devolución"</string>
-    <string name="mortgage_loans_amount">"Cantidad de préstamos"</string>
-    <string name="mortgage_years_amount">"Años de hipoteca"</string>
-    <string name="mortgage_show_details">"Ver detalles"</string>
-
-    
-    
-    
-    
-    
-    <string name="mul">"×"</string>
     <string name="plus">"+"</string>
+    
+    
+    
+    
+    
+    
     
     
     
@@ -179,21 +170,6 @@
     <string name="eDesc">"Número de Euler"</string>
     <string name="piDesc">"pi"</string>
     <string name="equalDesc">"es igual a"</string>
-    <string name="item_title_calculator">"Calculadora"</string>
-    <string name="item_title_scientific_calculator">"Científica"</string>
-    <string name="item_title_currency">"Moneda"</string>
-    <string name="item_title_mortgage">"Hipoteca"</string>
-    <string name="item_title_tax">"Impuestos"</string>
-    <string name="item_title_tip">"Propina"</string>
-    <string name="item_title_length_conversion">"Longitud"</string>
-    <string name="item_title_area_conversion">"Área"</string>
-    <string name="item_title_volume_conversion">"Volumen"</string>
-    <string name="item_title_weight_conversion">"Peso"</string>
-    <string name="item_title_temprature_conversion">"Temperatura"</string>
-    <string name="item_title_vel_conversion">"Velocidad"</string>
-    <string name="item_title_time_conversion">"Tiempo"</string>
-    <string name="item_title_dress_size">"Talla de Ropa"</string>
-    <string name="item_title_aa_payment">"Dividir la Cuenta"</string>
     <string name="loan_interest_rate">"Precio del dinero"</string>
     <string name="loan_edittext_hint_commercial">"Créditos comerciales"</string>
     <string name="loan_edittext_hint_fund">"Préstamos del fondo de previsión"</string>
@@ -435,6 +411,5 @@
     <string name="unit_data_display_time_yr">"año"</string>
     <string name="unit_data_short_time_week">"sem"</string>
     <string name="unit_data_short_time_us">"μs"</string>
-    <string name="network_confirm_title">"Solicitud de red"</string>
-    <string name="network_confirm_content">"Las funciones de conversión de moneda, impuestos y cálculo de hipoteca utilizan la conexión de red del dispositivo para funcionar con normalidad."</string>
+   
 </resources>
