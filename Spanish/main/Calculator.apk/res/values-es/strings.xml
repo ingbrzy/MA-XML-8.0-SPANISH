@@ -328,150 +328,41 @@
     <string name="unit_data_short_temperature_k">K</string>
     <string name="unit_data_short_temperature_r">°R</string>
     <string name="unit_data_short_temperature_re">°Re</string>
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
- 
-
-    
-
-    <string name="unit_data_short_volume_cu.m">"m³"</string>
+    <string name="unit_data_short_time_us">μs</string>
+    <string name="unit_data_short_time_week">sem</string>
+    <string name="unit_data_short_velocity_c">c</string>
+    <string name="unit_data_short_velocity_ftps">pie/s</string>
+    <string name="unit_data_short_velocity_inps">pulg/s</string>
+    <string name="unit_data_short_velocity_kmph">km/h</string>
+    <string name="unit_data_short_velocity_kmps">km/s</string>
+    <string name="unit_data_short_velocity_mach">Mach</string>
+    <string name="unit_data_short_velocity_mileph">millas/h</string>
+    <string name="unit_data_short_velocity_mps">m/s</string>
+    <string name="unit_data_short_velocity_nmiph">Nudo</string>
+    <string name="unit_data_short_volume_cu.af">af³</string>
     <string name="unit_data_short_volume_cu.cm">"cm³"</string>
-    <string name="unit_data_short_volume_cu.dm">"dm³"</string>
-    <string name="unit_data_short_volume_cu.mm">"mm³"</string>
-    <string name="unit_data_short_volume_cu.um">"μm³"</string>
-    <string name="unit_data_short_volume_hl">""</string>
-    <string name="unit_data_short_volume_cu.ft">"ft³"</string>
-    <string name="unit_data_short_volume_cu.in">"in³"</string>
-    <string name="unit_data_short_volume_cu.yd">"yd³"</string>
-    <string name="unit_data_short_volume_cu.af">""</string>
-    
-
-    <string name="unit_data_short_velocity_mps">"m/s"</string>
-    <string name="unit_data_short_velocity_kmps">"km/s"</string>
-    <string name="unit_data_short_velocity_kmph">"km/h"</string>
-    <string name="unit_data_short_velocity_c">"c"</string>
-    <string name="unit_data_short_velocity_mach">"Mach"</string>
-    <string name="unit_data_short_velocity_nmiph">"Nudo"</string>
-    <string name="unit_data_short_velocity_mileph">"millas/h"</string>
-    <string name="unit_data_short_velocity_ftps">"pie/s"</string>
-    <string name="unit_data_short_velocity_inps">"pulg/s"</string>
-    
-    
-    <string name="unit_data_short_weight_ug">"μg"</string>
-    <string name="unit_data_short_weight_st">"sh.t"</string>
-    <string name="unit_data_short_weight_lt">"l.t"</string>
-    <string name="unit_data_short_weight_us.cwt">"quintal"</string>
-    <string name="unit_data_short_weight_uk.cwt">"quintal"</string>
-    <string name="unit_data_short_weight_dan">""</string>
-    <string name="unit_data_short_weight_jin">""</string>
-    <string name="unit_data_short_weight_qian">""</string>
-    <string name="unit_data_short_weight_liang">""</string>
-
-
-
-
-
-    <string name="unit_data_short_time_week">"sem"</string>
-    <string name="unit_data_short_time_us">"μs"</string>
-    
- 
-    
-    
-    
-    
-   <string name="sin">"sen"</string>
-    <string name="sin_mathematical_value">"sen"</string>
-    
-    
-    
-    
-    
-    
-   
-    
-    
-    <string name="leftParen">"("</string>
-    <string name="rightParen">")"</string>
-    <string name="sqrt">"√"</string>
-    
-    
-    <string name="leftParenDesc">"paréntesis izquierdo"</string>
-    <string name="rightParenDesc">"paréntesis derecho"</string>
-    <string name="factorialDesc">"factorial"</string>
-    <string name="lnDesc">"logaritmo natural"</string>
-    <string name="lgDesc">"logaritmo"</string>
-    <string name="sqrtDesc">"raíz cuadrada"</string>
-    <string name="divDesc">"dividir"</string>
-    <string name="mulDesc">"multiplicar"</string>
-    <string name="plusDesc">"más"</string>
-    <string name="minusDesc">"menos"</string>
-    <string name="dotDesc">"punto"</string>
-    
-    <string name="clearDesc">"limpiar"</string>
-    <string name="tanDesc">"tangente"</string>
-    <string name="sinDesc">"seno"</string>
-    <string name="cosDesc">"coseno"</string>
-    <string name="eDesc">"Número de Euler"</string>
-    <string name="piDesc">"pi"</string>
-    <string name="equalDesc">"es igual a"</string>
-    <string name="loan_interest_rate">"Precio del dinero"</string>
-    <string name="loan_edittext_hint_commercial">"Créditos comerciales"</string>
-    <string name="loan_edittext_hint_fund">"Préstamos del fondo de previsión"</string>
-    <string name="loan_edittext_hint_commercial_combined">"Créditos comerciales"</string>
-    <string name="loan_edittext_hint_fund_combined">"Préstamos del fondo de previsión"</string>
-    <string name="loan_unit">"miríada"</string>
-    <string name="loan_payback_way">"Reembolso"</string>
-    <string name="loan_pay_years">"Periodo de préstamo"</string>
-    <string name="loan_first_pay_date">"Primera fecha de pago"</string>
-    <string name="from_unit">"km/h"</string>
-    <string name="from_num">"100"</string>
-    
-    
-    
-    <string name="from_unit_short">"km/h"</string>
-    <string name="from_unit_en">"kilómetros por hora"</string>
-    
-    <string name="unit_myriads">"Miríadas"</string>
-    <string name="unit_times">""</string>
-    <string name="unit_yuan">"RMB"</string>
-    <string name="unit_percentage">"%"</string>
-    <string name="unit_year">"Y"</string>
-    <string name="unit_year_format">"Año %s"</string>
-    <string name="error_fomrat">"Error de formato"</string>
-
-    
-    <string name="wf_word_figure">"Carácteres financieros"</string>
-    
-   
-</resources>
+    <string name="unit_data_short_volume_cu.dm">dm³</string>
+    <string name="unit_data_short_volume_cu.ft">ft³</string>
+    <string name="unit_data_short_volume_cu.in">in³</string>
+    <string name="unit_data_short_volume_cu.m">m³</string>
+    <string name="unit_data_short_volume_cu.mm">mm³</string>
+    <string name="unit_data_short_volume_cu.um">μm³</string>
+    <string name="unit_data_short_volume_cu.yd">yd³</string>
+    <string name="unit_data_short_volume_hl">hl³</string>
+    <string name="unit_data_short_weight_dan">dan</string>
+    <string name="unit_data_short_weight_jin">jin</string>
+    <string name="unit_data_short_weight_liang">liang</string>
+    <string name="unit_data_short_weight_lt">l.t</string>
+    <string name="unit_data_short_weight_qian">qian</string>
+    <string name="unit_data_short_weight_st">sh.t</string>
+    <string name="unit_data_short_weight_ug">μg</string>
+    <string name="unit_data_short_weight_uk.cwt">quintal</string>
+    <string name="unit_data_short_weight_us.cwt">quintal</string>
+    <string name="unit_myriads">×10K</string>
+    <string name="unit_percentage">%</string>
+    <string name="unit_times"/>
+    <string name="unit_year">A</string>
+    <string name="unit_year_format">Año %s</string>
+    <string name="unit_yuan">CNY</string>
+    <string name="wf_word_figure">Carácteres financieros</string>
+  </resources>
