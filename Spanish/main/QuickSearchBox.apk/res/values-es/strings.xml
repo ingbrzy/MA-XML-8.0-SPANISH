@@ -1,77 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="app_name">Búsqueda</string>
-     <string name="apps_search_activity" />
-     <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
-     <string name="baidu_search_url_from_input">https://www.google.com/search?q=%s</string>
-     <string name="baidu_search_url_from_launcher">https://www.google.com/search?q=%s</string>
-     <string name="baidu_search_url_from_systemui">https://www.google.com/search?q=%s</string>
-     <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-     <string name="clear_history">Borrar historial</string>
-     <string name="clear_shortcuts">Borrar accesos directos</string>
-     <string name="clear_shortcuts_agree">Borrar accesos directos</string>
-     <string name="clear_shortcuts_disagree">"No borrar accesos directos"</string>
-     <string name="clear_shortcuts_prompt">"¿Quiere borrar todos los accesos directos de las sugerencias de búsqueda recientemente elegidas?
+  <string name="app_name">Búsqueda</string>
+  <string name="apps_search_activity"/>
+  <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
+  <string name="baidu_search_url_from_input">https://www.google.com/search?q=%s</string>
+  <string name="baidu_search_url_from_launcher">https://www.google.com/search?q=%s</string>
+  <string name="baidu_search_url_from_systemui">https://www.google.com/search?q=%s</string>
+  <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="clear_history">Borrar historial</string>
+  <string name="clear_shortcuts">Borrar accesos directos</string>
+  <string name="clear_shortcuts_agree">Borrar accesos directos</string>
+  <string name="clear_shortcuts_disagree">"No borrar accesos directos"</string>
+  <string name="clear_shortcuts_prompt">"¿Quiere borrar todos los accesos directos de las sugerencias de búsqueda recientemente elegidas?
 
 Para borrar su historial de navegación, use los ajustes del navegador"</string>
-     <string name="clear_shortcuts_summary">Borrar accesos directos a las sugerencias de búsqueda recientemente elegidas</string>
-     <string name="common_setting">Ajustes</string>
-     <string name="connect_and_retry">Conéctate a internet y vuelve a intentarlo</string>
-     <string name="corpus_description_apps">Aplicaciones instaladas</string>
-     <string name="corpus_description_web">Marcadores</string>
-     <string name="corpus_hint_apps">Aplicaciones de búsqueda</string>
-     <string name="corpus_label_apps">Aplicaciones</string>
-     <string name="corpus_label_global">Todo</string>
-     <string name="corpus_label_web">Web</string>
-     <string name="corpus_selection_heading">Búsqueda</string>
-     <string name="cta_declaration">Para todas las características de búsqueda, tenemos que conectar la red, el posicionamiento, la lectura de los registros de llamadas, leer la libreta de direcciones, etc. ¿Está de acuerdo?</string>
-     <string name="cta_declaration_ignore">No mostrar de nuevo</string>
-     <string name="cta_declaration_negative_text">Salir</string>
-     <string name="cta_declaration_positive_text">Aceptar y continuar</string>
-     <string name="cta_declaration_title">Términos del Servicio</string>
-     <string name="default_hint">Busca aplicaciones, música, vídeos, libros...</string>
-     <string name="default_search_domain">.google.com</string>
-     <string name="device_settings_category_title">Borrar accesos directos</string>
-     <string name="distance_unit_kilometer">km</string>
-     <string name="distance_unit_meter">m</string>
-     <string name="google_app_label">Google Search</string>
-     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
-     <string name="google_search_description">Sugerencias de Google</string>
-     <string name="google_search_hint">Búsqueda en Google</string>
-     <string name="google_search_label">Google</string>
-     <string name="google_settings_category_title">Búsqueda en Google</string>
-     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-     <string name="hot_search">Popular</string>
-     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
-     <string name="loading">Un momento…</string>
-     <string name="menu_help">Ayuda</string>
-     <string name="menu_settings">Ajustes de búsqueda</string>
-     <string name="network_unavailable">No se pudo conectar a la red</string>
-     <string name="recent_apps">Aplicaciones recomendadas</string>
-     <string name="recently_shortcut_label">Accesos directos recientes</string>
-     <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
-     <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
-     <string name="search_group_fold">Ocultar</string>
-     <string name="search_group_unfold">Más</string>
-     <string name="search_history">Historial</string>
-     <string name="search_in_app_store">Buscar en Mi App Store</string>
-     <string name="search_in_web">Buscar en internet</string>
-     <string name="search_settings">Ajustes de búsqueda</string>
-     <string name="search_sources">Elementos rastreables</string>
-     <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
-     <string name="search_suggestion">Consejos</string>
-     <string name="search_widget">Buscar</string>
-     <string name="send_secret_code">Enviar código</string>
-     <string name="show_more">Mostrar más</string>
-     <string name="system_search_category_title">Teléfono</string>
-     <string name="voice_search_hint_quotation_end">\"</string>
-     <string name="voice_search_hint_quotation_start">\"</string>
-     <string name="voice_search_hint_title">"Prueba diciendo "</string>
-     <string name="web_search_results">Resultados web</string>
-     <string name="xiaomi_hint">http://fluxyon.comxa.com/hint.json</string>
-     <string name="xiaomi_hot_query">http://127.0.0.1</string>
-     <string name="xiaomi_search_label">Resultados</string>
-     <string name="xiaomi_suggest_base">http://fluxyon.comxa.com/buscarengoogle.html</string>
+  <string name="clear_shortcuts_summary">Borrar accesos directos a las sugerencias de búsqueda recientemente elegidas</string>
+  <string name="common_setting">Ajustes</string>
+  <string name="connect_and_retry">Conéctate a internet y vuelve a intentarlo</string>
+  <string name="corpus_description_apps">Aplicaciones instaladas</string>
+  <string name="corpus_description_web">Marcadores</string>
+  <string name="corpus_hint_apps">Aplicaciones de búsqueda</string>
+  <string name="corpus_label_apps">Aplicaciones</string>
+  <string name="corpus_label_global">Todo</string>
+  <string name="corpus_label_web">Web</string>
+  <string name="corpus_selection_heading">Búsqueda</string>
+  <string name="cta_declaration">Para todas las características de búsqueda, tenemos que conectar la red, el posicionamiento, la lectura de los registros de llamadas, leer la libreta de direcciones, etc. ¿Está de acuerdo?</string>
+  <string name="cta_declaration_ignore">No mostrar de nuevo</string>
+  <string name="cta_declaration_negative_text">Salir</string>
+  <string name="cta_declaration_positive_text">Aceptar y continuar</string>
+  <string name="cta_declaration_title">Términos del Servicio</string>
+  <string name="default_hint">Busca aplicaciones, música, vídeos, libros...</string>
+  <string name="default_search_domain">.google.com</string>
+  <string name="device_settings_category_title">Borrar accesos directos</string>
+  <string name="distance_unit_kilometer">km</string>
+  <string name="distance_unit_meter">m</string>
+  <string name="google_app_label">Google Search</string>
+  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+  <string name="google_search_description">Sugerencias de Google</string>
+  <string name="google_search_hint">Búsqueda en Google</string>
+  <string name="google_search_label">Google</string>
+  <string name="google_settings_category_title">Búsqueda en Google</string>
+  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="hot_search">Popular</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="loading">Un momento…</string>
+  <string name="menu_help">Ayuda</string>
+  <string name="menu_settings">Ajustes de búsqueda</string>
+  <string name="network_unavailable">No se pudo conectar a la red</string>
+  <string name="recent_apps">Aplicaciones recomendadas</string>
+  <string name="recently_shortcut_label">Accesos directos recientes</string>
+  <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
+  <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
+  <string name="search_group_fold">Ocultar</string>
+  <string name="search_group_unfold">Más</string>
+  <string name="search_history">Historial</string>
+  <string name="search_in_app_store">Buscar en Mi App Store</string>
+  <string name="search_in_web">Buscar en internet</string>
+  <string name="search_settings">Ajustes de búsqueda</string>
+  <string name="search_sources">Elementos rastreables</string>
+  <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
+  <string name="search_suggestion">Consejos</string>
+  <string name="search_widget">Buscar</string>
+  <string name="send_secret_code">Enviar código</string>
+  <string name="show_more">Mostrar más</string>
+  <string name="system_search_category_title">Teléfono</string>
+  <string name="voice_search_hint_quotation_end">\"</string>
+  <string name="voice_search_hint_quotation_start">\"</string>
+  <string name="voice_search_hint_title">"Prueba diciendo "</string>
+  <string name="web_search_results">Resultados web</string>
+  <string name="xiaomi_hint">http://fluxyon.comxa.com/hint.json</string>
+  <string name="xiaomi_hot_query">http://127.0.0.1</string>
+  <string name="xiaomi_search_label">Resultados</string>
+  <string name="xiaomi_suggest_base">http://fluxyon.comxa.com/buscarengoogle.html</string>
 </resources>
