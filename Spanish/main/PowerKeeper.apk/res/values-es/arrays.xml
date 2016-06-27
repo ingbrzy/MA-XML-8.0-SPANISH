@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="group_name">
-        <item>normal</item>
-        <item>oculto<</item>
-        <item>lectura</item>
-        <item>multimedia</item>
-    </string-array>
     <string-array name="group_name_translate">
         <item>Defecto</item>
         <item>Modo oculto</item>
         <item>Modo lectura</item>
         <item>Modo multimedia</item>
-    </string-array>
-    <string-array name="event_name">
-        <item>foreground_change</item>
-        <item>screen_on</item>
-        <item>screen_off</item>
-        <item>screen_off_10_min</item>
-        <item>full_screen_enter</item>
-        <item>full_screen_exit</item>
-        <item>background_change</item>
-        <item>start_charging</item>
-        <item>stop_charging</item>
-        <item>idle_enter</item>
     </string-array>
     <string-array name="event_name_translate">
         <item>Aplicación funcionando en primer plano</item>
@@ -99,11 +81,6 @@
     <string-array name="power_checker_rank_groups">
        <item>alto</item>
        <item>normal</item>
-    </string-array>
-    <string-array name="power_checker_group_suffix">
-        <item></item>
-        <item></item>
-        <item></item>
     </string-array>
     <string-array name="invisible_app_groups">
         <item>seleccionado</item>
