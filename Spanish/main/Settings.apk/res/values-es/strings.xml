@@ -249,6 +249,12 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="apps_with_restrictions_header">Aplicaciones con restricciones</string>
   <string name="apps_with_restrictions_settings_button">Expandir config. a aplicación</string>
   <string name="ask_compatibility">Preguntar cuando se lanza</string>
+  <string name="assist_access_context_summary">Permitir que la aplicación de ayuda  acceder a los contenidos de la pantalla como texto</string>
+  <string name="assist_access_context_title">Utilizar el texto de la pantalla</string>
+  <string name="assist_access_screenshot_summary">Permitir que la aplicación de asistencia acceder a una imagen de la pantalla</string>
+  <string name="assist_access_screenshot_title">Uso de pantalla</string>
+  <string name="assist_and_voice_input_title">Ayuda y entrada de voz</string>
+  <string name="assist_footer">Las aplicaciones de ayuda pueden ayudar en base a la información  que se está visualizando en la pantalla. Algunas aplicaciones soportan ambos servicios de lanzadores y de entrada de voz para darle asistencia integrada.</string>
   <string name="assisted_gps">Utilizar GPS asistido</string>
   <string name="assisted_gps_disabled">Utilizar el servidor para asistir el GPS (anula la selección para mejorar el rendimiento del GPS)</string>
   <string name="assisted_gps_enabled">Utilizar el servidor para asistir el GPS (anular la selección para reducir el uso de la red)</string>
@@ -966,6 +972,7 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="debug_log">Programa de experiencia de usuario</string>
   <string name="debug_monitoring_category">Monitoreo</string>
   <string name="debug_view_attributes">Habilitar inspección de atributos de vista</string>
+  <string name="default_assist_title">Aplicación de ayuda</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Elige el teclado predeterminado</string>
   <string name="default_sound">Sonido predeterminado</string>
@@ -1470,6 +1477,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="immediately_destroy_activities_summary">Descartar todas las actividades en cuanto el usuario las abandona</string>
   <string name="ims_reg_required_off">Desactivar el registro de MI requerido</string>
   <string name="ims_reg_required_on">Activar el registro de MI requerido</string>
+  <string name="inactive_apps_title">Aplicaciones inactivas</string>
   <string name="include_app_data_title">Incluir datos de aplicación</string>
   <string name="incoming_call_breathing_light_color_title">Color de llamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frecuencia de parpadeo en luz de llamadas</string>
@@ -1912,9 +1920,14 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
   <string name="mms_breathing_light_color_title">Color de mensajes</string>
   <string name="mms_breathing_light_freq_title">Frecuencia de parpadeo en luz de mensajes</string>
   <string name="mobile_connect_to_internet">Conéctate a Internet.</string>
+  <string name="mobile_data_always_on">Los datos siempre activos</string>
+  <string name="mobile_data_always_on_summary">Siempre mantiene los datos móviles activos, incluso cuando la conexión Wi-Fi está activa (para la conmutación de red rápida).</string>
   <string name="mobile_insert_sim_card">Inserta la tarjeta SIM y reinicia.</string>
   <string name="mobile_no_provisioning_url">%1$s no tiene ningún sitio de aprovisionamiento.</string>
   <string name="mobile_unknown_sim_operator">Operador SIM desconocido</string>
+  <string name="mock_location_app">Seleccionar aplicación de ubicación simuladas</string>
+  <string name="mock_location_app_not_set">No existe un conjunto de aplicaciones de ubicación simuladas</string>
+  <string name="mock_location_app_set">Aplicación de ubicación simuladas: %1$s</string>
   <string name="model_number">Modelo</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">No se pudo mover la aplicación. %1$s</string>
@@ -3001,7 +3014,11 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="select_device_admin_msg">Administradores del dispositivo</string>
   <string name="select_logd_size_dialog_title">Sel. tamaños Logger/búfer registro</string>
   <string name="select_logd_size_title">Tamaños de búfer de Logger</string>
+  <string name="select_sim_for_calls">Llamar con</string>
+  <string name="select_sim_for_data">Seleccionar una SIM para los datos</string>
   <string name="select_ssid_type_title">Seleccionar SSID</string>
+  <string name="select_usb_configuration_dialog_title">Seleccione Configuración USB</string>
+  <string name="select_usb_configuration_title">Seleccione Configuración USB</string>
   <string name="selinux_status">Estado de SELinux</string>
   <string name="selinux_status_disabled">Desactivado</string>
   <string name="selinux_status_enforcing">Obligatorio</string>
