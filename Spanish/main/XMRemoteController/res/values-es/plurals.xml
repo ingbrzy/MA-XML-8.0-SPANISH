@@ -12,4 +12,28 @@
         <item quantity="other">%d marcas disponibles</item>
         <item quantity="one">1 marca disponible</item>
     </plurals>
-</resources>
+    <plurals name="days_ago"> 
+           <item quantity="other">%1$d hace días</item> 
+           <item quantity="zero">%1$d hace días</item> 
+           <item quantity="one">%1$d hace un dia</item> 
+           <item quantity="two">%1$d hace días</item> 
+           <item quantity="few">%1$d hace días</item> 
+           <item quantity="many">%1$d hace días</item> 
+     </plurals> 
+     <plurals name="hours_ago"> 
+           <item quantity="other">%1$d horas atras</item> 
+           <item quantity="zero">%1$d horas atras</item> 
+           <item quantity="one">%1$d hace una hora</item> 
+           <item quantity="two">%1$d horas atras</item> 
+           <item quantity="few">%1$d horas atras</item> 
+           <item quantity="many">%1$d horas atras</item> 
+     </plurals> 
+     <plurals name="mins_ago"> 
+           <item quantity="other">%1$d hace minutos</item> 
+           <item quantity="zero">%1$d hace minutos</item> 
+           <item quantity="one">%1$d hace minuto</item> 
+           <item quantity="two">%1$d hace minutos</item> 
+           <item quantity="few">%1$d hace minutos</item> 
+           <item quantity="many">%1$d hace minutos</item> 
+      </plurals> 
+  </resources>
