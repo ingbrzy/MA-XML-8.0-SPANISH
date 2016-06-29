@@ -54,9 +54,9 @@
         <item>Sugeridas</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
-        <item>using</item>
-        <item></item>
-        <item></item>
+        <item>Ahora</item>
+        <item>Segundo plano</item>
+        <item>Recientemente</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
         <item>Kernel WakeLock</item>
@@ -81,11 +81,6 @@
     <string-array name="power_checker_rank_groups">
        <item>alto</item>
        <item>normal</item>
-    </string-array>
-    <string-array name="power_checker_group_suffix">
-        <item></item>
-        <item>Demasiado ahora</item>
-        <item>Demasiado en ese día</item>
     </string-array>
     <string-array name="invisible_app_groups">
         <item>seleccionado</item>

@@ -167,8 +167,6 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="HIPS_Perm_Read_MMS">Leer mensajes MMS</string>
   <string name="HIPS_Perm_Read_MMS_Desc">Leer sus mensajes multimedia</string>
   <string name="HIPS_Perm_Read_MMS_Hint">%1$s aplicaciones pueden leer sus mensajes multimedia</string>
-  <string name="HIPS_Perm_read_notification_sms">Servicio SMS</string>
-  <string name="HIPS_Perm_read_notification_sms_Desc">Leer servicio SMS</string>
   <string name="HIPS_Perm_Read_SMS">Leer SMS</string>
   <string name="HIPS_Perm_Read_SMS_Desc">Leer sus SMS</string>
   <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplicaciones pueden leer sus SMS</string>
@@ -228,6 +226,8 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="HIPS_Perm_process_nfc_Desc">Acceder al hardware NFC</string>
   <string name="HIPS_Perm_process_outgoing_calls">Acceder a la aplicación Teléfono</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorizar y finalizar llamadas</string>
+  <string name="HIPS_Perm_read_notification_sms">Servicio SMS</string>
+  <string name="HIPS_Perm_read_notification_sms_Desc">Leer servicio SMS</string>
   <string name="HIPS_Perm_use_sip">Servicios de vídeo</string>
   <string name="HIPS_Perm_use_sip_Desc">Usar SIP para hacer streaming de vídeo</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
@@ -282,7 +282,7 @@ Necesita instalar una versión de desarrollo de MIUI para tener permisos de root
   <string name="permission_group_title_privacy_related">Privacidad</string>
   <string name="permission_group_title_settings_related">Ajustes</string>
   <string name="permission_request_title">Petición de permiso</string>
-  <string name="permission_warning_template">¿Permitir %1$s a %2$s?</string>
+  <string name="permission_warning_template">¿Permitir a %1$s %2$s?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" no tiene permiso para %2$s. Puede cambiar los permisos de la aplicación en cualquier momento Seguridad &gt; Permisos."</string>
   <string name="screen_overlay_button">Abrir ajustes</string>
   <string name="screen_overlay_message">Para cambiar el ajuste de este permiso, primero debes desactivar el recubrimiento de pantalla en Ajustes &gt; Aplicaciones</string>
