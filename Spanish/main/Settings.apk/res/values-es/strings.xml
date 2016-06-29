@@ -753,8 +753,8 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
   <string name="computing_size">Calculando...</string>
   <string name="condition_provider_security_warning_summary">%1$s podrá agregar condiciones de salida al modo No molestar.</string>
   <string name="condition_provider_security_warning_title">¿Habilitar %1$s?</string>
-  <string name="config_charging_function_name">charging</string>
-  <string name="config_list_label">Configured networks</string>
+  <string name="config_charging_function_name">carga</string>
+  <string name="config_list_label">redes configuradas</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
@@ -1048,8 +1048,8 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="dirac_mode_piston_100">Auriculares Mi</string>
   <string name="dirac_mode_piston_2">Mi piston-2</string>
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
-  <string name="disableNetwork">disableNetwork</string>
-  <string name="disable_data_string">Disable data connection</string>
+  <string name="disableNetwork">desactivarlaRed</string>
+  <string name="disable_data_string">Desactivar la conexión de datos</string>
   <string name="disable_overlays">Desactivar superpos. HW</string>
   <string name="disable_overlays_summary">Usar GPU para combinar pantallas</string>
   <string name="disable_power_key_long_press_under_keyguard">Desactivar el menú del botón de apagado</string>
@@ -1058,7 +1058,7 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="disable_text">Inhabilitar</string>
   <string name="disabled">Inhabilitadas</string>
   <string name="disabled_because_no_backup_security">Para usar el agente, debes establecer un bloqueo de pantalla.</string>
-  <string name="disconnect">disconnect</string>
+  <string name="disconnect">desconectar</string>
   <string name="display_auto_rotate_rotate">Activado</string>
   <string name="display_auto_rotate_stay_in_current">Desactivado</string>
   <string name="display_auto_rotate_stay_in_landscape">Fijar posición horizontal</string>
@@ -1199,7 +1199,7 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="emergency_tone_title">Tono de emergencia</string>
   <string name="emergency_tone_vibrate">Vibrar</string>
   <string name="empty_list_msg">No tienes instalada ninguna aplicación de terceros.</string>
-  <string name="enableNetwork">enableNetwork</string>
+  <string name="enableNetwork">permitirRed</string>
   <string name="enable_adb">Depuración por USB</string>
   <string name="enable_adb_summary">Modo de depuración cuando se conecta el USB</string>
   <string name="enable_adb_summary_charging">Device is in Charging mode, USB debugging is disabled</string>
@@ -1403,8 +1403,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="game_controller_settings_category">Controlador de juegos</string>
   <string name="gesture_wakeup_title">Toque dos veces la pantalla para despertar</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
+  <string name="getConfiguredNetworks">ObtenerRedesconfiguradas</string>
+  <string name="getConnectionInfo">obtenerInformacióndeconexión</string>
   <string name="global_change_warning">Esta configuración afecta a todos los usuarios de este dispositivo.</string>
   <string name="global_font_change_title">Cambiar tamaño de fuente</string>
   <string name="global_locale_change_title">Cambiar idioma</string>
@@ -1478,6 +1478,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="immediately_destroy_activities_summary">Descartar todas las actividades en cuanto el usuario las abandona</string>
   <string name="ims_reg_required_off">Desactivar el registro de MI requerido</string>
   <string name="ims_reg_required_on">Activar el registro de MI requerido</string>
+  <string name="inactive_app_active_summary">Activo. Toca para cambiar.</string>
+  <string name="inactive_app_inactive_summary">Inactivo. Toca para cambiar.</string>
   <string name="inactive_apps_title">Aplicaciones inactivas</string>
   <string name="include_app_data_title">Incluir datos de aplicación</string>
   <string name="incoming_call_breathing_light_color_title">Color de llamadas</string>
@@ -1604,6 +1606,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="led_frequence_summary">Configurar el intervalo de parpadeo</string>
   <string name="led_pulse_summary">Encender luz Led al recibir nuevas notificaciones</string>
   <string name="led_settings">Luz de notificación LED</string>
+  <string name="legacy_dhcp_client">Utilice cliente DHCP</string>
+  <string name="legacy_dhcp_client_summary">Utilice el cliente de DHCP desde Lollipop en lugar del nuevo Android cliente DHCP.</string>
   <string name="legal_information">Información legal</string>
   <string name="legal_workday">Días laborales</string>
   <string name="legal_workday_invalidate">Lun-Vie (info de festividades caducada)</string>
@@ -4165,7 +4169,7 @@ de Wi‑Fi"</string>
   <string name="wifi_type_approval_title">Homologación</string>
   <string name="wifi_unchanged">(sin cambios)</string>
   <string name="wifi_unspecified">(sin especificar)</string>
-  <string name="wifi_update">Refresh stats</string>
+  <string name="wifi_update">Refrescar estadísticas</string>
   <string name="wifi_verbose_logging">Habilitar registro detallado de Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Aumentar nivel de registro Wi-Fi; mostrar por SSID RSSI en el selector de Wi-Fi</string>
   <string name="wifi_wapi_as_cert">Certificado AS</string>
