@@ -32,6 +32,30 @@
         <item quantity="other">Compartido con %d personas</item>
         <item quantity="one">Compartido con %d persona</item>
     </plurals>
+     <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Las fotos seleccionadas no están en el dispositivo.¿Descargarlos a partir de datos móviles?"</item>
+        <item quantity="one">"La foto seleccionada no está en el dispositivo.¿Descargarlo a partir de datos móviles?"</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Las fotos seleccionadas (%dMB) no están en el dispositivo.¿Descargarlos a partir de datos móviles?"</item>
+        <item quantity="one">"Las foto seleccionada (%dMB) no están en el dispositivo.¿Descargarlos a partir de datos móviles?"</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Las fotos seleccionadas no están en el dispositivo. Estas serán descargadas."</item>
+        <item quantity="one">"Las foto seleccionada no están en el dispositivo. Esta será descargada."</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">"No se pudo descargar %1$d fotos,¿inténtar de nuevo?"</item>
+        <item quantity="one">"No se pudo descargar la foto,¿inténtar de nuevo?"</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">"No se pudo descargar %1$d fotos (%2$dMB),¿inténtar de nuevo?"</item>
+        <item quantity="one">"No se pudo descargar la foto (%2$dMB),¿inténtar de nuevo?"</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Cancelar la descarga de %d fotos ?</item>
+        <item quantity="one">¿Cancelar la descarga de la foto?</item>
+</plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Eliminar %1$d fotos %2$s?</item>
         <item quantity="one">Eliminar ésta foto %2$s?</item>
