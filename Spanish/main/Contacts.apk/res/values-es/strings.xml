@@ -406,7 +406,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="event_edit_field_hint_text">Fecha</string>
   <string name="export_sim_contact_finish">Contactos exportados</string>
   <string name="export_sim_contact_finish_failure">%1$d transferidos | %2$d restantes</string>
-  <string name="export_sim_contact_finish_msg">%1$d transferidos | %2$d duplicados | %3$d restantes</string>
+  <string name="export_sim_contact_finish_msg">%1$d transferidos | %2$d duplicados | %3$d restantes %4$s</string>
   <string name="export_to_sdcard">Exportar al almacenamiento</string>
   <string name="export_to_sim">Exportar a la tarjeta SIM</string>
   <string name="export_to_sim1">Exportar a SIM 1</string>
@@ -884,6 +884,8 @@ Para agregar un contacto a la lista de favoritos:
   <string name="pref_key_sim_manage">Configurar la tarjeta SIM</string>
   <string name="pref_key_sim_manage1">Configurar SIM 1</string>
   <string name="pref_key_sim_manage2">Configurar SIM 2</string>
+  <string name="pref_rcs_backup_restore_title">Copia de seguridad &amp; Ajustes de recuperación</string>
+  <string name="pref_rcs_fetion_entry_title">Ajustes Fetion</string>
   <string name="pref_summary_import_from_account">Transferir contactos desde cuentas de Google y Exchange a mi cuenta Mi</string>
   <string name="pref_title_account_import">Importar contactos</string>
   <string name="pref_title_import_from_account">Importar a cuenta Mi</string>
