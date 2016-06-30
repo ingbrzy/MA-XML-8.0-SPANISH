@@ -42,6 +42,12 @@
   <string name="confirm_restore_title">Restaurar valores predeterminados</string>
   <string name="details">Detalles</string>
   <string name="dialog_ok">Aceptar</string>
+  <string name="dual_camera_lens_covered_toast">La lente está cubierta.</string>
+  <string name="dual_camera_low_constract_toast">Parece que el contraste es demasiado bajo.</string>
+  <string name="dual_camera_lowlight_toast">"Parece que es demasiado oscura."</string>
+  <string name="dual_camera_too_close_toast">La cámara está demasiado cerca del objeto.</string>
+  <string name="dual_camera_use_hint">"Modo estéreo ayuda a difuminar el fondo.
+El objeto no debe estar a más de 2 metros."</string>
   <string name="duration">Duración</string>
   <string name="edit">Editar</string>
   <string name="effect_setting_top_text">Filtros</string>
@@ -337,12 +343,15 @@
   <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocar</string>
   <string name="pref_scan_qrcode_title">Escanear el código QR</string>
-  <string name="pref_setting_title">Ajustes</string>
+  <string name="pref_setting_title">Apagado</string>
+  <string name="pref_simple_hdr_default">off</string>
   <string name="pref_simple_hdr_entry_off">Apagado</string>
   <string name="pref_simple_hdr_entry_on">Encendido</string>
-  <string name="pref_skin_beautify_intelligent_title">Inteligente</string>
+  <string name="pref_skin_beautify_color_title">Tono</string>
+  <string name="pref_skin_beautify_eye_title">Ojos</string>
+  <string name="pref_skin_beautify_intelligent_title">Dinámico</string>
   <string name="pref_skin_beautify_slim_title">Delgado</string>
-  <string name="pref_skin_beautify_smooth_title">Suave</string>
+  <string name="pref_skin_beautify_smooth_title">Piel</string>
   <string name="pref_video_captrue_ability_title">Captura de imágenes</string>
   <string name="pref_video_focusmode_entry_auto">Pulsar</string>
   <string name="pref_video_focusmode_entry_continuous">Autofoco continuo</string>
@@ -379,8 +388,7 @@
   <string name="preparing_sd">Preparando almacenamiento interno…</string>
   <string name="record_back_pressed_hint">Toque otra vez para detener la grabación</string>
   <string name="search_settings">Ajustes de la cámara;Calidad;Calidad de la imagen;Ubicación de la imagen;Ubicación de la foto;Detección de rostros;Sonido Cámara</string>
-  <string name="see_qrcode_detals">Ver detalles</string>
-  <string name="setting_top_text">Opciones</string>
+  <string name="see_qrcode_detals">Ver detalles QR</string>
   <string name="simple_mode_button_asd_flash">Cerrar captura flash</string>
   <string name="simple_mode_button_asd_hdr">Cerrar captura HDR</string>
   <string name="simple_mode_button_text_audio_capture">Cerrar disparador de voz</string>
@@ -397,6 +405,8 @@
   <string name="simple_mode_button_text_panorama">Cerrar modo panorámica</string>
   <string name="simple_mode_button_text_scene">Cerrar modo escena</string>
   <string name="simple_mode_button_text_slow_video">Cerrar cámara a velocidad rápida</string>
+  <string name="simple_mode_button_text_square">Desactive la plaza</string>
+  <string name="simple_mode_button_text_stereo_mode">Desactivar estéreo</string>
   <string name="simple_mode_button_text_tilt_shift">Cerrar efecto diorama</string>
   <string name="simple_mode_button_text_ubifocus">Cerrar modo de reenfoque</string>
   <string name="snapshot_lower_than_video">La resolución de la instantánea de vídeo es menor que el tamaño de vídeo. Seleccione una resolución mayor o igual que el tamaño actual del vídeo.</string>
