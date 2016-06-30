@@ -242,7 +242,7 @@
   <string name="insert_event_dialog_btn_positive">Sí</string>
   <string name="insert_event_dialog_message">¿Añadir este evento al calendario?</string>
   <string name="insert_event_dialog_title">Aviso</string>
-  <string name="insert_event_toast_add_failed">Fallo al añadir</string>
+  <string name="insert_event_toast_add_failed">"No se pudo añadir"</string>
   <string name="insert_event_toast_add_success">Evento creado</string>
   <string name="internet_connection_notification">Notificación de conexión a internet</string>
   <string name="internet_connection_notification_descrip">Mostrar notificación de conexión a internet cada vez que abres Calendario</string>
@@ -342,7 +342,7 @@
   <string name="preferences_import_credit_repayment">Pagos con tarjeta de crédito</string>
   <string name="preferences_reminder_title">Notificación y recordatorios</string>
   <string name="preferences_show_week_num_title">Mostrar número de semana</string>
-  <string name="preferences_solar_terms">Mostrar días solares</string>
+  <string name="preferences_solar_terms">Mostrar condiciones solares</string>
   <string name="preferences_title">Calendario</string>
   <string name="preferences_use_home_tz_descrip">Mostrar calendarios y horarios del evento en tu zona horaria propia cuando viajes</string>
   <string name="preferences_use_home_tz_title">Usar zona horaria propia</string>
