@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">¿No mostrar éstas caras?</item>
-        <item quantity="one">¿No mostrar ésta face?</item>
+        <item quantity="other">¿No mostrar estas caras?</item>
+        <item quantity="one">¿No mostrar esta cara?</item>
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s fotos de %2$s</item>
@@ -61,52 +61,52 @@
         <item quantity="one">%1$d elemento ha sido respaldado</item>
     </plurals>
     <plurals name="backup_waiting">
-        <item quantity="other">%1$d elementos esperando a ser respaldado(s)</item>
-        <item quantity="one">%1$d elemento esperando a ser respaldado(s)</item>
+        <item quantity="other">Faltan %1$d elementos por respaldar</item>
+        <item quantity="one">Falta %1$d elemento por respaldar</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Network error. %1$d elementos esperando a ser respaldado(s)</item>
-        <item quantity="one">Network error. %1$d elemento esperando a ser respaldado(s)</item>
+        <item quantity="other">Error de red. Faltan %1$d elementos por respaldar</item>
+        <item quantity="one">Error de red. Falta %1$d elemento por respaldar</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">Sync off. %1$d elementos esperando a ser respaldado(s)</item>
-        <item quantity="one">Sync off. %1$d elemento esperando a ser respaldado(s)</item>
+        <item quantity="other">Sync off. Faltan %1$d elementos por respaldar</item>
+        <item quantity="one">Sync off. Falta %1$d elemento por respaldar</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud está lleno. %1$d elementos esperando a ser respaldado(s)</item>
-        <item quantity="one">Mi Cloud está lleno. %1$d elemento esperando a ser respaldado(s)</item>
+        <item quantity="other">Mi Cloud está lleno. Faltan %1$d elementos por respaldar</item>
+        <item quantity="one">Mi Cloud está lleno. Falta %1$d elemento por respaldar</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">No hay suficiente almacenamiento local. %1$d elementos esperando a ser respaldado(s)</item>
-        <item quantity="one">No hay suficiente almacenamiento local. %1$d elemento esperando a ser respaldado(s)</item>
+        <item quantity="other">No hay suficiente almacenamiento local. Faltan %1$d elementos por respaldar</item>
+        <item quantity="one">No hay suficiente almacenamiento local. Falta %1$d elemento por respaldar</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d fotos esperando sincronización</item>
-        <item quantity="one">1 foto esperando sincronización</item>
+        <item quantity="other">Faltan %1$d fotos por sincronizar</item>
+        <item quantity="one">Falta 1 foto por sincronizar</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d videos esperando sincronización</item>
-        <item quantity="one">1 video esperando sincronización</item>
+        <item quantity="other">Faltan %1$d vídeos por sincronizar</item>
+        <item quantity="one">Falta 1 vídeo por sincronizar</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d elementos esperando sincronización</item>
-        <item quantity="one">1 elemento esperando sincronización</item>
+        <item quantity="other">Faltan %1$d elementos por sincronizar</item>
+        <item quantity="one">Falta 1 elemento por sincronizar</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Sincronizando %1$d fotos…</item>
         <item quantity="one">Sincronizando foto…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Sincronizando %1$d videos…</item>
-        <item quantity="one">Sincronizando video…</item>
+        <item quantity="other">Sincronizando %1$d vídeos…</item>
+        <item quantity="one">Sincronizando vídeo…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Sincronizando %1$d elementos…</item>
         <item quantity="one">Sincronizando elemento…</item>
     </plurals>
 	<plurals name="download_error">
-        <item quantity="other">"No ha sido posible descargar %1$d archivos"</item>
-        <item quantity="one">"No ha sido posible descargar %1$d archivo"</item>
+        <item quantity="other">"No se pudieron descargar %1$d archivos"</item>
+        <item quantity="one">"No se pudo descargar %1$d archivo"</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
@@ -118,15 +118,15 @@
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">¿Eliminar %s fotos?</item>
-        <item quantity="one">¿Eliminar ésta foto?</item>
+        <item quantity="one">¿Eliminar esta foto?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos de este álbum?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video de este álbum?&lt;/Data></item>
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos de este álbum?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo de este álbum?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">¿Eliminar %s videos?</item>
-        <item quantity="one">¿Eliminar éste video?</item>
+        <item quantity="other">¿Eliminar %s vídeos?</item>
+        <item quantity="one">¿Eliminar éste vídeo?</item>
     </plurals>
     <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>
@@ -147,24 +147,24 @@
         <item quantity="one">%d carpeta</item>
     </plurals>
     <plurals name="how_many_videos">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">No tienes permiso para eliminar estos %d archivos.</item>
-        <item quantity="one">No tienes permiso para eliminar éste %d archivo.</item>
+        <item quantity="other">No tiene permiso para eliminar estos %d archivos.</item>
+        <item quantity="one">No tiene permiso para eliminar este %d archivo.</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Puedes seleccionar %d elementos</item>
-        <item quantity="one">Puedes seleccionar %d elemento</item>
+        <item quantity="other">Puede seleccionar %d elementos</item>
+        <item quantity="one">Puede seleccionar %d elemento</item>
     </plurals>
     <plurals name="confirm_delete_album">
-        <item quantity="other">¿¿Eliminar %1$s álbumes (%2$s total)?</item>
-        <item quantity="one">¿¿Eliminar éste ábum (%s total)?</item>
+        <item quantity="other">¿Eliminar %1$s álbumes (%2$s total)?</item>
+        <item quantity="one">¿Eliminar este ábum (%s total)?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%1$d videos&lt;/xliff:g> de %2$d álbumes?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar éste video de %2$d álbumes?&lt;/Data></item>
+        <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%1$d vídeos&lt;/xliff:g> de %2$d álbumes?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar éste vídeo de %2$d álbumes?&lt;/Data></item>
     </plurals>
     <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d días</item>
@@ -197,11 +197,11 @@
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
         <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos del almacenamiento interno y de Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar éste video del almacenamiento interno y de Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar este video del almacenamiento interno y de Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
         <item quantity="other">&lt;Data>¿Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos de Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>¿Eliminar éste video de Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>¿Eliminar este video de Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">¿Eliminar %s elementos?</item>
