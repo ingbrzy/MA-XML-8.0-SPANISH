@@ -53,6 +53,9 @@
   <string name="cloud_app_restore_title">Pendiente</string>
   <string name="configure_wallpaper">Configuraciones</string>
   <string name="confirm_btn_label">Aceptar</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Las aplicaciones dobles se desinstalan junto con éstos.</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">La aplicación Doble será desinstalado junto con éste.</string>
+  <string name="confirm_uninstall_dialog_title">La correspondiente aplicacion doble será eliminada.</string>
   <string name="current_preview">Previsualizar</string>
   <string name="current_wallpaper">Actual</string>
   <string name="custom_wallpaper_picker">Personalizado</string>
@@ -205,6 +208,7 @@
   <string name="preferences_title">Ajustes del launcher</string>
   <string name="recommend_apps_default_title">Vacío</string>
   <string name="recommend_apps_notice">Aplicaciones recomendadas</string>
+  <string name="recommend_apps_notice_nodata">Aplicaciones recomendadas (sin datos)</string>
   <string name="recommend_apps_switch_title">Apicaciones recomendadas</string>
   <string name="recommend_apps_tips">Esta característica necesita conectarse a internet para trabajar normalmente. Para desactivar esta función, toca el nombre de esta carpeta.</string>
   <string name="reset_scene_prompt">El escenario volverá al diseño predeterminado.</string>
@@ -249,6 +253,9 @@
   <string name="uninstall_result_other_failed" formatted="false">"No se puede desinstalar %s  y %d  otras aplicaciones"</string>
   <string name="uninstall_result_succeeded">Aplicación desinstalada</string>
   <string name="uninstall_result_two_failed">"No se puede desinstalar %s  y  otra aplicación"</string>
+  <string name="uninstall_with_xspace_dialog_message">Las correspondientes aplicaciones dobles serán eliminadas junto con los datos de las aplicaciones.</string>
+  <string name="uninstall_xspace_dialog_message">La desinstalación de las aplicaciones dobles eliminará todos los datos de aplicaciones.</string>
+  <string name="uninstall_xspace_dialog_title_format">Desinstalación doble \"%s\"</string>
   <string name="unknown_artist_name">Artista desconocido</string>
   <string name="unnamed_folder_name">Carpeta sin nombre</string>
   <string name="wallpaper">Fondo de pantalla</string>
