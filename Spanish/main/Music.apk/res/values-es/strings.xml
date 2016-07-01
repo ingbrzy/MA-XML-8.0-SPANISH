@@ -58,7 +58,7 @@
   <string name="auto_download_in_wifi">Descargar canciones favoritas usando Wi-Fi</string>
   <string name="auto_payment">Renovar automáticamente</string>
   <string name="auto_payment_date">Próximo pago: %s</string>
-  <string name="auto_restart_under_wifi">El archivo se descargará cuando el dispositivo este conectado a WI-FI</string>
+  <string name="auto_restart_under_wifi">El archivo se descargará cuando el dispositivo esté conectado a WI-FI</string>
   <string name="avail_services">Servicios disponibles</string>
   <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
   <string name="avoid_to_use_traffic_summary">No usar datos móviles para escuchar música por streaming</string>
@@ -505,7 +505,7 @@
   <string name="page_local_setting">Ajustes</string>
   <string name="pause_download">Pausar</string>
   <string name="paused_by_app">Pausado</string>
-  <string name="paused_in_power_save_mode">En pausa cuando ahorro de batería este encendido</string>
+  <string name="paused_in_power_save_mode">En pausa cuando ahorro de batería esté encendido</string>
   <string name="paused_insufficient_space">Esperando</string>
   <string name="paused_queued_for_wifi">Esperando conexión</string>
   <string name="paused_unknown">Pausado</string>
@@ -768,5 +768,5 @@
   <string name="wifi_required_body" formatted="false">""Deberías usar una red WI-FI para completar ésta %s descarga. 
 
 Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo WI-FI."</string>
-  <string name="wifi_required_title">Debe conectarse a WI-FI para descargar este archiv</string>
+  <string name="wifi_required_title">Debe conectarse a WI-FI para descargar este archivo</string>
 </resources>
