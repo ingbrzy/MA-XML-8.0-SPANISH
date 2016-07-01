@@ -65,9 +65,9 @@
   <string name="recognition_error_cancel">Cancelado</string>
   <string name="recognition_error_download_cancel">Luego</string>
   <string name="recognition_error_download_fail">"No se pudo descargar. Compruebe la configuración de red y vuelve a intentarlo."</string>
-  <string name="recognition_error_download_msg">Descarga motor de reconocimiento para que este servicio este disponible.</string>
+  <string name="recognition_error_download_msg">Descarga motor de reconocimiento para que este servicio esté disponible.</string>
   <string name="recognition_error_download_ok">Descargar</string>
-  <string name="recognition_error_download_title">Fallo la descarga</string>
+  <string name="recognition_error_download_title">Sin motor de reconocimiento</string>
   <string name="recognition_error_downloading">Descargando</string>
   <string name="recognition_error_engine">Error de motor de reconocimiento</string>
   <string name="recognition_error_engine_singleton">El motor de reconocimiento está ocupado</string>
@@ -107,6 +107,7 @@
   <string name="rename_duplicate">Ya existe una grabación con ese nombre.</string>
   <string name="rename_no_more_tip">No volver a mostrar</string>
   <string name="retry">Reintentar</string>
+  <string name="runtime_permission_ungranted">No se puede usar la grabadora de sonidos debido a los permisos no otorgados</string>
   <string name="share">Compartir</string>
   <string name="share_dialog_title">Compartir usando</string>
   <string name="sound_recorder_settings">Ajustes</string>
