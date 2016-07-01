@@ -44,7 +44,7 @@ para poder verlos en cualquier momento"</string>
   <string name="create_space_loading">"Creando Segundo espacio…"</string>
   <string name="creating_app_icon">"Creando icono…"</string>
   <string name="dataSafe">"Usar el Segundo espacio es como tener dos dispositivos."</string>
-  <string name="declare_dialog_title">"Acerca de las aplicaciones clonadas"</string>
+  <string name="declare_dialog_title">Acerca de las aplicaciones dobles</string>
   <string name="deleteAll">"Eliminar todo"</string>
   <string name="deleteDataConfirm">"Se eliminarán todos los elementos"</string>
   <string name="deleteDataDes">"No ha seleccionado artículos para mover. No será capaz de restaurar los elementos después de que se eliminen."</string>
@@ -88,7 +88,7 @@ También puede importarlas por separado."</string>
   <string name="import_contacts_desc">"Hacer que los contactos importados sean privados"</string>
   <string name="import_contacts_suc">"Contactos privados importados"</string>
   <string name="import_file_suc">"Los elementos importados a las carpetas"</string>
-  <string name="import_now">"Exportar"</string>
+  <string name="import_now">Importar</string>
   <string name="import_photo">"Importar fotos"</string>
   <string name="import_photo_desc">"Ver los elementos compartidos en el Segundo espacio"</string>
   <string name="import_photo_suc">"Fotos importadas"</string>
@@ -125,6 +125,7 @@ También puede importarlas por separado."</string>
   <string name="private_space_setting">"Gestionar"</string>
   <string name="public_app">"Ambos espacios"</string>
   <string name="removeSuccess">"Eliminado correctamente"</string>
+  <string name="remove_second_space_msg">Todos los datos de las aplicaciones en el segundo espacio se perderán después de eliminar segundo espacio. ¿Eliminar segundo espacio ahora?</string>
   <string name="removingSpace">"Eliminando…"</string>
   <string name="restore_normal_show">"No mostrar mensajes privados"</string>
   <string name="restore_show_desc">"No mostrar mensajes privados en el Segundo espacio. Seguirán estando disponibles en el Primer espacio."</string>
@@ -183,7 +184,7 @@ También puede importarlas por separado."</string>
   <string name="switching">"Moviendo…"</string>
   <string name="switching_apps">"Moviendo aplicaciones…"</string>
   <string name="switching_contacts">"Moviendo contactos…"</string>
-  <string name="switching_files">"Moviendo archivos…"</string>
+  <string name="switching_files">Moviendo archivos…</string>
   <string name="switching_photos">"Moviendo fotos…"</string>
   <string name="temporary_no_set">"Ahora no"</string>
   <string name="title_choose_app_status">"Seleccione el tipo de aplicación"</string>
@@ -201,15 +202,15 @@ También puede importarlas por separado."</string>
   <string name="wating">"Un segundo…"</string>
   <string name="xspace_chocie">"Otras aplicaciones"</string>
   <string name="xspace_creating">"Clonando aplicaciones…"</string>
-  <string name="xspace_description">"Clone aplicaciones para usarlas por separado. Las aplicaciones clonadas tendrán iconos específicos en la Pantalla de inicio."</string>
-  <string name="xspace_header">"Aplicaciones clonadas"</string>
+  <string name="xspace_description">Crear aplicaciones dobles para usarlas por separado. aplicaciones dobles tendrán iconos específicos en la pantalla de inicio."</string>
+  <string name="xspace_header">Aplicaciones dobles</string>
   <string name="xspace_install_completed">"Icono añadido a la Pantalla de inicio"</string>
   <string name="xspace_installing">"Instalando…"</string>
   <string name="xspace_introduce">"Recomendado"</string>
-  <string name="xspace_label">"Aplicaciones clonadas"</string>
+  <string name="xspace_label">Aplicaciones dobles</string>
   <string name="xspace_loading_msg">"Cargando aplicaciones…"</string>
-  <string name="xspace_uninstall_completed">"Aplicación clonada desinstalada con éxito"</string>
-  <string name="xspace_uninstall_dialog_content">"La desinstalación de aplicaciones clonadas eliminará todos los datos de la aplicación."</string>
-  <string name="xspace_uninstall_dialog_title">"Desinstalar aplicación clonada"</string>
+  <string name="xspace_uninstall_completed">Aplicación doble desinstalada con éxito</string>
+  <string name="xspace_uninstall_dialog_content">La desinstalación de aplicaciones doble eliminará todos los datos de la aplicación.</string>
+  <string name="xspace_uninstall_dialog_title">Desinstalar aplicación doble</string>
   <string name="xspace_uninstalling">"Desinstalando…"</string>
 </resources>
