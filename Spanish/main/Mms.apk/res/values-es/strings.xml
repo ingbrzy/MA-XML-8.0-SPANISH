@@ -19,8 +19,8 @@
   <string name="add_slide_hint">Toque para crear nueva diapositiva</string>
   <string name="add_smiley">Emoticono</string>
   <string name="add_timing">Temporizado</string>
-  <string name="add_to_browser_favorite_failed">failed</string>
-  <string name="add_to_browser_favorite_success">sucess</string>
+  <string name="add_to_browser_favorite_failed">"No se pudo añadir"</string>
+  <string name="add_to_browser_favorite_success">Agregado con éxito</string>
   <string name="add_video">Añadir vídeo</string>
   <string name="adding_attachments">Espere mientras los elementos se agregan a la presentación de diapositivas.</string>
   <string name="adding_attachments_title">Agregando archivos adjuntos</string>
@@ -165,7 +165,12 @@
   <string name="failed_to_add_media">No puede agregar este %1$s a su mensaje.</string>
   <string name="failed_to_resize_image">Foto no redimensionada.</string>
   <string name="fdn_check_failure">Sólo puede enviar mensajes a sus números de Marcación fija.</string>
-  <string name="feedback_description_hint">Escriba su mensaje aquí</string>
+  <string name="fake_cell_alert_hint">Parece que este mensaje fue enviado desde un número de teléfono que es diferente del que se muestra. Tenga cuidado con los SMS que contiene peticiones financieras.</string>
+  <string name="fake_cell_checking_hint">Comprobación de seguridad…</string>
+  <string name="fake_cell_detection_entry">Detección de estación base falsa</string>
+  <string name="fake_cell_safe_hint">Este mensaje es seguro</string>
+  <string name="fake_cell_timeout_hint">"No se pudo comprobar la seguridad"</string>
+  <string name="fdn_check_failure">Sólo puede enviar mensajes a números de marcación fija.</string>
   <string name="feedback_submit">Enviar feedback</string>
   <string name="festival">Respuestas rápidas</string>
   <string name="festival_continue">Aceptar</string>
@@ -487,6 +492,9 @@
   <string name="search_label">Mensajería</string>
   <string name="search_setting_description">Texto en tus mensajes</string>
   <string name="search_show_more_results">Ver más</string>
+  <string name="search_title_mms">Mensajería</string>
+  <string name="second_mms_introduction">Ir al segundo espacio</string>
+  <string name="second_mms_switch">Cambiar</string>
   <string name="secs">segs</string>
   <string name="security_alert_desc">El remitente no está en tus contactos. &lt;u&gt;&amp;lt;font color=red&amp;gt;Reportar este n&amp;#250;mero&amp;lt;/font&amp;gt;&lt;/u&gt;</string>
   <string name="security_alert_desc_highlight">Report this number</string>
@@ -537,6 +545,8 @@
   <string name="slide_number">Diapositiva %s</string>
   <string name="slide_show_part">Parte %1$s/%2$s</string>
   <string name="slideshow_activity">Presentación</string>
+ <string name="sms_card_partner_label">"Asociado a la tarjeta SMS: "</string>
+  <string name="sms_card_teddy_mobile">Teddy móvil</string>
   <string name="sms_content">Contenido:</string>
   <string name="sms_full_body">Mensaje rechazado: no hay suficiente espacio en este dispositivo.</string>
   <string name="sms_full_title">Memoria de mensajes de texto completa</string>
@@ -545,8 +555,8 @@
   <string name="sms_report_failed">No se pudo enviar el informe</string>
   <string name="sms_report_success">Reporte enviado</string>
   <string name="snippet_audio">[audio]</string>
-  <string name="snippet_picture">[picture]</string>
-  <string name="snippet_red_package">[Red Package]</string>
+  <string name="snippet_picture">[imagen]</string>
+  <string name="snippet_red_package">[Paquete Rojo]</string>
   <string name="sp_category_all">Todos los mensajes de servicio</string>
   <string name="sp_category_bank">Mensajes de servicio Banco</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -586,9 +596,9 @@
   <string name="title_allow_network_access">Actualizar información de forma automática</string>
   <string name="title_collapse_sp_messages">Agrupar mensajes del operador</string>
   <string name="title_date_type">Fecha y hora</string>
-  <string name="title_recv_red_package">Comprar Paquete Rojo</string>
-  <string name="title_red_package">Volverse rico y tener buena suerte</string>
-  <string name="title_send_red_package">Comprobar Paquete Rojo</string>
+  <string name="title_recv_red_package">Recibe el paquete rojo</string>
+  <string name="title_red_package">¡Tener un buen año!</string>
+  <string name="title_send_red_package">Enviar el paquete rojo</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
   <string name="title_show_sms_template">Compruebe los SMS para los códigos de verificación</string>
   <string name="title_show_sms_template_in">Comprobar OTP en SMS</string>
@@ -622,6 +632,15 @@ Intentos realizados: %s"</string>
   <string name="unstick_conversation">Liberar conversación actual</string>
   <string name="unsticked_conversation">Conversación liberada</string>
   <string name="unsupported_media_format">Formato %1$s no soportado.</string>
+  <string name="url_fraud_dangerous_alert">"La página web que está intentando acceder a un sitio peligroso. Posiblemente podría dañar su dispositivo y los datos. ¿Visitar de todos modos?
+%s"</string>
+  <string name="url_fraud_insurance">Fraude seguro</string>
+  <string name="url_fraud_risky_alert">"La página web a la que está intentando acceder puede ser peligrosa. ¿Visita de todos modos?
+%s"</string>
+  <string name="url_fraud_title">El sitio web puede ser falso</string>
+  <string name="url_fraud_visit">&lt;u&gt;Visitar de todos modos&lt;/u&gt;</string>
+  <string name="url_result_safe">Esta URL es segura</string>
+  <string name="url_scanning">Verificación de URL…</string>
   <string name="user_agreement1">Lea los términos aplicables cuidadosamente antes de instalar software adicional o usar este producto.</string>
   <string name="user_agreement2">Acuerdo de Usuario</string>
   <string name="user_agreement3">" y la "</string>
