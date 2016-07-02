@@ -272,7 +272,7 @@
   <string name="close_dialog">Aceptar</string>
   <string name="close_profile">Cerrar</string>
   <string name="cloud_antispam_title">Identificar números desconocidos</string>
-  <string name="cmcc_ut_data_enable_prompt">No se pudo conectar a la red utilizando VoLTE. Active ahora su conexión de datos móviles.</string>
+  <string name="cmcc_ut_data_enable_prompt">Este servicio requiere una conexión de datos móviles. Encenderlo para continuar.</string>
   <string name="command_error_fdn_failure">Primero debe deshabilitar FDN</string>
   <string name="common_problem_message">Aprende más en %1$s, o llama a servicio al cliente en China 400-100-5678</string>
   <string name="common_setting">Ajustes generales</string>
@@ -563,8 +563,6 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="incall_error_turn_off_airplane_mode">Desactivar el modo Avión</string>
   <string name="incall_error_wfc_only_no_wireless_network">Conéctese a una red inalámbrica para realizar una llamada.</string>
   <string name="incall_status_dialed_mmi">Iniciando secuencia MMI…</string>
-  <string name="incoming_video_show_pref_summary">Mostrar el tono de video establecido por la persona que llama. Para utilizar esta función, active las tarjetas de nombre.</string>
-  <string name="incoming_video_show_pref_title">Mostrar tono de video para llamadas entrantes</string>
   <string name="input_password">Introduzca la contraseña</string>
   <string name="international_calls">Solo internacional</string>
   <string name="international_dial_complete_intention">Hacer llamadas internacionales con tarifas más bajas</string>
