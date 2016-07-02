@@ -232,6 +232,11 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_memory_low_message">Para sincronizar, elimine algunos elementos que haya almacenado en la nube.</string>
   <string name="micloud_main_memory_low_title">No hay suficiente espacio de almacenamiento</string>
   <string name="micloud_main_message_not_synced">%s datos no sincronizados</string>
+  <string name="micloud_main_multi_user_error_message">"Usted iniciado sesión con la misma cuenta provocó un error de Mi nube. Si desea realizar una copia de seguridad de archivos:
+
+1. Utilizar una cuenta diferente.
+2. Mover los elementos a Primera espacio."</string>
+  <string name="micloud_main_multi_user_error_title">Error de Mi Nube</string>
   <string name="micloud_main_network_abnormal">No es posible conectarse a la red</string>
   <string name="micloud_main_network_error">No es posible conectarse a la red</string>
   <string name="micloud_main_not_sync">%d elementos esperando sincronizar</string>
@@ -282,6 +287,7 @@ Pulse el botón Ajustes para más opciones."</string>
   <string name="micloud_notif_content_depend_wifi">Conectar a Wi-Fi para la sincronización.</string>
   <string name="micloud_notif_content_master_depend_wifi">Primero conéctese a la red Wi-Fi.</string>
   <string name="micloud_notif_content_memory_low">No hay suficiente espacio de almacenamiento.</string>
+  <string name="micloud_notif_content_multi_user_error">Usted iniciado sesión con la misma cuenta que en el primer espacio.</string>
   <string name="micloud_notif_content_sync_finish">Cuenta</string>
   <string name="micloud_notif_content_sync_not_finish">Detalle</string>
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar su dispositivo ahora.</string>

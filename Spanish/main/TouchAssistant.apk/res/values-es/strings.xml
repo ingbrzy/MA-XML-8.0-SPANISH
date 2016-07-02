@@ -1,19 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alipay_package">com.eg.android.AlipayGphone</string>
-  <string name="app_name">Asistente Táctil</string>
+  <string name="app_name">Bola flotante</string>
   <string name="app_not_installed">No instalado</string>
   <string name="applications">Aplicaciones</string>
   <string name="category_others">Otros</string>
   <string name="category_setting">Ajustes</string>
+  <string name="close_panel">Cerrar bola flotante</string>
   <string name="customize_entries">Personalizar función</string>
-  <string name="enable_touch_assistant">Habilitar Asistente Táctil</string>
+  <string name="enable_touch_assistant">Encender bola flotante</string>
   <string name="function_settings">Ajustes de Función</string>
   <string name="hide_touch_assistant">Auto-ocultar Asistente Táctil</string>
-  <string name="hide_touch_assistant_intro">Ocultar Asistente Táctil en algunas aplicaciones.</string>
+  <string name="hide_touch_assistant_intro">Ocultar bola flotante en las aplicaciones seleccionadas.</string>
+  <string name="motion_behavior">Modo de movimiento</string>
   <string name="name_alipay_payment_code">Pago rápido en Alipay</string>
   <string name="name_alipay_scan">Código de escaneo Alipay</string>
-  <string name="name_kill_processes">Limpiando memoria</string>
   <string name="name_long_press_power_key">Mantener pulsado para encender</string>
   <string name="name_memory_clean">Limpiar cache</string>
   <string name="name_music_next_song">Siguiente canción</string>
@@ -29,6 +30,7 @@
   <string name="name_screenshot">Captura de pantalla</string>
   <string name="name_wechat_payment_code">Pago rápido Wechat</string>
   <string name="name_wechat_scan">Código de escaneo Wechat</string>
+  <string name="open_panel">Abrir bola flotante</string>
   <string name="pay_entry_dialog_title_select">Elije aplicación para abrir</string>
   <string name="pay_entry_dialog_title_setting">Establecer aplicación marcada para habilitar</string>
   <string name="pref_category_others">Otros</string>
@@ -37,7 +39,7 @@
   <string name="pref_category_system">Ajustes del Sistema</string>
   <string name="restore_default">Restaurar a los valores predeterminados</string>
   <string name="restore_intro">Restaurar a los valores predeterminados de ajustes, los cuales incluyen funciones y órdenes. Ésta acción no borrará datos en tu dispositivo.</string>
-  <string name="show_on_keyguard">Mostrar con la pantalla bloqueada</string>
+  <string name="show_on_keyguard">Mostrar en la pantalla de bloqueo</string>
   <string name="vector_large_circle">M200,100 a100,100 0 1,0 1,0 z</string>
   <string name="vector_large_crossA">M160,160 L240,240</string>
   <string name="vector_large_crossB">M240,160 L160,240</string>

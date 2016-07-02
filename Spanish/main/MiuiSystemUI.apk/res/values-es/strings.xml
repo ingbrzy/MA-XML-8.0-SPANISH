@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Tres barras de datos</string>
   <string name="accessibility_data_two_bars">Dos barras de datos</string>
   <string name="accessibility_home">Página principal</string>
+  <string name="accessibility_ime_switch_button">Cambiar la entrada del botón del sistema.</string>
   <string name="accessibility_managed_profile">Perfil de trabajo</string>
   <string name="accessibility_menu">Menú</string>
   <string name="accessibility_no_data">No hay datos.</string>
@@ -120,11 +121,11 @@ Usa sólo el cargador provisto."</string>
   <string name="label_view">Ver</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Sin servicio</string>
-  <string name="long_screenshot_not_support_msg">"La aplicación actual no soporta capturas de pantallas amplias."</string>
+  <string name="long_screenshot_not_support_msg">"La aplicación actual no soporta capturas de pantallas en movimiento en sentido vertical"."</string>
   <string name="long_screenshot_out_of_memory_error">El tamaño de la imagen es demasiado grande</string>
   <string name="long_screenshot_processing">Procesando...</string>
   <string name="long_screenshot_stop">Hecho</string>
-  <string name="long_screenshot_top_msg">Tomando captura de pantalla amplia....</string>
+  <string name="long_screenshot_top_msg">Creando captura de pantalla....</string>
   <string name="managed_profile_foreground_toast">Estás usando el perfil de trabajo</string>
   <string name="mdb_entering">Iniciando…</string>
   <string name="mdb_restore_cancel">Cancelar</string>
@@ -165,6 +166,15 @@ Usa sólo el cargador provisto."</string>
   <string name="oldman_incall_text">en llamada</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">No hay dispositivos emparejados disponibles</string>
+  <string name="quick_settings_bluetooth_label">Bluetooth</string>
+  <string name="quick_settings_connect_success">Conectado</string>
+  <string name="quick_settings_connecting">Conectando</string>
+  <string name="quick_settings_done">Terminar</string>
+  <string name="quick_settings_more_settings">Más ajustes</string>
+  <string name="quick_settings_wifi_detail_empty_text">No hay redes WI-FI disponibles</string>
+  <string name="quick_settings_wifi_label">WI-FI</string>
+  <string name="quick_settings_wifi_nearby">Seleccione una red</string>
   <string name="recent_task_app_info_text">Información</string>
   <string name="recent_task_lock_text">Bloquear</string>
   <string name="recent_task_unlock_text">Desb.</string>
@@ -179,7 +189,7 @@ Usa sólo el cargador provisto."</string>
   <string name="screen_pinning_title">Screen is pinned</string>
   <string name="screenshot_edit">Editar</string>
   <string name="screenshot_failed_text">No se pudo guardar la captura de pantalla. Puede que el almacenamiento esté en uso.</string>
-  <string name="screenshot_long_screenshot">Ampliar</string>
+  <string name="screenshot_long_screenshot">Desplazarse</string>
   <string name="screenshot_saved_text">Toca para ver tu captura de pantalla.</string>
   <string name="screenshot_saved_title">Se guardó la captura de pantalla.</string>
   <string name="screenshot_saving_text">La captura de pantalla se está guardando.</string>

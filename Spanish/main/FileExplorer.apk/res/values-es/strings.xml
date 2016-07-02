@@ -318,6 +318,10 @@ Nuestro servidor está caído. Por favor, inténtelo más tarde…
   <string name="menu_item_usb">USB</string>
   <string name="menu_list_name">Menú</string>
   <string name="mi_router_label">Mi Router</string>
+  <string name="midrive_network_connect_confirm">Mi Drive necesita conectarse a internet para funcionar normalmente.</string>
+  <string name="midrive_space_full">No hay suficiente espacio en Mi Drive</string>
+  <string name="midrive_welcome_message">Sus archivos KuaiPan se han movido correctamente a Mi Drive. Le damos una membresía Mi Nube de tres meses complementaria. Mi nube y Mi unidad están utilizando el mismo almacenamiento. Puede acceder a sus archivos en i.mi.com.</string>
+  <string name="midrive_welcome_title">Bienvenido a Mi Drive</string>
   <string name="midrop_msg_1">Encender Mi Drop en el otro dispositivo</string>
   <string name="midrop_msg_2">Cuando Mi Drop esté activo, puedes buscar dispositivos cercanos y enviar archivos</string>
   <string name="midrop_send_files">Elegir archivos para enviar</string>
@@ -432,7 +436,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
 2. Subirlo a tu cuenta de KuaiPan"</string>
   <string name="open_changed_file_title">Cambio aplicado.</string>
   <string name="open_file_failed">No se puede abrir</string>
-  <string name="open_private_folder">Creando una carpeta oculta…</string>
+  <string name="open_private_folder">Creando una carpeta oculta</string>
   <string name="operate_confirm_in_3g">¿Usar conexión de datos móviles para descargar este archivo grande?</string>
   <string name="operating">Procesando…</string>
   <string name="operation_add_fav">Añadiendo a favoritos…</string>
@@ -643,7 +647,7 @@ Espacio gratuito añadido %1$s"</string>
   <string name="stay_awake_summary">La pantalla no se apagará durante el uso del FTP</string>
   <string name="stay_awake_title">Permanecer encendido</string>
   <string name="stop_server">Detener el servidor</string>
-  <string name="storage_cloned_app">Almacenamiento para aplicaciones clonadas</string>
+  <string name="storage_cloned_app">Almacenamiento para dobles aplicaciones</string>
   <string name="storage_info">%1$s disponibles</string>
   <string name="storage_info_detail">Disponible:%1$s Total:%2$s</string>
   <string name="storage_internal">Almacenamiento interno</string>
@@ -711,7 +715,7 @@ Espacio gratuito añadido %1$s"</string>
   <string name="upload_external_action_hint">Pegar URL</string>
   <string name="upload_external_notification_failed">"No se pudo publicar"</string>
   <string name="upload_external_notification_success">Publicado con éxito</string>
-  <string name="upload_external_notification_title">Publicación, espere un momento 026</string>
+  <string name="upload_external_notification_title">Publicación, espere un momento</string>
   <string name="upload_failed">No se pudo subir</string>
   <string name="upload_file_toolarge_message">Fallo al subir %1$d: no puedes subir archivos superiores a 300Mb.</string>
   <string name="upload_local_video">Compartir video clip</string>

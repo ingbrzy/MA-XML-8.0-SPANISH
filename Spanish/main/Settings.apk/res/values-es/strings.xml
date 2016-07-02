@@ -197,7 +197,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="app_forward_locked">La aplicación está protegida contra copias.</string>
   <string name="app_install_location_summary">Cambiar la ubicación de instalación preferida para nuevas aplicaciones</string>
   <string name="app_install_location_title">Ubicación de instalación preferida</string>
-  <string name="app_invisible">App Invisible</string>
+  <string name="app_invisible">Aplicaciones invisibles</string>
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">La aplicación no está en la lista de aplicaciones instaladas.</string>
@@ -1700,7 +1700,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="lock_screen_secure_after_timeout_title">Contraseña requerida</string>
   <string name="lock_screen_unlock_show">Ocultar pantalla de bloqueo</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente a la pantalla de inicio o a introducción de la contraseña después de activar</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Toque para cambiar</string>
   <string name="lock_settings">Pantalla de bloqueo y contraseña</string>
   <string name="lock_settings_common_title">Ajustes de bloqueo</string>
   <string name="lock_settings_picker_settings">Establecer pantalla de bloqueo</string>
@@ -2349,7 +2349,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_xiaomi_account">Settings/Mi Account</string>
   <string name="path_xiaomi_cloud_service">Aplicaciones</string>
   <string name="path_xiaomi_money_service">Aplicaciones</string>
-  <string name="path_xspace">Ajustes/Aplicaciones clonadas</string>
+  <string name="path_xspace">Ajustes/Aplicaciones dobles</string>
   <string name="path_zen_mode_option_miui_silent">Settings/Sound &amp; vibration/Silent mode</string>
   <string name="performance_category">Rendimiento</string>
   <string name="permission_detail_info">Detalles</string>
@@ -2391,7 +2391,7 @@ Seleccione su sistema operativo:"</string>
   <string name="power_charging_duration_ac">%1$d%% (%2$s para completarse en CA)</string>
   <string name="power_charging_duration_usb">%1$d%% (%2$s para completarse por USB)</string>
   <string name="power_charging_duration_wireless">%1$d%% (%2$s para completar en modo inalámbrico)</string>
-  <string name="power_checker">Power Checker</string>
+  <string name="power_checker">Power checker</string>
   <string name="power_discharge_remaining">Tiempo restante: %1$s</string>
   <string name="power_discharging_duration">%1$d%%: falta %2$s aproximadamente</string>
   <string name="power_flashlight">Linterna</string>
@@ -2945,7 +2945,7 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Themes</string>
   <string name="search_toggle_position">Toggle positions</string>
-  <string name="search_touch_assistant">Touch assistant</string>
+  <string name="search_touch_assistant">Bola flotante</string>
   <string name="search_touch_sensitive_title">Glove mode</string>
   <string name="search_trusted_credentials">Trusted credentials</string>
   <string name="search_tts_settings_title">Text-to-speech output</string>
@@ -2981,9 +2981,9 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_wifi_wapi_cert_uninstall">Uninstall WAPI certificate</string>
   <string name="search_wps_connect_title">WPS push button</string>
   <string name="search_xiaomi_account">Mi Account</string>
-  <string name="search_xspace">Aplicaciones clonadas</string>
+  <string name="search_xspace">Aplicaciones dobles</string>
   <string name="search_zen_mode_option_miui_silent">Silent mode</string>
-  <string name="second_space">Espacio segundo</string>
+  <string name="second_space">Segundo espacio</string>
   <string name="secure_keyguard_business_title">&gt;Configurar bloqueo de pantalla</string>
   <string name="secure_lock_encryption_warning">Dado que activaste un servicio de accesibilidad, el dispositivo no utilizará el bloqueo de pantalla para mejorar el cifrado de datos.</string>
   <string name="security_enable_widgets_disabled_summary">Inhabilitada por el administrador</string>
@@ -3391,7 +3391,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="toast_need_login">Inicie sesión con su cuenta Mi</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Asistente táctil</string>
+  <string name="touch_assistant">Bola flotante</string>
   <string name="touch_sensitive_summary">Hacer que la sensibilidad de la pantalla sea mayor a la presión</string>
   <string name="touch_sensitive_title">Modo guantes</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
@@ -3482,9 +3482,9 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="uninstall_dlg_msg">La desinstalación eliminará todos los datos de aplicaciones.</string>
   <string name="uninstall_dlg_title">¿Desinstalar ahora?</string>
   <string name="uninstall_text">Desinstalar...</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones clonadas serán eliminadas junto con los datos de las aplicaciones.</string>
-  <string name="uninstall_xspace_app_dlg_msg">La desinstalación de aplicaciones clonadas eliminará todos los datos de las aplicaciones.</string>
-  <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicaciones clonadas?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones dobles serán eliminadas junto con los datos de las aplicaciones.</string>
+  <string name="uninstall_xspace_app_dlg_msg">La desinstalación de aplicaciones dobles eliminará todos los datos de las aplicaciones.</string>
+  <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicaciones dobles?</string>
   <string name="unknown">Desconocido</string>
   <string name="unlock_backup_info_summary">Si el desbloqueo facial no te reconoce, ¿cómo quieres desbloquear la pantalla?</string>
   <string name="unlock_change_lock_password_title">Cambiar la contraseña de desbloqueo</string>
@@ -4231,7 +4231,7 @@ de Wi‑Fi"</string>
   <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>
   <string name="xiaomi_router_notif_summary">Notificarme cuando Mi Router esté disponible</string>
   <string name="xiaomi_router_notif_title">Notificaciones de Mi Router</string>
-  <string name="xspace">Aplicaciones clonadas</string>
+  <string name="xspace">Aplicaciones dobles</string>
   <string name="yes">Sí</string>
   <string name="yes_all_caps">SÍ</string>
   <string name="zen_mode_alarm_info">Las alarmas son siempre interrupciones de prioridad.</string>

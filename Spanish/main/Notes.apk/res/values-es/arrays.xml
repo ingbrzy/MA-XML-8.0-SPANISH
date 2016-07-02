@@ -13,7 +13,7 @@
         <item>Sobrenombre</item>
         <item>Teléfono</item>
         <item>Correo electrónico</item>
-        <item>Organización</item>
+        <item>Empresa</item>
         <item>IM</item>
         <item>Teléfono SIP</item>
         <item>Cumpleaños</item>
@@ -28,13 +28,17 @@
         <item>Muy grande</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Toca para crear una nota
+        <item>"Bienvenido a notas
 "</item>
-        <item>"Para agregar una foto o mostrar casillas de verificación, toca el botón de abajo
+        <item>"Toque para crear una nota
 "</item>
-        <item>"Presiona y mantén una nota para colgarla, moverla o eliminarla
+        <item>"Elegir plantillas
 "</item>
-        <item>"¡Y otras grandes características!
+        <item>"Crear carpetas
+"</item>
+        <item>"Ocultar notas
+"</item>
+<item>"¿Y más características!
  - Sincronizar con Mi Cloud
  - Establecer recordatorios"</item>
     </string-array>
