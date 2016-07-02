@@ -132,10 +132,11 @@
   <string name="mi_account_identity_title">Verificar la identidad</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identidad</string>
-  <string name="micloud_account_name">Cuenta Mi</string>
   <string name="micloud_space_info">%s disponible</string>
   <string name="mili_center">Créditos Mi</string>
   <string name="mipay_center">Mi Wallet</string>
+  <string name="multi_user_not_show_sync_activity_message_1">"Parece que usted está utilizando su cuenta de Primer espacio."</string>
+  <string name="multi_user_not_show_sync_activity_message_2">"Por esta razón, todos los datos se sincronizarán con el segundo espacio. Para evitar esto, no activar la sincronización con Mi Nube."</string>
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>
   <string name="no_network_title">No es posible conectarse a la red.</string>
@@ -232,6 +233,8 @@ Para activar su cuenta, siga el
   <string name="passport_login_title">Iniciar sesión con tu cuenta Mi</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Otras manera de conectarte&lt;/u&gt;</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;Inicia sesi&amp;#243;n con una direcci&amp;#243;n de correo o ID de Cuenta Mi&lt;/u&gt;</string>
+  <string name="passport_miui_provision_find_status_text">"Este dispositivo está asociado a una cuenta de Mi existente (%1$s), introducir la contraseña para verificar que es el dispositivo.
+(Contraseña: %2$s)"</string>
   <string name="passport_next">Siguiente</string>
   <string name="passport_notification_title">Error de inicio de sesión para %1$s</string>
   <string name="passport_password_req_notice">La contraseña debe tener de 8 a 16 caracteres y debe incluir números y letras (distingue entre mayúsculas y minúsculas).</string>
