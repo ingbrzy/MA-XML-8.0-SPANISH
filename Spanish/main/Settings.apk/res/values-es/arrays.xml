@@ -69,7 +69,7 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Explorando...</item>
+        <item>Explorando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
         <item>Obteniendo la dirección IP…</item>
@@ -79,11 +79,11 @@
         <item>Desconectado</item>
         <item>Incorrecto</item>
         <item>Bloqueada</item>
-        <item>"Desactivando mala conexión  temporalmente"</item>
+        <item>"Desactivando mala conexión temporalmente"</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Explorando...</item>
+        <item>Explorando…</item>
         <item>Conectando a %1$s…</item>
         <item>Autenticando con %1$s…</item>
         <item>Obteniendo dirección IP de %1$s…</item>
@@ -93,7 +93,7 @@
         <item>Desconectado</item>
         <item>Incorrecto</item>
         <item>Bloqueada</item>
-        <item>"Desactivando mala conexión  temporalmente"</item>
+        <item>"Desactivando mala conexión temporalmente"</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
@@ -462,8 +462,8 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Desconectado</item>
-        <item>Iniciando...</item>
-        <item>Conectando...</item>
+        <item>Iniciando…</item>
+        <item>Conectando…</item>
         <item>Conectada</item>
         <item>Tiempo de espera agotado</item>
         <item>Incorrecta</item>
