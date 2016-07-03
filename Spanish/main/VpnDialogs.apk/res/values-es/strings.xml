@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept">Confío en esta aplicación.</string>
   <string name="configure">Configurar</string>
   <string name="data_received">Recibido:</string>
   <string name="data_transmitted">Enviado:</string>
@@ -10,5 +9,5 @@
   <string name="legacy_title">VPN conectada</string>
   <string name="prompt">%s está intentando crear una conexión VPN.</string>
   <string name="session">Sesión:</string>
-  <string name="warning">Si aceptas, estás dando permiso a la aplicación para interceptar todo el tráfico de red. &lt;b&gt;NO aceptes a menos que confíes en la aplicación.&lt;/b&gt;" De lo contrario, se corre el riesgo de tener tus datos comprometidos por un software malicioso. "</string>
+  <string name="warning">%s quiere establecer una conexión VPN que le permite monitorear el tráfico de red. NO aceptes a menos que confíes en la aplicación. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; aparece en la parte superior de la pantalla cuando está activo VPN.</string>
 </resources>
