@@ -351,9 +351,14 @@
   <string name="expand_recipient_details">Ampliar detalles del destinatario</string>
   <string name="fail_get_email_message">Recuperación de mensaje fallida.</string>
   <string name="failed">No se pudo cargar la imagen</string>
+  <string name="failed_read_phone_state_permission">"Permitir el acceso al estado del dispositivo"</string>
+  <string name="failed_read_write_calendar_permission">Permitir el acceso al Calendario</string>
+  <string name="failed_read_write_contacts_permission">Permitir el acceso a los Contactos</string>
   <string name="feedback">Enviar comentarios</string>
   <string name="feedback_body">Comentarios</string>
   <string name="feedback_sent">Gracias por sus comentarios. Vamos a seguir mejorando para usted</string>
+  <string name="feedback_user_edit_hint">Describe el problema aquí. Le enviaremos un correo electrónico después de comprobarlo.</string>
+  <string name="feedback_user_edit_tag">De MIUI </string>
   <string name="fetching_attachment">Añadiendo adjunto</string>
   <string name="file_deleted_success">Archivo eliminado</string>
   <string name="file_not_found">No se encontró el archivo</string>
@@ -385,6 +390,7 @@
   <string name="folder_sent_name_en1">Mensajes enviados</string>
   <string name="folder_sent_name_en2">Mensaje enviado</string>
   <string name="folder_sent_name_en3">Enviados</string>
+  <string name="folder_sent_name_en4">[Gmail]/Enviados</string>
   <string name="folder_shortcut_widget_label">Carpeta de email</string>
   <string name="folder_synchronization_mail_settings">Ajustes de sincronización de las carpetas</string>
   <string name="folder_trash_name_cn0">Borrado</string>
