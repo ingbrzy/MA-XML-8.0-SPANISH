@@ -83,6 +83,7 @@
   <string name="menu_item_sort_by_name">"Ordenar por nombre"</string>
   <string name="minute">"1 minuto"</string>
   <string name="minutes">"%s minutos"</string>
+  <string name="more_settings">Más ajustes</string>
   <string name="never">"Una vez"</string>
   <string name="oneshot_alarm">"Eliminar después de apagar la alarma"</string>
   <string name="pause">"Pausa"</string>
@@ -91,8 +92,8 @@
   <string name="revert">"Revertir"</string>
   <string name="set_alarm">"Ajustar alarma"</string>
   <string name="settings">"Ajustes"</string>
-  <string name="shutdown_alarm_disable_summary">"Alarma de apagado deshabilitada"</string>
-  <string name="shutdown_alarm_enable_summary">"La alarma de apagado encendida"</string>
+  <string name="shutdown_alarm_disable_summary">La alarma no sonará después de apagarla</string>
+  <string name="shutdown_alarm_enable_summary">La Alarma sonará después de apagarla</string>
   <string name="shutdown_alarm_title">"Alarma de apagado"</string>
   <string name="silent_alarm_summary">"Silenciar"</string>
   <string name="skip_alarm_date_format">"%1$s(%2$s)"</string>
