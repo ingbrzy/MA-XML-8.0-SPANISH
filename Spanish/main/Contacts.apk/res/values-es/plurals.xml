@@ -68,7 +68,7 @@
      </plurals>
      <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d contactos recientes</item>
-        <item quantity="one">1 contacto reciente</item>
+        <item quantity="one">%1$d contacto reciente</item>
      </plurals>
      <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactos</item>
@@ -80,11 +80,11 @@
      </plurals>
      <plurals name="hint_search_emails">
         <item quantity="other">%1$d contactos con email</item>
-        <item quantity="one">1 contacto con email</item>
+        <item quantity="one">%1$d contacto con email</item>
      </plurals>
      <plurals name="hint_account_contacts">
         <item quantity="other">Encontró %1$d elementos</item>
-        <item quantity="one">Encontró 1 elemento</item>
+        <item quantity="one">Encontró %1$d elemento</item>
      </plurals>
      <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favoritos</item>
@@ -104,11 +104,11 @@
      </plurals>
      <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Borrar %d contactos</item>
-        <item quantity="one">Borrar contacto</item>
+        <item quantity="one">Borrar %d contacto</item>
      </plurals>
      <plurals name="smart_group_member_count">
         <item quantity="other">%d personas</item>
-        <item quantity="one">1 persona</item>
+        <item quantity="one">%d persona</item>
      </plurals>
      <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactos importados</item>
@@ -125,11 +125,11 @@
      </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">¿Bloquear estos %1$d números?</item>
-        <item quantity="one">¿Bloquear este número?</item>
+        <item quantity="one">¿Bloquear %1$d número?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">¿Desbloquear estos %1$d números?</item>
-        <item quantity="one">¿Desbloquear este número?</item>
+        <item quantity="one">¿Desbloquear %1$d número?</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Sonó %d veces</item>
@@ -141,6 +141,6 @@
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%d contactos no sincronizados</item>
-        <item quantity="one">1 contacto no sincronizado</item>
+        <item quantity="one">%d contacto no sincronizado</item>
     </plurals>
 </resources>
