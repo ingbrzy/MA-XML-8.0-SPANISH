@@ -44,7 +44,6 @@
   <string name="dialog_ok">Aceptar</string>
   <string name="dual_camera_lens_covered_toast">La lente está cubierta.</string>
   <string name="dual_camera_low_constract_toast">Parece que el contraste es demasiado bajo.</string>
-  <string name="dual_camera_lowlight_toast">"Parece que es demasiado oscura."</string>
   <string name="dual_camera_too_close_toast">La cámara está demasiado cerca del objeto.</string>
   <string name="dual_camera_use_hint">"Modo estéreo ayuda a difuminar el fondo.
 El objeto no debe estar a más de 2 metros."</string>
@@ -126,26 +125,22 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Promedio del fotograma</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medición puntual</string>
   <string name="pref_camera_autoexposure_title">Ajustes de exposición automática</string>
-  <string name="pref_camera_beautify_entry_auto">Apagado</string>
+  <string name="pref_camera_beautify_entry_auto">Automática</string>
   <string name="pref_camera_beautify_entry_high">Alta</string>
   <string name="pref_camera_beautify_entry_low">Baja</string>
   <string name="pref_camera_beautify_entry_normal">Media</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Difuminar</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B y N</string>
-  <string name="pref_camera_coloreffect_entry_brannan">Amanecer</string>
-  <string name="pref_camera_coloreffect_entry_earlybird">Otoño</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Ojo de pez</string>
   <string name="pref_camera_coloreffect_entry_gaussianblur">Desenfoque</string>
   <string name="pref_camera_coloreffect_entry_instagram_crema">Rústico</string>
   <string name="pref_camera_coloreffect_entry_instagram_hudson">Glacial</string>
-  <string name="pref_camera_coloreffect_entry_jstyle">Japonés</string>
   <string name="pref_camera_coloreffect_entry_light_tunnel">Tunel</string>
   <string name="pref_camera_coloreffect_entry_long_face">Distorsionar</string>
   <string name="pref_camera_coloreffect_entry_mirror">Espejo</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
-  <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
   <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_posterize"/>
@@ -155,8 +150,6 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_coloreffect_entry_small_face">Exprimir</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vívido</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Mate</string>
-  <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
-  <string name="pref_camera_coloreffect_entry_yesteryear">Antaño</string>
   <string name="pref_camera_coloreffect_title">Filtros</string>
   <string name="pref_camera_contrast_title">Contraste</string>
   <string name="pref_camera_delay_capture_entry_10s">10s</string>
@@ -292,9 +285,6 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_show_gender_age_entry_off">Apagado</string>
   <string name="pref_camera_show_gender_age_entry_on">Mostrar edad y género</string>
   <string name="pref_camera_show_gender_age_title">Edad y género</string>
-  <string name="pref_camera_skinToneEnhancement_entry_auto">Auto-mejora</string>
-  <string name="pref_camera_skinToneEnhancement_entry_disable">Desactivar</string>
-  <string name="pref_camera_skinToneEnhancement_entry_enable">Activar</string>
   <string name="pref_camera_snap_enable_summary">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para entrar en el Modo disparo rápido. Púlsalo de nuevo para sacar una foto.</string>
   <string name="pref_camera_snap_enable_title">Modo disparo rápido</string>
   <string name="pref_camera_snap_entry_off">Apagado</string>
