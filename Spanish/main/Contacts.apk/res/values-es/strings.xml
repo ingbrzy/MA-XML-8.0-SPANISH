@@ -247,6 +247,8 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="contacts_unavailable_add_account">Inicie sesión en una cuenta</string>
   <string name="contacts_unavailable_create_contact">Crear un nuevo contacto</string>
   <string name="contacts_unavailable_import_contacts">Importar contactos desde un archivo</string>
+  <string name="convenient_service">Servicios</string>
+  <string name="copy_number">Copiar</string>
   <string name="copy_text">Copiar en el portapapeles</string>
   <string name="createContactShortcutSuccessful">Acceso directo de contacto añadido a la pantalla de inicio</string>
   <string name="create_group_dialog_title">Crear un nuevo grupo</string>
@@ -439,7 +441,6 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="favoritesFrequentContacted">Frecuentemente contactado</string>
   <string name="favorites_list_empty">No hay favoritos</string>
   <string name="firewall_setting">Lista de bloqueo</string>
-  <string name="followed_yellowpage">Cuentas verificadas</string>
   <string name="foundTooManyContacts">Más de %d encontrados.</string>
   <string name="frequentList">Frecuentes</string>
   <string name="from_account_format">%1$s</string>
@@ -664,13 +665,12 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="miprofile_error_not_opened">Apagar tarjetas de contacto</string>
   <string name="miprofile_error_not_set">Tu tarjeta de contacto no ha sido sincronizada con el servidor</string>
   <string name="miprofile_error_unknown">Error desconocido</string>
-  <string name="miprofile_find_miprofile_title">Añadir perfil</string>
-  <string name="miprofile_find_profile_batch_add">Añadir todos los perfiles</string>
+  <string name="miprofile_find_miprofile_title">Añadir para ver toda la información</string>
+  <string name="miprofile_find_profile_batch_add">Añadir todo</string>
   <string name="miprofile_find_profile_batch_finish">Terminar</string>
   <string name="miprofile_find_profile_batch_request_failed">No se pudo añadir el perfil</string>
   <string name="miprofile_find_profile_loading">Cargando…</string>
   <string name="miprofile_find_profile_no_recommend">No hay perfiles recomendados</string>
-  <string name="miprofile_find_profile_subtitle">Añadir para ver foto y más información</string>
   <string name="miprofile_finding_label">Buscar tarjetas de contacto</string>
   <string name="miprofile_name">Mi perfil</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -1267,8 +1267,10 @@ Para agregar un contacto a la lista de favoritos:
   <string name="strequentList">Favoritos</string>
   <string name="success_message_import_from_account">Importación realizada</string>
   <string name="summary_kind_title">Resumen</string>
-  <string name="t9_search_guide_pinyin">"Pulse 7 y 9 para buscar a 'Steve Wozniak'"</string>
-  <string name="t9_search_guide_zhuyin">"Pulse 7 y 9 para buscar 'Steve Wozniak'"</string>
+  <string name="t9_search_guide_pinyin_title1">Búsqueda rápida de contactos introducir letras</string>
+  <string name="t9_search_guide_pinyin_title2">Introduzca 2 y 3 para buscar &lt;font fgcolor="#ff28a763"&gt;A&lt;/font&gt;&amp;gt;lan &lt;font fgcolor="#ff28a763"&gt;F&lt;/font&gt;&amp;gt;rank</string>
+  <string name="t9_search_guide_zhuyin_title1">Búsqueda rápida de contactos introducir letras</string>
+  <string name="t9_search_guide_zhuyin_title2">Introduzca 5 y 6 para buscar &lt;font fgcolor="#ff28a763"&gt;J&lt;/font&gt;&amp;gt;eff &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ax</string>
   <string name="take_new_photo">Tomar foto nueva</string>
   <string name="take_photo">Tomar foto</string>
   <string name="titleJoinContactDataWith">Combinar contactos</string>
