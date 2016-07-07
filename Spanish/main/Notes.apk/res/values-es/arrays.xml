@@ -30,16 +30,37 @@
     <string-array name="welcome_notes_content">
         <item>"Bienvenido a notas
 "</item>
-        <item>"Toque para crear una nota
-"</item>
-        <item>"Elegir plantillas
-"</item>
+        <item>"Crear una nota
+Toque en el signo más para crear una nota."</item>
+        <item>"Escoja una plantilla
+Utiliza plantillas para cambiar los fondos y estilos de tus notas.
+Toque en el botón derecho en la parte inferior de la nota para elegir una plantilla."</item>
         <item>"Crear carpetas
-"</item>
+Organiza sus notas en carpetas.
+Hay 2 formas de crear una carpeta:
+1. Toque en el icono de la carpeta en la esquina superior derecha, y luego pulse en el signo más.
+2. Mantén pulsado una nota hasta que aparezca un menú emergente, y seleccione \"Mover a\" - \"Nueva carpeta\"."</item>
         <item>"Ocultar notas
+Proteger las notas privadas con una contraseña.
+Hay 2 maneras de ocultar una nota:
+1. Toque en \"Más\" botón en la esquina superior derecha de una nota y seleccione \"Ocultar\".
+2. Mantén pulsado una nota hasta que aparezca un menú emergente y seleccione \"Ocultar\"."</item>
+        <item>"¡Y más características!
+  - Imágenes, listas de tareas, recordatorios.
+
+Añadir imágenes
+Toque en el icono de la imagen en la parte inferior de una nota para añadir una imagen.
+Usted puede tomar una foto o elegir uno de la Galería.
+Cuando una nota contiene una imagen, esta imagen se utilizará como miniatura de la nota en la vista de cuadrícula.
+
+Crear listas de tareas
+La casilla de tareas es un elemento esencial en una lista de tareas pendientes.
+Toque el icono de la casilla de tareas en la parte inferior de una nota para añadir una casilla de comprobación a un párrafo de texto.
+Marque la casilla cuando se haga la tarea.
+
+Establecer recordatorios
+Establecer recordatorios directamente en una nota.
+Toque en \"Más\"botón en la esquina superior derecha de una nota y seleccione \ "Recordatorios \", ajustar la hora.
 "</item>
-<item>"¿Y más características!
- - Sincronizar con Mi Cloud
- - Establecer recordatorios"</item>
     </string-array>
 </resources>
