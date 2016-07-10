@@ -10,7 +10,6 @@
      <string name="abc_searchview_description_search">Buscar</string>
      <string name="abc_searchview_description_submit">Enviar consulta</string>
      <string name="abc_searchview_description_voice">Búsqueda por voz</string>
-     <string name="account_cache_provider">Proveedor de Caché de Cuenta</string>
      <string name="account_duplicate_dlg_message_fmt">Ya estás usando este nombre de usuario para la cuenta \"%s\".</string>
      <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
      <string name="account_name_toast">No se pudo crear la cuenta. Ya existe una cuenta con el mismo nombre.</string>
@@ -290,7 +289,6 @@
      <string name="contextmenu_send_mail">Enviar email</string>
      <string name="contextmenu_sharelink">Compartir enlace</string>
      <string name="contextmenu_sms_dot">SMS…</string>
-     <string name="conversation_content_provider">Conversation Content Provider</string>
      <string name="conversation_folder_moved">Se trasladó a %1$s</string>
      <string name="conversation_item_mark_read">Leer</string>
      <string name="conversation_item_mark_unread">No leído</string>
@@ -395,7 +393,6 @@
      <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
      <string name="forward_download_failed_ticker">No se pudo reenviar uno o mas archivos adjuntos.</string>
      <string name="forward_download_failed_title">Archivo adjunto no reenviado</string>
-     <string name="forward_subject_label">Fwd:</string>
      <string name="from_heading">"De: "</string>
      <string name="general_preference_confirm_delete_label">Confirmar antes de borrar</string>
      <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
@@ -643,7 +640,6 @@
      <string name="policy_require_smime">Requerir mensajes SMIME</string>
      <string name="policy_screen_timeout">Bloquear la pantalla del dispositivo cuando esté inactivo</string>
      <string name="policy_text_truncation">Restringir el tamaño del texto email</string>
-     <string name="prefDefault_autoAdvance">lista</string>
      <string name="preference_eas_tips">La siguiente página de activación es requerida por el Servidor de corredo, por favor, permita que se active.</string>
      <string name="preference_pop_tips">Los adjuntos se descargarán con el contenido del correo ya que el protocolo POP3 lo requiere obligatoriamente. Por favor, sea cuidadoso si usa los datos móviles.</string>
      <string name="preference_sender_image_description">Mostrar junto al nombre en la lista de conversación</string>
@@ -728,10 +724,6 @@
      <string name="reply_attribution" formatted="false">En %s, %s escribió:</string>
      <string name="reply_subject_label">Re:</string>
      <string name="report_phishing">Denunciar phishing</string>
-     <string name="report_rendering_improvement">Looks good</string>
-     <string name="report_rendering_improvement_desc">This message looks good.</string>
-     <string name="report_rendering_problem">Looks bad</string>
-     <string name="report_rendering_problem_desc">This message looks bad.</string>
      <string name="report_spam">Denunciar spam</string>
      <string name="request_entity_large">El archivo es demasiado grande</string>
      <string name="request_permission_activity">Permission Request</string>
@@ -853,7 +845,6 @@
      <string name="view_more_conversations">Ver más conversaciones</string>
      <string name="wait_for_manual_sync_body">"Esta cuenta no está configurada para sincronizar automáticamente. Toque  Sincronizar ahora para sincronizar el correo una vez, o Cambiar ajustes de sincronización para configurar la sincronización automática de esta cuenta."</string>
      <string name="wait_for_sync_title">A la espera de sincronización</string>
-     <string name="wait_help_context">un segundo</string>
      <string name="widget_all_mail">Todo el correo</string>
      <string name="widget_other_views">Otros</string>
      <string name="wipe_account_fail_description">Permitir</string>
