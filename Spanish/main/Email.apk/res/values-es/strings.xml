@@ -162,7 +162,7 @@
      <string name="archived">Archivado</string>
      <string name="att_download_failed_content">No se pudo descargar el adjunto de este mensaje</string>
      <string name="att_download_failed_network_slow">Red lenta, por favor descarga más tarde</string>
-     <string name="att_download_failed_permission_denied">Don\'t have permissions to access external storage</string>
+     <string name="att_download_failed_permission_denied">No tiene permisos para acceder al almacenamiento interno</string>
      <string name="att_download_failed_title">Descarga del archivo adjunto fallida</string>
      <string name="att_file_not_exists">No se encontró %s</string>
      <string name="att_mgr_no_attachment">Vacío</string>
@@ -461,6 +461,7 @@
      <string name="mailbox_name_display_starred">Destacados</string>
      <string name="mailbox_name_display_trash">Papelera</string>
      <string name="mailbox_name_display_unread">No leídos</string>
+	 <string name="mailbox_name_server_starred">Destacados</string>
      <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Opciones de sincronización (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Días de correo para sincronizar</string>
