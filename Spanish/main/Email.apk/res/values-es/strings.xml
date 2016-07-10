@@ -34,7 +34,7 @@
      <string name="account_settings_enforced_summary">Ninguno</string>
      <string name="account_settings_incoming_summary">Nombre de usuario, contraseña y otras configuraciones del servidor entrante</string>
      <string name="account_settings_login_dialog_content_fmt">El nombre de usuario o la contraseña para %s son incorrectos. ¿Quieres actualizarlos ahora?</string>
-     <string name="account_settings_login_dialog_reason_fmt">Tu login a %s ha fallado; el servidor dijo: %s ¿desea actualizar su nombre de usuario y/o contraseña?</string>
+     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Tu login a %s ha fallado; el servidor dijo: %s ¿desea actualizar su nombre de usuario y/o contraseña?</string>
      <string name="account_settings_login_dialog_title">No se ha podido iniciar sesión</string>
      <string name="account_settings_mail_check_frequency_label">Frecuencia de sincronización</string>
      <string name="account_settings_mibill_resolve_label">Analizar declaraciones email</string>
@@ -163,7 +163,7 @@
      <string name="archived">Archivado</string>
      <string name="att_download_failed_content">No se pudo descargar el adjunto de este mensaje</string>
      <string name="att_download_failed_network_slow">Red lenta, por favor descarga más tarde</string>
-     <string name="att_download_failed_permission_denied">Don't have permissions to access external storage</string>
+     <string name="att_download_failed_permission_denied">Don\'t have permissions to access external storage</string>
      <string name="att_download_failed_title">Descarga del archivo adjunto fallida</string>
      <string name="att_file_not_exists">No se encontró %s</string>
      <string name="att_mgr_no_attachment">Vacío</string>
@@ -349,7 +349,6 @@
      <string name="download_confirm_title">Descargar adjuntos</string>
      <string name="download_message_failed_for_too_large">El mensaje es demasiado grande para descargar.</string>
      <string name="download_whole_email">View the rest of the message</string>
-     <string name="draft_count_format"> (%1$s)</string>
      <string name="drawer_close">Cerrar el cajón de navegación</string>
      <string name="drawer_open">Abrir cajón de navegación</string>
      <string name="edit_quick_response_dialog">Respuesta rápida</string>
@@ -384,45 +383,12 @@
      <string name="file_not_found">No se encontró el archivo</string>
      <string name="file_not_found_redownload">No se encontró el archivo</string>
      <string name="file_rar_not_support">No se pueden abrir archivos rar encriptados</string>
-     <string name="filtered_tag">[%1$s]%2$s</string>
-     <string name="folder_drafts_name_cn0">Borrador</string>
-     <string name="folder_drafts_name_cn1">Borradores</string>
-     <string name="folder_drafts_name_cn2">[Gmail]/Borrador</string>
-     <string name="folder_drafts_name_en0">Borradores</string>
-     <string name="folder_drafts_name_en1">Borrador</string>
-     <string name="folder_drafts_name_en2">[Gmail]/Borradores</string>
-     <string name="folder_junk_name_cn0">No deseado</string>
-     <string name="folder_junk_name_cn1">Papelera</string>
-     <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
-     <string name="folder_junk_name_en0">No deseado</string>
-     <string name="folder_junk_name_en1">Correo masivo</string>
-     <string name="folder_junk_name_en2">Correo basura</string>
-     <string name="folder_junk_name_en3">Correo basura</string>
-     <string name="folder_junk_name_en4">Basura</string>
      <string name="folder_list_display_all">Mostar todas las carpetas</string>
      <string name="folder_list_display_only_import">Sólo mostrar carpetas importantes</string>
      <string name="folder_picker_title">Selector de carpeta</string>
      <string name="folder_removed">Borrado de %1$s</string>
-     <string name="folder_sent_name_cn0">Enviado</string>
-     <string name="folder_sent_name_cn1">Correo enviado</string>
-     <string name="folder_sent_name_cn2">Elementos enviados</string>
-     <string name="folder_sent_name_cn3">[Gmail]/Enviados</string>
-     <string name="folder_sent_name_en0">Enviado</string>
-     <string name="folder_sent_name_en1">Mensajes enviados</string>
-     <string name="folder_sent_name_en2">Mensaje enviado</string>
-     <string name="folder_sent_name_en3">Enviados</string>
-     <string name="folder_sent_name_en4">[Gmail]/Enviados</string>
      <string name="folder_shortcut_widget_label">Carpeta de email</string>
      <string name="folder_synchronization_mail_settings">Ajustes de sincronización de las carpetas</string>
-     <string name="folder_trash_name_cn0">Borrado</string>
-     <string name="folder_trash_name_cn1">Elementos eliminados</string>
-     <string name="folder_trash_name_cn2">[Gmail]/Papelera</string>
-     <string name="folder_trash_name_en0">Papelera</string>
-     <string name="folder_trash_name_en1">Mensajes eliminados</string>
-     <string name="folder_trash_name_en2">Mensaje borrado</string>
-     <string name="folder_trash_name_en3">[Gmail]/Papelera</string>
-     <string name="formatted_email_address">&lt;%1$s&gt;</string>
-     <string name="formatted_subject">%1$s %2$s</string>
      <string name="forward">Reenviar</string>
      <string name="forward_attachment">Reenviar</string>
      <string name="forward_attribution">---------- Mensaje reenviado ----------De: %1$s Fecha: %2$s Asunto: %3$s Para: %4$s</string>
@@ -454,9 +420,6 @@
      <string name="help_and_info">Ayuda</string>
      <string name="hide_atts_remaining">Ocultar %1$d adjuntos</string>
      <string name="hide_elided">▼ Ocultar texto citado</string>
-     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-     <string name="hierarchical_folder_top">%1$s∕</string>
      <string name="hint_quick_reply_all">Responder a todos</string>
      <string name="imap_name">IMAP</string>
      <string name="imap_password_error">Password for incoming mail server is incorrect</string>
@@ -476,8 +439,6 @@
      <string name="input_password_prompt">Introduce tu contraseña</string>
      <string name="invalid_recipient">La dirección %s no es válida.</string>
      <string name="invalid_recipient_title">Error en destinatario</string>
-     <string name="kilobytes">%s KB</string>
-     <string name="label_notification_ticker">%s: %s</string>
      <string name="load_from_remote">Continuar la búsqueda en el servidor</string>
      <string name="load_more">Cargar más</string>
      <string name="loading_conversation">Cargando…</string>
@@ -503,14 +464,6 @@
      <string name="mailbox_name_display_starred">Destacados</string>
      <string name="mailbox_name_display_trash">Papelera</string>
      <string name="mailbox_name_display_unread">No leídos</string>
-     <string name="mailbox_name_server_all_unread">No leídos</string>
-     <string name="mailbox_name_server_drafts">Borradores</string>
-     <string name="mailbox_name_server_inbox">Entrada</string>
-     <string name="mailbox_name_server_junk">No deseado</string>
-     <string name="mailbox_name_server_outbox">Salida</string>
-     <string name="mailbox_name_server_sent">Enviados</string>
-     <string name="mailbox_name_server_starred">Destacados</string>
-     <string name="mailbox_name_server_trash">Papelera</string>
      <string name="mailbox_settings_activity_title">Opciones de sincronización</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Opciones de sincronización (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Días de correo para sincronizar</string>
@@ -568,7 +521,7 @@
      <string name="mibill_privacy_policy_button1">Ahora no</string>
      <string name="mibill_privacy_policy_button2">Aceptar</string>
      <string name="mibill_privacy_policy_description">Mi Wallet analizará todas las declaraciones de email recibidas en su aplicación de correo y administrará todas sus cuentas de tarjetas de crédito por usted. Este servicio se desactiva de forma predeterminada en el buzón de correo de la empresa.</string>
-     <string name="mibill_privacy_policy_link">Aceptar <a href=https://www.mipay.com/res/doc/eula/email.html Acuerdo de usuario, cuentas y tarjetas de crédito</a></string>
+     <string name="mibill_privacy_policy_link">Aceptar Acuerdo de usuario, cuentas y tarjetas de crédito</string>
      <string name="mibill_privacy_policy_title">Mi Wallet analiza declaraciones email</string>
      <string name="more_atts_remaining">%1$d más faltan</string>
      <string name="more_context">Más</string>
@@ -659,7 +612,7 @@
      <string name="permission_read_attachment_label">Leer archivos adjuntos</string>
      <string name="phone">teléfono</string>
      <string name="photo_load_failed">No se pudo cargar la imagen</string>
-     <string name="photo_view_count">%d de %d</string>
+     <string name="photo_view_count" formatted="false">%d de %d</string>
      <string name="please_fill_in_your_mailbox_information2">Rellene la información relacionada con el buzón:</string>
      <string name="policy_app_blacklist">Denegar aplicaciones especificadas</string>
      <string name="policy_app_whitelist">Permitir solo aplicaciones especificadas</string>
@@ -772,7 +725,7 @@
      <string name="reply">Responder</string>
      <string name="reply_add_bodycontent">¿Añadir respuesta rápida al contenido del mensaje?</string>
      <string name="reply_all">Responder a todos</string>
-     <string name="reply_attribution">En %s, %s escribió:</string>
+     <string name="reply_attribution" formatted="false">En %s, %s escribió:</string>
      <string name="reply_subject_label">Re:</string>
      <string name="report_phishing">Denunciar phishing</string>
      <string name="report_rendering_improvement">Looks good</string>
@@ -814,7 +767,6 @@
      <string name="send_feed_back_keywords">enviar comentarios</string>
      <string name="sender_whitelist_cleared">Imágenes no se mostrarán automáticamente.</string>
      <string name="senders_elided">..</string>
-     <string name="senders_split_token">, </string>
      <string name="sending">Enviando…</string>
      <string name="sending_message">Enviando el mensaje…</string>
      <string name="sent_folder_selection_title">Seleccione la carpeta de elementos enviados para el servidor %s</string>
@@ -833,15 +785,7 @@
      <string name="shortcut_name_title">Nombre para atajo de carpeta</string>
      <string name="show_elided">▶ Mostrar texto citado</string>
      <string name="show_images">Descargar y ver fotos</string>
-     <string name="signature">"
-
-
-
-%s"</string>
      <string name="silent_ringtone">Silencioso</string>
-     <string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
-     <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="smtp_password_error">La contraseña para el servidor de correo saliente es incorrecta</string>
      <string name="sort_attachment">Ordenar por</string>
      <string name="special_text_1">Escribió:</string>
@@ -849,16 +793,12 @@
      <string name="special_text_3">Escribió:</string>
      <string name="special_text_4">Escribió:</string>
      <string name="special_text_5">Escribió:</string>
-     <string name="special_text_colon_en">:</string>
-     <string name="special_text_colon_zh">：</string>
      <string name="special_text_sender_en">Remitente</string>
      <string name="special_text_sender_zh">Remitente</string>
      <string name="storage">Almacenamiento</string>
      <string name="str_select_all">Seleccionar todo</string>
      <string name="str_select_none">Deseleccionar todo</string>
-     <string name="subject_and_snippet">%s — %s</string>
      <string name="subject_hint">Asunto</string>
-     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
      <string name="sync_error">No se pudo sincronizar.</string>
      <string name="sync_error_message">El dispositivo no tiene suficiente espacio de almacenamiento para sincronizar.</string>
      <string name="system_account_create_failed">No se pudo crear la cuenta. Vuelve a intentarlo.</string>
