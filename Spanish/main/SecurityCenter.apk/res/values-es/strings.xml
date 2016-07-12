@@ -1255,7 +1255,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="summary_data_flow">Evitar superar el límite del plan de datos mensual del operador</string>
   <string name="summary_default_app">%s no se ha establecido como una aplicación del sistema por defecto</string>
   <string name="summary_dev">Evitar el malware y proteger los datos personales</string>
-  <string name="summary_find_device">Localizar y bloquear su dispositivo desde cualquier lugar</string>
+  <string name="summary_find_device">Localizar y bloquear el dispositivo desde cualquier lugar</string>
   <string name="summary_flow_notification">Mostrar la estadísticas de uso de datos mensuales en el panel de notificación</string>
   <string name="summary_flow_purchase_beyond">Has excedido el límite del plan de datos mensual de tu operador por %sMB</string>
   <string name="summary_flow_purchase_left">Sólo te quedan %sMB de datos restantes este mes</string>
@@ -1291,8 +1291,8 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Marca del operador errónea&lt;br/&gt;&lt;br/&gt;Establecer marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Listo</string>
   <string name="tc_diagnostic_fragment_default">"Acerca de diagnóstico
-1. El dispositivo se conectará a la red del operador, enviar un mensaje sin costo, y esperaresperará la respuesta de la compañía. Esto puede tardar hasta 5 minutos.
-2. Puede salir de esta página durante los diagnósticos, que se llevará a cabo en el fondo."</string>
+1. El dispositivo se conectará a la red del operador, enviar un mensaje sin costo, y esperará la respuesta de la compañía. Esto puede tardar hasta 5 minutos.
+2. Puede salir de esta página durante los diagnósticos, estos se ejecutarán en segundo plano."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar la ubicación</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicación errónea</string>
   <string name="tc_diagnostic_notification_sumarry">Pulse para ver los resultados</string>
@@ -1306,7 +1306,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnosticos completados, problemas de ubicación resueltos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnosticos completados, problemas de ubicación y operador resueltos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Cambiado con éxito</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Result: No se pudo completar el diagnóstico &lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herraminetas de mejoramiento de MIUI&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultado: No se pudo completar el diagnóstico &lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herraminetas de mejoramiento de MIUI&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Ubicación erronea&lt;br/&gt;&lt;br/&gt;Establecer ubicación: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Ubicación actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Red del operador no encontrada</string>
   <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
@@ -1372,14 +1372,14 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="title_cleaner_cloudscan">Subir nombres de carpetas</string>
   <string name="title_cloud_account">Cuenta Mi</string>
   <string name="title_cloud_service">Mi Cloud</string>
-  <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi completo, los elementos pueden no sincronizarse</string>
-  <string name="title_cloud_space_full">Almacenamiento en la nube lleno, no puede sincronizar fotos</string>
+  <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi al máximo, los elementos podrían no sincronizarse</string>
+  <string name="title_cloud_space_full">Almacenamiento en la nube al máximo, no se pudo sincronizar los elementos<<<</string>
   <string name="title_cmcc_app_check">Verificación incompleta</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
   <string name="title_default_app">MIUI %s no se establece como predeterminado</string>
   <string name="title_dev_no">Opciones de desarrollador activadas</string>
   <string name="title_dev_yes">Opciones de desarrollador desactivadas</string>
-  <string name="title_find_device">Activar la Encontrar Dispositivo</string>
+  <string name="title_find_device">Activar Encontrar Dispositivo</string>
   <string name="title_flow_notification">Informe de uso de datos</string>
   <string name="title_flow_purchase">Hora de recargar</string>
   <string name="title_flow_verify">Comparar contabilidad</string>
