@@ -49,12 +49,12 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
   <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puedes acercar y alejar la imagen con solo tocar tres veces la pantalla.
 
 A continuación se indican las acciones que puedes hacer con la imagen acercada.
-"&lt;li&gt;&lt;ul&gt;"Desplazar la imagen: arrastra dos o m&amp;#225;s dedos por la pantalla.
-"&lt;li&gt;Modificar el nivel de zoom: une dos o m&amp;#225;s dedos o sep&amp;#225;ralos.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"&lt;li&gt;&lt;ul&gt;"Desplazar la imagen: arrastra dos o más dedos por la pantalla.
+"&lt;li&gt;Modificar el nivel de zoom: une dos o más dedos o sepáralos.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-Tambi&amp;#233;n puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla presionada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
+También puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla presionada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
 
-Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegaci&amp;#243;n."</string>
+Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación."</string>
   <string name="accessibility_screen_magnification_title">Gestos de ampliación</string>
   <string name="accessibility_service_default_description">No se proporcionó ninguna descripción.</string>
   <string name="accessibility_services_title">Servicios</string>
@@ -935,7 +935,7 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="data_usage_restrict_denied_dialog">Solo se pueden restringir los datos en segundo plano si estableciste un límite de datos móviles.</string>
   <string name="data_usage_summary_title">Uso de datos</string>
   <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;l&amp;#237;mite&lt;/font&gt;</string>
+"&lt;font size="12"&gt;límite&lt;/font&gt;</string>
   <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt;&lt;font size="9"&gt;^2&lt;/font&gt;"
 "&lt;font size="12"&gt;advertencia&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2 GB - 3 GB</string>
@@ -1371,7 +1371,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="force_touch_enable">Habilitar Toque 3D</string>
   <string name="force_touch_enable_tips">"Presionar el icono de una Aplicación dentro del launcher mostrará al Asistente táctil aún cuando la función Toque 3D esté habilitado.."</string>
   <string name="forget">OLVIDAR</string>
-  <string name="forget_password_button_text">&lt;u&gt;Contrase&amp;#241;a olvidada&lt;/u&gt;</string>
+  <string name="forget_password_button_text">&lt;u&gt;¿Contraseña olvidada?&lt;/u&gt;</string>
   <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
   <string name="found_new_version">Actualización disponible</string>
   <string name="fp_nav_center_back_to_home_title">Pulse el botón Inicio para volver a la pantalla de inicio</string>
@@ -1399,10 +1399,10 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="free_xiaomi_wifi_connect_summary">Pulse para conectar a %1$s.</string>
   <string name="frequently_fragment_delete">Eliminiar</string>
   <string name="frequently_fragment_tempty">Los elementos usados frecuentemente serán enumerados aquí</string>
-  <string name="fullbackup_data_summary">"Automáticamente respalde los datos del dispositivo (como la clave Wi-Fi y el historial de llamadas) y datos de aplicaciones (como las configuraciones y los archivos almacenados por las aplicaciones) de manera remota.
+  <string name="fullbackup_data_summary">"Automáticamente realziar copia de seguridad de los datos del dispositivo (como claves Wi-Fi e historial de llamadas) y datos de aplicaciones (como configuraciones y archivos almacenados por las aplicaciones) de manera remota.
 
-   Cuando active los respaldos automáticos, los datos del dispositivo se guardarán periódicamente de manera remota. Los datos de las aplicaciones pueden ser los datos almacenados por cualquier aplicación (de acuerdo a los ajustes de desarrollo), incluyendo información privada como los contactos, mensajes y fotos."</string>
-  <string name="fullbackup_erase_dialog_message">La acción detendrá el respaldo de los datos del dispositivo (como las claves Wi-Fi y el historial de llamadas) y los datos de las aplicaciones (como las configuraciones propias y los archivos almacenados), además se eliminarán todas las copias guardadas en Google Drive.¿Proseguir?</string>
+   Al activar la copia de seguridad automática, los datos del dispositivo se guardarán periódicamente de manera remota. Los datos de las aplicaciones pueden ser los datos almacenados por cualquier aplicación (de acuerdo a los ajustes de desarrollo), incluyendo información privada como los contactos, mensajes y fotos."</string>
+  <string name="fullbackup_erase_dialog_message">La acción detendrá la copia de seguridad de los datos del dispositivo (como claves Wi-Fi e historial de llamadas) y los datos de las aplicaciones (como configuraciones propias y archivos almacenados por las aplicaciones), además se eliminarán todas las copias guardadas en Google Drive. ¿Continuar?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automático</string>
   <string name="gadget_brightness_state_full">completo</string>
@@ -1541,8 +1541,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="internal_format">Borrar el almacenamiento interno</string>
   <string name="internal_format_summary">Borrar todos los datos de la memoria interna del dispositivo</string>
   <string name="internal_media_format_button_text">Borrar el almacenamiento interno</string>
-  <string name="internal_media_format_desc">¿Borrar todo el almacenamiento interno? &lt;b&gt;Todos&lt;/b&gt; sus datos guardados ser&amp;#225;n borrados permanentemente. El tel&amp;#233;fono se reiniciar&amp;#225; despu&amp;#233;s de haber borrado de almacenamiento interno.</string>
-  <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá invertir esta acción! El teléfono se reiniciará después de haber borrado de almacenamiento interno.</string>
+  <string name="internal_media_format_desc">¿Borrar todo el almacenamiento interno? &lt;b&gt;Todos&lt;/b&gt; los datos guardados serán borrados permanentemente. El dispositivo se reiniciará después del borrado del almacenamiento interno.</string>
+  <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá invertir esta acción! El dispositivo se reiniciará después del borrado del almacenamiento interno.</string>
   <string name="internal_media_format_title">Borrar el almacenamiento interno</string>
   <string name="internal_memory">Almacenamiento interno</string>
   <string name="internal_storage">Almacenamiento interno</string>
@@ -1850,7 +1850,7 @@ Actualmente has accedido a las siguientes cuentas:
 "&lt;li&gt;tu cuenta de Google,&lt;/li&gt;"
 "&lt;li&gt;datos de aplicaciones y ajustes del sistema,&lt;/li&gt;"
 "&lt;li&gt;las aplicaciones descargadas.&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;M&amp;#250;sica&lt;/li&gt;"
+  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Música&lt;/li&gt;"
 "&lt;li&gt;Fotos&lt;/li&gt;"
 "&lt;li&gt;Otros datos de usuario&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
@@ -2511,8 +2511,8 @@ Seleccione su sistema operativo:"</string>
   <string name="privacy_mode_title">Configuraciones de privacidad</string>
   <string name="privacy_protect_title">Protección de privacidad</string>
   <string name="privacy_relative">Privacidad</string>
-  <string name="privacy_settings">Respaldo y restablecimiento</string>
-  <string name="privacy_settings_title">Respaldo y restablecimiento</string>
+  <string name="privacy_settings">Copia de seguridad y restauración</string>
+  <string name="privacy_settings_title">Copia de seguridad y restauración</string>
   <string name="private_gallery_need_to_unlock">Se requiere contraseña:</string>
   <string name="private_gallery_recording_intro_header">Dibujar un patrón de desbloqueo:</string>
   <string name="private_gallery_reset_by_account">Para resetear tu contraseña, inicia sesión con tu cuenta Mi</string>
@@ -3353,12 +3353,12 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supl_not_set">&lt;No definido&gt;</string>
-  <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="supplicant_state_label">Estado de la solicitud:</string>
   <string name="switch_off_text">Desactivar</string>
   <string name="switch_on_text">Activar</string>
   <string name="symbols_not_allowed_for_password">La contraseña no puede contener símbolos</string>
   <string name="sync_active">Sincronización activada</string>
-  <string name="sync_automatically">Autosincronizar datos de aplic.</string>
+  <string name="sync_automatically">Autosincronizar datos de aplicaciones</string>
   <string name="sync_calendar">Calendario</string>
   <string name="sync_contacts">Contactos</string>
   <string name="sync_disabled">Sincronización desactivada</string>
@@ -3375,7 +3375,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="sync_one_time_sync">"Tocar para sincronizar ahora
 %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Te damos la bienvenida a Google Sync&lt;/font&gt;"  
-Con este software de Google, puedes sincronizar tus datos y acceder a tus contactos, citas y m&amp;#225;s desde cualquier lugar."</string>
+Con este software de Google, puedes sincronizar tus datos y acceder a tus contactos, citas y más desde cualquier lugar."</string>
   <string name="sync_settings">Sincronización</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Solamente por Wi-Fi</string>
@@ -3499,7 +3499,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="uicc_format_summary">Borrar todos los datos del almacenamiento UICC (por ejemplo: música y fotos)</string>
   <string name="uicc_insert_summary">Conectar almacenamiento UICC</string>
   <string name="uicc_media_format_button_text">Borrar almacenamiento UICC</string>
-  <string name="uicc_media_format_desc">¿Borrar el almacenamiento UICC? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados all&amp;#237;.</string>
+  <string name="uicc_media_format_desc">¿Borrar el almacenamiento UICC? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados allí.</string>
   <string name="uicc_media_format_final_desc">Todos los archivos almacenados en el almacenamiento UICC se eliminarán de forma permanente.</string>
   <string name="uicc_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento UICC.</string>
   <string name="uicc_media_format_summary">Eliminar todos los datos del almacenamiento UICC</string>
@@ -3592,7 +3592,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="usb_insert_summary">Conectar USB</string>
   <string name="usb_label_installer_cd">Instalar las herramientas de transferencia de archivos</string>
   <string name="usb_media_format_button_text">Borrar almacenamiento USB</string>
-  <string name="usb_media_format_desc">¿Borrar el almacenamiento USB? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados all&amp;#237;.</string>
+  <string name="usb_media_format_desc">¿Borrar el almacenamiento USB? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados allí.</string>
   <string name="usb_media_format_final_desc">Todos los archivos almacenados en el almacenamiento USB se eliminarán de forma permanente.</string>
   <string name="usb_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento USB.</string>
   <string name="usb_media_format_summary">Eliminar todos los datos del almacenamiento USB</string>
@@ -4103,7 +4103,7 @@ de Wi‑Fi"</string>
   <string name="wifi_setup_back">Atrás</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
-  <string name="wifi_setup_description_connected">Pulse &lt;b&gt;Siguiente&lt;/b&gt; para continuar con la configuraci&amp;#243;n. Pulse &lt;b&gt;Volver&lt;/b&gt; para conectarse a otras redes Wi-Fi.</string>
+  <string name="wifi_setup_description_connected">Pulse &lt;b&gt;Siguiente&lt;/b&gt; para continuar con la configuración. Pulse &lt;b&gt;Volver&lt;/b&gt; para conectarse a otras redes Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">La conexión puede demorar unos minutos...</string>
   <string name="wifi_setup_detail">Detalles de la red</string>
   <string name="wifi_setup_eap_not_supported">Durante la configuración no puede definir una conexión Wi-Fi EAP, pero puede hacerlo cuando haya finalizado a través de ajustes y conexiones inalámbricas y redes.</string>
