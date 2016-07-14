@@ -37,7 +37,7 @@
   <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere red Wi-Fi.</string>
   <string name="notification_paused_in_background">Pausado en segundo plano.</string>
   <string name="notify_disabled_net_by_app">Conexión a internet restringida por la aplicación de Seguridad</string>
-  <string name="notify_only_wifi_download">A la espera de la red WLAN</string>
+  <string name="notify_only_wifi_download">A la espera de la red Wi-Fi</string>
   <string name="paused_waiting_for_network">A la espera de conexión a la red</string>
   <string name="permdesc_accessAllDownloads">Permite a la aplicación ver y modificar todas las descargas iniciadas por cualquier aplicación en el sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Permite a la aplicación descargar archivos en la caché de descarga, que no se pueden eliminar automáticamente cuando el gestor de descargas necesita más espacio."</string>
@@ -69,11 +69,11 @@
   <string name="warning_tip_title">Advertencia de uso de datos</string>
   <string name="wifi_recommended_body" formatted="false">"Iniciar la descarga de %s puede resultar en un uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.
 
- Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo WLAN."</string>
+ Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo Wi-Fi."</string>
   <string name="wifi_recommended_title">¿Poner en cola para descargar más tarde?</string>
-  <string name="wifi_required_body" formatted="false">"Debes usar una conexión WLAN para completar la descarga de %s. 
+  <string name="wifi_required_body" formatted="false">"Debes usar una conexión Wi-Fi para completar la descarga de %s. 
 
- Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo WLAN."</string>
+ Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo Wi-Fi."</string>
   <string name="wifi_required_title">Descarga demasiado grande para la red del operador</string>
   <string name="xl_speedup_experience_notify_context">La velocidad de descarga aunmenta de manera excepcional al inscribirte como usuario Xunlei</string>
   <string name="xl_speedup_experience_notify_title">Membresía Xunlei</string>
