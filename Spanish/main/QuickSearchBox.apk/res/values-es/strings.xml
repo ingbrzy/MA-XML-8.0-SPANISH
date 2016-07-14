@@ -2,11 +2,11 @@
 <resources>
   <string name="app_name">Búsqueda</string>
   <string name="apps_search_activity"/>
-  <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_input">https://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_launcher">https://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_systemui">https://www.google.com/search?q=%s</string>
-  <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=insClu</string>
+  <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_history">Borrar historial</string>
   <string name="clear_shortcuts">Borrar accesos directos</string>
@@ -49,19 +49,23 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="menu_help">Ayuda</string>
   <string name="menu_settings">Ajustes de búsqueda</string>
   <string name="network_unavailable">No se pudo conectar a la red</string>
-  <string name="recent_apps">Aplicaciones recomendadas</string>
+  <string name="recent_apps">Aplicaciones recientes</string>
   <string name="recently_shortcut_label">Accesos directos recientes</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
   <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
+  <string name="search_apps">Aplicaciones de búsqueda</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Más</string>
   <string name="search_history">Historial</string>
   <string name="search_in_app_store">Buscar en Mi App Store</string>
-  <string name="search_in_web">Buscar en internet</string>
+  <string name="search_in_web">Busca en la web</string>
   <string name="search_settings">Ajustes de búsqueda</string>
   <string name="search_sources">Elementos rastreables</string>
   <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
   <string name="search_suggestion">Consejos</string>
+  <string name="search_videos">Buscar Videos</string>
+  <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
   <string name="search_widget">Buscar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="show_more">Mostrar más</string>
