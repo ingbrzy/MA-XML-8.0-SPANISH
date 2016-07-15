@@ -109,7 +109,9 @@
      <string name="account_setup_incoming_port_label">Puerto</string>
      <string name="account_setup_incoming_security_label">Tipo de seguridad</string>
      <string name="account_setup_incoming_security_none_label">Ninguno</string>
+     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (aceptar todos los certificados)</string>
+     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (aceptar todos los certificados)</string>
      <string name="account_setup_incoming_server_label">Servidor</string>
      <string name="account_setup_incoming_username_label">Nombre de usuario</string>
