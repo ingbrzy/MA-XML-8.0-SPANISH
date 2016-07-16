@@ -109,8 +109,10 @@
      <string name="account_setup_incoming_port_label">Puerto</string>
      <string name="account_setup_incoming_security_label">Tipo de seguridad</string>
      <string name="account_setup_incoming_security_none_label">Ninguno</string>
+     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (aceptar todos los certificados)</string>
-     <string name="account_setup_incoming_security_tls_trust_certificates_label">COMENZATTLS (aceptar todos los certificados)</string>
+     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
+     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (aceptar todos los certificados)</string>
      <string name="account_setup_incoming_server_label">Servidor</string>
      <string name="account_setup_incoming_username_label">Nombre de usuario</string>
      <string name="account_setup_incoming_username_label_default_hint">Puede incluir el dominio</string>
@@ -768,7 +770,7 @@
      <string name="ser_resp_err_map_or">%1$s o %2$s</string>
      <string name="ser_resp_err_map_pserr">Nombre de usuario o contraseña incorrecta</string>
      <string name="ser_resp_err_map_serclosed">Servidor %s cerrado</string>
-     <string name="ser_resp_err_map_ssl">"Por favor, intente elegir ' SSL/TLS (aceptar todos los certificados)' en 'Tipo de seguridad'"</string>
+     <string name="ser_resp_err_map_ssl">"Por favor, intente elegir 'SSL/TLS (aceptar todos los certificados)' en 'Tipo de seguridad'"</string>
      <string name="set_network">Definir red</string>
      <string name="setting_default_lable"></string>
      <string name="settings_activity_title">Ajustes</string>
