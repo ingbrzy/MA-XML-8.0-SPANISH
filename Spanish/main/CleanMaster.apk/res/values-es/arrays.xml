@@ -20,11 +20,11 @@
         <item>Limpiar este fichero</item>
         <item>Ver localización del fichero</item>
     </string-array>
-	<string-array name="trash_clean_menu">
+    <string-array name="trash_clean_menu">
 	<item>Limpiar este fichero</item>
         <item>Ver localización del fichero</item>
     </string-array>
-        <string-array name="video_clean_menu"> 
+    <string-array name="video_clean_menu"> 
         <item>Limpiar este fichero</item> 
         <item>Abrir</item> 
     </string-array> 
@@ -36,10 +36,10 @@
         <item>Instalar este apk</item>
         <item>Ver localización del apk</item>
     </string-array>
-        <string-array name="long_add_menu"> 
+    <string-array name="long_add_menu"> 
         <item>Añadir a excepciones</item> 
-     </string-array> 
-        <string-array name="long_add_app_menu"> 
+    </string-array> 
+    <string-array name="long_add_app_menu"> 
         <item>Añadir a excepciones</item> 
     </string-array> 
     <string-array name="app_clean_menu">
@@ -57,7 +57,7 @@
         <item>Tamaño</item>
         <item>Nombre</item>
     </string-array>
-	<string-array name="auto_alert_apps_time">
+    <string-array name="auto_alert_apps_time">
         <item>Cada 7 días</item>
         <item>Cada 15 días</item>
         <item>Cada 30 días</item>
