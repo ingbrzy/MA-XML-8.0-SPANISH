@@ -1335,6 +1335,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fingerprint_identify_msg">Escaneando huella…</string>
   <string name="fingerprint_identify_try_again_msg">No se pudo reconocer la huella dactilar, vuelva a intentarlo</string>
   <string name="fingerprint_list_title">Huella </string>
+  <string name="fingerprint_lock_first">Primer espacio desbloquear</string>
+  <string name="fingerprint_lock_second">Segundo espacio desbloquear</string>
   <string name="fingerprint_removal_failed">No se pudo remover la huella dactilar, vuelva a intentarlo</string>
   <string name="finish_application">Forzar cierre</string>
   <string name="finish_button_label">Finalizar</string>
@@ -2339,7 +2341,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_tether_settings_title_usb">Settings/More/USB tethering</string>
   <string name="path_theme_settings">Settings/Themes</string>
   <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
-  <string name="path_touch_assistant_settings">Settings/Additional settings/Touch assistant</string>
+  <string name="path_touch_assistant_settings">Settings/Additional settings/Quick ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/System Security/Trusted credentials</string>
   <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
