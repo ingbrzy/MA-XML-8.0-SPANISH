@@ -681,6 +681,7 @@
   <string name="crop_save_text_setas">Aplicar</string>
   <string name="crop_tooltip">Arrastre los marcadores para recortar</string>
   <string name="crossprocess">Proceso Cruzado</string>
+  <string name="custom_select_title_quickly_share">Compartir</string>
   <string name="custom_select_title_deselect_all">Anular selección</string>
   <string name="custom_select_title_select_all">Seleccionar todo</string>
   <string name="custom_select_title_select_item">Seleccione los elementos</string>
@@ -825,6 +826,8 @@
   <string name="fail_to_pick_email">El email no válido</string>
   <string name="fail_to_sync_album">No se pudo sincronizar el álbum. Compruebe la conexión de datos y vuelva a intentarlo.</string>
   <string name="family_member_invitation_text">Otro miembro de la familia</string>
+  <string name="fast_share_auto_render">Embellecer</string>
+  <string name="fast_share_auto_render_finish">Embellecido</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_not_exist_message">El archivo no existe</string>
   <string name="file_size">Tamaño</string>
@@ -1178,6 +1181,7 @@
   <string name="picker_image_will_download">"%d de las fotografías seleccionadas no están en el dispositivo. Las fotos serán descargadas."</string>
   <string name="picker_mobile_data_video">"No se puede descargar vídeos a partir de datos móviles, omitido %d."</string>
   <string name="picker_origin_need_download">"%1$d de las fotos seleccionadas (%2$dMB) no están en el dispositivo. ¿Descargar usando datos móviles?"</string>
+  <string name="picker_skip_unavailable_images">" "&lt;item quantity="one"&gt;"Omitido una foto que no está en el dispositivo."&lt;/item&gt; &lt;item quantity="other"&gt;"Omitido %d fotos que no están en el dispositivo."&lt;/item&gt;" "</string>
   <string name="picker_title_format">Selected photos: %d</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
   <string name="picker_title_unlimit">Elegir imagen</string>
