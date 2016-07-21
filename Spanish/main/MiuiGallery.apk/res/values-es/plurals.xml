@@ -252,4 +252,8 @@
         <item quantity="zero">%1$d elementos</item>
         <item quantity="one">%1$d elemento</item>
     </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"Skipped %1$d photos which couldn't be rendered."</item>
+        <item quantity="one">"Skipped a photo which couldn't be rendered."</item>
+    </plurals>
 </resources>
