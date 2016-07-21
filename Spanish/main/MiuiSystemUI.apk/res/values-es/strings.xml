@@ -208,10 +208,11 @@ Usa sólo el cargador provisto."</string>
   <string name="settings_toggle_position_divider_page">%1$d accesos activos encima de la barra de tareas</string>
   <string name="settings_toggle_position_reset">Resetear accesos</string>
   <string name="share">Compartir</string>
+  <string name="status_bar_clock_date_format">EEEE, MMMM d</string>
   <string name="status_bar_date_format">"EEEE
-d MMMM"</string>
+ MMMM d"</string>
   <string name="status_bar_date_format_12">"EEEE
-d MMMM"</string>
+ MMMM d"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Hoy: %1$s   Restante: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -279,5 +280,8 @@ Desliza hacia abajo para bloquear"</string>
   <string name="vpn_text_long">Conectado en %s. Pulsa para ver los detalles.</string>
   <string name="vpn_title">VPN activada</string>
   <string name="vpn_title_long">Conexión a VPN utilizando %s</string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Actualizado %1$s</string>
+  <string name="wifi_connected_no_internet">Conectado, no hay Internet</string>
+  <string name="wifi_disabled_generic">Incapacitado</string>
 </resources>
