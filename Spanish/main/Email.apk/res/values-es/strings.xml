@@ -100,7 +100,7 @@
      <string name="account_setup_failed_security">No se pudo abrir la conexión con el servidor debido a un error de seguridad.</string>
      <string name="account_setup_failed_security_policies_unsupported">Este servidor requiere características de seguridad que no soporta tu dispositivo Android, incluyendo: %s</string>
      <string name="account_setup_failed_tls_required">TLS requeridos pero no son soportados por el servidor.</string>
-     <string name="account_setup_failed_too_many_partnerships">Inicio de sesión fallido, se ha alcanzado el número máximo de conexiones con el servidor.</string>
+     <string name="account_setup_failed_too_many_partnerships">"No se pudo acceder, demasiadas conexiones".</string>
      <string name="account_setup_incoming_delete_policy_delete_label">Cuando borro de la papelera</string>
      <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
      <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
