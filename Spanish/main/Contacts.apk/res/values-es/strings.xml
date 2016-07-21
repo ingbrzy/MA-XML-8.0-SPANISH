@@ -211,7 +211,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="contact_detail_miprofile_request_success_toast">Petición enviada</string>
   <string name="contact_detail_miprofile_save">Tocar para obtener tarjeta de contacto</string>
   <string name="contact_detail_miprofile_save_fail_toast">No se pudo obtener la tarjeta de contacto</string>
-  <string name="contact_detail_miprofile_save_success_toast">Tarjeta de contacto recibida</string>
+  <string name="contact_detail_miprofile_save_success_toast">Recibiendo tarjeta de contacto</string>
   <string name="contact_detail_miprofile_settings_header">AJUSTES ADICIONALES</string>
   <string name="contact_detail_miprofile_subtitle">Ya se han intercambiado las tarjetas</string>
   <string name="contact_detail_profile_switch_fail_network_toast">No se pudo conectar a la red</string>
@@ -441,7 +441,10 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="favoritesFrequentContacted">Frecuentemente contactado</string>
   <string name="favorites_list_empty">No hay favoritos</string>
   <string name="firewall_setting">Lista de bloqueo</string>
+  <string name="force_touch_miprofile">Tarjeta de contacto</string>
+  <string name="force_touch_new_contact">Nuevo contacto</string>
   <string name="foundTooManyContacts">Más de %d encontrados.</string>
+  <string name="fraud_more_indemnity">More indemnity</string>
   <string name="frequentList">Frecuentes</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Nombre</string>
@@ -1273,6 +1276,8 @@ Para agregar un contacto a la lista de favoritos:
   <string name="t9_search_guide_zhuyin_title2">Ejemplo, ingrese 5 y 6 para buscar a <font fgcolor="">J</font>osé <font fgcolor="">M</font>artinez</string>
   <string name="take_new_photo">Hacer una nueva foto</string>
   <string name="take_photo">Tomar foto</string>
+  <string name="telecom_fraud_insurance">Telecom fraud insurance</string>
+  <string name="telecom_fraud_insurance_description">Guarantee ten thousand RMB | Xiaomi customize | 9.9 RMB one year</string>
   <string name="titleJoinContactDataWith">Combinar contactos</string>
   <string name="title_other_devices">Otros dispositivos disponibles</string>
   <string name="title_paired_devices">Dispositivos emparejados</string>
