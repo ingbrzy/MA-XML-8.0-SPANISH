@@ -133,7 +133,7 @@
   <string name="auto_upload_disable_tip">El Auto-Respaldo está dehabilitado</string>
   <string name="auto_upload_disable_toast_long_press_menu">El Auto-Respaldo está dehabilitado，será añadido a otro álbum</string>
   <string name="auto_upload_enable_toast_long_press_menu">El Auto-Respaldo está dehabilitado, regresa a la página inicial del álbum</string>
-  <string name="auto_upload_guide_msssage">" &lt;Data&gt; Sincronizar fotos automáticamente desde otras aplicaciones con Mi Cloud. Puede activar o desactivar esta característica en cualquier momento en &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Ajustes &amp;gt; Sincronizar con Mi Cloud &amp;gt; Sincronizar automáticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt; "</string>
+  <string name="auto_upload_guide_msssage">" <Data> Sincronizar fotos automáticamente desde otras aplicaciones con Mi Cloud. Puede activar o desactivar esta característica en cualquier momento en &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Ajustes &amp;gt; Sincronizar con Mi Cloud &amp;gt; Sincronizar automáticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. </Data> "</string>
   <string name="auto_upload_guide_title">Sincronizar fotos con Mi Cloud</string>
   <string name="auto_upload_title">Sincronizar automáticamente</string>
   <string name="autofix">Auto-reparar</string>
@@ -646,13 +646,13 @@
   <string name="confirm_download_video_message">La descarga de este vídeo debe terminar antes de que usted puede verlo. La descarga se reanudará cuando Wi-Fi está disponible.</string>
   <string name="confirm_download_video_title">Descargar vídeo</string>
   <string name="confirm_face">Coincidencia</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; &amp;#191;Combinar este &amp;#225;lbum con %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; &amp;#191;Combinar estos &amp;#225;lbumes con %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_face_albums">" "<Data> &amp;#191;Combinar este &amp;#225;lbum con %s? </Data>" "</string>
+  <string name="confirm_merge_many_face_albums">" "<Data> &amp;#191;Combinar estos &amp;#225;lbumes con %s? </Data>" "</string>
   <string name="confirm_not_face">No es</string>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; &amp;#191;Seguro de hacer esto &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &amp;#201;sta persona ser&amp;#225; movida al album \"%2$s\" despu&amp;#233;s de que confirmes. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; &amp;#191;Seguro de NO querer hacer esto &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; &amp;#191;Seguro de hacer esto &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &amp;#201;stas personas ser&amp;#225;n movida al album \"%2$s\" despu&amp;#233;s de que confirmes. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; &amp;#191;Seguro de lo siguiente &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_is">" "<Data> &amp;#191;Seguro de hacer esto &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &amp;#201;sta persona ser&amp;#225; movida al album \"%2$s\" despu&amp;#233;s de que confirmes. </Data>" "</string>
+  <string name="confirm_recommandation_face_not">" "<Data> &amp;#191;Seguro de NO querer hacer esto &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? </Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "<Data> &amp;#191;Seguro de hacer esto &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &amp;#201;stas personas ser&amp;#225;n movida al album \"%2$s\" despu&amp;#233;s de que confirmes. </Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "<Data> &amp;#191;Seguro de lo siguiente &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? </Data>" "</string>
   <string name="contact_photo">Establecer como foto de contacto</string>
   <string name="contact_tip">Contactos</string>
   <string name="context_menu_add_contact">Agregar a contactos</string>
@@ -890,7 +890,7 @@
   <string name="group_by_location">Por ubicación</string>
   <string name="group_by_tags">Por etiquetas</string>
   <string name="group_by_time">Por fecha y hora</string>
-  <string name="has_invalid_recipient">Destinatarios no válidos: &lt;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Destinatarios no válidos: <%1$s></string>
   <string name="have_known">Lo tengo</string>
   <string name="height">Altura</string>
   <string name="hidden_album_display_name">Álbum oculto</string>
@@ -970,8 +970,8 @@
   <string name="last_new_year">Último año nuevo</string>
   <string name="last_valentine_day">Último día de San Valentín</string>
   <string name="last_year_today">Hace un año</string>
-  <string name="limit_height">La altura debe ser &gt; 0</string>
-  <string name="limit_width">La anchura debería ser &gt; 0</string>
+  <string name="limit_height">La altura debe ser > 0</string>
+  <string name="limit_width">La anchura debería ser > 0</string>
   <string name="loading">Cargando…</string>
   <string name="loading_fail">"No se pudo descargar"</string>
   <string name="loading_fail_sync_off">Active la sincronización con Mi Cloud para descargar</string>
@@ -1181,7 +1181,7 @@
   <string name="picker_image_will_download">"%d de las fotografías seleccionadas no están en el dispositivo. Las fotos serán descargadas."</string>
   <string name="picker_mobile_data_video">"No se puede descargar vídeos a partir de datos móviles, omitido %d."</string>
   <string name="picker_origin_need_download">"%1$d de las fotos seleccionadas (%2$dMB) no están en el dispositivo. ¿Descargar usando datos móviles?"</string>
-  <string name="picker_skip_unavailable_images">" "&lt;item quantity="one"&gt;"Omitido una foto que no está en el dispositivo."&lt;/item&gt; &lt;item quantity="other"&gt;"Omitido %d fotos que no están en el dispositivo."&lt;/item&gt;" "</string>
+  <string name="picker_skip_unavailable_images">" "<item quantity="one">"Omitido una foto que no está en el dispositivo."</item> <item quantity="other">"Omitido %d fotos que no están en el dispositivo."</item>" "</string>
   <string name="picker_title_format">Selected photos: %d</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
   <string name="picker_title_unlimit">Elegir imagen</string>
