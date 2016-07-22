@@ -74,7 +74,7 @@ para poder verlos en cualquier momento"</string>
   <string name="exit_private_space">"Cambiar"</string>
   <string name="finger_print_num">Huella dactilar %d</string>
   <string name="finger_print_of_use">Uso de huellas digitales</string>
-  <string name="fingerprint_removal_failed">No se pudo borrar la huella digital</string>
+  <string name="fingerprint_removal_failed">"No se pudo borrar la huella digital"</string>
   <string name="goToSecondSpacce">Ir al Segundo espacio</string>
   <string name="go_on_import">Mantener la importación</string>
   <string name="guide_contact_sub_title_desc">"Los contactos añadidos al Segundo espacio se mantendrán privados.
@@ -112,7 +112,7 @@ También puede importarlas por separado."</string>
   <string name="need_set_second_space_pwd_first">Establezca la contraseña del Segundo espacio primero</string>
   <string name="newSecondSpace">"Activar Segundo Espacio"</string>
   <string name="next_setp">"Siguiente"</string>
-  <string name="no_match_repate_scanner">No se pudo encontrar coincidencias, escanee de nuevo</string>
+  <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">"Espacio primero"</string>
   <string name="not_support_multiple_users">"Múltiples espacios no están soportados aún"</string>
   <string name="notificationSetPassword">"Establecer contraseña"</string>
@@ -129,7 +129,8 @@ También puede importarlas por separado."</string>
   <string name="otherSettings">"Otros ajustes"</string>
   <string name="passWordGuardSummary">"Ingresar al Segundo espacio desde la Pantalla de bloqueo mediante una contraseña"</string>
   <string name="passwordProtect">"Contraseña"</string>
-  <string name="please_diff_finger_print">Asegúrese de establecer huellas diferentes para cada espacio. De otra manera, ni será capaz de entrar al Segundo espacio desde la Pantalla de bloqueo.</string>
+  <string name="please_diff_finger_print">Asegúrese de establecer huellas diferentes para cada espacio.
+De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de bloqueo.</string>
   <string name="privacyContactsSummary">"Mostrar elementos privados en el Segundo espacio"</string>
   <string name="privacyContactsTitle">"Mensajes privados y contactos"</string>
   <string name="private_sms_show_sub_title">"Los mensajes serán compartidos entre los dos espacios"</string>
@@ -145,8 +146,11 @@ También puede importarlas por separado."</string>
   <string name="restore_show_toast">"No mostrar mensajes privados"</string>
   <string name="retain_src_file">"Mantener los archivos"</string>
   <string name="retain_src_photo">"Mantener las fotos"</string>
-  <string name="scanner_fingerprint_error_tips_desc">No se encontraron similitudes. ¿Añadir huella al Segundo espacio?</string>
-  <string name="scanner_fingerprint_error_tips_title">No se puede encontrar coincidencias</string>
+  <string name="scanner_fingerprint">Escaneando la huella digital…</string>  
+  <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint  
+to enter Second space from Lock screen"</string>  
+  <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint"</string>
+  <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
   <string name="scanner_fingerprint_tips_desc">Seleccione la huella existente para entrar al Segundo espacio. No podrá usarla en el Primer espacio.</string>
   <string name="scanner_fingerprint_tips_title">Ingresar al Segundo espacio usando una huella existente</string>
   <string name="scanner_second_space_fingerprint">Escanee la huella del Segundo espacio</string>
