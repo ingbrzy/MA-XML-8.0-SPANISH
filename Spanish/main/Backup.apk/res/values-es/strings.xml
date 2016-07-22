@@ -44,7 +44,7 @@
   <string name="backup_now">Respaldar ahora</string>
   <string name="backup_progress">Respaldando…</string>
   <string name="backup_report">Ver detalles de la copia de seguridad</string>
-  <string name="backup_size">Peso: %s</string>
+  <string name="backup_size">Tamaño: %s</string>
   <string name="backup_success">Respaldo hecho con éxito</string>
   <string name="backup_successfully">Respaldo hecho con éxito</string>
   <string name="backup_to_cloud">Respaldar aplicación</string>
@@ -158,6 +158,7 @@
   <string name="miliao_account_login">Inicia sesión con MiTalk</string>
   <string name="mms_title">Mensajes multimedia</string>
   <string name="multi_select_title">%1$s seleccionados</string>
+  <string name="multi_user_mode_backup_message">"No se puede hacer una  copia de seguridad en el modo multi-usuario. Desactivar el modo multi-usuario para continuar."</string>
   <string name="multi_user_mode_dialog_message">No puedes usar Transferencia en modo Multi-usuario. Apaga el modo Multi-usuario para continuar.</string>
   <string name="multi_user_mode_dialog_title">Estás en modo Multi-usuario</string>
   <string name="never">Nunca</string>

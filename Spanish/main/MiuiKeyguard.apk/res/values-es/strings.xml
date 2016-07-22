@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enter_lock_wallpaper">Clic dentro del fondo de pantalla del la pantalla de bloqueo</string>
   <string name="click_to_enter_text">Pulse para ver</string>
   <string name="confirm_pin_msg">Introduzca el PIN de nuevo</string>
   <string name="default_lockscreen_unlock_hint_text">Deslice hacia arriba para desbloquear</string>
@@ -22,13 +23,16 @@
   <string name="incorrect_pincode_remaining_attempts">Código PIN erróneo, %d intento(s) restante(s)</string>
   <string name="incorrect_pukcode">Código PUK erróneo</string>
   <string name="incorrect_pukcode_remaining_attempts">Código PUK erróneo, %d intento(s) restante(s)</string>
+  <string name="input_password_after_boot_msg">Para desbloquear el dispositivo, introduzca su contraseña</string>
   <string name="input_password_hint_text">Introducir contraseña</string>
-  <string name="input_pin_code">¿PIN?</string>
+  <string name="input_pattern_hint_text">Dibuje su patrón de desbloqueo</string>
+  <string name="input_pin_code">PIN</string>
   <string name="input_puk_code">Introducir PUK</string>
   <string name="invalid_confirm_pin_hint">Los PIN no coinciden</string>
   <string name="invalid_sim_pin_hint">Introduce un PIN que tenga entre 4 y 8 números</string>
   <string name="invalid_sim_puk_hint">El código PUK debería tener 8 números o más</string>
   <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, toque el botón de encendido</string>
+  <string name="left_action_default_hint_text">Mi Remoto</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Patrón añadido</string>
@@ -48,8 +52,8 @@ Inténtelo de nuevo en %d segundos."</string>
   <string name="login_website_in_case_forget_password">Para restablecer su contraseña, vaya a to www.mi.com/micloud</string>
   <string name="missed_call_text">%d llamada(s) perdida(s)</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear con el dispositivo Bluetooth</string>
-  <string name="open_camera_hint_text">Deslice hacia la izquierda para abrir Cámara</string>
-  <string name="open_remote_center_hint_text">Deslice hacia la derecha para abrir Teléfono</string>
+  <string name="open_camera_hint_text">Deslizar a la izquierda para abrir %s</string>
+  <string name="open_remote_center_hint_text">Deslizar a la derecha para abrir %s</string>
   <string name="open_wifi_settings">Conexión a red abierta</string>
   <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %s minuto(s)</string>

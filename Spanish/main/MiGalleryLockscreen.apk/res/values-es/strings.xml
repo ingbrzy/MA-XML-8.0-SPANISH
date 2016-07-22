@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Galería de pantalla bloqueo</string>
+  <string name="app_name">Galería de pantalla de bloqueo</string>
   <string name="at_least_one">Selecciona al menos una categoría</string>
   <string name="cancel">Salir</string>
   <string name="cancel_international">Cancelar</string>
   <string name="cancel_lockscreen">Cancelar</string>
   <string name="change_time">Cambiar intervalo</string>
   <string name="day">1 día</string>
-  <string name="declaration">"Al usar este producto, aceptas nuestros &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Pol&amp;#237;tica de Privacidad&lt;/a&gt;. Esta aplicaci&amp;#243;n necesita conectarse a internet para funcionar con normalidad."</string>
+  <string name="declaration">Obtener nuevos fondos de pantalla enviados directamente a la pantalla de bloqueo cada día de forma gratuita.</string>
   <string name="declaration_lockscreen_title">Activar pantallas de bloqueo diarias</string>
   <string name="declaration_title">Términos de Uso</string>
   <string name="hour_1">1 hora</string>
   <string name="hour_3">3 horas</string>
   <string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
-  <string name="lockscreen_magazine_summary">Consigue fondos de pantalla enviados directamente a tu pantalla de bloqueo cada día.</string>
+  <string name="lockscreen_magazine_summary">Añadir el fondo de pantalla en la carpeta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s fondos de pantalla</string>
   <string name="lockscreen_magazine_system_title">Por defecto</string>
   <string name="lockscreen_magazine_title">Pantallas de bloqueo diarias</string>
@@ -31,11 +31,11 @@
   <string name="sst_grid_view_select_all">Seleccionar todo</string>
   <string name="sst_grid_view_unselect_all">Deseleccionar todo</string>
   <string name="sst_no_favor_wallpaper_hint">No hay fondos de pantalla en Favoritos</string>
-  <string name="sst_prov_enable_desc">Activar carrusel de fondos de pantalla en la pantalla de bloqueo</string>
-  <string name="sst_prov_enable_title">Activar carrusel de fondo de pantalla</string>
+  <string name="sst_prov_enable_desc">Activar cambios de fondos en la pantalla de bloqueo</string>
+  <string name="sst_prov_enable_title">Activar cambios de fondo de pantalla</string>
   <string name="sst_require_one_category_hint">Seleccionar al menos 1 categoría</string>
-  <string name="sst_sti_desc">Establecer la frecuencia de actualización del fondo de pantalla </string>
-  <string name="sst_sti_title">Frecuencia de actualización</string>
+  <string name="sst_sti_desc">Establecer la frecuencia de actualización</string>
+  <string name="sst_sti_title">Entretiempo de fondos de pantalla</string>
   <string name="sst_subscribe_title">Mis categorías</string>
   <string name="sst_wifi_only_desc">Desactive esta función para evitar gastar datos móviles</string>
   <string name="sst_wifi_only_title">Actualizar imágenes de fondo usando datos móviles</string>

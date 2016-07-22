@@ -10,9 +10,9 @@
   <string name="antispam_sync">Ajustes del modo no molestar</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
-  <string name="apple_cloud">Servicio de Apple Cloud</string>
+  <string name="apple_cloud">Servicio Apple Cloud</string>
   <string name="apple_cloud_eng">iCloud</string>
-  <string name="apple_cloud_price">About RMB 72 per year</string>
+  <string name="apple_cloud_price">Cerca de 72 RMB por año</string>
   <string name="bad_authentication">Contraseña o nombre de usuario incorrecto</string>
   <string name="btn_return">Atrás</string>
   <string name="button_cancel">Cancelar</string>
@@ -201,14 +201,18 @@ para reactivar esta función."</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">La conexión superó el tiempo de espera. Vuelva a intentarlo más tarde.</string>
   <string name="micloud_find_device_guide_micloud">Activar la sincronización con Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas y más con Mi Cloud</string>
-  <string name="micloud_find_device_guide_noti_content">Activar</string>
-  <string name="micloud_find_device_guide_noti_title">Active Encontrar dispositivo para proteger sus datos cuando el dispositivo esté perdido</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Activar Encontrar dispositivo para asegurar sus datos de WeChat</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Activar Encontrar dispositivo para asegurar sus datos de Alipay</string>
-  <string name="micloud_find_device_guide_progress">Activando Encontrar dispositivo…</string>
+  <string name="micloud_find_device_guide_noti_content">Proteja sus datos incluso cuando se pierda el dispositivo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Sus datos de QQ estarán seguros incluso si pierde su dispositivo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Sus datos de WeChat estarán seguros incluso si pierde su dispositivo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Sus datos en Alipay estarán seguros incluso si pierde su dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title">Active la función Encontrar dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ recomienda que active la función Encontrar dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomienda que active la función Encontrar dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomienda que active la función Encontrar dispositivo</string>
+  <string name="micloud_find_device_guide_progress">Activando la función Encontrar dispositivo…</string>
   <string name="micloud_find_device_guide_title">"Acceda a %s para encontrar, bloquear
 o borrar su dispositivo."</string>
-  <string name="micloud_find_device_open_fail">No se pudo activar Encontrar dispositivo</string>
+  <string name="micloud_find_device_open_fail">No se pudo activar la función Encontrar dispositivo</string>
   <string name="micloud_find_device_opened">Encontrar dispositivo activado</string>
   <string name="micloud_find_device_opened_content">Encuentre su dispositivo en %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
@@ -421,7 +425,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="sync_dspt_entrance_provision_confirm_content">Las aplicaciones incorporadas en MIUI necesitan de la Mi Cloud para realizar una copia de seguridad de sus fotos, contactos, notas y más. Mi Cloud está libre y lista para usar fuera de la caja.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Usar Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">¿No utiliza Mi Cloud?</string>
-  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Omitir este paso&lt;/u&gt;</string>
+  <string name="sync_dspt_entrance_provision_skip">Omitir este paso</string>
   <string name="sync_dspt_provision">"Sincronice sus fotos, contactos, notas, y mucho más de todos los dispositivos o tener acceso a ellos en "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>

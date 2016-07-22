@@ -11,7 +11,9 @@
   <string name="activing_simcard_alone">Verificando SIM</string>
   <string name="add">Agregar</string>
   <string name="addSimEntries">Agregar contacto a SIM</string>
+  <string name="add_by_input">Añadir por la entrada</string>
   <string name="add_fdn_contact">Añadir número de marcación fija</string>
+  <string name="add_from_contacts">Agregar de Contactos</string>
   <string name="add_sip_account">Añadir cuenta</string>
   <string name="add_vm_number_str">Añadir número</string>
   <string name="adding_fdn_contact">Añadiendo número de marcación fija…</string>
@@ -687,7 +689,7 @@ Recargar y empezar a hablar"</string>
   <string name="livetalk_sim_card_not_activated">Esta tarjeta no está activada</string>
   <string name="livetalk_terms_conditions">Términos y Condiciones</string>
   <string name="livetalk_unavaiable_info">Este servicio no está disponible temporalmente</string>
-  <string name="livetalk_user_config_title">Comprobar número de teléfono</string>
+  <string name="livetalk_user_config_title">Comprobar número telefónico</string>
   <string name="livetalk_welcome_description_text">"• Ahorre hasta un 70% en sus llamadas. 
 • Llame a cualquier número en el mundo, sin restricciones de operador.
  • Cargue y empiece a llamar, no tiene ajustes complicados."</string>
@@ -1003,13 +1005,14 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
   <string name="pin_progress_set_fdn_lock">Configurando estado del bloqueo FDN…</string>
   <string name="pin_progress_set_icc_lock">Configurando estado del bloqueo ICC…</string>
   <string name="pin_progress_unlock_icc">Desbloqueando tarjeta SIM…</string>
+  <string name="please_enter_phone_number">Por favor introduzca el número de teléfono</string>
+  <string name="port_title">Número de puerto</string>
+  <string name="preference_auto_ip_summary_disable">Apagado</string>
   <string name="place_a_call1">Suscripción 1</string>
   <string name="place_a_call2">Suscripción 2</string>
   <string name="place_a_call3">Suscripción 3</string>
   <string name="plmn_list_setting_add_plmn">New PLMN</string>
   <string name="plmn_list_setting_title">Preferred networks</string>
-  <string name="port_title">Número de puerto</string>
-  <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_category_ringtone">Tono y vibración</string>
   <string name="preference_data_usage_summary">Establecer el plan de datos para controlar el uso de datos móviles</string>
   <string name="preference_data_usage_title">Ajustes de uso de datos</string>

@@ -211,7 +211,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="contact_detail_miprofile_request_success_toast">Petición enviada</string>
   <string name="contact_detail_miprofile_save">Tocar para obtener tarjeta de contacto</string>
   <string name="contact_detail_miprofile_save_fail_toast">No se pudo obtener la tarjeta de contacto</string>
-  <string name="contact_detail_miprofile_save_success_toast">Tarjeta de contacto recibida</string>
+  <string name="contact_detail_miprofile_save_success_toast">Recibiendo tarjeta de contacto</string>
   <string name="contact_detail_miprofile_settings_header">AJUSTES ADICIONALES</string>
   <string name="contact_detail_miprofile_subtitle">Ya se han intercambiado las tarjetas</string>
   <string name="contact_detail_profile_switch_fail_network_toast">No se pudo conectar a la red</string>
@@ -247,6 +247,8 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="contacts_unavailable_add_account">Inicie sesión en una cuenta</string>
   <string name="contacts_unavailable_create_contact">Crear un nuevo contacto</string>
   <string name="contacts_unavailable_import_contacts">Importar contactos desde un archivo</string>
+  <string name="convenient_service">Servicios</string>
+  <string name="copy_number">Copiar</string>
   <string name="copy_text">Copiar en el portapapeles</string>
   <string name="createContactShortcutSuccessful">Acceso directo de contacto añadido a la pantalla de inicio</string>
   <string name="create_group_dialog_title">Crear un nuevo grupo</string>
@@ -439,8 +441,10 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="favoritesFrequentContacted">Frecuentemente contactado</string>
   <string name="favorites_list_empty">No hay favoritos</string>
   <string name="firewall_setting">Lista de bloqueo</string>
-  <string name="followed_yellowpage">Cuentas verificadas</string>
+  <string name="force_touch_miprofile">Tarjeta de contacto</string>
+  <string name="force_touch_new_contact">Nuevo contacto</string>
   <string name="foundTooManyContacts">Más de %d encontrados.</string>
+  <string name="fraud_more_indemnity">More indemnity</string>
   <string name="frequentList">Frecuentes</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Nombre</string>
@@ -664,13 +668,12 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="miprofile_error_not_opened">Apagar tarjetas de contacto</string>
   <string name="miprofile_error_not_set">Tu tarjeta de contacto no ha sido sincronizada con el servidor</string>
   <string name="miprofile_error_unknown">Error desconocido</string>
-  <string name="miprofile_find_miprofile_title">Añadir perfil</string>
-  <string name="miprofile_find_profile_batch_add">Añadir todos los perfiles</string>
+  <string name="miprofile_find_miprofile_title">Añadir para ver toda la información</string>
+  <string name="miprofile_find_profile_batch_add">Añadir todo</string>
   <string name="miprofile_find_profile_batch_finish">Terminar</string>
   <string name="miprofile_find_profile_batch_request_failed">No se pudo añadir el perfil</string>
   <string name="miprofile_find_profile_loading">Cargando…</string>
   <string name="miprofile_find_profile_no_recommend">No hay perfiles recomendados</string>
-  <string name="miprofile_find_profile_subtitle">Añadir para ver foto y más información</string>
   <string name="miprofile_finding_label">Buscar tarjetas de contacto</string>
   <string name="miprofile_name">Mi perfil</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -1267,10 +1270,14 @@ Para agregar un contacto a la lista de favoritos:
   <string name="strequentList">Favoritos</string>
   <string name="success_message_import_from_account">Importación realizada</string>
   <string name="summary_kind_title">Resumen</string>
-  <string name="t9_search_guide_pinyin">"Pulse 7 y 9 para buscar a 'Steve Wozniak'"</string>
-  <string name="t9_search_guide_zhuyin">"Pulse 7 y 9 para buscar 'Steve Wozniak'"</string>
-  <string name="take_new_photo">Tomar foto nueva</string>
+  <string name="t9_search_guide_pinyin_title1">Búsqueda rápida de contactos al introducir letras</string>
+  <string name="t9_search_guide_pinyin_title2">Ejemplo, ingrese 2 y 3 para buscar a <font fgcolor="">A</font>lberto <font fgcolor="">F</font>ernández</string>
+  <string name="t9_search_guide_zhuyin_title1">Búsqueda rápida de contactos al introducir letras</string>
+  <string name="t9_search_guide_zhuyin_title2">Ejemplo, ingrese 5 y 6 para buscar a <font fgcolor="">J</font>osé <font fgcolor="">M</font>artinez</string>
+  <string name="take_new_photo">Hacer una nueva foto</string>
   <string name="take_photo">Tomar foto</string>
+  <string name="telecom_fraud_insurance">Telecom fraud insurance</string>
+  <string name="telecom_fraud_insurance_description">Guarantee ten thousand RMB | Xiaomi customize | 9.9 RMB one year</string>
   <string name="titleJoinContactDataWith">Combinar contactos</string>
   <string name="title_other_devices">Otros dispositivos disponibles</string>
   <string name="title_paired_devices">Dispositivos emparejados</string>
@@ -1336,12 +1343,12 @@ Elija una de las siguientes opciones: "</string>
   <string name="voicemail_status_configure_voicemail">Configurar tu correo de voz.</string>
   <string name="voicemail_status_messages_waiting">No se puede conectar al servidor de correo de voz. Se esperan nuevos mensajes.</string>
   <string name="voicemail_status_voicemail_not_available">No se puede conectar al servidor de correo de voz.</string>
-  <string name="voip_contact_label">Mi Voice</string>
-  <string name="voip_contacts_entry">Mi Voice</string>
+  <string name="voip_contact_label">Voz Mi</string>
+  <string name="voip_contacts_entry">Voz Mi</string>
   <string name="voip_loading_contact">Un momento…</string>
-  <string name="voip_name">Mi Voice</string>
-  <string name="voip_recommend_msg">Tocar para usar Mi Voice</string>
-  <string name="voip_shortcut_name">Mi Voice</string>
+  <string name="voip_name">Voz Mi</string>
+  <string name="voip_recommend_msg">Tocar para usar Voz Mi</string>
+  <string name="voip_shortcut_name">Voz Mi</string>
   <string name="websiteLabelsGroup">Página web</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Borrar datos</string>

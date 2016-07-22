@@ -6,8 +6,10 @@
 Los mensajes sólo aparecerán en el Segundo espacio."</string>
   <string name="PrivacyContactDes2">"Si usa los mensajes privados en el Primer espacio,
 esta característica se añadirá al Segundo espacio de forma automática."</string>
-  <string name="appData">"Aplicaciones instaladas"</string>
-  <string name="app_name">Security Core Component</string>
+  <string name="add_finger_print">Añadir huella digital</string>
+  <string name="appData">Aplicaciones instaladas</string>
+  <string name="app_name">Security Core</string>
+  <string name="back">Atrás</string>
   <string name="cancelClosePassword">"No apagar"</string>
   <string name="cancel_button">"Cancelar"</string>
   <string name="changePassword">"Cambiar contraseña"</string>
@@ -27,7 +29,7 @@ esta característica se añadirá al Segundo espacio de forma automática."</str
   <string name="complete_setting_title">"¡Listo!"</string>
   <string name="confirm">"De acuerdo"</string>
   <string name="confirmClose">"Apagar"</string>
-  <string name="confirmCloseSpaceDes">"Usted no será capaz de entrar en el Espacio segundo después de eliminarlo. Todos los datos serán movidos o eliminados."</string>
+  <string name="confirmCloseSpaceDes">"Usted no será capaz de entrar en el Segundo Espacio después de eliminarlo. Todos los datos serán movidos o eliminados."</string>
   <string name="confirmDelete">"Eliminar"</string>
   <string name="confirmSecondSpacePassword">"Confirmar la contraseña del Segundo espacio"</string>
   <string name="confirm_main_space_password">"Confirmar la contraseña del Primer espacio"</string>
@@ -48,6 +50,9 @@ para poder verlos en cualquier momento"</string>
   <string name="deleteAll">"Eliminar todo"</string>
   <string name="deleteDataConfirm">"Se eliminarán todos los elementos"</string>
   <string name="deleteDataDes">"No ha seleccionado artículos para mover. No será capaz de restaurar los elementos después de que se eliminen."</string>
+  <string name="delete_fingerprint">Borrar la huella digital</string>
+  <string name="delete_fingerprint_desc">La huella registrada del Segundo espacio  será eliminada junto con la contraseña</string>
+  <string name="delete_phone_fingerprint">Eliminar huella del Segundo espacio</string>
   <string name="delete_src_file">"Eliminar archivos"</string>
   <string name="delete_src_photo">"Eliminar fotos"</string>
   <string name="dir_switch_out_all_photos">"Galería del Segundo espacio"</string>
@@ -67,10 +72,11 @@ para poder verlos en cualquier momento"</string>
   <string name="err_unknown">"Error desconocido"</string>
   <string name="err_volume_not_enough">"No hay suficiente espacio de almacenamiento"</string>
   <string name="exit_private_space">"Cambiar"</string>
-  <string name="fileCount">Файлів: %1$d</string>
-  <string name="first_space_notification_format">Alertas para el primer usuario: %d</string>
-  <string name="goToSecondSpacce">"Ir al Segundo espacio"</string>
-  <string name="go_on_import">"Mantener la importación"</string>
+  <string name="finger_print_num">Huella dactilar %d</string>
+  <string name="finger_print_of_use">Uso de huellas digitales</string>
+  <string name="fingerprint_removal_failed">"No se pudo borrar la huella digital"</string>
+  <string name="goToSecondSpacce">Ir al Segundo espacio</string>
+  <string name="go_on_import">Mantener la importación</string>
   <string name="guide_contact_sub_title_desc">"Los contactos añadidos al Segundo espacio se mantendrán privados.
 Los mensajes sólo aparecerán en el Segundo espacio."</string>
   <string name="guide_contact_suc_sub_title_desc">"Sólo se mostrarán los contactos privados y los mensajes en el Segundo espacio"</string>
@@ -96,19 +102,24 @@ También puede importarlas por separado."</string>
   <string name="loading_apps">"Cargando aplicaciones…"</string>
   <string name="loading_space">"Un segundo…"</string>
   <string name="loading_success">"Cargado correctamente"</string>
+  <string name="lock_screen_open_second_space">Ingresar al Segundo espacio desde la Pantalla de bloqueo</string>
   <string name="messageData">"Mensajes"</string>
   <string name="msg_switch_file">"¿Eliminar estos archivos del Primer espacio después de haberlos movidos?"</string>
   <string name="msg_switch_photo">"¿Eliminar estas fotos del Primer espacio después de haberlos movidos?"</string>
   <string name="needSetKeyguardFirst">"Establecer contraseña del Primer espacio"</string>
   <string name="needSetKeyguardFirstDes">"Establezca una contraseña al Primer espacio antes que la contraseña del Segundo espacio"</string>
-  <string name="newSecondSpace">"Activar Espacio segundo"</string>
+  <string name="need_set_second_space_desc">Añadir contraseña al Segundo espacio antes de registrar una huella dactilar al Segundo espacio</string>
+  <string name="need_set_second_space_pwd_first">Establezca la contraseña del Segundo espacio primero</string>
+  <string name="newSecondSpace">"Activar Segundo Espacio"</string>
   <string name="next_setp">"Siguiente"</string>
+  <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">"Espacio primero"</string>
   <string name="not_support_multiple_users">"Múltiples espacios no están soportados aún"</string>
   <string name="notificationSetPassword">"Establecer contraseña"</string>
-  <string name="notificationSetPasswordDes">"Proteger los datos des Segundo espacio"</string>
+  <string name="notificationSetPasswordDes">"Proteger los datos del Segundo espacio"</string>
   <string name="notificationSummary">"Cambiar entre los espacios del Panel de notificaciones"</string>
   <string name="notificationTitle">"Acceso directo dentro del panel de notificaciones"</string>
+  <string name="notification_recommend_title">Las 12 mejores aplicaciones del Espacio segundo</string>
   <string name="notification_setting_second_space">"Configurar Segundo espacio"</string>
   <string name="notification_setting_second_space_desc">"Añadir contraseña al Segundo espacio y mover los datos"</string>
   <string name="ok_button">"De acuerdo"</string>
@@ -118,6 +129,8 @@ También puede importarlas por separado."</string>
   <string name="otherSettings">"Otros ajustes"</string>
   <string name="passWordGuardSummary">"Ingresar al Segundo espacio desde la Pantalla de bloqueo mediante una contraseña"</string>
   <string name="passwordProtect">"Contraseña"</string>
+  <string name="please_diff_finger_print">Asegúrese de establecer huellas diferentes para cada espacio.
+De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de bloqueo.</string>
   <string name="privacyContactsSummary">"Mostrar elementos privados en el Segundo espacio"</string>
   <string name="privacyContactsTitle">"Mensajes privados y contactos"</string>
   <string name="private_sms_show_sub_title">"Los mensajes serán compartidos entre los dos espacios"</string>
@@ -127,13 +140,25 @@ También puede importarlas por separado."</string>
   <string name="removeSuccess">"Eliminado correctamente"</string>
   <string name="remove_second_space_msg">Todos los datos de las aplicaciones en el segundo espacio se perderán después de eliminar segundo espacio. ¿Eliminar segundo espacio ahora?</string>
   <string name="removingSpace">"Eliminando…"</string>
+  <string name="repeat_scanner_fingerprint">Añadir nuevo</string>
   <string name="restore_normal_show">"No mostrar mensajes privados"</string>
   <string name="restore_show_desc">"No mostrar mensajes privados en el Segundo espacio. Seguirán estando disponibles en el Primer espacio."</string>
   <string name="restore_show_toast">"No mostrar mensajes privados"</string>
   <string name="retain_src_file">"Mantener los archivos"</string>
   <string name="retain_src_photo">"Mantener las fotos"</string>
-  <string name="secondSpace">"Segundo espacio"</string>
-  <string name="second_space_notification_format">Сповіщень для другого користувача: %d</string>
+  <string name="scanner_fingerprint">Escaneando la huella digital…</string>  
+  <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint  
+to enter Second space from Lock screen"</string>  
+  <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint"</string>
+  <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
+  <string name="scanner_fingerprint_tips_desc">Seleccione la huella existente para entrar al Segundo espacio. No podrá usarla en el Primer espacio.</string>
+  <string name="scanner_fingerprint_tips_title">Ingresar al Segundo espacio usando una huella existente</string>
+  <string name="scanner_second_space_fingerprint">Escanee la huella del Segundo espacio</string>
+  <string name="secondSpace">Segundo espacio</string>
+  <string name="second_owner_finger_print">Huella del Segundo espacio</string>
+  <string name="second_space_finger_printf_desc">Añadir huella exclusivamente para entrar al Segundo espacio</string>
+  <string name="second_space_finger_printf_title">Huella del Segundo espacio</string>
+  <string name="select_existed_fingerprint">Seleccione la huella digital</string>
   <string name="serNameSummary">"Segundo espacio"</string>
   <string name="setSecondSpacePassword">"Establecer la contraseña del Segundo espacio"</string>
   <string name="setSecondSpacePasswordGuide">"Establecer la contraseña del Segundo espacio"</string>
@@ -142,6 +167,9 @@ También puede importarlas por separado."</string>
   <string name="setSuccess">"Contraseñas establecidas correctamente"</string>
   <string name="set_space_pwd_detail">"Puede acceder al Segundo espacio usando la contraseña"</string>
   <string name="set_space_pwd_suc">"Añadida contraseña del Segundo espacio"</string>
+  <string name="setting_finger_print_sub_title">Asegúrese que la huella sea muy distinta a la del Primer espacio</string>
+  <string name="setting_finger_print_title">Añadir huellas digitales del Segundo espacio</string>
+  <string name="setting_fingerprint_title">Añadir contraseña del Segundo espacio</string>
   <string name="setting_is_show_text_contacts">"Establecer los contactos privados y los mensajes"</string>
   <string name="settings_cross_notification_summary">"Recibir notificaciones del otro espacio"</string>
   <string name="settings_cross_notification_title">"Notificaciones"</string>
@@ -160,8 +188,13 @@ También puede importarlas por separado."</string>
   <string name="spaceSetting">"Ajustes"</string>
   <string name="startSet">"Configurar"</string>
   <string name="startTransfer">"Transferir"</string>
+  <string name="start_input_finger_print">Añadir huella digital</string>
+  <string name="start_new_fingerprint">Agregar una nueva huella digital</string>
+  <string name="start_new_fingerprint_tips">"Utilice la huella del Segundo espacio para entrar
+al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="start_setting_guide_desc_title">"Hay algunas cosas por establecer"</string>
   <string name="summary_switch_apps_settings">"Seleccione las aplicaciones que se utilizan en el Segundo espacio"</string>
+  <string name="sure_to_use">Confirmar</string>
   <string name="switchDataSummary">"Mover elementos entre los espacios"</string>
   <string name="switch_apps_settings">"Ajustes de la aplicación"</string>
   <string name="switch_data_app">"Mover elementos al Segundo espacio"</string>
@@ -200,12 +233,13 @@ También puede importarlas por separado."</string>
   <string name="transferMessage">"Los mensajes del Segundo espacio se trasladarán al Primer espacio"</string>
   <string name="tryNow">"Probar ahora"</string>
   <string name="wating">"Un segundo…"</string>
-  <string name="xspace_chocie">"Otras aplicaciones"</string>
-  <string name="xspace_creating">"Clonando aplicaciones…"</string>
+  <string name="xspace_chocie">Soporte de doble aplicación</string>
+  <string name="xspace_creating">Creando doble aplicación…</string>
   <string name="xspace_description">Crear aplicaciones dobles para usarlas por separado. aplicaciones dobles tendrán iconos específicos en la pantalla de inicio."</string>
   <string name="xspace_header">Aplicaciones dobles</string>
   <string name="xspace_install_completed">"Icono añadido a la Pantalla de inicio"</string>
   <string name="xspace_installing">"Instalando…"</string>
+  <string name="xspace_install_failed">"No se pudo crear"</string>
   <string name="xspace_introduce">"Recomendado"</string>
   <string name="xspace_label">Aplicaciones dobles</string>
   <string name="xspace_loading_msg">"Cargando aplicaciones…"</string>

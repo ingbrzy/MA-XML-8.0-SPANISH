@@ -42,7 +42,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="activity_title_root_acquired">Permitir el acceso root</string>
   <string name="activity_title_root_manager">Acceso root</string>
   <string name="activity_title_root_note">Permitir el acceso root</string>
-  <string name="activity_title_safepay">Seguridad de pagos</string>
+  <string name="activity_title_safepay">Seguridad en los pagos</string>
   <string name="activity_title_settings">Ajustes</string>
   <string name="activity_title_system">Sistema</string>
   <string name="activity_title_trash">Caché</string>
@@ -220,10 +220,11 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="cancal_to_setting_fingerprint">Cancelar</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
-  <string name="chat_number">10 horas</string>
-  <string name="chat_uint">" horas"</string>
+  <string name="charging_text_battery_full_time">Última carga</string>
+  <string name="charging_text_battery_nearly_full">Casi cargada</string>
+  <string name="charging_text_battery_perfect">Completamente cargada</string>
+  <string name="charging_text_time_calculating">Calculando tiempo de carga…</string>
   <string name="check_network_state">Comprobar la red</string>
-  <string name="checkout_traffic_saving_history">Ver historial</string>
   <string name="choose">Elegir</string>
   <string name="cmcc_app_check_dialog_message">Reinicia el dispositivo para completar la reparación.</string>
   <string name="cmcc_app_check_dialog_negative">Más tarde</string>
@@ -247,7 +248,6 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="current_network_state_not_need_diagnose">La conexión a internet es normal.</string>
   <string name="daily_limit_and_lock_screen">Límite de datos y notificaciones</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
-  <string name="daily_limit_network_available_body_open_traffic_saving">Toque para activar los datos móviles.</string>
   <string name="daily_limit_over_message">Ha superado el límite diario de datos.</string>
   <string name="daily_pkg_traffic">Límite de datos pico</string>
   <string name="data_network_blocked_notification_title">Sin conexión a internet</string>
@@ -393,8 +393,8 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
   <string name="force_stop_dlg_text">Si restringe los datos usados en segundo plano, algunas aplicaciones y servicios no funcionarán correctamente a menos que esté conectado a una red Wi-Fi.</string>
   <string name="force_stop_dlg_title">Restringir datos en segundo plano</string>
   <string name="foreground_traffic">Primer plano %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;Contrase&amp;#241;a olvidada&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;&amp;#191;Contrase&amp;#241;a olvidada?&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
+  <string name="forget_pattern"><u>¿Olvidó el patrón de desbloqueo?</u></string>
   <string name="free_time_traffic">Límite de datos fuera de hora punta</string>
   <string name="free_time_traffic_hint">Ingrese el límite de datos fuera de pico</string>
   <string name="free_time_traffic_settings">Límite de datos fuera de pico</string>
@@ -460,7 +460,7 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
   <string name="hints_virus_scan_result_descx">Esta app supone un gran riesgo para la seguridad de tu teléfono.</string>
   <string name="history_details_title">Historial de detalles</string>
   <string name="info_and_call">Llamadas y mensajes</string>
-  <string name="input_aviable_traffic">Establecer el límite de uso de datos</string>
+  <string name="input_aviable_traffic">Establecer límite de uso de datos</string>
   <string name="input_traffic_pkg">Establecer el uso de datos</string>
   <string name="input_used_hint">Introduzca el uso de datos</string>
   <string name="input_used_max_hint">Introducir el uso de datos (menor a %s)</string>
@@ -541,7 +541,7 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
   <string name="main_button_usage_adjust">Sincronizar uso de datos móviles</string>
   <string name="main_button_usage_adjust_manual">Establecer límite de uso de datos</string>
   <string name="main_button_usage_adjusting">Cambiando…</string>
-  <string name="main_button_usage_package_setting">Establecer el límite de uso de datos</string>
+  <string name="main_button_usage_package_setting">Establecer límite de uso de datos</string>
   <string name="main_message_no_package_by_dual">Establecer límite de datos para %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Uso de datos por debajo del Pico</string>
   <string name="main_primary_message_traffic_cur_normal">Por debajo del límite de datos pico</string>
@@ -551,7 +551,7 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
   <string name="main_primary_message_traffic_overlimit">Se superó el limite de datos</string>
   <string name="main_primary_message_traffic_overlimit_purchase">Necesita recargar</string>
   <string name="main_primary_message_traffic_purchase">Necesita recargar</string>
-  <string name="main_primary_message_traffic_warning">Aproximándose al límite de uso de datos</string>
+  <string name="main_primary_message_traffic_warning">Aproximándose al límite de datos</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
 Bajo pico: %1$s | %2$s usado"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
@@ -566,7 +566,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
   <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
   <string name="main_toolbar_purchase">Recarga</string>
-  <string name="main_toolbar_saving">Economizador de datos</string>
   <string name="main_toolbar_statistic">Estadísticas del uso de datos</string>
   <string name="main_traffic_overlimit_text">por encima del límite</string>
   <string name="main_traffic_remian_text">restante</string>
@@ -698,9 +697,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s usado %2$s esta semana</string>
   <string name="ok">Aceptar</string>
   <string name="ok_button">Aceptar</string>
-  <string name="online_chat">Mensajes</string>
-  <string name="online_read">Noticias</string>
-  <string name="online_songs">Música</string>
   <string name="open_now">Permitir que la aplicación use datos móviles</string>
   <string name="operator_diagnostic">Diagnósticos de la compañía operadora</string>
   <string name="operator_name_cmcc">China Mobile</string>
@@ -737,7 +733,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="permission_with_call_and_contact">Permisos relacionados con llamadas de teléfono, información de contacto e historial de llamadas.</string>
   <string name="permit_running_network">Datos en segundo plano</string>
   <string name="person_hotpot">Zonas Wi-Fi móviles</string>
-  <string name="pkg_traffic">Establecer el límite de uso de datos</string>
+  <string name="pkg_traffic">Establecer límite de uso de datos</string>
   <string name="pm_auto_start_by_other">Inicio automático</string>
   <string name="pm_auto_start_by_other_app">Permitir que las aplicaciones sean iniciadas por otras aplicaciones</string>
   <string name="pm_auto_start_by_system">Iniciar aplicaciones</string>
@@ -964,7 +960,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="pref_daily_traffic">Límite de datos pico</string>
   <string name="pref_data_usage_ignore_settings">Ignorar el uso de datos</string>
   <string name="pref_data_usage_ignore_settings_summary">No llevar la cuenta de datos de determinadas aplicaciones</string>
-  <string name="pref_data_usage_not_set">Establecer el límite de uso de datos</string>
+  <string name="pref_data_usage_not_set">Establecer límite de uso de datos</string>
   <string name="pref_free_adjust">Establecer límite de datos fuera de pico</string>
   <string name="pref_free_traffic_exceed_limit">Notificarme cuando el uso de datos alcanza el límite</string>
   <string name="pref_free_traffic_limit_warn">Aviso de uso de datos fuera de hora punta</string>
@@ -977,7 +973,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="pref_month_begin_date">Fecha de reinicio de uso</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Ajustes avanzados</string>
-  <string name="pref_new_installed_preconfig_title">Nuevos ajustes predeterminados de las aplicaciones</string>
+  <string name="pref_new_installed_preconfig_title">Pre-configuración de aplicaciones</string>
   <string name="pref_open_adjust_traffic">Actualice el uso de datos todos los días usando las estadísticas de su compañía</string>
   <string name="pref_package_traffic_leisure">%1$s | Fuera de pico: %2$s</string>
   <string name="pref_package_traffic_normal">Pico: %s</string>
@@ -1003,20 +999,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="pref_title_traffic_limit_number">Tamaño</string>
   <string name="pref_title_traffic_speed_state">Mostrar velocidad de la red</string>
   <string name="pref_title_update_notification">Notificación de uso de datos</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Permitir excepciones seleccionadas</string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Añadir automáticamente aplicaciones con capacidad de ahorro de datos para excepciones</string>
-  <string name="pref_traffic_saving_compressed">Comprimido</string>
-  <string name="pref_traffic_saving_issue">Preguntas frecuentes</string>
-  <string name="pref_traffic_saving_issue_content">&lt;b&gt; 1. ¿Activar el Ahorro de datos afectará a mi privacidad? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Sus datos permanecerán privados y no serán compartidos con terceros. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. ¿Por qué no funciona el Ahorro de datos? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Ahorro de datos sólo funciona cuando se utiliza la red de su operador para enviar o descargar contenidos.</string>
-  <string name="pref_traffic_saving_no_compress">Sin comprimir</string>
-  <string name="pref_traffic_saving_notify_switch">Mostrar en el panel de notificaciones</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Mostrar las estadísticas de uso de datos en el panel de notificaciones</string>
-  <string name="pref_traffic_saving_pic_compress_level">Compresión</string>
-  <string name="pref_traffic_saving_switch">Reducir el consumo de datos</string>
-  <string name="pref_traffic_saving_switch_hint">Usar proxy para comprimir los datos</string>
-  <string name="pref_traffic_saving_title">Ajustes del economizador de datos</string>
-  <string name="pref_traffic_saving_whitelist">Excepciones</string>
-  <string name="pref_traffic_saving_whitelist_hint">Sin limite de uso de datos para las aplicaciones seleccionadas</string>
   <string name="pref_version">Versión %s</string>
   <string name="pref_warning_values">Nivel de advertencia del uso de datos</string>
   <string name="pref_whitelist_setting">Excepciones en el roaming de datos</string>
@@ -1089,10 +1071,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="quick_optimize_no_issue_title">No se encontraron asuntos con la batería</string>
   <string name="quick_optimize_sub_summary_text">Añadido %s de duración a la bateria</string>
   <string name="reach_daily_limit_value_body">Reducir el uso de datos móviles.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Pulse para activar el Ahorro de datos.</string>
   <string name="reach_daily_limit_value_title">Límite diario de datos alcanzada</string>
-  <string name="read_number">86 elementos</string>
-  <string name="read_unit">" elementos"</string>
   <string name="recently_reject_message">Instalación de %1$s y %2$d otras aplicaciones rechazadas</string>
   <string name="recently_reject_message_one">%1$s solicitudes de instalación rechazadas</string>
   <string name="recommend_app">Aplicaciones recomendadas</string>
@@ -1105,7 +1084,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="replace_dns">Reemplazar DNS automáticamente</string>
   <string name="resource_antispam">Lista de bloqueo</string>
   <string name="resource_antivirus">Búsqueda de virus</string>
-  <string name="resource_applicationlock">Bloqueo de aplicaciones</string>
   <string name="resource_cleanmaster">Limpiador</string>
   <string name="resource_monthreport">Reporte de seguridad</string>
   <string name="resource_networkassistant_1">Uso de datos</string>
@@ -1116,7 +1094,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="resource_powercenter">Uso de la batería</string>
   <string name="resource_securitycenter">Seguridad</string>
   <string name="resource_securitycenter_settings">Seguridad</string>
-  <string name="restrictbackground_conflict_saving_msg">No se puede usar el ahorro de datos cuando los datos en segundo plano están restringidos. ¿Desea desactivar el ahorro de datos y restringir los datos en segundo plano?</string>
   <string name="result_autoscan_header">Monitoreo de pago</string>
   <string name="result_autoscan_info">Monitorear automáticamente el entorno del sistema cuando se inician las aplicaciones de pago</string>
   <string name="result_sign_header">Se ha encontrado %d aplicaciones no oficiales</string>
@@ -1169,10 +1146,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="safepay_alert_dialog_button_continue">Continuar</string>
   <string name="safepay_alert_dialog_button_risk">Arreglar</string>
   <string name="safepay_alert_dialog_button_unknown">Revisar otra vez</string>
-  <string name="saving_conflict_dialog_cancel">Cancelar</string>
-  <string name="saving_conflict_dialog_ok">Aceptar</string>
-  <string name="saving_conflict_dialog_title">Advertencia</string>
-  <string name="saving_conflict_restrictbackground_msg">No se puede usar el ahorro de datos cuando los datos en segundo plano están restringidos. ¿Desea permitir los datos en segundo plano y activar el ahorro de datos?</string>
   <string name="sc_allow_network_dialog_message">Esta aplicación necesita conectarse a internet para funcionar con normalidad.</string>
   <string name="sc_allow_network_dialog_tiltle">No se puede utilizar esta función</string>
   <string name="scan_status_risk">Peligroso</string>
@@ -1214,8 +1187,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="sim_location_error_notify_message">Toque para cambiar la ubicación SIM.</string>
   <string name="sim_location_error_notify_title">Error de tarjeta SIM</string>
   <string name="sim_state_exception_summary">El estado del SIM indica que algo puede estar mal con su tarjeta SIM.</string>
-  <string name="songs_number">18 canciones</string>
-  <string name="songs_unit">" canciones"</string>
   <string name="sorted_button">Ordenar por</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_back_title_text_zero">Seguro</string>
@@ -1251,7 +1222,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="summary_data_flow">Evitar superar el límite del plan de datos mensual del operador</string>
   <string name="summary_default_app">%s no se ha establecido como una aplicación del sistema por defecto</string>
   <string name="summary_dev">Evitar el malware y proteger los datos personales</string>
-  <string name="summary_find_device">Localizar y bloquear su dispositivo desde cualquier lugar</string>
+  <string name="summary_find_device">Localizar y bloquear el dispositivo desde cualquier lugar</string>
   <string name="summary_flow_notification">Mostrar la estadísticas de uso de datos mensuales en el panel de notificación</string>
   <string name="summary_flow_purchase_beyond">Has excedido el límite del plan de datos mensual de tu operador por %sMB</string>
   <string name="summary_flow_purchase_left">Sólo te quedan %sMB de datos restantes este mes</string>
@@ -1266,7 +1237,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="summary_permission">Evite los pagos no deseados y proteja su información personal</string>
   <string name="summary_permission_root">Tu dispositivo e información personal son más vulnerables a ataques de aplicaciones que tengan acceso root</string>
   <string name="summary_power_optimizer">Reduce el rendimiento de tu dispositivo cuando el nivel de batería esté bajo</string>
-  <string name="summary_saving_switch">Evitar que las aplicaciones usen tu conexión de datos para transferir información</string>
   <string name="summary_show_notification">Enviar controles del Centro de Seguridad al panel de notificación</string>
   <string name="summary_telecom_operator">Obtén las estadísticas de uso de datos mensuales de tu operador</string>
   <string name="summary_usb">Prevenir la transmisión de malware a través de USB</string>
@@ -1287,8 +1257,8 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Marca del operador errónea&lt;br/&gt;&lt;br/&gt;Establecer marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Listo</string>
   <string name="tc_diagnostic_fragment_default">"Acerca de diagnóstico
-1. El dispositivo se conectará a la red del operador, enviar un mensaje sin costo, y esperaresperará la respuesta de la compañía. Esto puede tardar hasta 5 minutos.
-2. Puede salir de esta página durante los diagnósticos, que se llevará a cabo en el fondo."</string>
+1. El dispositivo se conectará a la red del operador, enviar un mensaje sin costo, y esperará la respuesta de la compañía. Esto puede tardar hasta 5 minutos.
+2. Puede salir de esta página durante los diagnósticos, estos se ejecutarán en segundo plano."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar la ubicación</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicación errónea</string>
   <string name="tc_diagnostic_notification_sumarry">Pulse para ver los resultados</string>
@@ -1302,7 +1272,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnosticos completados, problemas de ubicación resueltos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnosticos completados, problemas de ubicación y operador resueltos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Cambiado con éxito</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Result: No se pudo completar el diagnóstico &lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herraminetas de mejoramiento de MIUI&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultado: No se pudo completar el diagnóstico &lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herraminetas de mejoramiento de MIUI&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Ubicación erronea&lt;br/&gt;&lt;br/&gt;Establecer ubicación: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Ubicación actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Red del operador no encontrada</string>
   <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
@@ -1368,15 +1338,15 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="title_cleaner_cloudscan">Subir nombres de carpetas</string>
   <string name="title_cloud_account">Cuenta Mi</string>
   <string name="title_cloud_service">Mi Cloud</string>
-  <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi completo, los elementos pueden no sincronizarse</string>
-  <string name="title_cloud_space_full">Almacenamiento en la nube lleno, no puede sincronizar fotos</string>
+  <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi al máximo, los elementos podrían no sincronizarse</string>
+  <string name="title_cloud_space_full">Almacenamiento en la nube al máximo, no se pudo sincronizar los elementos</string>
   <string name="title_cmcc_app_check">Verificación incompleta</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
   <string name="title_default_app">MIUI %s no se establece como predeterminado</string>
   <string name="title_dev_no">Opciones de desarrollador activadas</string>
   <string name="title_dev_yes">Opciones de desarrollador desactivadas</string>
-  <string name="title_find_device">Activar la Encontrar Dispositivo</string>
-  <string name="title_flow_notification">Informe de uso de datos</string>
+  <string name="title_find_device">Activar Encontrar Dispositivo</string>
+  <string name="title_flow_notification">Notificación de datos móviles</string>
   <string name="title_flow_purchase">Hora de recargar</string>
   <string name="title_flow_verify">Comparar contabilidad</string>
   <string name="title_garbage_lib">Actualizaciones automáticas</string>
@@ -1392,7 +1362,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="title_permission_root">Advertencia de acceso root</string>
   <string name="title_permission_yes">El administrador de permisos está activado</string>
   <string name="title_power_optimizer">Ahorro de batería</string>
-  <string name="title_saving_switch">Ahorro de datos</string>
   <string name="title_show_notification">Controles del panel de notificación</string>
   <string name="title_telecom_operator">Usar contabilidad del operador</string>
   <string name="title_usb_no">Depuración USB activada</string>
@@ -1461,55 +1430,6 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="traffic_protection_use_data">Datos móviles</string>
   <string name="traffic_purchase_body">Pulse para recargar su saldo.</string>
   <string name="traffic_purchse_suggestion">Comprar datos móviles</string>
-  <string name="traffic_saving_button_mng">Gestionar aplicaciones</string>
-  <string name="traffic_saving_button_sorted">Detalles</string>
-  <string name="traffic_saving_button_sorted_chose_simcard">Ordenado por</string>
-  <string name="traffic_saving_button_start">Activar</string>
-  <string name="traffic_saving_button_stop">Desactivar</string>
-  <string name="traffic_saving_can_optimized">Optimizar</string>
-  <string name="traffic_saving_detail">Detalles</string>
-  <string name="traffic_saving_history_title">Historial</string>
-  <string name="traffic_saving_history_total_money">Ahorro total</string>
-  <string name="traffic_saving_history_total_money_unit">RMB</string>
-  <string name="traffic_saving_history_total_month">"Ahorrado este mes: "</string>
-  <string name="traffic_saving_history_total_month_default">Promedio de ahorros mensuales</string>
-  <string name="traffic_saving_history_total_rate">Tarifa</string>
-  <string name="traffic_saving_history_total_rate_unit">%</string>
-  <string name="traffic_saving_history_total_traffic">Datos ahorrados</string>
-  <string name="traffic_saving_mobile_usage">Ahorro de datos</string>
-  <string name="traffic_saving_msg_month">Ahorrado este mes</string>
-  <string name="traffic_saving_msg_not_started">El ahorro de datos está desactivado</string>
-  <string name="traffic_saving_msg_today">Ahorrados hoy</string>
-  <string name="traffic_saving_need_optimize">Puede ser optimizado</string>
-  <string name="traffic_saving_notification_button_start">Activar</string>
-  <string name="traffic_saving_notify_no_apps_saving">Reducir uso de datos</string>
-  <string name="traffic_saving_notify_no_apps_saving_content">Pulse para activar el Ahorro de datos.</string>
-  <string name="traffic_saving_notify_start_content">%s ahorrados este mes.</string>
-  <string name="traffic_saving_notify_start_title">Uso de datos reducido</string>
-  <string name="traffic_saving_one_key_optimize">Optimizar para guardar los datos</string>
-  <string name="traffic_saving_optimized">Ya optimizado</string>
-  <string name="traffic_saving_pic_compress_orig">Original</string>
-  <string name="traffic_saving_ratio">El uso de datos fue reducido %.2f%%</string>
-  <string name="traffic_saving_ratio_low">No se puede reducir significativamente el uso de datos</string>
-  <string name="traffic_saving_recommanded_close">Desactivar</string>
-  <string name="traffic_saving_recommanded_open">Activar</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activar automáticamente ahorro de datos para reducir el uso de datos móviles de las aplicaciones'.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Si usted tiene un plan de datos mensual, recuerde apagar el ahorro de datos para aplicaciones individuales para evitar cargos adicionales de su compañía.&lt;/font&gt;"</string>
-  <string name="traffic_saving_start_tip_title">Activar</string>
-  <string name="traffic_saving_tecsupport">Desarrollado por Opera</string>
-  <string name="traffic_saving_tecsupport_international">Desarrollado por Opera Max</string>
-  <string name="traffic_saving_title">Ahorro de datos</string>
-  <string name="traffic_saving_toast_start_mobile">Ahorro de datos activado</string>
-  <string name="traffic_saving_toast_start_none_mobile">El ahorro de datos se activará cada vez que utilice los datos móviles</string>
-  <string name="traffic_saving_toast_start_unreachable">No se puede iniciar el Ahorro de datos</string>
-  <string name="traffic_saving_toast_stop">El ahorro de datos está desactivado</string>
-  <string name="traffic_saving_whitelist_btn_add">Añadir</string>
-  <string name="traffic_saving_whitelist_btn_add_app">Añadir</string>
-  <string name="traffic_saving_whitelist_btn_added">Añadido</string>
-  <string name="traffic_saving_whitelist_btn_remove">Eliminar</string>
-  <string name="traffic_saving_whitelist_btn_removed">Aplicación eliminada de la lista</string>
-  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; el uso de datos de las aplicaciones no ha sido restringido"</string>
-  <string name="traffic_saving_whitelist_no_app">Sin aplicaciones</string>
-  <string name="traffic_saving_wifi_usage">Economizador de Wi-Fi</string>
   <string name="traffic_setting_app_count">%d aplicación(es)</string>
   <string name="traffic_setting_completed">Aceptar</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Ajustar plan de datos y límites de uso</string>
@@ -1572,28 +1492,4 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="wifi_item_title_encryption">Red WI-FI cifrada</string>
   <string name="wifi_item_title_fake">Detectar WI-FI falsa</string>
   <string name="wifi_network_blocked_notification_title">Sin conexión a internet</string>
-  <string name="xiaomi_traffic_pass_btn_purchase">Comprar más</string>
-  <string name="xiaomi_traffic_pass_dialog_warning_title">Mi plan de notificación de datos</string>
-  <string name="xiaomi_traffic_pass_exhausted">No hay datos móviles disponibles en su plan. Cambiar con su operadora móvil su plan de datos.</string>
-  <string name="xiaomi_traffic_pass_expiry_date">activo hasta %s</string>
-  <string name="xiaomi_traffic_pass_in_use">Utilizando</string>
-  <string name="xiaomi_traffic_pass_not_current_simcard">Cambiar las tarjetas de datos móviles para usar mi plan de datos. cambiar ahora?</string>
-  <string name="xiaomi_traffic_pass_not_support">Su operador de telefonía móvil aún no tiene compatibilidad con esta función</string>
-  <string name="xiaomi_traffic_pass_notify_content_using">Restante %s</string>
-  <string name="xiaomi_traffic_pass_notify_title_using">Uso de Mi plan de datos</string>
-  <string name="xiaomi_traffic_pass_pass_activate_msg">Plan de Datos Mi establecido. ¿Encender?</string>
-  <string name="xiaomi_traffic_pass_passes_empty">No hay datos disponibles, compra datos primero</string>
-  <string name="xiaomi_traffic_pass_purchase">Compra datos</string>
-  <string name="xiaomi_traffic_pass_remain">Restante %s</string>
-  <string name="xiaomi_traffic_pass_service_down">No se pudo conectar con el servidor, cambiado al plan de datos de su proveedor</string>
-  <string name="xiaomi_traffic_pass_service_up">Conectado al servidor, se cambió al Plan de datos Mi</string>
-  <string name="xiaomi_traffic_pass_start_failed_service_down">No se pudo activar el plan Datos Mi</string>
-  <string name="xiaomi_traffic_pass_title">Plan de datos Mi</string>
-  <string name="xiaomi_traffic_pass_toast_start">Plan Datos Mi activado</string>
-  <string name="xiaomi_traffic_pass_toast_stop">Plan Datos Mi desactivado</string>
-  <string name="xiaomi_traffic_pass_type_general">Datos ilimitados</string>
-  <string name="xiaomi_traffic_pass_type_other">Datos limitados</string>
-  <string name="xiaomi_traffic_pass_used">Usado %s de mis datos</string>
-  <string name="xiaomi_traffic_pass_warning">No hay datos móviles disponibles en su plan de Datos Mi</string>
-  <string name="xiaomi_traffic_return">Atrás</string>
 </resources>

@@ -1,58 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="auto_clean_size">
+    <string-array name="auto_clean_size">
         <item>100MB</item>
         <item>300MB</item>
         <item>500MB</item>
         <item>1GB</item>
-     </string-array>
-     <string-array name="auto_clean_time">
+    </string-array>
+    <string-array name="auto_clean_time">
         <item>Todos los días</item>
         <item>Cada 3 días</item>
         <item>Cada 7 días</item>
-     </string-array>
-     <string-array name="auto_process_mode">
-		<item>Mostrar</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+	<item>Mostrar</item>
         <item>No mostrar</item>
         <item>Mostrar después</item>
-     </string-array>
-	 <string-array name="cache_clean_menu">
+    </string-array>
+    <string-array name="cache_clean_menu">
         <item>Limpiar este fichero</item>
         <item>Ver localización del fichero</item>
-		<item>Añadir fichero a excepciones</item>
-        <item>Añadir aplicación a excepciones</item>
     </string-array>
-	<string-array name="trash_clean_menu">
-		<item>Limpiar este fichero</item>
+    <string-array name="trash_clean_menu">
+	<item>Limpiar este fichero</item>
         <item>Ver localización del fichero</item>
-		<item>Añadir fichero a excepciones</item>
-        <item>Añadir aplicación a excepciones</item>
-     </string-array>		   
-	<string-array name="empty_floder_clean_menu">
+    </string-array>
+    <string-array name="video_clean_menu"> 
+        <item>Limpiar este fichero</item> 
+        <item>Abrir</item> 
+    </string-array> 
+    <string-array name="empty_floder_clean_menu">
         <item>Limpiar</item>
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Limpiar</item>
-        <item>Ver localización del apk</item>
-        <item>Añadir a excepciones</item>
         <item>Instalar este apk</item>
+        <item>Ver localización del apk</item>
     </string-array>
+    <string-array name="long_add_menu"> 
+        <item>Añadir a excepciones</item> 
+    </string-array> 
+    <string-array name="long_add_app_menu"> 
+        <item>Añadir a excepciones</item> 
+    </string-array> 
     <string-array name="app_clean_menu">
         <item>Desinstalar</item>
     </string-array>
-     <string-array name="cache_sort_type">
+    <string-array name="cache_sort_type">
         <item>Tamaño</item>
         <item>Nombre</item>
-     </string-array>
-     <string-array name="installed_app_sort_type">
+    </string-array>
+    <string-array name="installed_app_sort_type">
         <item>Frecuencia de uso</item>
         <item>Tamaño</item>
-     </string-array>
-     <string-array name="large_file_sort_type">
+    </string-array>
+    <string-array name="large_file_sort_type">
         <item>Tamaño</item>
         <item>Nombre</item>
-     </string-array>
-	 <string-array name="auto_alert_apps_time">
+    </string-array>
+    <string-array name="auto_alert_apps_time">
         <item>Cada 7 días</item>
         <item>Cada 15 días</item>
         <item>Cada 30 días</item>

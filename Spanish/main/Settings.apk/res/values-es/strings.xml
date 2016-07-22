@@ -49,12 +49,12 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
   <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puedes acercar y alejar la imagen con solo tocar tres veces la pantalla.
 
 A continuación se indican las acciones que puedes hacer con la imagen acercada.
-"&lt;li&gt;&lt;ul&gt;"Desplazar la imagen: arrastra dos o m&amp;#225;s dedos por la pantalla.
-"&lt;li&gt;Modificar el nivel de zoom: une dos o m&amp;#225;s dedos o sep&amp;#225;ralos.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"&lt;li&gt;&lt;ul&gt;"Desplazar la imagen: arrastra dos o más dedos por la pantalla.
+"&lt;li&gt;Modificar el nivel de zoom: une dos o más dedos o sepáralos.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-Tambi&amp;#233;n puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla presionada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
+También puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla presionada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
 
-Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegaci&amp;#243;n."</string>
+Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación."</string>
   <string name="accessibility_screen_magnification_title">Gestos de ampliación</string>
   <string name="accessibility_service_default_description">No se proporcionó ninguna descripción.</string>
   <string name="accessibility_services_title">Servicios</string>
@@ -97,7 +97,6 @@ Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
   <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
   <string name="add_fingerprint_failed_retry_text">No se pudo añadir huella dactilar, vuelva a intentarlo</string>
   <string name="add_fingerprint_finished_button_text">Aceptar</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Para añadir su huella dactilar, coloque el dedo en el sensor y levántelo cuando sienta una vibración.</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear el dispositivo o verificar el pago con su huella.</string>
   <string name="add_fingerprint_instruction_title">Añada su huella</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mueva el dedo ligeramente y colóquelo de nuevo en el censor para añadir las diferentes partes de su huella dactilar.</string>
@@ -198,6 +197,16 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="app_install_location_summary">Cambiar la ubicación de instalación preferida para nuevas aplicaciones</string>
   <string name="app_install_location_title">Ubicación de instalación preferida</string>
   <string name="app_invisible">Aplicaciones invisibles</string>
+  <string name="app_launch_domain_links_title">Enlaces de aplicaciones</string>
+  <string name="app_launch_open_domain_urls_summary">Abrir sin pedir permiso</string>
+  <string name="app_launch_open_domain_urls_title">Abrir enlaces admitidos</string>
+  <string name="app_launch_other_defaults_title">Otros valores predeterminados</string>
+  <string name="app_launch_supported_domain_urls_title">Enlaces admitidos</string>
+  <string name="app_link_open_always">Abrir con esta aplicación</string>
+  <string name="app_link_open_ask">Preguntar cada vez</string>
+  <string name="app_link_open_never">No abra en esta aplicación</string>
+  <string name="app_list_memory_use">Uso de aplicaciones</string>
+  <string name="app_list_preference_none">Ninguna</string>
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">La aplicación no está en la lista de aplicaciones instaladas.</string>
@@ -371,7 +380,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="battery_info_voltage_label">Voltaje de la batería:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Nivel de la batería</string>
-  <string name="battery_light_summary">Encender la luz de notificación mientras se carga el dispositivo</string>
+  <string name="battery_light_summary">Mostrar notificación luminosa mientras se carga el dispositivo</string>
   <string name="battery_light_title">Encender al cargar</string>
   <string name="battery_msg_unaccounted">El uso de la batería es un cálculo aproximado del uso de energía y no incluye todas las fuentes de consumo de batería. El uso variado es la diferencia entre el uso de energía variado computado y el consumo real observado en la batería.</string>
   <string name="battery_saver">Ahorro de batería</string>
@@ -609,10 +618,10 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
   <string name="bootloader_apply_step_5">Asegúrese de saber cómo utilizar el Modo de encendido rápido antes de activarlo.</string>
   <string name="bootloader_apply_title">Aviso importante</string>
   <string name="bootloader_summary">Flash a su dispositivo a través de USB</string>
-  <string name="breathing_light_color_menu_title">Color de la luz</string>
-  <string name="breathing_light_color_summary">Color de luz al recibir una nueva notificación</string>
-  <string name="breathing_light_freq_summary">Parpadear cuando tenga nuevas notificaciones</string>
-  <string name="breathing_light_freq_title">Frecuencia de parpadeo en luz de notificación</string>
+  <string name="breathing_light_color_menu_title">Color del LED</string>
+  <string name="breathing_light_color_summary">Color al recibir una nueva notificación</string>
+  <string name="breathing_light_freq_summary">Parpadear al recibir nuevas notificaciones</string>
+  <string name="breathing_light_freq_title">Frecuencia de parpadeo de notificaciones luminosas</string>
   <string name="brightness">Nivel de brillo</string>
   <string name="brightness_auto_adjust_off">El brillo de la pantalla permanecerá constante.</string>
   <string name="brightness_auto_adjust_on">Optimizar el nivel de brillo de acuerdo a la luz ambiental.</string>
@@ -925,7 +934,7 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="data_usage_restrict_denied_dialog">Solo se pueden restringir los datos en segundo plano si estableciste un límite de datos móviles.</string>
   <string name="data_usage_summary_title">Uso de datos</string>
   <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;l&amp;#237;mite&lt;/font&gt;</string>
+"&lt;font size="12"&gt;límite&lt;/font&gt;</string>
   <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt;&lt;font size="9"&gt;^2&lt;/font&gt;"
 "&lt;font size="12"&gt;advertencia&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2 GB - 3 GB</string>
@@ -973,7 +982,13 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="debug_log">Programa de experiencia de usuario</string>
   <string name="debug_monitoring_category">Monitoreo</string>
   <string name="debug_view_attributes">Habilitar inspección de atributos de vista</string>
+  <string name="default_app">(Defecto)</string>
+  <string name="default_apps_title">Aplicaciones por defecto</string>
+  <string name="default_assist_none">Ninguna</string>
   <string name="default_assist_title">Aplicación de ayuda</string>
+  <string name="default_browser_title">Aplicación del navegador</string>
+  <string name="default_browser_title_none">No hay ningún navegador predeterminado</string>
+  <string name="default_emergency_app">Aplicación de emergencia</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Elige el teclado predeterminado</string>
   <string name="default_sound">Sonido predeterminado</string>
@@ -1319,6 +1334,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fingerprint_identify_msg">Escaneando huella…</string>
   <string name="fingerprint_identify_try_again_msg">No se pudo reconocer la huella dactilar, vuelva a intentarlo</string>
   <string name="fingerprint_list_title">Huella </string>
+  <string name="fingerprint_lock_first">Primer espacio desbloquear</string>
+  <string name="fingerprint_lock_second">Segundo espacio desbloquear</string>
   <string name="fingerprint_removal_failed">No se pudo remover la huella dactilar, vuelva a intentarlo</string>
   <string name="finish_application">Forzar cierre</string>
   <string name="finish_button_label">Finalizar</string>
@@ -1350,8 +1367,12 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="force_stop">Forzar la detención</string>
   <string name="force_stop_dlg_text">Si fuerzas la detención de una aplicación, es posible que funcione incorrectamente.</string>
   <string name="force_stop_dlg_title">¿Deseas forzar la detención?</string>
+  <string name="force_touch">Toque 3D</string>
+  <string name="force_touch_demo">Mostrar demo</string>
+  <string name="force_touch_enable">Habilitar Toque 3D</string>
+  <string name="force_touch_enable_tips">"Presionar el icono de una Aplicación dentro del launcher mostrará al Asistente táctil aún cuando la función Toque 3D esté habilitado.."</string>
   <string name="forget">OLVIDAR</string>
-  <string name="forget_password_button_text">&lt;u&gt;Contrase&amp;#241;a olvidada&lt;/u&gt;</string>
+  <string name="forget_password_button_text">&lt;u&gt;¿Contraseña olvidada?&lt;/u&gt;</string>
   <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
   <string name="found_new_version">Actualización disponible</string>
   <string name="fp_nav_center_back_to_home_title">Pulse el botón Inicio para volver a la pantalla de inicio</string>
@@ -1379,10 +1400,10 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="free_xiaomi_wifi_connect_summary">Pulse para conectar a %1$s.</string>
   <string name="frequently_fragment_delete">Eliminiar</string>
   <string name="frequently_fragment_tempty">Los elementos usados frecuentemente serán enumerados aquí</string>
-  <string name="fullbackup_data_summary">"Automáticamente respalde los datos del dispositivo (como la clave Wi-Fi y el historial de llamadas) y datos de aplicaciones (como las configuraciones y los archivos almacenados por las aplicaciones) de manera remota.
+  <string name="fullbackup_data_summary">"Automáticamente realizar copia de seguridad de los datos del dispositivo (como claves Wi-Fi e historial de llamadas) y datos de aplicaciones (como configuraciones y archivos almacenados por las aplicaciones) de manera remota.
 
-   Cuando active los respaldos automáticos, los datos del dispositivo se guardarán periódicamente de manera remota. Los datos de las aplicaciones pueden ser los datos almacenados por cualquier aplicación (de acuerdo a los ajustes de desarrollo), incluyendo información privada como los contactos, mensajes y fotos."</string>
-  <string name="fullbackup_erase_dialog_message">La acción detendrá el respaldo de los datos del dispositivo (como las claves Wi-Fi y el historial de llamadas) y los datos de las aplicaciones (como las configuraciones propias y los archivos almacenados), además se eliminarán todas las copias guardadas en Google Drive.¿Proseguir?</string>
+   Al activar la copia de seguridad automática, los datos del dispositivo se guardarán periódicamente de manera remota. Los datos de las aplicaciones pueden ser los datos almacenados por cualquier aplicación (de acuerdo a los ajustes de desarrollo), incluyendo información privada como los contactos, mensajes y fotos."</string>
+  <string name="fullbackup_erase_dialog_message">La acción detendrá la copia de seguridad de los datos del dispositivo (como claves Wi-Fi e historial de llamadas) y los datos de las aplicaciones (como configuraciones propias y archivos almacenados por las aplicaciones), además se eliminarán todas las copias guardadas en Google Drive. ¿Continuar?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automático</string>
   <string name="gadget_brightness_state_full">completo</string>
@@ -1408,6 +1429,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="global_change_warning">Esta configuración afecta a todos los usuarios de este dispositivo.</string>
   <string name="global_font_change_title">Cambiar tamaño de fuente</string>
   <string name="global_locale_change_title">Cambiar idioma</string>
+  <string name="google_backup_enable">Activar copia de seguridad</string>
   <string name="google_backup_section_title">Copia de seguridad y restauración de Google</string>
   <string name="google_wallet">Google Wallet</string>
   <string name="gsm_to_wifi_connect_type_title">De GSM a Wi-Fi</string>
@@ -1482,8 +1504,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="inactive_app_inactive_summary">Inactivo. Toca para cambiar.</string>
   <string name="inactive_apps_title">Aplicaciones inactivas</string>
   <string name="include_app_data_title">Incluir datos de aplicación</string>
-  <string name="incoming_call_breathing_light_color_title">Color de llamadas</string>
-  <string name="incoming_call_breathing_light_freq_title">Frecuencia de parpadeo en luz de llamadas</string>
+  <string name="incoming_call_breathing_light_color_title">Color para llamadas</string>
+  <string name="incoming_call_breathing_light_freq_title">Frecuencia de parpadeo en notificación de llamada entrante</string>
   <string name="incoming_call_volume_title">Tono de llamada</string>
   <string name="information_dialog_button_text">Ok</string>
   <string name="input_method">Teclado</string>
@@ -1521,8 +1543,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="internal_format">Borrar el almacenamiento interno</string>
   <string name="internal_format_summary">Borrar todos los datos de la memoria interna del dispositivo</string>
   <string name="internal_media_format_button_text">Borrar el almacenamiento interno</string>
-  <string name="internal_media_format_desc">¿Borrar todo el almacenamiento interno? &lt;b&gt;Todos&lt;/b&gt; sus datos guardados ser&amp;#225;n borrados permanentemente. El tel&amp;#233;fono se reiniciar&amp;#225; despu&amp;#233;s de haber borrado de almacenamiento interno.</string>
-  <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá invertir esta acción! El teléfono se reiniciará después de haber borrado de almacenamiento interno.</string>
+  <string name="internal_media_format_desc">¿Borrar todo el almacenamiento interno? &lt;b&gt;Todos&lt;/b&gt; los datos guardados serán borrados permanentemente. El dispositivo se reiniciará después del borrado del almacenamiento interno.</string>
+  <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá invertir esta acción! El dispositivo se reiniciará después del borrado del almacenamiento interno.</string>
   <string name="internal_media_format_title">Borrar el almacenamiento interno</string>
   <string name="internal_memory">Almacenamiento interno</string>
   <string name="internal_storage">Almacenamiento interno</string>
@@ -1547,10 +1569,10 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="keyboard_layout_picker_title">Diseños de teclado</string>
   <string name="keyboard_settings_category">Teclado y métodos de entrada</string>
   <string name="keyboard_settings_title">Teclado de Android</string>
-  <string name="keyguard_left_function_chooser_hint_text">Acceso directo izquierdo cambió a %s</string>
+  <string name="keyguard_left_function_chooser_hint_text">El acceso directo izquierdo cambió a %s</string>
   <string name="keyguard_left_function_chooser_title">Aplicación</string>
   <string name="keyguard_left_function_title">Izquierda</string>
-  <string name="keyguard_right_function_chooser_hint_text">Acceso directo derecho cambió a %s</string>
+  <string name="keyguard_right_function_chooser_hint_text">El acceso directo derecho cambió a %s</string>
   <string name="keyguard_right_function_chooser_title">Aplicación</string>
   <string name="keyguard_right_function_title">Derecha</string>
   <string name="keyguard_shortcut_summary">Establecer un acceso directo para 2 aplicaciones en la pantalla de bloqueo</string>
@@ -1604,8 +1626,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="layout_size_small_text">Extra pequeño</string>
   <string name="led_colors_summary">Notificaciones</string>
   <string name="led_frequence_summary">Configurar el intervalo de parpadeo</string>
-  <string name="led_pulse_summary">Encender luz Led al recibir nuevas notificaciones</string>
-  <string name="led_settings">Luz de notificación LED</string>
+  <string name="led_pulse_summary">Encender LED al recibir nuevas notificaciones</string>
+  <string name="led_settings">Notificaciones luminosas</string>
   <string name="legacy_dhcp_client">Utilice cliente DHCP</string>
   <string name="legacy_dhcp_client_summary">Utilice el cliente de DHCP desde Lollipop en lugar del nuevo Android cliente DHCP.</string>
   <string name="legal_information">Información legal</string>
@@ -1710,23 +1732,30 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="lock_setup">Se completó la configuración.</string>
   <string name="lock_sounds_enable_title">Sonidos de bloqueo de pantalla</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
-  <string name="lockpassword_choose_for_second_user">Set Second space password</string>
-  <string name="lockpassword_choose_lock_generic_header">Desbloquear la selección</string>
-  <string name="lockpassword_choose_your_password_header">Elegir la contraseña</string>
-  <string name="lockpassword_choose_your_password_second_space">Set password 
- for Second space</string>
-  <string name="lockpassword_choose_your_pattern_header">Elige tu diseño</string>
-  <string name="lockpassword_choose_your_pin_header">Establezca su PIN</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">Set PIN 
- for Second space</string>
-  <string name="lockpassword_confirm_for_second_user">Confirm your Second space password</string>
+  <string name="lockpassword_choose_for_second_user">Establecer contraseña para el Segundo espacio</string>
+  <string name="lockpassword_choose_lock_generic_header">Elija bloqueo de pantalla</string>
+  <string name="lockpassword_choose_your_password_header">Establece su contraseña</string>
+  <string name="lockpassword_choose_your_password_second_space">Establecer contraseña para Segundo Espacio</string>
+  <string name="lockpassword_choose_your_pattern_header">Establecer su patrón</string>
+  <string name="lockpassword_choose_your_pin_header">Establecer PIN</string>
+  <string name="lockpassword_choose_your_pin_header_second_space">Establecer PIN para Segundo Espacio</string>
+  <string name="lockpassword_confirm_for_second_user">Confirmar contraseña para Segundo Espacio</string>
   <string name="lockpassword_confirm_passwords_dont_match">Las contraseñas no coinciden.</string>
-  <string name="lockpassword_confirm_pins_dont_match">Los PIN no coinciden</string>
+  <string name="lockpassword_confirm_pins_dont_match">El PIN no coincide</string>
+  <string name="lockpassword_confirm_your_lock_password_header">Confirmar la contraseña</string>
+  <string name="lockpassword_confirm_your_lock_pattern_header">Confirmar su patrón</string>
+  <string name="lockpassword_confirm_your_password_generic">Introduzca la contraseña del dispositivo para continuar.</string>
   <string name="lockpassword_confirm_your_password_header">Confirmar la contraseña</string>
-  <string name="lockpassword_confirm_your_pattern_header">Confirma tu diseño</string>
-  <string name="lockpassword_confirm_your_pin_header">Confirme su PIN</string>
+  <string name="lockpassword_confirm_your_pattern_generic">Utilice el patrón de dispositivo para continuar.</string>
+  <string name="lockpassword_confirm_your_pattern_header">Confirmar su patrón</string>
+  <string name="lockpassword_confirm_your_pin_generic">Introduzca el PIN del dispositivo para continuar.</string>
+  <string name="lockpassword_confirm_your_pin_header">Confirmar PIN</string>
+  <string name="lockpassword_confirm_your_private_password_header">Confirmar la contraseña</string>
+  <string name="lockpassword_confirm_your_private_pattern_header">Confirmar su patrón</string>
   <string name="lockpassword_continue_label">Continuar</string>
   <string name="lockpassword_illegal_character">La contraseña posee un carácter no permitido.</string>
+  <string name="lockpassword_invalid_password">Contraseña incorrecta</string>
+  <string name="lockpassword_invalid_pin">PIN incorrecto</string> 
   <string name="lockpassword_ok_label">Aceptar</string>
   <string name="lockpassword_password_recently_used">El administrador del dispositivo no permite el uso de una contraseña utilizada recientemente.</string>
   <string name="lockpassword_password_requires_alpha">La contraseña debe tener al menos una letra.</string>
@@ -1739,36 +1768,36 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="lockpassword_pin_contains_non_digits">El PIN solo puede contener números</string>
   <string name="lockpassword_pin_fixed_length">El PIN debe tener %d dígitos</string>
   <string name="lockpassword_pin_no_sequential_digits">No se permiten una secuencia ascendente, descendente ni repetida de dígitos.</string>
-  <string name="lockpassword_pin_recently_used">El administrador de dispositivos no permite el desbloqueo PIN</string>
+  <string name="lockpassword_pin_recently_used">El administrador de dispositivos no permite el desbloqueo por PIN</string>
   <string name="lockpassword_pin_set_toast">Asignar PIN</string>
   <string name="lockpassword_pin_too_long">El PIN debe de tener menos de %d dígitos</string>
   <string name="lockpassword_pin_too_short">El PIN debe tener %d dígitos de longitud</string>
-  <string name="lockpassword_press_continue">Toca Continuar cuando hayas finalizado</string>
+  <string name="lockpassword_press_continue">Pulsar Continuar al finalizar</string>
   <string name="lockpattern_change_lock_pattern_label">Cambiar patrón de desbloqueo</string>
   <string name="lockpattern_change_lock_pin_label">Cambiar PIN</string>
   <string name="lockpattern_confirm_button_text">Confirmar</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
-  <string name="lockpattern_need_to_confirm">Dibuje nuevamente el patrón para confirmar:</string>
+  <string name="lockpattern_need_to_confirm">Dibujar nuevamente el patrón para confirmar:</string>
   <string name="lockpattern_need_to_unlock">Confirmar el patrón guardado</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Vuelva a intentarlo:</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Tu nuevo patrón de desbloqueo:</string>
   <string name="lockpattern_pattern_entered_header">Patrón memorizado</string>
-  <string name="lockpattern_pattern_same_with_owner">Should be different from Default space password</string>
-  <string name="lockpattern_pattern_same_with_security_space">Should be different from Second space password</string>
+  <string name="lockpattern_pattern_same_with_owner">La contraseña debe ser diferente a la del usuario habitual</string>
+  <string name="lockpattern_pattern_same_with_security_space">La contraseña debe ser diferente a la del Espacio habitual</string>
   <string name="lockpattern_recording_incorrect_too_short">Une al menos %d puntos. Vuelve a intentarlo.</string>
   <string name="lockpattern_recording_inprogress">Levante el dedo cuando haya terminado</string>
-  <string name="lockpattern_recording_intro_footer">Presiona Menú para obtener ayuda.</string>
-  <string name="lockpattern_recording_intro_header">Dibuja un patrón de bloqueo:</string>
-  <string name="lockpattern_recording_intro_header_second_space">Draw an unlock pattern for Second space:</string>
-  <string name="lockpattern_restart_button_text">Revisar</string>
+  <string name="lockpattern_recording_intro_footer">Pulsar Menú para obtener ayuda.</string>
+  <string name="lockpattern_recording_intro_header">Dibuja un patrón de desbloqueo:</string>
+  <string name="lockpattern_recording_intro_header_second_space">Dibuja un patrón de desbloqueo para el Segundo Espacio:</string>
+  <string name="lockpattern_restart_button_text">Dibuje de nuevo</string>
   <string name="lockpattern_retry_button_text">Intentar nuevamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Cambiar patrón de desbloqueo</string>
-  <string name="lockpattern_settings_choose_lock_pattern">Conf. patrón de desbloq.</string>
+  <string name="lockpattern_settings_choose_lock_pattern">Conf. patrón de desbloqueo</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">El botón de encendido/apagado bloquea el dispositivo</string>
-  <string name="lockpattern_settings_enable_summary">Debes dibujar el patrón para desbloquear la pantalla</string>
-  <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar al tacto</string>
+  <string name="lockpattern_settings_enable_summary">Debe dibujar el patrón para desbloquear la pantalla</string>
+  <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar al tocar</string>
   <string name="lockpattern_settings_enable_title">Requiere un patrón</string>
   <string name="lockpattern_settings_enable_visible_pattern_title">Hacer visible el patrón</string>
   <string name="lockpattern_settings_help_how_to_record">Cómo se debe extraer un patrón de desbloqueo</string>
@@ -1824,7 +1853,7 @@ Actualmente has accedido a las siguientes cuentas:
 "&lt;li&gt;tu cuenta de Google,&lt;/li&gt;"
 "&lt;li&gt;datos de aplicaciones y ajustes del sistema,&lt;/li&gt;"
 "&lt;li&gt;las aplicaciones descargadas.&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;M&amp;#250;sica&lt;/li&gt;"
+  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Música&lt;/li&gt;"
 "&lt;li&gt;Fotos&lt;/li&gt;"
 "&lt;li&gt;Otros datos de usuario&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
@@ -1915,15 +1944,15 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
   <string name="misc_files_selected_count">Se seleccionaron %1$d de entre %2$d.</string>
   <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
   <string name="miui_allow_alarm">Alarmas</string>
-  <string name="miui_allow_light">Luz de notificación</string>
+  <string name="miui_allow_light">Notificaciones luminosas</string>
   <string name="miui_allow_music">Medios</string>
   <string name="miui_allow_vibrate">Vibraciones</string>
   <string name="miui_data_usage_menu_metered">Hotspot móvil</string>
   <string name="miui_disturb_title">No molestar</string>
   <string name="miui_experience_optimization">Activar optimización MIUI</string>
   <string name="miui_silent_title">Modo silencio</string>
-  <string name="mms_breathing_light_color_title">Color de mensajes</string>
-  <string name="mms_breathing_light_freq_title">Frecuencia de parpadeo en luz de mensajes</string>
+  <string name="mms_breathing_light_color_title">Color para mensajes</string>
+  <string name="mms_breathing_light_freq_title">Frecuencia de parpadeo en notifcicación de mensajes</string>
   <string name="mobile_connect_to_internet">Conéctate a Internet.</string>
   <string name="mobile_data_always_on">Los datos siempre activos</string>
   <string name="mobile_data_always_on_summary">Siempre mantiene los datos móviles activos, incluso cuando la conexión Wi-Fi está activa (para la conmutación de red rápida).</string>
@@ -2014,7 +2043,7 @@ Seleccione su sistema operativo:"</string>
   <string name="music_hifi_summary">Reduce el ruido y la distorsión e incrementa la calidad del audio</string>
   <string name="music_hifi_title">Audio Hi-Fi</string>
   <string name="music_hifi_volume">Volumen Hi-Fi</string>
-  <string name="music_mi_effect_summary">Utilizar Mi Sound Enhancer al usar los altavoces</string>
+  <string name="music_mi_effect_summary">Utilizar Potenciador de sonido Mi al usar los altavoces</string>
   <string name="music_mi_effect_title">Mejorador de Sonido Mi</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Efectos de la música</string>
@@ -2073,12 +2102,12 @@ Seleccione su sistema operativo:"</string>
   <string name="normal_smartcover_title">Cubierta frontal opaca</string>
   <string name="not_installed">No instalado</string>
   <string name="notification_app_settings_button">Configuración de notificaciones</string>
-  <string name="notification_breathing_light_color_title">Color de notificaciones</string>
-  <string name="notification_breathing_light_freq_title">Frecuencia de parpadeo en luz de notificación</string>
+  <string name="notification_breathing_light_color_title">Color para notificaciones</string>
+  <string name="notification_breathing_light_freq_title">Frecuencia de parpadeo de notificaciones luminosas</string>
   <string name="notification_listener_security_warning_summary">%1$s podrá leer todas las notificaciones publicadas por el sistema o por cualquier aplicación instalada. Las notificaciones pueden contener información personal, como nombres de contacto y el texto de los mensajes que recibes. También podrá rechazar estas notificaciones o tocar los botones de acción dentro de ellas.</string>
   <string name="notification_listener_security_warning_title">¿Habilitar %1$s?</string>
   <string name="notification_log_title">Registro de notificaciones</string>
-  <string name="notification_pulse_title">Luz de notificación</string>
+  <string name="notification_pulse_title">Notificaciones luminosas</string>
   <string name="notification_ringtone_title">Tono de notificación predeterminado</string>
   <string name="notification_section_header">Notificación</string>
   <string name="notification_settings">Sonido/notificación</string>
@@ -2193,7 +2222,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_alarm_sound_title">Settings/Sound &amp; vibration/Alarm sound</string>
   <string name="path_android_beam_settings">Settings/More/Android Beam</string>
   <string name="path_apn_settings">Settings/SIM cards &amp; mobile networks/Access Point Names</string>
-  <string name="path_app_invisible">Settings/Additional/Beta features/App Invisible</string>
+  <string name="path_app_invisible">Settings/Additional settings/Beta features/App Invisible</string>
   <string name="path_app_permission">Settings/Permissions</string>
   <string name="path_app_switch_key">Settings/Additional settings/Buttons/Recents</string>
   <string name="path_application_lock">Settings/App lock</string>
@@ -2232,11 +2261,12 @@ Seleccione su sistema operativo:"</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
   <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
   <string name="path_font_settings">Settings/Display/System font</string>
+  <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
   <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
   <string name="path_handy_mode_settings">Settings/Additional settings/One_handed mode</string>
   <string name="path_home_key">Settings/Additional settings/Buttons/Home</string>
   <string name="path_key_settings">Settings/Additional settings/Buttons</string>
-  <string name="path_lab_functions_title">Settings/Additional/Beta features</string>
+  <string name="path_lab_functions_title">Settings/Additional settings/Beta features</string> 
   <string name="path_language_picker_title">Settings/Additional settings/Language &amp; input/Language</string>
   <string name="path_language_settings">Settings/Additional settings/Language &amp; input</string>
   <string name="path_led_settings">Settings/Additional settings/Notification light</string>
@@ -2267,10 +2297,10 @@ Seleccione su sistema operativo:"</string>
   <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Owner info</string>
   <string name="path_page_layout_settings">Settings/Display/Text size</string>
   <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
-  <string name="path_power_checker">Settings/Additional/Beta features/Power Checker</string>
+  <string name="path_power_checker">Settings/Additional settings/Beta features/Power Checker</string> 
   <string name="path_power_hide_mode_title">Settings/Battery &amp; performance/Manage apps battery usage</string>
   <string name="path_power_mode_settings">Settings/Battery &amp; performance/Power settings</string>
-  <string name="path_power_optimize">Settings/Additional/Beta features/Battery saver</string>
+  <string name="path_power_optimize">Settings/Additional settings/Beta features/Battery saver</string> 
   <string name="path_pref_volume_wake_title">Settings/Lock screen &amp; password/Wake with Volume buttons</string>
   <string name="path_preferred_network_type_settings">Settings/SIM cards &amp; mobile networks/Preferred network type</string>
   <string name="path_privacy_policy">Settings/About phone/Legal information/Privacy Policy</string>
@@ -2312,7 +2342,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_tether_settings_title_usb">Settings/More/USB tethering</string>
   <string name="path_theme_settings">Settings/Themes</string>
   <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
-  <string name="path_touch_assistant_settings">Settings/Additional settings/Touch assistant</string>
+  <string name="path_touch_assistant_settings">Settings/Additional settings/Quick ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/System Security/Trusted credentials</string>
   <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
@@ -2355,10 +2385,13 @@ Seleccione su sistema operativo:"</string>
   <string name="permission_detail_info">Detalles</string>
   <string name="permission_detail_info_summary">%1$d seguridad | %2$d privacidad | %3$d otros</string>
   <string name="permission_manage">Administrador de permisos</string>
+  <string name="permission_manage_global_build_title">Otros permisos</string> 
   <string name="permission_manage_summary">Pedir permiso antes de permitir que las aplicaciones lean tus contactos, vean tu historial de llamadas, cambien configuraciones del sistema o tengan acceso a la cámara y otros recursos del dispositivo</string>
   <string name="permission_manage_title">%s permisos</string>
   <string name="permission_manager">Permisos</string>
   <string name="permission_mgr">Permisos</string>
+  <string name="permission_settings_summary">Administrar los permisos relacionados con la ubicación, almacenamiento, teléfono, mensajes y contactos.</string>  
+  <string name="permission_settings_title">Permisos de las aplicaciones</string>  
   <string name="permissions_label">Permisos</string>
   <string name="personal_data_section_title">Datos personales</string>
   <string name="personal_device_admin_title">Personal</string>
@@ -2484,8 +2517,8 @@ Seleccione su sistema operativo:"</string>
   <string name="privacy_mode_title">Configuraciones de privacidad</string>
   <string name="privacy_protect_title">Protección de privacidad</string>
   <string name="privacy_relative">Privacidad</string>
-  <string name="privacy_settings">Respaldo y restablecimiento</string>
-  <string name="privacy_settings_title">Respaldo y restablecimiento</string>
+  <string name="privacy_settings">Copia de seguridad y restauración</string>
+  <string name="privacy_settings_title">Copia de seguridad y restauración</string>
   <string name="private_gallery_need_to_unlock">Se requiere contraseña:</string>
   <string name="private_gallery_recording_intro_header">Dibujar un patrón de desbloqueo:</string>
   <string name="private_gallery_reset_by_account">Para resetear tu contraseña, inicia sesión con tu cuenta Mi</string>
@@ -2580,6 +2613,7 @@ Seleccione su sistema operativo:"</string>
   <string name="radioInfo_unknown">desconocida</string>
   <string name="radio_controls_summary">Administrar Wi-Fi, Bluetooth, modo avión, redes móviles y VPN</string>
   <string name="radio_controls_title">Más</string>
+  <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
   <string name="radio_info_band_mode_label">Seleccionar banda de radio</string>
   <string name="radio_info_call_redirect_label">Redireccionamiento de llamada:</string>
   <string name="radio_info_call_status_label">Estado de llamada:</string>
@@ -2638,7 +2672,7 @@ Seleccione su sistema operativo:"</string>
  "&lt;li&gt;restricciones de datos en segundo plano para aplicaciones;&lt;/li&gt;"
  "&lt;li&gt;restricciones de permisos.&lt;/li&gt;"
 
- Los datos de las aplicaciones no se perder&amp;#225;n."</string>
+ Los datos de las aplicaciones no se perderán."</string>
   <string name="reset_app_preferences_title">¿Restablec. preferencias?</string>
   <string name="reset_legacy_password_settings_preface_text">Es necesario restablecer la contraseña de bloqueo de pantalla.</string>
   <string name="resolver_settings_label">Ordenar</string>
@@ -2855,6 +2889,7 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_empty">No search results</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">System font</string>
+  <string name="search_gesture_wakeup_title">Doble toque en la pantalla para encender.</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">One_handed mode</string>
   <string name="search_hint">Ajustes de búsqueda</string>
@@ -2935,26 +2970,26 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_status_bar_settings_style">Statusbar style</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
   <string name="search_status_sim">SIM status</string>
-  <string name="search_storage">Storage</string>
-  <string name="search_storage_settings">Cleaner</string>
+  <string name="search_storage">Almacenamiento</string>
+  <string name="search_storage_settings">Limpiador</string>
   <string name="search_sync">sincronización</string>
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
-  <string name="search_system_app_settings">System apps</string>
+  <string name="search_system_app_settings">Aplicaciones del sistema</string>
   <string name="search_tether">compartir red</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
-  <string name="search_theme_settings">Themes</string>
-  <string name="search_toggle_position">Toggle positions</string>
-  <string name="search_touch_assistant">Bola flotante</string>
-  <string name="search_touch_sensitive_title">Glove mode</string>
+  <string name="search_theme_settings">Temas</string>
+  <string name="search_toggle_position">Posiciones de Toggles</string>
+  <string name="search_touch_assistant">Asistente táctil</string>
+  <string name="search_touch_sensitive_title">Modo guantes</string>
   <string name="search_trusted_credentials">Trusted credentials</string>
-  <string name="search_tts_settings_title">Text-to-speech output</string>
-  <string name="search_turn_on_security_lock">Change screen lock</string>
+  <string name="search_tts_settings_title">Salida de texto-a-voz</string>
+  <string name="search_turn_on_security_lock">Cambiar pantalla de bloqueo</string>
   <string name="search_unlock_set">desbloqueo establecido</string>
-  <string name="search_user_agreement">Terms of Service</string>
-  <string name="search_user_dict_settings_title">Personal dictionary</string>
-  <string name="search_vibrate_in_silent_title">Vibrate when silent</string>
-  <string name="search_vibrate_on_touch_title">Vibrate on touch</string>
+  <string name="search_user_agreement">Términos del Servicio</string>
+  <string name="search_user_dict_settings_title">Diccionario personal</string>
+  <string name="search_vibrate_in_silent_title">Vibrar en silencio</string>
+  <string name="search_vibrate_on_touch_title">Vibrar al tocar</string>
   <string name="search_vibrate_when_ringing_title">Also vibrate for calls</string>
   <string name="search_virtual_sim">International mobile data</string>
   <string name="search_vpn">vpn</string>
@@ -3244,10 +3279,11 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="status_bar_settings_manage_notification">Notificaciones de aplicaciones</string>
   <string name="status_bar_settings_no_carrier">Ninguno</string>
   <string name="status_bar_settings_notification_bar">Pantalla de notificaciones</string>
-  <string name="status_bar_settings_notification_led">Luz de notificación</string>
+  <string name="status_bar_settings_notification_led">Notificaciones luminosas</string>
   <string name="status_bar_settings_notification_priority">Prioridad</string>
   <string name="status_bar_settings_notification_priority_summary">Mostrar notificaciones en la parte superior de la lista</string>
-  <string name="status_bar_settings_notification_sound_vibrate">Sonido y vibración</string>
+  <string name="status_bar_settings_notification_sound">Sonido</string>
+  <string name="status_bar_settings_notification_vibrate">Vibración</string>
   <string name="status_bar_settings_show_carrier">Mostrar nombre del operador</string>
   <string name="status_bar_settings_show_carrier_summary">El nombre del operador aún se muestra en la pantalla de bloqueo y en el panel de notificaciones cuando esta función está desactivada</string>
   <string name="status_bar_settings_show_floating_notification">Notificaciones flotantes</string>
@@ -3323,12 +3359,12 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supl_not_set">&lt;No definido&gt;</string>
-  <string name="supplicant_state_label">Supplicant state:</string>
+  <string name="supplicant_state_label">Estado de la solicitud:</string>
   <string name="switch_off_text">Desactivar</string>
   <string name="switch_on_text">Activar</string>
   <string name="symbols_not_allowed_for_password">La contraseña no puede contener símbolos</string>
   <string name="sync_active">Sincronización activada</string>
-  <string name="sync_automatically">Autosincronizar datos de aplic.</string>
+  <string name="sync_automatically">Autosincronizar datos de aplicaciones</string>
   <string name="sync_calendar">Calendario</string>
   <string name="sync_contacts">Contactos</string>
   <string name="sync_disabled">Sincronización desactivada</string>
@@ -3345,7 +3381,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="sync_one_time_sync">"Tocar para sincronizar ahora
 %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Te damos la bienvenida a Google Sync&lt;/font&gt;"  
-Con este software de Google, puedes sincronizar tus datos y acceder a tus contactos, citas y m&amp;#225;s desde cualquier lugar."</string>
+Con este software de Google, puedes sincronizar tus datos y acceder a tus contactos, citas y más desde cualquier lugar."</string>
   <string name="sync_settings">Sincronización</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Solamente por Wi-Fi</string>
@@ -3356,7 +3392,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="system_package">Las actualizaciones del sistema no se pueden instalar en medios externos.</string>
   <string name="system_storage">Almacenamiento de sistema</string>
   <string name="system_update_settings_list_item_summary"/>
-  <string name="system_update_settings_list_item_title">Act. del sistema</string>
+  <string name="system_update_settings_list_item_title">Actualiz. del sistema</string>
   <string name="terms_title">Términos y condiciones</string>
   <string name="testing">Probando</string>
   <string name="testing_battery_info">Información sobre la batería</string>
@@ -3391,7 +3427,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="toast_need_login">Inicie sesión con su cuenta Mi</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Bola flotante</string>
+  <string name="touch_assistant">Asistente táctil</string>
   <string name="touch_sensitive_summary">Hacer que la sensibilidad de la pantalla sea mayor a la presión</string>
   <string name="touch_sensitive_title">Modo guantes</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
@@ -3469,7 +3505,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="uicc_format_summary">Borrar todos los datos del almacenamiento UICC (por ejemplo: música y fotos)</string>
   <string name="uicc_insert_summary">Conectar almacenamiento UICC</string>
   <string name="uicc_media_format_button_text">Borrar almacenamiento UICC</string>
-  <string name="uicc_media_format_desc">¿Borrar el almacenamiento UICC? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados all&amp;#237;.</string>
+  <string name="uicc_media_format_desc">¿Borrar el almacenamiento UICC? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados allí.</string>
   <string name="uicc_media_format_final_desc">Todos los archivos almacenados en el almacenamiento UICC se eliminarán de forma permanente.</string>
   <string name="uicc_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento UICC.</string>
   <string name="uicc_media_format_summary">Eliminar todos los datos del almacenamiento UICC</string>
@@ -3562,7 +3598,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="usb_insert_summary">Conectar USB</string>
   <string name="usb_label_installer_cd">Instalar las herramientas de transferencia de archivos</string>
   <string name="usb_media_format_button_text">Borrar almacenamiento USB</string>
-  <string name="usb_media_format_desc">¿Borrar el almacenamiento USB? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados all&amp;#237;.</string>
+  <string name="usb_media_format_desc">¿Borrar el almacenamiento USB? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados allí.</string>
   <string name="usb_media_format_final_desc">Todos los archivos almacenados en el almacenamiento USB se eliminarán de forma permanente.</string>
   <string name="usb_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento USB.</string>
   <string name="usb_media_format_summary">Eliminar todos los datos del almacenamiento USB</string>
@@ -3874,7 +3910,7 @@ de Wi‑Fi"</string>
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_cancel">Cancelar</string>
   <string name="wifi_certificate">Certificado</string>
-  <string name="wifi_click_share_wlan">Pressione para compartir contraseña</string>
+  <string name="wifi_click_share_wlan">Presione para compartir la contraseña</string>
   <string name="wifi_configured_ap_list">Puntos de acceso configurados previamente</string>
   <string name="wifi_config_info">Ajustes WI-FI</string>
   <string name="wifi_connect">Conectar</string>
@@ -4073,7 +4109,7 @@ de Wi‑Fi"</string>
   <string name="wifi_setup_back">Atrás</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
-  <string name="wifi_setup_description_connected">Pulse &lt;b&gt;Siguiente&lt;/b&gt; para continuar con la configuraci&amp;#243;n. Pulse &lt;b&gt;Volver&lt;/b&gt; para conectarse a otras redes Wi-Fi.</string>
+  <string name="wifi_setup_description_connected">Pulse &lt;b&gt;Siguiente&lt;/b&gt; para continuar con la configuración. Pulse &lt;b&gt;Volver&lt;/b&gt; para conectarse a otras redes Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">La conexión puede demorar unos minutos...</string>
   <string name="wifi_setup_detail">Detalles de la red</string>
   <string name="wifi_setup_eap_not_supported">Durante la configuración no puede definir una conexión Wi-Fi EAP, pero puede hacerlo cuando haya finalizado a través de ajustes y conexiones inalámbricas y redes.</string>
@@ -4118,7 +4154,7 @@ de Wi‑Fi"</string>
   <string name="wifi_share_notification_summary">MIUI se ha conectado a una red pública por Wi-Fi.</string>
   <string name="wifi_share_other_network">Otras redes</string>
   <string name="wifi_share_qrcode_finish">Aceptar</string>
-  <string name="wifi_share_qrcode_summary">Para compartir, escaneé primero el código QR anterior.</string>
+  <string name="wifi_share_qrcode_summary">Para compartir, escanee primero el código QR anterior.</string>
   <string name="wifi_share_qrcode_title">Compartir red Wi-Fi</string>
   <string name="wifi_share_show_network">Mostrar redes</string>
   <string name="wifi_share_summary1">Los usuarios de MIUI pueden compartir con los demás las contraseñas de redes Wi-Fi públicas (cafeterías, restaurantes, hoteles, etc.).</string>
@@ -4265,6 +4301,22 @@ de Wi‑Fi"</string>
   <string name="zen_mode_option_title">Al recibir llamadas o notificaciones</string>
   <string name="zen_mode_option_title_novoice">Al recibir notificaciones</string>
   <string name="zen_mode_phone_calls">Llamadas</string>
+  <string name="zen_mode_priority_settings_title">La prioridad sólo permite</string>
+  <string name="zen_mode_reminders">Recordatorios</string>
+  <string name="zen_mode_repeat_callers">Repeat callers</string>
+  <string name="zen_mode_repeat_callers_summary">Si la misma persona llama por segunda vez dentro de %d minutos, Permitir</string>
+  <string name="zen_mode_rule_name">Nombre de la regla</string>
+  <string name="zen_mode_rule_name_hint">Introduce el nombre de la regla</string>
+  <string name="zen_mode_rule_name_warning">Nombre de la regla ya en uso</string>
+  <string name="zen_mode_rule_not_found_text">Descartar no se encuentra.</string>
+  <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
+  <string name="zen_mode_rule_type">Tipo de regla</string>
+  <string name="zen_mode_rule_type_unknown">Desconocido</string>
+  <string name="zen_mode_schedule_rule_days">Días</string>
+  <string name="zen_mode_schedule_rule_days_all">Cada día</string>
+  <string name="zen_mode_schedule_rule_days_none">Ninguna</string>
+  <string name="zen_mode_selected_callers">Llamadas seleccionadas</string>
+  <string name="zen_mode_selected_messages">Mensajes seleccionados</string>
   <string name="zen_mode_settings_title">No molestar</string>
   <string name="zen_mode_start_time">Hora de inicio</string>
   <string name="zen_mode_when">Activar automáticam.</string>

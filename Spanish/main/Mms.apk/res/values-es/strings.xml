@@ -46,6 +46,7 @@
   <string name="batch_deleting_progress_message">Eliminando…</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">SMS bloqueados</string>
+  <string name="block_support_text">Apoyado por Antiy.</string>
   <string name="bookmark">Favorito</string>
   <string name="bookmark_confirm_delete_message">No abrir mensajes seleccionados?</string>
   <string name="bookmark_empty">No hay mensajes destacados</string>
@@ -185,6 +186,7 @@
   <string name="file_title">Nombre:</string>
   <string name="file_width_height">Tamaño:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">Nuevo mensaje</string>
   <string name="forward_from">Reenviar desde:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">¿Cargar mensajes %1$s a %2$s?</string>
@@ -342,6 +344,7 @@
   <string name="need_download">Sincronizando…</string>
   <string name="networking_allow_continue">De acuerdo</string>
   <string name="networking_allow_desc">Mensajes inteligentes le permite enviar mensajes de texto y voz gratuitos, reconocer números desconocidos, filtrar correo no deseado, etc. Mediante el uso de este servicio, usted se compromete y está de acuerdo con los %1$s y %2$s de Xiaomi. Debes ahora activar las Páginas Amarillas y conectarse a Internet para utilizar este servicio.</string>
+  <string name="networking_allow_desc_without_mx">"La mensajería inteligente le permiten identificar los números desconocidos, filtro de spam etc. Al usar este servicio, acepta los %1$s y %2$s de Xiaomi. Debes activar la aplicación Páginas amarillas y tener acceso a Internet para hacer uso de este servicio."</string>
   <string name="networking_allow_title">Aviso</string>
   <string name="new_message">Nuevo mensaje</string>
   <string name="new_message_arrived">Tienes un mensaje nuevo</string>
@@ -374,6 +377,7 @@
   <string name="pref_allow_network_access_summary">Turn on to get the latest info on delivery and other services.</string>
   <string name="pref_cell_broadcast">Cell Broadcasts</string>
   <string name="pref_collapse_sp_messages_summary">Agrupar notificaciones de su compañía en el mismo hilo</string>
+  <string name="pref_delivery_ringtone">Sonido de notificación</string>
   <string name="pref_edit_smsc_address">Número de centro de SMS</string>
   <string name="pref_forward_title">Reenviar</string>
   <string name="pref_key_mx_feedback">Enviar comentarios</string>
@@ -389,6 +393,7 @@
   <string name="pref_summary_allow_si_sl_push">Permitir mensajes WAP automáticos (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensajes por conversación</string>
   <string name="pref_summary_delivery_reports">Mostrar el estado de entrega para cada mensaje que envias</string>
+  <string name="pref_summary_delivery_ringtone">Recibir notificaciones de sonido para el mensaje enviado.</string>
   <string name="pref_summary_hide_festival">Ocultar la pestaña \"Recomendado\" para los idiomas que no sean chino</string>
   <string name="pref_summary_manage_sim_messages">Administrar los mensajes almacenados en la tarjeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Recuperar automáticamente MMS</string>

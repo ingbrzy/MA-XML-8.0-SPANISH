@@ -960,7 +960,7 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permdesc_manageFingerprint">Permite que la aplicación pueda invocar métodos para agregar y eliminar plantillas de huellas digitales para su uso.</string>
   <string name="permdesc_manageMediaProjection">Permite a una aplicación administrar sesiones de proyección de contenido multimedia. Estas sesiones pueden brindar a las aplicaciones la posibilidad de capturar contenidos de pantalla y audio. Las aplicaciones normales no deberían necesitar este permiso.</string>
   <string name="permdesc_manageNetworkPolicy">Permite que la aplicación administre las políticas de red y defina reglas específicas de la aplicación.</string>
-  <string name="permdesc_manageProfileAndDeviceOwners">Allows apps to set the profile owners and the device owner.</string>
+  <string name="permdesc_manageProfileAndDeviceOwners">Permitir que las aplicaciones establezcan perfiles de propietarios y perfiles de dispositivo.</string>
   <string name="permdesc_manageUsb">Permite que la aplicación administre las preferencias y los permisos de los dispositivos USB.</string>
   <string name="permdesc_manageUsers">Permite a las aplicaciones administrar los usuarios del dispositivo, lo que incluye buscarlos, crearlos y eliminarlos.</string>
   <string name="permdesc_manageVoiceKeyphrases">Permite administrar las frases clave para detección de palabras activas de voz. Las aplicaciones normales no deberían necesitar este permiso.</string>
@@ -1125,7 +1125,7 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permgrouplab_bookmarks">Marcadores e historial</string>
   <string name="permgrouplab_calendar">Calendario</string>
   <string name="permgrouplab_camera">Cámara</string>
-  <string name="permgrouplab_contacts">Contacts</string>
+  <string name="permgrouplab_contacts">Contactos</string>
   <string name="permgrouplab_costMoney">Servicios que te cuestan dinero</string>
   <string name="permgrouplab_developmentTools">Herramientas de desarrollo</string>
   <string name="permgrouplab_deviceAlarms">Alarma</string>
@@ -1394,7 +1394,7 @@ para la cuenta %s"</string>
   <string name="permlab_updateBatteryStats">modificar las estadísticas de la batería</string>
   <string name="permlab_updateLock">no realizar actualizaciones automáticas</string>
   <string name="permlab_useCredentials">utilizar las cuentas del dispositivo</string>
-  <string name="permlab_useFingerprint">use fingerprint hardware</string>
+  <string name="permlab_useFingerprint">utilizar sensor de huella dactilar</string>
   <string name="permlab_use_sip">realizar/recibir llamadas SIP</string>
   <string name="permlab_userActivity">restablecer el tiempo de espera de la pantalla</string>
   <string name="permlab_vibrate">controlar la vibración</string>
