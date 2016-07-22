@@ -112,7 +112,7 @@ También puede importarlas por separado."</string>
   <string name="need_set_second_space_pwd_first">Establezca la contraseña del Segundo espacio primero</string>
   <string name="newSecondSpace">"Activar Segundo Espacio"</string>
   <string name="next_setp">"Siguiente"</string>
-  <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
+  <string name="no_match_repate_scanner">"Imposible hallar huellas compatibles, escanee de nuevo"</string>
   <string name="normal_app">"Espacio primero"</string>
   <string name="not_support_multiple_users">"Múltiples espacios no están soportados aún"</string>
   <string name="notificationSetPassword">"Establecer contraseña"</string>
@@ -147,10 +147,10 @@ De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de
   <string name="retain_src_file">"Mantener los archivos"</string>
   <string name="retain_src_photo">"Mantener las fotos"</string>
   <string name="scanner_fingerprint">Escaneando la huella digital…</string>  
-  <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint  
-to enter Second space from Lock screen"</string>  
-  <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint"</string>
-  <string name="scanner_fingerprint_error_tips_title">"Can't find matching fingerprints"</string>
+  <string name="scanner_fingerprint_enter_second">"Escanee la huella del Segundo espacio 
+para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>  
+  <string name="scanner_fingerprint_error_tips_desc">"Imposible hallar huellas compatibles. Añadir nueva huella para el Segundo espacio"</string>
+  <string name="scanner_fingerprint_error_tips_title">"Imposible hallar huellas compatibles."</string>
   <string name="scanner_fingerprint_tips_desc">Seleccione la huella existente para entrar al Segundo espacio. No podrá usarla en el Primer espacio.</string>
   <string name="scanner_fingerprint_tips_title">Ingresar al Segundo espacio usando una huella existente</string>
   <string name="scanner_second_space_fingerprint">Escanee la huella del Segundo espacio</string>
