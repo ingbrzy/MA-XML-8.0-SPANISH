@@ -97,7 +97,6 @@ Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
   <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
   <string name="add_fingerprint_failed_retry_text">No se pudo añadir huella dactilar, vuelva a intentarlo</string>
   <string name="add_fingerprint_finished_button_text">Aceptar</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Para añadir su huella dactilar, coloque el dedo en el sensor y levántelo cuando sienta una vibración.</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear el dispositivo o verificar el pago con su huella.</string>
   <string name="add_fingerprint_instruction_title">Añada su huella</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mueva el dedo ligeramente y colóquelo de nuevo en el censor para añadir las diferentes partes de su huella dactilar.</string>
@@ -1430,6 +1429,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="global_change_warning">Esta configuración afecta a todos los usuarios de este dispositivo.</string>
   <string name="global_font_change_title">Cambiar tamaño de fuente</string>
   <string name="global_locale_change_title">Cambiar idioma</string>
+  <string name="google_backup_enable">Activar copia de seguridad</string>
   <string name="google_backup_section_title">Copia de seguridad y restauración de Google</string>
   <string name="google_wallet">Google Wallet</string>
   <string name="gsm_to_wifi_connect_type_title">De GSM a Wi-Fi</string>
@@ -1733,10 +1733,10 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="lock_sounds_enable_title">Sonidos de bloqueo de pantalla</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_for_second_user">Establecer contraseña para el Segundo espacio</string>
-  <string name="lockpassword_choose_lock_generic_header">Desbloquear la selección</string>
-  <string name="lockpassword_choose_your_password_header">Elegir la contraseña</string>
+  <string name="lockpassword_choose_lock_generic_header">Elija bloqueo de pantalla</string>
+  <string name="lockpassword_choose_your_password_header">Establece su contraseña</string>
   <string name="lockpassword_choose_your_password_second_space">Establecer contraseña para Segundo Espacio</string>
-  <string name="lockpassword_choose_your_pattern_header">Eligir diseño</string>
+  <string name="lockpassword_choose_your_pattern_header">Establecer su patrón</string>
   <string name="lockpassword_choose_your_pin_header">Establecer PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">Establecer PIN para Segundo Espacio</string>
   <string name="lockpassword_confirm_for_second_user">Confirmar contraseña para Segundo Espacio</string>
@@ -1755,6 +1755,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="lockpassword_continue_label">Continuar</string>
   <string name="lockpassword_illegal_character">La contraseña posee un carácter no permitido.</string>
   <string name="lockpassword_invalid_password">Contraseña incorrecta</string>
+  <string name="lockpassword_invalid_pin">PIN incorrecto</string> 
   <string name="lockpassword_ok_label">Aceptar</string>
   <string name="lockpassword_password_recently_used">El administrador del dispositivo no permite el uso de una contraseña utilizada recientemente.</string>
   <string name="lockpassword_password_requires_alpha">La contraseña debe tener al menos una letra.</string>
@@ -1790,7 +1791,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="lockpattern_recording_intro_footer">Pulsar Menú para obtener ayuda.</string>
   <string name="lockpattern_recording_intro_header">Dibuja un patrón de desbloqueo:</string>
   <string name="lockpattern_recording_intro_header_second_space">Dibuja un patrón de desbloqueo para el Segundo Espacio:</string>
-  <string name="lockpattern_restart_button_text">Revisar</string>
+  <string name="lockpattern_restart_button_text">Dibuje de nuevo</string>
   <string name="lockpattern_retry_button_text">Intentar nuevamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Cambiar patrón de desbloqueo</string>
   <string name="lockpattern_settings_choose_lock_pattern">Conf. patrón de desbloqueo</string>
@@ -2221,7 +2222,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_alarm_sound_title">Settings/Sound &amp; vibration/Alarm sound</string>
   <string name="path_android_beam_settings">Settings/More/Android Beam</string>
   <string name="path_apn_settings">Settings/SIM cards &amp; mobile networks/Access Point Names</string>
-  <string name="path_app_invisible">Settings/Additional/Beta features/App Invisible</string>
+  <string name="path_app_invisible">Settings/Additional settings/Beta features/App Invisible</string>
   <string name="path_app_permission">Settings/Permissions</string>
   <string name="path_app_switch_key">Settings/Additional settings/Buttons/Recents</string>
   <string name="path_application_lock">Settings/App lock</string>
@@ -2265,7 +2266,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_handy_mode_settings">Settings/Additional settings/One_handed mode</string>
   <string name="path_home_key">Settings/Additional settings/Buttons/Home</string>
   <string name="path_key_settings">Settings/Additional settings/Buttons</string>
-  <string name="path_lab_functions_title">Settings/Additional/Beta features</string>
+  <string name="path_lab_functions_title">Settings/Additional settings/Beta features</string> 
   <string name="path_language_picker_title">Settings/Additional settings/Language &amp; input/Language</string>
   <string name="path_language_settings">Settings/Additional settings/Language &amp; input</string>
   <string name="path_led_settings">Settings/Additional settings/Notification light</string>
@@ -2296,10 +2297,10 @@ Seleccione su sistema operativo:"</string>
   <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Owner info</string>
   <string name="path_page_layout_settings">Settings/Display/Text size</string>
   <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
-  <string name="path_power_checker">Settings/Additional/Beta features/Power Checker</string>
+  <string name="path_power_checker">Settings/Additional settings/Beta features/Power Checker</string> 
   <string name="path_power_hide_mode_title">Settings/Battery &amp; performance/Manage apps battery usage</string>
   <string name="path_power_mode_settings">Settings/Battery &amp; performance/Power settings</string>
-  <string name="path_power_optimize">Settings/Additional/Beta features/Battery saver</string>
+  <string name="path_power_optimize">Settings/Additional settings/Beta features/Battery saver</string> 
   <string name="path_pref_volume_wake_title">Settings/Lock screen &amp; password/Wake with Volume buttons</string>
   <string name="path_preferred_network_type_settings">Settings/SIM cards &amp; mobile networks/Preferred network type</string>
   <string name="path_privacy_policy">Settings/About phone/Legal information/Privacy Policy</string>
@@ -2384,10 +2385,13 @@ Seleccione su sistema operativo:"</string>
   <string name="permission_detail_info">Detalles</string>
   <string name="permission_detail_info_summary">%1$d seguridad | %2$d privacidad | %3$d otros</string>
   <string name="permission_manage">Administrador de permisos</string>
+  <string name="permission_manage_global_build_title">Otros permisos</string> 
   <string name="permission_manage_summary">Pedir permiso antes de permitir que las aplicaciones lean tus contactos, vean tu historial de llamadas, cambien configuraciones del sistema o tengan acceso a la cámara y otros recursos del dispositivo</string>
   <string name="permission_manage_title">%s permisos</string>
   <string name="permission_manager">Permisos</string>
   <string name="permission_mgr">Permisos</string>
+  <string name="permission_settings_summary">Administrar los permisos relacionados con la ubicación, almacenamiento, teléfono, mensajes y contactos.</string>  
+  <string name="permission_settings_title">Permisos de las aplicaciones</string>  
   <string name="permissions_label">Permisos</string>
   <string name="personal_data_section_title">Datos personales</string>
   <string name="personal_device_admin_title">Personal</string>
