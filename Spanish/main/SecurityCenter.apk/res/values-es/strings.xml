@@ -105,7 +105,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="apps_item_sms_reset_button_text">Restaurar los valores predeterminados</string>
   <string name="apps_item_sms_title">Configuración de mensajería por defecto</string>
   <string name="apps_item_summary_sms">%s tiene acceso a sus mensajes, puede causar problemas de seguridad</string>
-  <string name="apps_item_summary_system_rooted">Fue concedido el acceso a la raíz del sistema, ¡restaura la configuración predeterminada para evitar riesgos de seguridad!</string>
+  <string name="apps_item_summary_system_rooted">Acceso root permitido. Restaurar la configuración predeterminada para evitar los riesgos de seguridad.</string>
   <string name="apps_item_summary_system_update">Algunos errores fueron corregidos en la nueva versión para hacer los pagos más seguros.</string>
   <string name="apps_item_title_system">Actualizacion del sistema</string>
   <string name="apps_item_virus_cleanup_success">¡Limpieza terminada!</string>
@@ -1201,7 +1201,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="sp_settings_info_monitor">Monitorear el entorno del sistema cuando se inician las aplicaciones de pago</string>
   <string name="sp_settings_plugin_monitor_summary">Escanear extensiones de pago cuando se inician</string>
   <string name="sp_settings_plugin_monitor_title">Monitorear extensiones de pago</string>
-  <string name="sp_settings_root_title_omit">Comprobar ROOT</string>
+  <string name="sp_settings_root_title_omit">Comprobar acceso root</string>
   <string name="sp_settings_title_input_method">Seguridad IME</string>
   <string name="spinner_title">%1$s - Datos móviles: %2$s</string>
   <string name="st_title_mode_choose_group">Seleccionar perfil</string>
@@ -1243,7 +1243,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="summary_virus">Eliminar virus para mantener su dispositivo seguro</string>
   <string name="summary_virus_cloudscan">Subir detalles y nombres de aplicaciones y escanear usando definiciones de virus en línea</string>
   <string name="summary_virus_update">Obtener automáticamente las últimas definiciones de virus</string>
-  <string name="summary_xiaomi_roaming">0.01 RMB por MB para el tráfico de red internacional.</string>
+  <string name="summary_xiaomi_roaming">CNY 0,01/MB para la itinerancia de datos móviles.</string>
   <string name="system_app">Aplicaciones del sistema</string>
   <string name="system_application">Aplicaciones del sistema</string>
   <string name="system_check_content">%1$d riesgos</string>
@@ -1378,9 +1378,10 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="toast_garbage_lib">Actualizaciones automáticas para el Limpiador activadas</string>
   <string name="toast_lockscreen_glogin_empty_password">Contraseña requerida</string>
   <string name="toast_network_switch">Esta aplicacion necesita conectarse a internet</string>
+  <string name="toast_reject_sms_read_permission_success">Establecido con éxito</string> 
   <string name="toast_root_apply_accept">Permiso root concedido a %s</string>
   <string name="toast_root_apply_reject">Permiso root denegado a %s</string>
-  <string name="toast_set_success">¡Activado con éxito!</string>
+  <string name="toast_set_success">Activado con éxito</string>
   <string name="toast_shortcut_install">Acceso directo enviado al escritorio</string>
   <string name="toast_shortcut_uninstall">Acceso directo eliminado</string>
   <string name="toast_show_notification">Acoplado al panel de notificación</string>
