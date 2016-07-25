@@ -34,6 +34,20 @@
         <item>Chino</item>
         <item>Hebreo</item>
      </string-array>
+        <string-array name="plmn_prefer_network_type_choices">
+        <item>2G</item>
+        <item>3G</item>
+        <item>4G</item>
+        <item>2G/3G</item>
+        <item>2G/4G</item>
+        <item>3G/4G</item>
+        <item>2G/3G/4G</item>
+     </string-array>
+        <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (auto)</item>
+        <item>Sólo 3G</item>
+        <item>Sólo 2G</item>
+     </string-array>
      <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
         <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
