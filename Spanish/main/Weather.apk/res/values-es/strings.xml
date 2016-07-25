@@ -5,7 +5,7 @@
   <string name="act_set_city_find_side">Ubicando…</string>
   <string name="act_set_city_find_side_error">"No se puede ubicar el dispositivo"</string>
   <string name="act_weather_find_city_added">Añadida</string>
-  <string name="act_weather_find_city_click_retry">Reintentar</string>
+  <string name="act_weather_find_city_click_retry">Inténtalo de nuevo</string>
   <string name="act_weather_find_city_net_no_good">"No se puede conectar a la red."</string>
   <string name="act_weather_find_city_no_result">No hay resultados</string>
   <string name="act_weather_find_city_searching">Buscando…</string>
@@ -21,7 +21,7 @@
   <string name="activity_weathermain_locationg">Ubicando</string>
   <string name="activity_weathermain_locationg_error">"No se pudo ubicar"</string>
   <string name="add_city">Añadir</string>
-  <string name="alert_warning">Aviso de alerta</string>
+  <string name="alert_warning">Alertas meteorológicas</string>
   <string name="app_label">Proveedor del clima</string>
   <string name="app_name">Clima</string>
   <string name="aqi_data_source">Información del clima por Caiyun</string>
@@ -31,7 +31,7 @@
   <string name="aqi_detail_sub_title">Detalles ICA</string>
   <string name="aqi_detail_subtitle">ICA %1$s</string>
   <string name="aqi_detail_title">Índice de Calidad del Aire</string>
-  <string name="aqi_detail_unit">Unidad:µg/m3(CO:mg/m3)</string>
+  <string name="aqi_detail_unit">Unidad:Unit: µg/m³ (CO: mg/m³)</string>
   <string name="aqi_publish_source">Actualizada a las %1$s por CNEMC</string>
   <string name="aqi_publish_time">Actualizada %1$s</string>
   <string name="aqi_quality_index_break">ICA %1$s</string>
@@ -52,7 +52,7 @@
   <string name="aqi_quality_index_unhealthy_short_desc">%1$s</string>
   <string name="aqi_short_desc">ICA %1$s</string>
   <string name="aqi_sub_desc">ICA</string>
-  <string name="aqi_top_pollution">Max Contaminación</string>
+  <string name="aqi_top_pollution">Principales contaminantes</string>
   <string name="button_abandon">Anular cambios</string>
   <string name="button_add_city">Añadir ciudad</string>
   <string name="button_allow">Aceptar</string>
@@ -103,7 +103,7 @@
   <string name="information_manager_information">Información meteorológica</string>
   <string name="information_manager_wlan">Cargar cuando se conecte a Wifi</string>
   <string name="information_menu_title"/>
-  <string name="information_set">Establecer Información</string>
+  <string name="information_set">Iniciar los ajustes de la página</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Instalar</string>
@@ -127,7 +127,7 @@
   <string name="realtime_aqi_title">Índicador de Calidad del Aire</string>
   <string name="realtime_humidity_title">Humedad relativa</string>
   <string name="realtime_wind_default_title">Viento</string>
-  <string name="retry">Reintentar</string>
+  <string name="retry">Inténtalo de nuevo</string>
   <string name="set">Ajustes</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>
@@ -153,8 +153,8 @@
   <string name="traffic_controls">Restricción vehicular</string>
   <string name="twc_logo_title"/>
   <string name="unit">Unidad</string>
-  <string name="unit_temperature">Unidad de temperatura</string>
-  <string name="unit_wind">Unidad de velocidad del viento</string>
+  <string name="unit_temperature">Unidades para la temperatura</string>
+  <string name="unit_wind">Unidades de velocidad del viento</string>
   <string name="view_forecast_item_yesterday">Ayer</string>
   <string name="view_indexes_item_today">Hoy</string>
   <string name="view_indexes_item_tommorrow">Mañana</string>
