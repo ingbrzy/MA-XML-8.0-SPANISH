@@ -87,6 +87,7 @@
   <string name="album_share_subtitle_quitting">Saliendo…</string>
   <string name="album_share_subtitle_requesting">Obtener información del álbum…</string>
   <string name="album_share_title_new_album">Compartir álbum de cuota</string>
+  <string name="album_show_local_only">Mostrar sólo los discos locales</string>
   <string name="album_type_baby">Compartir álbum</string>
   <string name="album_type_share">Álbum de bebé</string>
   <string name="album_type_system">Álbum del sistema</string>
@@ -702,6 +703,7 @@
   <string name="delete_from_album">del álbum \"%s\" de todos los dispositivos</string>
   <string name="delete_from_album_no_account">de \"%s\" álbum</string>
   <string name="delete_from_all_devices">de todos los dispositivos</string>
+  <string name="delete_from_cloud">Eliminar elementos del álbum en la nube</string>
   <string name="delete_from_devices">Todos los dispositivos que han sido sincronizados de manera automática</string>
   <string name="delete_from_devices_album">Todos los dispositivos en los cuales éste álbum está sincronizado</string>
   <string name="delete_from_homepage_album">Álbumes en la página inicial</string>
@@ -1192,6 +1194,7 @@
   <string name="project_available_tip">Pantalla detectada</string>
   <string name="projection">Proyectar</string>
   <string name="projection_checkbox_text">Recordar ésta pantalla</string>
+  <string name="projection_device_connection_failed">No se pudo conectar al dispositivo de proyección</string>
   <string name="projection_local_mobile">Móvil</string>
   <string name="projection_multi_title">Lista de dispositivos</string>
   <string name="projection_single_title">Transmitir a %s</string>
