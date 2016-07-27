@@ -212,6 +212,9 @@
   <string name="folder_exist">La carpeta ya existe.</string>
   <string name="folder_name_empty">El nombre de la carpeta no puede estar vacío</string>
   <string name="folder_name_illegal">Nombre de carpeta no válido</string>
+  <string name="folder_name_invalid">"Los nombres de carpetas no pueden contener los siguientes caracteres: /\\:*?&lt;&gt;"</string>
+  <string name="force_touch_clean">Limpiar</string>
+  <string name="force_touch_search">Buscar archivos</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Tocar&lt;/a&gt;para ir a la papelera</string>
   <string name="found_router">Router conectado</string>
   <string name="found_usb">Almacenamiento por USB conectado</string>
