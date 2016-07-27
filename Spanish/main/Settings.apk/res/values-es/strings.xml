@@ -2921,9 +2921,9 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_notification_app_list_settings">Notificaciones de aplicación;Notificaciones</string>
   <string name="search_notification_sound_title">Sonido de notificación predeterminado;sonido de notificación;sonidos de notificación</string>
   <string name="search_ntts_settings_title">TTS;Ajustes TTS;Sintetizadores de voz</string>
-  <string name="search_oldman_mode">Modo básico;Oldman mode;Litemode</string>
+  <string name="search_oldman_mode">Modo básico;Modo adulto mayor;Modo una sola mano</string>
   <string name="search_onekey_migrate">Transferencia;Migrar una clave</string>
-  <string name="search_other_advanced_settings">Ajustes adicionales;Más ajustes;Ajustes de Privacidad;Privacidad;Fecha y hora;Fecha;Hora;Idioma;Idioma y entrada;Entrada;Teclado;Modo una mano;Modo con una sola mano;Rendimiento de la batería;Batería;Rendimiento;Almacenamiento;Memoria;Luz de notificación;Luz LED;LED;Auriculares y efectos de audio;Auriculares,Audífonos;Efectos de audio;Botones;Llaves;accesibilidad;Aunciones beta;Funciones de laboratorio;Opciones de desarrollador;Copia de seguridad y restablecimiento;Copia de seguridad;Reiniciar;Restaurar;Transferencia;Mi Mover;Migrar una clave</string>
+  <string name="search_other_advanced_settings">Ajustes adicionales;Más ajustes;Ajustes de Privacidad;Privacidad;Fecha y hora;Fecha;Hora;Idioma;Idioma y entrada;Entrada;Teclado;Modo una mano;Modo con una sola mano;Rendimiento de la batería;Batería;Rendimiento;Almacenamiento;Memoria;Luz de notificación;Luz LED;LED;Auriculares y efectos de audio;Auriculares,Audífonos;Efectos de audio;Botones;Llaves;Accesibilidad;Funciones beta;Funciones de laboratorio;Opciones de desarrollador;Copia de seguridad y restablecimiento;Copia de seguridad;Reiniciar;Restaurar;Transferencia;Mi Mover;Migrar una clave</string>
   <string name="search_owner_info_settings">Información de propietario</string>
   <string name="search_page_layout_settings">Tamaño del texto;Tamaño de la fuente;Letra pequeña;Letra grande;Letra mediana;Letra XXL;Letra enorme;Tamaños de fuente</string>
   <string name="search_pointer_speed">Velocidad del puntero</string>
@@ -2943,7 +2943,7 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_ringtone">Tono del teléfono;Tono de llamada</string>
   <string name="search_safe_result_header_title_system">Privacidad;Seguridad;Orígenes desconocidos;Mostrar contraseña;Firma de Aplicación;Firmas de aplicaciones</string>
   <string name="search_screen_effect">Colores y saturación;Colores y contraste;Color;Colores;Saturación;Contraste</string>
-  <string name="search_screen_key_long_press_timeout">Set long press time;Pulsación larga;Presione;Mantener presionado</string>
+  <string name="search_screen_key_long_press_timeout">Establezca el tiempo de pulsasión larga;Pulsación larga;Presione;Mantener presionado</string>
   <string name="search_screen_on_proximity_sensor_title">Prevenir las llamadas de bolsillo;Bolsillo;Llamadas bolsillo;Prevenir las llamadas en el bolsillo</string>
   <string name="search_screen_paper_mode">Modo de lectura;Modo de lectura;Leer;Luz azul;Luz amarilla;Modo nocturno</string>
   <string name="search_screen_saver_settings">Salvapantallas</string>
@@ -2967,7 +2967,7 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_status_bar_settings_show_network_speed">Mostrar la velocidad de conexión;Velocidad de conexión</string>
   <string name="search_status_bar_settings_show_notification_icon">Mostrar iconos de notificación;Iconos de notificación;Mostrar iconos de notificación</string>
   <string name="search_status_bar_settings_show_screenshot_notification">Mostrar notificación pantalla;Notificación de captura de pantalla; Captura de pantalla</string>
-  <string name="search_status_bar_settings_style">Notifications &amp; toggles layout;toggles;toggle layout;separate toggles</string>
+  <string name="search_status_bar_settings_style">Notificaciones y capas de toggles;toggles;capa de toggle;separar toggles</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Contraer después de tocar;Colapso;Ocultar</string>
   <string name="search_status_sim">Estado SIM;SIM</string>
   <string name="search_storage">Almacenamiento;Memoria</string>
@@ -2979,13 +2979,13 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering;tethering;tether</string>
   <string name="search_tether_settings_title_usb">USB tethering;Tethering;tether;USB</string>
   <string name="search_theme_settings">Temas;Tema;Personalización;Personalizar</string>
-  <string name="search_toggle_position">Toggle positions;Toggles;toggle;change toggles</string>
+  <string name="search_toggle_position">Posición de toggle;Toggles;toggle;cambiar toggles</string>
   <string name="search_touch_assistant">Bola rápida;Asistente táctil</string>
   <string name="search_touch_sensitive_title">Modo guantes;Guantes;Guante</string>
   <string name="search_trusted_credentials">Credenciales de confianza;Firma de aplicación;Firmas de aplicaciones;Credenciales;Firma</string>
-  <string name="search_tts_settings_title">Text-to-speech output;Text-to-speech</string>
+  <string name="search_tts_settings_title">Salida de texto a voz;Text a voz</string>
   <string name="search_turn_on_security_lock">Cambiar bloqueo de la pantalla; Bloqueo de pantalla; Edición de bloqueo de pantalla, edición de bloqueo de pantalla, bloqueo de pantalla</string>
-  <string name="search_unlock_set">Pantalla de bloqueo automático;Pantalla de bloqueo;Bloqueo de pantalla;Información de propietario;Reposo;Despertar a la pantalla de bloqueo;Despertador;Teléfono despertador;Dispositivo de activación;Contraseña;Prevenir encendido en el  bolsillo;pocket dials;pocket;Bluetooth unlock;unlock;passcode;screenlock;PIN;Unlock with Bluetooth device;Lock screen &amp; password</string>
+  <string name="search_unlock_set">Pantalla de bloqueo automático;Pantalla de bloqueo;Bloqueo de pantalla;Información de propietario;Reposo;Despertar a la pantalla de bloqueo;Despertador;Teléfono despertador;Dispositivo de activación;Contraseña;Prevenir encendido en el  bolsillo;pocket dials;pocket;Desbloqueo por bluetooth;desbloquear;contraseña;pantalla de bloqueo;PIN;Desbloqueo por dispositivo bluetooth;Pantalla de bloqueo y contraseña</string>
   <string name="search_user_agreement">Términos del Servicio</string>
   <string name="search_user_dict_settings_title">Diccionario personal;Diccionario</string>
   <string name="search_vibrate_in_silent_title">Vibre en silencio;Vibrar;Vibración</string>
@@ -3437,7 +3437,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="touch_sounds_title">Tonos táctiles</string>
   <string name="touch_title">Pulsar</string>
   <string name="track_frame_time">Represent. GPU del perfil</string>
-  <string name="trackball_settings">Bola de control</string>
+  <string name="trackball_settings">Asistente táctil</string>
   <string name="trackball_wake_title">Encender con Trackball</string>
   <string name="transition_animation_scale_title">Transición de escala de animación</string>
   <string name="translation_contributors_summary"/>
