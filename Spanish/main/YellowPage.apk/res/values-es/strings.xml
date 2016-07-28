@@ -131,7 +131,13 @@ Comprueba el número de rastreo."</string>
   <string name="express_inquiry_status_difficult_goods">Desconocido</string>
   <string name="express_inquiry_status_dispatch">Despachando</string>
   <string name="express_inquiry_status_on_the_way">En camino</string>
-  <string name="express_inquiry_status_receipted">Con acuse de recibo</string>
+  <string name="express_inquiry_status_receipted">Recibido</string>
+  <string name="express_inquiry_status_return">Volver</string>
+  <string name="express_inquiry_status_sign_out">Rechazado</string>
+  <string name="express_inquiry_status_unknown">Desconocido</string>
+  <string name="express_inquiry_trace">Pista</string>
+  <string name="express_inquiry_trace_device_login_notice">"Usted está utilizando este servicio en otro dispositivo. Si desea recibir el estado del pedido de este dispositivo, es necesario verificar su cuenta Mi."</string>
+  <string name="express_inquiry_trace_success">Rastreo</string>
   <string name="express_inquiry_trace">Rastreo</string>
   <string name="express_inquiry_trace_device_login_notice">Estás utilizando este servicio en otro dispositivo. Si quieres recibir el estado del pedido en este dispositivo, es necesario verificar tu cuenta Mi.</string>
   <string name="express_inquiry_trace_success">Rastreo</string>
@@ -388,7 +394,7 @@ Total: DÓL %3$s"</string>
   <string name="try_again">Intentar de nuevo</string>
   <string name="turn_off_hint_title">¿No identificar los números desconocidos?</string>
   <string name="turn_off_phone_event_hint">Usted no podrá ver los datos del informe para los números de teléfono desconocidos.</string>
-  <string name="turn_off_smart_antispam_hint">¿Desactivar la protección para las llamadas de números desconocidos?</string>
+  <string name="turn_off_smart_antispam_hint">Identificar las llamadas de números desconocidos</string>
   <string name="turn_on_phone_event_dialog_title">Actualizar base de datos de identificación de números</string>
   <string name="turn_on_phone_event_summary">Sube el estado del teléfono de números de servicios</string>
   <string name="turn_on_phone_event_title">Recibir información de servicio</string>
