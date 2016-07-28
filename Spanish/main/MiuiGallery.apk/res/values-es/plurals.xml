@@ -44,6 +44,10 @@
         <item quantity="other">"Las fotos seleccionadas no están en el dispositivo. Estas serán descargadas."</item>
         <item quantity="one">"Las foto seleccionada no están en el dispositivo. Esta será descargada."</item>
     </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"Saltarse %d fotos que no se encuentren en el dispositivo."</item>
+        <item quantity="one">"Saltarse una foto que no se encuentre en el dispositivo."</item>
+    </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">"No se pudo descargar %1$d fotos,¿inténtar de nuevo?"</item>
         <item quantity="one">"No se pudo descargar la foto,¿inténtar de nuevo?"</item>
