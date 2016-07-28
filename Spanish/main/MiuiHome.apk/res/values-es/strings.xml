@@ -47,7 +47,8 @@
   <string name="change_wallpaper">Cambio</string>
   <string name="children_folder_title">Niños</string>
   <string name="children_mode_exit">Salir</string>
-  <string name="children_mode_tips">Volver a Ajustes para gestionar el acceso a las aplicaciones.</string>
+  <string name="children_mode_tips_message">No hay ninguna aplicación en modo de niño. Por favor seleccione la aplicación.</string>
+  <string name="children_mode_tips_title">Por favor seleccione la aplicación</string>
   <string name="choose_wallpaper">Cambiar fondos</string>
   <string name="chooser_wallpaper">Escoja un nuevo fondo de pantalla</string>
   <string name="cloud_app_restore_title">Pendiente</string>
@@ -207,9 +208,9 @@
   <string name="preferences_general_title">Ajustes generales</string>
   <string name="preferences_title">Ajustes del launcher</string>
   <string name="recommend_apps_default_title">Vacío</string>
-  <string name="recommend_apps_notice">Aplicaciones recomendadas</string>
-  <string name="recommend_apps_notice_nodata">Aplicaciones recomendadas (sin datos)</string>
-  <string name="recommend_apps_switch_title">Apicaciones recomendadas</string>
+  <string name="recommend_apps_notice">Aplicaciones promocionadas</string>
+  <string name="recommend_apps_notice_nodata">Aplicaciones promocionadas (sin datos)</string>
+  <string name="recommend_apps_switch_title">Apicaciones promocionadas</string>
   <string name="recommend_apps_tips">Esta característica necesita conectarse a internet para trabajar normalmente. Para desactivar esta función, toca el nombre de esta carpeta.</string>
   <string name="reset_scene_prompt">El escenario volverá al diseño predeterminado.</string>
   <string name="screen_number">%d pantalla</string>
