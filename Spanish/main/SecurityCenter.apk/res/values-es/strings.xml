@@ -98,17 +98,17 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="app_not_installed_toast">Aplicación no instalada en tu dispositivo.</string>
   <string name="app_version">Versión</string>
   <string name="app_wifi">Wi-Fi</string>
-  <string name="apps_item_sign_dialog_content">"%s"La firma es diferente de la versión en la App Store. ¿Eliminar esta aplicación e instalar la versión oficial? Nota: la instalación de una aplicación con una firma en conflicto puede conducir a la pérdida de datos de la aplicación.</string>
+  <string name="apps_item_sign_dialog_content">"%s's La firma es diferente de la versión en la App Store. ¿Eliminar esta aplicación e instalar la versión oficial? Nota: la instalación de una aplicación con una firma en conflicto puede conducir a la pérdida de datos de la aplicación.</string>
   <string name="apps_item_sign_dialog_title">Instalar aplicación oficial</string>
   <string name="apps_item_sign_install_button_text">Reemplazar</string>
-  <string name="apps_item_sms_default_set_success">¡Establecido con éxito!</string>
+  <string name="apps_item_sms_default_set_success">Establecido con éxito</string>
   <string name="apps_item_sms_reset_button_text">Restaurar los valores predeterminados</string>
   <string name="apps_item_sms_title">Configuración de mensajería por defecto</string>
   <string name="apps_item_summary_sms">%s tiene acceso a sus mensajes, puede causar problemas de seguridad</string>
   <string name="apps_item_summary_system_rooted">Acceso root permitido. Restaurar la configuración predeterminada para evitar los riesgos de seguridad.</string>
   <string name="apps_item_summary_system_update">Algunos errores fueron corregidos en la nueva versión para hacer los pagos más seguros.</string>
   <string name="apps_item_title_system">Actualizacion del sistema</string>
-  <string name="apps_item_virus_cleanup_success">¡Limpieza terminada!</string>
+  <string name="apps_item_virus_cleanup_success">Limpieza terminada</string>
   <string name="apps_item_virus_cleanup_text">Limpio</string>
   <string name="apps_item_virus_summary_installed">Aplicación instalada</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
@@ -517,8 +517,8 @@ Para más información compruebe el mensaje que ha recibido de su operador"</str
   <string name="lockpattern_recording_intro_header">Conecte por lo menos 4 puntos para crear un patrón</string>
   <string name="lockpattern_retry_button_text">Dibujar de nuevo</string>
   <string name="lockpattern_settings_help_how_to_record">Dibujar un patrón de bloqueo</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Espere %d segundo(s) e intente de nuevo.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Espere %ds e intente de nuevo.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiados intentos fallidos</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Siguiente</string>
   <string name="lockscreen_access_pattern_cell_added">Celda añadida</string>
@@ -740,7 +740,8 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="pm_auto_start_by_system_event">Permitir a las aplicaciones iniciar automáticamente</string>
   <string name="pm_auto_start_proc_is_running">Ejecutándose</string>
   <string name="pm_remember_choice">Recordar mi elección</string>
-  <string name="pm_root_success_notification_title">Acceso root habilitado</string>
+  <string name="pm_root_success_notification_infomation">Asegúrese de entender los riesgos relacionados con el acceso root</string>
+  <string name="pm_root_success_notification_title">Permitir el acceso root</string>
   <string name="power_20s_enter_mode">Cambiando a %2$s en %1$ds</string>
   <string name="power_20s_shutdown">El dispositivo se apagará en 20 segundos</string>
   <string name="power_analysis_consume_title">Uso de la batería</string>
@@ -1008,6 +1009,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
+  <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
   <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
@@ -1026,6 +1028,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
   <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
   <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
+  <string name="preference_key_payment_security">key_module_payment_security</string>
   <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
   <string name="preference_key_permission_manager">key_permission_manager</string>
   <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
@@ -1098,7 +1101,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="result_autoscan_info">Monitorear automáticamente el entorno del sistema cuando se inician las aplicaciones de pago</string>
   <string name="result_sign_header">Se ha encontrado %d aplicaciones no oficiales</string>
   <string name="result_sms_header">Riesgos detectados en mensajería</string>
-  <string name="result_sms_info_antispam">Encienda Anti Spam para proteger el dispositivo de URL maliciosas</string>
+  <string name="result_sms_info_antispam">Encienda Lista de bloqueos para proteger el dispositivo de URL maliciosas</string>
   <string name="result_sms_info_auth">Restringir el acceso de aplicaciones de terceros para los códigos de verificación..</string>
   <string name="result_sms_title_antispam">Amenazado por SMS de URLs maliciosos</string>
   <string name="result_sms_title_auth">Existe el riesgo de fugas de SMS financiera</string>
@@ -1171,6 +1174,7 @@ Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un
   <string name="settings_category_overheat">Calentamiento</string>
   <string name="settings_choice_no_notification">Apagado</string>
   <string name="settings_power_save_ontime_title">Programar</string>
+  <string name="settings_title_payment_security">Ajustes de seguridad en los pagos</string>
   <string name="settings_title_permission">Ajustes de permisos</string>
   <string name="show_traffic_dialog_message">Su información de uso de datos será mostrada en el panel de notificaciones. Puede desactivar esta característica en cualquier momento en Uso de datos &gt; Ajustes</string>
   <string name="show_traffic_dialog_title">Mostrar uso en el panel de notificaciones</string>
