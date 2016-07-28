@@ -53,7 +53,7 @@
   <string name="adding">Añadiendo</string>
   <string name="adding_recipients">Añadiendo destinos…</string>
   <string name="adding_to_album">Añadiendo fotos…</string>
-  <string name="adjust">Ajustar</string>
+  <string name="adjust">Mejorar</string>
   <string name="adjust_auto">Auto</string>
   <string name="adjust_blur">Difuminar</string>
   <string name="adjust_brightness">Brillo</string>
@@ -672,6 +672,7 @@
   <string name="create_quick_icon_on_desk">Crear accesos directos</string>
   <string name="creating_baby_album">Creando álbum…</string>
   <string name="crop">Recortar</string>
+  <string name="crop_and_rotate">Ajustar</string>
   <string name="crop_fail_to_load_image">No se puede cargar la imagen</string>
   <string name="crop_label">Recortadas</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
@@ -1037,6 +1038,7 @@
   <string name="more">Más</string>
   <string name="more_album_hint">,etc</string>
   <string name="more_face_album_name">Más personas</string>
+  <string name="move_to_other_albums_tip">La sincronización Mi Cloud del álbum será desactivada si mueve este álbum a la lista de otros albumes. ¿Mover el álbum ahora?</string>
   <string name="mosaic">Mosaico</string>
   <string name="move">Mover</string>
   <string name="move_to_cloud_album">Mover a</string>
@@ -1095,22 +1097,21 @@
   <string name="operation_delete">Borrar</string>
   <string name="operation_delete_confirm_message_folder">"Se eliminará todo el contenido de la carpeta."</string>
   <string name="operation_detail">Detalles</string>
-  <string name="operation_disable_auto_upload">Desactivar la restauración automática</string>
   <string name="operation_do_delete_local_thumnail">Eliminar del dispositivo</string>
   <string name="operation_download">Descargar foto (%s)</string>
   <string name="operation_edit">Editar</string>
-  <string name="operation_enable_auto_upload">Encender restauración automática</string>
   <string name="operation_enter_delete_local">Eliminar respaldo multimedia de este dispositivo</string>
   <string name="operation_failed">La operación falló</string>
   <string name="operation_force_top">Anclar arriba</string>
   <string name="operation_give_name">Nombre</string>
   <string name="operation_hide">Ocultar</string>
   <string name="operation_in_process">Procesando…</string>
+  <string name="operation_move_to_other_albums">Mover a Otros álbumes</string>
   <string name="operation_not_show_in_photos_tab">"No mostrar en la pestaña de Fotos"</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_refresh">Actualizar</string>
   <string name="operation_remove_from_face_album">Eliminar del álbum</string>
-  <string name="operation_remove_from_face_album_button">Eliminar</string>
+  <string name="operation_remove_from_other_albums">Quitar de Otros albumes</string>
   <string name="operation_remove_secret">Quitar de álbum oculto</string>
   <string name="operation_remove_secret_button">Mostrar</string>
   <string name="operation_rename">Renombrar</string>
@@ -1182,7 +1183,6 @@
   <string name="picker_image_will_download">"%d de las fotografías seleccionadas no están en el dispositivo. Las fotos serán descargadas."</string>
   <string name="picker_mobile_data_video">"No se puede descargar vídeos a partir de datos móviles, omitido %d."</string>
   <string name="picker_origin_need_download">"%1$d de las fotos seleccionadas (%2$dMB) no están en el dispositivo. ¿Descargar usando datos móviles?"</string>
-  <string name="picker_skip_unavailable_images">" "<item quantity="one">"Omitido una foto que no está en el dispositivo."</item> <item quantity="other">"Omitido %d fotos que no están en el dispositivo."</item>" "</string>
   <string name="picker_title_format">Selected photos: %d</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
   <string name="picker_title_unlimit">Elegir imagen</string>
@@ -1194,7 +1194,7 @@
   <string name="project_available_tip">Pantalla detectada</string>
   <string name="projection">Proyectar</string>
   <string name="projection_checkbox_text">Recordar ésta pantalla</string>
-  <string name="projection_device_connection_failed">No se pudo conectar al dispositivo de proyección</string>
+  <string name="projection_device_connection_failed">"No se pudo conectar el proyector"</string>
   <string name="projection_local_mobile">Móvil</string>
   <string name="projection_multi_title">Lista de dispositivos</string>
   <string name="projection_single_title">Transmitir a %s</string>
@@ -1229,6 +1229,7 @@
   <string name="relation_text_mother">Madre</string>
   <string name="relation_with_you">Elegir tipo de relación</string>
   <string name="release_space_finish_format">Liberado %s de almacenamiento local</string>
+  <string name="remove_from_other_albums_tip">La sincronización del álbum de activará con Mi Cloud cuando éste es removido de la lista de Otros albumes, ¿Remover el álbum ahora?</string>
   <string name="remove_from_secret_fail">"No se pudo eliminar del álbum oculto"</string>
   <string name="remove_from_secret_failed_message_with_count">%2$s elementos no pueden ser eliminados del álbum oculto: %1$s.</string>
   <string name="remove_from_secret_failed_with_reason">No se pudo eliminar del álbum oculto. %1$s.</string>
@@ -1437,6 +1438,8 @@
   <string name="trash_bin">Papelera</string>
   <string name="trash_bin_summary">Navegar por las fotos de respaldo que se hayan eliminado recientemente</string>
   <string name="try_to_send">Enviar</string>
+  <string name="turn_off_and_move">Desactivar y Mover</string>
+  <string name="turn_on_and_remove">Activar y remover</string>
   <string name="turn_on_sync">Activar la sincronización</string>
   <string name="ubifocus_data_invalid">Algunos de los datos de esta imagen no son válidos</string>
   <string name="ubifocus_data_missing">Faltan algunos de los datos para esta imagen</string>
