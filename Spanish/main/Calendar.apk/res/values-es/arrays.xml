@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Notificación</item>
         <item>Email</item>
         <item>Mensaje de texto</item>
         <item>Alarma</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>Sin aviso</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>1 día</item>
-        <item>2 días</item>
-        <item>1 semana</item>
     </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
@@ -31,18 +18,6 @@
         <item>2880</item>
         <item>10080</item>
     </integer-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Sin aviso</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>1 día</item>
-        <item>2 días</item>
-        <item>1 semana</item>
-    </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
         <item>0</item>
@@ -117,7 +92,7 @@
         <item>Dubai</item>
         <item>Kabul</item>
         <item>Islamabad, Karachi</item>
-        <item>"Uralsk"</item>
+        <item>Uralsk</item>
         <item>Ekaterimburgo</item>
         <item>Kolkata</item>
         <item>Sri Lanka</item>
@@ -147,7 +122,7 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-	<string-array name="availability">
+    <string-array name="availability">
         <item>Ocupado</item>
         <item>Disponible</item>
         <item>Tentativa</item>
@@ -175,35 +150,25 @@
         <item>Este y futuros eventos</item>
         <item>Todos los eventos</item>
     </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Este y futuros eventos</item>
-        <item>Todos los eventos</item>
-    </string-array>
     <string-array name="change_response_labels">
         <item>Sólo este evento</item>
         <item>Todos los eventos de la serie</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Día</item>
-        <item>Semana</item>
-        <item>Mes</item>
-        <item>Agenda</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Me retrasaré un par de minutos.</item>
         <item>Estoy allí en 10 minutos.</item>
         <item>Empieza sin mí.</item>
-        <item>"Lo siento, no puedo ir. Tendremos que aplazar la cita."</item>
+        <item>Lo siento, no puedo ir. Tendremos que aplazar la cita.</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Siempre</item>
         <item>Sólo cuando se silencia el timbre</item>
         <item>Nunca</item>
     </string-array>
-	<string-array name="widget_style_list">
-		<item>Transparente</item>
-		<item>Fondo blanco</item>
-	</string-array>
+    <string-array name="widget_style_list">
+        <item>Transparente</item>
+        <item>Fondo blanco</item>
+    </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>Sin recordatorio</item>
         <item>0 minutos</item>
@@ -259,13 +224,13 @@
         <item>mes</item>
         <item>año</item>
     </string-array>
-	<string-array name="repeat_frequency_spinner_plural">
+    <string-array name="repeat_frequency_spinner_plural">
         <item>días</item>
         <item>semanas</item>
         <item>meses</item>
         <item>años</item>
     </string-array>
-	<string-array name="repeat_choose_day">
+    <string-array name="repeat_choose_day">
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -333,45 +298,43 @@
         <item>Fin de semana</item>
         <item>Semana entera</item>
     </string-array>
-	<string-array name="repeat_choose_end">
+    <string-array name="repeat_choose_end">
         <item>Nunca</item>
         <item>Tiempo</item>
         <item>Contar</item>
     </string-array>
-    <array name="account_birthday">
-        <item>#ffe99080</item>
-        <item>#b3d5a198</item>
-        <item>#fffcefef</item>
-        <item>#ffce7e6f</item>
-    </array>
-    <array name="account_xiaomi">
-        <item>#ff31aeaa</item>
-        <item>#b355c3bf</item>
-        <item>#ffe9f5f5</item>
-        <item>#ff349a97</item>
-    </array>
-    <array name="account_preset1">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-    </array>
-    <array name="account_preset2">
-        <item>#fff0a16f</item>
-        <item>#b3d88c5b</item>
-        <item>#fffdf3ec</item>
-        <item>#ffe4884d</item>
-    </array>
-    <array name="account_preset3">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset4">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-    </array>
+    <string-array name="reminder_minutes_labels">
+        <item>Sin aviso</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 día</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Sin aviso</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 día</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Este y futuros eventos</item>
+        <item>Todos los eventos</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+        <item>Agenda</item>
+    </string-array>
 </resources>

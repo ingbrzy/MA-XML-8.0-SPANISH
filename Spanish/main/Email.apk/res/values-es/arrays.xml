@@ -1,51 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-	 <string-array name="calendar_remind_string_array">
+    <string-array name="calendar_remind_string_array">
         <item>Esta noche</item>
         <item>Mañana</item>
         <item>Fin de semana</item>
         <item>Próxima semana</item>
         <item>Próximo mes</item>
         <item>Elegir fecha</item>
-     </string-array>
-     <string-array name="compose_modes">
+    </string-array>
+    <string-array name="compose_modes">
         <item>Responder</item>
         <item>Responder a todos</item>
         <item>Reenviar</item>
-     </string-array>
-     <string-array name="general_preference_text_zoom_summary_array">
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
         <item>Texto diminuto</item>
         <item>Texto pequeño</item>
         <item>Texto normal</item>
         <item>Texto grande</item>
         <item>Texto enorme</item>
-     </string-array>
-     <string-array name="general_preference_text_zoom_values">
+    </string-array>
+    <string-array name="general_preference_text_zoom_values">
         <item>Texto diminuto</item>
         <item>Texto pequeño</item>
         <item>normal</item>
         <item>Texto grande</item>
         <item>Texto enorme</item>
-     </string-array>
-     <string-array name="menu_att_mgr_sort_string_array">
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
         <item>Recientes</item>
         <item>Formato</item>
         <item>Nombre</item>
         <item>Remitente</item>
         <item>Fecha</item>
-     </string-array>
-     <string-array name="moveto_folder_sections">
+    </string-array>
+    <string-array name="moveto_folder_sections">
         <item>Sistema</item>
         <item>Usados con frecuencia</item>
         <item>Todas las carpetas</item>
-     </string-array>
-     <string-array name="prefEntries_autoAdvance">
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
         <item>Más reciente</item>
         <item>Más antiguo</item>
         <item>Lista de conversaciones</item>
-     </string-array>
-     <string-array name="signature_normal_string_array">
+    </string-array>
+    <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Sitio:</item>
         <item>Email:</item>
@@ -61,8 +60,8 @@
         <item>Correspondencia:</item>
         <item>QQ:</item>
         <item>MSN:</item>
-     </string-array>
-     <string-array name="signature_normal_string_array_next">
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
         <item>Dirección:</item>
         <item>Tel:</item>
         <item>Nombre:</item>
@@ -71,8 +70,8 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Código postal:</item>
-     </string-array>
-     <string-array name="signature_special_string_array">
+    </string-array>
+    <string-array name="signature_special_string_array">
         <item>Renuncia:</item>
         <item>Renuncia email</item>
         <item>Enviado via WPSMail</item>
@@ -80,8 +79,8 @@
         <item>Enviado con</item>
         <item>Gracias,</item>
         <item>Atentamente</item>
-     </string-array>
-     <string-array name="signature_special_string_array_next">
+    </string-array>
+    <string-array name="signature_special_string_array_next">
         <item>Gracias,</item>
         <item>Atentamente</item>
         <item>Enviado desde mi</item>
@@ -92,5 +91,5 @@
         <item>Este email</item>
         <item>Renuncia</item>
         <item>Renuncia email</item>
-     </string-array>
+    </string-array>
 </resources>

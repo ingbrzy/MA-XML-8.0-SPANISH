@@ -1,128 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="group_move_success_toast">
+    <plurals name="group_move_success_toast">
         <item quantity="other">Movido %1$d contactos</item>
-     </plurals>
-     <plurals name="group_copy_success_toast">
+    </plurals>
+    <plurals name="group_copy_success_toast">
         <item quantity="other">Copiado %1$d contactos</item>
-     </plurals>
-     <plurals name="listTotalPhoneContacts">
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contactos con número de teléfono</item>
         <item quantity="one">1 contacto con número de teléfono</item>
-     </plurals>
-     <plurals name="listTotalAllContacts">
+    </plurals>
+    <plurals name="listTotalAllContacts">
         <item quantity="other">%d contactos</item>
         <item quantity="one">1 contacto</item>
-     </plurals>
-     <plurals name="listFoundAllContacts">
+    </plurals>
+    <plurals name="listFoundAllContacts">
         <item quantity="other">%d encontrados</item>
         <item quantity="one">1 encontrado</item>
-     </plurals>
-     <plurals name="searchFoundContacts">
+    </plurals>
+    <plurals name="searchFoundContacts">
         <item quantity="other">%d encontrados</item>
         <item quantity="one">1 encontrado</item>
-     </plurals>
-     <plurals name="merge_info">
+    </plurals>
+    <plurals name="merge_info">
         <item quantity="other">fusionado de %0$d fuentes</item>
         <item quantity="one">no fusionado</item>
-     </plurals>
-     <plurals name="num_groups_in_account">
+    </plurals>
+    <plurals name="num_groups_in_account">
         <item quantity="other">%0$d grupos</item>
         <item quantity="one">1 grupo</item>
-     </plurals>
-     <plurals name="num_contacts_in_group">
+    </plurals>
+    <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d personas de %2$s</item>
         <item quantity="one">%1$d persona de %2$s</item>
-     </plurals>
-     <plurals name="group_list_num_contacts_in_group">
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d personas</item>
         <item quantity="one">%1$d persona</item>
-     </plurals>
-     <plurals name="group_list_num_numbers_in_group">
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
-     </plurals>
-     <plurals name="notification_voicemail_title">
+    </plurals>
+    <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d mensajes de voz</item>
         <item quantity="one">Mensaje de voz</item>
-     </plurals>
-     <plurals name="export_sim_contacts_dialog_message">
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">La tarjeta SIM puede almacenar %d contactos.</item>
         <item quantity="one">La tarjeta SIM puede almacenar %d contacto.</item>
-     </plurals>
-     <plurals name="confirm_delete_sim_entry_miui">
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">¿Borrar %d contactos de la tarjeta SIM?</item>
         <item quantity="one">¿Borrar %d contacto de la tarjeta SIM?</item>
-     </plurals>
-     <plurals name="number_of_items_selected">
+    </plurals>
+    <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="one">%1$d seleccionado</item>
-     </plurals>
-	 <plurals name="number_of_items_available">
+    </plurals>
+    <plurals name="number_of_items_available">
         <item quantity="other">%1$d restantes</item>
         <item quantity="one">%1$d restante</item>
     </plurals>
-     <plurals name="pick_favorites_list_title">
+    <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d favoritos</item>
         <item quantity="one">%1$d favorito</item>
-     </plurals>
-     <plurals name="pick_recent_list_title">
+    </plurals>
+    <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d contactos recientes</item>
         <item quantity="one">%1$d contacto reciente</item>
-     </plurals>
-     <plurals name="hint_search_contacts">
+    </plurals>
+    <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactos</item>
         <item quantity="one">%1$d contacto</item>
-     </plurals>
-     <plurals name="hint_search_phone_numbers">
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
-     </plurals>
-     <plurals name="hint_search_emails">
+    </plurals>
+    <plurals name="hint_search_emails">
         <item quantity="other">%1$d contactos con email</item>
         <item quantity="one">%1$d contacto con email</item>
-     </plurals>
-     <plurals name="hint_account_contacts">
+    </plurals>
+    <plurals name="hint_account_contacts">
         <item quantity="other">Encontró %1$d elementos</item>
         <item quantity="one">Encontró %1$d elemento</item>
-     </plurals>
-     <plurals name="pick_favorites_contacts_list_title">
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favoritos</item>
         <item quantity="one">%1$d favorito</item>
-     </plurals>
-     <plurals name="pick_recent_contacts_list_title">
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
         <item quantity="other">%1$d contactos recientes</item>
         <item quantity="one">%1$d contacto reciente</item>
-     </plurals>
-     <plurals name="group_add_success_toast">
+    </plurals>
+    <plurals name="group_add_success_toast">
         <item quantity="other">" %1$d contactos añadidos"</item>
         <item quantity="one">%1$d contacto añadido</item>
-     </plurals>
-     <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Copiados %d contactos</item>
-        <item quantity="one">Copiado %d contacto</item>
-     </plurals>
-     <plurals name="btn_delete_multi_contacts">
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Borrar %d contactos</item>
         <item quantity="one">Borrar %d contacto</item>
-     </plurals>
-     <plurals name="smart_group_member_count">
+    </plurals>
+    <plurals name="smart_group_member_count">
         <item quantity="other">%d personas</item>
         <item quantity="one">%d persona</item>
-     </plurals>
-     <plurals name="device_import_done_toast">
+    </plurals>
+    <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactos importados</item>
         <item quantity="one">%1$d contacto importado</item>
-     </plurals>
-     <plurals name="batch_delete_msg">
+    </plurals>
+    <plurals name="batch_delete_msg">
         <item quantity="other">¿Borrar %d contactos?</item>
         <item quantity="one">¿Borrar %d contacto?</item>
-     </plurals>
-     <plurals name="numSelectedSimContacts">
+    </plurals>
+    <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="zero">%1$d seleccionados</item>
         <item quantity="one">%1$d seleccionado</item>
-     </plurals>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">¿Bloquear estos %1$d números?</item>
         <item quantity="one">¿Bloquear %1$d número?</item>

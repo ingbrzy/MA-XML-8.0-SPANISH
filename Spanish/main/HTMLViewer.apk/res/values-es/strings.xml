@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_label">Visor HTML</string>
-  <string name="app_name_which_call">Aplicación:%s</string>
-  <string name="app_version_which_call">Versión aplicación:%s</string>
-  <string name="license_host_unreachable">"No se puede conectar a la red. Para ver esta información, 
+    <string name="app_label">Visor HTML</string>
+    <string name="loading">Cargando…</string>
+    <string name="app_name_which_call">Aplicación:%s</string>
+    <string name="app_version_which_call">Versión aplicación:%s</string>
+    <string name="policy_name">Política:%s</string>
+    <string name="mibi_license">Términos de Servicio de Mi Credit</string>
+    <string name="license_host_unreachable">"No se puede conectar a la red. Para ver esta información, 
 ve a %s"</string>
-  <string name="loading">Cargando…</string>
-  <string name="mibi_license">Términos de Servicio de Mi Credit</string>
-  <string name="open_wifi_connect_summary">Tocar para ver detalles.</string>
-  <string name="open_wifi_connect_title">Conectar a %1$s</string>
-  <string name="permdesc_accessDrm">Permitir a la aplicación acceder a contenido protegido con DRM.</string>
-  <string name="policy_name">Política:%s</string>
-  <string name="settings_license_activity_loading">Cargando…</string> 
-  <string name="settings_license_activity_title">Licencias de código abierto</string> 
-  <string name="settings_license_activity_unavailable">Existe un problema al cargar las licencias.</string> 
-  <string name="settings_safetylegal_activity_loading">Cargando…</string> 
-  <string name="settings_safetylegal_activity_title">Información de seguridad</string> 
-  <string name="settings_safetylegal_activity_unreachable">"No tiene conexión de datos. Para ver esta información ahora, vaya a %s desde cualquier computadora que tenga acceso a Internet."</string>
-  <string name="settings_safetylegal_title">Información de seguridad</string> 
+    <string name="permdesc_accessDrm">Permitir a la aplicación acceder a contenido protegido con DRM.</string>
+    <string name="open_wifi_connect_title">Conectar a %1$s</string>
+    <string name="open_wifi_connect_summary">Tocar para ver detalles.</string>
+    <string name="settings_license_activity_title">Licencias de código abierto</string>
+    <string name="settings_license_activity_loading">Cargando…</string>
+    <string name="settings_license_activity_unavailable">Existe un problema al cargar las licencias.</string>
+    <string name="settings_safetylegal_title">Información de seguridad</string>
+    <string name="settings_safetylegal_activity_title">Información de seguridad</string>
+    <string name="settings_safetylegal_activity_unreachable">No tiene conexión de datos. Para ver esta información ahora, vaya a %s desde cualquier computadora que tenga acceso a Internet.</string>
+    <string name="settings_safetylegal_activity_loading">Cargando…</string>
 </resources>
