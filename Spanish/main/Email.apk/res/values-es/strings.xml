@@ -28,8 +28,8 @@
     <string name="account_settings_enforced_label">Políticas</string>
     <string name="account_settings_enforced_summary">Ninguna</string>
     <string name="account_settings_incoming_summary">Nombre de usuario, contraseña y otros ajustes del servidor</string>
-    <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
- Update them now?"</string>
+    <string name="account_settings_login_dialog_content_fmt">"El nombre de usuario o contraseña para %s es incorrecta.
+ ¿Actualizar ahora?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">No se pudo iniciar sesión en %s. El servidor respondió: %s</string>
     <string name="account_settings_login_dialog_title">No se ha podido iniciar sesión</string>
     <string name="account_settings_mail_check_frequency_label">Frecuencia</string>
@@ -200,9 +200,9 @@
     <string name="bcc">CCO</string>
     <string name="bcc_heading">"Cco: "</string>
     <string name="blank_feedback_toast">Debe escribir comentarios</string>
-    <string name="body_forward_email_text">[Forward]</string>
+    <string name="body_forward_email_text">[Reenviar]</string>
     <string name="body_hint">Redactar correo electrónico</string>
-    <string name="body_inline_pic_text">[Picture]</string>
+    <string name="body_inline_pic_text">[Imagen]</string>
     <string name="bottom_bar_more_quickreply">Respuesta rápida</string>
     <string name="bottom_bar_more_share">Compartir</string>
     <string name="bottom_bar_no_quickreply_toast">No hay respuesta rápida</string>
@@ -238,7 +238,7 @@
     <string name="compose_picturesexceedlimits">No se puede exceder de 5 imágenes por línea en el mensaje</string>
     <string name="compose_send">Enviar</string>
     <string name="compose_sent">Correo enviado</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">De acuerdo</string>
     <string name="confirm_before_delete">Confirmar antes de eliminar</string>
     <string name="confirm_before_delete_keywords">Confirmar antes de eliminar;confirmación de eliminación</string>
     <string name="confirm_before_send">Confirmar antes de enviar</string>
@@ -320,9 +320,9 @@
     <string name="dialog_gmail_proxy_server_is_error">Error en el servidor proxy de Gmail.</string>
     <string name="dialog_insufficient_space_on_external">Imposible descargar adjunto. No hay espacio de almacenamiento externo suficiente .</string>
     <string name="dialog_insufficient_space_on_internal">No hay espacio de almacenamiento interno suficiente.</string>
-    <string name="disable_admin_warning">"WARNING: Deactivating the Email app's permission
-         to administer your device will delete all email accounts that require it, along with their
-        messages, contacts, calendar events, and other data."</string>
+    <string name="disable_admin_warning">"ADVERTENCIA: Desactivar el permiso de la aplicación de correo electrónico
+         para administrar su dispositivo, conducirá a que se eliminen todas las cuentas de correo y los
+        mensajes, contactos, eventos de calendario y otros datos."</string>
     <string name="discard">Descartar</string>
     <string name="discard_drafts">Descartar borradores</string>
     <string name="dismiss_tip_hover_text">Descartar consejo</string>
@@ -379,9 +379,9 @@
     <string name="expand_recipient_details">Ampliar detalles del destinatario</string>
     <string name="fail_get_email_message">Fallo de obtención de mensaje.</string>
     <string name="failed">No se pudo cargar la imagen</string>
-    <string name="failed_read_phone_state_permission">"Allow access to device's status"</string>
-    <string name="failed_read_write_calendar_permission">Allow access to Calendar</string>
-    <string name="failed_read_write_contacts_permission">Allow access to Contacts</string>
+    <string name="failed_read_phone_state_permission">"Permitir el acceso al estado del dispositivo"</string>
+    <string name="failed_read_write_calendar_permission">Permitir el acceso al Calendario</string>
+    <string name="failed_read_write_contacts_permission">Permitir el acceso a los Contactos</string>
     <string name="feedback">Enviar comentarios</string>
     <string name="feedback_body">Mensaje</string>
     <string name="feedback_sent">Gracias por sus comentarios</string>
@@ -424,7 +424,6 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Iniciar sesión en Gmail</string>
     <string name="header_category_account">Cuentas</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Comentarios</string>
     <string name="header_label_general_preferences">General</string>
     <string name="help_and_info">Ayuda</string>
@@ -473,7 +472,7 @@
     <string name="mailbox_name_display_junk">Spam</string>
     <string name="mailbox_name_display_outbox">Bandeja de salida</string>
     <string name="mailbox_name_display_sent">Enviados</string>
-    <string name="mailbox_name_display_starred">Starred</string>
+    <string name="mailbox_name_display_starred">Destacados</string>
     <string name="mailbox_name_display_trash">Papelera</string>
     <string name="mailbox_name_display_unread">No leídos</string>
     <string name="mailbox_settings_activity_title">Ajustes de sincronización</string>
@@ -559,7 +558,7 @@ Declinado:
     <string name="message_invite_tentative">Quizás</string>
     <string name="message_invite_title">Invitación a evento de calendario</string>
     <string name="message_saved">Mensaje guardado como borrador.</string>
-    <string name="message_view_attachment_background_load">Attachments in your forwarded message will be downloaded prior to sending.</string>
+    <string name="message_view_attachment_background_load">Los archivos adjuntos en el mensaje reenviado se descargarán antes de enviar.</string>
     <string name="mibill_privacy_policy_button1">No acepto</string>
     <string name="mibill_privacy_policy_button2">De acuerdo</string>
     <string name="mibill_privacy_policy_description">Permitir que Mi Wallet analice y gestione sus facturas automáticamente. Esta función está desactivada por defecto para las direcciones de correo relacionadas con el trabajo.</string>
@@ -583,7 +582,7 @@ Declinado:
     <string name="no_application_found">No se encontró ninguna aplicación para abrir este adjunto.</string>
     <string name="no_application_found_title">Abrir este adjunto.</string>
     <string name="no_contacts">Sin contactos.</string>
-    <string name="no_content_in_body">[No Body]</string>
+    <string name="no_content_in_body">[Sin Cuerpo]</string>
     <string name="no_conversations">Sin mensajes</string>
     <string name="no_mails">No hay correo.</string>
     <string name="no_matched_attachment">Sin resultados.</string>
@@ -601,8 +600,8 @@ Declinado:
     <string name="oauth_error_description">No se pudo autenticar</string>
     <string name="oauth_gmail_login_notify">Introduzca su usuario y contraseña de su cuenta de Google en la siguiente pantalla de inicio de sesión.</string>
     <string name="oauth_login_continue">Continuar</string>
-    <string name="ok">OK</string>
-    <string name="okay_action">Ok</string>
+    <string name="ok">De acuerdo</string>
+    <string name="okay_action">De acuerdo</string>
     <string name="outbox_alert_button_no_resend">No enviar</string>
     <string name="outbox_alert_button_resend">Reenviar</string>
     <string name="outbox_alert_certificate_error">Contacte con el administrador del servidor de correo y actualice su certificado.</string>
@@ -630,8 +629,8 @@ Declinado:
     <string name="password_expire_warning_dialog_title">Contraseña de bloqueo de pantalla a punto de caducar</string>
     <string name="password_expire_warning_ticker_fmt">"\" %s  \"requiere que cambia tu pantalla de bloqueo, PIN o contraseña."</string>
     <string name="password_expired_content_title">Contraseña de bloqueo de pantalla caducada</string>
-    <string name="password_expired_dialog_content_fmt">"         The data for %s is being erased from your device.
-         You can restore it by changing your lock screen PIN or password. Change it now?"</string>
+    <string name="password_expired_dialog_content_fmt">"         Los datos de %s están siendo borrados de su dispositivo.
+         Puede restaurarlos al cambiar su PIN o contraseña de bloqueo de pantalla. ¿Cambiar ahora?"</string>
     <string name="password_expired_dialog_title">La contraseña de bloqueo de pantalla ha caducado</string>
     <string name="password_expired_ticker">Su contraseña o PIN de bloqueo ha caducado.</string>
     <string name="path_about_account_setting">Correo electrónico/Ajustes/Cuentas</string>
@@ -738,7 +737,7 @@ Declinado:
     <string name="quote_divider_5">-----------Se utiliza para hacer referencia a la línea divisoria-------------</string>
     <string name="quote_divider_6">---Original---</string>
     <string name="quote_divider_7">Mensaje original</string>
-    <string name="quote_divider_apple">"\u000d
+    <string name="quote_divider_apple">"
 >"</string>
     <string name="quote_divider_huawei_zh">Enviado desde mi Huawei</string>
     <string name="quote_divider_ipad_zh">Enviado desde mi iPad</string>
@@ -764,7 +763,7 @@ Declinado:
     <string name="remote_search_result">%s resultados del servidor</string>
     <string name="remove_account">Eliminar cuenta</string>
     <string name="remove_folder">Quitar de %1$s</string>
-    <string name="remove_star">Unstar</string>
+    <string name="remove_star">No favorito</string>
     <string name="reply">Responder</string>
     <string name="reply_add_bodycontent">¿Añadir texto de respuesta rápida para el contenido del mensaje?</string>
     <string name="reply_all">Responder a todos</string>
@@ -905,8 +904,8 @@ Pulse "<b>Sincronizar ahora</b> para sincronizar el correo una vez, o <b>Cambiar
     <string name="widget_all_mail">Todo el correo</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Otros</string>
-    <string name="wipe_account_fail_description">Allow</string>
-    <string name="wipe_account_fail_title">"Couldn't delete personal info"</string>
+    <string name="wipe_account_fail_description">Permitir</string>
+    <string name="wipe_account_fail_title">"Error al eliminar la información personal"</string>
     <string name="wrong_password">La contraseña introducida no es correcta</string>
     <string name="yes">Sí</string>
     <string name="yidianzixun">Yi Dian Zixun</string>
