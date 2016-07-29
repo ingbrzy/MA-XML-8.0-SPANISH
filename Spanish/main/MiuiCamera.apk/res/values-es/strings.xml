@@ -284,8 +284,6 @@
     <string name="face_beauty_age_alias_31_44">31-44</string>
     <string name="face_beauty_age_alias_45_60">45-60</string>
     <string name="face_beauty_age_alias_60_m">60+</string>
-    <string name="face_beauty_close">Apagado</string> 
-    <string name="face_beauty_smart">Inteligente</string> 
     <string name="simple_mode_button_text_face_beauty">Cerrar embellecedor</string>
     <string name="pref_face_beauty_title">Embellecedor</string>
     <string name="pref_face_beauty_close">i:0</string>
@@ -383,10 +381,12 @@
     <string name="simple_mode_button_text_stereo_mode">Desactivar estéreo</string>
     <string name="dual_camera_too_close_toast">La cámara está demasiado cerca del objeto.</string>
     <string name="dual_camera_lens_covered_toast">La lente está cubierta.</string>
-    <string name="dual_camera_use_hint">"Modo estéreo ayuda a difuminar el fondo.
+    <string name="dual_camera_use_hint">"Modo estéreo ayuda a difuminar el fondo.\u000d
 El objeto no debe estar a más de 2 metros."</string>
     <string name="pref_camera_square_mode_title">Cuadro</string>
     <string name="simple_mode_button_text_square">Desactive la plaza</string>
+    <string name="face_beauty_smart">Inteligente</string>
+    <string name="face_beauty_close">Apagado</string>
     <string name="pref_skin_beautify_intelligent_title">Inteligente</string>
     <string name="pref_skin_beautify_slim_title">Delgado</string>
     <string name="pref_skin_beautify_eye_title">Ojos</string>
