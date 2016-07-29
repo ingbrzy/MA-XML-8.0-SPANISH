@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="Ntracks_search_result">
+    <plurals name="Ntracks_search_result">
         <item quantity="other">%d canciones encontradas</item>
         <item quantity="one">%d canción encontrada</item>
-     </plurals>
-     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">"Sólo puedes descargar %d canciones de este mes de tu suscripción. Actualizar tu suscripción para descargar más de canciones. "</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">"Sólo puedes descargar %d canciones de este mes de tu suscripción. ¿Descargar canciones seleccionadas?"</item>
+        <item quantity="other">Sólo puedes descargar %d canciones de este mes de tu suscripción. ¿Descargar canciones seleccionadas?</item>
     </plurals>
-     <plurals name="Nexpired_remind">
+    <plurals name="Nexpired_remind">
         <item quantity="other">%d días restantes</item>
         <item quantity="one">%d día restante</item>
-     </plurals>
-     <plurals name="NTrackstoDownload">
+    </plurals>
+    <plurals name="NTrackstoDownload">
         <item quantity="other">Se descargarán %d canciones</item>
         <item quantity="one">Se descargará 1 canción</item>
-     </plurals>
-     <plurals name="NPlaylist_delete_confirm">
-         <item quantity="other">¿Borrar %d listas de reproducción?</item>
-         <item quantity="one">¿Borrar %d lista de reproducción?</item>
-     </plurals>
-     <plurals name="Nnew_tracks_count">
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">¿Borrar %d listas de reproducción?</item>
+        <item quantity="one">¿Borrar %d lista de reproducción?</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
         <item quantity="other">%d nueva</item>
         <item quantity="one">1 nueva</item>
-     </plurals>
-     <plurals name="Ntracks_count">
+    </plurals>
+    <plurals name="Ntracks_count">
         <item quantity="other">%d canciones</item>
         <item quantity="one">%d canción</item>
-     </plurals>
-     <plurals name="Ntracks_similar_count">
+    </plurals>
+    <plurals name="Ntracks_similar_count">
         <item quantity="other">%d canciones similares</item>
         <item quantity="one">%d canción similar</item>
-     </plurals>
-     <plurals name="Nartists_count">
-         <item quantity="other">%d artistas</item>
-         <item quantity="one">%d artista</item>
-     </plurals>
-     <plurals name="Ngroups_count">
-         <item quantity="other">%d bandas</item>
-         <item quantity="one">%d banda</item>
-     </plurals>
-     <plurals name="dialog_delete_descript">
-         <item quantity="other">¿Borrar %d canciones?</item>
-         <item quantity="one">¿Borrar %d canción?</item>
-     </plurals>
-     <plurals name="dialog_remove_descript">
-         <item quantity="other">¿Quitar %d canciones?</item>
-         <item quantity="one">¿Quitar %d canción?</item>
-     </plurals>
-     <plurals name="Ntracks_add_to_playlist">
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d artistas</item>
+        <item quantity="one">%d artista</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d bandas</item>
+        <item quantity="one">%d banda</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">¿Borrar %d canciones?</item>
+        <item quantity="one">¿Borrar %d canción?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">¿Quitar %d canciones?</item>
+        <item quantity="one">¿Quitar %d canción?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d canciones añadidas a la lista de reproducción</item>
         <item quantity="one">Canción añadida a la lista de reproducción</item>
-     </plurals>
-     <plurals name="Ntracks_remove_from_playlist">
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d canciones eliminadas de la lista de reproducción</item>
         <item quantity="one">Canción eliminada de la lista de reproducción</item>
-     </plurals>
-     <plurals name="artist_list_fragment_item_count_format">
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d canciones</item>
         <item quantity="one">1 canción</item>
-     </plurals>
-     <plurals name="Nquit_warning">
-         <item quantity="other">El reproductor parará en %d minutos</item>
-         <item quantity="one">El reproductor parará en %d minuto</item>
-     </plurals>
-     <plurals name="send_songs_toast">
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">El reproductor parará en %d minutos</item>
+        <item quantity="one">El reproductor parará en %d minuto</item>
+    </plurals>
+    <plurals name="send_songs_toast">
         <item quantity="other">Se enviarán %d canciones</item>
         <item quantity="one">Se enviará 1 canción</item>
-     </plurals>
-     <plurals name="folder_songs_count">
+    </plurals>
+    <plurals name="folder_songs_count">
         <item quantity="other">%d canciones</item>
         <item quantity="one">1 canción</item>
-     </plurals>
-     <plurals name="Nnew_local_audios">
+    </plurals>
+    <plurals name="Nnew_local_audios">
         <item quantity="other">%d canciones añadidas</item>
         <item quantity="one">%d canción añadida</item>
-     </plurals>
-     <plurals name="multichoice_title">
-         <item quantity="other">%d elementos seleccionados</item>
-         <item quantity="one">%d elemento seleccionado</item>
-     </plurals>
-     <plurals name="song_already_favorite">
-         <item quantity="other">Canciones marcada como favoritas.</item>
-         <item quantity="one">Canción marcada como favorita.</item>
-     </plurals>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d elementos seleccionados</item>
+        <item quantity="one">%d elemento seleccionado</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Canciones marcada como favoritas.</item>
+        <item quantity="one">Canción marcada como favorita.</item>
+    </plurals>
 </resources>

@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-     <plurals name="folder_terms">
+    <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s notas</item>
+        <item quantity="one">1 nota</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultados para \"%2$s\"</item>
+        <item quantity="one">%1$s resultado para \"%2$s\"</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s notas</item>
+        <item quantity="one">%1$s nota</item>
+    </plurals>
+    <plurals name="folder_terms">
         <item quantity="other">%1$s carpetas</item>
         <item quantity="one">%1$s carpeta</item>
-     </plurals>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$s no han sido sincronizadas</item>
         <item quantity="one">%1$s no ha sido sincronizada</item>
     </plurals>
-     <plurals name="note_count_in_folder">
-        <item quantity="other">%1$s notas</item>
-        <item quantity="one">1 nota</item>
-     </plurals>
-     <plurals name="note_terms">
-        <item quantity="other">%1$s notas</item>
-        <item quantity="one">%1$s nota</item>
-     </plurals>
-     <plurals name="search_results_title">
-        <item quantity="other">%1$s resultados para \"%2$s\"</item>
-        <item quantity="one">%1$s resultado para \"%2$s\"</item>
-     </plurals>
 </resources>

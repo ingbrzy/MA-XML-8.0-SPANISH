@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-     <string-array name="cdma_system_select_choices">
-        <item>En casa sólo</item>
-        <item>Automático</item>
-     </string-array>
-     <string-array name="cs_call_type">
-        <item>CSVoice</item>
-     </string-array>
-     <string-array name="ims_call_cap_types">
-        <item>Voz</item>
-        <item>Vídeo</item>
-     </string-array>
-     <string-array name="ims_call_types">
-        <item>Voz</item>
-        <item>Vídeo</item>
-        <item>CSVoz</item>
-     </string-array>
-     <string-array name="ims_video_cs_call_types">
-        <item>Vídeo</item>
-        <item>CSVoz</item>
-     </string-array>
-     <string-array name="ims_voice_cs_call_types">
-        <item>Voz</item>
-        <item>CSVoz</item>
-     </string-array>
-     <string-array name="list_language_entries">
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Triple modo</item>
+    </string-array>
+    <string-array name="list_language_entries">
         <item>Inglés</item>
         <item>Francés</item>
         <item>Español</item>
@@ -33,57 +14,9 @@
         <item>Coreano</item>
         <item>Chino</item>
         <item>Hebreo</item>
-     </string-array>
-        <string-array name="plmn_prefer_network_type_choices">
-        <item>2G</item>
-        <item>3G</item>
-        <item>4G</item>
-        <item>2G/3G</item>
-        <item>2G/4G</item>
-        <item>3G/4G</item>
-        <item>2G/3G/4G</item>
-     </string-array>
-        <string-array name="gsm_umts_network_preferences_choices">
-        <item>2G/3G (auto)</item>
-        <item>Sólo 3G</item>
-        <item>Sólo 2G</item>
-     </string-array>
-     <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
-        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
-        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
-        <item>TD-SCDMA/WCDMA/LTE</item>
-        <item>TD-SCDMA/GSM/WCDMA</item>
-        <item>TD-SCDMA/GSM/LTE</item>
-        <item>TD-SCDMA/GSM</item>
-        <item>TD-SCDMA/LTE</item>
-        <item>TD-SCDMA/WCDMA</item>
-        <item>TD-SCDMA only</item>
-        <item>LTE / WCDMA</item>
-        <item>LTE</item>
-        <item>Global</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo auto</item>
-        <item>GSM/WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
-     </string-array>
-     <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Triple modo</item>
-     </string-array>
-    <string-array name="livetalk_about_info_array">
-        <item>- Soporta números de teléfono nacionales e internacionales.</item>
-        <item>- Cada llamada usa 1KB de datos móviles (usa conexión de móvil normal cuando no tienes conexión de datos móviles).</item>
-        <item>- Tu proveedor puede cobrarte por roaming cuando uses este servicio.</item>
-        <item>- Tienes que encender Free Listening para usar este servicio, de lo contrario tu proveedor puede cobrarte por roaming.</item>
-        <item>- Soporte del servicio: YunZhiXun, RongLianYunTongXun, LTSC</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>En casa sólo</item>
+        <item>Automático</item>
     </string-array>
 </resources>

@@ -40,7 +40,7 @@
         <item quantity="other">"%d mins "</item>
         <item quantity="one">"%d min "</item>
     </plurals>
-        <plurals name="deep_clean_auto_memory_clean">
+    <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">En %1$d mins</item>
         <item quantity="one">En %1$d min</item>
     </plurals>
@@ -88,6 +88,10 @@
         <item quantity="other">Actualizaciones disponibles para %d aplicaciones.</item>
         <item quantity="one">Actualización disponible para %d aplicación.</item>
     </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
+        <item quantity="one">%d aplicación tiene riesgo de privacidad</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">La contraseña debe contener al menos %d letras.</item>
         <item quantity="one">La contraseña debe contener al menos una letra.</item>
@@ -111,9 +115,6 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">La contraseña debe contener al menos %d caracteres diferentes a letra.</item>
         <item quantity="one">La contraseña debe contener al menos un carácter diferente a letra.</item>
-    </plurals><plurals name="notification_apps">
-        <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
-        <item quantity="one">%d aplicación tiene riesgo de privacidad</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicaciones bloqueadas</item>
@@ -147,5 +148,5 @@
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s aplicaciones no están protegidas</item>
         <item quantity="one">%s aplicación no está protegida</item>
-</plurals>
+    </plurals>
 </resources>
