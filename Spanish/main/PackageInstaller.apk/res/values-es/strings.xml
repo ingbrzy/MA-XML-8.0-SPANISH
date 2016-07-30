@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="additional_permissions">Permisos adicionales</string>
     <string name="caller_app">Solicitud de permiso de %1$s</string>
     <string name="safe_guard_support">Soporte Técnico suministrado por %1$s</string>
     <string name="safe_relative">Seguridad</string>
@@ -44,6 +45,8 @@
     <string name="dlg_appstore_notice">Obtener esta aplicación de nuestra &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u> oficial</string>
     <string name="reboot_time">Preparándose para reiniciar… (%1$s)</string>
     <string name="btn_text_full_scan">Escaneo completo</string>
+    <string name="menu_hide_system">Sistema Ocultar</string>
+    <string name="menu_show_system">Mostrar sistema</string>
     <string name="message_full_scanning">Escaneo completo…</string>
     <string name="message_quick_scanning">Escaneo rápido…</string>
     <string name="message_install_in_market">Recomendamos que instales la aplicación desde nuestra App Store</string>
@@ -82,6 +85,7 @@
     <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
 
 ¿Permitir ahora y en adelante?"</string>
+    <string name="app_permissions_group_summary">%1$d de %2$d aplicaciones permitidas</string>
     <string name="manage_applications">Gestionar aplicaciones</string>
     <string name="dlg_app_replacement_title">¿Reemplazar la aplicación existente?</string>
     <string name="dlg_sys_app_replacement_statement">"Esta es una aplicación de sistema. ¿Seguro que quiere reemplazarla?
