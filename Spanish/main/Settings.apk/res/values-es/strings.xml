@@ -1325,6 +1325,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
     <string name="advanced_settings">Configuración avanzada</string>
     <string name="advanced_settings_summary">Activar más opciones de configuración</string>
     <string name="application_info_label">Información de la aplicación</string>
+    <string name="storage_internal_title">Almacenamiento del dispositivo</string>
     <string name="storage_label">Espacio de almacenamiento</string>
     <string name="auto_launch_label">Lanzar de manera predeterminada</string>
     <string name="auto_launch_label_generic">Valores predeterminados</string>
@@ -3632,6 +3633,9 @@ Seleccione su sistema operativo:"</string>
     <string name="wifi_auto_connect">Conectar automáticamente</string>
     <string name="select_ssid_type_title">Seleccionar SSID</string>
     <string name="gsm_to_wifi_connect_type_title">De GSM a Wi-Fi</string>
+    <string name="wifi_ap_band_config">Seleccione Banda AP</string>
+    <string name="wifi_ap_choose_2G">Banda 2.4 GHz</string>
+    <string name="wifi_ap_choose_5G">Banda 5 GHz</string>
     <string name="wifi_priority_settings_label">Ajustes prioritarios</string>
     <string name="wifi_dialog_remind_type_title">Red de datos móviles</string>
     <string name="wifi_priority_type_title">Establecer la prioridad de los PA manualmente</string>
