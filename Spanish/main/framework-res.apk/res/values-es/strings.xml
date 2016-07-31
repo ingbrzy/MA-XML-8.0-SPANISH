@@ -231,6 +231,8 @@
     <string name="permgroupdesc_affectsBattery">Uso de las características que se pueden agotar rápidamente la batería</string>
     <string name="permgrouplab_calendar">Calendario</string>
     <string name="permgroupdesc_calendar">Acceso directo a calendario y eventos</string>
+    <string name="permgrouplab_contacts">Contactos</string>
+    <string name="permgroupdesc_contacts">acceder a los contactos</string>
     <string name="permgrouplab_dictionary">Leer el diccionario del usuario</string>
     <string name="permgroupdesc_dictionary">Leer palabras del diccionario del usuario</string>
     <string name="permgrouplab_writeDictionary">Escribir en el diccionario del usuario</string>
@@ -243,6 +245,10 @@
     <string name="permgroupdesc_voicemail">Acceso directo al correo de voz</string>
     <string name="permgrouplab_microphone">Micrófono</string>
     <string name="permgroupdesc_microphone">Acceso directo a micrófono para grabar audio</string>
+    <string name="permgrouplab_phone">Teléfono</string>
+    <string name="permgroupdesc_phone">realización y gestión de llamadas telefónicas</string>
+    <string name="permgrouplab_sensors">Sensores corporales</string>
+    <string name="permgroupdesc_sensors">datos de los sensores sobre sus signos vitales</string>
     <string name="permgrouplab_camera">Cámara</string>
     <string name="permgroupdesc_camera">Acceso directo a cámara para imagen o captura de video</string>
     <string name="permgrouplab_screenlock">Bloquear pantalla</string>
