@@ -23,6 +23,7 @@
     <string name="perm_action_accept">Permitir</string>
     <string name="perm_action_prompt">Preguntar</string>
     <string name="perm_action_reject">Denegar</string>
+    <string name="permission_warning_template">Permitir a %1$s el %2$s?</string>
     <string name="unknown_installer">Herramientas de PC no identificadas</string>
     <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) reemplazará la versión actualmente instalada (%3$s). Se guardarán todos los datos de la aplicacion existente.</string>
     <string name="lift_ban">Permitir</string>
@@ -82,6 +83,8 @@
     <string name="unknown_apps_dlg_text3">.</string>
     <string name="ok">Aceptar</string>
     <string name="settings">Ajustes</string>
+    <string name="allPerms">Todas</string>
+    <string name="all_permissions">Todos los permisos</string>
     <string name="allow_source_dlg_title">¿Permitir la instalación de aplcaciones desde fuentes desconocidas?</string>
     <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
 
@@ -90,10 +93,16 @@
     <string name="manage_applications">Gestionar aplicaciones</string>
     <string name="menu_hide_system">Ocultar sistema</string>
     <string name="menu_show_system">Mostrar sistema</string>
+    <string name="never_ask_again">No volver a preguntar</string>
     <string name="dlg_app_replacement_title">¿Reemplazar la aplicación existente?</string>
     <string name="dlg_sys_app_replacement_statement">"Esta es una aplicación de sistema. ¿Seguro que quiere reemplazarla?
 
 Se guardarán todos los datos de usuario existentes."</string>
+    <string name="done">Hecho</string>
+    <string name="grant_confirm_question">¿Desea conceder los siguientes permisos? Se obtendrá acceso a:</string>
+    <string name="grant_dialog_button_allow">Permitir</string>
+    <string name="grant_dialog_button_deny">Rechazar</string>
+    <string name="install">Instalar</string>
     <string name="out_of_space_dlg_title">No hay espacio suficiente</string>
     <string name="out_of_space_dlg_text">No hay suficiente espacio de almacenamiento en el dispositivo para instalar %1$s</string>
     <string name="dlg_ok">Aceptar</string>
