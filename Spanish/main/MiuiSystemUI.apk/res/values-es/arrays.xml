@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Escaneando…</item>
-        <item>Conexión…</item>
-        <item>Autentificar…</item>
-        <item>Obteniendo dirección IP…</item>
-        <item>Conectado</item>
-        <item>Suspendido</item>
-        <item>Desconexión…</item>
-        <item>Desconectado</item>
-        <item>Sin éxito</item>
-        <item>Bloqueado</item>
-        <item>Evitar temporalmente la mala conexión</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Escaneando…</item>
-        <item>Conexión a %1$s…</item>
-        <item>Autenticando en %1$s…</item>
-        <item>Obteniendo dirección IP de %1$s…</item>
-        <item>Conectado a %1$s</item>
-        <item>Suspendido</item>
-        <item>Desconexión de %1$s…</item>
-        <item>Desconectado</item>
-        <item>Sin éxito</item>
-        <item>Bloqueado</item>
-        <item>Evitar temporalmente mala conexión</item>
-    </string-array>
     <string-array name="aqi_title_prefix">
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>
@@ -49,7 +21,7 @@
         <item>Chubasco</item>
         <item>Fuertes lluvias</item>
         <item>Lluvia moderada</item>
-        <item>Lluvia ligera </item>
+        <item>"Lluvia ligera "</item>
         <item>Lluvia y nieve mezclada</item>
         <item>Ventisca</item>
         <item>Nieve</item>

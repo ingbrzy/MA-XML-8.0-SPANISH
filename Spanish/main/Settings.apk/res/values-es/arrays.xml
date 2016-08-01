@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>Conjunto</item>
+        <item>Separar</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
         <item>Europa</item>
@@ -28,10 +32,6 @@
         <item>10 minutos</item>
         <item>30 minutos</item>
     </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>Conjunto</item>
-        <item>Separar</item>
-    </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>De inmediato</item>
         <item>5 segundos</item>
@@ -48,6 +48,7 @@
         <item>Normal</item>
         <item>Grande</item>
         <item>Enorme</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Muy lento</item>
@@ -79,7 +80,7 @@
         <item>Desconectado</item>
         <item>Incorrecto</item>
         <item>Bloqueada</item>
-        <item>"Desactivando mala conexión temporalmente"</item>
+        <item>Desactivando mala conexión temporalmente</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -93,7 +94,7 @@
         <item>Desconectado</item>
         <item>Incorrecto</item>
         <item>Bloqueada</item>
-        <item>"Desactivando mala conexión temporalmente"</item>
+        <item>Desactivando mala conexión temporalmente</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
@@ -213,6 +214,7 @@
         <item>Mensajería</item>
         <item>Medios</item>
         <item>Dispositivo</item>
+        <item>Bootup</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>ubicación aproximada</item>
@@ -262,6 +264,19 @@
         <item>silenciar/dejar de silenciar micrófono</item>
         <item>proyectar contenido multimedia</item>
         <item>activar VPN</item>
+        <item>activate VPN</item>
+        <item>wlan change</item>
+        <item>bluetooth change</item>
+        <item>send MMS</item>
+        <item>read MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+        <item>nfc change</item>
+        <item>delete SMS</item>
+        <item>delete MMS</item>
+        <item>delete contacts</item>
+        <item>delete call log</item>
+        <item>data change</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Ubicación</item>
@@ -311,6 +326,19 @@
         <item>Silenciar/dejar de silenciar micrófono</item>
         <item>Proyectar contenido multimedia</item>
         <item>Activar VPN</item>
+        <item>Activate VPN</item>
+        <item>WLAN change</item>
+        <item>Bluetooth change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+        <item>Nfc change</item>
+        <item>Delete SMS</item>
+        <item>Delete MMS</item>
+        <item>Delete contacts</item>
+        <item>Delete call log</item>
+        <item>Data change</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Corto</item>
@@ -505,11 +533,6 @@
         <item>En caché (actividad)</item>
         <item>En caché (cliente de actividad)</item>
         <item>En caché (vacío)</item>
-    </string-array>
-    <string-array name="haptic_feedback_level_entries">
-        <item>Fuerte</item>
-        <item>Medio</item>
-        <item>Suave</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Apagado</item>
@@ -760,7 +783,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>15 minutos</item>
-        <item>30 minutos</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Ocultar animaciones del sistema</item>
@@ -832,6 +854,79 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ua</item>
         <item>ae</item>
         <item>vn</item>
+        <item>zm</item>
+        <item>zw</item>
+        <item>il</item>
+        <item>it</item>
+        <item>jm</item>
+        <item>jo</item>
+        <item>kz</item>
+        <item>ke</item>
+        <item>kw</item>
+        <item>lb</item>
+        <item>ls</item>
+        <item>ly</item>
+        <item>lt</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mr</item>
+        <item>mu</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>np</item>
+        <item>ni</item>
+        <item>ng</item>
+        <item>kp</item>
+        <item>om</item>
+        <item>pk</item>
+        <item>ps</item>
+        <item>pa</item>
+        <item>py</item>
+        <item>pe</item>
+        <item>ph</item>
+        <item>pl</item>
+        <item>qa</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sa</item>
+        <item>sn</item>
+        <item>rs</item>
+        <item>sg</item>
+        <item>sk</item>
+        <item>so</item>
+        <item>za</item>
+        <item>gs</item>
+        <item>kr</item>
+        <item>es</item>
+        <item>lk</item>
+        <item>kn</item>
+        <item>lc</item>
+        <item>vc</item>
+        <item>sd</item>
+        <item>sr</item>
+        <item>sz</item>
+        <item>ch</item>
+        <item>sy</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tn</item>
+        <item>tr</item>
+        <item>tm</item>
+        <item>tt</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>us</item>
+        <item>uy</item>
+        <item>uz</item>
+        <item>ve</item>
+        <item>vn</item>
+        <item>ye</item>
         <item>zm</item>
         <item>zw</item>
     </string-array>

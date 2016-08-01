@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="aqi_title_prefix">
-     <item>ICA %1$s</item>
-     <item>ICA %1$s</item>
-     <item>ICA %1$s</item>
-     <item>ICA %1$s</item>
-     <item>ICA %1$s</item>
-     <item>ICA %1$s</item>
-  </string-array>
-  <string-array name="weather_type">
-    <item>Despejado</item>
-    <item>Nuboso</item>
-    <item>Encapotado</item>
-    <item>Niebla</item>
-    <item>Tormenta fuerte</item>
-    <item>Aguacero</item>
-    <item>Tormenta</item>
-    <item>Truenos</item>
-    <item>Chubascos</item>
-    <item>Fuerte lluvia</item>
-    <item>Llovizna</item>
-    <item>Lluvia ligera</item>
-    <item>Lluvia y nieve</item>
-    <item>Ventisca</item>
-    <item>Nieve</item>
-    <item>Fuerte nevada</item>
-    <item>Nieve moderada</item>
-    <item>Nieve ligera</item>
-    <item>Fuerte tormenta de arena</item>
-    <item>Tormenta de arena</item>
-    <item>Arena</item>
-    <item>Viento</item>
-    <item>Granizo</item>
-    <item>Polvo</item>
-    <item>Neblina</item>
-    <item>Lluvia helada</item>
-	<item></item>
-  </string-array>
-  <string-array name="indices_uv_level">
-    <item>Débil</item>
-    <item>Medio</item>
-    <item>Fuerte</item>
-  </string-array>
-  <string-array name="indices_sport">
-	<item>Adecuado</item>
-	<item>Inadecuado</item>
-  </string-array>
-  <string-array name="indices_car_wash">
-	<item>Adecuado</item>
-	<item>Inadecuado</item>
-  </string-array>
-  <string-array name="wind_direction">
+    <string-array name="aqi_title_prefix">
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Despejado</item>
+        <item>Nuboso</item>
+        <item>Encapotado</item>
+        <item>Niebla</item>
+        <item>Tormenta fuerte</item>
+        <item>Aguacero</item>
+        <item>Tormenta</item>
+        <item>Truenos</item>
+        <item>Chubascos</item>
+        <item>Fuerte lluvia</item>
+        <item>Llovizna</item>
+        <item>Lluvia ligera</item>
+        <item>Lluvia y nieve</item>
+        <item>Ventisca</item>
+        <item>Nieve</item>
+        <item>Fuerte nevada</item>
+        <item>Nieve moderada</item>
+        <item>Nieve ligera</item>
+        <item>Fuerte tormenta de arena</item>
+        <item>Tormenta de arena</item>
+        <item>Arena</item>
+        <item>Viento</item>
+        <item>Granizo</item>
+        <item>Polvo</item>
+        <item>Neblina</item>
+        <item>Lluvia helada</item>
+        <item></item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Débil</item>
+        <item>Medio</item>
+        <item>Fuerte</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Adecuado</item>
+        <item>Inadecuado</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Adecuado</item>
+        <item>Inadecuado</item>
+    </string-array>
+    <string-array name="wind_direction">
         <item>N</item>
         <item>NE</item>
         <item>E</item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="mins_ago">
+    <plurals name="mins_ago">
         <item quantity="other">Hace %1$d minutos</item>
         <item quantity="zero">Hace %1$d minutos</item>
         <item quantity="one">Hace %1$d minuto</item>
@@ -33,19 +33,19 @@
     <plurals name="million">
         <item quantity="other">Descargado por %1$d personas</item>
     </plurals>
-	<plurals name="view_num">
+    <plurals name="view_num">
         <item quantity="other">%1$d vistas</item>
         <item quantity="zero">%1$d vistas</item>
         <item quantity="one">%1$d vista</item>
         <item quantity="two">%1$d vistas</item>
         <item quantity="few">%1$d vistas</item>
         <item quantity="many">%1$d vistas</item>
-     </plurals>		  
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
         <item quantity="one">%d grupo</item>
     </plurals>
-	<plurals name="deepclean_cache_summary">
+    <plurals name="deepclean_cache_summary">
         <item quantity="other">Puedes borrar datos no importantes de %d aplicaciones</item>
         <item quantity="one">Puedes borrar datos no importantes de %d aplicación</item>
     </plurals>
@@ -61,7 +61,7 @@
         <item quantity="other">Encontradas %d fotos, puedes borrar las duplicadas o redundantes</item>
         <item quantity="one">Encontrada %d foto, puedes borrar las duplicadas o redundantes</item>
     </plurals>
-	<plurals name="deepclean_apk_summary">
+    <plurals name="deepclean_apk_summary">
         <item quantity="other">Encontradas %d APKs, puedes borrar las no necesarias.</item>
         <item quantity="one">Encontrada %d APK, puedes borrarla.</item>
     </plurals>

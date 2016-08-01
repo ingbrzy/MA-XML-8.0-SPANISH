@@ -1,44 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-     <plurals name="snooze_message">
-        <item quantity="other">Retrasar %d mins</item>
-        <item quantity="one">Retrasar %d min</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="one">1 minuto</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="one">1 segundo</item>
-     </plurals>
-     <plurals name="timer_message_hour">
+    <plurals name="timer_message_hour">
         <item quantity="other">"%1$d horas "</item>
         <item quantity="one">"%1$d hora "</item>
-     </plurals>
-     <plurals name="timer_message_minute">
+    </plurals>
+    <plurals name="timer_message_minute">
         <item quantity="other">"%1$d minutos "</item>
         <item quantity="one">"%1$d minuto "</item>
-     </plurals>
-     <plurals name="timer_message_second">
+    </plurals>
+    <plurals name="timer_message_second">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
-     </plurals>
-     <plurals name="alarm_alert_snooze_set">
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Retrasar %d mins</item>
+        <item quantity="one">Retrasar %d min</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Retrasar por %d minutos.</item>
         <item quantity="one">Retrasar por %d minuto.</item>
-     </plurals>
-     <plurals name="auto_silence_summary">
+    </plurals>
+    <plurals name="auto_silence_summary">
         <item quantity="other">Las alarmas se silenciarán tras %d minutos</item>
         <item quantity="one">Las alarmas se silenciarán tras %d minuto</item>
-     </plurals>
-      <plurals name="delete_alarm_confirm">
+    </plurals>
+    <plurals name="delete_alarm_confirm">
         <item quantity="other">¿Eliminar las alarmas seleccionadas?</item>
         <item quantity="one">¿Eliminar esta alarma?</item>
-     </plurals>
-     <plurals name="delete_timezone_confirm">
+    </plurals>
+    <plurals name="delete_timezone_confirm">
         <item quantity="other">¿Eliminar la zona horaria seleccionada?</item>
         <item quantity="one">¿Eliminar esta zona horaria?</item>
-     </plurals>
+    </plurals>
 </resources>

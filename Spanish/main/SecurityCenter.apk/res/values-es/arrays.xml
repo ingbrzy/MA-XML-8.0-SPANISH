@@ -21,12 +21,12 @@
         <item>"Este mes: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Datos móviles utilizados ayer </item>
-        <item>Datos móviles utilizados hoy </item>
-        <item>Datos móviles utilizados este mes </item>
-        <item>Wi-Fi utilizado ayer </item>
-        <item>Wi-Fi utilizado hoy </item>
-        <item>Wi-Fi utilizado este mes </item>
+        <item>"Datos móviles utilizados ayer "</item>
+        <item>"Datos móviles utilizados hoy "</item>
+        <item>"Datos móviles utilizados este mes "</item>
+        <item>"Wi-Fi utilizado ayer "</item>
+        <item>"Wi-Fi utilizado hoy "</item>
+        <item>"Wi-Fi utilizado este mes "</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Datos móviles utilizados ayer</item>
@@ -88,6 +88,19 @@
         <item>Después de 30 minutos</item>
         <item>Nunca</item>
     </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una vez</item>
+        <item>Todos los días</item>
+        <item>Días laborables</item>
+        <item>Entre semana</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una vez</item>
+        <item>Todos los días</item>
+        <item>Días de semana</item>
+        <item>Personalizado</item>
+    </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 segundos</item>
         <item>30 segundos</item>
@@ -115,18 +128,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Una vez</item>
-        <item>Todos los días</item>
-        <item>Días laborables</item>
-        <item>Entre semana</item>
-        <item>Personalizado</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Una vez</item>
-        <item>Todos los días</item>
-        <item>Días de semana</item>
-        <item>Personalizado</item>
     </string-array>
 </resources>

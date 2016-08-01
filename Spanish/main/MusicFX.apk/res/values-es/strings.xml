@@ -1,28 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">MusicFX</string>
-  <string name="bass_boost_strength">Refuerzo de graves</string>
-  <string name="ci_extreme">Refuerzo de FX</string>
-  <string name="eq_dialog_title">Ecualizador</string>
-  <string name="eq_preset_classical">Clásica</string>
-  <string name="eq_preset_dance">Dance</string>
-  <string name="eq_preset_flat">Plano</string>
-  <string name="eq_preset_folk">Folk</string>
-  <string name="eq_preset_heavymetal">Heavy Metal</string>
-  <string name="eq_preset_hiphop">Hip Hop</string>
-  <string name="eq_preset_jazz">Jazz</string>
-  <string name="eq_preset_normal">Normal</string>
-  <string name="eq_preset_pop">Pop</string>
-  <string name="eq_preset_rock">Rock</string>
-  <string name="headset_plug">Estos efectos no estarán disponibles hasta que conecte los auriculares</string>
-  <string name="main_toggle_effects_title">Efectos de audio</string>
-  <string name="no_effects">Efectos no disponibles</string>
-  <string name="picker_title">Panel de control de efectos de música</string>
-  <string name="pr_dialog_title">Reverb preestablecido</string>
-  <string name="pr_summary">Efectos adicionales de reverberación</string>
-  <string name="pr_title">Reverberación:</string>
-  <string name="presetreverb_name">Reverb preestablecido</string>
-  <string name="setup">Configuración</string>
-  <string name="user">Usuario</string>
-  <string name="virtualizer_strength">Sonido envolvente</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Efectos no disponibles</string>
+    <string name="main_toggle_effects_title">Efectos de audio</string>
+    <string name="eq_dialog_title">Ecualizador</string>
+    <string name="headset_plug">Estos efectos no estarán disponibles hasta que conecte los auriculares</string>
+    <string name="bass_boost_strength">Refuerzo de graves</string>
+    <string name="virtualizer_strength">Sonido envolvente</string>
+    <string name="pr_title">Reverberación:</string>
+    <string name="pr_summary">Efectos adicionales de reverberación</string>
+    <string name="pr_dialog_title">Reverb preestablecido</string>
+    <string name="setup">Configuración</string>
+    <string name="ci_extreme">Refuerzo de FX</string>
+    <string name="user">Usuario</string>
+    <string name="picker_title">Panel de control de efectos de música</string>
 </resources>

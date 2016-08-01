@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="data_item_count">
+    <plurals name="data_item_count">
         <item quantity="other">%d artículos</item>
         <item quantity="one">%d artículo</item>
-  </plurals>
-  <plurals name="trans_time_format_minute">
+    </plurals>
+    <plurals name="trans_time_format_minute">
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
     </plurals>
