@@ -11,6 +11,7 @@
     <string name="auto_startup_dialog_msg">Esta aplicación puede empezar sin su permiso.</string>
     <string name="loading">Cargando…</string>
     <string name="low_risk_perms">Permisos de bajo riesgo</string>
+    <string name="grant_dialog_button_deny">Rechazar</string>
     <string name="high_risk_perms">Permisos de alto riesgo</string>
     <string name="perm_privacy_app_finish">Finalizar</string>
     <string name="perm_privacy_app_launch">Abrir</string>
@@ -28,6 +29,7 @@
     <string name="uninstall_confirm_question">¿Desinstalar aplicación?</string>
     <string name="uninstall_failed_retained_app_msg">Esta aplicación ha sido modificada y no puede ser desinstalada en su forma actual.</string>
     <string name="install_failed_system_incompatible">Esta aplicación no es compatible con MIUI</string>
+    <string name="old_sdk_deny_warning">Esta aplicación se ha diseñado para una versión anterior de Android. Rechazando puede provocar que no funcione como se esperaba.</string>
     <string name="permission_group_title_charges_related">Teléfono</string>
     <string name="permission_group_title_privacy_related">Privacidad</string>
     <string name="permission_group_title_media_related">Multimedia</string>
