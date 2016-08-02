@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="assist_and_voice_input_title">Ayuda y entrada de voz</string>
+    <string name="choose_assist_title">Seleccione aplicación de ayuda</string>
+    <string name="default_assist_title">Aplicación de ayuda</string>
+    <string name="assist_footer">El asistente ayuda en base a información de la pantalla que se está visualizando. Algunas aplicaciones soportan ambos servicios de lanzadores y de entrada de voz para darle asistencia integrada.</string>
+    <string name="assistant_security_warning">El asistente será capaz de leer la información acerca de las aplicaciones en uso en su sistema, incluyendo información visible en su pantalla o accesible dentro de las aplicaciones.</string>
+    <string name="assistant_security_warning_agree">De acuerdo</string>
+    <string name="assistant_security_warning_disagree">No estar de acuerdo</string>
+    <string name="assistant_security_warning_title">¿Hacer de %s su asistente?</string>
+    <string name="default_assist_none">Ninguna</string>
     <string name="setup_wizard_next_button_label">Siguiente</string>
     <string name="setup_wizard_back_button_label">Atrás</string>
     <string name="music_audio_effect_optimize">Configuración de audio</string>
