@@ -279,35 +279,9 @@ Bajo pico: %1$s | %2$s usado"</string>
     <string name="warning_open_mi_sim">Encender Mi SIM</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="datausage_purchase_title_pkglist">Recarga</string>
-    <string name="datausage_purchase_title_confirm">Detalles de compra</string>
-    <string name="datausage_purchase_title_order">Recargar</string>
-    <string name="datausage_purchase_banner_title">Oferta de recarga de %s (exclusiva)</string>
-    <string name="datausage_purchase_view_detail">Ver detalles</string>
-    <string name="datausage_purchase_buy">Comprar</string>
-    <string name="datausage_purchase_pay_confirm">Comprar</string>
-    <string name="datausage_purchase_pay_hint">Para cancelar, marque %s</string>
-    <string name="datausage_purchase_pay_captcha_hint">Introduzca el código recibido aquí</string>
-    <string name="datausage_purchase_pay_captcha_tips">Después de haber recibido el código de confirmación, ingréselo en el cuadro de arriba y pulse Pagar para finalizar la compra. Tenga en cuenta que el código es válido únicamente por 10 minutos.</string>
-    <string name="datausage_purchase_get_captcha">Obtener código (%d)</string>
-    <string name="datausage_purchase_get_captcha_again">Enviar un nuevo código</string>
-    <string name="datausage_purchase_get_captcha_failed">No se ha podido obtener el código de confirmación. Compruebe su conexión de datos y vuelva a intentarlo.</string>
-    <string name="datausage_purchase_confirm_tip">Su pedido:</string>
-    <string name="datausage_purchase_ordering">Comprando…</string>
-    <string name="datausage_purchase_result_ok">"Ha comprado %s
 Para más información compruebe el mensaje que ha recibido de su operador"</string>
-    <string name="datausage_purchase_result_failed">"No es posible comprar datos. Compruebe con su proveedor para obtener más información acerca del problema. "</string>
     <string name="datausage_purchase_backto_ns">Anterior</string>
-    <string name="datausage_purchase_goto_monthsetting">Editar info del paquete</string>
-    <string name="datausage_purchase_pkglist_nodata">"Hay un conflicto con su plan actual de datos y su pedido.
  Contacte con su operador para más información."</string>
-    <string name="datausage_purchase_pkglist_networkerror">No se puede conectar a la red. Compruebe su conexión de datos y vuelva a intentarlo.</string>
-    <string name="datausage_purchase_pkglist_servererror">Tenemos algún problema con nuestros servidores.</string>
-    <string name="datausage_purchase_order_history">Historial</string>
-    <string name="datausage_purchase_none_history">Vacio</string>
-    <string name="datausage_purchase_time_in">" a las "</string>
-    <string name="datausage_purchase_order_failure">Compra fallida</string>
-    <string name="datausage_purchase_order_failure_cause">Compra fallida…</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_app_detail">Detalles del uso de datos</string>
     <string name="mi_service_traffic_detail">Detalles del Framework</string>
