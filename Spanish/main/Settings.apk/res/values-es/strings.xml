@@ -3390,10 +3390,11 @@ Esta configuración ayuda a proteger los datos en dispositivos perdidos o robado
     <string name="erase_sure">Datos personales</string>
     <string name="erase_personal_data">Datos personales</string>
     <string name="erase_personal_data_description">Eliminar la información de tu cuenta Mi, datos de apps y ajustes de sistema</string>
-    <string name="erase_optional">Contenido</string>
+    <string name="erase_optional">Opcional</string>
     <string name="erase_application">Eliminar apps</string>
     <string name="erase_application_description">Eliminar las aplicaciones descargadas</string>
     <string name="erase_data">Eliminar</string>
+    <string name="erase_sure">Obligatorio</string>
     <string name="confirm_erase">Eliminar</string>
     <string name="master_clear_personal_data">¿Borrar todos tus datos personales? ¡Esta acción no podrá deshacerse!</string>
     <string name="master_clear_personal_data_application">¿Borrar todos tus datos personales y las aplicaciones descargadas? ¡Esta acción no podrá deshacerse!</string>
@@ -3553,7 +3554,11 @@ Seleccione su sistema operativo:"</string>
     <string name="permission_detail_info">Detalles</string>
     <string name="permission_detail_info_summary">%1$d seguridad | %2$d privacidad | %3$d otros</string>
     <string name="permission_manage">Administrador de permisos</string>
-    <string name="permission_manage_summary">Pedir permiso antes de permitir que las aplicaciones lean tus contactos, vean tu historial de llamadas, cambien configuraciones del sistema o tengan acceso a la cámara y otros recursos del dispositivo</string>
+    <string name="permission_manage_global_build_title">Otros permisos</string>
+    <string name="permission_manage_summary">Gestionar la seguridad y los permisos</string>
+    <string name="permission_manage_title">%s permisos</string>
+    <string name="permission_manager">Permisos</string>
+    <string name="permission_mgr">Permisos</string>
     <string name="security_relative">Seguridad</string>
     <string name="privacy_relative">Privacidad</string>
     <string name="other_relative">Otros</string>
