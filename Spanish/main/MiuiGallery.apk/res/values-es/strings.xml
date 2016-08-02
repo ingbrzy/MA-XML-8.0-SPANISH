@@ -604,6 +604,7 @@
     <string name="recommanded_face_abandon_tip">Eliminado de las sugerencia</string>
     <string name="face_album_long_tap_tip">Para seleccionar varias personas o cambiar los ajustes del grupo, pulse y mantenga sobre una foto de perfil</string>
     <string name="more_face_album_name">Más personas</string>
+    <string name="move_to_other_albums_tip">Sincronizar con Mi Cloud será desactivado si mueves éste álbum a otros álbumes. ¿Mover ahora??</string>
     <string name="change_to_face_mode">Ordenar por personas</string>
     <string name="change_to_photo_mode">Ordenar por álbumes</string>
     <string name="create_baby_album_later_toast">Crear un álbum de bebé en cualquier momento desde Ajustes</string>
@@ -669,6 +670,7 @@
     <string name="set_as_baby_lock_wallpaper">Usar como fondo de pantalla de bloqueo</string>
     <string name="edit_baby_info">Ver información del bebé</string>
     <string name="invite_tip">Compartir fotos de tu bebé</string>
+    <string name="remove_from_other_albums_tip">Activar la sincronización con Mi Nube para mover los elementos de otros álbumes. ¿Mover ahora?</string>
     <string name="relation_text_father">Padre</string>
     <string name="relation_text_mother">Madre</string>
     <string name="relation_text_grandfather">Abuelo paterno</string>
@@ -1137,6 +1139,8 @@
     <string name="adjust_vignette">Viñeta</string>
     <string name="renren_description">Proporcionada por Renren</string>
     <string name="already_apply_album">¿Abrir %1$s?</string>
+    <string name="turn_off_and_move">Desactivar y mover</string>
+    <string name="turn_on_and_remove">Activar y mover</string>
     <string name="share_current_album">Compartir álbum actual</string>
     <string name="view_sharers">Ver partícipes</string>
 </resources>
