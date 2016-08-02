@@ -31,7 +31,7 @@
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">El virus es un adware. Procesa anuncios automáticamente.</string>
-    <string name="avast_virus_type_cryportor_description">El virus es un cryptor. Es un software malicioso que se transmite por medio de replicarse a sí mismo en el espacio de almacenamiento.</string>
+    <string name="avast_virus_type_cryportor_description">El virus es un Crypter. Es un software malicioso que se transmite por medio de replicarse a sí mismo en el espacio de almacenamiento.</string>
     <string name="avast_virus_type_dropper_description">El virus es un dropper. Ejecuta el código que instalan otros virus maliciosos.</string>
     <string name="avast_virus_type_exploit_description">El virus es un exploit. Aprovecha un fallo o vulnerabilidad en el sistema con el fin de provocar un comportamiento no deseado.</string>
     <string name="avast_virus_type_heuristic_description">La infección se deduce mediante el uso de una heurística específica. Un análisis heurístico específico determinaría que es un virus.</string>
@@ -40,8 +40,8 @@
     <string name="avast_virus_type_rootkit_description">El virus es un rootkit. Es un tipo de software diseñado para ocultar el hecho de que un sistema operativo se ha visto comprometido. Se utiliza para obtener el control sobre el dispositivo al ocultarse en el interior del propio sistema. Los Rootkits permiten a virus y malware \"ocultarse a la vista\" disfrazando archivos de tal forma que el software antivirus lo pasa por alto.</string>
     <string name="avast_virus_type_spyware_description">El virus es un software espía. Es un software que recopila información del usuario a través de la conexión de Internet del usuario sin su conocimiento.</string>
     <string name="avast_virus_type_suspicious_description">Un tipo sospechoso común. El sistema antivirus está tratando de clasificarlo.</string>
-    <string name="avast_virus_type_tool_description">El virus es una herramienta potencialmente peligrosa que infecta por medios similares a los PUP.</string>
-    <string name="avast_virus_type_trjan_description">El virus es un troyano. Es un un malware diseñado para proporcionar acceso no autorizado, a distancia para el dispositivo de un usuario. Los troyanos normalmente no tienen la capacidad de replicarse a sí mismos como los virus; sin embargo, pueden dar lugar a otro tipo de malware que se instale en una máquina, los datos pueden ser robados, u otras actividades maliciosas.</string>
+    <string name="avast_virus_type_tool_description">El virus es una herramienta potencialmente mala similar a la PUP.</string>
+    <string name="avast_virus_type_trjan_description">"El virus es un troyano. Es un malware diseñado para proporcionar un acceso no autorizado, a distancia al dispositivo de un usuario. Troyanos normalmente no tienen la capacidad de replicarse a sí mismos como los virus. Sin embargo, pueden dar lugar a otro tipo de malware que se instala en el dispositivo, los datos sean robados, u otras actividades maliciosas. "</string>
     <string name="avast_virus_type_unknown_description">Tipo de infección desconocida.</string>
-    <string name="avast_virus_type_worm_description">El virus es un gusano. Es un malware independiente que se replica a sí mismo con el fin de difundirse a otros dispositivos. Se aprovecha de las características del archivo o de transporte de información de sistema (tales como la red), puede viajar sin ninguna acción humana. Los gusanos casi siempre causan al menos algunos daños en la red.</string>
+    <string name="avast_virus_type_worm_description">El virus es un gusano. Es un malware independiente que se replica a sí mismo con el fin de difundir a otros dispositivos. Se aprovecha de archivos o funciones de transferencia de información de su sistema (por ejemplo, redes), puede viajar sin ninguna acción humana. Los gusanos casi siempre causan al menos algunos daños en la red.</string>
 </resources>
