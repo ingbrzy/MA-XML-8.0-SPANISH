@@ -32,8 +32,6 @@
     <string name="main_alert_message_no_mobile_package">Establecer límite de datos</string>
     <string name="main_message_no_package_by_dual">Establecer límite de datos para %s</string>
     <string name="main_alert_message_no_imsi">No se detectó ninguna SIM</string>
-    <string name="main_alert_message_slot_no_data_connection">"La tarjeta SIM no admite
- una conexión de datos móviles"</string>
     <string name="main_primary_message_traffic_enough">Por debajo del límite de uso de datos</string>
     <string name="main_primary_message_traffic_warning">Aproximándose al límite de datos</string>
     <string name="main_primary_message_traffic_overlimit">Se superó el limite de datos</string>
@@ -53,6 +51,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
 Bajo pico: %1$s | %2$s usado"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s datos usados de pico \"|\" no quedan datos bajo pico restantes</string>
     <string name="main_alert_message_month_limit_error">Límite de datos incorrecto</string>
+    <string name="next_step_button">Siguiente</string>
     <string name="firewall_activity_lable">Restringir el uso de datos por aplicación</string>
     <string name="firewall_applist">Aplicaciones</string>
     <string name="firewall_rule_group_title_mobile">Móvil</string>
@@ -224,14 +223,6 @@ Bajo pico: %1$s | %2$s usado"</string>
     <string name="lock_screen_traffic_purchase_textview">Comprar datos móviles</string>
     <string name="free_time_traffic_title">Ingrese el límite de datos fuera de pico</string>
     <string name="free_time_traffic_hint">Ingrese el límite de datos fuera de pico</string>
-    <string name="traffic_protection_label">Advertencia de uso de datos</string>
-    <string name="traffic_protection_summary">Establecer alertas para cuando el uso de datos alcanza un cierto nivel</string>
-    <string name="traffic_protection_unknown">&lt;u>Configurar m&amp;#225;s tarde&lt;/u></string>
-    <string name="traffic_protection_text_hint">Establecer un límite de uso de datos para %s</string>
-    <string name="traffic_protection_next">Siguiente</string>
-    <string name="traffic_protection_data_usage_summary">Establecer alertas de uso de datos evita exceder los límites mensuales de datos de su plan de la compañía.</string>
-    <string name="traffic_protection_use_data">Datos móviles</string>
-    <string name="setting_traffic_pkg">Configurar paquete de datos</string>
     <string name="traffic_correction_start_correction">Hablando con los servidores de la compañía…</string>
     <string name="traffic_correction_start_correction_failed">Solicitud fallida, verifique los ajustes del operador</string>
     <string name="traffic_correction_success">Uso de datos actualizados</string>
