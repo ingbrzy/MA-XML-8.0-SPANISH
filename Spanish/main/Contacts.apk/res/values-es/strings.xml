@@ -194,6 +194,7 @@
   <string name="contact_detail_action_item_nocalllog">No hay historial</string>
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
   <string name="contact_detail_calllog_call_record_tips">Grabar llamada</string>
+  <string name="contact_detail_calllog_empty">No hay registro de llamadas</string>
   <string name="contact_detail_menu_delete_miprofile">Borrar tarjeta</string>
   <string name="contact_detail_miprofile_accept">Intercambiar tarjetas de contacto</string>
   <string name="contact_detail_miprofile_accept_fail_toast">No se pudieron intercambiar las tarjetas de contacto</string>
@@ -429,6 +430,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="frequentList">Frecuentes</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Nombre</string>
+  <string name="gallery">Galería</string>
   <string name="generic_no_account_prompt">Mantener tus contactos seguros incluso si pierdes tu teléfono: sincronizar con un servicio en línea.</string>
   <string name="generic_no_account_prompt_title">Agregar una cuenta</string>
   <string name="ghostData_company">Empresa</string>
@@ -803,8 +805,8 @@ Para agregar un contacto a la lista de favoritos:
   <string name="photoPickerNotFoundText">No hay imágenes disponibles en el teléfono.</string>
   <string name="photo_fragment">Foto</string>
   <string name="photo_load_failed">No se pudo cargar la foto</string>
-  <string name="pick_new_photo">Seleccione Nueva foto de la galeria</string>
-  <string name="pick_photo">Elegir foto de la galeria</string>
+  <string name="pick_new_photo">Seleccionar nueva foto de %s</string>
+  <string name="pick_photo">Elegir foto de %s</string>
   <string name="pickerNewContactHeader">Crear un nuevo contacto</string>
   <string name="pickerNewContactText">Crear un nuevo contacto</string>
   <string name="picker_all_list_empty">No hay contactos</string>
