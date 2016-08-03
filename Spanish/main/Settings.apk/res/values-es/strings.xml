@@ -383,6 +383,15 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="battery_stats_wake_lock_label">Activa</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_title">Estado de batería</string>
+  <string name="battery_sugg_apps_gps">Seleccione el modo de ahorro de batería</string>
+  <string name="battery_sugg_apps_info">Detener o desinstalar la aplicación</string>
+  <string name="battery_sugg_apps_settings">La aplicación puede ofrecer ajustes para reducir el consumo de batería</string>
+  <string name="battery_sugg_bluetooth_basic">Desactive la función Bluetooth cuando no lo esté utilizando</string>
+  <string name="battery_sugg_bluetooth_headset">Intente conectarse a un dispositivo Bluetooth diferente</string>
+  <string name="battery_sugg_display">Reducir el brillo de la pantalla y/o tiempo de espera de la pantalla</string>
+  <string name="battery_sugg_radio">Cambiar a modo avión para ahorrar energía en las zonas sin cobertura</string>
+  <string name="battery_sugg_wifi">"Desactivar Wi-Fi cuando no lo utilice o cuando no está disponible"</string>
+  <string name="battery_summary">%1$d%% usado desde la última carga completa</string>
   <string name="battery_sugg_apps_gps">Selecciona el modo de ahorro de batería.</string>
   <string name="battery_sugg_apps_info">Detener o desinstalar la aplicación</string>
   <string name="battery_sugg_apps_settings">La aplicación podrá ofrecer una configuración para reducir el uso de la batería.</string>
@@ -1580,6 +1589,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="last_synced">Última sincronización: %1$s</string>
   <string name="last_time_used_label">Última utilización</string>
   <string name="lattice_smartcover_title">Reja de cubierta frontal</string>
+  <string name="launch_by_default">Lanzar de manera predeterminada</string>
+  <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
   <string name="launching_cit">Lanzamiento del CIT</string>
   <string name="launching_pho">Enviando info del teléfono, espera.</string>
   <string name="launching_rep">Reportando…</string>
@@ -1886,6 +1897,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
   <string name="memory_music_usage">Audio (música, tonos de teléfono, podcasts, etc.)</string>
   <string name="memory_size">Espacio total</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
+  <string name="memory_use_summary">%1$s memoria promedio utilizado en las 3 últimas horas</string>
   <string name="menu_cancel">Descartar</string>
   <string name="menu_delete">Eliminar APN</string>
   <string name="menu_duration_12h">12 horas</string>
