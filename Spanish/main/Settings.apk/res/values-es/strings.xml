@@ -203,6 +203,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="app_link_open_always">Abrir con esta aplicación</string>
   <string name="app_link_open_ask">Preguntar siempre</string>
   <string name="app_link_open_never">No abra con esta aplicación</string>
+  <string name="app_list_preference_none">Ninguno</string>
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">La aplicación no está en la lista de aplicaciones instaladas.</string>
@@ -928,10 +929,10 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="data_usage_restrict_background_title">¿Restringir el uso de datos en segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">Solo se pueden restringir los datos en segundo plano si estableciste un límite de datos móviles.</string>
   <string name="data_usage_summary_title">Uso de datos</string>
-  <string name="data_usage_sweep_limit">"&lt;font size=\"21\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
-\"&lt;font size=\"12\"&gt;límite&lt;/font&gt;"</string>
-  <string name="data_usage_sweep_warning">"&lt;font size=\"21\"&gt;^1&lt;/font&gt;&lt;font size=\"9\"&gt;^2&lt;/font&gt;\"
-\"&lt;font size=\"12\"&gt;advertencia&lt;/font&gt;"</string>
+  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;limit&lt;/font&gt;</string>
+  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;warning&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2 GB - 3 GB</string>
   <string name="data_usage_tab_4g">4 GB</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1395,6 +1396,10 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="free_xiaomi_wifi_connect_summary">Pulse para conectar a %1$s.</string>
   <string name="frequently_fragment_delete">Eliminiar</string>
   <string name="frequently_fragment_tempty">Los elementos usados frecuentemente serán enumerados aquí</string>
+  <string name="fullbackup_data_summary">"Automatically back up device data (such as WI-FI passwords and call history) and app data (such as settings and files stored by apps) remotely.
+
+When you turn on automatic backup, device and app data is periodically saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos."</string>
+  <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WI-FI passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on Google Drive?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automático</string>
   <string name="gadget_brightness_state_full">completo</string>
@@ -2665,11 +2670,11 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
   <string name="reset_app_preferences_desc">"Se restablecerán todas las preferencias de:
 
- \"&lt;li&gt;aplicaciones inhabilitadas;&lt;/li&gt;\"
- \"&lt;li&gt;notificaciones de aplicaciones inhabilitadas;&lt;/li&gt;\"
- \"&lt;li&gt;aplicaciones predeterminadas para realizar acciones;&lt;/li&gt;\"
- \"&lt;li&gt;restricciones de datos en segundo plano para aplicaciones;&lt;/li&gt;\"
- \"&lt;li&gt;restricciones de permisos.&lt;/li&gt;\"
+ "&lt;li&gt;aplicaciones inhabilitadas&lt;/li&gt;"
+ "&lt;li&gt;notificaciones de aplicaciones inhabilitadas&lt;/li&gt;"
+ "&lt;li&gt;aplicaciones predeterminadas para realizar acciones&lt;/li&gt;"
+ "&lt;li&gt;restricciones de datos en segundo plano para aplicaciones&lt;/li&gt;"
+ "&lt;li&gt;restricciones de permisos.&lt;/li&gt;"
 
  Los datos de las aplicaciones no se perderán."</string>
   <string name="reset_app_preferences_title">¿Restablec. preferencias?</string>
@@ -2995,19 +3000,19 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_vpn_settings_password">Contraseña VPN;Proteger VPN</string>
   <string name="search_wakeup_for_keyguard_notification_title">Despertar a la pantalla de bloqueo para las notificaciones;Activa la pantalla;Dispositivo de activación</string>
   <string name="search_wallpaper">Fondo de la pantalla;Pantalla de inicio;Bloquear pantalla</string>
-  <string name="search_wifi">Wi-fi;WLAN;Ajustes avanzados;WLAN;Conexiones inalámbricas;Inalámbricas</string>
+  <string name="search_wifi">Wi-fi;Ajustes avanzados;Wi-Fi;Conexiones inalámbricas;Inalámbricas</string>
   <string name="search_wifi_advanced_ip_address_title">Dirección IP;IP</string>
-  <string name="search_wifi_advanced_mac_address_title">Dirección MAC WLAN;WLAN MAC dirección</string>
-  <string name="search_wifi_advanced_settings">Ajustes avanzados;Ajustes Wifi;Ajustes WLAN</string>
+  <string name="search_wifi_advanced_mac_address_title">Dirección MAC Wi-Fi;Wi-Fi MAC dirección</string>
+  <string name="search_wifi_advanced_settings">Ajustes avanzados;Ajustes Wifi;Ajustes Wi-Fi</string>
   <string name="search_wifi_display">Pantalla inalámbrica;Activar la pantalla inalámbrica</string>
-  <string name="search_wifi_enable">WI-FI;WLAN;WLAN;Activar Wifi;Encender WLAN</string>
+  <string name="search_wifi_enable">WI-FI;Wi-Fi;Wi-Fi;Activar Wifi;Encender Wi-Fi</string>
   <string name="search_wifi_install_credentials">Instalar certificados;Certificados</string>
-  <string name="search_wifi_menu_p2p">Directo WI-FI;WI-FI Directo</string>
+  <string name="search_wifi_menu_p2p">Directo Wi-Fi;Wi-Fi Directo</string>
   <string name="search_wifi_menu_wps_pin">Entrada PIN WPS PIN;WPS;WPS PIN</string>
   <string name="search_wifi_more_settings">Más;Modo avión;Avión;Vuelo;VPN;Tethering y zona Wi-Fi;tethering;Punto de acceso;Pantalla inalámbrica;Inalámbrico;Datos móviles Internacionales;Roaming;NFC;Android Beam;Beam;Cargo elemento de seguro</string>
   <string name="search_wifi_scan_always_available">Escaneado siempre disponibles;Redes de escaneo;Escaneo Wi-fi,Escaneo WLAN</string>
-  <string name="search_wifi_setting_frequency_band_title">Banda de frecuencia WI-FI;Frecuencia WI-FI;Banda Frecuencia</string>
-  <string name="search_wifi_setting_sleep_policy_title">Mantenga WI-FI durante el reposo;Mantener WI-FI durante el reposo;Mantener el Wi-Fi activo durante el periodo de reposo</string>
+  <string name="search_wifi_setting_frequency_band_title">Banda de frecuencia Wi-Fi;Frecuencia Wi-Fi;Banda Frecuencia</string>
+  <string name="search_wifi_setting_sleep_policy_title">Mantenga Wi-Fi durante el reposo;Mantener Wi-Fi durante el reposo;Mantener el Wi-Fi activo durante el periodo de reposo</string>
   <string name="search_wifi_tether_checkbox">Zona Wi-Fi;Punto de acceso;Portátil</string>
   <string name="search_wifi_tether_configure_ap_text">Configurar zona Wi-Fi;Configurar punto de acceso;Añadir punto de acceso</string>
   <string name="search_wifi_wapi_cert_install">Instalar el certificado WAPI;Certificados WAPI;WAPI</string>
@@ -3964,8 +3969,8 @@ de Wi‑Fi"</string>
   <string name="wifi_empty_list_wifi_off">Para ver redes disponibles, activa la conexión Wi-Fi</string>
   <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Activar datos y roaming WLAN</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Cambie a conexión de datos cuando la WLAN y los datos estén conectados, pero su WLAN no tenga acceso a Internet.</string>
+  <string name="wifi_enable_data_and_wifi_roam">Activar datos y roaming Wi-Fi</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Cambie a conexión de datos cuando la Wi-Fi y los datos estén conectados, pero su Wi-Fi no tenga acceso a Internet.</string>
   <string name="wifi_enable_watchdog_service_summary">Omitir conexiones débiles</string>
   <string name="wifi_error">Error</string>
   <string name="wifi_fail_to_scan">No se pueden buscar las redes.</string>
@@ -4171,10 +4176,10 @@ de Wi‑Fi"</string>
   <string name="wifi_state_disabling">Disabling</string>
   <string name="wifi_state_enabled">Enabled</string>
   <string name="wifi_state_enabling">Enabling</string>
-  <string name="wifi_state_label">WLAN state:</string>
-  <string name="wifi_state_unknown">Unknown</string>
+  <string name="wifi_state_label">Estado Wi-Fi:</string>
+  <string name="wifi_state_unknown">Desconocido</string>
   <string name="wifi_status">Estado</string>
-  <string name="wifi_status_test">Estado WI-FI</string>
+  <string name="wifi_status_test">Estado Wi-Fi</string>
   <string name="wifi_stopping">Desactivando Wi-Fi…</string>
   <string name="wifi_subnet_mask">Máscara de red</string>
   <string name="wifi_suspend_efficiency_title">Mejorar el rendimiento</string>
@@ -4278,6 +4283,7 @@ de Wi‑Fi"</string>
   <string name="zen_mode_from_anyone">Cualquiera</string>
   <string name="zen_mode_from_call">"Llamadas de "</string>
   <string name="zen_mode_from_contacts">Solo contactos</string>
+  <string name="zen_mode_from_none">Ninguno</string>
   <string name="zen_mode_from_sms">"Mensajes de "</string>
   <string name="zen_mode_from_starred">Solo contactos destacados</string>
   <string name="zen_mode_important_category">Ajustes</string>
@@ -4292,6 +4298,22 @@ de Wi‑Fi"</string>
   <string name="zen_mode_option_title">Al recibir llamadas o notificaciones</string>
   <string name="zen_mode_option_title_novoice">Al recibir notificaciones</string>
   <string name="zen_mode_phone_calls">Llamadas</string>
+  <string name="zen_mode_priority_settings_title">Priority only allows</string>
+  <string name="zen_mode_reminders">Recordatorios</string>
+  <string name="zen_mode_repeat_callers">Repetir las personas que llaman</string>
+  <string name="zen_mode_repeat_callers_summary">Si la misma persona llama por segunda vez dentro de un periodo de %d minutos, permitir</string>
+  <string name="zen_mode_rule_name">Nombre de la regla</string>
+  <string name="zen_mode_rule_name_hint">Introduce el nombre de la regla</string>
+  <string name="zen_mode_rule_name_warning">Nombre de la regla ya en uso</string>
+  <string name="zen_mode_rule_not_found_text">Regla no se encuentra.</string>
+  <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
+  <string name="zen_mode_rule_type">Tipo de regla</string>
+  <string name="zen_mode_rule_type_unknown">Desconocido</string>
+  <string name="zen_mode_schedule_rule_days">Días</string>
+  <string name="zen_mode_schedule_rule_days_all">Cada día</string>
+  <string name="zen_mode_schedule_rule_days_none">Ninguno</string>
+  <string name="zen_mode_selected_callers">llamadores seleccionados</string>
+  <string name="zen_mode_selected_messages">Mensajes seleccionados</string>
   <string name="zen_mode_settings_title">No molestar</string>
   <string name="zen_mode_start_time">Hora de inicio</string>
   <string name="zen_mode_when">Activar automáticam.</string>
