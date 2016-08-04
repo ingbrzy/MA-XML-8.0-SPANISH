@@ -137,6 +137,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="allow_usage_access_title">¿Deseas permitir el acceso?</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Decidiste permitir que esta aplicación pueda crear widgets y acceder a sus datos.</string>
+  <string name="always_running">Siempre trabajando (%s)</string>
   <string name="amber_alerts_summary">Recibir boletines sobre secuestros de menores</string>
   <string name="amber_alerts_title">Alertas AMBER</string>
   <string name="android_beam_disabled_summary">Para usar esta función, active el NFC</string>
@@ -278,6 +279,8 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="auto_startup_count">%d aplicaciones pueden iniciarse automáticamente</string>
   <string name="automatic_brightness">Brillo automático</string>
   <string name="available_size">%s disponible</string>
+  <string name="average_memory_use">Average memory use</string>
+  <string name="average_used">Average used (%)</string>
   <string name="awake">Hora de activación del dispositivo</string>
   <string name="back_key">Volver</string>
   <string name="background_data">Datos de fondo</string>
@@ -1463,12 +1466,25 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="high_performance_notif_summary">El dispositivo puede calentarse durante uso intenso.</string>
   <string name="high_performance_notif_title">El modo de alto rendimiento está activado</string>
   <string name="high_performance_title">Parece que se está ejecutando una aplicación de testeo de benchmark. Establezca en la administración de energía en modo de \"Alto rendimiento\" para obtener mejores resultados.</string>
+  <string name="high_power_apps">Optimización de la batería</string>
+  <string name="high_power_desc">No aplique la optimización de la batería. Puede agotar la batería más rápidamente.</string>
+  <string name="high_power_filter_on">No optimizado</string>
+  <string name="high_power_off">Optimizar el uso de la batería</string>
+  <string name="high_power_on">Ignorar la optimización de la batería</string>
+  <string name="high_power_prompt_body">Let app %1$s stay connected in the background? This may use more battery.</string>
+  <string name="high_power_prompt_title">¿Ignorar las optimizaciones de la batería?</string>
+  <string name="high_power_system">Optimización de la batería no disponible</string>
   <string name="history_details_title">Detalles del historial</string>
   <string name="home_app_uninstall_button">Desinstalar esta aplicación</string>
   <string name="home_key">Inicio</string>
   <string name="home_settings">Página principal</string>
   <string name="home_work_profile_not_supported">No admite perfiles de trabajo.</string>
-  <string name="ime_security_warning">%1$sEste teclado puede grabar todo lo que escriba, inclusive contraseñas, números de tarjetas de crédito y otros datos personales.</string>
+  <string name="ignore_optimizations_off">Optimizar</string>
+  <string name="ignore_optimizations_off_desc">Recomendado para una mejor duración de la batería</string>
+  <string name="ignore_optimizations_on">No optimice</string>
+  <string name="ignore_optimizations_on_desc">Puede agotar la batería más rápidamente</string>
+  <string name="ignore_optimizations_title">>Allow %s to ignore battery optimizations?</string>
+  <string name="ime_security_warning">%1$s Este teclado puede grabar todo lo que escriba, inclusive contraseñas, números de tarjetas de crédito y otros datos personales.</string>
   <string name="imei_information_summary">información relativa sobre IMEI</string>
   <string name="imei_information_title">Información sobre IMEI</string>
   <string name="immediately_destroy_activities">Eliminar actividades</string>
@@ -1882,13 +1898,16 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
   <string name="memory_clear_cache_message">Se borrarán datos en caché de las aplicaciones.</string>
   <string name="memory_clear_cache_title">¿Deseas borrar los datos almacenados en caché?</string>
   <string name="memory_dcim_usage">Imágenes, videos</string>
+  <string name="memory_details">Detalles</string>
   <string name="memory_downloads_usage">Descargas</string>
+  <string name="memory_maximum_usage">Uso máximo</string>
   <string name="memory_media_cache_usage">Datos almacenados en caché</string>
   <string name="memory_media_misc_usage">Varios.</string>
   <string name="memory_media_usage">Medios</string>
   <string name="memory_music_usage">Audio (música, tonos de teléfono, podcasts, etc.)</string>
   <string name="memory_size">Espacio total</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
+  <string name="memory_usage">Uso de la memoria</string>
   <string name="memory_use_summary">%1$s memoria promedio utilizado en las 3 últimas horas</string>
   <string name="menu_cancel">Descartar</string>
   <string name="menu_delete">Eliminar APN</string>
@@ -2611,6 +2630,7 @@ Seleccione su sistema operativo:"</string>
   <string name="radio_info_smsc_refresh_label">Actualizar</string>
   <string name="radio_info_smsc_update_label">Actualizar</string>
   <string name="radio_info_toggle_dns_check_label">Cambiar la verificación de DNS</string>
+  <string name="rarely_running">Rara vez se ejecuta (%s)</string>
   <string name="really_remove_account_message">Si eliminas esta cuenta, se eliminarán todos sus mensajes, contactos y otros datos del dispositivo.</string>
   <string name="really_remove_account_title">¿Deseas eliminar la cuenta?</string>
   <string name="rebootiing_for_updates">Reiniciando…</string>
@@ -2680,6 +2700,7 @@ Seleccione su sistema operativo:"</string>
 
 Esta configuración afecta a todos los usuarios de este dispositivo."</string>
   <string name="rssi_label">RSSI:</string>
+  <string name="running_frequency">Frecuencia</string>
   <string name="running_process_item_removed_user_label">Usuario eliminado</string>
   <string name="running_process_item_user_label">Usuario: %1$s</string>
   <string name="running_processes_header_apps_prefix">Aplicaciones</string>
