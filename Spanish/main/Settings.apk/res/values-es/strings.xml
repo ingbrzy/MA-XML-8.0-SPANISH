@@ -195,6 +195,14 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="app_install_location_summary">Cambiar la ubicación de instalación preferida para nuevas aplicaciones</string>
   <string name="app_install_location_title">Ubicación de instalación preferida</string>
   <string name="app_invisible">Aplicaciones invisibles</string>
+  <string name="app_launch_domain_links_title">Enlaces de aplicaciones</string>
+  <string name="app_launch_open_domain_urls_summary">Abrir sin preguntar</string>
+  <string name="app_launch_open_domain_urls_title">Abrir enlaces soportados</string>
+  <string name="app_launch_other_defaults_title">Otros valores predeterminados</string>
+  <string name="app_launch_supported_domain_urls_title">Enlaces soportados</string>
+  <string name="app_link_open_always">Abrir con esta aplicación</string>
+  <string name="app_link_open_ask">Preguntar siempre</string>
+  <string name="app_link_open_never">No abra con esta aplicación</string>
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">La aplicación no está en la lista de aplicaciones instaladas.</string>
@@ -1143,6 +1151,11 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="dock_sounds_enable_title">Sonido al insertar el conector</string>
   <string name="docking_sounds_title">Sonidos al conectar</string>
   <string name="does_not_exist">La aplicación no existe.</string>
+  <string name="domain_urls_summary_none">No abra enlaces soportados</string>
+  <string name="domain_urls_summary_one">Abrir %s</string>
+  <string name="domain_urls_summary_some">Abrir %s y URLs relacionados</string>
+  <string name="domain_urls_title">Enlaces de aplicaciones</string>
+  <string name="done">Hecho</string>
   <string name="dolby_bassboost_high">Alto</string>
   <string name="dolby_bassboost_low">Suave</string>
   <string name="dolby_bassboost_normal">Normal</string>
