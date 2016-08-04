@@ -137,7 +137,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="allow_usage_access_title">¿Deseas permitir el acceso?</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Decidiste permitir que esta aplicación pueda crear widgets y acceder a sus datos.</string>
-  <string name="always_running">Siempre trabajando (%s)</string>
+  <string name="always_running">Siempre se ejecutará (%s)</string>
   <string name="amber_alerts_summary">Recibir boletines sobre secuestros de menores</string>
   <string name="amber_alerts_title">Alertas AMBER</string>
   <string name="android_beam_disabled_summary">Para usar esta función, active el NFC</string>
@@ -279,8 +279,8 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="auto_startup_count">%d aplicaciones pueden iniciarse automáticamente</string>
   <string name="automatic_brightness">Brillo automático</string>
   <string name="available_size">%s disponible</string>
-  <string name="average_memory_use">Average memory use</string>
-  <string name="average_used">Average used (%)</string>
+  <string name="average_memory_use">Promedio de uso de memoria</string>
+  <string name="average_used">Usado en promedio (%)</string>
   <string name="awake">Hora de activación del dispositivo</string>
   <string name="back_key">Volver</string>
   <string name="background_data">Datos de fondo</string>
@@ -1471,7 +1471,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="high_power_filter_on">No optimizado</string>
   <string name="high_power_off">Optimizar el uso de la batería</string>
   <string name="high_power_on">Ignorar la optimización de la batería</string>
-  <string name="high_power_prompt_body">Let app %1$s stay connected in the background? This may use more battery.</string>
+  <string name="high_power_prompt_body">¿Permitir que la aplicación %1$s se mantenga conectada en segundo plano? Habrá un uso mayor de batería.</string>
   <string name="high_power_prompt_title">¿Ignorar las optimizaciones de la batería?</string>
   <string name="high_power_system">Optimización de la batería no disponible</string>
   <string name="history_details_title">Detalles del historial</string>
@@ -1483,7 +1483,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="ignore_optimizations_off_desc">Recomendado para una mejor duración de la batería</string>
   <string name="ignore_optimizations_on">No optimice</string>
   <string name="ignore_optimizations_on_desc">Puede agotar la batería más rápidamente</string>
-  <string name="ignore_optimizations_title">>Allow %s to ignore battery optimizations?</string>
+  <string name="ignore_optimizations_title">>¿Permitir que %s ignore las optimizaciones de la batería?</string>
   <string name="ime_security_warning">%1$s Este teclado puede grabar todo lo que escriba, inclusive contraseñas, números de tarjetas de crédito y otros datos personales.</string>
   <string name="imei_information_summary">información relativa sobre IMEI</string>
   <string name="imei_information_title">Información sobre IMEI</string>
