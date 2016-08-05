@@ -204,6 +204,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="app_link_open_always">Abrir con esta aplicación</string>
   <string name="app_link_open_ask">Preguntar siempre</string>
   <string name="app_link_open_never">No abra con esta aplicación</string>
+  <string name="app_list_memory_use">Uso de aplicaciones</string>
   <string name="app_list_preference_none">Ninguno</string>
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
@@ -1927,6 +1928,8 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
   <string name="memory_media_misc_usage">Varios.</string>
   <string name="memory_media_usage">Medios</string>
   <string name="memory_music_usage">Audio (música, tonos de teléfono, podcasts, etc.)</string>
+  <string name="memory_performance">Rendimiento</string>
+  <string name="memory_settings_title">Memoria</string>
   <string name="memory_size">Espacio total</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Uso de la memoria</string>
@@ -2118,12 +2121,18 @@ Seleccione su sistema operativo:"</string>
   <string name="notification_pulse_title">Notificaciones luminosas</string>
   <string name="notification_ringtone_title">Tono de notificación predeterminado</string>
   <string name="notification_section_header">Notificación</string>
-  <string name="notification_settings">Sonido/notificación</string>
+  <string name="notification_settings">Sonido y notificación</string>
   <string name="notification_settings_apps_title">Notif. aplicaciones</string>
   <string name="notification_sound_dialog_title">Sonido de notificación predeterminado</string>
   <string name="notification_sound_title">Sonido de notificación predeterminado</string>
   <string name="notification_volume_option_title">Volumen de notificación</string>
   <string name="notification_volume_title">Notificación</string>
+  <string name="notifications_disabled">Bloquear</string>
+  <string name="notifications_enabled">Normal</string>
+  <string name="notifications_label">Notificaciones</string>
+  <string name="notifications_no_peeking">Sin espiar</string>
+  <string name="notifications_priority">Prioridad</string>
+  <string name="notifications_sensitive">Contenido confidencial oculto</string>
   <string name="now">Reiniciar ahora</string>
   <string name="nsd_quick_toggle_summary">Permitir a las aplicaciones de otros dispositivos ver las de este</string>
   <string name="nsd_quick_toggle_title">Detección del servicio de red</string>
