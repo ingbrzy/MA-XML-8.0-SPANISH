@@ -211,6 +211,9 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="app_not_supported_in_limited">Esta aplicación no se admite para perfiles restringidos.</string>
   <string name="app_notification_block_summary">No mostrar nunca notificaciones de esta aplicación</string>
   <string name="app_notification_block_title">Bloquear</string>
+  <string name="app_notification_peekable_summary">Let this app emphasize certain notifications by sliding them briefly into view on the current screen</string>
+  <string name="app_notification_peekable_title">Allow peeking</string>
+  <string name="app_notification_preferences">Ajustes de aplicación</string>
   <string name="app_notification_priority_summary">Mostrar notificaciones en la parte superior de la lista y seguir recibiéndolas cuando el dispositivo esté configurado únicamente para interrupciones de prioridad</string>
   <string name="app_notification_priority_title">Prioridad</string>
   <string name="app_notification_row_banned">Bloqueadas</string>
@@ -1399,7 +1402,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fullbackup_data_summary">"Respalde automáticamente los datos del dispositivo (como claves Wi-Fi y el historial de llamadas) y los datos de las aplicaciones (como la configuración y los archivos descargados por las aplicaciones) de manera remota.
 
 Cuando active el servicio automático de respaldos, los datos de las aplicaciones serán guardados periódicamente de manera remota. Los datos de las aplicaciones pueden ser los contactos, los mensajes, datos sensibles y las fotografías."</string>
-  <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WI-FI passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on Google Drive?</string>
+  <string name="fullbackup_erase_dialog_message">¿Detener los respaldos del dispositivo (como claves Wi-Fi e historial de llamadas), los datos de las aplicaciones (como las configuraciones y los archivos guardados) y eliminar todas las copias almacenadas en Google Drive?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automático</string>
   <string name="gadget_brightness_state_full">completo</string>
