@@ -49,8 +49,8 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
   <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puedes acercar y alejar la imagen con solo tocar tres veces la pantalla.
 
 A continuación se indican las acciones que puedes hacer con la imagen acercada.
-"&lt;li&gt;&lt;ul&gt;"Desplazar la imagen: arrastra dos o más dedos por la pantalla.
-"&lt;li&gt;Modificar el nivel de zoom: une dos o más dedos o sepáralos.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"<li><ul>"Desplazar la imagen: arrastra dos o más dedos por la pantalla.
+"<li>Modificar el nivel de zoom: une dos o más dedos o sepáralos.</li></ul></li>"
 
 También puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla presionada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
 
@@ -432,7 +432,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="bluetooth_broadcasting_explaination">"Si esta función está activada, el teléfono puede comunicarse con otros dispositivos cercanos.
 
 La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</string>
-  <string name="bluetooth_confirm_passkey_msg">Para sincronizar con&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;asegúrate de que se muestre esta clave de acceso:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;.</string>
+  <string name="bluetooth_confirm_passkey_msg">Para sincronizar con<br><b>%1$s</b><br><br>asegúrate de que se muestre esta clave de acceso:<br><b>%2$s</b>.</string>
   <string name="bluetooth_connect_specific_profiles_title">Conectar a...</string>
   <string name="bluetooth_connected">Conectado</string>
   <string name="bluetooth_connected_no_a2dp">Conectado (sin audio multimedia)</string>
@@ -462,10 +462,10 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
   <string name="bluetooth_device_name">Nombre:</string>
   <string name="bluetooth_device_searchable">Detección</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">Esto inhabilitará &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;De:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Esto inhabilitará <br><b>%1$s</b><br><br>De:<br><b>%2$s</b></string>
   <string name="bluetooth_disable_profile_title">¿Inhabilitar perfil?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s se desconectará del audio multimedia.</string>
-  <string name="bluetooth_disconnect_all_profiles">Esto pondrá fin a tu conexión con:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Esto pondrá fin a tu conexión con:<br><b>%1$s</b></string>
   <string name="bluetooth_disconnect_headset_profile">%1$s se desconectará del audio de manos libres.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s se desconectará del dispositivo de entrada.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s dejará de compartir la conexión a Internet de este dispositivo.</string>
@@ -473,7 +473,7 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
   <string name="bluetooth_disconnect_title">¿Desconectar?</string>
   <string name="bluetooth_disconnected">Desconectado</string>
   <string name="bluetooth_disconnecting">Desconectando…</string>
-  <string name="bluetooth_display_passkey_pin_msg">Para sincronizar con:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Escribe allí:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; y luego presiona Volver o Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Para sincronizar con:<br><b>%1$s</b><br><br>Escribe allí:<br><b>%2$s</b> y luego presiona Volver o Enter.</string>
   <string name="bluetooth_dock_settings">Configuración de la base</string>
   <string name="bluetooth_dock_settings_a2dp">Para música y medios</string>
   <string name="bluetooth_dock_settings_headset">Como altavoz</string>
@@ -495,7 +495,7 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
   <string name="bluetooth_headset_profile_summary_use_for">Utilizar para el audio del dispositivo</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado a dispositivo de entrada</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utilizar para entrada</string>
-  <string name="bluetooth_incoming_pairing_msg">¿Desde: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;sincronizas con este dispositivo?</string>
+  <string name="bluetooth_incoming_pairing_msg">¿Desde: <br><b>%1$s</b><br><br>sincronizas con este dispositivo?</string>
   <string name="bluetooth_is_disconnect_question">¿Desconectar %1$s?</string>
   <string name="bluetooth_is_discoverable">Visible para todos los dispositivos Bluetooth cercanos (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Hacer que este dispositivo sea visible para todos los dispositivos Bluetooth cercanos</string>
@@ -934,10 +934,10 @@ Esta configuración afecta a todos los usuarios del teléfono."</string>
   <string name="data_usage_restrict_background_title">¿Restringir el uso de datos en segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">Solo se pueden restringir los datos en segundo plano si estableciste un límite de datos móviles.</string>
   <string name="data_usage_summary_title">Uso de datos</string>
-  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;límite&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;advertencia&lt;/font&gt;</string>
+  <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">límite</font></string>
+  <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">advertencia</font></string>
   <string name="data_usage_tab_3g">2 GB - 3 GB</string>
   <string name="data_usage_tab_4g">4 GB</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1364,7 +1364,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="force_msaa">Forzar MSAA 4x</string>
   <string name="force_msaa_summary">Activar MSAA 4x en aplicaciones OpenGL ES 2.0</string>
   <string name="force_rtl_layout_all_locales">Forzar diseño der. a izq.</string>
-  <string name="force_rtl_layout_all_locales_summary">Forzar diseño pantalla der.&gt;izq., cualquier idioma</string>
+  <string name="force_rtl_layout_all_locales_summary">Forzar diseño pantalla der.>izq., cualquier idioma</string>
   <string name="force_stop">Forzar la detención</string>
   <string name="force_stop_dlg_text">Si fuerzas la detención de una aplicación, es posible que funcione incorrectamente.</string>
   <string name="force_stop_dlg_title">¿Deseas forzar la detención?</string>
@@ -1373,7 +1373,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="force_touch_enable">Habilitar Toque 3D</string>
   <string name="force_touch_enable_tips">Presionar el icono de una Aplicación dentro del launcher mostrará al Asistente táctil aún cuando la función Toque 3D esté habilitado..</string>
   <string name="forget">OLVIDAR</string>
-  <string name="forget_password_button_text">&lt;u&gt;¿Contraseña olvidada?&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>¿Contraseña olvidada?</u></string>
   <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
   <string name="found_new_version">Actualización disponible</string>
   <string name="fp_nav_center_back_to_home_title">Pulse el botón Inicio para volver a la pantalla de inicio</string>
@@ -1554,7 +1554,7 @@ Cuando active el servicio automático de respaldos, los datos de las aplicacione
   <string name="internal_format">Borrar el almacenamiento interno</string>
   <string name="internal_format_summary">Borrar todos los datos de la memoria interna del dispositivo</string>
   <string name="internal_media_format_button_text">Borrar el almacenamiento interno</string>
-  <string name="internal_media_format_desc">¿Borrar todo el almacenamiento interno? &lt;b&gt;Todos&lt;/b&gt; los datos guardados serán borrados permanentemente. El dispositivo se reiniciará después del borrado del almacenamiento interno.</string>
+  <string name="internal_media_format_desc">¿Borrar todo el almacenamiento interno? <b>Todos</b> los datos guardados serán borrados permanentemente. El dispositivo se reiniciará después del borrado del almacenamiento interno.</string>
   <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá invertir esta acción! El dispositivo se reiniciará después del borrado del almacenamiento interno.</string>
   <string name="internal_media_format_title">Borrar el almacenamiento interno</string>
   <string name="internal_memory">Almacenamiento interno</string>
@@ -1845,7 +1845,7 @@ Cuando active el servicio automático de respaldos, los datos de las aplicacione
   <string name="manageapplications_settings_summary">Administrar y eliminar aplicaciones instaladas</string>
   <string name="manageapplications_settings_title">Administrar aplicaciones</string>
   <string name="managed_device_admin_title">Trabajo</string>
-  <string name="managed_profile_device_admin_info">Para evitar que %1$s acceda al perfil de trabajo, elimínalo en Configuración &gt; Cuentas.</string>
+  <string name="managed_profile_device_admin_info">Para evitar que %1$s acceda al perfil de trabajo, elimínalo en Configuración > Cuentas.</string>
   <string name="managed_profile_location_category">Perfil de trabajo</string>
   <string name="managed_profile_location_switch_lockdown">Desactivado por el administrador de la compañía.</string>
   <string name="managed_profile_location_switch_title">Ubicación para el perfil de trabajo</string>
@@ -1859,17 +1859,17 @@ Actualmente has accedido a las siguientes cuentas:
   <string name="master_clear_all">¿Borrar todos los datos de la memoria interna de tu teléfono? ¡Esta acción no podrá deshacerse!</string>
   <string name="master_clear_button_text">Restablecer dispositivo</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
-  <string name="master_clear_desc">"Se borrarán todos los datos del &lt;b&gt;almacenamiento interno&lt;/b&gt;\" del dispositivo, por ejemplo:
+  <string name="master_clear_desc">"Se borrarán todos los datos del <b>almacenamiento interno</b>\" del dispositivo, por ejemplo:
 
-\"&lt;li&gt;tu cuenta de Google,&lt;/li&gt;\"
-\"&lt;li&gt;datos de aplicaciones y ajustes del sistema,&lt;/li&gt;\"
-\"&lt;li&gt;las aplicaciones descargadas.&lt;/li&gt;"</string>
-  <string name="master_clear_desc_also_erases_external">"&lt;li&gt;Música&lt;/li&gt;\"
-\"&lt;li&gt;Fotos&lt;/li&gt;\"
-\"&lt;li&gt;Otros datos de usuario&lt;/li&gt;"</string>
+\"<li>tu cuenta de Google,</li>\"
+\"<li>datos de aplicaciones y ajustes del sistema,</li>\"
+\"<li>las aplicaciones descargadas.</li>"</string>
+  <string name="master_clear_desc_also_erases_external">"<li>Música</li>\"
+\"<li>Fotos</li>\"
+\"<li>Otros datos de usuario</li>"</string>
   <string name="master_clear_desc_erase_external_storage">"\"
 
-Para borrar la música, las imágenes y otros datos de usuario, debes borrar el \"&lt;b&gt;almacenamiento USB&lt;/b&gt;."</string>
+Para borrar la música, las imágenes y otros datos de usuario, debes borrar el \"<b>almacenamiento USB</b>."</string>
   <string name="master_clear_erase_application_progress">Eliminar aplicaciones…</string>
   <string name="master_clear_failed">No se realizó ningún restablecimiento debido a que el servicio \"Eliminar sistema\" no está disponible.</string>
   <string name="master_clear_final_button_text">Eliminar todo</string>
@@ -1893,7 +1893,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
   <string name="media_category">Multimedia</string>
   <string name="media_feedback_enable_title">Vibrar con el ritmo</string>
   <string name="media_format_button_text">Eliminar almacenamiento USB</string>
-  <string name="media_format_desc">¿Deseas borrar todo el almacenamiento de USB? Perderás &lt;b&gt;todos&lt;/b&gt; los datos almacenados.</string>
+  <string name="media_format_desc">¿Deseas borrar todo el almacenamiento de USB? Perderás <b>todos</b> los datos almacenados.</string>
   <string name="media_format_final_button_text">Eliminar todo</string>
   <string name="media_format_final_desc">¿Deseas borrar el almacenamiento USB y eliminar todos sus archivos? Esta acción no se puede deshacer.</string>
   <string name="media_format_gesture_explanation">Debes crear tu patrón de desbloqueo para confirmar que deseas borrar el almacenamiento USB.</string>
@@ -2229,38 +2229,38 @@ Seleccione su sistema operativo:"</string>
   <string name="path_accessibility_captioning_title">Settings/Additional settings/Accessibility/Captions</string>
   <string name="path_accessibility_display_daltonizer_preference_title">Settings/Additional settings/Accessibility/Color correction</string>
   <string name="path_accessibility_global_gesture_preference_title">Settings/Additional settings/Accessibility/Accessibility shortcut</string>
-  <string name="path_accessibility_long_press_timeout_preference_title">Settings/Additional settings/Accessibility/Touch &amp; hold delay</string>
+  <string name="path_accessibility_long_press_timeout_preference_title">Settings/Additional settings/Accessibility/Touch and hold delay</string>
   <string name="path_accessibility_screen_magnification_title">Settings/Additional settings/Accessibility/Magnification gestures</string>
   <string name="path_accessibility_settings">Settings/Additional settings/Accessibility</string>
   <string name="path_account_add">设置/其他账号</string>
   <string name="path_account_list">Settings/Other accounts</string>
   <string name="path_advanced_settings">Settings/WLAN/Advanced settings</string>
   <string name="path_airplane_mode_settings">Settings/More/Airplane mode</string>
-  <string name="path_alarm_sound_title">Settings/Sound &amp; vibration/Alarm sound</string>
+  <string name="path_alarm_sound_title">Settings/Sound and vibration/Alarm sound</string>
   <string name="path_android_beam_settings">Settings/More/Android Beam</string>
-  <string name="path_apn_settings">Settings/SIM cards &amp; mobile networks/Access Point Names</string>
+  <string name="path_apn_settings">Settings/SIM cards and mobile networks/Access Point Names</string>
   <string name="path_app_invisible">Settings/Additional settings/Beta features/App Invisible</string>
   <string name="path_app_permission">Settings/Permissions</string>
   <string name="path_app_switch_key">Settings/Additional settings/Buttons/Recents</string>
   <string name="path_application_lock">Settings/App lock</string>
   <string name="path_applications_settings">Settings/Installed apps</string>
   <string name="path_back_key">Settings/Additional settings/Buttons/Back</string>
-  <string name="path_battery_indicator_settings">Settings/Battery &amp; performance/Battery indicator</string>
-  <string name="path_battery_settings">Settings/Battery &amp; performance</string>
+  <string name="path_battery_indicator_settings">Settings/Battery and performance/Battery indicator</string>
+  <string name="path_battery_settings">Settings/Battery and performance</string>
   <string name="path_bluetooth_device_name">Settings/Bluetooth/Device name</string>
   <string name="path_bluetooth_device_searchable">Settings/Bluetooth/Discoverable</string>
   <string name="path_bluetooth_enable">Ajustes/Bluetooth/Bluetooth</string>
   <string name="path_bluetooth_settings">Ajustes/Bluetooth</string>
   <string name="path_brightness_settings">Ajustes/Display/Brightness</string>
   <string name="path_button_light_timeout">Ajustes/Additional settings/Buttons/Keep button lights on</string>
-  <string name="path_calendar_sound_title">Ajustes/Sound &amp; vibration/Calendar sound</string>
+  <string name="path_calendar_sound_title">Ajustes/Sound and vibration/Calendar sound</string>
   <string name="path_children_mode_settings">Ajustes/Additional settings/Child mode</string>
-  <string name="path_choose_timezone">Ajustes/Additional settings/Date &amp; time/Choose time zone</string>
-  <string name="path_cloud_backup_settings_section_title">Settings/Additional settings/Backup &amp; reset/Backup settings</string>
-  <string name="path_cloud_restore_section_title">Settings/Additional settings/Backup &amp; reset/Restore from Mi Cloud</string>
+  <string name="path_choose_timezone">Ajustes/Additional settings/Date and time/Choose time zone</string>
+  <string name="path_cloud_backup_settings_section_title">Settings/Additional settings/Backup and reset/Backup settings</string>
+  <string name="path_cloud_restore_section_title">Settings/Additional settings/Backup and reset/Restore from Mi Cloud</string>
   <string name="path_copyright">Settings/About phone/Legal information/Copyright</string>
   <string name="path_credentials_install">Settings/Additional settings/Privacy/Install from storage</string>
-  <string name="path_date_time_settings">Settings/Additional settings/Date &amp; time</string>
+  <string name="path_date_time_settings">Settings/Additional settings/Date and time</string>
   <string name="path_development_settings">Settings/Additional settings/Developer options</string>
   <string name="path_device_info_memory">Settings/Storage</string>
   <string name="path_device_name">Settings/About phone/Device name</string>
@@ -2274,9 +2274,9 @@ Seleccione su sistema operativo:"</string>
   <string name="path_dndm_vip_call_setting_title">Settings/Do not disturb/Exceptions</string>
   <string name="path_dndm_wristband">Settings/Do not disturb/Activate with Mi Band</string>
   <string name="path_do_not_disturb_settings">Settings/Do not disturb</string>
-  <string name="path_dtmf_tone_enable_title">Settings/Sound &amp; vibration/Dial pad tones</string>
+  <string name="path_dtmf_tone_enable_title">Settings/Sound and vibration/Dial pad tones</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
-  <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
+  <string name="path_equalizer">Settings/Sound and vibration/Audio settings/Equalizer</string>
   <string name="path_font_settings">Settings/Display/System font</string>
   <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
   <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
@@ -2284,72 +2284,72 @@ Seleccione su sistema operativo:"</string>
   <string name="path_home_key">Settings/Additional settings/Buttons/Home</string>
   <string name="path_key_settings">Settings/Additional settings/Buttons</string>
   <string name="path_lab_functions_title">Settings/Additional settings/Beta features</string>
-  <string name="path_language_picker_title">Settings/Additional settings/Language &amp; input/Language</string>
-  <string name="path_language_settings">Settings/Additional settings/Language &amp; input</string>
+  <string name="path_language_picker_title">Settings/Additional settings/Language and input/Language</string>
+  <string name="path_language_settings">Settings/Additional settings/Language and input</string>
   <string name="path_led_settings">Settings/Additional settings/Notification light</string>
   <string name="path_legal_information">Settings/About phone/Legal information</string>
   <string name="path_legal_user_agreement">Settings/About phone/Legal information/Terms of Service</string>
-  <string name="path_local_auto_backup_section_title">Settings/Additional settings/Backup &amp; reset/Auto backups</string>
-  <string name="path_local_backup_section_title">Settings/Additional settings/Backup &amp; reset/Local backups</string>
+  <string name="path_local_auto_backup_section_title">Settings/Additional settings/Backup and reset/Auto backups</string>
+  <string name="path_local_backup_section_title">Settings/Additional settings/Backup and reset/Local backups</string>
   <string name="path_location_settings_title">Settings/Additional settings/Privacy/Location</string>
-  <string name="path_lock_sounds_enable_title">Settings/Sound &amp; vibration/Screen lock sound</string>
+  <string name="path_lock_sounds_enable_title">Settings/Sound and vibration/Screen lock sound</string>
   <string name="path_manage_device_admin">Settings/Additional settings/Privacy/Device administrators</string>
   <string name="path_manage_notification_access_title">Settings/Additional settings/Privacy/Notification access</string>
-  <string name="path_master_clear_title">Settings/Additional settings/Backup &amp; reset/Factory data reset</string>
-  <string name="path_music_audio_effect_optimize">Settings/Sound &amp; vibration/Audio settings</string>
-  <string name="path_music_headset_calibrate">Settings/Sound &amp; vibration/Audio settings/Assign buttons</string>
-  <string name="path_music_headset_mode_settings">Settings/Sound &amp; vibration/Audio settings/Headphone remote buttons</string>
-  <string name="path_music_headset_settings">Settings/Additional settings/Headphones &amp;andio effects</string>
-  <string name="path_music_mi_effect_title">Settings/Sound &amp; vibration/Audio settings/Mi Sound Enhancer</string>
-  <string name="path_network_settings">Settings/SIM cards &amp; mobile networks</string>
-  <string name="path_networks_title">Settings/SIM cards &amp; mobile networks/Cellular networks</string>
+  <string name="path_master_clear_title">Settings/Additional settings/Backup and reset/Factory data reset</string>
+  <string name="path_music_audio_effect_optimize">Settings/Sound and vibration/Audio settings</string>
+  <string name="path_music_headset_calibrate">Settings/Sound and vibration/Audio settings/Assign buttons</string>
+  <string name="path_music_headset_mode_settings">Settings/Sound and vibration/Audio settings/Headphone remote buttons</string>
+  <string name="path_music_headset_settings">Settings/Additional settings/Headphones andandio effects</string>
+  <string name="path_music_mi_effect_title">Settings/Sound and vibration/Audio settings/Mi Sound Enhancer</string>
+  <string name="path_network_settings">Settings/SIM cards and mobile networks</string>
+  <string name="path_networks_title">Settings/SIM cards and mobile networks/Cellular networks</string>
   <string name="path_nfc_se_route_title">Settings/More/Secure element position</string>
-  <string name="path_notification_app_list_settings">Settings/Notifications &amp; status bar/App notifications</string>
-  <string name="path_notification_sound">Settings/Sound &amp; vibration/Default notification sound</string>
-  <string name="path_notification_sound_title">Settings/Sound &amp; vibration/Default notification sound</string>
+  <string name="path_notification_app_list_settings">Settings/Notifications and status bar/App notifications</string>
+  <string name="path_notification_sound">Settings/Sound and vibration/Default notification sound</string>
+  <string name="path_notification_sound_title">Settings/Sound and vibration/Default notification sound</string>
   <string name="path_ntts_settings_title">Settings/Additional settings/Accessibility/Text-to-speech output</string>
   <string name="path_oldman_mode">Settings/Lite Mode</string>
   <string name="path_onekey_migrate">Settings/Additional settings/Transfer</string>
   <string name="path_other_advanced_settings">Settings/Additional settings</string>
-  <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Owner info</string>
+  <string name="path_owner_info_settings">Settings/Lock screen and password/Owner info</string>
   <string name="path_page_layout_settings">Settings/Display/Text size</string>
-  <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
+  <string name="path_pointer_speed">Settings/Additional settings/Language and input/Pointer speed</string>
   <string name="path_power_checker">Settings/Additional settings/Beta features/Power Checker</string>
-  <string name="path_power_hide_mode_title">Settings/Battery &amp; performance/Manage apps battery usage</string>
-  <string name="path_power_mode_settings">Settings/Battery &amp; performance/Power settings</string>
+  <string name="path_power_hide_mode_title">Settings/Battery and performance/Manage apps battery usage</string>
+  <string name="path_power_mode_settings">Settings/Battery and performance/Power settings</string>
   <string name="path_power_optimize">Settings/Additional settings/Beta features/Battery saver</string>
-  <string name="path_pref_volume_wake_title">Settings/Lock screen &amp; password/Wake with Volume buttons</string>
-  <string name="path_preferred_network_type_settings">Settings/SIM cards &amp; mobile networks/Preferred network type</string>
+  <string name="path_pref_volume_wake_title">Settings/Lock screen and password/Wake with Volume buttons</string>
+  <string name="path_preferred_network_type_settings">Settings/SIM cards and mobile networks/Preferred network type</string>
   <string name="path_privacy_policy">Settings/About phone/Legal information/Privacy Policy</string>
-  <string name="path_privacy_settings">Settings/Additional settings/Backup &amp; reset</string>
-  <string name="path_ringer_volume_settings">Settings/Sound &amp; vibration/Ringtone &amp; notification sounds</string>
-  <string name="path_ringtone_settings">Settings/Sound &amp; vibration/Phone ringtone</string>
+  <string name="path_privacy_settings">Settings/Additional settings/Backup and reset</string>
+  <string name="path_ringer_volume_settings">Settings/Sound and vibration/Ringtone and notification sounds</string>
+  <string name="path_ringtone_settings">Settings/Sound and vibration/Phone ringtone</string>
   <string name="path_safe_result_header_title_system">Settings/Additional settings/Privacy</string>
-  <string name="path_screen_effect_settings">Settings/Display/Colors &amp; saturation</string>
+  <string name="path_screen_effect_settings">Settings/Display/Colors and saturation</string>
   <string name="path_screen_key_long_press_timeout">Settings/Additional settings/Buttons/Set long press time</string>
-  <string name="path_screen_on_proximity_sensor_title">Settings/Lock screen &amp; password/Prevent pocket dials</string>
-  <string name="path_screen_optimize">Settings/Display/Colors &amp; contrast</string>
+  <string name="path_screen_on_proximity_sensor_title">Settings/Lock screen and password/Prevent pocket dials</string>
+  <string name="path_screen_optimize">Settings/Display/Colors and contrast</string>
   <string name="path_screen_paper_mode">Settings/Display/Reading mode</string>
   <string name="path_screen_saver_settings">Settings/Display/Screensaver</string>
-  <string name="path_screen_timeout_settings">Settings/Lock screen &amp; password/Sleep</string>
+  <string name="path_screen_timeout_settings">Settings/Lock screen and password/Sleep</string>
   <string name="path_second_space">Settings/Second Space</string>
   <string name="path_security_encryption_title">Settings/Additional settings/Privacy/Encrypt device using lock screen password</string>
-  <string name="path_security_passwords_title">Settings/Lock screen &amp; password/Screen Lock</string>
+  <string name="path_security_passwords_title">Settings/Lock screen and password/Screen Lock</string>
   <string name="path_security_settings">Settings/Additional settings/Privacy</string>
   <string name="path_slot_status_title">Settings/About phone/IMEI information</string>
-  <string name="path_sms_delivered_sound_title">Settings/Sound &amp; vibration/Message delivered</string>
-  <string name="path_sms_received_settings">Settings/Sound &amp; vibration/Message reveived</string>
-  <string name="path_sound_effects_enable_title">Settings/Sound &amp; vibration/Touch sounds</string>
-  <string name="path_sound_settings">Settings/Sound &amp; vibration</string>
-  <string name="path_status_bar_settings">Settings/Notifications &amp; status bar</string>
-  <string name="path_status_bar_settings_custom_carrier">Settings/Notifications &amp; status bar/Edit carrier name</string>
-  <string name="path_status_bar_settings_expandable_under_keyguard">Settings/Notifications &amp; status bar/Show on lock screen</string>
-  <string name="path_status_bar_settings_show_carrier">Settings/Notifications &amp; status bar/Show carrier name</string>
-  <string name="path_status_bar_settings_show_network_speed">Settings/Notifications &amp; status bar/Show connection speed</string>
-  <string name="path_status_bar_settings_show_notification_icon">Settings/Notifications &amp; status bar/Show notification icons</string>
-  <string name="path_status_bar_settings_show_screenshot_notification">Settings/Notifications &amp; status bar/Show screenshot notification</string>
-  <string name="path_status_bar_settings_style">Settings/Notifications &amp; status bar/Statusbar style</string>
-  <string name="path_status_bar_settings_toggle_collapse_after_clicked">Settings/Notifications &amp; status bar/Collapse after touch</string>
+  <string name="path_sms_delivered_sound_title">Settings/Sound and vibration/Message delivered</string>
+  <string name="path_sms_received_settings">Settings/Sound and vibration/Message reveived</string>
+  <string name="path_sound_effects_enable_title">Settings/Sound and vibration/Touch sounds</string>
+  <string name="path_sound_settings">Settings/Sound and vibration</string>
+  <string name="path_status_bar_settings">Settings/Notifications and status bar</string>
+  <string name="path_status_bar_settings_custom_carrier">Settings/Notifications and status bar/Edit carrier name</string>
+  <string name="path_status_bar_settings_expandable_under_keyguard">Settings/Notifications and status bar/Show on lock screen</string>
+  <string name="path_status_bar_settings_show_carrier">Settings/Notifications and status bar/Show carrier name</string>
+  <string name="path_status_bar_settings_show_network_speed">Settings/Notifications and status bar/Show connection speed</string>
+  <string name="path_status_bar_settings_show_notification_icon">Settings/Notifications and status bar/Show notification icons</string>
+  <string name="path_status_bar_settings_show_screenshot_notification">Settings/Notifications and status bar/Show screenshot notification</string>
+  <string name="path_status_bar_settings_style">Settings/Notifications and status bar/Statusbar style</string>
+  <string name="path_status_bar_settings_toggle_collapse_after_clicked">Settings/Notifications and status bar/Collapse after touch</string>
   <string name="path_status_sim">Settings/About phone/SIM status</string>
   <string name="path_storage_settings">Settings/Storage/Cleaner</string>
   <string name="path_sync_settings">Settings/Sync</string>
@@ -2358,22 +2358,22 @@ Seleccione su sistema operativo:"</string>
   <string name="path_tether_settings_title_bluetooth">Settings/More/Bluetooth tethering</string>
   <string name="path_tether_settings_title_usb">Settings/More/USB tethering</string>
   <string name="path_theme_settings">Settings/Themes</string>
-  <string name="path_toggle_position_settings">Settings/Notifications &amp; status bar/Toggle positions</string>
+  <string name="path_toggle_position_settings">Settings/Notifications and status bar/Toggle positions</string>
   <string name="path_touch_assistant_settings">Settings/Additional settings/Quick ball</string>
   <string name="path_touch_sensitive_title">Settings/Display/Glove mode</string>
   <string name="path_trusted_credentials">Settings/Additional settings/Privacy/Trusted credentials</string>
-  <string name="path_tts_settings_title">Settings/Additional settings/Language &amp; input/Text-to-speech output</string>
-  <string name="path_turn_on_security_lock">Settings/Lock screen &amp; password/Screen Lock/Change screen lock</string>
-  <string name="path_unlock_set_settings">Settings/Lock screen &amp; password</string>
-  <string name="path_user_dict_settings_title">Settings/Additional settings/Language &amp; input/Personal dictionary</string>
-  <string name="path_vibrate_in_silent_title">Settings/Sound &amp; vibration/Vibrate in silent mode</string>
-  <string name="path_vibrate_on_touch_title">Settings/Sound &amp; vibration/Vibrate on touch</string>
-  <string name="path_vibrate_when_ringing_title">Settings/Sound &amp; vibration/Also vibrate for calls</string>
+  <string name="path_tts_settings_title">Settings/Additional settings/Language and input/Text-to-speech output</string>
+  <string name="path_turn_on_security_lock">Settings/Lock screen and password/Screen Lock/Change screen lock</string>
+  <string name="path_unlock_set_settings">Settings/Lock screen and password</string>
+  <string name="path_user_dict_settings_title">Settings/Additional settings/Language and input/Personal dictionary</string>
+  <string name="path_vibrate_in_silent_title">Settings/Sound and vibration/Vibrate in silent mode</string>
+  <string name="path_vibrate_on_touch_title">Settings/Sound and vibration/Vibrate on touch</string>
+  <string name="path_vibrate_when_ringing_title">Settings/Sound and vibration/Also vibrate for calls</string>
   <string name="path_virtual_sim">Settings/More/International mobile data</string>
   <string name="path_vpn_enable">Settings/More/VPN/VPN</string>
   <string name="path_vpn_settings">Settings/More/VPN</string>
   <string name="path_vpn_settings_password">Settings/More/VPN/VPN password</string>
-  <string name="path_wakeup_for_keyguard_notification_title">Settings/Lock screen &amp; password/Wake lock screen for notifications</string>
+  <string name="path_wakeup_for_keyguard_notification_title">Settings/Lock screen and password/Wake lock screen for notifications</string>
   <string name="path_wallpaper_settings">Settings/Wallpaper</string>
   <string name="path_wifi_advanced_ip_address_title">Settings/WLAN/Advanced settings/IP address</string>
   <string name="path_wifi_advanced_mac_address_title">Settings/WLAN/Advanced settings/WLAN MAC address</string>
@@ -2397,7 +2397,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_xiaomi_cloud_service">Aplicaciones</string>
   <string name="path_xiaomi_money_service">Aplicaciones</string>
   <string name="path_xspace">Ajustes/Aplicaciones dobles</string>
-  <string name="path_zen_mode_option_miui_silent">Settings/Sound &amp; vibration/Silent mode</string>
+  <string name="path_zen_mode_option_miui_silent">Settings/Sound and vibration/Silent mode</string>
   <string name="performance_category">Rendimiento</string>
   <string name="permission_detail_info">Detalles</string>
   <string name="permission_detail_info_summary">%1$d seguridad | %2$d privacidad | %3$d otros</string>
@@ -2683,11 +2683,11 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
   <string name="reset_app_preferences_desc">"Se restablecerán todas las preferencias de:
 
- "&lt;li&gt;aplicaciones inhabilitadas&lt;/li&gt;"
- "&lt;li&gt;notificaciones de aplicaciones inhabilitadas&lt;/li&gt;"
- "&lt;li&gt;aplicaciones predeterminadas para realizar acciones&lt;/li&gt;"
- "&lt;li&gt;restricciones de datos en segundo plano para aplicaciones&lt;/li&gt;"
- "&lt;li&gt;restricciones de permisos.&lt;/li&gt;"
+ "<li>aplicaciones inhabilitadas</li>"
+ "<li>notificaciones de aplicaciones inhabilitadas</li>"
+ "<li>aplicaciones predeterminadas para realizar acciones</li>"
+ "<li>restricciones de datos en segundo plano para aplicaciones</li>"
+ "<li>restricciones de permisos.</li>"
 
  Los datos de las aplicaciones no se perderán."</string>
   <string name="reset_app_preferences_title">¿Restablec. preferencias?</string>
@@ -3352,7 +3352,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="storage_settings">Espacio de almacenamiento</string>
   <string name="storage_settings_summary">Desmontar almacenamiento USB, ver almacenamiento disponible</string>
   <string name="storage_settings_title">Configuración de almacenamiento</string>
-  <string name="storage_size_large">^1&lt;pequeña&gt;&lt;pequeña&gt; ^2&lt;/pequeña&gt;&lt;/pequeña&gt;</string>
+  <string name="storage_size_large">^1<pequeña><pequeña> ^2</pequeña></pequeña></string>
   <string name="storage_summary_format">%1$s utilizada en %2$s</string>
   <string name="storage_title_usb">Conexión con comput. por USB</string>
   <string name="storage_uicc">Almacenamiento UICC</string>
@@ -3371,7 +3371,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="sum_carrier_select">Elegir un operador de red</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
-  <string name="supl_not_set">&lt;No definido&gt;</string>
+  <string name="supl_not_set"><No definido></string>
   <string name="supplicant_state_label">Estado de la solicitud:</string>
   <string name="switch_off_text">Desactivar</string>
   <string name="switch_on_text">Activar</string>
@@ -3393,7 +3393,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="sync_menu_sync_now">Sincronizar ahora</string>
   <string name="sync_one_time_sync">"Tocar para sincronizar ahora
 %1$s"</string>
-  <string name="sync_plug">"&lt;font fgcolor=\"#ffffffff\"&gt;Te damos la bienvenida a Google Sync&lt;/font&gt;\"  
+  <string name="sync_plug">"<font fgcolor=\"#ffffffff\">Te damos la bienvenida a Google Sync</font>\"  
 Con este software de Google, puedes sincronizar tus datos y acceder a tus contactos, citas y más desde cualquier lugar.\""</string>
   <string name="sync_settings">Sincronización</string>
   <string name="sync_wifi_label">Wi-Fi</string>
@@ -3518,7 +3518,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="uicc_format_summary">Borrar todos los datos del almacenamiento UICC (por ejemplo: música y fotos)</string>
   <string name="uicc_insert_summary">Conectar almacenamiento UICC</string>
   <string name="uicc_media_format_button_text">Borrar almacenamiento UICC</string>
-  <string name="uicc_media_format_desc">¿Borrar el almacenamiento UICC? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados allí.</string>
+  <string name="uicc_media_format_desc">¿Borrar el almacenamiento UICC? Perderá <b>todos</b> los archivos guardados allí.</string>
   <string name="uicc_media_format_final_desc">Todos los archivos almacenados en el almacenamiento UICC se eliminarán de forma permanente.</string>
   <string name="uicc_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento UICC.</string>
   <string name="uicc_media_format_summary">Eliminar todos los datos del almacenamiento UICC</string>
@@ -3611,7 +3611,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="usb_insert_summary">Conectar USB</string>
   <string name="usb_label_installer_cd">Instalar las herramientas de transferencia de archivos</string>
   <string name="usb_media_format_button_text">Borrar almacenamiento USB</string>
-  <string name="usb_media_format_desc">¿Borrar el almacenamiento USB? Perderá &lt;b&gt;todos&lt;/b&gt; los archivos guardados allí.</string>
+  <string name="usb_media_format_desc">¿Borrar el almacenamiento USB? Perderá <b>todos</b> los archivos guardados allí.</string>
   <string name="usb_media_format_final_desc">Todos los archivos almacenados en el almacenamiento USB se eliminarán de forma permanente.</string>
   <string name="usb_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento USB.</string>
   <string name="usb_media_format_summary">Eliminar todos los datos del almacenamiento USB</string>
@@ -4087,8 +4087,8 @@ de Wi‑Fi"</string>
 
 ¿Quieres permitir esto para todas las aplicaciones que deseen buscar redes?"</string>
   <string name="wifi_scan_notify_remember_choice">No volver a mostrar</string>
-  <string name="wifi_scan_notify_text_location_off">Las aplicaciones pueden buscar redes cercanas incluso cuando Wi-Fi esté desactivado. Si no quieres que esto ocurra, ve a Config. avanzada &gt; Búsqueda siempre disponible.</string>
-  <string name="wifi_scan_notify_text_location_on">Para mejorar la precisión de la ubicación y para otros fines, Google y otras aplicaciones pueden explorar las redes cercanas, incluso cuando Wi-Fi esté desactivado. Si no quieres que esto ocurra, ve a Avanzado &gt; Exploración siempre disponible.</string>
+  <string name="wifi_scan_notify_text_location_off">Las aplicaciones pueden buscar redes cercanas incluso cuando Wi-Fi esté desactivado. Si no quieres que esto ocurra, ve a Config. avanzada > Búsqueda siempre disponible.</string>
+  <string name="wifi_scan_notify_text_location_on">Para mejorar la precisión de la ubicación y para otros fines, Google y otras aplicaciones pueden explorar las redes cercanas, incluso cuando Wi-Fi esté desactivado. Si no quieres que esto ocurra, ve a Avanzado > Exploración siempre disponible.</string>
   <string name="wifi_security">Seguridad</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -4121,7 +4121,7 @@ de Wi‑Fi"</string>
   <string name="wifi_setup_back">Atrás</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
-  <string name="wifi_setup_description_connected">Pulse &lt;b&gt;Siguiente&lt;/b&gt; para continuar con la configuración. Pulse &lt;b&gt;Volver&lt;/b&gt; para conectarse a otras redes Wi-Fi.</string>
+  <string name="wifi_setup_description_connected">Pulse <b>Siguiente</b> para continuar con la configuración. Pulse <b>Volver</b> para conectarse a otras redes Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">La conexión puede demorar unos minutos...</string>
   <string name="wifi_setup_detail">Detalles de la red</string>
   <string name="wifi_setup_eap_not_supported">Durante la configuración no puede definir una conexión Wi-Fi EAP, pero puede hacerlo cuando haya finalizado a través de ajustes y conexiones inalámbricas y redes.</string>
