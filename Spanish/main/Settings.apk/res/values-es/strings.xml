@@ -95,7 +95,7 @@ Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier
   <string name="add_device_admin_msg">¿Deseas activar el administrador del dispositivo?</string>
   <string name="add_fingerprint_done_msg">Ahora podrá desbloquear el dispositivo con su huella.</string>
   <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
-  <string name="add_fingerprint_failed_retry_text">No se pudo añadir huella dactilar, vuelva a intentarlo</string>
+  <string name="add_fingerprint_failed_retry_text">No se pudo añadir huella dactilar, inténtalo de nuevo</string>
   <string name="add_fingerprint_finished_button_text">Aceptar</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear el dispositivo o verificar el pago con su huella.</string>
   <string name="add_fingerprint_instruction_title">Añada su huella</string>
@@ -2712,7 +2712,7 @@ Seleccione su sistema operativo:"</string>
   <string name="restriction_settings_title">Restricciones</string>
   <string name="restriction_wifi_config_summary">Permitir modificación del Wi-Fi y ajustes móviles</string>
   <string name="restriction_wifi_config_title">Wi-Fi y Móvil</string>
-  <string name="retry">Reintentar</string>
+  <string name="retry">Inténtalo de nuevo</string>
   <string name="ring_volume_option_title">Volumen de tono</string>
   <string name="ring_volume_title">Volumen del timbre</string>
   <string name="ringtone_mute">Ninguno</string>
