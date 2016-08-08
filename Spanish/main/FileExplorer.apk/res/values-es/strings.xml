@@ -159,7 +159,7 @@
   <string name="dislike_video">"No me interesa"</string>
   <string name="dlg_error_unmount_text">"No se puede desactivar el almacenamiento USB."</string>
   <string name="download_current_progress">%1$d%%</string>
-  <string name="download_failed">"No se pudo descargar"</string>
+  <string name="download_failed">No se pudo descargar</string>
   <string name="download_link_completed">"%1$s compartido vía KuaiPan. Toque el siguiente enlace para ver: "</string>
   <string name="downloaded_sticker_str">Descargado</string>
   <string name="downloading">Descargando</string>
@@ -270,7 +270,7 @@ Nuestro servidor está caído. Por favor, inténtelo más tarde…
 "</string>
   <string name="kuaipan_root_fooder">Inicio</string>
   <string name="kuaipan_tech_support">Iniciar sesión en Kuaipan.cn</string>
-  <string name="like_toast_1">Dichos vídeos se recomendaran con más frecuencia.</string>
+  <string name="like_toast_1">Dichos vídeos se recomendarán con más frecuencia.</string>
   <string name="like_toast_2">Ver los vídeos que te gustan en tu perfil.</string>
   <string name="like_toast_3">Inicia sesión para ver los vídeos que te gustan en tu perfil.</string>
   <string name="load_err">No se puede cargar</string>
@@ -716,7 +716,7 @@ Espacio gratuito añadido %1$s"</string>
   <string name="upload_external_action_hint">Pegar enlace de vídeo</string>
   <string name="upload_external_notification_failed">No se pudo publicar</string>
   <string name="upload_external_notification_success">Publicado con éxito</string>
-  <string name="upload_external_notification_title">Publicación, por favor espere</string>
+  <string name="upload_external_notification_title">Publicando, por favor espere</string>
   <string name="upload_failed">No se pudo subir</string>
   <string name="upload_file_toolarge_message">Fallo al subir %1$d: no puedes subir archivos superiores a 300Mb.</string>
   <string name="upload_local_video">Compartir video clip</string>
@@ -794,12 +794,12 @@ Espacio gratuito añadido %1$s"</string>
   <string name="video_data_consumption_dialog_message">Subir va a requerir %1$s de datos móviles</string>
   <string name="video_data_consumption_dialog_title">Aviso de uso de datos</string>
   <string name="video_parse_btn">Presiona comenzar</string>
-  <string name="video_parse_error_repeated">Por favor, no intente repetir enlaces de vídeo similares</string>
+  <string name="video_parse_error_repeated">No subir videos similares</string>
   <string name="video_parse_error_unknown">Enlace de vídeo no compatible, pruebe con otro</string>
   <string name="video_parse_hint">Soporte WeChat, Weibo, enlace de video Youku.</string>
   <string name="video_parse_success">Analizado con éxito</string>
   <string name="video_parse_timeout">Tiempo de espera de análisis terminado, por favor intenta de nuevo</string>
-  <string name="video_parsing_btn">Analizando sintaxis</string>
+  <string name="video_parsing_btn">Analizando…</string>
   <string name="video_play_failed">Error desconocido</string>
   <string name="video_publish_hint">Una buena descripción ayudará a que otras personas encuentren tu video</string>
   <string name="video_releasing">Subiendo…</string>
