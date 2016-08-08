@@ -124,6 +124,7 @@
   <string name="download_file_fail">Error al acceder a archivos locales, quizá no haya espacio en la tarjeta SD</string>
   <string name="download_finished">Finalizado</string>
   <string name="download_geturl_fail">"No se puede obtener la URL"</string>
+  <string name="download_insufficient_space">Espacio insuficiente</string>
   <string name="download_is_in_tasklist">En cola de descarga</string>
   <string name="download_paused">Pausado</string>
   <string name="download_percent_hint">Descargando %d%%</string>
@@ -217,6 +218,10 @@
   <string name="no_longer_tips">"No mostrar de nuevo"</string>
   <string name="no_sdcard_no_download">No hay suficiente espacio, error al solicitar la descarga.</string>
   <string name="not_login">No se ha iniciado sesión</string>
+  <string name="notification_default_title">Sin conexión de vídeo</string>
+  <string name="notification_sub_title">Total %d tarea de descarga(s) completada</string>
+  <string name="notification_ticker_text">Sin conexión de vídeo completar la descarga</string>
+  <string name="notification_title">\"%1$s\" completar la descarga</string>
   <string name="nowifi_alert_dialog_continue">Aceptar</string>
   <string name="nowifi_alert_dialog_exit">Cancelar</string>
   <string name="nowifi_alert_dialog_message">"Usar tu conexion de datos móviles para descargar vídeos en streaming puede incrementar el consumo de datos. Exceder el límite de tu plan de datos puede acarrear gastos extra."</string>
