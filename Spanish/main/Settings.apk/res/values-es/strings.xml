@@ -432,7 +432,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="bluetooth_broadcasting_explaination">"Si esta función está activada, el teléfono puede comunicarse con otros dispositivos cercanos.
 
 La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</string>
-  <string name="bluetooth_confirm_passkey_msg">Para sincronizar con:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;asegúrate de que se muestre ésta clave de acceso:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Para sincronizar con %1$s asegúrate de que se muestre ésta clave de acceso: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Conectar a...</string>
   <string name="bluetooth_connected">Conectado</string>
   <string name="bluetooth_connected_no_a2dp">Conectado (sin audio multimedia)</string>
