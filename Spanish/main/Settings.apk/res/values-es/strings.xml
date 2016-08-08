@@ -49,8 +49,8 @@ Si el dispositivo tiene varios usuarios, este acceso directo en la pantalla bloq
   <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puedes acercar y alejar la imagen con solo tocar tres veces la pantalla.
 
 A continuación se indican las acciones que puedes hacer con la imagen acercada.
-"<li><ul>"Desplazar la imagen: arrastra dos o más dedos por la pantalla.
-"<li>Modificar el nivel de zoom: une dos o más dedos o sepáralos.</li></ul></li>"
+""Desplazar la imagen: arrastra dos o más dedos por la pantalla.
+"Modificar el nivel de zoom: une dos o más dedos o sepáralos."
 
 También puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla presionada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
 
@@ -1861,12 +1861,12 @@ Actualmente has accedido a las siguientes cuentas:
   <string name="master_clear_confirm_title">¿Restablecer?</string>
   <string name="master_clear_desc">"Se borrarán todos los datos del <b>almacenamiento interno</b>\" del dispositivo, por ejemplo:
 
-\"<li>tu cuenta de Google,</li>\"
-\"<li>datos de aplicaciones y ajustes del sistema,</li>\"
-\"<li>las aplicaciones descargadas.</li>"</string>
-  <string name="master_clear_desc_also_erases_external">"<li>Música</li>\"
-\"<li>Fotos</li>\"
-\"<li>Otros datos de usuario</li>"</string>
+\"tu cuenta de Google,\"
+\"datos de aplicaciones y ajustes del sistema,\"
+\"las aplicaciones descargadas."</string>
+  <string name="master_clear_desc_also_erases_external">"Música\"
+\"Fotos\"
+\"Otros datos de usuario"</string>
   <string name="master_clear_desc_erase_external_storage">"\"
 
 Para borrar la música, las imágenes y otros datos de usuario, debes borrar el \"<b>almacenamiento USB</b>."</string>
@@ -2683,11 +2683,11 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
   <string name="reset_app_preferences_desc">"Se restablecerán todas las preferencias de:
 
- "<li>aplicaciones inhabilitadas</li>"
- "<li>notificaciones de aplicaciones inhabilitadas</li>"
- "<li>aplicaciones predeterminadas para realizar acciones</li>"
- "<li>restricciones de datos en segundo plano para aplicaciones</li>"
- "<li>restricciones de permisos.</li>"
+ "aplicaciones inhabilitadas"
+ "notificaciones de aplicaciones inhabilitadas"
+ "aplicaciones predeterminadas para realizar acciones"
+ "restricciones de datos en segundo plano para aplicaciones"
+ "restricciones de permisos."
 
  Los datos de las aplicaciones no se perderán."</string>
   <string name="reset_app_preferences_title">¿Restablec. preferencias?</string>
