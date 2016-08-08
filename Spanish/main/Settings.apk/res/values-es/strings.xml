@@ -462,10 +462,10 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
   <string name="bluetooth_device_name">Nombre:</string>
   <string name="bluetooth_device_searchable">Detección</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">Esto inhabilitará:&lt;br&gt;&lt;b&gt; %1$s &lt;/b&gt;&lt;br&gt;&lt;br&gt;De:&lt;br&gt;&lt;b&gt; %2$s &lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Esto inhabilitará: %1$s De: %2$s </string>
   <string name="bluetooth_disable_profile_title">¿Inhabilitar perfil?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s se desconectará del audio multimedia.</string>
-  <string name="bluetooth_disconnect_all_profiles">Esto pondrá fin a tu conexión con:&lt;br&gt;&lt;b&gt; %1$s &lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Esto pondrá fin a tu conexión con: %1$s </string>
   <string name="bluetooth_disconnect_headset_profile">%1$s se desconectará del audio de manos libres.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s se desconectará del dispositivo de entrada.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s dejará de compartir la conexión a Internet de este dispositivo.</string>
@@ -473,7 +473,7 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
   <string name="bluetooth_disconnect_title">¿Desconectar?</string>
   <string name="bluetooth_disconnected">Desconectado</string>
   <string name="bluetooth_disconnecting">Desconectando…</string>
-  <string name="bluetooth_display_passkey_pin_msg">Para sincronizar con:&lt;br&gt;&lt;b&gt; %1$s &lt;/b&gt;&lt;br&gt;&lt;br&gt;Escribe allí:&lt;br&gt;&lt;b&gt; %2$s &lt;/b&gt; y luego presiona Volver o Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Para sincronizar con: %1$s Escribe allí: %2$s y luego presiona Volver o Enter.</string>
   <string name="bluetooth_dock_settings">Configuración de la base</string>
   <string name="bluetooth_dock_settings_a2dp">Para música y medios</string>
   <string name="bluetooth_dock_settings_headset">Como altavoz</string>
@@ -495,7 +495,7 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
   <string name="bluetooth_headset_profile_summary_use_for">Utilizar para el audio del dispositivo</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado a dispositivo de entrada</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utilizar para entrada</string>
-  <string name="bluetooth_incoming_pairing_msg">¿Desde:&lt;br&gt;&lt;b&gt; %1$s &lt;/b&gt;&lt;br&gt;&lt;br&gt;Sincronizar con este dispositivo?</string>
+  <string name="bluetooth_incoming_pairing_msg">¿Desde: %1$s Sincronizar con este dispositivo?</string>
   <string name="bluetooth_is_disconnect_question">¿Desconectar %1$s?</string>
   <string name="bluetooth_is_discoverable">Visible para todos los dispositivos Bluetooth cercanos (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Hacer que este dispositivo sea visible para todos los dispositivos Bluetooth cercanos</string>
@@ -3371,7 +3371,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="sum_carrier_select">Elegir un operador de red</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
-  <string name="supl_not_set">&lt;Sin definir&gt;</string>
+  <string name="supl_not_set">Sin definir</string>
   <string name="supplicant_state_label">Estado de la solicitud:</string>
   <string name="switch_off_text">Desactivar</string>
   <string name="switch_on_text">Activar</string>
@@ -3393,7 +3393,7 @@ Esto ocurre porque hay una credencial de confianza instalada en el dispositivo."
   <string name="sync_menu_sync_now">Sincronizar ahora</string>
   <string name="sync_one_time_sync">"Tocar para sincronizar ahora
 %1$s"</string>
-  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Bienvenid@ a Google sync!&lt;/font&gt;" 
+  <string name="sync_plug">Bienvenid@ a Google sync " 
 Con este software de Google, puedes sincronizar tus datos y acceder a tus contactos, citas y más desde cualquier lugar. "</string>
   <string name="sync_settings">Sincronización</string>
   <string name="sync_wifi_label">Wi-Fi</string>
