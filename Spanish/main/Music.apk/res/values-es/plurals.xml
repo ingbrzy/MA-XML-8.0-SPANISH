@@ -86,4 +86,12 @@
         <item quantity="other">Canciones marcada como favoritas.</item>
         <item quantity="one">Canción marcada como favorita.</item>
     </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d comentarios</item>
+        <item quantity="one">%d comentario</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d lectores</item>
+        <item quantity="one">%d lector</item>
+    </plurals>
 </resources>
