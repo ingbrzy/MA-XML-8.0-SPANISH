@@ -2,7 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Cuentas</string>
   <string name="aaid_info">"
-Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you."</string>
+El identificador de anuncios es único y permanente para su dispositivo. Los vendedores lo usan con motivo de ofrecerle anuncios más útiles."</string>
   <string name="about_settings">Acerca del dispositivo</string>
   <string name="about_settings_summary">Ver información legal, estado, versión de software del tablet</string>
   <string name="ac_enable_summary">Se requerirá una contraseña para abrir la aplicación</string>
@@ -2877,8 +2877,8 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_back_key">Retroceso;Botón de retroceso;Tecla de retroceso</string>
   <string name="search_battery">Rendimiento de la batería;Rendimiento de la batería;Batería:rendimiento;Ahorro de batería;Ahorrar batería</string>
   <string name="search_battery_indicator">Indicador de batería</string>
-  <string name="search_bluetooth">Bluetooth;Nombre del dispositivo;Visible;Nombre del Bluetooth;Nombre del teléfono</string>
-  <string name="search_bluetooth_device_name">Nombre del dispositivo;Nombre del Bluetooth</string>
+  <string name="search_bluetooth">Bluetooth;Reconocible;Visible</string>
+  <string name="search_bluetooth_device_name">Nombre del dispositivo;Nombre del Bluetooth;Nombre del teléfono</string>
   <string name="search_bluetooth_device_searchable">Visible;Visible;Nombre del Bluetooth</string>
   <string name="search_bluetooth_enable">Bluetooth;Activar función Bluetooth;Bluetooth activado</string>
   <string name="search_brightness">Brillo;Brillo de la pantalla;Brillo de la pantalla</string>
