@@ -24,14 +24,20 @@
   <string name="dlg_check_reminder">"No mostrar de nuevo"</string>
   <string name="dlg_delete_message">Eliminando…</string>
   <string name="dlg_desc_confirm_alarm_silent">Las alarmas activas no sonarán cuando se desactive el sonido.</string>
+  <string name="dlg_hide_message">Ocultando…</string>
   <string name="dlg_info_creating_message">Creando mensaje…</string>
+  <string name="dlg_move_message">Moviendo…</string>
+  <string name="dlg_quick_delete_title">Eliminación rápida</string>
+  <string name="dlg_restore_message">Restaurando…</string>
+  <string name="dlg_stick_message">Fijando…</string>
   <string name="dlg_title_confirm_alarm_silent">Silenciar alarmas</string>
+  <string name="dlg_unhide_message">Desocultando…</string>
   <string name="empty_folder_hint">"No hay carpetas
 Pulse en el signo más para crear una carpeta"</string>
-  <string name="empty_note_mark_privacy_error">No se puede ocultar una nota vacía</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">¿Sincronizar las notas con tu cuenta Mi (%1$s)?</string>
   <string name="error_contact_not_exist">El Contacto no existe</string>
+  <string name="error_hide_empty_note">"No se puede ocultar una nota vacía"</string>
   <string name="error_note_empty_for_clock">No se puede establecer la hora en una nota vacía</string>
   <string name="error_note_empty_for_send_to_desktop">No se puede enviar una nota vacía al escritorio</string>
   <string name="error_note_not_exist">La nota no existe</string>
@@ -40,6 +46,7 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="folder_exist">Ya existe una carpeta con ese nombre</string>
   <string name="format_move_notes_out_folder">Se ha movido %1$s</string>
   <string name="format_move_notes_to_folder">Se ha movido %1$s a %2$s</string>
+  <string name="hidden_notes_fragment_title">Notas ocultas</string>
   <string name="hint_foler_name">Nombre</string>
   <string name="info_note_enter_desktop">Nota añadida al escritorio</string>
   <string name="loading_text">Espere un segundo…</string>
@@ -47,9 +54,10 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="menu_create_folder">Nueva carpeta</string>
   <string name="menu_delete">Borrar</string>
   <string name="menu_folders">Carpetas</string>
-  <string name="menu_mark_privacy">Ocultar</string>
+  <string name="menu_hide">Ocultar</string>
   <string name="menu_move_parent_folder">Carpeta principal</string>
   <string name="menu_move_to">Mover a</string>
+  <string name="menu_restore">Restaurar</string>
   <string name="menu_send_as_image">Enviar como imagen</string>
   <string name="menu_send_as_text">Enviar como texto</string>
   <string name="menu_send_to_desktop">Enviar a escritorio</string>
@@ -58,6 +66,7 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="menu_source">De %1$s</string>
   <string name="menu_stick">Anclar</string>
   <string name="menu_title_select_folder">Elegir carpeta</string>
+  <string name="menu_unhide">Mostrar</string>
   <string name="menu_unmark_privacy">Mostrar</string>
   <string name="menu_unstick">Desanclar</string>
   <string name="micloud_state_total_count">%1$s</string>
@@ -76,16 +85,17 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="permdesc_accessNote">Las aplicaciones maliciosas pueden usar esto para acceder a sus datos personales.</string>
   <string name="permlab_accessNote">Acceder a tus notas</string>
   <string name="pref_desc_alarm_when_silent">Las alarmas para recordatorios seguirán sonando cuando se silencie el timbre</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">"No mostrar diálogo de confirmación cuando se elimine una nota de manera gestual"</string>
   <string name="pref_title_alarm_when_silent">No silenciar recordatorios</string>
   <string name="pref_title_common">Ajustes adicionales</string>
   <string name="pref_title_font_size">Tamaño de fuente</string>
   <string name="pref_title_note_style">Estilo</string>
   <string name="pref_title_recover_help">Recuperar notas</string>
-  <string name="privacy_hint">Secreto</string>
-  <string name="privacy_notes_fragment_title">Notas ocultas</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Eliminación rápida</string>
   <string name="recover_notes_hint">Se ha producido un error, vaya al i.mi.com para restaurar notas.</string>
   <string name="redo">Rehacer</string>
   <string name="rename_folder_dialog_tile">Renombrar carpeta</string>
+  <string name="root_folder_name">Eliminación rápida</string>
   <string name="search">Notas</string>
   <string name="search_hint">Buscar notas</string>
   <string name="search_keyword_notes">Notas;Memo</string>
@@ -128,13 +138,16 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="theme_title_red">Rojo</string>
   <string name="theme_title_star">Estrellas</string>
   <string name="theme_title_yellow">Amarillo</string>
-  <string name="toast_mark_privacy_notes">Ocultado con éxito</string>
-  <string name="toast_mark_privacy_notes_count">Ocultado %1$s con éxito</string>
   <string name="toast_message_add_image_fail">Fallo al insertar imagen</string>
   <string name="toast_message_add_text_warn">Este tipo de archivo no es compatible</string>
+  <string name="toast_notes_delete_success">Borrado exitosamente</string>
+  <string name="toast_notes_hidden">Oculto con éxito</string>
+  <string name="toast_notes_hidden_count">Escondido %1$s exitosamente</string>
+  <string name="toast_notes_unhidden">Unhidden exitosamente</string>
+  <string name="toast_notes_unhidden_count">Unhid %1$s exitosamente</string>
   <string name="toast_reach_text_limit_attachment">El contenido de la nota es demasiado grande para añadir nuevos archivos adjuntos</string>
   <string name="toast_reach_text_limit_truncate">Esta nota es demasiado larga. Parte del texto final se ha cortado.</string>
-  <string name="toast_unmark_privacy_notes_count">Mostrado %1$s con éxito</string>
+  <string name="trash_folder_name">Basura</string>
   <string name="undo">Deshacer</string>
   <string name="unknown_source">Fuente desconocida</string>
   <string name="welcome_note_for_cm">"¡Y otras grandes características!
@@ -142,5 +155,4 @@ Pulse en el signo más para crear una carpeta"</string>
  - Establecer recordatorios"</string>
   <string name="widget_content_loading">Espere un segundo…</string>
   <string name="widget_havenot_content">Pulse para crear una nota. Mantenga presionado el widget para cambiar el tamaño.</string>
-  <string name="widget_under_privacy_mode">No se pueden ver las notas en modo Invitado</string>
 </resources>
