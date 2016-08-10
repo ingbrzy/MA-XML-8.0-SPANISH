@@ -10,6 +10,7 @@
   <string name="alert_message_edit_anyway">La edición de la nota podría provocar la pérdida de su contenido.</string>
   <string name="alert_title_delete">¿Eliminar nota?</string>
   <string name="alert_title_edit_anyway">Esta nota tiene contenido no compatible</string>
+  <string name="all_folder_name">Todas las notas</string>
   <string name="all_terms">%1$s y %2$s</string>
   <string name="app_name">Notas</string>
   <string name="app_widget">Notas</string>
@@ -17,8 +18,11 @@
   <string name="attachment_contact">Contactos</string>
   <string name="attachment_gallery">Elegir de la galería</string>
   <string name="button_new_note">Nuevo</string>
-  <string name="call_record_folder_name">Llamadas grabadas</string>
+  <string name="call_folder_name">Llamadas grabadas</string>
   <string name="default_folder_name">Notas</string>
+  <string name="default_folder_name">Carpeta sin nombre</string>
+  <string name="delete_folder_dialog_tile">Eliminar carpetar</string>
+  <string name="dlg_check_reminder">"No mostrar de nuevo"</string>
   <string name="dlg_delete_message">Eliminando…</string>
   <string name="dlg_desc_confirm_alarm_silent">Las alarmas activas no sonarán cuando se desactive el sonido.</string>
   <string name="dlg_info_creating_message">Creando mensaje…</string>
