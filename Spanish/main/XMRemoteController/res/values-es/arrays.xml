@@ -11,6 +11,38 @@
         <item>Asegúrese de que ha seleccionado el modelo correcto de aire acondicionado en el proceso de emparejamiento. Siga las indicaciones de su dispositivo hasta que se complete el emparejamiento.</item>
         <item>No. Actualmente puede utilizar Mi 4, Mi 4c y Redmi Note 2 como dispositivos de infrarrojos.</item>
     </string-array>
+    <string-array name="assistant_tab">
+        <item>Vídeo</item>
+        <item>Capturas de pantalla</item>
+        <item>Aplicación</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Complete</item>
+        <item>Collect</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Recent</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Todos los canales</item>
+        <item>Canales favoritos</item>
+        <item>CCTV Channel</item>
+        <item>Canal de TV vía satélite</item>
+        <item>Canales de HD</item>
+        <item>Vistas recientemente</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan TV</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang Satellite TV</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Beijing TV</item>
+        <item>Guangdong TV</item>
+    </string-array>
     <string-array name="epg_week_tab">
         <item>Dom</item>
         <item>Lun</item>
