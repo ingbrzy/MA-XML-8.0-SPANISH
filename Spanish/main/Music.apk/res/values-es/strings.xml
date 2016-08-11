@@ -21,8 +21,8 @@
   <string name="action_item_send">Enviar</string>
   <string name="action_item_share">Compartir</string>
   <string name="action_settings">Ajustes</string>
-  <string name="ad_close">cerrar</string>
-  <string name="ad_extension">promoción</string>
+  <string name="ad_close">Cerrar</string>
+  <string name="ad_extension">Promoción</string>
   <string name="add_music">Añadir canciones</string>
   <string name="add_to_last_of_playlist">Añadir al final de la lista de reproducción.</string>
   <string name="alaka_required">Esta canción no está disponible.</string>
@@ -51,7 +51,7 @@
   <string name="app_downloads">%s descargas</string>
   <string name="app_label">Descargas</string>
   <string name="artist">Artistas</string>
-  <string name="artist_album">Álbum</string>
+  <string name="artist_album">Álbumes</string>
   <string name="artist_favor">Destacado</string>
   <string name="artist_is_empty">El nombre del artista no puede estar vacío.</string>
   <string name="artist_name">Artista</string>
@@ -214,7 +214,7 @@
   <string name="download_method">Descargar</string>
   <string name="download_no_application_title">No se puede abrir el archivo</string>
   <string name="download_paused">Descarga pausada</string>
-  <string name="download_paused_in_power_save_mode">El dispositivo está en modo de ahorro de energía, descarga en pausa</string>
+  <string name="download_paused_in_power_save_mode">Las descargas se pusieron en pausa cuando se activo el ahorro de batería</string>
   <string name="download_pending">Descarga pendiente</string>
   <string name="download_percent">%d%%</string>
   <string name="download_processing">Descargando…</string>
@@ -368,9 +368,9 @@
   <string name="local_music_empty">La lista de reproducción local está vacía</string>
   <string name="local_music_empty_goto_online">No se encontraron canciones</string>
   <string name="local_music_is_not_available">La música local no está disponible</string>
-  <string name="local_page_artist">Seguir Artistas</string>
-  <string name="local_page_custom_subtitle">Canciones diarias</string>
-  <string name="local_page_custom_title">Personalizado</string>
+  <string name="local_page_artist">Seguir artistas</string>
+  <string name="local_page_custom_subtitle">Nuevas canciones todos los días</string>
+  <string name="local_page_custom_title">Para ti</string>
   <string name="local_page_song_all">Todas las canciones</string>
   <string name="local_page_song_download">Canciones locales</string>
   <string name="local_page_song_favorite">Canciones favoritas</string>
@@ -504,7 +504,7 @@
   <string name="nowplaying_menu_item_delete">Borrar</string>
   <string name="ok">Aceptar</string>
   <string name="one_month">1 mes</string>
-  <string name="online_bill">Factura</string>
+  <string name="online_bill">Gráficas</string>
   <string name="online_favor">Destacado</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">Todas las canciones descargadas de esta lista de reproducción serán borradas de la memoria interna</string>
@@ -512,7 +512,7 @@
   <string name="online_music_enabled_summary">Escucha y descarga tus canciones favoritas. ¡Consulta las mejores canciones y listas de reproducción recomendadas estés donde estés!</string>
   <string name="online_music_enabled_title">El streaming gratuito está aquí</string>
   <string name="online_playlist_is_empty">La lista de reproducción está vacía</string>
-  <string name="online_recommend">Lista</string>
+  <string name="online_recommend">Recomendado</string>
   <string name="online_special">Especial</string>
   <string name="open_download">Abrir</string>
   <string name="order_pending">Esperando confirmación</string>
@@ -541,9 +541,9 @@
   <string name="playback_failed_no_title_by_bad_file">El formato no es compatible o el archivo no existe.</string>
   <string name="playlist_deleted_message">Lista de reproducción eliminada</string>
   <string name="playlist_renamed_message">Lista de reproducción renombrada</string>
-  <string name="playlist_type_album">Álbum</string>
+  <string name="playlist_type_album">Álbumes</string>
   <string name="playlist_type_artist">Artista</string>
-  <string name="playlist_type_billboard">Gráfico</string>
+  <string name="playlist_type_billboard">Gráficas</string>
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Mi lista de reproducción</string>
   <string name="playlist_type_recommend">Lista destacada</string>
