@@ -986,6 +986,7 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permdesc_transmitIr">Permite que la aplicación utilice el transmisor infrarrojo del teléfono.</string>
   <string name="permdesc_trust_listener">Permite que una aplicación detecte cambios en el estado de confianza.</string>
   <string name="permdesc_uninstall_shortcut">Permite que la aplicación elimine accesos directos de la pantalla principal sin que el usuario intervenga.</string>
+  <string name="permdesc_useFingerprint">Permite que la aplicación utilice el hardware para la autenticación de huellas digitales</string>
   <string name="permdesc_updateAppOpsStats">Permite que la aplicación modifique las estadísticas recopiladas sobre el uso de aplicaciones. Las aplicaciones normales no deben utilizar este permiso.</string>
   <string name="permdesc_updateBatteryStats">Permite a la aplicación modificar las estadísticas recopiladas de la batería. Las aplicaciones normales no deben utilizarlo.</string>
   <string name="permdesc_updateLock">Permite a su propietario ofrecer información al sistema acerca de cuándo sería adecuado reiniciar el sistema de forma no interactiva y actualizar el dispositivo.</string>
@@ -1214,6 +1215,7 @@ para la cuenta %s"</string>
   <string name="permlab_manageDocs">Administrar almac. de documen.</string>
   <string name="permlab_manageMediaProjection">Administrar sesiones de proyección de contenido multimedia</string>
   <string name="permlab_manageNetworkPolicy">gestionar la política de la red</string>
+  <string name="permlab_manageProfileAndDeviceOwners">Administrar perfil y propietarios del dispositivo</string>
   <string name="permlab_manageUsb">administrar preferencias y permisos para los dispositivos USB</string>
   <string name="permlab_manageUsers">administrar usuarios</string>
   <string name="permlab_manageVoiceKeyphrases">administrar frases clave de voz</string>
@@ -1309,6 +1311,7 @@ para la cuenta %s"</string>
   <string name="permlab_transmitIr">Transmitir por infrarrojos</string>
   <string name="permlab_trust_listener">Detectar cambios en estado de confianza</string>
   <string name="permlab_uninstall_shortcut">desinstalar accesos directos</string>
+  <string name="permlab_useFingerprint">hardware de uso de huellas digitales</string>
   <string name="permlab_updateAppOpsStats">modificar estadísticas de uso de aplicaciones</string>
   <string name="permlab_updateBatteryStats">modificar las estadísticas de la batería</string>
   <string name="permlab_updateLock">no realizar actualizaciones automáticas</string>
