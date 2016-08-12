@@ -222,12 +222,16 @@ Usa sólo el cargador provisto."</string>
   <string name="status_bar_notification_inspect_item_title">Información de la aplicación</string>
   <string name="status_bar_recent_guide_all">"Desliza hacia arriba para cerrar
 Desliza hacia abajo para bloquear"</string>
-  <string name="status_bar_recent_guide_bottom">Deslizar abajo bloquea</string>
-  <string name="status_bar_recent_guide_top">Deslizar arriba cierra</string>
+  <string name="status_bar_recent_guide_bottom">Deslice hacia abajo para bloquear</string>
+  <string name="status_bar_recent_guide_top">Deslice hacia arriba para cerrar</string>
   <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponible</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Volver a la grabadora</string>
-  <string name="status_bar_recording_pause">Grabación pausada. Pulsa para volver a la grabadora</string>
+  <string name="status_bar_recording_pause">Grabación en pausa</string>
+  <string name="status_bar_safepay_risk">Se encontraron riesgos de pago</string>
+  <string name="status_bar_safepay_safe">No se encontraron riesgos de pago</string>
+  <string name="status_bar_safepay_scanning">Comprobación de entorno de pago…</string>
+  <string name="status_bar_safepay_unknown">"No se pudo comprobar entorno de pago"</string>
   <string name="status_bar_settings_airplane">Modo avión</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sin conexión a Internet</string>
