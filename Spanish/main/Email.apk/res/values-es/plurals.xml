@@ -5,12 +5,12 @@
         <item quantity="one">%1$d nuevo mensaje</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">¿Archivar estas %1$d conversaciones?</item>
-        <item quantity="one">¿Archivar esta conversación?</item>
+        <item quantity="other">¿Archivar %1$d conversaciones?</item>
+        <item quantity="one">¿Archivar %1$d conversación?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">¿Borrar estas %1$d conversaciones?</item>
-        <item quantity="one">¿Borrar esta conversación?</item>
+        <item quantity="other">¿Borrar %1$d conversaciones?</item>
+        <item quantity="one">¿Borrar %1$d conversación?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Estas conversaciones contienen elementos fusionados. ¿Eliminar de todos modos?</item>
@@ -21,8 +21,8 @@
         <item quantity="one">%d seleccionado</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">%1$d archivados</item>
-        <item quantity="one">%1$d archivado</item>
+        <item quantity="other">%1$d archivados.</item>
+        <item quantity="one">%1$d archivado.</item>
     </plurals>
     <plurals name="conversation_deleted">
         <item quantity="other">%1$d eliminados.</item>
@@ -37,20 +37,20 @@
         <item quantity="one">%1$d silenciada.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"%1$d mensajes eliminados de la carpeta 'importante'"</item>
-        <item quantity="one">"%1$d eliminada de la carpeta 'importante'"</item>
+        <item quantity="other">Unmarked %1$d conversations as important.</item>
+        <item quantity="one">Unmarked %1$d conversation as important.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"%1$d eliminados de la carpeta 'spam'"</item>
-        <item quantity="one">"%1$d eliminado de la carpeta 'spam'"</item>
+        <item quantity="other">Unmarked %1$d conversations as spam</item>
+        <item quantity="one">Unmarked %1$d conversation as spam</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">%1$d mensajes reportados cómo spam</item>
-        <item quantity="one">%1$d mensaje reportado cómo spam</item>
+        <item quantity="other">%1$d mensajes reportados cómo estafa.</item>
+        <item quantity="one">%1$d mensaje reportado cómo estafa.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">%1$d marcados como spam</item>
-        <item quantity="one">%1$d marcado como spam</item>
+        <item quantity="other">%1$d mensajes reportados cómo spam.</item>
+        <item quantity="one">%1$d mensaje reportado cómo spam.</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Borradores</item>
@@ -62,7 +62,7 @@
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">Mover %1$d conversaciones</item>
-        <item quantity="one">Mover conversacion</item>
+        <item quantity="one">Mover %1$d conversación</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostrar %1$d nuevos mensajes.</item>
