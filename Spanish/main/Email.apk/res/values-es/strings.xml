@@ -449,7 +449,7 @@
   <string name="input_password_prompt">Introduzca su contraseña</string>
   <string name="invalid_recipient">La dirección %s no es válida.</string>
   <string name="invalid_recipient_title">Error de destinatario</string>
-  <string name="kilobytes">"%s  MB"</string>
+  <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Buscar bandeja de entrada en el servidor</string>
   <string name="load_more">Cargar más</string>
@@ -496,7 +496,7 @@
   <string name="me_object_pronun">yo</string>
   <string name="me_subject_pronun">yo</string>
   <string name="meeting_accepted">"
-        Aceptado:
+Aceptado:
 %s"</string>
   <string name="meeting_allday">"
         Cuándo:
@@ -901,7 +901,7 @@ Declinado:
   <string name="via_domain">"vía %1$s "</string>
   <string name="view_more_conversations">Ver más conversaciones</string>
   <string name="wait_for_manual_sync_body">"Esta cuenta no esta configurada para sincronizarse automáticamente.
-Pulse "&lt;b&gt;Sincronizar ahora&lt;/b&gt; para sincronizar el correo una vez, o &lt;b&gt;Cambiar ajustes de sincronización&lt;/b&gt; para sincronizar el correo de esta cuenta automaticamente.</string>
+Pulse "&lt;b&gt;Sincronizar ahora&lt;/b&gt; para sincronizar el correo una vez, o &lt;b&gt;Cambiar ajustes de sincronizaci&amp;#243;n&lt;/b&gt; para sincronizar el correo de esta cuenta autom&amp;#225;ticamente.</string>
   <string name="wait_for_sync_title">Esperando sincronización</string>
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
