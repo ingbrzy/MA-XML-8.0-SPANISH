@@ -48,6 +48,10 @@
         <item quantity="other">Las aplicaciones %d proporcionan condiciones</item>
         <item quantity="one">La aplicación %d proporciona condiciones</item>
     </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d dispositivos</item>
+        <item quantity="one">%d dispositivo</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Estás a %1$d pasos de acceder a la info de tu dispositivo.</item>
         <item quantity="one">Estás a %1$d paso de acceder a la info de tu dispositivo.</item>
