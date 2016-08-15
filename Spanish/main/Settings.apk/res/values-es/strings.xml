@@ -1889,6 +1889,7 @@ Para borrar la música, las imágenes y otros datos de usuario, debes borrar el 
   <string name="master_clear_summary">Borra todos los datos del dispositivo</string>
   <string name="master_clear_title">Restablecer valores de fábrica</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
+  <string name="max_cpu2_info">"Dual-core Max "</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">Hexa-core Max</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
@@ -2099,6 +2100,11 @@ Seleccione su sistema operativo:"</string>
   <string name="no_all_caps">NO</string>
   <string name="no_application">Ninguna</string>
   <string name="no_applications">No hay aplicaciones.</string>
+  <string name="no_battery_summary">Sin uso de la batería desde la última carga completa</string>
+  <string name="no_connected_devices">No hay dispositivos conectados</string>
+  <string name="no_data_usage">No hay datos utilizados</string>
+  <string name="no_default_apps">No hay aplicaciones por defecto.</string>
+  <string name="no_device_admins">Ningún administrador de dispositivos disponibles</string>
   <string name="no_condition_providers">No hay ningún proveedor de condiciones instalado.</string>
   <string name="no_device_admins">No existen administradores de dispositivos disponibles.</string>
   <string name="no_internet_access_text">使用此WLAN%1$s將無法上網,仍要使用此網路嗎？</string>
@@ -3118,6 +3124,8 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="show_all_anrs">Errores sin respuesta</string>
   <string name="show_all_anrs_summary">Mostrar diálogo cuando las aplic. en 2do plano no responden</string>
   <string name="show_background_processes">Mostrar procesos almacenados en la memoria caché</string>
+  <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
+  <string name="show_connected_devices_title">Dispositivos conectados</string>
   <string name="show_cpu_usage">Mostrar el uso de CPU</string>
   <string name="show_cpu_usage_summary">Mostrar superposición en pantalla con uso actual de la CPU</string>
   <string name="show_dev_already">No es necesario, ya eres usuario avanzado.</string>
@@ -3417,7 +3425,9 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="testing_phone_info">Información del dispositivo</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Estadísticas de uso</string>
-  <string name="testing_wifi_info">Información WI-FI</string>
+  <string name="testing_wifi_info">Información Wi-Fi</string>
+  <string name="tether_devices_management_title">Administrar dispositivos</string>
+  <string name="tether_settings_disabled">El punto de acceso personal está apagado</string>
   <string name="tether_settings_title_all">Anclaje de red y zona Wi-Fi</string>
   <string name="tether_settings_title_bluetooth">Anclaje a red Bluetooth</string>
   <string name="tether_settings_title_usb">Anclaje a red USB</string>
