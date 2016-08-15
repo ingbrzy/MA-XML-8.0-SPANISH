@@ -24,6 +24,7 @@
   <string name="add_to_album_exist">Esta foto ya existe</string>
   <string name="add_to_album_failed">No se pudo añadir</string>
   <string name="add_to_album_success">Agregada al álbum</string>
+  <string name="add_to_album_tip">Fotos de la nube</string>
   <string name="add_to_secret_exist">La foto ya existe dentro del álbum oculto</string>
   <string name="add_to_secret_fail">No se pudo agregar al álbum oculto</string>
   <string name="add_to_secret_failed_with_reason">No se pudo agregar al álbum oculto. %1$s.</string>
@@ -907,6 +908,7 @@
   <string name="picker_image_need_download">%d de las fotografías seleccionadas no están en el dispositivo. ¿Descargar usando datos móviles?</string>
   <string name="picker_image_will_download">%d de las fotografías seleccionadas no están en el dispositivo. Las fotos serán descargadas.</string>
   <string name="picker_mobile_data_video">No se puede descargar vídeos a partir de datos móviles, omitido %d.</string>
+  <string name="picker_no_network_message">La red no está disponible, por favor conecte a la red y descargue</string>
   <string name="picker_origin_need_download">%1$d de las fotos seleccionadas (%2$dMB) no están en el dispositivo. ¿Descargar usando datos móviles?</string>
   <string name="picker_title_format">Selected photos: %d</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
@@ -988,6 +990,8 @@
   <string name="send_too_many_files_error">No se puede enviar tantas cosas (máximo %d cosas).</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Usar como fondo de pantalla de bloqueo</string>
+  <string name="set_as_wallpaper_description">Esta foto es en miniatura, ¿necesita usted descargar primer el original??</string>
+  <string name="set_as_wallpaper_title">Establecer como fondo de pantalla</string>
   <string name="set_face_group_toast_msg_new_user">Sostenga una persona para fusionar o ignorarla.</string>
   <string name="set_face_group_toast_msg_old_user">Sostenga la foto de una persona para crear grupos (P.e., Familia, Amigos, Compañeros, etc.)</string>
   <string name="set_face_group_toast_title_new_user">Sugerencias</string>
@@ -999,6 +1003,7 @@
   <string name="share">Compartir</string>
   <string name="share_album">Compartir álbum</string>
   <string name="share_album_needs_auto_upload_tip">No se puedo cargar el respaldo para álbumes compartidos</string>
+  <string name="share_app_is_launching">La aplicación ha sido lanzada</string>
   <string name="share_by_email_start">Compartir %1$s en segundo plano</string>
   <string name="share_by_email_successfully">Compartida %1$s</string>
   <string name="share_current_album">Compartir álbum actual</string>
