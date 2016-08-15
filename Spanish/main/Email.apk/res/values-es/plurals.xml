@@ -37,12 +37,12 @@
         <item quantity="one">%1$d silenciada.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">Unmarked %1$d conversations as important.</item>
-        <item quantity="one">Unmarked %1$d conversation as important.</item>
+        <item quantity="other">%1$d conversaciones sin marcar como importantes.</item>
+        <item quantity="one">%1$d conversación sin marcar como importante.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Unmarked %1$d conversations as spam</item>
-        <item quantity="one">Unmarked %1$d conversation as spam</item>
+        <item quantity="other">%1$d conversaciones sin marcar como correo basura</item>
+        <item quantity="one">%1$d conversación sin marcar como correo basura</item>
     </plurals>
     <plurals name="conversation_phished">
         <item quantity="other">%1$d mensajes reportados cómo estafa.</item>
