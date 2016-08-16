@@ -8,6 +8,8 @@
   <string name="app_label">Reportar error</string>
   <string name="app_name">Retroalimentación</string>
   <string name="btn_send">Enviar</string>
+  <string name="bugreport_dialog_not_show_again">"No mostrar de nuevo"</string>
+  <string name="bugreport_dialog_submit_content">Su opinion puede contener información personal.</string>
   <string name="bugreport_dump_complete_notification_summary">Toque para visualizar.</string>
   <string name="bugreport_dump_complete_notification_title">Informe de error creado</string>
   <string name="bugreport_dump_start_notification_summary">Tardará varios minutos.</string>
@@ -65,6 +67,7 @@
   <string name="feedback_submit_hint2">"Vaya a  \"Mis informes\"  para ver los detalles"</string>
   <string name="feedback_submit_succ">Enviado correctamente</string>
   <string name="feedback_submit_succ_button">Listo</string>
+  <string name="feedback_submitting">Submitting…</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s sugerencia \"%2$s\"</string>
   <string name="feedback_title">Título</string>
   <string name="feedback_title_hint">Describe el problema brevemente</string>
@@ -102,11 +105,11 @@
   <string name="michat_kefu_welcome">¡Bienvenido al soporte en línea de Xiaomi!</string>
   <string name="michat_lose_artificial">Se ha producido un error en la red, sesión de chat terminada</string>
   <string name="michat_menu_copy_text">Copiar</string>
-  <string name="michat_mesage_resend_error_network">No se pudo conectar a la red</string>
-  <string name="michat_mesage_send_error_network">No se pudo enviar, compruebe la conexión de red</string>
   <string name="michat_message_copy_info">Copiado al portapapeles</string>
+  <string name="michat_message_error_network">"No se pudo conectar a la red"</string>
   <string name="michat_message_join_again">¡Me alegro de que estés de vuelta!</string>
   <string name="michat_message_robot_welcome">Mi nombre es Conejito MI. Soy un robot de asistencia en línea.</string>
+  <string name="michat_message_send_error_network">"No se pudo enviar, compruebe la conexión"</string>
   <string name="michat_motto">Apoyo Mi está listo para ayudar</string>
   <string name="michat_msg_image_upload_error">No se pudo enviar la imagen, vuelve a intentarlo más tarde</string>
   <string name="michat_msg_input_info">Describe el problema brevemente</string>
@@ -145,7 +148,7 @@
   <string name="section_screenshot">Captura de pantalla</string>
   <string name="submit_dialog_cancel">Cancelar</string>
   <string name="submit_dialog_confirm">Enviar</string>
-  <string name="submit_dialog_content">Su comentario, junto con los registros de error e imágenes adjuntas, se enviarán a los servidores de Mi cuando su dispositivo se conecte por Wi-Fi.</string>
+  <string name="submit_dialog_content">Su comentario junto con los archivos adjuntos y los registros se enviará a los servidores de MIUI. Puede contener información personal.</string>
   <string name="submit_dialog_title">Enviar informe de error</string>
   <string name="suggestion_description">Escriba aquí su sugerencia</string>
   <string name="system_app_select">Aplicaciones integradas</string>
