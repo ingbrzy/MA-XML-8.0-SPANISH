@@ -3,7 +3,7 @@
   <string name="SMTP_independent_verification_text">Verificación independiente de SMTP</string>
   <string name="SMTP_password_text">Contraseña</string>
   <string name="SMTP_username_text">Nombre de usuario</string>
-  <string name="account_duplicate_dlg_message_fmt">"        Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_name_toast">Ya existe una cuenta con el mismo nombre</string>
   <string name="account_options_sync_title">Sincronizar</string>
@@ -76,7 +76,7 @@
   <string name="account_setup_failed_auth_required">Métodos de autenticación no son compatibles con el servidor.</string>
   <string name="account_setup_failed_certificate_inaccessible">Certificado inaccesible o no válido.</string>
   <string name="account_setup_failed_certificate_required">Se requiere un certificado de cliente. ¿Quiere conectarse al servidor con un certificado de cliente?</string>
-  <string name="account_setup_failed_check_credentials_message">"         El servidor dio un mensaje de error. Compruebe su usuario y contraseña y vuelva a intentarlo."</string>
+  <string name="account_setup_failed_check_credentials_message">El servidor dio un mensaje de error. Compruebe su usuario y contraseña y vuelva a intentarlo.</string>
   <string name="account_setup_failed_dlg_auth_message">Usuario o contraseña incorrectos.</string>
   <string name="account_setup_failed_dlg_bar_title">Formas de iniciar sesión en %s</string>
   <string name="account_setup_failed_dlg_certificate_message">No se puede conectar al servidor de forma segura.</string>
@@ -107,9 +107,9 @@
   <string name="account_setup_incoming_security_label">Tipo de seguridad</string>
   <string name="account_setup_incoming_security_none_label">Ninguna</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-  <string name="account_setup_incoming_security_ssl_trust_certificates_label">"        SSL/TLS (Aceptar todos los certificados)"</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Aceptar todos los certificados)</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-  <string name="account_setup_incoming_security_tls_trust_certificates_label">"        STARTTLS (aceptar todos los certificados)"</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Aceptar todos los certificados)</string>
   <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_username_label">Nombre de usuario</string>
   <string name="account_setup_incoming_username_label_default_hint">Puede incluir el dominio</string>
@@ -135,16 +135,16 @@
   <string name="account_setup_outgoing_port_label">Puerto</string>
   <string name="account_setup_outgoing_require_login_label">Requerir inicio de sesión</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
-  <string name="account_setup_security_policies_required_fmt">"         El servidor %s requiere que le permita controlar remotamente
-         algunas funciones de seguridad de su dispositivo Android. ¿Desea finalizar la configuración de esta cuenta?"</string>
+  <string name="account_setup_security_policies_required_fmt">"El servidor %s requiere que le permita controlar remotamente algunas funciones de seguridad de su dispositivo Android. ¿Desea finalizar la configuración de esta cuenta?"</string>
   <string name="account_setup_security_required_title">Administración de seguridad remota</string>
   <string name="account_setup_server_acc_manager_title">Cuentas</string>
-  <string name="account_setup_username_password_toast">"        Escriba una contraseña y dirección de correo electrónico válidas."</string>
+  <string name="account_setup_username_password_toast">Introduzca una dirección de correo electrónico y una contraseña válidos.</string>
   <string name="account_sync_off">La sincronización de la cuenta está desactivada.</string>
   <string name="account_waiting_for_folders_msg">Cargando carpetas…</string>
   <string name="actionbar_large_unread_count">%1$d+ no leídos</string>
   <string name="activity_folder_selection">Seleccione carpeta</string>
   <string name="activity_mailbox_selection">Seleccione cuenta</string>
+  <string name="ad_merge">AD&amp;Notice Organize</string>
   <string name="add_account">Añadir cuenta</string>
   <string name="add_account_keywords">Añadir cuenta;Añadir cuenta de correo</string>
   <string name="add_attachment">Añadir adjunto</string>
@@ -222,8 +222,6 @@
   <string name="changepw_dialog_tips">Reintroduzca la contraseña para %s</string>
   <string name="chat_item_msg_people_unit">personas</string>
   <string name="chat_item_msg_user_etc">etc.</string>
-  <string name="chat_view_description">Ver conversaciones de correo como burbujas de conversación</string>
-  <string name="chat_view_title">Vista de conversaciones</string>
   <string name="check_setup_data">"    Validando configuración del servidor…"</string>
   <string name="choosertitle_sharevia">Compartir usando</string>
   <string name="clear">Limpiar</string>
@@ -321,9 +319,7 @@
   <string name="dialog_gmail_proxy_server_is_error">Error en el servidor proxy de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">Imposible descargar adjunto. No hay espacio de almacenamiento externo suficiente .</string>
   <string name="dialog_insufficient_space_on_internal">No hay espacio de almacenamiento interno suficiente.</string>
-  <string name="disable_admin_warning">"ADVERTENCIA: Desactivar el permiso de la aplicación de correo electrónico
-         para administrar su dispositivo, conducirá a que se eliminen todas las cuentas de correo y los
-        mensajes, contactos, eventos de calendario y otros datos."</string>
+  <string name="disable_admin_warning">"ADVERTENCIA: Desactivar el permiso de la aplicación de correo electrónico para administrar su dispositivo, conducirá a que se eliminen todas las cuentas de correo y los mensajes, contactos, eventos de calendario y otros datos."</string>
   <string name="discard">Descartar</string>
   <string name="discard_drafts">Descartar borradores</string>
   <string name="dismiss_tip_hover_text">Descartar consejo</string>
@@ -371,10 +367,7 @@
         Este evento se ha cancelado
         por:
 %s "</string>
-  <string name="exception_updated">"
-        Los detalles de este evento han sido cambiados
-        por:
-%s "</string>
+  <string name="exception_updated">Los detalles de este evento han sido cambiados por: %s</string>
   <string name="exchange_name">Corporativo</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Ampliar detalles del destinatario</string>
@@ -560,7 +553,7 @@ Declinado:
   <string name="message_invite_title">Invitación a evento de calendario</string>
   <string name="message_saved">Mensaje guardado como borrador.</string>
   <string name="message_view_attachment_background_load">Los archivos adjuntos en el mensaje reenviado se descargarán antes de enviar.</string>
-  <string name="mibill_privacy_policy_button1">No acepto</string>
+  <string name="mibill_privacy_policy_button1">Más tarde</string>
   <string name="mibill_privacy_policy_button2">De acuerdo</string>
   <string name="mibill_privacy_policy_description">Permitir que Mi Wallet analice y gestione sus facturas automáticamente. Esta función está desactivada por defecto para las direcciones de correo relacionadas con el trabajo.</string>
   <string name="mibill_privacy_policy_link">Al usar esta función, usted acepta nuestros &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;T&amp;#233;rminos del Servicio&lt;/a&gt;</string>
@@ -626,12 +619,11 @@ Declinado:
   <string name="outbox_no_mails">Vacío</string>
   <string name="parase_setup_data">Obteniendo datos…</string>
   <string name="password_expire_warning_content_title">Contraseña de de bloqueo de pantalla caducada</string>
-  <string name="password_expire_warning_dialog_content_fmt">"         Debe cambiar su contraseña o PIN de bloqueo pronto, o la información de %s será eliminada. ¿Quiere cambiarla ahora?"</string>
+  <string name="password_expire_warning_dialog_content_fmt">Debe cambiar su contraseña o PIN de bloqueo pronto, o la información de %s será eliminada. ¿Quiere cambiarla ahora?</string>
   <string name="password_expire_warning_dialog_title">Contraseña de bloqueo de pantalla a punto de caducar</string>
   <string name="password_expire_warning_ticker_fmt">"\" %s  \"requiere que cambia tu pantalla de bloqueo, PIN o contraseña."</string>
   <string name="password_expired_content_title">Contraseña de bloqueo de pantalla caducada</string>
-  <string name="password_expired_dialog_content_fmt">"         Los datos de %s están siendo borrados de su dispositivo.
-         Puede restaurarlos al cambiar su PIN o contraseña de bloqueo de pantalla. ¿Cambiar ahora?"</string>
+  <string name="password_expired_dialog_content_fmt">Los datos de %s están siendo borrados de su dispositivo. Puede restaurarlos al cambiar su PIN o contraseña de bloqueo de pantalla. ¿Cambiar ahora?</string>
   <string name="password_expired_dialog_title">La contraseña de bloqueo de pantalla ha caducado</string>
   <string name="password_expired_ticker">Su contraseña o PIN de bloqueo ha caducado.</string>
   <string name="path_about_account_setting">Correo electrónico/Ajustes/Cuentas</string>
@@ -693,7 +685,7 @@ Declinado:
   <string name="preference_sender_image_description">Mostrar fotos de perfil junto al nombre del remitente en su bandeja de entrada</string>
   <string name="preference_sender_image_title">Mostrar imagenes del perfil en la bandeja de entrada</string>
   <string name="preferences_signature_dialog_title">Firma</string>
-  <string name="preferences_signature_summary_not_set">Ninguna</string>
+  <string name="preferences_signature_summary_not_set">No establecido</string>
   <string name="preferences_signature_title">Firma</string>
   <string name="preview_attachment">Previsualizar</string>
   <string name="previous_action">Atrás</string>
@@ -725,9 +717,10 @@ Declinado:
   <string name="quick_3">Lo leeré más tarde y te digo algo.</string>
   <string name="quick_4">Fijemos una reunión para hablar de esto.</string>
   <string name="quick_reply_dialog_title">Elegir respuesta</string>
-  <string name="quick_reply_hint">Contestar a todas las %1$d personas</string>
+  <string name="quick_reply_hint">Contestar a las %1$d personas</string>
   <string name="quick_reply_hint_bcc">(En BCC)</string>
   <string name="quick_reply_hint_cc">(En CC)</string>
+  <string name="quick_reply_hint_reply_only_from">Respuesta rápida (sólo el remitente)</string>
   <string name="quick_responses_empty_view">Sin respuestas rápidas</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- Mensaje original --------</string>
@@ -791,8 +784,8 @@ Declinado:
   <string name="search_tabs_name_subject">Asunto</string>
   <string name="search_title">Email unificado</string>
   <string name="search_txt_size_limit_prompt">Sólo puede realizar búsquedas de más de 3 caracteres</string>
-  <string name="security_changed_ticker_fmt">"La cuenta\" %s  \"cambió su configuración de seguridad; ninguna acción del usuario se requiere."</string>
-  <string name="security_needed_ticker_fmt">"            La cuenta \"%s\" requiere una actualización de los ajustes de seguridad."</string>
+  <string name="security_changed_ticker_fmt">La cuenta\" %s  \"cambió su configuración de seguridad; ninguna acción del usuario se requiere.</string>
+  <string name="security_needed_ticker_fmt">La cuenta \"%s\" requiere una actualización de los ajustes de seguridad.</string>
   <string name="security_notification_content_change_title">Las políticas de seguridad han cambiado</string>
   <string name="security_notification_content_unsupported_title">"Security requirements can't be
          met"</string>
@@ -813,6 +806,11 @@ Declinado:
   <string name="sent_folder_selection_title">Seleccione la carpeta de elementos enviados para %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"No se pudo validar el certificado del servidor
 \u0009 (Asegúrese de que la 'Hora de sincronización automática' esté activada en Ajustes)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Demasiados intentos fallidos de ingresar</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Demasiados intentos de conexión</string>
+  <string name="ser_resp_err_map_mailbox_locked">La cuenta de correo electrónico está protegida por contraseña</string>
+  <string name="ser_resp_err_map_mailbox_not_open">No hay cuentas de correo electrónico</string>
+  <string name="ser_resp_err_map_max_connections">Demasiados intentos de conexión</string>
   <string name="ser_resp_err_map_nouser">El usuario no existe</string>
   <string name="ser_resp_err_map_or">%1$s o %2$s</string>
   <string name="ser_resp_err_map_pserr">Usuario o contraseña incorrectos</string>
@@ -846,7 +844,7 @@ Declinado:
   <string name="special_text_sender_zh">Remitente</string>
   <string name="storage">Almacenamiento</string>
   <string name="str_select_all">Seleccionar todo</string>
-  <string name="str_select_none">Desmarcar todo</string>
+  <string name="str_select_none">Desmarcar</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Asunto</string>
   <string name="sync_error">No es posible sincronizar.</string>
@@ -862,7 +860,6 @@ Declinado:
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Pulse para configurar.</string>
   <string name="tap_to_enable_sync">Pulse para activarla.</string>
-  <string name="tip_cannot_switchview_in_unread_folder">No se puede cambiar la vista en el modo de agregación de correos no leídos</string>
   <string name="to">A</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">No se puede conectar a la red</string>
@@ -873,6 +870,7 @@ Declinado:
   <string name="too_large_to_attach_additional">El tamaño de archivo no puede exceder %1$s.</string>
   <string name="too_large_to_attach_multiple">No se adjuntaron uno a varios archivos. El tamaño no puede exceder %1$s.</string>
   <string name="too_large_to_attach_single">No es posible adjuntar un archivo con un tamaño superior a %1$s .</string>
+  <string name="topic_merge">Combinar temas</string>
   <string name="trash_folder_selection_title">Seleccione la Papelera del servidor para %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
