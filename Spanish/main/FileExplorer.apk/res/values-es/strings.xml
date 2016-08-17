@@ -158,7 +158,9 @@
   <string name="dislike_toast">"Este tipo de vídeos no serán recomendados para usted."</string>
   <string name="dislike_video">"No me interesa"</string>
   <string name="dlg_error_unmount_text">"No se puede desactivar el almacenamiento USB."</string>
+  <string name="download">Descargar</string>
   <string name="download_current_progress">%1$d%%</string>
+  <string name="download_fail">"No se pudo descargar"</string>
   <string name="download_failed">No se pudo descargar</string>
   <string name="download_link_completed">"%1$s compartido vía KuaiPan. Toque el siguiente enlace para ver: "</string>
   <string name="downloaded_sticker_str">Descargado</string>
@@ -201,6 +203,7 @@
   <string name="file_too_large">El archivo es demasiado grande</string>
   <string name="files">Archivos</string>
   <string name="finished">Completado</string>
+  <string name="flow_setting">Ajustes</string>
   <string name="folder_exist">La carpeta ya existe.</string>
   <string name="folder_name_empty">El nombre de la carpeta no puede estar vacío</string>
   <string name="folder_name_illegal">Nombre de carpeta no válido</string>
@@ -232,14 +235,16 @@
   <string name="homepage_tab_category">Categorías</string>
   <string name="homepage_tab_file_view">Teléfono</string>
   <string name="homepage_tab_recent">Reciente</string>
+  <string name="hot_app">Aplicaciones populares</string>
   <string name="hot_sticker">Stickers Populares</string>
   <string name="hot_video">Videos populares</string>
   <string name="hot_video_load_more">Más &gt;</string>
   <string name="hottest_sticker_str">Popular</string>
   <string name="if_cancel">¿Cancelar esta operación?</string>
   <string name="image_loading_error">No se pudo cargar la imagen</string>
-  <string name="input_memo_hint">Enter additional reasons (optional)</string>
-  <string name="installing">Installing…</string>
+  <string name="input_memo_hint">Introduzca motivos adicionales (opcional)</string>
+  <string name="install_fail">"No se pudo instalar"</string>
+  <string name="installing">Instalando…</string>
   <string name="instruction">"Introduzca la siguiente dirección en un cliente FTP: "</string>
   <string name="instruction_pre">Tocar para iniciar el servidor FTP</string>
   <string name="interest_recommend">Videos recomendados</string>
@@ -424,6 +429,8 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="oauth_failed_tip">No se pudo completar la autorización</string>
   <string name="oauth_success_tip">Autorizado con éxito</string>
   <string name="online_not_support">No se puede ver este archivo online por el momento.</string>
+  <string name="only_wifi">Descargar cuando se conecte a Wi-Fi</string>
+  <string name="open_app">Abrir</string>
   <string name="open_changed_file_message">"El archivo que estás intentando abrir ha sido modificado. Por favor:
 1. Descargar el archivo de nuevo para actualizarlo.
 2. Subirlo a tu cuenta de KuaiPan"</string>
@@ -530,6 +537,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">Mi Drive: %1$s disponible, %2$s en total</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_show">Reciente</string>
   <string name="recommend">Recomendado</string>
   <string name="recommend_topic">Temas recomendados</string>
   <string name="recommend_user">Perfiles recomendados</string>
