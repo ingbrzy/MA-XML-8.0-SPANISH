@@ -262,7 +262,7 @@
     <string name="deepclean_app_content">Desinstalar aplicaciones que no han sido usadas en 30 días</string>
     <string name="deepclean_similar_ignore">Ignorar</string>
     <string name="hints_scanfinish">Sin basura</string>
-    <string name="hints_scan_has_finish">Finished cleaning</string>
+    <string name="hints_scan_has_finish">La limpieza ha finalizado</string>
     <string name="hints_cleanfinish">Limpieza terminada</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">Limpiar %s</string>
@@ -403,5 +403,5 @@
     <string name="long_click_dialog_summary">Presione prolongadamente para añadir a las excepciones.</string>
     <string name="function_app_lock_title">%d aplicaciones contienen riesgos de privacidad</string>
     <string name="app_install_tips_go_to">Lunch now</string>
-    <string name="app_install_tips_install_success">%1$s install success</string>
+    <string name="app_install_tips_install_success">%1$s instalado con éxito</string>
 </resources>
