@@ -714,12 +714,12 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optimize_result_button_cloudspace">Añadir almacenamiento en la nube</string>
   <string name="optimize_result_button_consume_power_analysis">Escaneo de la batería</string>
   <string name="optimize_result_button_cooldown_now">Enfriarse</string>
-  <string name="optimize_result_button_correct_now">Calibrar</string>
+  <string name="optimize_result_button_correct_now">Ajustar</string>
   <string name="optimize_result_button_fix_now">Fijar</string>
   <string name="optimize_result_button_onekey_open">Encender</string>
   <string name="optimize_result_button_onekey_restore">Restaurar</string>
   <string name="optimize_result_button_open_now">Encender</string>
-  <string name="optimize_result_button_operators_diagnose">Diagnóstico del operador</string>
+  <string name="optimize_result_buAjustars_diagnose">Diagnóstico del operador</string>
   <string name="optimize_result_button_purchase">Comprar</string>
   <string name="optimize_result_button_purchase_flow">Comprar datos móviles</string>
   <string name="optimize_result_button_see_detaills">Detalles</string>
@@ -1269,7 +1269,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_flow_purchase">"Parece que ya no tiene suficientes datos. Compre más datos para seguir conectado."</string>
   <string name="summary_flow_purchase_beyond">Has excedido el límite del plan de datos mensual de tu operador por %sMB</string>
   <string name="summary_flow_verify">No se han sincronizado las estadísticas de uso de datos del operador en %d días</string>
-  <string name="summary_flow_verify_failed">Calibrar</string>
+  <string name="summary_flow_verify_failed">Ajuste automático de uso de datos para evitar cargos adicionales</string>
   <string name="summary_garbage_lib">Usar las últimas definiciones para eliminar spyware, adware y otra basura no deseada</string>
   <string name="summary_install_virus">Comprueba si tus aplicaciones tienen virus antes de instalarlas</string>
   <string name="summary_live_talk_purchase">Ahorre hasta un 70% en sus llamadas</string>
@@ -1393,7 +1393,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="title_flow_purchase">Comprar datos móviles</string>
   <string name="title_flow_rank">Uso de datos móviles</string>
   <string name="title_flow_verify">Comparar contabilidad</string>
-  <string name="title_flow_verify_failed">"No se pudo calibrar durante 5 días seguidos"</string>
+  <string name="title_flow_verify_failed">"No se pudo ajustar durante 5 días seguidos"</string>
   <string name="title_garbage_lib">Actualizar definiciones</string>
   <string name="title_install_virus_no">Monitor de instalación apagado</string>
   <string name="title_install_virus_yes">Monitor de instalación activado</string>
@@ -1409,7 +1409,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="title_permission_yes">El administrador de permisos está activado</string>
   <string name="title_power_optimizer">Ahorro de batería</string>
   <string name="title_show_notification">Widget de cortina de notificaciones</string>
-  <string name="title_telecom_operator">Calibrar</string>
+  <string name="title_telecom_operator">Auto ajuste</string>
   <string name="title_usb_no">Depuración USB activada</string>
   <string name="title_usb_yes">Depuración USB desactivada</string>
   <string name="title_virus_cloudscan">Análisis de virus de la nube</string>
@@ -1418,7 +1418,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="title_virus_update_yes">Actualización de definiciones de virus activada</string>
   <string name="title_virus_yes">No se encontraron virus</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
-  <string name="toast_auto_traffic_correct">La calibración automática esta encendida</string>
+  <string name="toast_auto_traffic_correct">El uso de datos se ajustara automáticamente</string>
   <string name="toast_cleaner_cloudscan">El limpiador usará definiciones en línea</string>
   <string name="toast_default_app">%1$s establecen como sistema predeterminado %2$s</string>
   <string name="toast_flow_notification">Notificaciones de uso de datos activas</string>
