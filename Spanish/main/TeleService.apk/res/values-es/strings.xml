@@ -180,13 +180,13 @@
   <string name="can_not_call_self">Can`t dial own number</string>
   <string name="can_not_use_for_not_data_sim">(No se puede utilizar: Se debe establecer como datos SIM por defecto)</string>
   <string name="cancel">Cancelar</string>
-  <string name="card_title_MOcall_forwarding">Llamada saliente</string>
-  <string name="card_title_MTcall_forwarding">Llamada entrante se desvía</string>
+  <string name="card_title_MOcall_forwarding">Llamada saliente desvíada</string>
+  <string name="card_title_MTcall_forwarding">Llamada entrante es desvíada</string>
   <string name="card_title_call_deflected">Llamada desviada</string>
   <string name="card_title_call_ended">Llamada finalizada</string>
   <string name="card_title_callconnectedect">Llamada conectada ECT</string>
   <string name="card_title_callconnectingect">Llamar conectando ECT</string>
-  <string name="card_title_calliswaiting">Llamada en espera</string>
+  <string name="card_title_calliswaiting">Espera</string>
   <string name="card_title_callonhold">Poner en espera</string>
   <string name="card_title_callonhold_released">Llamada realizada</string>
   <string name="card_title_callretrieved">Llamada recuperada</string>
@@ -196,7 +196,7 @@
   <string name="card_title_cugcall">Llamadas CUG</string>
   <string name="card_title_deflectedcall">Llamada desviada</string>
   <string name="card_title_dialing">Marcando</string>
-  <string name="card_title_forwardcheckreceived">Mensaje recibido</string>
+  <string name="card_title_forwardcheckreceived">Llamada desviada comprobada y recibida</string>
   <string name="card_title_forwarded_MTcall">Llamada entrante desviada</string>
   <string name="card_title_hanging_up">Colgando</string>
   <string name="card_title_in_call">En llamada</string>
