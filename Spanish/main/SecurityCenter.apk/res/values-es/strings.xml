@@ -21,8 +21,8 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="access_control_recording_intro_header">Dibuje el patrón para añadir bloqueo de aplicaciones</string>
   <string name="access_control_reset_by_account">Accede a su cuenta Mi para resetablecer la contraseña</string>
   <string name="action_button_text_100">Optimizar</string>
-  <string name="action_button_text_60">Fijar</string>
-  <string name="action_button_text_60_80">Fijar</string>
+  <string name="action_button_text_60">Arreglar</string>
+  <string name="action_button_text_60_80">Arreglar</string>
   <string name="action_button_text_80_100">Optimizar</string>
   <string name="activity_title_antispam">Lista de bloqueo</string>
   <string name="activity_title_antivirus">Escáner de virus</string>
@@ -713,9 +713,9 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_result_button_cloudspace">Añadir almacenamiento en la nube</string>
   <string name="optimize_result_button_consume_power_analysis">Escaneo de la batería</string>
-  <string name="optimize_result_button_cooldown_now">Enfriarse</string>
+  <string name="optimize_result_button_cooldown_now">Enfriar</string>
   <string name="optimize_result_button_correct_now">Ajustar</string>
-  <string name="optimize_result_button_fix_now">Fijar</string>
+  <string name="optimize_result_button_fix_now">Arreglar</string>
   <string name="optimize_result_button_onekey_open">Encender</string>
   <string name="optimize_result_button_onekey_restore">Restaurar</string>
   <string name="optimize_result_button_open_now">Encender</string>
@@ -726,7 +726,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optimize_result_button_to_open">Encende</string>
   <string name="optimize_result_button_to_set">Conjunto</string>
   <string name="optimize_result_button_update_now">Actualizar</string>
-  <string name="optimize_result_summary_sucurity_risk">Algunas características de seguridad están apagadas. Activar estas características para hacer al dispositivo más seguro:</string>
+  <string name="optimize_result_summary_sucurity_risk">Algunas características de seguridad están desactivadas. Activar estas características para hacer al dispositivo más seguro:</string>
   <string name="optimize_result_summary_system_default_settings">"El uso de aplicaciones MIUI aumenta el nivel de estabilidad y seguridad del sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Riesgos de seguridad encontrados</string>
   <string name="optimize_result_title_system_default_settings">Los ajustes predeterminados se han cambiado</string>
@@ -1097,12 +1097,12 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="protection_category_security_title">Limpiar (%d)</string>
   <string name="protocol_exception_title">Diagnósticos de protocolo de red</string>
   <string name="protocol_loop_back_exception_summary">Prueba de loopback local falló. Para informar este problema a MIUI, vaya a la aplicación Informe de error y envíe un registro de su dispositivo.</string>
-  <string name="quick_optimize_checking">Escanear</string>
-  <string name="quick_optimize_no_fix_issue_subtitle">No se pudo prolongar la vida útil de la batería</string>
-  <string name="quick_optimize_no_fix_issue_title">No se pudo solucionar el problema con la batería</string>
-  <string name="quick_optimize_no_issue">No hay problema con la batería</string>
-  <string name="quick_optimize_no_issue_subtitle">Todo se ve bien</string>
-  <string name="quick_optimize_no_issue_title">No se encontraron asuntos con la batería</string>
+  <string name="quick_optimize_checking">Escaneando</string>
+  <string name="quick_optimize_no_fix_issue_subtitle">No se pudo prolongar la duración de la batería</string>
+  <string name="quick_optimize_no_fix_issue_title">No se pudieron solucionar los problemas con la batería</string>
+  <string name="quick_optimize_no_issue">No hay problemas con la batería</string>
+  <string name="quick_optimize_no_issue_subtitle">Todo parece estar bien</string>
+  <string name="quick_optimize_no_issue_title">No se encontraron problemas con la batería</string>
   <string name="quick_optimize_sub_summary_text">Añadido %s de duración a la bateria</string>
   <string name="reach_daily_limit_value_body">Reducir el uso de datos móviles.</string>
   <string name="reach_daily_limit_value_title">Límite diario de datos alcanzada</string>
@@ -1193,7 +1193,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="section_clear_acc_item_title">"Liberado %s. Si todavía no hay suficiente espacio de almacenamiento, intente utilizar el limpiador."</string>
   <string name="section_security_defend_item_title">Proteja sus datos con el bloqueo de aplicaciones</string>
-  <string name="section_system_item_fixed">Fijo</string>
+  <string name="section_system_item_fixed">Arreglado</string>
   <string name="section_title_clear_acc">Limpiar cache</string>
   <string name="section_title_security_defend">Seguridad</string>
   <string name="section_title_system">Sistema de seguridad</string>
