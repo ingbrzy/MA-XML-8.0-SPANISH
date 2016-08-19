@@ -32,7 +32,12 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="grant_dialog_button_deny">Rechazar</string>
   <string name="high_risk_perms">Permisos de alto riesgo</string>
   <string name="install">Instalar</string>
-  <string name="install_confirm_question">¿Quiere instalar esta aplicación?</string>
+  <string name="install_confirm_question">¿Quiere instalar esta aplicación? obtendrá permiso para</string>
+  <string name="install_confirm_question_no_perms">¿Quieres instalar esta aplicación? No requiere ningún permiso especial.</string>
+  <string name="install_confirm_question_update">¿Quieres instalar una actualización de esta aplicación? no se perderá sus datos. La aplicación actualizada tendrá permisos para:</string>
+  <string name="install_confirm_question_update_no_perms">¿Quieres instalar una actualización de esta aplicación? no se perderá sus datos. No requiere ningún permiso especial.</string>
+  <string name="install_confirm_question_update_system">¿Quieres instalar una actualización de esta aplicación? no se perderá sus datos. La aplicación actualizada tendrá permisos para:</string>
+  <string name="install_confirm_question_update_system_no_perms">¿Quieres instalar una actualización de esta aplicación? no se perderá sus datos. No requiere ningún permiso especial.</string>
   <string name="install_done">Aplicación instalada</string>
   <string name="install_failed">Aplicación no instalada</string>
   <string name="install_failed_cpu_abi_incompatible">Esta aplicación no es compatible con la CPU de este teléfono.</string>
