@@ -1,72 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="mins_ago">
-        <item quantity="other">Hace %1$d minutos</item>
-        <item quantity="zero">Hace %1$d minutos</item>
-        <item quantity="one">Hace %1$d minuto</item>
-        <item quantity="two">Hace %1$d minutos</item>
-        <item quantity="few">Hace %1$d minutos</item>
-        <item quantity="many">Hace %1$d minutos</item>
+        <item quantity="other">Hace %1$d mins</item>
+        <item quantity="one">Hace %1$d min</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">Hace %1$d horas</item>
-        <item quantity="zero">Hace %1$d horas</item>
         <item quantity="one">Hace %1$d hora</item>
-        <item quantity="two">Hace %1$d horas</item>
-        <item quantity="few">Hace %1$d horas</item>
-        <item quantity="many">Hace %1$d horas</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Hace %1$d días</item>
-        <item quantity="zero">Hace %1$d días</item>
         <item quantity="one">Hace %1$d día</item>
-        <item quantity="two">Hace %1$d días</item>
-        <item quantity="few">Hace %1$d días</item>
-        <item quantity="many">Hace %1$d días</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Descargado por %1$d personas</item>
+        <item quantity="one">Descargado por %1$d persona</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Descargado por %1$d personas</item>
+        <item quantity="one">Descargado por %1$d persona</item>
     </plurals>
     <plurals name="million">
         <item quantity="other">Descargado por %1$d personas</item>
+        <item quantity="one">Descargado por %1$d persona</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d vistas</item>
-        <item quantity="zero">%1$d vistas</item>
-        <item quantity="one">%1$d vista</item>
-        <item quantity="two">%1$d vistas</item>
-        <item quantity="few">%1$d vistas</item>
-        <item quantity="many">%1$d vistas</item>
+        <item quantity="one">%1$d vistas</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
         <item quantity="one">%d grupo</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">Puedes borrar datos no importantes de %d aplicaciones</item>
-        <item quantity="one">Puedes borrar datos no importantes de %d aplicación</item>
+        <item quantity="other">Puede borrar los datos sin importancia para las %d aplicaciones</item>
+        <item quantity="one">Puede borrar los datos sin importancia para las %d aplicaciones</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">%d aplicaciones instaladas, puedes borrar las aplicaciones poco usadas</item>
-        <item quantity="one">%d aplicación instalada, puedes borrarla</item>
+        <item quantity="other">%d aplicaciones instaladas, puede eliminar las aplicaciones raramente usadas</item>
+        <item quantity="one">%d aplicación instalada, puede eliminar las aplicaciones apenas utilizadas</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">Encontrados %d ficheros grandes, puedes borrar los no importantes</item>
-        <item quantity="one">Encontrado %d fichero grande, puedes borrarlo</item>
+        <item quantity="other">Localizado %d archivos grandes; puede eliminar los de menor importancia</item>
+        <item quantity="one">Localizado %d archivo grande; puede eliminar los de menor importancia</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
-        <item quantity="other">Encontradas %d fotos, puedes borrar las duplicadas o redundantes</item>
-        <item quantity="one">Encontrada %d foto, puedes borrar las duplicadas o redundantes</item>
+        <item quantity="other">Localizada %d fotos, puede eliminar duplicadas o imágenes redundantes</item>
+        <item quantity="one">Localizada %d foto, puede eliminar imágenes duplicadas o redundantes</item>
     </plurals>
     <plurals name="deepclean_apk_summary">
-        <item quantity="other">Encontradas %d APKs, puedes borrar las no necesarias.</item>
-        <item quantity="one">Encontrada %d APK, puedes borrarla.</item>
+        <item quantity="other">Se han encontrado %d APK, puede eliminarlos.</item>
+        <item quantity="one">Se ha encontrado %d APK, puede eliminarlo.</item>
     </plurals>
     <plurals name="deepclean_video_summary">
-        <item quantity="other">Encontrados %d vídeos, puedes borrar los no necesarios.​</item>
-        <item quantity="one">Encontrado %d vídeo, puedes borrarlo.</item>
+        <item quantity="other">Se han encontrado %d vídeos, puede eliminar los innecesarios.​</item>
+        <item quantity="one">Se han encontrado %d videos, puede eliminarlos.</item>
     </plurals>
 </resources>

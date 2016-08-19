@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
     <string-array name="education">
         <item>Educación Secundaria</item>
         <item>Educación Primaria</item>

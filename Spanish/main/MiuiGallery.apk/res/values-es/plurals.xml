@@ -48,25 +48,37 @@
         <item quantity="other">No se pudo descargar %1$d fotos,¿inténtar de nuevo?</item>
         <item quantity="one">No se pudo descargar la foto,¿inténtar de nuevo?</item>
     </plurals>
+     <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"No se pudo descargar %1$d fotos, conecte a la red y vuelva a intentarlo"</item>
+        <item quantity="one">"No se pudo descargar la foto, conecte a la red y vuelva a intentarlo"</item>
+    </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">No se pudo descargar %1$d fotos (%2$dMB),¿inténtar de nuevo?</item>
         <item quantity="one">No se pudo descargar la foto (%2$dMB),¿inténtar de nuevo?</item>
     </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"No se pudo descargar %1$d fotos (%2$dMB), conecte a la red y vuelva a intentarlo"</item>
+        <item quantity="one">"No se pudo descargar la foto (%2$dMB), conecte a la red y vuelva a intentarlo"</item>
+    </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Cancelar la descarga de %d fotos ?</item>
+        <item quantity="other">¿Cancelar la descarga de %d fotos?</item>
         <item quantity="one">¿Cancelar la descarga de la foto?</item>
     </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Añadidas %d fotos desde la nube, desactive \"Mostrar sólo los discos locales\" para ver.</item>
+        <item quantity="one">Añadida %d foto desde la nube, desactive \"Mostrar sólo los discos locales\" para ver.</item>
+    </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">Eliminar %1$d fotos %2$s?</item>
-        <item quantity="one">Eliminar ésta foto %2$s?</item>
+        <item quantity="other">¿Eliminar %1$d fotos %2$s?</item>
+        <item quantity="one">¿Eliminar ésta foto %2$s?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">Eliminar %1$d videos %2$s?</item>
-        <item quantity="one">Eliminar este video %2$s?</item>
+        <item quantity="other">¿Eliminar %1$d videos %2$s?</item>
+        <item quantity="one">¿Eliminar este video %2$s?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">Eliminar %1$d elementos %2$s?</item>
-        <item quantity="one">Eliminar %1$d elemento %2$s?</item>
+        <item quantity="other">¿Eliminar %1$d elementos %2$s?</item>
+        <item quantity="one">¿Eliminar %1$d elemento %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d elementos)</item>
