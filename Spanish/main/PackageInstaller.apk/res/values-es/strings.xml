@@ -2,26 +2,44 @@
 <resources>
   <string name="Parse_error_dlg_text">Hubo un problema al analizar el paquete.</string>
   <string name="Parse_error_dlg_title">Error de análisis</string>
-  <string name="activity_package_delete_confirm_title">Aviso importante</string>
+  <string name="abc_action_bar_home_description">Ir a inicio</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+  <string name="abc_action_menu_overflow_description">Mas opciones</string>
+  <string name="abc_action_mode_done">Hecho</string>
+  <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+  <string name="abc_activitychooserview_choose_application">Elija una aplicación</string>
+  <string name="abc_search_hint">Buscando…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Buscar</string>
+  <string name="abc_searchview_description_submit">Enviar consulta</string>
+  <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartir con</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="additional_permissions">Permisos adicionales</string>
   <string name="allPerms">Todas</string>
   <string name="all_permissions">Todos los permisos</string>
   <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
 
 ¿Permitir ahora y en adelante?"</string>
-  <string name="allow_source_dlg_title">¿Permitir la instalación de aplcaciones desde fuentes desconocidas?</string>
+  <string name="allow_source_dlg_title">Nueva fuente para las aplicaciones</string>
   <string name="app_name">Instalador de Paquetes</string>
   <string name="app_not_found_dlg_text">La aplicación no se encuentra en la lista de aplicaciones instaladas.</string>
   <string name="app_not_found_dlg_title">Aplicación no encontrada</string>
   <string name="app_permissions">Permisos de aplicaciones</string>
+  <string name="app_permissions_breadcrumb">Aplicaciones</string>
   <string name="app_permissions_group_summary">%1$d de %2$d aplicaciones permitidas</string>
   <string name="auto_startup_dialog_msg">Esta aplicación puede empezar sin su permiso.</string>
   <string name="btn_text_full_scan">Escaneo completo</string>
   <string name="caller_app">Solicitud de permiso de %1$s</string>
   <string name="cancel">Cancelar</string>
-  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) reemplazará la versión actualmente instalada (%3$s). Se guardarán todos los datos de la aplicacion existente.</string>
+  <string name="dlg_app_replacement_statement">"La aplicación que está instalando reemplazará a otra aplicación.
+
+Se guardarán todos los datos anteriores."</string>
   <string name="dlg_app_replacement_title">¿Reemplazar la aplicación existente?</string>
-  <string name="dlg_appstore_notice">Obtener esta aplicación de nuestra &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt; oficial</string>
   <string name="dlg_ok">Aceptar</string>
   <string name="dlg_sys_app_replacement_statement">"Esta es una aplicación de sistema. ¿Seguro que quiere reemplazarla?
 
@@ -51,9 +69,41 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="install_from_appstore_hint">Te recomendamos que instales la aplicación desde &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Instalando…</string>
   <string name="launch">Abrir</string>
-  <string name="lift_ban">Permitir</string>
-  <string name="lift_ban_once">Permitir una vez</string>
+  <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+  <string name="lb_control_display_rewind_multiplier">%1$dX</string>
+  <string name="lb_guidedactions_item_disabled_chevron_alpha">0.5</string>
+  <string name="lb_guidedactions_item_enabled_chevron_alpha">1.0</string>
+  <string name="lb_guidedactions_item_unselected_description_text_alpha">0.5</string>
+  <string name="lb_guidedactions_item_unselected_text_alpha">1.0</string>
+  <string name="lb_playback_controls_closed_captioning_disable">Desactivar los subtítulos</string>
+  <string name="lb_playback_controls_closed_captioning_enable">Activar los subtítulos</string>
+  <string name="lb_playback_controls_fast_forward">Avance rápido</string>
+  <string name="lb_playback_controls_fast_forward_multiplier">Avance rápido %1$dX</string>
+  <string name="lb_playback_controls_high_quality_disable">Desactivar alta calidad</string>
+  <string name="lb_playback_controls_high_quality_enable">Activar alta calidad</string>
+  <string name="lb_playback_controls_more_actions">Mas acciones</string>
+  <string name="lb_playback_controls_pause">Pausa</string>
+  <string name="lb_playback_controls_play">Play</string>
+  <string name="lb_playback_controls_repeat_all">Repetir todo</string>
+  <string name="lb_playback_controls_repeat_none">Repetir ninguna</string>
+  <string name="lb_playback_controls_repeat_one">Repetir una</string>
+  <string name="lb_playback_controls_rewind">Rebobinar</string>
+  <string name="lb_playback_controls_rewind_multiplier">Rebobinando %1$dX</string>
+  <string name="lb_playback_controls_shuffle_disable">Desactivar reproducción aleatoria</string>
+  <string name="lb_playback_controls_shuffle_enable">Activar Aleatorio</string>
+  <string name="lb_playback_controls_skip_next">Saltar Siguiente</string>
+  <string name="lb_playback_controls_skip_previous">Saltar Anterior</string>
+  <string name="lb_playback_controls_thumb_down">Anular la selección de pulgar abajo</string>
+  <string name="lb_playback_controls_thumb_down_outline">Seleccione pulgar abajo</string>
+  <string name="lb_playback_controls_thumb_up">Anular la selección el pulgar para arriba</string>
+  <string name="lb_playback_controls_thumb_up_outline">Seleccione el pulgar para arriba</string>
+  <string name="lb_search_bar_hint">Buscar</string>
+  <string name="lb_search_bar_hint_speech">Habla para buscar</string>
+  <string name="lb_search_bar_hint_with_title">Buscar %1$s</string>
+  <string name="lb_search_bar_hint_with_title_speech">Habla para buscar %1$s</string>
   <string name="loading">Cargando…</string>
+  <string name="location_settings">Ajustes de ubicación</string>
+  <string name="location_warning">%1$s es un proveedor de servicios de localización para este dispositivo. El acceso a la ubicación se puede modificar en los ajustes de ubicación.</string>
   <string name="low_risk_perms">Permisos de bajo riesgo</string>
   <string name="manage_applications">Gestionar aplicaciones</string>
   <string name="manage_device_administrators">Gestionar administradores de dispositivo</string>
