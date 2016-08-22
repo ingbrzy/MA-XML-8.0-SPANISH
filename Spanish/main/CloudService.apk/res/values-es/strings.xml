@@ -230,7 +230,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_battery_low">No hay batería suficiente para realizar la sincronización</string>
   <string name="micloud_main_battery_message">Conecte el dispositivo a una fuente de energía para sincronizar</string>
   <string name="micloud_main_clear_now">Borrar</string>
-  <string name="micloud_main_data_unsynced">%d esperando a sincronizar</string>
+  <string name="micloud_main_data_unsynced">Elementos que están a la espera para sincronizar: %d</string>
   <string name="micloud_main_detail">Ver detalles</string>
   <string name="micloud_main_last_sync_time">Última sincronización %s</string>
   <string name="micloud_main_memory_low_message">Para sincronizar, elimine algunos elementos que haya almacenado en la nube.</string>
@@ -249,7 +249,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_set_internet">Red</string>
   <string name="micloud_main_space_full">El almacenamiento en la nube está lleno</string>
   <string name="micloud_main_space_full_title">El almacenamiento en la nube está lleno</string>
-  <string name="micloud_main_space_low">Casi no queda espacio…</string>
+  <string name="micloud_main_space_low">Casi no queda espacio</string>
   <string name="micloud_main_stop_sync">Sincronización interrumpida</string>
   <string name="micloud_main_suggest_master_sync">No se pudo sincronizar todo</string>
   <string name="micloud_main_suggest_setting">"Esperando por una conexión Wi-Fi para sincronizar.
@@ -297,7 +297,7 @@ Pulse el botón Ajustes para más opciones."</string>
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar su dispositivo ahora.</string>
   <string name="micloud_notif_title_battery_low">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_clipboard_push">Contenido copiado al portapapeles</string>
-  <string name="micloud_notif_title_depend_wifi">%d está a la espera para sincronizarse</string>
+  <string name="micloud_notif_title_depend_wifi">Elementos que están a la espera para sincronizar: %d</string>
   <string name="micloud_notif_title_master_depend_wifi">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_memory_low">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_sync_finish">Sincronizado</string>
@@ -347,7 +347,7 @@ Pulse el botón Ajustes para más opciones."</string>
   <string name="micloud_warn_full_sum">No se sincronizarán nuevos archivos con Mi Cloud.</string>
   <string name="micloud_warn_full_title">No queda espacio</string>
   <string name="micloud_warn_low_sum">Su Mi Cloud ocupa un 90% de su capacidad.</string>
-  <string name="micloud_warn_low_title">Casi no queda espacio…</string>
+  <string name="micloud_warn_low_title">Casi no queda espacio</string>
   <string name="micloud_web_discription">Visite i.mi.com</string>
   <string name="micloud_web_discription_01">Identifíquese en i.mi.com</string>
   <string name="micloud_web_discription_02">para almacenar y acceder a sus archivos desde cualquier parte</string>
