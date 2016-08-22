@@ -168,7 +168,10 @@
   <string name="downloading_in_3g">Descargando por 3G…</string>
   <string name="editor_commend">Editar</string>
   <string name="email_platform">Email</string>
-  <string name="enable_documentsui">Turn on %s in Settings &gt; Installed apps first</string>
+  <string name="empty_comment">"El comentario no puede estar vacío"</string>
+  <string name="empty_file_download">"No se pueden descargar archivos vacíos"</string>
+  <string name="empty_file_upload">"No se puede subir archivos vacíos"</string>
+  <string name="enable_documentsui">Activar %s en Ajustes &gt; aplicaciones instaladas primeros</string>
   <string name="enable_sd_card">Insertar la tarjeta SD o desactivar el almacenamiento masivo USB.</string>
   <string name="enable_usb">Conecta el dispositivo USB</string>
   <string name="encrypt_error">Error al encriptar archivos, intente de nuevo</string>
@@ -616,7 +619,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="select_image">Elegir fotos</string>
   <string name="select_music">Elegir canciones</string>
   <string name="select_video">Elegir vídeos</string>
-  <string name="select_volume">Por favor, seleccione el volumen</string>
+  <string name="select_volume">Seleccione el volumen</string>
   <string name="send_sticker">Send sticker</string>
   <string name="send_to_midrive_failed_message">Este tipo de archivo no está soportado.</string>
   <string name="send_to_qq">Enviar a QQ</string>
@@ -777,7 +780,7 @@ Espacio gratuito añadido %1$s"</string>
   <string name="user_not_video_btn_text">Subir primer video</string>
   <string name="user_recommend_follow">Perfiles recomendados</string>
   <string name="user_setting_follow_new_msg">Notificaciones de las personas que sigues</string>
-  <string name="user_setting_follow_new_msg_tip">Recibir notificaciones sobre nuevos vídeos</string>
+  <string name="user_setting_follow_new_msg_tip">"Recibirá una notificación cuando la gente empiece a seguirte"</string>
   <string name="user_setting_followed_msg">Notificaciones sobre seguidores</string>
   <string name="user_setting_followed_msg_tip">Recibir notificaciones cuando la gente empieza a seguirte</string>
   <string name="user_setting_new_comment">Notificaciones sobre nuevos comentarios</string>
