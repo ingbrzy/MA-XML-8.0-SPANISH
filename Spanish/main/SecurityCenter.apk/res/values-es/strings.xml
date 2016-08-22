@@ -246,7 +246,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="card_main_speeddetail_title">Velocidad de conexión</string>
   <string name="card_main_speeddetailt_summary">Ver la velocidad de conexión para aplicaciones individuales</string>
   <string name="charging_text_battery_full_time">Última carga</string>
-  <string name="charging_text_battery_nearly_full">Casi cargada</string>
+  <string name="charging_text_battery_nearly_full">Casi totalmente cargada</string>
   <string name="charging_text_battery_perfect">Completamente cargada</string>
   <string name="charging_text_time_calculating">Calculando tiempo de carga…</string>
   <string name="check_network_state">Comprobar la red</string>
@@ -985,8 +985,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_allow_connect_network_title">Datos de roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Permitir excepciones a utilizar datos móviles en roaming</string>
   <string name="pref_app_traffic_managent">Restringir el uso de datos por aplicación</string>
-  <string name="pref_auto_adjust_settings">Sincronizar automáticamente los ajustes de las estadísticas de uso de datos</string>
-  <string name="pref_auto_adjust_traffic">Sincronizar automáticamente las estadísticas de uso de datos</string>
+  <string name="pref_auto_adjust_settings">Ajuste automático de la configuración de las estadísticas de uso de datos</string>
+  <string name="pref_auto_adjust_traffic">Ajuste automático de las estadísticas de uso de datos</string>
   <string name="pref_automatic_adjust">Sincronización del uso de datos del operador</string>
   <string name="pref_avaible_traffic">Plan de datos</string>
   <string name="pref_category_title_lock_screen_memory_clean">Limpiar en pantalla de bloqueo</string>
