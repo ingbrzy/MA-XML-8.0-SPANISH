@@ -84,14 +84,14 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">Probar las configuraciones del nombre de punto de acceso del operador</string>
   <string name="apn_exception_title">Comprobar configuraciones APN</string>
-  <string name="app_check_no_issue">Parece que no hay problemas con las baterías. Guay!</string>
+  <string name="app_check_no_issue">Parece que no hay problemas con la batería. ¡Guay!</string>
   <string name="app_check_optimize_title">Optimizar actividades en segundo plano</string>
   <string name="app_check_reason_background_cpu">Actividad de fondo de la CPU</string>
   <string name="app_check_reason_background_gps">GPS funcionando en segundo plano</string>
   <string name="app_check_reason_wakelock">No se ha establecido el tiempo para el apagado automático del sistema</string>
   <string name="app_check_reason_wakeup_alarm">Pantalla de bloqueo se despierta con frecuencia</string>
   <string name="app_check_reason_wifi_scan">Exploraciones WIFI frecuentes</string>
-  <string name="app_check_sub_title_text">Optimizar aplicaciones para resolver los problemas con las baterías</string>
+  <string name="app_check_sub_title_text">Optimizar aplicaciones para resolver los problemas con la batería</string>
   <string name="app_detail">Detalles</string>
   <string name="app_install_intercept">Bloquear instalación</string>
   <string name="app_mobile">Móvil</string>
@@ -180,7 +180,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="btn_text_goto_power_rank">Ver la clasificación de la batería</string>
   <string name="btn_text_goto_setup">Ir a la configuración</string>
   <string name="btn_text_network_speed_detail">Conexión</string>
-  <string name="btn_text_open_now">Encender</string>
+  <string name="btn_text_open_now">Activar</string>
   <string name="btn_text_optimize_manually">Optimizar manualmente</string>
   <string name="btn_text_optimize_now">Optimizar</string>
   <string name="btn_text_power_cleanup">Limpieza a fondo</string>
@@ -224,10 +224,10 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="cancal_to_setting_fingerprint">Cancelar</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
-  <string name="card_main_applock_action">Encender</string>
+  <string name="card_main_applock_action">Activar</string>
   <string name="card_main_applock_summary">Proteger los elementos privados con el bloqueo de aplicaciones</string>
   <string name="card_main_applock_title">Bloqueo de aplicaciones</string>
-  <string name="card_main_datasave_action">Encender</string>
+  <string name="card_main_datasave_action">Activar</string>
   <string name="card_main_datasave_summary">Comprimir los datos para ahorrar hasta un 20%</string>
   <string name="card_main_datasave_title">Ahorrador de los datos</string>
   <string name="card_main_deepclean_action">Limpiar</string>
@@ -239,7 +239,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="card_main_netcheck_action">Prueba</string>
   <string name="card_main_netcheck_summary">Conexión de prueba para problemas de red</string>
   <string name="card_main_netcheck_title">Prueba de red</string>
-  <string name="card_main_paysafe_action">Encender</string>
+  <string name="card_main_paysafe_action">Activar</string>
   <string name="card_main_paysafe_summary">Escanear posibles riesgos para la seguridad en los pagos</string>
   <string name="card_main_paysafe_title">Seguridad en el pago</string>
   <string name="card_main_sectool_title">Herramientas</string>
@@ -338,7 +338,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="dialog_title_auto_start_declare">Acerca del inicio automático</string>
   <string name="dialog_title_stop_paysafety_scan">Detener</string>
   <string name="dialog_title_stop_virus_scan">Detener escaneo de virus</string>
-  <string name="disable_air_mode">Primero desactivar el modo avión</string>
+  <string name="disable_air_mode">Primero desactive el modo avión</string>
   <string name="dns_exception_summary">Compruebe los ajustes del DNS del router</string>
   <string name="dns_exception_title">Compruebe los ajustes de DNS</string>
   <string name="download">Descargar</string>
@@ -716,9 +716,9 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optimize_result_button_cooldown_now">Enfriar</string>
   <string name="optimize_result_button_correct_now">Ajustar</string>
   <string name="optimize_result_button_fix_now">Arreglar</string>
-  <string name="optimize_result_button_onekey_open">Encender</string>
+  <string name="optimize_result_button_onekey_open">Activar</string>
   <string name="optimize_result_button_onekey_restore">Restaurar</string>
-  <string name="optimize_result_button_open_now">Encender</string>
+  <string name="optimize_result_button_open_now">Activar</string>
   <string name="optimize_result_buAjustars_diagnose">Diagnóstico del operador</string>
   <string name="optimize_result_button_purchase">Comprar</string>
   <string name="optimize_result_button_purchase_flow">Comprar datos móviles</string>
@@ -917,7 +917,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_new_choose_mode">Escoger un perfil</string>
   <string name="power_notify_lowbattery">%1$d%% batería restante</string>
-  <string name="power_optimize_auto_catagory_title">Problema con las batería</string>
+  <string name="power_optimize_auto_catagory_title">Problemas con la batería</string>
   <string name="power_optimize_battery_save_idea">Optimizar la batería</string>
   <string name="power_optimize_battery_save_more">Más</string>
   <string name="power_optimize_brightness">Brillo de la pantalla</string>
@@ -1114,7 +1114,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="quick_optimize_no_issue">No hay problemas con la batería</string>
   <string name="quick_optimize_no_issue_subtitle">Todo parece estar bien</string>
   <string name="quick_optimize_no_issue_title">No se encontraron problemas con la batería</string>
-  <string name="quick_optimize_sub_summary_text">Añadido %s de duración a la bateria</string>
+  <string name="quick_optimize_sub_summary_text">Añadido %s de duración a la batería</string>
   <string name="reach_daily_limit_value_body">Reducir el uso de datos móviles.</string>
   <string name="reach_daily_limit_value_title">Límite diario de datos alcanzada</string>
   <string name="recently_reject_message">Instalación de %1$s y %2$d otras aplicaciones rechazadas</string>
@@ -1214,9 +1214,9 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="see_detail">Detalles</string>
   <string name="select_pattern">Seleccione el patrón</string>
   <string name="settings">Ajustes de uso de datos</string>
-  <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería está siendo drenado rápido</string>
+  <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería se esté drenando rápido</string>
   <string name="settings_battery_consume_abnormal_title">Notificaciones de descarga de la batería</string>
-  <string name="settings_battery_over_heat_summary">Recibir notificaciones cuando el dispositivo se calienta más de lo normal</string>
+  <string name="settings_battery_over_heat_summary">Recibir notificaciones cuando el dispositivo se caliente más de lo normal</string>
   <string name="settings_battery_over_heat_title">Notificaciones de calentamiento</string>
   <string name="settings_category_other">Otros ajustes</string>
   <string name="settings_category_overheat">Calentamiento</string>
@@ -1271,7 +1271,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_cloud_space_almost_full">Obtener más espacio de almacenamiento</string>
   <string name="summary_cloud_space_full">Obtener más espacio y acceda para más características</string>
   <string name="summary_cmcc_app_check">Algunas aplicaciones no pudieron verificarse</string>
-  <string name="summary_consume_power">Se encontraron problemas de calentamiento, pueden afectar la vida útil de la batería</string>
+  <string name="summary_consume_power">Se encontraron problemas de calentamiento, pueden afectar la duración de la batería</string>
   <string name="summary_data_flow">Controlar el uso de datos móviles para evitar cargos adicionales</string>
   <string name="summary_default_app">%s no se ha establecido como una aplicación del sistema por defecto</string>
   <string name="summary_dev">Evitar el malware y proteger los datos personales</string>
@@ -1292,7 +1292,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_permission">Evite los pagos no deseados y proteja su información personal</string>
   <string name="summary_permission_root">Parece que este dispositivo tiene acceso a la raíz. Se puede dañar la seguridad de su dispositivo</string>
   <string name="summary_power_optimizer">Reduce el rendimiento de tu dispositivo cuando el nivel de batería esté bajo</string>
-  <string name="summary_show_notification">Limpiar caché, ver estado de batería y bloquear elementos en la cortina de notificaciones</string>
+  <string name="summary_show_notification">Limpiar caché, ver estado de batería y bloquear elementos en el panel de notificaciones</string>
   <string name="summary_telecom_operator">Obtén las estadísticas de uso de datos mensuales de tu operador</string>
   <string name="summary_usb">Prevenir la transmisión de malware a través de USB</string>
   <string name="summary_virus">Eliminar virus para mantener su dispositivo seguro</string>
@@ -1536,7 +1536,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
    <string name="use_immediately">Utilizar</string>
   <string name="virus_list_header_title">%d virus detectados</string>
   <string name="wakepath_confirm_start_activity">¿Permite a %1$s abrir %2$s?</string>
-  <string name="warning_open_mi_sim">Encender Mi SIM</string>
+  <string name="warning_open_mi_sim">Activar Mi SIM</string>
   <string name="wifi_exception_summary">Probar redes Wi-Fi disponibles</string>
   <string name="wifi_exception_title">Probar la red Wi-Fi</string>
   <string name="wifi_item_status_connection_no">No conectado</string>
