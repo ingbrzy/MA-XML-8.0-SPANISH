@@ -151,6 +151,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="android_beam_tips">Asegurese de que los dos dispositivos están tocándose, y entonces toque el contenido que quiere transmitir.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duración de animador</string>
+  <string name="anr_record_interval_title">Grabar intervalos ANR</string>
   <string name="anti_spam">Lista de bloqueo</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticación</string>
@@ -2164,6 +2165,7 @@ Seleccione su sistema operativo:"</string>
   <string name="online_resource_entry">Recursos en línea</string>
   <string name="only_one_home_message">Se ocultará la configuración de la pantalla principal hasta que instales otra aplicación de pantalla principal.</string>
   <string name="onscreen_keyboard_settings_summary">Configuración del teclado en pantalla</string>
+  <string name="open_anr_debug">Activar depuración ANR </string>
   <string name="open_miui_optimization_title">Activar optimización MIUI</string>
   <string name="open_miui_optimization_warning_message">Su dispositivo se reiniciará para aplicar este cambio.</string>
   <string name="open_wifi_connect_summary">Pulse para ver detalles.</string>
@@ -2682,6 +2684,7 @@ Seleccione su sistema operativo:"</string>
   <string name="recent_location_requests_summary">Ver aplicaciones que solicitan acceder a su información de ubicación</string>
   <string name="recent_location_requests_title">Acceso de ubicación</string>
   <string name="recompute_size">Recalculando el tamaño…</string>
+  <string name="record_anr_in_background">Record background ANR cases</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Información regulatoria</string>
   <string name="remove_account_failed">El administrador no permite este cambio.</string>
