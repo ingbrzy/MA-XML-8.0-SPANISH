@@ -49,16 +49,16 @@
         <item quantity="one">No se pudo descargar la foto,¿inténtar de nuevo?</item>
     </plurals>
      <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"No se pudo descargar %1$d fotos, conecte a la red y vuelva a intentarlo"</item>
-        <item quantity="one">"No se pudo descargar la foto, conecte a la red y vuelva a intentarlo"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos, conectarse a la red y tratar de volver a intentarlo"</item>
+        <item quantity="one">"No se pudo descargar la foto, conectarse a la red y tratar de volver a intentarlo"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">No se pudo descargar %1$d fotos (%2$dMB),¿inténtar de nuevo?</item>
         <item quantity="one">No se pudo descargar la foto (%2$dMB),¿inténtar de nuevo?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"No se pudo descargar %1$d fotos (%2$dMB), conecte a la red y vuelva a intentarlo"</item>
-        <item quantity="one">"No se pudo descargar la foto (%2$dMB), conecte a la red y vuelva a intentarlo"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos (%2$dMB), conectarse a la red y tratar de volver a intentarlo"</item>
+        <item quantity="one">"No se pudo descargar la foto (%2$dMB), conectarse a la red y tratar de volver a intentarlo"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">¿Cancelar la descarga de %d fotos?</item>

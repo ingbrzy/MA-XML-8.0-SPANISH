@@ -151,6 +151,7 @@ El administrador puede supervisar y administrar la configuración, el acceso, la
   <string name="android_beam_tips">Asegurese de que los dos dispositivos están tocándose, y entonces toque el contenido que quiere transmitir.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duración de animador</string>
+  <string name="anr_record_interval_title">Grabar intervalos ANR</string>
   <string name="anti_spam">Lista de bloqueo</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticación</string>
@@ -2164,6 +2165,7 @@ Seleccione su sistema operativo:"</string>
   <string name="online_resource_entry">Recursos en línea</string>
   <string name="only_one_home_message">Se ocultará la configuración de la pantalla principal hasta que instales otra aplicación de pantalla principal.</string>
   <string name="onscreen_keyboard_settings_summary">Configuración del teclado en pantalla</string>
+  <string name="open_anr_debug">Activar depuración ANR </string>
   <string name="open_miui_optimization_title">Activar optimización MIUI</string>
   <string name="open_miui_optimization_warning_message">Su dispositivo se reiniciará para aplicar este cambio.</string>
   <string name="open_wifi_connect_summary">Pulse para ver detalles.</string>
@@ -2289,6 +2291,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_equalizer">Ajustes/Sonido y la vibración/Ajustes de audio/Equalizer</string>
   <string name="path_fluency_mode">Ajustes/Batería y rendimiento/Animaciones del sistema</string>
   <string name="path_font_settings">Ajustes/Pantalla/Fuente del sistema</string>
+  <string name="path_force_touch">Ajustes/Ajustes adicionales/Toque 3D</string>
   <string name="path_gesture_wakeup_title">Ajustes/Pantalla/Pantalla doble toque para despertar</string>
   <string name="path_gps_settings">Ajustes/Ajustes adicionales/Privacidad/Ubicación</string>
   <string name="path_handy_mode_settings">Ajustes/Ajustes adicionales/Modo una sola mano</string>
@@ -2324,6 +2327,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_other_advanced_settings">Ajustes/Ajustes adicionales</string>
   <string name="path_owner_info_settings">Ajustes/Pantalla de bloqueo y contraseña/Información Propietario</string>
   <string name="path_page_layout_settings">Ajustes/Pantalla/Tamaño del texto</string>
+  <string name="path_pn_settings">>Ajustes/Redes móviles/Nombres de puntos de acceso</string>
   <string name="path_pointer_speed">Ajustes/Ajustes adicionales/Idioma y entrada/Velocidad del puntero</string>
   <string name="path_power_checker">Ajustes/Ajustes adicionales/Funciones Beta/Power Checker</string>
   <string name="path_power_hide_mode_title">Ajustes/Batería y rendimiento/Administrar aplicaciones sobre uso de la batería</string>
@@ -2680,6 +2684,7 @@ Seleccione su sistema operativo:"</string>
   <string name="recent_location_requests_summary">Ver aplicaciones que solicitan acceder a su información de ubicación</string>
   <string name="recent_location_requests_title">Acceso de ubicación</string>
   <string name="recompute_size">Recalculando el tamaño…</string>
+  <string name="record_anr_in_background">Record background ANR cases</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Información regulatoria</string>
   <string name="remove_account_failed">El administrador no permite este cambio.</string>
@@ -2689,7 +2694,7 @@ Seleccione su sistema operativo:"</string>
   <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
   <string name="repeat">Repetir</string>
   <string name="repeat_title">Repetir</string>
-  <string name="reset_aaid">Restablecer el identificador de anuncios</string>
+  <string name="reset_aaid">Restablecer el identificador de publicidad</string>
   <string name="reset_app_preferences">Restablecer preferencias</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
   <string name="reset_app_preferences_desc">"Se restablecerán todas las preferencias de:
@@ -2918,6 +2923,7 @@ Si quieres usar la función para fijar la pantalla, sigue estos pasos:
   <string name="search_equalizer">Equalizer</string>
   <string name="search_fluency_mode">Animaciones del sistema</string>
   <string name="search_font">Fuente del sistema;Fuente;Fuentes;Tamaños de fuentes;Tamaños de fuente</string>
+  <string name="search_force_touch">Toque 3D</string>
   <string name="search_gesture_wakeup_title">Doble toque en la pantalla para despertar;Doble toque para despertar;Activa la pantalla;Pantalla doble toque;doble toque</string>
   <string name="search_gps">GPS;Acceder a la ubicación;Servicios de localización</string>
   <string name="search_handy_mode">Modo de una sola mano;Modo con una sola mano;Una mano</string>
@@ -3231,6 +3237,8 @@ Attempts Remaining :"</string>
   <string name="sim_status_summary">Información relacionada con la tarjeta SIM</string>
   <string name="sim_status_title">Estado de la SIM</string>
   <string name="simulate_color_space">Simular espacio de color</string>
+  <string name="single_key_use">Uso de una sola tecla</string>
+  <string name="single_key_use_summary">Home-clave en lugar de los otros dos botones para el funcionamiento normal</string>
   <string name="skip_label">Omitir</string>
   <string name="skip_lock_screen_confirm_msg">Notificaciones, controles del reproductor de música, cámara, y Mi Home serán desactivados en la pantalla de bloqueo.</string>
   <string name="skip_step">Omitir</string>
@@ -3663,7 +3671,7 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
   <string name="use_location_title">Búsqueda de Google y ubicación</string>
   <string name="use_nuplayer">Usar NuPlayer (experim.)</string>
   <string name="use_nuplayer_summary">Usar NuPlayer en lugar de AwesomePlayer</string>
-  <string name="use_personalized_ad_service">Anuncios personalizados</string>
+  <string name="use_personalized_ad_service">Publicidad personalizada</string>
   <string name="use_system_language_to_select_input_method_subtypes">Usar el idioma del sistema</string>
   <string name="use_this_wlan">使用此WLAN</string>
   <string name="user_account_title">Cuenta para contenido</string>
@@ -4221,7 +4229,7 @@ de Wi‑Fi"</string>
   <string name="wifi_tether_checkbox_text">Zona Wi-Fi portátil</string>
   <string name="wifi_tether_configure_ap_text">Configurar Wi-Fi portátil</string>
   <string name="wifi_tether_configure_ssid_default">Android Hotspot</string>
-  <string name="wifi_tether_configure_subtext">%1$s%2$s zona Wi-Fi portable.</string>
+  <string name="wifi_tether_configure_subtext">%1$s %2$s zona Wi-Fi portable.</string>
   <string name="wifi_tether_enabled_subtext">Zona Wi-Fi portátil de %1$s activa</string>
   <string name="wifi_tether_failed_subtext">Error en el punto de acceso portátil</string>
   <string name="wifi_tether_setting_title">Ajustes</string>

@@ -36,7 +36,6 @@
   <string name="ad_card_installing">Instalando</string>
   <string name="ad_card_network_error">No hay conexión a la red, por favor intente de nuevo ¡más tarde!</string>
   <string name="ad_card_spread">Divulgación</string>
-  <string name="add_account">Añadir cuenta</string>
   <string name="add_calendar">Suscribirse</string>
   <string name="add_card">Añadir tarjeta</string>
   <string name="add_topic_success">Suscrito a %s con exito</string>
@@ -273,15 +272,17 @@
   <string name="network_not_available">No se pudo concetar con la red</string>
   <string name="new_event_dialog_label">Nuevo evento</string>
   <string name="new_event_dialog_option">Nuevo evento</string>
-  <string name="no_calendars_found">Antes de poder añadir un evento, debe añadir al menos una cuenta de calendario a su dispositivo y hacer un calendario visible. Toque Añadir cuenta para añadir una cuenta (si usted acaba de añadir una cuenta, espere a que termine la sincronización e inténtelo de nuevo). O toque Cancelar y asegúrese de que al menos un calendario está visible.</string>
   <string name="no_local_calendar">No está suscrito a ningún calendario :)</string>
   <string name="no_network">No hay red, por favor intente actualizar la red de nuevo :)</string>
   <string name="no_network_btn">Try again</string>
-  <string name="no_syncable_calendars">No hay calendarios</string>
   <string name="no_title_label">(Sin título)</string>
+  <string name="no_visiable_calendar_message">Es necesario seleccionar una cuenta de calendario, por favor haga clic en Seleccionar cuenta en el siguiente paso.</string>
+  <string name="no_visiable_calendar_select_account">Seleccione cuenta</string>
+  <string name="no_visiable_calendar_title">Seleccionar la cuenta del Calendario</string>
   <string name="not_synced">no sincronizado</string>
   <string name="online_calendar_activity_label">Sincronizar el calendario</string>
   <string name="online_reminder_header_text">Recordar</string>
+  <string name="path_calendar">Aplicaciones del sistema/Calendario/Ajustes</string>
   <string name="pengzu">pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
   <string name="pref_error_no_ringtone_select">Tono de llamada por defecto</string>
@@ -420,6 +421,7 @@
   <string name="taishen">taishen</string>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
+  <string name="template_week_num">%1$s Semana</string>
   <string name="text_year">Año</string>
   <string name="ticket_card_date">%1$smes%2$sdía</string>
   <string name="ticket_card_description">Reservar hoy</string>

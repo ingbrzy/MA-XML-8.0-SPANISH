@@ -2,10 +2,13 @@
 <resources>
   <string name="agree">De acuerdo</string>
   <string name="agree_terms">He leído y acepto los Términos del Servicio y la Política de Privacidad.</string>
+  <string name="app_name">Provisión</string>
   <string name="back">Atrás</string>
   <string name="congratulation_label">Disfruta de tu nuevo dispositivo</string>
   <string name="congratulation_title">Instalación terminada</string>
   <string name="content_description_complete">Completo</string>
+  <string name="content_description_language_picker">Selector de idioma</string>
+  <string name="content_description_miui_version">MIUI8</string>
   <string name="content_description_start">Empezar</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -22,7 +25,6 @@
   <string name="miui_terms_no_network">No tienes conexión a internet. Ver los Términos de Servicio en %s.</string>
   <string name="multisim_settings_category">Ajustes de la SIM</string>
   <string name="multisim_settings_title">Se han detectado 2 tarjetas SIM</string>
-  <string name="network_access_warning">Debe conectarse a internet para activar los servicios Mi y Encontrar Dispositivo.</string>
   <string name="next">Siguiente</string>
   <string name="next_fingerprint">Siguiente</string>
   <string name="other_settings">Ajustes adicionales</string>
@@ -50,7 +52,8 @@ Ver la Política de Privacidad del teclado seleccionado."</string>
   <string name="terms_of_use">Términos y Condiciones</string>
   <string name="terms_of_use_label">"Su privacidad es muy importante para nosotros. Lea los Términos del Servicio y la Política de Privacidad para entender qué información recopilamos, cómo la usamos y qué opciones puede utilizar.
 
-Debe aceptar los Términos del Servicio y la Política de Privacidad antes de poder usar MIUI."</string>
+
+Debe estar de acuerdo con nuestros Términos de servicio y la Política de Privacidad antes de poder utilizar MIUI. Es necesario conectarse a Internet para activar los servicios de Mi, encontrar el dispositivo y Mi Home ".</string>
   <string name="title_fingerprint">Añade tu huella</string>
   <string name="user_agreement">Términos del Servicio</string>
   <string name="welcome">Bienvenid@</string>

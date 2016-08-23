@@ -891,6 +891,7 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permdesc_manageDocs">Permite que la aplicación administre el almacenamiento de documentos.</string>
   <string name="permdesc_manageMediaProjection">Permite a una aplicación administrar sesiones de proyección de contenido multimedia. Estas sesiones pueden brindar a las aplicaciones la posibilidad de capturar contenidos de pantalla y audio. Las aplicaciones normales no deberían necesitar este permiso.</string>
   <string name="permdesc_manageNetworkPolicy">Permite que la aplicación administre las políticas de red y defina reglas específicas de la aplicación.</string>
+  <string name="permdesc_manageProfileAndDeviceOwners">Permite que las aplicaciones establezcan los propietarios de perfiles y el propietario del dispositivo.</string>
   <string name="permdesc_manageUsb">Permite que la aplicación administre las preferencias y los permisos de los dispositivos USB.</string>
   <string name="permdesc_manageUsers">Permite a las aplicaciones administrar los usuarios del dispositivo, lo que incluye buscarlos, crearlos y eliminarlos.</string>
   <string name="permdesc_manageVoiceKeyphrases">Permite administrar las frases clave para detección de palabras activas de voz. Las aplicaciones normales no deberían necesitar este permiso.</string>
