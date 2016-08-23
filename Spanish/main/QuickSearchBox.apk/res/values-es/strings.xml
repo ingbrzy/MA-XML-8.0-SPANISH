@@ -5,6 +5,7 @@
   <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_input">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_launcher">https://www.google.com/search?q=%s</string>
+  <string name="baidu_search_url_from_minus_one">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_systemui">https://www.google.com/search?q=%s</string>
   <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
@@ -54,6 +55,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
   <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
   <string name="search_apps">Buscar aplicaciones</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Más</string>
   <string name="search_history">Historial</string>
