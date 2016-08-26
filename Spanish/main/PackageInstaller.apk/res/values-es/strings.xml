@@ -149,6 +149,8 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="permission_warning_template">¿Permitir a %1$s  %2$s?</string>
   <string name="permlab_togglePermissions">permisos de toggles</string>
   <string name="privacyPerms">Privacidad</string>
+  <string name="safe_guard_support">Apoyo técnico proporcionado por %1$s</string>
+  <string name="safe_relative">Seguridad</string>
   <string name="screen_overlay_button">Abrir ajustes</string>
   <string name="screen_overlay_message">Para cambiar esta configuración del permiso , primero tiene que desactivar la pantalla superpuesta en Ajustes &gt; Aplicaciones</string>
   <string name="screen_overlay_title">Detectada pantalla superpuesta</string>
@@ -178,4 +180,11 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
   <string name="v7_preference_off">APAGADO</string>
   <string name="v7_preference_on">ENCENDIDO</string>
+  <string name="virus_scan_caller_unknown">Desconocido</string>
+  <string name="virus_scan_clear">Eliminar</string>
+  <string name="virus_scan_install">&lt;u&gt;Instalar todos modos&lt;/u&gt;</string>
+  <string name="virus_scan_is_risk">"Esta aplicación supone un riesgo para la seguridad de su dispositivo."</string>
+  <string name="virus_scan_is_virus">Esta aplicación contiene un virus.</string>
+  <string name="waiting_tip">Esto puede tomar un tiempo, pero vale la pena</string>
+ 
 </resources>
