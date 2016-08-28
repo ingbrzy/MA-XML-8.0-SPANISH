@@ -6,7 +6,7 @@
   <string name="cal_edit_mode">Modo de edición</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Texto copiado</string>
-  <string name="choose_currency">Elija una moneda</string>
+  <string name="choose_currency">Elija una divisa</string>
   <string name="choose_unit">Elija una unidad</string>
   <string name="city">Ciudad</string>
   <string name="clear">C</string>
@@ -14,15 +14,15 @@
   <string name="clear_history">Limpiar historial</string>
   <string name="combine_loan">Préstamo combinado</string>
   <string name="commercial_loan">Préstamo comercial</string>
-  <string name="convert_currency">Convertidor de moneda</string>
-  <string name="convertion_unit">Conversión de unidades</string>
-  <string name="convertion_unit_area">Área de conversión</string>
-  <string name="convertion_unit_length">Conversión de longitud</string>
-  <string name="convertion_unit_temperature">Conversión de temperatura</string>
-  <string name="convertion_unit_time">Conversión de tiempo</string>
-  <string name="convertion_unit_velocity">Conversión de velocidad</string>
-  <string name="convertion_unit_volume">Conversión de volumen</string>
-  <string name="convertion_unit_weight">Conversión del peso</string>
+  <string name="convert_currency">Conversor de divisas</string>
+  <string name="convertion_unit">Conversor de unidades</string>
+  <string name="convertion_unit_area">Conversor de áreas</string>
+  <string name="convertion_unit_length">Conversor de longitudes</string>
+  <string name="convertion_unit_temperature">Conversor de temperaturas</string>
+  <string name="convertion_unit_time">Conversor de tiempo</string>
+  <string name="convertion_unit_velocity">Conversor de velocidades</string>
+  <string name="convertion_unit_volume">Conversor de volúmenes</string>
+  <string name="convertion_unit_weight">Conversor de pesos</string>
   <string name="cos">cos</string>
   <string name="cosDesc">coseno</string>
   <string name="cos_mathematical_value">cos</string>
@@ -53,12 +53,12 @@
   <string name="equal">=</string>
   <string name="equalDesc">es igual a</string>
   <string name="error">Error</string>
-  <string name="error_fomrat">Error del formato</string>
+  <string name="error_fomrat">Error de formato</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">factorial</string>
   <string name="from_num">100</string>
   <string name="from_unit">km/h</string>
-  <string name="from_unit_en">Kilómetro por hora</string>
+  <string name="from_unit_en">Kilómetros por hora</string>
   <string name="from_unit_short">km/h</string>
   <string name="fund"/>
   <string name="fund_loan"/>
@@ -66,14 +66,14 @@
   <string name="item_title_aa_payment">Dividir la cuenta</string>
   <string name="item_title_area_conversion">Área</string>
   <string name="item_title_calculator">Calculadora</string>
-  <string name="item_title_currency">Moneda</string>
+  <string name="item_title_currency">Divisas</string>
   <string name="item_title_dress_size">Talla de ropa</string>
   <string name="item_title_length_conversion">Longitud</string>
   <string name="item_title_mortgage">Hipoteca</string>
   <string name="item_title_scientific_calculator">Científica</string>
   <string name="item_title_tax">Impuestos</string>
   <string name="item_title_temprature_conversion">Temperatura</string>
-  <string name="item_title_time_conversion">Hora</string>
+  <string name="item_title_time_conversion">Tiempo</string>
   <string name="item_title_tip">Propina</string>
   <string name="item_title_vel_conversion">Velocidad</string>
   <string name="item_title_volume_conversion">Volumen</string>
@@ -131,7 +131,7 @@
   <string name="mortgage_years_amount">Años de hipoteca</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiplicar</string>
-  <string name="network_confirm_content">Las funciones de conversión de moneda, impuestos y cálculo de hipoteca utilizan la conexión de red del dispositivo para funcionar con normalidad.</string>
+  <string name="network_confirm_content">Las funciones de conversor de divisas, impuestos y cálculo de hipoteca utilizan la conexión de red del dispositivo para funcionar con normalidad.</string>
   <string name="network_confirm_title">Permisos necesarios</string>
   <string name="percentage">%</string>
   <string name="pi">π</string>
@@ -140,7 +140,7 @@
   <string name="plusDesc">más</string>
   <string name="power">^</string>
   <string name="powerDesc">potencia</string>
-  <string name="rate_data_provider">Interest rates are provided by hexun.com</string>
+  <string name="rate_data_provider">Tasas de interés proporcionadas por hexun.com</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">paréntesis derecho</string>
   <string name="sin">sin</string>
@@ -201,7 +201,7 @@
   <string name="unit_data_default_weight_0">kg</string>
   <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acre</string>
-  <string name="unit_data_display_area_are">Area</string>
+  <string name="unit_data_display_area_are">Área</string>
   <string name="unit_data_display_area_ha">Hectárea</string>
   <string name="unit_data_display_area_mu">Mu</string>
   <string name="unit_data_display_area_qing">Qing</string>
@@ -212,7 +212,7 @@
   <string name="unit_data_display_area_sq.ft">Pie cuadrado</string>
   <string name="unit_data_display_area_sq.gongli">Gongli cuadrado</string>
   <string name="unit_data_display_area_sq.in">Pulgada cuadrada</string>
-  <string name="unit_data_display_area_sq.km">Kilometro cuadrado</string>
+  <string name="unit_data_display_area_sq.km">Kilómetro cuadrado</string>
   <string name="unit_data_display_area_sq.m">Metro cuadrado</string>
   <string name="unit_data_display_area_sq.mi">Milla cuadrada</string>
   <string name="unit_data_display_area_sq.mm">Milímetro cuadrado</string>
@@ -268,8 +268,8 @@
   <string name="unit_data_display_velocity_kmps">Kilómetros por segundo</string>
   <string name="unit_data_display_velocity_mach">Mach</string>
   <string name="unit_data_display_velocity_mileph">Millas por hora</string>
-  <string name="unit_data_display_velocity_mps">Metro por segundo</string>
-  <string name="unit_data_display_velocity_nmiph">Nudo</string>
+  <string name="unit_data_display_velocity_mps">Metros por segundo</string>
+  <string name="unit_data_display_velocity_nmiph">Nudos</string>
   <string name="unit_data_display_volume_cl">Centilitro</string>
   <string name="unit_data_display_volume_cu.af">Acre-pie</string>
   <string name="unit_data_display_volume_cu.cm">Centímetro cúbico</string>
@@ -297,11 +297,11 @@
   <string name="unit_data_display_weight_mg">Miligramo</string>
   <string name="unit_data_display_weight_oz">Onza</string>
   <string name="unit_data_display_weight_q">Quintal</string>
-  <string name="unit_data_display_weight_qian">qian</string>
+  <string name="unit_data_display_weight_qian">Qian</string>
   <string name="unit_data_display_weight_st">Tonelada corta</string>
   <string name="unit_data_display_weight_t">Tonelada</string>
   <string name="unit_data_display_weight_ug">Microgramo</string>
-  <string name="unit_data_display_weight_uk.cwt">Quintal británica</string>
+  <string name="unit_data_display_weight_uk.cwt">Quintal británico</string>
   <string name="unit_data_display_weight_uk.st">Piedra</string>
   <string name="unit_data_display_weight_us.cwt">Quintal</string>
   <string name="unit_data_short_area_mu">mu</string>
@@ -349,7 +349,7 @@
   <string name="unit_data_short_velocity_mach">Mach</string>
   <string name="unit_data_short_velocity_mileph">millas/h</string>
   <string name="unit_data_short_velocity_mps">m/s</string>
-  <string name="unit_data_short_velocity_nmiph">Nudo</string>
+  <string name="unit_data_short_velocity_nmiph">kn</string>
   <string name="unit_data_short_volume_cu.af">af³</string>
   <string name="unit_data_short_volume_cu.cm">cm³</string>
   <string name="unit_data_short_volume_cu.dm">dm³</string>
