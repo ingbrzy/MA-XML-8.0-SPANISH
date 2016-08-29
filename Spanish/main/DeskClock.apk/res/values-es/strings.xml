@@ -8,7 +8,7 @@
   <string name="alarm_count">Después de sonar repetidamente parar de forma automática</string>
   <string name="alarm_count_never_summary">No se parar automáticamente</string>
   <string name="alarm_count_summary">Parar al sonar %dveces</string>
-  <string name="alarm_disabled">Apagar</string>
+  <string name="alarm_disabled">Apagada</string>
   <string name="alarm_duration">Duración de Alarma (en minutos)</string>
   <string name="alarm_duration_summary">Sonar%dminutos</string>
   <string name="alarm_duration_title">Ajuste de tiempo</string>
@@ -49,7 +49,7 @@
   <string name="delete">Borrar</string>
   <string name="delete_alarm">Borrar la alarma</string>
   <string name="delete_alarm_confirm">Borrar la(s) alarma(s) seleccionada(s)?</string>
-  <string name="delete_selected_timer_item">¿Eliminar la tarea seleccionada del Temporizadorr?</string>
+  <string name="delete_selected_timer_item">¿Eliminar la tarea seleccionada del Temporizador?</string>
   <string name="delete_timer_item_title">Eliminar tareas del Temoorizador</string>
   <string name="delete_timezone_title">Eliminar zona horaria</string>
   <string name="dialog_confirm_abort">¿Descartar los cambios?</string>
@@ -59,14 +59,14 @@
   <string name="every_day">Diario</string>
   <string name="force_touch_add_alarm">Añadir alarma</string>
   <string name="force_touch_enter_stopwatch">Cronógrafo</string>
-  <string name="force_touch_enter_timer">Temporizadorr</string>
+  <string name="force_touch_enter_timer">Temporizador</string>
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="hour">1 hora</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">%s horas</string>
   <string name="keep_screen_on">Mantener la pantalla encendida</string>
-  <string name="label">Poner etiqueta</string>
-  <string name="label_pref_summary">Marcar ésta Alarma</string>
+  <string name="label">Etiquetar</string>
+  <string name="label_pref_summary">Nombrar</string>
   <string name="lap">Vuelta</string>
   <string name="lap_num">Vuelta</string>
   <string name="legal_off_day">Día de descanso</string>
@@ -138,7 +138,7 @@
   <string name="turn_off_this_repeat_alarm">Desactivar esta alarma de repetición</string>
   <string name="vibrate_pref_summary">Vibrar cuando suene la alarma</string>
   <string name="vibrate_when_ringing">Vibrar al sonar</string>
-  <string name="volume_button_setting_summary">"Estableces una funció a los Botones de Volumen  durante la Alarma"</string>
+  <string name="volume_button_setting_summary">"Establecer una función a los Botones de Volumen durante la Alarma"</string>
   <string name="volume_button_setting_title">Botones de Volumen</string>
   <string name="workday_alarm_clock">Alarma para Días laborales</string>
   <string name="worldclock_empty_text">Sin Relojes</string>

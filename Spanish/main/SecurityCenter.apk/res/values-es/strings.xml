@@ -18,11 +18,11 @@
   <string name="access_control_need_to_unlock">"Escanee su huella dactilar
 o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduzca contraseña para desbloquear</string>
-  <string name="access_control_recording_intro_header">Dibuje el patrón para añadir bloqueo de aplicaciones</string>
-  <string name="access_control_reset_by_account">Accede a su cuenta Mi para resetablecer la contraseña</string>
+  <string name="access_control_recording_intro_header">Dibuje el patrón para añadir el bloqueo de aplicaciones</string>
+  <string name="access_control_reset_by_account">Acceda a su cuenta Mi para restablecer la contraseña</string>
   <string name="action_button_text_100">Optimizar</string>
-  <string name="action_button_text_60">Arreglar</string>
-  <string name="action_button_text_60_80">Arreglar</string>
+  <string name="action_button_text_60">Optimizar</string>
+  <string name="action_button_text_60_80">Optimizar</string>
   <string name="action_button_text_80_100">Optimizar</string>
   <string name="activity_title_antispam">Lista de bloqueo</string>
   <string name="activity_title_antivirus">Escáner de virus</string>
@@ -721,13 +721,13 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optimize_result_button_consume_power_analysis">Escaneo de la batería</string>
   <string name="optimize_result_button_cooldown_now">Enfriar</string>
   <string name="optimize_result_button_correct_now">Ajustar</string>
-  <string name="optimize_result_button_fix_now">Arreglar</string>
+  <string name="optimize_result_button_fix_now">Corregir</string>
   <string name="optimize_result_button_onekey_open">Activar</string>
   <string name="optimize_result_button_onekey_restore">Restaurar</string>
   <string name="optimize_result_button_open_now">Activar</string>
   <string name="optimize_result_buAjustars_diagnose">Diagnóstico del operador</string>
   <string name="optimize_result_button_purchase">Comprar</string>
-  <string name="optimize_result_button_purchase_flow">Clasificación completa</string>
+  <string name="optimize_result_button_purchase_flow">Ver todo</string>
   <string name="optimize_result_button_see_detaills">Detalles</string>
   <string name="optimize_result_button_to_open">Encende</string>
   <string name="optimize_result_button_to_set">Conjunto</string>
@@ -1173,7 +1173,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="root_apply_step_4">Permitir acceso root bajo tu propia responsabilidad.</string>
   <string name="root_apply_step_5">¿Permitir a %s acceso root?</string>
   <string name="root_apply_title">Aviso importante</string>
-  <string name="safe_result_header_info_protecting">Protector</string>
+  <string name="safe_result_header_info_protecting">Protegido</string>
   <string name="safe_result_header_title_app">Aplicación de seguridad</string>
   <string name="safe_result_header_title_sms">Seguridad de los mensajes</string>
   <string name="safe_result_header_title_system">Seguridad del sistema</string>
@@ -1265,8 +1265,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_install">Instalar ahora</string>
   <string name="stop_app_button">Detener</string>
-  <string name="suffix_pay_risk_count_bottom">Riesgos</string>
-  <string name="suffix_pay_risk_count_top">Pago</string>
+  <string name="suffix_pay_risk_count_bottom">riesgos</string>
+  <string name="suffix_pay_risk_count_top">pago</string>
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">riesgos</string>
   <string name="suggest_app_tolock">Sugerencias</string>
@@ -1429,7 +1429,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="title_telecom_operator">Auto ajuste</string>
   <string name="title_usb_no">Depuración USB activada</string>
   <string name="title_usb_yes">Depuración USB desactivada</string>
-  <string name="title_virus_cloudscan">Análisis de virus de la nube</string>
+  <string name="title_virus_cloudscan">Análisis de virus en la nube</string>
   <string name="title_virus_no">Virus encontrados</string>
   <string name="title_virus_update_no">Actualización de definiciones de virus desactivada</string>
   <string name="title_virus_update_yes">Actualización de definiciones de virus activada</string>
@@ -1540,7 +1540,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="usbsharenet_exception_title">Pobar internet compartida a través de USB</string>
   <string name="usbsharenet_pc_exception_summary">No se puede conectar a internet mediante conexión USB compartida. Compruebe la conexión a internet de su computadora.</string>
   <string name="use_immediately">Utilizar</string>
-  <string name="virus_list_header_title">%d virus detectados</string>
+  <string name="virus_list_header_title">%d Virus detectados</string>
   <string name="wakepath_confirm_start_activity">¿Permite a %1$s abrir %2$s?</string>
   <string name="warning_open_mi_sim">Activar Mi SIM</string>
   <string name="wifi_exception_summary">Probar redes Wi-Fi disponibles</string>

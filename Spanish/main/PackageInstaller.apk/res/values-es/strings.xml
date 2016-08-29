@@ -149,6 +149,8 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="permission_warning_template">¿Permitir a %1$s  %2$s?</string>
   <string name="permlab_togglePermissions">permisos de toggles</string>
   <string name="privacyPerms">Privacidad</string>
+  <string name="safe_guard_support">Apoyo técnico proporcionado por %1$s</string>
+  <string name="safe_relative">Seguridad</string>
   <string name="screen_overlay_button">Abrir ajustes</string>
   <string name="screen_overlay_message">Para cambiar esta configuración del permiso , primero tiene que desactivar la pantalla superpuesta en Ajustes &gt; Aplicaciones</string>
   <string name="screen_overlay_title">Detectada pantalla superpuesta</string>
@@ -170,8 +172,18 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="uninstalling">Desinstalando…</string>
   <string name="unknown">Desconocido</string>
   <string name="unknown_apps_admin_dlg_text">"El administrador no permite la instalación de aplicaciones de fuentes desconocidas."</string>
-  <string name="unknown_apps_dlg_text">Por razones de seguridad, el teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas.</string>
+  <string name="unknown_apps_dlg_text">El teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas. Puede desactivar esta función en Ajustes.</string>
+  <string name="unknown_apps_dlg_text1">"El teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas. Puede desactivar esta función en "</string>
+  <string name="unknown_apps_dlg_text2">\"Ajustes\"</string>
+  <string name="unknown_apps_dlg_text3">.</string>
+  <string name="unknown_installer">Herramientas de PC no identificadas</string>
   <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
   <string name="v7_preference_off">APAGADO</string>
   <string name="v7_preference_on">ENCENDIDO</string>
-</resources>
+  <string name="virus_scan_caller_unknown">Desconocido</string>
+  <string name="virus_scan_clear">Eliminar</string>
+  <string name="virus_scan_install">&lt;u&gt;Instalar todos modos&lt;/u&gt;</string>
+  <string name="virus_scan_is_risk">"Esta aplicación supone un riesgo para la seguridad de su dispositivo."</string>
+  <string name="virus_scan_is_virus">Esta aplicación contiene un virus.</string>
+  <string name="waiting_tip">Esto puede tomar un tiempo, pero vale la pena</string>
+ </resources>

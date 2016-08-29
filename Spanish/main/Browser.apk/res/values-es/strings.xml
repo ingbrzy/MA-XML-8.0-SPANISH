@@ -64,8 +64,8 @@
   <string name="add_shortcut">Añadir atajo</string>
   <string name="add_shortcut_success">Añadido con éxito el acceso directo</string>
   <string name="add_to_bookmark">Añadir a marcadores</string>
-  <string name="add_to_desk">Añadir a la pantalla Home</string>
-  <string name="add_to_desk_success">Añadido a la pantalla Home</string>
+  <string name="add_to_desk">Añadido a la pantalla Inicio</string>
+  <string name="add_to_desk_success">Añadir a la pantalla Inicio</string>
   <string name="add_to_quicklink">Agregar a la página de inicio</string>
   <string name="added_to_bookmarks">Agregado a marcadores</string>
   <string name="adjust_text_zoom_toast">Cambiar el tamaño del texto puede causar que algunas páginas se visualicen incorrectamente</string>
@@ -111,7 +111,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslizar arriba para cerrar</string>
   <string name="browserFrameFileErrorLabel">Problema de archivo</string>
   <string name="browserFrameFormResubmitLabel"/>
-  <string name="browserFrameFormResubmitMessage">"La pagina que estas tratando de ver contiene datos que han sido enviados por medio de (\"POSTDATA\"). Si quieres reenviar los datos, cualquier acción hecha en la pagina (por ejemplo una búsqueda o una compra en linea) se volverá a hacer."</string>
+  <string name="browserFrameFormResubmitMessage">"La página que estas tratando de ver contiene datos que han sido enviados por medio de (\"POSTDATA\"). Si quieres reenviar los datos, cualquier acción hecha en la página (por ejemplo una búsqueda o una compra en linea) se volverá a hacer."</string>
   <string name="browserFrameNetworkErrorLabel">Problema de conexión</string>
   <string name="cancel">Cancelar</string>
   <string name="cannot_download">Sólo puede descargar URLs \"http\" o \"https\"</string>
@@ -119,7 +119,7 @@
   <string name="choosertitle_sharevia">Compartir a través de</string>
   <string name="clear">Limpiar</string>
   <string name="clear_history">Borrar historial</string>
-  <string name="clear_history_group">Borrar historial (%s paginas)</string>
+  <string name="clear_history_group">Borrar historial (%s páginas)</string>
   <string name="clear_most_visited">Historial reciente</string>
   <string name="clear_search_history">Borrar historial</string>
   <string name="clear_video_download">Borrar vídeos</string>
@@ -333,7 +333,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="is_first_tab">Esta es la primera pestaña</string>
   <string name="is_last_history_item">Este es el último elemento del historial</string>
   <string name="is_last_tab">Esta es la última pestaña</string>
-  <string name="is_page_bottom">"Alcanzaste la parte inferior de la pagina"</string>
+  <string name="is_page_bottom">"Alcanzaste la parte inferior de la página"</string>
   <string name="is_page_top">"Estás en el inicio de la página"</string>
   <string name="js_dialog_before_unload">"%s
 
@@ -463,7 +463,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="opening_file_error">"No se puede abrir el archivo"</string>
   <string name="page_info">Información de la página</string>
   <string name="page_info_address">Dirección:</string>
-  <string name="page_info_view">Ver información de la pagina</string>
+  <string name="page_info_view">Ver información de la página</string>
   <string name="password">Contraseña</string>
   <string name="password_generation_popup_content_description">Mostrando la ventana emergente de generación de contraseña</string>
   <string name="pause_download">En pausa</string>
@@ -540,7 +540,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_privacy_clear_form_data_dlg">¿Borrar todos los datos del formulario?</string>
   <string name="pref_privacy_clear_form_data_summary">Borrar todos los datos de formulario guardados</string>
   <string name="pref_privacy_clear_geolocation_access">Borrar acceso a la ubicación</string>
-  <string name="pref_privacy_clear_geolocation_access_dlg">¿Borrar acceso a la localización de la pagina web?</string>
+  <string name="pref_privacy_clear_geolocation_access_dlg">¿Borrar acceso a la localización de la página web?</string>
   <string name="pref_privacy_clear_geolocation_access_summary">Borrar acceso de localización para todos los sitios web</string>
   <string name="pref_privacy_clear_history">Borrar historial</string>
   <string name="pref_privacy_clear_history_by_group_dlg">¿Borrar historial de navegación?</string>
@@ -639,7 +639,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="save_password_never">Nunca</string>
   <string name="save_password_notnow">Ahora no</string>
   <string name="save_password_remember">Recordar</string>
-  <string name="save_to">Salvar a</string>
+  <string name="save_to">Salvar en</string>
   <string name="save_to_camera">Guardar en cámara</string>
   <string name="save_to_camera_failed">"No se puede guardar la imagen"</string>
   <string name="save_to_camera_success">Guardado en cámara</string>
