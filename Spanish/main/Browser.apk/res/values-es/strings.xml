@@ -191,9 +191,9 @@
 está a punto de suceder"</string>
   <string name="custom_head_card_text_incognito">"Estás ahora en modo incógnito
 Las páginas que visites no se verán reflejadas en el historial"</string>
-  <string name="data_traffic_prompt_change">Usar su conexión de datos para ver vídeos incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
-  <string name="data_traffic_prompt_message">Usar la conexión de datos para navegar incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
-  <string name="data_traffic_prompt_message_short">El uso de datos móviles para transmitir vídeo puede hacer que usted se pase de su límite del plan de datos.</string>
+  <string name="data_traffic_prompt_change">"Usar su conexión de datos para ver vídeos incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales."</string>
+  <string name="data_traffic_prompt_message">"Usar la conexión de datos para navegar incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales."</string>
+  <string name="data_traffic_prompt_message_short">"El uso de datos móviles para transmitir vídeo puede hacer que usted se exceda el límite de su plan de datos."</string>
   <string name="data_traffic_prompt_title">Aviso de uso de datos</string>
   <string name="date_picker_dialog_clear">Limpiar</string>
   <string name="date_picker_dialog_other_button_label">Otros</string>
@@ -335,6 +335,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="is_last_tab">Esta es la última pestaña</string>
   <string name="is_page_bottom">"Alcanzaste la parte inferior de la página"</string>
   <string name="is_page_top">"Estás en el inicio de la página"</string>
+  <string name="isreplace">¿El archivo ya existe, sustituir?</string>
   <string name="js_dialog_before_unload">"%s
 
 ¿Está seguro de querer salir de esta página?"</string>
@@ -363,9 +364,9 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="media_error_timeout">Tiempo excedido de trasmisión por Red</string>
   <string name="media_error_video_not_exist">El vídeo no existe</string>
   <string name="media_player_error_button">Aceptar</string>
-  <string name="media_player_error_text_invalid_progressive_playback">"No se puede transmitir este vídeo"</string>
-  <string name="media_player_error_text_unknown">"No se puede reproducir el vídeo"</string>
-  <string name="media_player_error_title">No se puede reproducir el vídeo</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"Este vídeo no se puede transmitir en este dispositivo."</string>
+  <string name="media_player_error_text_unknown">"Este video no puede ser reproducido."</string>
+  <string name="media_player_error_title">"No se puede reproducir vídeo"</string>
   <string name="media_player_loading_video">Cargando el vídeo</string>
   <string name="menu_addtodesk">Añadir a la pantalla de inicio</string>
   <string name="menu_exit_nightmode">Salir</string>
@@ -455,6 +456,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="no_space_alert_text">No hay suficiente espacio</string>
   <string name="no_space_alert_title">Descarga pausada</string>
   <string name="no_space_clean_failed">No se pudo liberar espacio en tu dispositivo</string>
+  <string name="not_allowed_open">"No se pudo usar el Navegador nativo"</string>
   <string name="not_remind_again">Recordar mi elección</string>
   <string name="notif_install_successful">Descarga completada</string>
   <string name="ok">Aceptar</string>
@@ -610,6 +612,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="remove_bookmark">Borrar marcador</string>
   <string name="remove_bookmark_group">Borrar grupo</string>
   <string name="remove_from_bookmarks">Eliminar de marcadores</string>
+  <string name="replace">Sustituir</string>
   <string name="remove_history_item">Borrar del historial</string>
   <string name="remove_snapshot">Borrar página guardada</string>
   <string name="removed_from_bookmarks">Eliminado de marcadores</string>
@@ -775,6 +778,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="video_download_exists">Descarga de vídeo comenzada</string>
   <string name="video_download_fail">Falló</string>
   <string name="video_download_failed">Descarga de vídeo fallida</string>
+  <string name="video_download_finding_address">Encontrar dirección</string>
   <string name="video_download_pause">Pausado</string>
   <string name="video_download_start">Descargando…</string>
   <string name="video_download_success">Completado</string>
@@ -795,6 +799,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="video_group_noupdates_list">No Actualizar</string>
   <string name="video_group_updates_list">Actualizar</string>
   <string name="video_history_empty">Historial de visionado vacío</string>
+  <string name="video_manager_action_bar_end_view">Vídeos</string>
   <string name="video_play_error">No se puede reproducir vídeo</string>
   <string name="video_project_button">Detener</string>
   <string name="video_project_msg">Proyectando en %s</string>
@@ -802,8 +807,11 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="video_push_multi_message">Hay %1$d actualizaciones</string>
   <string name="video_push_multi_title">Hay actualizaciones</string>
   <string name="video_push_single_message">Actualizar a %1$d</string>
-  <string name="video_subtitle_prefix_message">Visto:</string>
-  <string name="video_title_prefix_message">Offline:</string>
+  <string name="video_subtitle_last_message1">Permanecer menos de un minuto</string>
+  <string name="video_subtitle_prefix1">Visto</string>
+  <string name="video_subtitle_prefix2">"Visto "</string>
+  <string name="video_title_prefix_message">Desconectado:</string>
+  <string name="video_unknown_duration">Duración desconocida</string>
   <string name="view_certificate">Ver certificado</string>
   <string name="view_document_downloaded_files">Ver archivos descargados en el Administrador de descargas</string>
   <string name="voice_sub_title">"¿No sé que decir? Trate de abrir mi.com!"</string>
