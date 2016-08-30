@@ -6,11 +6,30 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Últimos %d días</item>
-        <item quantity="one">Ayer</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d de %2$d</item>
         <item quantity="one">1 coincidencia</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">¿Borrar %1$d vídeos?</item>
+        <item quantity="one">¿Borrar %1$d vídeo?</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d vídeos eliminados con éxito.</item>
+        <item quantity="one">%1$d vídeo eliminado con éxito.</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Permanecer %d minutos</item>
+        <item quantity="one">Permanecer un minuto</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">¿Borrar %1$d elementos del historial?</item>
+        <item quantity="one">¿Borrar %1$d elemento del historial?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d elementos eliminados del historial.</item>
+        <item quantity="one">%1$d elemento eliminado del historial.</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d coincidencias</item>
