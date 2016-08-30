@@ -13,6 +13,7 @@
   <string name="alter_message_delete">¿Borrar?</string>
   <string name="alter_message_switch_mode">¿Cambiar modos?</string>
   <string name="alter_message_switch_mode_message">Cuando cambies modos, tus ajustes previos dejarán de usarse en esta aplicación.</string>
+  <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Elegir aplicaciones</string>
   <string name="app_list_total">%d aplicaciones</string>
   <string name="app_name">Ahorro de batería</string>
@@ -26,8 +27,8 @@
   <string name="config_restrict_running_description">Las aplicaciones estarán cerradas para ahorrar energía</string>
   <string name="config_restrict_running_title">Restringir la actividad en segundo plano</string>
   <string name="config_suggest_description">Usa diferentes configuraciones de ahorro para cada aplicación</string>
-  <string name="config_suggest_suffix_title">Protector de la batería MIUI (recomendado)</string>
-  <string name="config_suggest_title">Sugerido</string>
+  <string name="config_suggest_suffix_title">Ahorro de batería MIUI (recomendado)</string>
+  <string name="config_suggest_title">Ahorro de batería MIUI</string>
   <string name="disabled">Apagado</string>
   <string name="empty_title_apps_container_list">No hay aplicaciones</string>
   <string name="error_filename_too_long">El nombre de fichero introducido es demasiado largo.</string>
@@ -37,6 +38,7 @@
   <string name="fragment_tab_title_sys">Aplicaciones del sistema</string>
   <string name="full_screen_enter">Pantalla completa</string>
   <string name="full_screen_exit">Salir de pantalla completa</string>
+  <string name="google_base_app_install_choice">\"%s\" requiere de las aplicaciones Google Service Framework para ejecutarse con normalidad, ¿quiere descargarlas e instalarlas?</string>
   <string name="hide_mode_desc">Cuando una aplicación se ejecuta en segundo plano, se supervisarán sus actividades para reducir el uso de la batería.</string>
   <string name="high">Rendimiento</string>
   <string name="hints_loading_text">Un momento…</string>
