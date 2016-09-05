@@ -1,81 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="group_name_translate">
-        <item>Defecto</item>
+        <item>Predeterminado</item>
         <item>Modo oculto</item>
         <item>Modo lectura</item>
-        <item>Modo multimedia</item>
+        <item>Modo medios</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>Aplicación funcionando en primer plano</item>
+        <item>La app se está ejecutando en primer plano</item>
         <item>Pantalla encendida</item>
-        <item>Pantalla apagada</item>
-        <item>Pantalla apagada durante 10 minutos</item>
+        <item>Pantalla desactivada</item>
+        <item>Apagar pantalla después de 10 minutos</item>
         <item>Pantalla completa</item>
         <item>Salir de pantalla completa</item>
-        <item>Aplicación funcionando en segundo plano</item>
-        <item>Teléfono cargándose</item>
-        <item>Teléfono no está cargándose</item>
-        <item>Teléfono inactivo</item>
+        <item>La app se está ejecutando en segundo plano</item>
+        <item>El teléfono se está cargando</item>
+        <item>Teléfono no se está cargando</item>
+        <item>El teléfono está inactivo</item>
     </string-array>
     <string-array name="action_name_translate">
-        <item>Máximo brillo de pantalla</item>
-        <item>Máxima frecuencia de CPU</item>
+        <item>Brillo máximo de pantalla</item>
+        <item>Frecuencia máxima de la CPU</item>
         <item>Modo de pantalla</item>
         <item>Uso de CPU</item>
         <item>Conexión de datos</item>
-        <item>Localización</item>
+        <item>Ubicación</item>
         <item>Primera notificación</item>
-        <item>Notificaciones en pantalla de bloqueo</item>
+        <item>Notificaciones en la pantalla de bloqueo</item>
         <item>Restringir conexiones de datos en segundo plano</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Ninguno</item>
-        <item>Defecto</item>
+        <item>Nada</item>
+        <item>Predeterminado</item>
         <item>Imagen</item>
         <item>Película</item>
         <item>Ahorro de batería</item>
-        <item>Equilibrio</item>
+        <item>Balanceado</item>
         <item>Rendimiento</item>
-        <item>Encendido</item>
-        <item>Apagado</item>
+        <item>Activado</item>
+        <item>Desactivado</item>
         <item>Inmediatamente</item>
-        <item>Después de 10 min</item>
-        <item>Después de 30 min</item>
-        <item>Cuando la pantalla esté apagada</item>
+        <item>Después de 10 minutos</item>
+        <item>Después de 30 minutos</item>
+        <item>Cuando la pantalla está apagada</item>
     </string-array>
     <string-array name="app_groups">
-        <item>Seleccionadas</item>
-        <item>No seleccionadas</item>
-        <item>Otras seleccionadas</item>
+        <item>En este modo</item>
+        <item>Sin seleccionar</item>
+        <item>Seleccionado en otros modos</item>
     </string-array>
     <string-array name="hmode_app_groups">
-        <item>Personalizadas</item>
-        <item>Sugeridas</item>
+        <item>Personalizado</item>
+        <item>Economizador de batería</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
         <item>Ahora</item>
         <item>Segundo plano</item>
-        <item>Recientemente</item>
+        <item>Reciente</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>Escaneo WIFI</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Despierto</item>
+        <item>Bloqueando el modo dormir profundo</item>
+        <item>Bloqueando el Modo dormir</item>
+        <item>Buscando Wi-Fi</item>
+        <item>Usando el GPS</item>
+        <item>Ocupando CPU</item>
+        <item>Despertando frecuentemente el dispositivo</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
         <item>WakeLock</item>
-        <item>Escaneo WIFI</item>
+        <item>Escaneo de Wi -Fi</item>
         <item>GPS</item>
         <item>CPU</item>
-        <item>Despierto</item>
-    </string-array>
-    <string-array name="invisible_app_groups">
-        <item>seleccionado</item>
-        <item>no seleccionado</item>
+        <item>Despertar</item>
     </string-array>
 </resources>
