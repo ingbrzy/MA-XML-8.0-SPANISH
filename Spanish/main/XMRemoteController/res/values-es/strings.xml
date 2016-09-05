@@ -491,8 +491,8 @@ espere un momento después de la tarea."</string>
   <string name="max_enter">No puede excederse de %d caracteres</string>
   <string name="maybe_is">Verifique lo siguiente:</string>
   <string name="menu">Menú</string>
-  <string name="mi_account">Cuenta de Mi</string>
-  <string name="mi_account_name">Cuenta de Mi</string>
+  <string name="mi_account">Cuenta Mi</string>
+  <string name="mi_account_name">Cuenta Mi</string>
   <string name="mi_brand">Mi</string>
   <string name="mi_rc">Mi Remote</string>
   <string name="mibox">Mi Box</string>
@@ -595,7 +595,7 @@ espere un momento después de la tarea."</string>
   <string name="passport_confirm_recycle_account">Si</string>
   <string name="passport_delete_account">Cerrar sesión</string>
   <string name="passport_email">Dirección de correo eléctronico</string>
-  <string name="passport_email_or_id_hint_text">Correo eléctronico o cuenta de Mi ID</string>
+  <string name="passport_email_or_id_hint_text">Correo eléctronico o Cuenta Mi ID</string>
   <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_error_device_id">No se puede obtener el ID del dispositivo</string>
   <string name="passport_error_dup_email">Este correo eléctronico ya está asociado con otra cuenta</string>
@@ -628,7 +628,7 @@ espere un momento después de la tarea."</string>
   <string name="passport_get_verify_code">Obteniendo código</string>
   <string name="passport_getting_verify_code">Obteniendo</string>
   <string name="passport_identitfication_expired">Verification code expired, start over</string>
-  <string name="passport_imei_permission_denied_message">"Estamos solicitando permiso para obtener el IMEI del dispositivo. Cuenta de Mi  utiliza el IMEI para identificar el dispositivo en el que se registra, para ayudar a mantener su Cuenta de Mi segura."</string>
+  <string name="passport_imei_permission_denied_message">"Estamos solicitando permiso para obtener el IMEI del dispositivo. Cuenta Mi utiliza el IMEI para identificar el dispositivo en el que se registra, para ayudar a mantener su Cuenta Mi segura."</string>
   <string name="passport_imei_permission_denied_title">Solicitud de permiso de IMEI</string>
   <string name="passport_input_captcha_hint">Introduzca el código</string>
   <string name="passport_input_password_for_login">Este número está asociado con una cuenta existente, introduzca su contraseña</string>
@@ -641,13 +641,13 @@ espere un momento después de la tarea."</string>
   <string name="passport_login_check_find_device">Comprando el estado Búsqueda de dispositivo…</string>
   <string name="passport_login_check_find_device_failed">"No se puede comprobar el estado de búsqueda. Compruebe su conexión a la red."</string>
   <string name="passport_login_failed">No se puede iniciar sesión</string>
-  <string name="passport_login_find_device_bind">This device is associated with existing cuenta de Mi ID (%s). Sign in to activate this device.</string>
+  <string name="passport_login_find_device_bind">This device is associated with existing Cuenta Mi ID (%s). Sign in to activate this device.</string>
   <string name="passport_login_instead_reg">Usar este número</string>
   <string name="passport_login_instead_reg_with_email">Usar este email</string>
   <string name="passport_login_notice">Iniciando sesión…</string>
   <string name="passport_login_short">Iniciar sesión</string>
-  <string name="passport_login_title">Inciar sesión con cuenta de Mi</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Iniciar sesión con tu correo eléctronico o tu cuenta de Mi&lt;/u&gt;</string>
+  <string name="passport_login_title">Inciar sesión con Cuenta Mi</string>
+  <string name="passport_login_with_email_or_id">&lt;u&gt;Iniciar sesión con tu correo eléctronico o tu Cuenta Mi&lt;/u&gt;</string>
   <string name="passport_next">Siguiente</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password_req_notice">La contraseña debe tener 8-16 caracteres de longitud e incluir números y letras (mayúsculas y minúsculas).</string>
@@ -660,9 +660,9 @@ espere un momento después de la tarea."</string>
   <string name="passport_quick_login_title">Introduzca su contraseña</string>
   <string name="passport_re_get_verify_code">Obtener código de nuevo</string>
   <string name="passport_re_register">Registrarte de nuevo</string>
-  <string name="passport_recycle_account_prompt">¿Es esta cuenta su cuenta de Mi?</string>
+  <string name="passport_recycle_account_prompt">¿Es esta cuenta su Cuenta Mi?</string>
   <string name="passport_reg_failed">No se puede configurar la cuenta</string>
-  <string name="passport_reg_new">Crear una cuenta de Mi gratis</string>
+  <string name="passport_reg_new">Crear una Cuenta Mi gratis</string>
   <string name="passport_reg_sms_send_prompt">Enviar código de verificación a %s</string>
   <string name="passport_reg_success">Cuenta creada</string>
   <string name="passport_reg_success_summary">%1$s se ha asociado con su cuenta. Se puede utilizar para acceder o para restablecer su contraseña.</string>
@@ -691,7 +691,7 @@ espere un momento después de la tarea."</string>
   <string name="passport_reset_password_title">Restablecer contraseña</string>
   <string name="passport_restart">Comenzar de nuevo</string>
   <string name="passport_restart_register_prompt">Otro mensaje de verificación puede ser necesario para crear su cuenta.</string>
-  <string name="passport_restart_register_title">Crear una  cuenta de Mi</string>
+  <string name="passport_restart_register_title">Crear una  Cuenta Mi</string>
   <string name="passport_send_too_many_code">Demasiados códigos de verificación han sido enviados a este número. Espere 24 horas y vuelva a intentarlo.</string>
   <string name="passport_setting">Configurando ...</string>
   <string name="passport_sim_index_info">Tarjeta SIM  %1$d - %2$s</string>
@@ -715,11 +715,11 @@ espere un momento después de la tarea."</string>
   <string name="passport_wrong_password">La contraseña es incorrecta</string>
   <string name="passport_wrong_phone_number_format">El formato del número de teléfono que ha introducido no es válido</string>
   <string name="passport_wrong_vcode">El código que introduciste es incorrecto</string>
-  <string name="passport_xiaomi_account_dspt">Use su cuenta de Mi para iniciar sesión en Mi Cloud, MIUI Theme Store, y otros servicios Mi, desde cualquier lugar.</string>
+  <string name="passport_xiaomi_account_dspt">Use su Cuenta Mi para iniciar sesión en Mi Cloud, MIUI Theme Store, y otros servicios Mi, desde cualquier lugar.</string>
   <string name="passport_xiaomi_account_sec_dspt">
   </string>
-  <string name="passport_xiaomi_account_sec_dspt2">Para acceder a su cuenta de Mi requiere una conexión a Internet. Además, el acceso de ubicación, Mi Cloud, y Mi VIP se activarán automáticamente.</string>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">Se requiere una conexión a Internet para acceder a su cuenta de Mi. acceso a la ubicación, Mi Nube, y Mi VIP se activarán automáticamente.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">Para acceder a su Cuenta Mi requiere una conexión a Internet. Además, el acceso de ubicación, Mi Cloud, y Mi VIP se activarán automáticamente.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Se requiere una conexión a Internet para acceder a su Cuenta Mi. acceso a la ubicación, Mi Nube, y Mi VIP se activarán automáticamente.</string>
   <string name="place_frame">"Ubicación: "</string>
   <string name="play_in_phone">Ver en el teléfono</string>
   <string name="play_on_tv">Reproducir en TV</string>
