@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">¿No mostrar estas caras?</item>
-        <item quantity="one">¿No mostrar esta cara?</item>
+        <item quantity="other">¿No mostrar estas personas?</item>
+        <item quantity="one">¿No mostrar esta persona?</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s fotos de %2$s</item>
-        <item quantity="one">%1$s foto de %2$s</item>
+        <item quantity="other">%1$s fotos de %2$s >></item>
+        <item quantity="one">%1$s foto de %2$s >></item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d años</item>
@@ -21,64 +21,68 @@
         <item quantity="one">%d día</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d fotos de %2$s para ser añadidas</item>
-        <item quantity="one">%1$d foto de %2$s para ser añadida</item>
+        <item quantity="other">%1$d foto de %2$s se añadirán</item>
+        <item quantity="one">%1$d foto de %2$s se añadirá</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d fotos de %2$s para ser añadidas</item>
-        <item quantity="one">%1$d foto de %2$s para ser añadida</item>
+        <item quantity="other">%1$d fotos de %2$s se añadirán</item>
+        <item quantity="one">%1$d foto de %2$s se añadirá</item>
     </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Compartido con %d personas</item>
         <item quantity="one">Compartido con %d persona</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">Las fotos seleccionadas no están en el dispositivo.¿Descargarlos a partir de datos móviles?</item>
-        <item quantity="one">La foto seleccionada no está en el dispositivo.¿Descargarlo a partir de datos móviles?</item>
+        <item quantity="other">Las fotos seleccionadas no se encuentran en el dispositivo. ¿Deseas descargarlas usando datos móviles?</item>
+        <item quantity="one">La foto seleccionada no se encuentra en el dispositivo. ¿Deseas descargarla usando datos móviles?</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">Las fotos seleccionadas (%dMB) no están en el dispositivo.¿Descargarlos a partir de datos móviles?</item>
-        <item quantity="one">Las foto seleccionada (%dMB) no están en el dispositivo.¿Descargarlos a partir de datos móviles?</item>
+        <item quantity="other">Las fotos seleccionadas (%dMB) no se encuentran en el dispositivo. ¿Deseas descargarlas usando datos móviles?</item>
+        <item quantity="one">La foto seleccionada (%dMB) no se encuentra en el dispositivo. ¿Deseas descargarla usando datos móviles?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
-        <item quantity="other">Las fotos seleccionadas no están en el dispositivo. Estas serán descargadas.</item>
-        <item quantity="one">Las foto seleccionada no están en el dispositivo. Esta será descargada.</item>
+        <item quantity="other">Las fotos seleccionadas no están en el dispositivo. Se descargarán.</item>
+        <item quantity="one">La foto seleccionada no está en el dispositivo. Se descargará.</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Se han omitido %d fotos que no están en el dispositivo.</item>
+        <item quantity="one">Se ha omitido una foto que no está en el dispositivo.</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">No se pudo descargar %1$d fotos,¿inténtar de nuevo?</item>
-        <item quantity="one">No se pudo descargar la foto,¿inténtar de nuevo?</item>
+        <item quantity="other">No se pudo descargar %1$d fotos, ¿intentar de nuevo?</item>
+        <item quantity="one">No se pudo descargar la foto, ¿intentar de nuevo?</item>
     </plurals>
-     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"No se pudo descargar %1$d fotos, conectarse a la red y vuelva a intentarlo"</item>
-        <item quantity="one">"No se pudo descargar la foto, conectarse a la red y vuelva a intentarlo"</item>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Couldn't download %1$d photos, connect to the network and try try again"</item>
+        <item quantity="one">"Couldn't download photo, connect to the network and try try again"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">No se pudo descargar %1$d fotos (%2$dMB),¿inténtar de nuevo?</item>
-        <item quantity="one">No se pudo descargar la foto (%2$dMB),¿inténtar de nuevo?</item>
+        <item quantity="other">No se pudo descargar %1$d fotos (%2$dMB), ¿intentar de nuevo?</item>
+        <item quantity="one">No se pudo descargar la foto (%2$dMB), ¿intentar de nuevo?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"No se pudo descargar %1$d fotos (%2$dMB), conectarse a la red y vuelva a intentarlo"</item>
-        <item quantity="one">"No se pudo descargar la foto (%2$dMB), conectarse a la red y vuelva a intentarlo"</item>
+        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), connect to the network and try try again"</item>
+        <item quantity="one">"Couldn't download photo (%2$dMB), connect to the network and try try again"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">¿Cancelar la descarga de %d fotos?</item>
-        <item quantity="one">¿Cancelar la descarga de la foto?</item>
+        <item quantity="other">¿Cancelar la descarga de las %d fotos restantes?</item>
+        <item quantity="one">¿Cancelar la descarga de la foto restante?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
-        <item quantity="other">Añadidas %d fotos desde la nube, desactive \"Mostrar sólo los discos locales\" para ver.</item>
-        <item quantity="one">Añadida %d foto desde la nube, desactive \"Mostrar sólo los discos locales\" para ver.</item>
+        <item quantity="other">Añadidas %d fotos en la nube, desactive \"Mostrar solo álbumes locales\" para ver.</item>
+        <item quantity="one">Añadida %d foto en la nube, desactive \"Mostrar solo álbumes locales\" para ver.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">¿Eliminar %1$d fotos %2$s?</item>
-        <item quantity="one">¿Eliminar ésta foto %2$s?</item>
+        <item quantity="other">¿Borrar %1$d fotos %2$s?</item>
+        <item quantity="one">¿Borrar esta foto %2$s?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">¿Eliminar %1$d videos %2$s?</item>
-        <item quantity="one">¿Eliminar este video %2$s?</item>
+        <item quantity="other">¿Eliminar %1$d vídeos %2$s?</item>
+        <item quantity="one">¿Eliminar este vídeo %2$s?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">¿Eliminar %1$d elementos %2$s?</item>
-        <item quantity="one">¿Eliminar %1$d elemento %2$s?</item>
+        <item quantity="other">¿Eliminar %1$d ítems %2$s?</item>
+        <item quantity="one">¿Eliminar %1$d ítem %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d elementos)</item>
@@ -89,67 +93,67 @@
         <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d elementos | %2$s</item>
-        <item quantity="one">%1$d elemento | %2$s</item>
+        <item quantity="other">%1$d ítems | %2$s</item>
+        <item quantity="one">%1$d ítem | %2$s</item>
     </plurals>
     <plurals name="backuped">
-        <item quantity="other">%1$d elementos han sido respaldados</item>
-        <item quantity="one">%1$d elemento ha sido respaldado</item>
+        <item quantity="other">%1$d elementos respaldados</item>
+        <item quantity="one">%1$d elemento respaldado</item>
     </plurals>
     <plurals name="backup_waiting">
-        <item quantity="other">Faltan %1$d elementos por respaldar</item>
-        <item quantity="one">Falta %1$d elemento por respaldar</item>
+        <item quantity="other">%1$d elementos esperando a ser respaldados</item>
+        <item quantity="one">%1$d elemento esperando a ser respaldado</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Error de red. Faltan %1$d elementos por respaldar</item>
-        <item quantity="one">Error de red. Falta %1$d elemento por respaldar</item>
+        <item quantity="other">Error de red. %1$d elementos esperando a ser respaldados</item>
+        <item quantity="one">Error de red. %1$d elemento esperando a ser respaldado</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">Sinc apagado. Faltan %1$d elementos por respaldar</item>
-        <item quantity="one">Sinc apagado. Falta %1$d elemento por respaldar</item>
+        <item quantity="other">Sincronización desactivada. %1$d elementos esperando a ser respaldados</item>
+        <item quantity="one">Sincronización desactivada. %1$d elemento esperando a ser respaldado</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud está lleno. Faltan %1$d elementos por respaldar</item>
-        <item quantity="one">Mi Cloud está lleno. Falta %1$d elemento por respaldar</item>
+        <item quantity="other">Mi Cloud lleno. %1$d elementos esperando a ser respaldados</item>
+        <item quantity="one">Mi Cloud lleno. %1$d elemento esperando a ser respaldado</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">No hay suficiente almacenamiento local. Faltan %1$d elementos por respaldar</item>
-        <item quantity="one">No hay suficiente almacenamiento local. Falta %1$d elemento por respaldar</item>
+        <item quantity="other">No hay suficiente. %1$d elementos esperando a ser respaldados</item>
+        <item quantity="one">No hay suficiente. %1$d elemento esperando a ser respaldado</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">Faltan %1$d fotos por sincronizar</item>
-        <item quantity="one">Falta 1 foto por sincronizar</item>
+        <item quantity="other">%1$d fotos a la espera de ser respaldadas</item>
+        <item quantity="one">1 foto a la espera de ser respaldada</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">Faltan %1$d vídeos por sincronizar</item>
-        <item quantity="one">Falta 1 vídeo por sincronizar</item>
+        <item quantity="other">%1$d vídeos a la espera de ser respaldados</item>
+        <item quantity="one">1 vídeo a la espera de ser respaldado</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Faltan %1$d elementos por sincronizar</item>
-        <item quantity="one">Falta 1 elemento por sincronizar</item>
+        <item quantity="other">%1$d ítems a la espera de ser respaldados</item>
+        <item quantity="one">1 ítem a la espera de ser respaldado</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Sincronizando %1$d fotos…</item>
-        <item quantity="one">Sincronizando foto…</item>
+        <item quantity="other">Respaldando %1$d fotos…</item>
+        <item quantity="one">Respaldando foto…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Sincronizando %1$d vídeos…</item>
-        <item quantity="one">Sincronizando vídeo…</item>
+        <item quantity="other">Respaldando %1$d vídeos…</item>
+        <item quantity="one">Respaldando vídeo…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Sincronizando %1$d elementos…</item>
-        <item quantity="one">Sincronizando elemento…</item>
+        <item quantity="other">Respaldando %1$d ítems…</item>
+        <item quantity="one">Respaldando 1 ítem…</item>
     </plurals>
     <plurals name="download_error">
-        <item quantity="other">No se pudieron descargar %1$d archivos</item>
-        <item quantity="one">No se pudo descargar %1$d archivo</item>
+        <item quantity="other">No se pudo descargar %1$d elementos</item>
+        <item quantity="one">No se pudo descargar %1$d elemento</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="fast_share_auto_render_failed">
-        <item quantity="other">"Skipped %1$d photos which couldn't be rendered."</item>
-        <item quantity="one">"Skipped a photo which couldn't be rendered."</item>
+        <item quantity="other">Se han omitido %1$d fotos que no se han podido mostrar.</item>
+        <item quantity="one">Se ha omitido una foto que no se ha podido mostrar.</item>
     </plurals>
 </resources>
