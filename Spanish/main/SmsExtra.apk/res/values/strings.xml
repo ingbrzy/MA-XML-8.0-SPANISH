@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_not_found">No app was found to handle this action</string>
+  <string name="back_to_message_list">Back to message list</string>
+  <string name="confirm_delete_all_conversations">Delete all conversations?</string>
+  <string name="confirm_delete_conversation">Delete this entire thread?</string>
+  <string name="confirm_delete_group_message">Delete group messages?</string>
+  <string name="confirm_delete_locked_message">Delete this locked message?</string>
+  <string name="confirm_delete_message">Delete this message?</string>
+  <string name="confirm_dialog_locked_title">Delete locked message?</string>
+  <string name="confirm_dialog_title">Delete?</string>
+  <string name="copy_message_text">Copy</string>
+  <string name="copy_message_text_success">Copy text done</string>
+  <string name="delete">Delete</string>
+  <string name="delete_message">Delete</string>
+  <string name="from_label">"From: "</string>
+  <string name="menu_forward">Forward</string>
+  <string name="menu_lock">Star</string>
+  <string name="menu_unlock">Unstar</string>
+  <string name="message_details_title">Message details</string>
+  <string name="message_type_label">"Type: "</string>
+  <string name="received_label">"Received: "</string>
+  <string name="sent_label">"Sent: "</string>
+  <string name="sms_card_partner_label">"SMS card partner: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="text_message">Text message</string>
+  <string name="view_message_details">View details</string>
+</resources>
