@@ -123,7 +123,7 @@
     <string name="music_audio_effect_settings">Configuración de efectos</string>
     <string name="music_equalizer">Ecualizador</string>
     <string name="music_equalizer_summary">Ajustar niveles individuales para distintos tipos de música</string>
-    <string name="music_title_dolby_control">Dolby digital plus</string>
+    <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_dolby_mode_off">Apagado</string>
     <string name="music_dolby_mode_music">Música</string>
     <string name="music_dolby_mode_movie">Vídeo</string>
@@ -876,6 +876,7 @@ Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al
     <string name="wifi_tether_configure_subtext">%1$s %2$s punto de acceso móvil</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="testing_wifi_info">Información Wi-Fi</string>
+    <string name="tether_and_hotspot_title">Tethering y zona Wi-Fi</string>
     <string name="disableNetwork">desactivarlaRed</string>
     <string name="enableNetwork">permitirRed</string>
     <string name="disconnect">desconectar</string>
@@ -1627,6 +1628,7 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="auto_caps_summary">Escribir en mayúsculas la primera letra de las frases</string>
     <string name="auto_punctuate">Puntuación automática</string>
     <string name="hardkeyboard_category">Ajustes del teclado físico</string>
+    <string name="hardware_version">Versión del hardware</string>
     <string name="has_screenshot_sound">Sonido de captura</string>
     <string name="auto_punctuate_summary">Pulsa la barra espaciadora dos veces para insertar el carácter \".\"</string>
     <string name="show_password">Mostrar las contraseñas</string>
@@ -1662,7 +1664,7 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="user_dict_settings_context_menu_edit_title">Editar</string>
     <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
     <string name="user_dict_settings_empty_text">"Usted no tiene ningún diccionario
-Añada una palabra pulsando el botón (+) añadir"</string>
+Pulse en más para agregar palabras."</string>
     <string name="user_dict_settings_all_languages">Para todos los idiomas</string>
     <string name="user_dict_settings_more_languages">Más idiomas…</string>
     <string name="testing">Prueba</string>
@@ -3200,7 +3202,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="search_theme_settings">Temas;Tema;Personalización;Personalizar</string>
     <string name="search_font">Fuente del sistema;Fuente;Fuentes;Tamaño de las fuentes;Tamaño de la fuente</string>
     <string name="search_page_layout_settings">Tamaño de texto;Tamaño de fuente;Pequeño;Grande;Mediano;XXL;Enorme;Tamaños de fuente</string>
-    <string name="search_display">Pantalla;Pantalla;Luz ambiental;Bolsillo;Llamada en el bolsillo</string>
+    <string name="search_display">Pantalla;Pantalla;Luz ambiental;Bolsillo;Llamada en el bolsillo;Temperatura del color;Color;Colores;Saturación;Auto-rotación;Autorotación;Pantalla de rotación;Brillo;Fuentes;Fuentes;Tamaño de la fuente</string>
     <string name="search_accelerometer">Autorrotar pantalla;Rotar pantalla;Orientación;Retrato;Paisaje</string>
     <string name="search_brightness">Brillo;Brillo de pantalla;Brillo de pantalla</string>
     <string name="search_touch_sensitive_title">Modo guantes;guantes;guante</string>
@@ -3591,13 +3593,13 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="handy_mode_size">Tamaño de pantalla</string>
     <string name="touch_assistant">Bola flotante</string>
     <string name="force_touch">3D Touch</string>
-    <string name="force_touch_enable">Activar Toque 3D</string>
-    <string name="force_touch_enable_tips">Toque largo en el icono de la aplicación para mostrar los atajos, mientras el 3D Touch esté activo.</string>
+    <string name="force_touch_enable">Activar el 3D táctil</string>
+    <string name="force_touch_enable_tips">Toque en el icono de la aplicación para mostrar los atajos, mientras el 3D Touch esté activo.</string>
     <string name="force_touch_demo">Reproducir demostración</string>
     <string name="screenshot">Captura de pantalla</string>
     <string name="screenshot_three_gesture">Deslizar tres dedos simultáneamente activará la captura de pantalla</string>
     <string name="screenshot_three_gesture_summary">Otros gestos con los tres dedos se desactivarán</string>
-    <string name="avoid_ui">Evitar UI</string>
+    <string name="avoid_ui">Tocar para bloquear</string>
     <string name="key_settings_title">Botones</string>
     <string name="key_settings">Botones</string>
     <string name="key_position_cat">Posición de los botones</string>
@@ -3972,6 +3974,8 @@ Seleccione su sistema operativo:"</string>
     <string name="power_autorun_apps_empty">Vacío</string>
     <string name="power_autorun_empty">Vacío</string>
     <string name="auto_startup_count">%d aplicaciones tienen permiso para iniciarse automáticamente</string>
+    <string name="auto_upload_debug_log_summary">Los datos de diagnóstico pueden incluir la información sobre el uso del hardware, sistema operativo y aplicaciones. Los datos serán utilizados para localizar y analizar los problemas en el sistema y nunca serán utilizados para identificarle personalmente.</string>
+    <string name="auto_upload_debug_log_title">Enviar los datos del diagnóstico de forma automática</string>
     <string name="man_add_application">Añadir aplicaciones de inicio automático</string>
     <string name="application_item_disable">Denegar</string>
     <string name="application_item_permission">Permitir</string>
@@ -4414,7 +4418,7 @@ Seleccione su sistema operativo:"</string>
     <string name="theme_settings_title">Temas</string>
     <string name="choose_smartcover_type">Elija tipo de letra</string>
     <string name="normal_smartcover_title">Frente cubierta opaca</string>
-    <string name="smallwindow_smartcover_title">Frente cubierta transparente</string>
+    <string name="smallwindow_smartcover_title">Ventana transparente</string>
     <string name="lattice_smartcover_title">Celosía de fondo</string>
     <string name="wifi_eap_sim_simcard">Elegir SIM</string>
     <string name="children_mode_title">Modo niño</string>
@@ -4526,8 +4530,8 @@ Seleccione su sistema operativo:"</string>
     <string name="usb_insert_summary">Conectar almacenamiento USB</string>
     <string name="fp_nav_center_back_to_home_title">Pulse el botón Inicio para volver a la pantalla de inicio</string>
     <string name="convenience_key_category_title">Accesos directos</string>
-    <string name="single_key_use">Tecla de un solo uso</string>
-    <string name="single_key_use_summary">Tecla Inicio en vez de los otros dos botones para operaciones normales</string>
+    <string name="single_key_use">Un solo botón</string>
+    <string name="single_key_use_summary">Utilice el botón de Inicio para funciones realizadas por los otros 2 botones</string>
     <string name="settings_forbidden_message">Esta configuración está desactivada</string>
     <string name="auto_disable_screenbuttons_title">Desactivar automáticamente los botones de navegación</string>
     <string name="auto_disable_screenbuttons_summary">Desactivar automáticamente los botones de navegación al utilizar las aplicaciones seleccionadas. Toque dos veces cualquier botón de navegación para reactivarlos.</string>
