@@ -97,7 +97,7 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
   <string name="find_device_status_ok">Encuentre su dispositivo desde cualquier parte en i.mi.com</string>
   <string name="find_device_status_ok_international">Encuentre su dispositivo desde cualquier parte en www.mi.com/micloud</string>
   <string name="find_device_success_title">Encontrar dispositivo</string>
-  <string name="forget_password">Contraseña olvidada</string>
+  <string name="forget_password"><u>Contraseña olvidada</u></string>
   <string name="free_space_has_received">Ya obtuvo espacio gratis este mes</string>
   <string name="free_space_receive_fail">No se puede actualizar</string>
   <string name="get_first_month_gb">Consiga %s de espacio gratis</string>
@@ -216,10 +216,8 @@ o borrar su dispositivo."</string>
   <string name="micloud_find_device_opened_content">Encuentre su dispositivo en %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_first_login_summary">
-  </string>
-  <string name="micloud_first_login_title">
-  </string>
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Se guardará una copia de seguridad en la nube de todas sus fotos, videos, notas y aplicacioness. 
 
 De esta forma, si pierde o se daña su dispositivo, sus datos seguirán a salvo. 
@@ -328,7 +326,7 @@ Pulse el botón Ajustes para más opciones."</string>
   <string name="micloud_space_applist_title">Gestionar apps</string>
   <string name="micloud_space_duokan_detail">Descargar y gestionar libros electrónicos con la aplicación Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence">&amp;#191;Qu&amp;#233; sucede si me quedo sin espacio?</string>
+  <string name="micloud_space_full_influence"><u>&amp;#191;Qu&amp;#233; sucede si me quedo sin espacio?</u></string>
   <string name="micloud_space_soundrecorder_detail">Gestión de grabaciones almacenadas en el dispositivo</string>
   <string name="micloud_space_soundrecorder_title">Grabaciones</string>
   <string name="micloud_storage">Almacenamiento</string>
@@ -346,8 +344,7 @@ Pulse el botón Ajustes para más opciones."</string>
  %s usados | %s restantes"</string>
   <string name="micloud_title_dspt_remain">%s restantes</string>
   <string name="micloud_title_full_dspt">¡Ha agotado su espacio de almacenamiento!</string>
-  <string name="micloud_unlogin_for_time_summary">
-  </string>
+  <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_member">Obtener más espacio de almacenamiento</string>
   <string name="micloud_upgrade_space">Conseguir más espacio de almacenamiento</string>
@@ -365,7 +362,7 @@ Pulse el botón Ajustes para más opciones."</string>
   <string name="microsoft_cloud">Servicio de Microsoft Cloud</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
-  <string name="more_activity_in_upgrade_space">Más información en http://i.mi.com</string>
+  <string name="more_activity_in_upgrade_space">Más información en <a href="http://i.mi.com">http://i.mi.com</a></string>
   <string name="mx_dspt">Mensaje Mi</string>
   <string name="mx_dspt_provision">"Mensajes Mi le permite enviar mensajes a otros dispositivos MIUI sin gastos cuando se conecte a una red Wi-Fi.
 
