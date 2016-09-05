@@ -237,7 +237,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="download_completed">Descargado</string>
   <string name="download_default_path_txt">Recordar esta elección</string>
   <string name="download_dialog_default_path_invalid">La ruta de descarga no es válida. Se utilizará la ruta de descarga predeterminada en su lugar.</string>
-  <string name="download_dialog_file_length_hint_txt">"Tamaño del archivo :"</string>
+  <string name="download_dialog_file_length_hint_txt">"Tamaño :"</string>
   <string name="download_dialog_file_length_lessthan1kb">menos de 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">"No se pudo descargar"</string>
   <string name="download_dialog_file_length_nolength_txt">Descargando…</string>
@@ -246,10 +246,10 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Aplicaciones</string>
   <string name="download_filter_audio">Música</string>
-  <string name="download_filter_image">Fotos</string>
+  <string name="download_filter_image">Foto</string>
   <string name="download_filter_others">Otros</string>
-  <string name="download_filter_text">Ficheros</string>
-  <string name="download_filter_video">Vídeos</string>
+  <string name="download_filter_text">Archivo</string>
+  <string name="download_filter_video">Vídeo</string>
   <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">Descargando…</string>
   <string name="download_list_open_xl_ok">Aceptar</string>
@@ -630,7 +630,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="same_folder_name_warning">Ya existe una carpeta con el mismo nombre</string>
   <string name="save_button_text">Guardar</string>
   <string name="save_dialog_title">Guardar</string>
-  <string name="save_file">Guardando el archivo %s</string>
+  <string name="save_file">Descargar %s</string>
   <string name="save_file_already_exist_alert_message">Ya existe un archivo con el mismo nombre, ¿quieres sobrescribirlo?</string>
   <string name="save_file_already_exist_alert_title">¿Sobrescribir archivo?</string>
   <string name="save_form_data_confirm_message">Apagar esta característica puede afectar al uso.</string>
