@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abort_backup_confirm">La copia de seguridad no ha terminado aún. ¿Detener el proceso?</string>
+  <string name="abort_backup_confirm">"La copia de seguridad no ha terminado aún. ¿Deseas detener el proceso?"</string>
+  <string name="abort_restore_confirm">"No se ha terminado de restaurar aún. ¿Deseas detener el proceso?"</string>
   <string name="account_contact_backup_info">Datos de cuenta Google, Mi y los contactos</string>
   <string name="account_login">Iniciar sesión</string>
   <string name="account_summary">Copia de seguridad de cuenta Google, Mi y otros datos de usuario</string>
