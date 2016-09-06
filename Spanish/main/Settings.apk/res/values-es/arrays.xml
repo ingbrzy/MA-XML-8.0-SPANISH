@@ -601,6 +601,16 @@
         <item>1,5 segundos</item>
         <item>2 segundos</item>
     </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>Ninguno</item>
+        <item>Street-snap(necesitas seleccionarlo en la cámara)</item>
+        <item>Atajos en transporte público</item>
+    </string-array>
+        <string-array name="long_press_volume_down_action_value">
+        <item>ninguno</item>
+        <item>Street-snap</item>
+        <item>public_transportation_shortcuts</item>
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
         <item>2 segundos</item>
