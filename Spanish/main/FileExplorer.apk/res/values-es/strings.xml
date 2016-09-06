@@ -86,9 +86,9 @@
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Archivos</string>
   <string name="change_mobile_network_message">El uso de datos móviles para transferir archivos puede generar cargos adicionales.</string>
-  <string name="change_sticker">Choose another sticker</string>
-  <string name="choose_report_comment_reason">Por qué estás reportando este comentario?</string>
-  <string name="choose_report_reason">Por qué estás reportando este vídeo?</string>
+  <string name="change_sticker">Elige otra pegatina</string>
+  <string name="choose_report_comment_reason">¿Por qué estás reportando este comentario?</string>
+  <string name="choose_report_reason">¿Por qué estás reportando este vídeo?</string>
   <string name="choose_send_type">Seleccione un método</string>
   <string name="choose_upload_location">Subir archivos a la carpeta KuaiPan</string>
   <string name="clean_hint">Tocar para liberar espacio</string>
@@ -162,7 +162,7 @@
   <string name="delete_video_dialog_title">Borrar video</string>
   <string name="delete_video_success">Eliminado con éxito</string>
   <string name="des_running_trans">%1$d archivo(s) no han sido transferidos.</string>
-  <string name="dialog_logout_message">Cerrar sesión ahora?</string>
+  <string name="dialog_logout_message">¿Cerrar sesión ahora?</string>
   <string name="dialog_logout_title">Cerrar sesión</string>
   <string name="dialog_select_type">Elegir tipo</string>
   <string name="dialog_type_audio">Audio</string>
@@ -198,7 +198,7 @@
   <string name="encrypt_error">Error al encriptar archivos, intente de nuevo</string>
   <string name="encrypt_prefix">ENCRIPTADO</string>
   <string name="encrypt_success">Encriptados correctamente</string>
-  <string name="encrypt_success_first_five">Encriptado y ocultado. Tira hacia abajo en la pantalla de inicio del Explorador para ver los archivos.</string>
+  <string name="encrypt_success_first_five">Encriptado y ocultado. Deslice hacia abajo en la pantalla de inicio del Explorador para ver los archivos.</string>
   <string name="encrypting">Encriptando…</string>
   <string name="error_contains_sharer_path">No se puede encriptar archivos en la carpeta /MIUI/Gallery/cloud/sharer. Muévalos a otro sitio e intente de nuevo.</string>
   <string name="error_filename_too_long">El nombre de archivo introducido es demasiado largo.</string>
@@ -348,7 +348,7 @@ Nuestro servidor está caído. Por favor, inténtelo más tarde…
   <string name="menu_item_usb">USB</string>
   <string name="menu_list_name">Menú</string>
   <string name="message_comment_prefix">"Comentario: "</string>
-  <string name="message_my_received_praise">Mis me gusta</string>
+  <string name="message_my_received_praise">Me gusta</string>
   <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" le ha gustado este comentario"</string>
   <string name="message_praise_video">" le ha gustado este vídeo"</string>
@@ -438,7 +438,7 @@ Nuestro servidor está caído. Por favor, inténtelo más tarde…
   <string name="new_comments">Nuevos comentarios</string>
   <string name="new_folder_name">Carpeta sin nombre</string>
   <string name="new_function">Carpetas ocultas</string>
-  <string name="new_function_info">Para crear una carpeta oculta, tira hasta el final de la pantalla desde la primera fila de iconos de la página de inicio del explorador de archivos.</string>
+  <string name="new_function_info">Para crear una carpeta oculta, deslice hasta el final de la pantalla desde la primera fila de iconos de la página de inicio del explorador de archivos.</string>
   <string name="new_function_str">"Las pegatinas de WeChat pueden recogerse automáticamente ahora.
 Descárgalas cuando quieras
 y no te pierdas nunca las más nuevas y mejores"</string>
@@ -596,7 +596,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="private_folder_update">Actualizando archivos ocultos…</string>
   <string name="private_toast_hint1">Toca para añadir archivos a carpetas ocultas</string>
   <string name="private_toast_hint2">Para ocultar un archivo, pulsa y mantén, después añádelo a una carpeta oculta.</string>
-  <string name="private_toast_hint3">Tira para abrir las carpetas ocultas</string>
+  <string name="private_toast_hint3">Deslice para abrir las carpetas ocultas</string>
   <string name="promot_enctypt_password">Introduce la contraseña utilizada para desbloquear tu dispositivo o apagar el Modo niño</string>
   <string name="pull_to_signin">Deslizar hacia abajo para registrarte.</string>
   <string name="qq_not_installed">QQ no está instalado</string>
@@ -632,8 +632,8 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="rlv_last_loading_time">Última actualización: %1$s</string>
   <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
   <string name="rlv_loading_more">Un momento…</string>
-  <string name="rlv_pull_to_close">Tire hacia abajo para cerrar</string>
-  <string name="rlv_pull_to_refresh">Tire hacia abajo para recargar</string>
+  <string name="rlv_pull_to_close">Deslice hacia abajo para cerrar</string>
+  <string name="rlv_pull_to_refresh">Deslice hacia abajo para recargar</string>
   <string name="rlv_refreshing">Escaneando archivos…</string>
   <string name="rlv_release_to_close">Suelte para cerrar</string>
   <string name="rlv_release_to_refresh">Suelte para recargar</string>
