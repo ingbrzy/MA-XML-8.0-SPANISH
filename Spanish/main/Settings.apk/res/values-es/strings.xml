@@ -4120,10 +4120,15 @@ Seleccione su sistema operativo:"</string>
     <string name="line_breaking_title">Optimizar texto</string>
     <string name="line_breaking_summary">Optimizar los saltos de línea del párrafo</string>
     <string name="nfc_se_route_title">Posición de elemento seguro</string>
+    <string name="nfc_se_wallet_title">Monedero por defecto</string>
     <string name="se_route_ese">Elemento seguro incorporado</string>
     <string name="se_route_uicc">Elemento seguro en la SIM</string>
+    <string name="se_wallet_ese">Mi Wallet te permite usar Mi Pay y usa tu teléfono como una tarjeta de transportes.</string>
+    <string name="se_wallet_hce">Usa HCE Wallet</string>
     <string name="current_use_uicc_se">Usando elemento seguro en la SIM</string>
     <string name="current_use_ese">Usar elemento seguro incorporado</string>
+    <string name="current_use_ese_wallet">"Estás usando Mi Wallet. Te permite usar Mi Pay y usa tu teléfono como una tarjeta de transportes."</string>
+    <string name="current_use_hce_wallet">"Estás usando HCE Wallet"</string>
     <string name="open_wifi_connect_title">Conectar con %1$s</string>
     <string name="open_wifi_connect_summary">Pulse para ver los detalles.</string>
     <string name="free_wifi_summary">Pulse para conectar a %1$s.</string>
