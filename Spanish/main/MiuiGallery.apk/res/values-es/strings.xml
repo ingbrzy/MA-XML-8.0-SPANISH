@@ -138,6 +138,7 @@
     <string name="contrast_abbr">C</string>
     <string name="limit_height">La altura debe ser > 0</string>
     <string name="limit_width">El ancho debe ser > 0</string>
+    <string name="loading_dual_tip">Cargando foto dual...</string>
     <string name="app_name">Galería</string>
     <string name="home_page_label">Fotos</string>
     <string name="album_page_label">Álbumes</string>
@@ -257,6 +258,7 @@
     <string name="cancel_baby_lock_wallpaper_confirm_msg">¿Cambiar al fondo por defecto de la pantalla de bloqueo?</string>
     <string name="baby_lock_wallpaper_cancelled">Se cambió al fondo por defecto de la pantalla de bloqueo</string>
     <string name="set_as_baby_lock_wallpaper">Establecer como fondo de pantalla de bloqueo</string>
+    
     <string name="edit_baby_info">Ver información del bebé</string>
     <string name="invite_tip">Compartir sus fotos de bebé</string>
     <string name="relation_text_father">Padre</string>
@@ -319,6 +321,7 @@
     <string name="release_space_finish_format">Se liberó %s de almacenamiento local</string>
     <string name="return_from_clear_local_file_fragment_toast">En el dispositivo se guardan las fotos optimizadas. Pulse sobre una foto para descargar el original de Mi Cloud.</string>
     <string name="app_name_view_picture">Ver fotos</string>
+    <string name="app_name_view_video">Ver videos</string>
     <string name="video_err">No se puede reproducir el vídeo</string>
     <string name="exit_video_play">Salir</string>
     <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
@@ -419,8 +422,9 @@
     <string name="loading_fail_sync_off_message">No se pudieron cargar las fotos, la sincronización con Mi Cloud está desactivada.</string>
     <string name="turn_on_sync">Activar sincronización</string>
     <string name="download_canceled">Descarga cancelada</string>
-    <string name="set_as_wallpaper_title">Establecer como fondo de pantalla</string>
-    <string name="set_as_wallpaper_description">This image is a thumbnail, download the original？</string>
+    <string name="set_as_wallpaper_title">Establecer como fondo</string>
+    <string name="set_as_wallpaper_description">Esta imagen es una miniatura. ¿Descargar la originial？</string>
+    <string name="set_as_wallpaper_title">Establecer como fondo</string>
     <string name="must_pick_file">Seleccionar foto</string>
     <string name="send_multiple_files_hint_format">Enviar (%s)</string>
     <string name="send_too_many_files_error">No es posible enviar más de %d elementos a vez</string>
@@ -439,6 +443,7 @@
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_capture_location">Ubicación:</string>
     <string name="detail_title">Info. detallada</string>
+    <string name="disable_auto_upload_tip">"Fotos nuevas y eliminadas no serán sincronizadas Mi Cloud. Este albúm será movido a otros álbumes."</string>
     <string name="tip_screenshot_package_info">Nombre de la aplicación:</string>
     <string name="tip_not_download">No se encuentra en el dispositivo. Se descargará de Mi Cloud mientras se reproduce.</string>
     <string name="flash_on">Flash activado</string>
@@ -492,6 +497,7 @@
     <string name="context_menu_copy">Copiar</string>
     <string name="try_to_send">Enviar</string>
     <string name="email_picker_title">Add shared Email</string>
+    <string name="enable_auto_upload_tip">Este álbum será eliminado de otros álbumes una vez lo actives.</string>
     <string name="request_sms_url_failed">No se pudo obtener info</string>
     <string name="request_sms_url_title">Sugerencia</string>
     <string name="request_sms_url_msg">Solicitando info…</string>
