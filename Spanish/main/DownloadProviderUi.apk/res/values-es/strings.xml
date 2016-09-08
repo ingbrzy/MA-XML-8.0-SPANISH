@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Only_the_wifi">Utilizar sólo WLAN</string>
+  <string name="Only_the_wifi">Utilizar sólo Wi-Fi</string>
   <string name="about">Acerca de</string>
   <string name="action_settings">Ajustes</string>
   <string name="ad_mark">AD</string>
-  <string name="ad_title">La gente también descargó estos con %1$s </string>
+  <string name="ad_title">La gente también descargó esto con %1$s </string>
   <string name="ad_title_other">Con esta imagen la gente también descargó</string>
   <string name="add_flow_fail_haveget_msg">El periodo de prueba ha terminado.</string>
   <string name="add_flow_fail_vip_msg">El acelerador de descargas Xunlei está activado</string>
@@ -53,8 +53,8 @@
   <string name="dialog_insufficient_space_on_cache">No se puede finalizar la descarga. No hay suficiente espacio en el almacenamiento interno de descarga.</string>
   <string name="dialog_insufficient_space_on_external">No se puede finalizar la descarga. No hay suficiente espacio en el almacenamiento externo.</string>
   <string name="dialog_media_not_found">No se puede descargar. Los medios externos no están disponibles.</string>
-  <string name="dialog_msg_disabled_net">%1$s descargas restringidas para la red actual. Toca Ajustes de red para ir a la aplicación Seguridad.</string>
-  <string name="dialog_msg_recommend">"No podrás ver fuentes recomendadas después de que apagues. Puedes elegir \"Cargar cuando haya conexión a WLAN\" para ahorrar datos móviles."</string>
+  <string name="dialog_msg_disabled_net">%1$s descargas restringidas para la red actual. Toca Ajustes de red para ir a la aplicación de Seguridad.</string>
+  <string name="dialog_msg_recommend">"No podrás ver fuentes recomendadas después de que apagues. Puedes elegir \"Cargar cuando haya conexión a Wi-Fi\" para ahorrar datos móviles."</string>
   <string name="dialog_queued_body">Este archivo se pone en cola para descargar más tarde</string>
   <string name="dialog_title_not_available">Descarga fallida</string>
   <string name="dialog_title_queued_body">El archivo todavía no está disponible</string>
@@ -129,7 +129,7 @@
   <string name="hint">Atención</string>
   <string name="home_page_new_download_guide">Las nuevas descargas vienen aquí</string>
   <string name="immediately_a_renewal">Renueve su suscripción ahora</string>
-  <string name="info_flow_only_load_wifi">Cargar cuando haya conexión a WLAN</string>
+  <string name="info_flow_only_load_wifi">Cargar cuando haya conexión a Wi-Fi</string>
   <string name="info_flow_setting">Ajustes</string>
   <string name="info_flow_show">Fuentes recomendadas</string>
   <string name="input_valid_address">Introduce ruta de archivo</string>
@@ -167,7 +167,7 @@
   <string name="notify_install_guide_msg">Instalado con éxito</string>
   <string name="notify_install_guide_title">Instalado %s con éxito</string>
   <string name="notify_not_support">"Notificaciones no soportadas, actualice ahora"</string>
-  <string name="notify_only_wifi_download">Esperando a WLAN</string>
+  <string name="notify_only_wifi_download">Esperando a Wi-Fi</string>
   <string name="one_month">1 mes</string>
   <string name="only_support_torrent">Solo están soportados los ficheros torrent</string>
   <string name="open">Abierta</string>
@@ -191,9 +191,9 @@
   <string name="pref_download_settings_title">Límite de tamaño de descarga</string>
   <string name="pref_download_storage_path">Crear una nueva carpeta para descargas</string>
   <string name="pref_sniff_shortcut">Crear acceso directo</string>
-  <string name="pref_summary_any_bytes_popup">Descargar archivos sólo mediante conexión WLAN</string>
+  <string name="pref_summary_any_bytes_popup">Descargar archivos sólo mediante conexión Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se usen datos móviles para descargar contenido</string>
-  <string name="pref_summary_max_bytes_limit_format">Descargar por WLAN si el tamaño excede de %s</string>
+  <string name="pref_summary_max_bytes_limit_format">Descargar por Wi-Fi si el tamaño excede de %s</string>
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar advertencia de uso de datos</string>
   <string name="preferences_title">Ajustes</string>
@@ -253,7 +253,7 @@
   <string name="third_web_title">Descargar</string>
   <string name="title_tips">Atención</string>
   <string name="title_unbind_xunlei">Quitar tu cuenta Xunlei</string>
-  <string name="toast_only_wifi_download">Conecat a WLAN para descargar este elemento</string>
+  <string name="toast_only_wifi_download">Conectar a Wi-Fi para descargar este elemento</string>
   <string name="toast_xunlei_engine_open">Se ha activado el acelerador de descargas Xunlei</string>
   <string name="torrent_file_error">No se pudo parsear el fichero torrent</string>
   <string name="torrent_no_subfile">Este torrent no tiene subficheros</string>
