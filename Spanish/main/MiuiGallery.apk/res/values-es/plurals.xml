@@ -53,16 +53,16 @@
         <item quantity="one">No se pudo descargar la foto, ¿intentar de nuevo?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos, connect to the network and try try again"</item>
-        <item quantity="one">"Couldn't download photo, connect to the network and try try again"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos, conéctese a la red y vuelva a intentarlo"</item>
+        <item quantity="one">"No se pudo descargar la foto, conéctese a la red y vuelva a intentarlo"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">No se pudo descargar %1$d fotos (%2$dMB), ¿intentar de nuevo?</item>
         <item quantity="one">No se pudo descargar la foto (%2$dMB), ¿intentar de nuevo?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), connect to the network and try try again"</item>
-        <item quantity="one">"Couldn't download photo (%2$dMB), connect to the network and try try again"</item>
+        <item quantity="other">"No se pudo descargar %1$d fotos (%2$dMB), conéctese a la red y vuelva a intentarlo"</item>
+        <item quantity="one">"No se pudo descargar la foto (%2$dMB), conéctese a la red y vuelva a intentarlo"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">¿Cancelar la descarga de las %d fotos restantes?</item>
@@ -81,8 +81,8 @@
         <item quantity="one">¿Eliminar este vídeo %2$s?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">¿Eliminar %1$d ítems %2$s?</item>
-        <item quantity="one">¿Eliminar %1$d ítem %2$s?</item>
+        <item quantity="other">¿Eliminar %1$d elementos %2$s?</item>
+        <item quantity="one">¿Eliminar %1$d elemento %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d elementos)</item>
@@ -93,8 +93,8 @@
         <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d ítems | %2$s</item>
-        <item quantity="one">%1$d ítem | %2$s</item>
+        <item quantity="other">%1$d elementos | %2$s</item>
+        <item quantity="one">%1$d elemento | %2$s</item>
     </plurals>
     <plurals name="backuped">
         <item quantity="other">%1$d elementos respaldados</item>
@@ -129,8 +129,8 @@
         <item quantity="one">1 vídeo a la espera de ser respaldado</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d ítems a la espera de ser respaldados</item>
-        <item quantity="one">1 ítem a la espera de ser respaldado</item>
+        <item quantity="other">%1$d elementos a la espera de ser respaldados</item>
+        <item quantity="one">1 elemento a la espera de ser respaldado</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Respaldando %1$d fotos…</item>
@@ -141,8 +141,8 @@
         <item quantity="one">Respaldando vídeo…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Respaldando %1$d ítems…</item>
-        <item quantity="one">Respaldando 1 ítem…</item>
+        <item quantity="other">Respaldando %1$d elementos…</item>
+        <item quantity="one">Respaldando 1 elemento…</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">No se pudo descargar %1$d elementos</item>
