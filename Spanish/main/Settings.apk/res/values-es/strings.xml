@@ -3237,7 +3237,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="search_pref_volume_wake_title">Encender con botones de volumen;botones de volumen</string>
     <string name="search_screen_on_proximity_sensor_title">Evitar llamadas en el bolsillo;Bolsillo;Marcación en el bolsillo;Llamadas en el bolsillo</string>
     <string name="search_second_space">Segundo espacio</string>
-    <string name="search_xspace">Aplicaciones duales;Clonar aplicaciones</string>
+    <string name="search_xspace">Aplicaciones duplicadas;Duplicar aplicaciones</string>
     <string name="search_do_not_disturb">No molestar</string>
     <string name="search_dndm_auto_time_setting">Establecer hora;DND</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Excepciones;Lista de aprobadas;Lista de aprobadas</string>
@@ -3415,7 +3415,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="path_pref_volume_wake_title">Ajustes/Pantalla de bloqueo y contraseña/Encender con los botones de volumen</string>
     <string name="path_screen_on_proximity_sensor_title">Ajustes/Pantalla de bloqueo y contraseña/Prevenir llamadas en el bolsillo</string>
     <string name="path_second_space">Ajustes/Segundo espacio</string>
-    <string name="path_xspace">Ajustes/Aplicaciones duales</string>
+    <string name="path_xspace">Ajustes/Aplicaciones duplicadas</string>
     <string name="path_do_not_disturb_settings">Ajustes/No molestar</string>
     <string name="path_dndm_auto_time_setting">Ajustes/No molestar/Establecer la hora</string>
     <string name="path_dndm_wristband">Ajustes/No molestar/Activar con Mi Banda</string>
@@ -3649,7 +3649,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="wifi_tether_settings_title">Punto de acceso personal</string>
     <string name="lock_settings">Pantalla de bloqueo y contraseña</string>
     <string name="second_space">Segundo espacio</string>
-    <string name="xspace">Aplicaciones duales</string>
+    <string name="xspace">Aplicaciones duplicadas</string>
     <string name="call_settings_primary_user_only">Cambie los ajustes de llamada en su Primer espacio</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
     <string name="lock_settings_picker_settings">Establecer bloqueo de pantalla</string>
@@ -4590,11 +4590,11 @@ Seleccione su sistema operativo:"</string>
     <string name="power_optimize">Economizador de batería</string>
     <string name="power_checker">Verificador de energía</string>
     <string name="app_invisible">Aplicación invisible</string>
-    <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicación dual?</string>
-    <string name="uninstall_xspace_app_dlg_msg">Al desinstalar una aplicación dual se eliminarán todos los datos de la aplicación.</string>
+    <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicación duplicada?</string>
+    <string name="uninstall_xspace_app_dlg_msg">Al desinstalar una aplicación duplicada se eliminarán todos los datos de la aplicación.</string>
     <string name="uninstall_dlg_title">¿Desinstalar ahora?</string>
     <string name="uninstall_dlg_msg">Al desinstalar borrará todos los datos de las aplicaciones.</string>
-    <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duales correspondientes se eliminarán junto a los datos de la aplicación.</string>
+    <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duplicadas correspondientes se eliminarán junto a los datos de la aplicación.</string>
     <string name="mqsas_settings_category">MQSAS</string>
     <string name="record_anr_in_background">Grabar casos de ANR en segundo plano</string>
     <string name="anr_record_interval_title">Grabar intervalos entre ANR</string>
