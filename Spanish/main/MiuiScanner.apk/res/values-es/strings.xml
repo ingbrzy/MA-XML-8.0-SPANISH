@@ -129,6 +129,15 @@
   <string name="preparing_sd">Preparación de almacenamiento interno…</string>
   <string name="previous">Atrás</string>
   <string name="qr_code_details">Detalles del código QR:</string>
+  <string name="recognition_error_download_cancel">Más tarde</string>
+  <string name="recognition_error_download_data_msg">Para escanear tarjetas necesitas descargar el motor de reconocimiento, cuyo tamaño es de 15MB, está usando los datos, si lo desea descargar</string>
+  <string name="recognition_error_download_fail">Error al descargar el motor de reconocimiento</string>
+  <string name="recognition_error_download_msg">Para escanear tarjetas necesitas descargar el motor de reconocimiento, cuyo tamaño es de 15MB</string>
+  <string name="recognition_error_download_no_network">Descarga fallida.Por favor compruebe la configuración de red，y la conexión</string>
+ <string name="recognition_error_download_ok">Descargar</string>
+ <string name="recognition_error_download_success">Motor de reconocimiento descargado correctamente</string>
+ <string name="recognition_error_download_title">Es necesario el motor de reconocimiento</string>
+ <string name="recognition_error_downloading">Descargando motor de reconocimiento...</string>
   <string name="recognize">Escanear</string>
   <string name="recognize_fail">No se pudo leer el código</string>
   <string name="scan_fail">No se pudo escanear el código</string>
