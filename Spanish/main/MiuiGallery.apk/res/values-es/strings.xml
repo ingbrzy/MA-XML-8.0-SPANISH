@@ -138,7 +138,7 @@
     <string name="contrast_abbr">C</string>
     <string name="limit_height">La altura debe ser > 0</string>
     <string name="limit_width">El ancho debe ser > 0</string>
-    <string name="loading_dual_tip">Cargando doble foto...</string>
+    <string name="loading_dual_tip">Cargando doble foto…</string>
     <string name="app_name">Galería</string>
     <string name="home_page_label">Fotos</string>
     <string name="album_page_label">Álbumes</string>
@@ -325,7 +325,7 @@
     <string name="video_err">No se puede reproducir el vídeo</string>
     <string name="exit_video_play">Salir</string>
     <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
-    <string name="picker_title_format">Fotos seleccionadas: %d</string>
+    <string name="picker_title_format">Puede seleccionar %d fotos</string>
     <string name="picker_title_unlimit">Seleccionar fotos</string>
     <string name="picker_full_format">Puedes seleccionar hasta %d fotos</string>
     <string name="picker_image_need_download">%d de las fotos seleccionadas no están el dispositivo. ¿Deseas descargarlas usando datos móviles?</string>
@@ -396,7 +396,10 @@
     <string name="loading_suspend">Descarga en pausa. Se descargará cuando esté conectado por Wi-Fi.</string>
     <string name="loading_fail_sync_off">Active la sincronización con Mi Cloud para descargar</string>
     <string name="loading_fail">No se pudo descargar</string>
+    <string name="image_decode_failed">No se puede decodificar la imagen</string>
     <string name="image_download_item_title">Descargar foto (%s)</string>
+    <string name="image_invalid_path">Ruta inválida</string>
+    <string name="image_not_found">No se puede encontrar la imagen</string>
     <string name="download_without_wifi_title">Aviso de uso de datos</string>
     <string name="download_without_wifi_msg">Usar su conexión de datos para descargar fotos aumentará su consumo de datos. Si supera el límite de su plan de datos, su operadora podría cobrarle gastos adicionales.</string>
     <string name="confirm_download_video_title">Descargar vídeo</string>
@@ -585,8 +588,8 @@
     <string name="retry_to_request_qr_code">Intente de nuevo</string>
     <string name="retry_to_create_album">Intente de nuevo</string>
     <string name="gallery_setting">Ajustes</string>
-    <string name="cloud_settings">Mi Cloud</string>
-    <string name="backup_automatically_title">Copia de seguridad y sincronizar automáticamente</string>
+    <string name="cloud_settings">Copias de seguridad de la Galería</string>
+    <string name="backup_automatically_title">Copia de seguridad automáticamente</string>
     <string name="backup_automatically_summary">Respaldar las fotos y vídeos en todos los dispositivos conectados a Mi Cloud. Puede buscar, clasificar, editar y compartir fotos y vídeos en todos sus dispositivos.</string>
     <string name="backup_only_in_wifi">Realizar copias de seguridad de las fotos y vídeos solo a través de Wi-Fi</string>
     <string name="backup_only_in_wifi_summary">Nunca usar datos móviles para realizar copias de seguridad de las fotos o vídeos</string>
@@ -672,7 +675,7 @@
     <string name="delete_from_devices">Todos los dispositivos sincronizados</string>
     <string name="delete_from_devices_album">Todos los dispositivos con los que se sincroniza este álbum</string>
     <string name="delete_to_trash_tips">Puede ver las fotos eliminadas recientemente en Ajustes y Papelera</string>
-    <string name="delete_from_cloud">Elementos eliminados del álbum en la nube</string>
+    <string name="delete_from_cloud">Elementos eliminados de Mi Cloud</string>
     <string name="download_title">Preparando archivos…</string>
     <string name="download_retry_title">No se pudo descargar los archivos</string>
     <string name="download_retry_message">No se pudo descargar los archivos, comprueba la conexión de red y vuelve a intentarlo</string>
