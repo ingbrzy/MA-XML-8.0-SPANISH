@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="group_name_translate">
-        <item>Predeterminado</item>
+        <item>Por defecto</item>
         <item>Modo oculto</item>
         <item>Modo lectura</item>
-        <item>Modo medios</item>
+        <item>Modo multimedia</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>La app se está ejecutando en primer plano</item>
-        <item>Pantalla encendida</item>
+        <item>Aplicación ejecutándose en primer plano</item>
+        <item>Pantalla activada</item>
         <item>Pantalla desactivada</item>
-        <item>Apagar pantalla después de 10 minutos</item>
+        <item>Pantalla desactivada durante 10 minutos</item>
         <item>Pantalla completa</item>
         <item>Salir de pantalla completa</item>
-        <item>La app se está ejecutando en segundo plano</item>
+        <item>Aplicación ejecutándose en segundo plano</item>
         <item>El teléfono se está cargando</item>
-        <item>Teléfono no se está cargando</item>
+        <item>El teléfono no se está cargando</item>
         <item>El teléfono está inactivo</item>
     </string-array>
     <string-array name="action_name_translate">
-        <item>Brillo máximo de pantalla</item>
-        <item>Frecuencia máxima de la CPU</item>
+        <item>Brillo máximo en pantalla</item>
+        <item>Frecuencia Máx CPU</item>
         <item>Modo de pantalla</item>
         <item>Uso de CPU</item>
         <item>Conexión de datos</item>
@@ -30,23 +30,23 @@
         <item>Restringir conexiones de datos en segundo plano</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Nada</item>
-        <item>Predeterminado</item>
+        <item>Ninguno</item>
+        <item>Por defecto</item>
         <item>Imagen</item>
         <item>Película</item>
         <item>Ahorro de batería</item>
-        <item>Balanceado</item>
+        <item>Balance</item>
         <item>Rendimiento</item>
         <item>Activado</item>
         <item>Desactivado</item>
         <item>Inmediatamente</item>
-        <item>Después de 10 minutos</item>
-        <item>Después de 30 minutos</item>
-        <item>Cuando la pantalla está apagada</item>
+        <item>Después de 10 min</item>
+        <item>Después de 30 min</item>
+        <item>Cuando la pantalla esté apagada</item>
     </string-array>
     <string-array name="app_groups">
         <item>En este modo</item>
-        <item>Sin seleccionar</item>
+        <item>No seleccionado</item>
         <item>Seleccionado en otros modos</item>
     </string-array>
     <string-array name="hmode_app_groups">
@@ -56,11 +56,11 @@
     <string-array name="power_checker_group_prefix">
         <item>Ahora</item>
         <item>Segundo plano</item>
-        <item>Reciente</item>
+        <item>Recientemente</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
         <item>Bloqueando el modo dormir profundo</item>
-        <item>Bloqueando el Modo dormir</item>
+        <item>Bloqueando el modo dormir</item>
         <item>Buscando Wi-Fi</item>
         <item>Usando el GPS</item>
         <item>Ocupando CPU</item>
@@ -69,7 +69,7 @@
     <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
         <item>WakeLock</item>
-        <item>Escaneo de Wi -Fi</item>
+        <item>Escaneo WIFI</item>
         <item>GPS</item>
         <item>CPU</item>
         <item>Despertar</item>
