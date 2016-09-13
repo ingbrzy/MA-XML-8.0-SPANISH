@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MiPlay</string>
+  <string name="app_name">Mi Play</string>
   <string name="cancel">Cancelar</string>
   <string name="enable_wifi_btn">Activar</string>
-  <string name="enable_wifi_message">Activar Wi-FI para utilizar la búsqueda y conectar los dispositivos cercanos.</string>
-  <string name="enable_wifi_title">Activar Wi-FI</string>
+  <string name="enable_wifi_message">Activar Wi-Fi para utilizar la búsqueda y conectar los dispositivos cercanos.</string>
+  <string name="enable_wifi_title">Activar Wi-Fi</string>
   <string name="media_feature_projection">Mirror screen</string>
   <string name="media_status_error">Error</string>
   <string name="media_status_started">Conectado</string>
@@ -21,7 +21,7 @@
   <string name="wifi_display_enable_menu_item">Activar pantalla inalámbrica</string>
   <string name="wifi_display_listen_channel">Buscar canales</string>
   <string name="wifi_display_listen_mode">Habilitar el modo busqueda</string>
-  <string name="wifi_display_no_devices_found">No se encontraron dispositivos cercanos.</string>
+  <string name="wifi_display_no_devices_found">"No se encontraron dispositivos cercanos."</string>
   <string name="wifi_display_operating_channel">Operating channel</string>
   <string name="wifi_display_options_done">Hecho</string>
   <string name="wifi_display_options_forget">Olvidar</string>
