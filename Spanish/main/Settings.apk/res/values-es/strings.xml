@@ -977,14 +977,14 @@ Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al
     <string name="screen_timeout_title">Modo inactivo</string>
     <string name="screen_timeout_summary">%1$s de inactividad</string>
     <string name="wallpaper_settings_title">Fondo de pantalla</string>
-    <string name="wallpaper_settings_fragment_title">Elige una categoría</string>
+    <string name="wallpaper_settings_fragment_title">Elija una categoría</string>
     <string name="screensaver_settings_title">Salvapantallas</string>
     <string name="screensaver_settings_summary_either_long">Con el dispositivo en un dock o inactivo y cargando</string>
     <string name="screensaver_settings_summary_either_short">Ambos casos</string>
     <string name="screensaver_settings_summary_sleep">Durante la carga</string>
     <string name="screensaver_settings_summary_dock">Con el dispositivo en un dock</string>
     <string name="screensaver_settings_summary_off">No</string>
-    <string name="screensaver_settings_disabled_prompt">Para controlar lo que ocurre cuando el teléfono está en un dock o inactivo, debes activar el salvapantallas.</string>
+    <string name="screensaver_settings_disabled_prompt">Para controlar lo que ocurre cuando el teléfono está en un dock o inactivo, debe activar el salvapantallas.</string>
     <string name="screensaver_settings_when_to_dream">Cuándo activarlo</string>
     <string name="screensaver_settings_dream_start">Iniciar ahora</string>
     <string name="screensaver_settings_button">Ajustes</string>
@@ -3677,7 +3677,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="breathing_light_freq_summary">Pulsar cuando tenga nuevas notificaciones</string>
     <string name="led_settings">Luz de notificación</string>
     <string name="led_colors_summary">Notificaciones</string>
-    <string name="led_frequence_summary">Establecer el intervalo de pulso</string>
+    <string name="led_frequence_summary">Establecer el intervalo del pulso</string>
     <string name="led_pulse_summary">Encender luz de notificación cuando se reciban nuevas notificaciones</string>
     <string name="show_rounded_corners">Mostrar esquinas redondeadas</string>
     <string name="pref_operational_key">Botones de navegación</string>
