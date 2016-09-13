@@ -45,7 +45,7 @@
   <string name="antispam_notification_title">Número desconocido</string>
   <string name="antispam_setting">Lista de bloqueos</string>
   <string name="apn_settings">APN</string>
-  <string name="area_code_preference_be_set_summary">Current location: %s</string>
+  <string name="area_code_preference_be_set_summary">Ubicación actual: %s</string>
   <string name="area_code_preference_summary">Marcar el código de área automáticamente</string>
   <string name="areacode_set_default">Predeterminado</string>
   <string name="atr_disable">Los informes de tráfico están desactivados</string>
@@ -61,7 +61,7 @@
   <string name="auto_answer_delay_entries_delay_5s">5 segundos</string>
   <string name="auto_answer_delay_entries_immediately">Sin demora</string>
   <string name="auto_answer_delay_title">Demora de respuesta automática</string>
-  <string name="auto_answer_pref_summary">Automáticamente recoger llamadas entrantes</string>
+  <string name="auto_answer_pref_summary">Automáticamente aceptar llamadas entrantes</string>
   <string name="auto_answer_pref_title">Respuesta automática</string>
   <string name="auto_answer_scenario_enteries_always">Siempre</string>
   <string name="auto_answer_scenario_enteries_bluetooth_only">Sólo Bluetooth</string>
@@ -81,9 +81,9 @@
   <string name="autoip_areacode_required">Código de área requerida</string>
   <string name="autoip_areacode_required_accept">Aceptar</string>
   <string name="autoip_areacode_required_for_emergency_number">Código de área local requerido para llamadas de emergencia</string>
-  <string name="autoip_autoip_current_areacode_summary">\"El código de área actual es \"%s</string>
+  <string name="autoip_autoip_current_areacode_summary">El código de área actual es %s</string>
   <string name="autoip_current_areacode">Código de área actual</string>
-  <string name="autoip_current_areacode_summary">"Current location's area code"</string>
+  <string name="autoip_current_areacode_summary">"El código de área de la ubicación actual"</string>
   <string name="autoip_exception">Números que no necesitan prefijo IP</string>
   <string name="autoip_exception_summary">%d en total</string>
   <string name="autoip_exception_summary_more">, %d total</string>
@@ -147,9 +147,9 @@
   <string name="call_record_auto_whitelist_summary">%d números</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
   <string name="call_record_loading_content">Cargando…</string>
-  <string name="call_record_off_summary">Apagada</string>
-  <string name="call_record_on_summary">Las llamadas se grabarán automáticamente</string>
-  <string name="call_record_setting">Grabación de llamada</string>
+  <string name="call_record_off_summary">Apagado</string>
+  <string name="call_record_on_summary">Encendido</string>
+  <string name="call_record_setting">Grabación de llamadas</string>
   <string name="call_record_whitelist_custom">Números seleccionados</string>
   <string name="call_recording_notification_message">Toque para escuchar.</string>
   <string name="call_recording_notification_message_low_storage">La tarjeta SD está llena.</string>
@@ -158,7 +158,7 @@
   <string name="call_recording_notification_title">Llamada grabada</string>
   <string name="call_recording_notification_title_error">No se pudo grabar la llamada</string>
   <string name="call_recording_notification_toggle_title">Notificación de grabación de llamadas</string>
-  <string name="call_recording_setting">Grabación de llamada</string>
+  <string name="call_recording_setting">Grabación de llamadas</string>
   <string name="call_remove_exception_numbers_confirm">%d números serán eliminados.</string>
   <string name="call_settings">Teléfono</string>
   <string name="call_settings_category">Llamadas</string>
@@ -896,7 +896,7 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
   <string name="phoneAppLabel">Teléfono</string>
   <string name="phoneIconLabel">Teléfono</string>
   <string name="phone_account_settings">Ajustes de la cuenta de teléfono</string>
-  <string name="phone_account_wifi_calling">Llamada WLAN</string>
+  <string name="phone_account_wifi_calling">Llamada Wi-Fi</string>
   <string name="phone_accounts">Cuentas de llamada</string>
   <string name="phone_accounts_accounts_header">Cuentas</string>
   <string name="phone_accounts_add_sip_account">Agregar cuenta SIP</string>
@@ -1342,7 +1342,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="wifi_calling_call_assistant_configure">Configurar</string>
   <string name="wifi_calling_call_assistant_configure_no_selection">Asistente de llamada apagado</string>
   <string name="wifi_calling_call_assistant_none">Ninguno</string>
-  <string name="wifi_calling_do_not_use">No utilizar llamada WLAN</string>
+  <string name="wifi_calling_do_not_use">No utilizar llamada Wi-Fi</string>
   <string name="wifi_calling_do_not_use_call_assistant">No utilice el asistente de llamada</string>
   <string name="wifi_calling_select_call_assistant">Elija el asistente de llamada</string>
   <string name="wifi_calling_select_call_assistant_summary">Elija una aplicación o servicio para administrar las redes utilizadas para las llamadas</string>

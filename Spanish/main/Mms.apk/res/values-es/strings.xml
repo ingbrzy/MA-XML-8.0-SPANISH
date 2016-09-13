@@ -41,7 +41,7 @@
   <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Volver a la lista de mensajes</string>
   <string name="batch_adding_progress_message">Agregando…</string>
-  <string name="batch_delete_confirm_dialog_message">Eliminar %1$s mensajes?</string>
+  <string name="batch_delete_confirm_dialog_message">¿Eliminar %1$s mensajes?</string>
   <string name="batch_deleting_message_progress_message">Eliminando…</string>
   <string name="batch_deleting_progress_message">Eliminando…</string>
   <string name="bcc_label">"Bcc: "</string>
@@ -351,6 +351,7 @@
   <string name="no">Cancelar</string>
   <string name="no_block_button_msg">Desbloquear</string>
   <string name="no_conversations">No hay conversaciones</string>
+  <string name="no_delivery_report">No hay informe de entrega</string>
   <string name="no_subject">(Sin asunto)</string>
   <string name="no_subject_view">(Sin asunto)</string>
   <string name="non_english_subject_limit">límite 13 caracteres</string>
@@ -386,6 +387,7 @@
   <string name="pref_show_blocked_messages_summary">Mostrar los SMS bloqueados en la lista de conversaciones</string>
   <string name="pref_show_sms_template_in_summary">Detectar automáticamente OTP en mensajes SMS</string>
   <string name="pref_show_sms_template_summary">Copiar automáticamente y rellenar los códigos de verificación</string>
+  <string name="pref_smart_messages_settings">Mensajes inteligentes</string>
   <string name="pref_sms_theme_title">Pantalla</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensajes WAP automáticos (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensajes por conversación</string>
@@ -502,7 +504,7 @@
   <string name="security_alert_dialog_title">Reportar</string>
   <string name="select_audio">Seleccione audio</string>
   <string name="select_bottom_text">Texto en la parte inferior</string>
-  <string name="select_copy_text">selecionar y copiar mensaje de texto</string>
+  <string name="select_copy_text">Selecionar y copiar mensaje de texto</string>
   <string name="select_different_media">Elija un %1$s diferente.</string>
   <string name="select_link_title">Elegir acción</string>
   <string name="select_local_audio">Seleccione audio</string>
@@ -531,6 +533,7 @@
   <string name="set">Fijar</string>
   <string name="share_img">Compartir</string>
   <string name="show_all_messages">Mostrar todos los mensajes</string>
+  <string name="show_delivery_status">Mostrar el estado de entrega</string>
   <string name="show_sender">Show sender info</string>
   <string name="sim_card1">Tarjeta SIM 1</string>
   <string name="sim_card2">Tarjeta SIM 2</string>

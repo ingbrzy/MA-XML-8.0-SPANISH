@@ -7,8 +7,8 @@
   <string name="congratulation_label">Disfruta de tu nuevo dispositivo</string>
   <string name="congratulation_title">Instalación terminada</string>
   <string name="content_description_complete">Completo</string>
-  <string name="content_description_language_picker">Selector de idioma</string>
-  <string name="content_description_miui_version">MIUI8</string>
+  <string name="content_description_language_picker">Seleccione un idioma</string>
+  <string name="content_description_miui_version">MIUI 8</string>
   <string name="content_description_start">Empezar</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -28,8 +28,12 @@
   <string name="next">Siguiente</string>
   <string name="next_fingerprint">Siguiente</string>
   <string name="other_settings">Ajustes adicionales</string>
+  <string name="other_settings_auto_update">Actualizar automáticamente</string>
+  <string name="other_settings_auto_update_summary">MIUI seleccionará el tiempo de inactividad para descargar e instalar las actualizaciones.</string>
   <string name="other_settings_location">Ubicación</string>
   <string name="other_settings_location_summary">Permitir a las aplicaciones acceder a tu ubicación</string>
+  <string name="other_settings_upload_debug_log_summary">Los datos del diagnóstico pueden incluir la información sobre el uso del hardware, sistema operativo y aplicaciones. Los datos serán utilizados para localizar y analizar los problemas en el sistema y nunca serán utilizados para identificarle personalmente.</string>
+  <string name="other_settings_upload_debug_log_title">Enviar datos del diagnóstico de forma automática</string>
   <string name="other_settings_user_experience">Programa de experiencia de usuario</string>
   <string name="other_settings_user_experience_summary">Ayuda a MIUI a mejorar enviando diagnósticos anónimos de uso (%s)</string>
   <string name="other_settings_user_experience_summary1">ver la Política de Privacidad</string>

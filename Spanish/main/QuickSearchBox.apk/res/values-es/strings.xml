@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Búsqueda</string>
+  <string name="application_desc">Aplicación</string> 
+  <string name="application_search_label">Apps</string> 
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_input">https://www.google.com/search?q=%s</string>
@@ -45,11 +47,11 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="google_settings_category_title">Búsqueda en Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="loading">Un momento…</string>
   <string name="menu_help">Ayuda</string>
   <string name="menu_settings">Ajustes de búsqueda</string>
   <string name="network_unavailable">No se pudo conectar a la red</string>
+  <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
   <string name="recent_apps">Aplicaciones recomendadas</string>
   <string name="recently_shortcut_label">Accesos directos recientes</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
@@ -68,16 +70,21 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
   <string name="search_suggestion">Consejos</string>
   <string name="search_videos">Buscar Videos</string>
+  <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Buscar</string>
   <string name="send_secret_code">Enviar código</string>
+  <string name="settings_description">Nombres de aplicaciones instaladas</string>
   <string name="show_more">Mostrar más</string>
+  <string name="suggest_open_app_failed">No se puede abrir esta aplicación</string>
   <string name="system_search_category_title">Teléfono</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
-  <string name="voice_search_hint_title">"Prueba diciendo "</string>
+  <string name="voice_search_hint_title">Prueba diciendo: </string>
   <string name="web_search_results">Resultados web</string>
-  <string name="xiaomi_hint">http://fluxyon.comxa.com/hint.json</string>
-  <string name="xiaomi_hot_query">http://127.0.0.1</string>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
+  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
   <string name="xiaomi_search_label">Resultados</string>
-  <string name="xiaomi_suggest_base">http://fluxyon.comxa.com/buscarengoogle.html</string>
+  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
 </resources>

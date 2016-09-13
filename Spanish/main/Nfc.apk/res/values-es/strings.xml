@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_nfc_enabled">NFC activado.</string>
+  <string name="android_beam">Android Beam</string>
   <string name="app_name">Servicio de NFC</string>
+  <string name="ask_nfc_tap">Toque el otro dispositivo para completar</string>
+  <string name="beam_busy">Beam está ocupado. Inténtelo de nuevo cuando la transferencia actual este completa..</string>
   <string name="beam_canceled">Emisión cancelada</string>
   <string name="beam_complete">Emisión completa</string>
   <string name="beam_failed">No se ha completado la emisión</string>
   <string name="beam_handover_not_supported">"Dispositivo del receptor no soporta transferencia de archivos grandes NFC."</string>
   <string name="beam_outgoing">Emitiendo.</string>
   <string name="beam_progress">Transmisión entrante…</string>
+  <string name="beam_requires_nfc_enabled">Android Beam requiere NFC para ser activado. ¿Activar ahora?</string>
   <string name="beam_touch_to_view">Toque para ver</string>
   <string name="beam_try_again">Acerque los dispositivos</string>
   <string name="cancel">Cancelar</string>
@@ -18,6 +22,7 @@
   <string name="connecting_headset">Conectando</string>
   <string name="could_not_use_app">"No se puedo usar %1$s."</string>
   <string name="default_pay_app_removed">Se eliminó su servicio de pago predeterminado. ¿Elegir otro?</string>
+  <string name="device">Dispositivo</string>
   <string name="disconnected_headset">Desconectado</string>
   <string name="disconnecting_headset">Desconectando</string>
   <string name="failed_to_enable_bt">No se pudo activar Bluetooth</string>
@@ -31,8 +36,12 @@
   <string name="pairing_headset">Emparejar</string>
   <string name="pairing_headset_failed">No se pudo emparejar</string>
   <string name="pay_with">Pagar con</string>
+  <string name="prompt_connect_to_network">¿Conectarse a la red %1$s?</string>
+  <string name="status_unable_to_connect">"No se puede conectar a la red"</string>
+  <string name="status_wifi_connected">Conectado</string>
   <string name="tap_again_to_complete">Toque otra vez para completar con %1$s</string>
   <string name="tap_again_to_pay">Toque otra vez para pagar con %1$s</string>
   <string name="touch">Toque para transmitir</string>
   <string name="transaction_failure">"Esta transacción no pudo ser completada con %1$s."</string>
+  <string name="wifi_connect">Conectar</string>
 </resources>

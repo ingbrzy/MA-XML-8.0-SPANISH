@@ -33,7 +33,6 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_back_up_button_ok">Forzar cierre</string>
   <string name="cloud_back_up_close_info">Pulse para hacer la copia de seguridad.</string>
   <string name="cloud_back_up_dialog_content">¿Detener una copia de seguridad en curso? Si detiene ahora, usted no será capaz de utilizar esta copia de seguridad para restaurar aplicaciones.</string>
-  <string name="cloud_back_up_dialog_title">Copias de seguridad</string>
   <string name="cloud_back_up_network_unavailable">No se pudo eliminar. Conéctese a Wi-Fi y vuelva a intentarlo.</string>
   <string name="cloud_back_up_open_info">"Copia de seguridad cuando se conecta a Wi-Fi una vez cada %1$s
 Última copia de seguridad en %2$s"</string>
@@ -167,8 +166,8 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_confusion_yes">Sí</string>
   <string name="micloud_detail_battery_low_message">La batería está baja. Por favor cargue el teléfono para realizar la sincronización.</string>
   <string name="micloud_detail_battery_low_title">La batería está baja</string>
-  <string name="micloud_detail_depend_wifi_message">Por favor conéctate a WLAN o comprueba los ajustes de sincronización.</string>
-  <string name="micloud_detail_depend_wifi_title">Se necesita red WLAN</string>
+  <string name="micloud_detail_depend_wifi_message">Por favor conéctate a Wi-Fi o comprueba los ajustes de sincronización.</string>
+  <string name="micloud_detail_depend_wifi_title">Se necesita red Wi-Fi</string>
   <string name="micloud_detail_do_not_sync">No sincronizar</string>
   <string name="micloud_detail_download_syncing">Descargando %s</string>
   <string name="micloud_detail_fail">No se puede sincronizar</string>
@@ -275,6 +274,9 @@ Pulse el botón Ajustes para más opciones."</string>
   <string name="micloud_main_wlan_sync_data_count">%d elementos esperando sincronizar</string>
   <string name="micloud_member">Afiliación a Mi Cloud</string>
   <string name="micloud_member_advantage">Conseguir más espacio de almacenamiento.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Válido para %s-%s-%s
+
+%s Mi Credits"</string>
   <string name="micloud_member_buy_title">Confirmar pedido</string>
   <string name="micloud_member_net_error_alert_message">No tiene conexión a internet.</string>
   <string name="micloud_member_net_error_alert_title">No es posible conectarse a la red</string>
@@ -300,12 +302,16 @@ Pulse el botón Ajustes para más opciones."</string>
   <string name="micloud_notif_title_depend_wifi">Elementos que están a la espera para sincronizar: %d</string>
   <string name="micloud_notif_title_master_depend_wifi">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_memory_low">No se pudo sincronizar con MI Cloud</string>
+  <string name="micloud_notif_title_multi_user_error">"No se puede sincronizar con Mi Cloud"</string>
   <string name="micloud_notif_title_sync_finish">Sincronizado</string>
   <string name="micloud_notif_title_sync_not_finish">Sin sincronizar</string>
   <string name="micloud_notif_title_sync_progress">Sincronizando</string>
   <string name="micloud_notif_title_sync_with_off">Sincronización con Mi Cloud</string>
   <string name="micloud_other_product_price">Comparar precios</string>
   <string name="micloud_proceed">Continuar</string>
+  <string name="micloud_request_permission_confirm">Entendido</string>
+  <string name="micloud_request_permission_content">Mi Cloud necesita permisos para sincronizar los datos. Permitir a Mi Cloud acceder aL Calendario, Contactos, Cuenta Mi, Estado de la SIM, historial de llamadas, y mensajes</string>
+  <string name="micloud_request_permission_title">Mi Cloud necesita permisos</string>
   <string name="micloud_sec_dspt">y comparta cosas con sus amigos.</string>
   <string name="micloud_setting_antispam_summary">Excepciones y números de teléfono bloqueados</string>
   <string name="micloud_setting_browser_summary">Marcadores, historial y pestañas</string>
@@ -387,8 +393,18 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Solo sincronizar fotos con Wi-Fi</string>
   <string name="privacy_policy">Política de Privacidad</string>
+  <string name="provision_arrow_back">&lt;</string>
+  <string name="provision_arrow_next">&gt;</string>
   <string name="remind_later">Ahora no</string>
   <string name="restoreSync">Sincronizar ahora</string>
+  <string name="search_cloudbackup_pref">Copia de seguridad en la nube</string>
+  <string name="search_cloudbackup_pref_desc">Activar/Desactivar copia de seguridad en la nube</string>
+  <string name="search_cloudbackup_pref_key_words">copiadeseguridad, Copia de seguridad en la nube</string>
+  <string name="search_cloudbackup_pref_path">Cuenta Mi/Mi Cloud/Copia de Seguridad y Restaurar</string>
+  <string name="search_finddevice_pref">Buscar dispositivo</string>
+  <string name="search_finddevice_pref_desc">Activar/Desactivar buscar dispostivo</string>
+  <string name="search_finddevice_pref_key_words">buscardispositivo, buscar dispositivo </string>
+  <string name="search_finddevice_pref_path">Cuenta Mi/Mi Cloud/Buscar dispositivo</string>
   <string name="setting">Ajustes</string>
   <string name="settings_backup_title">Realizar copia de seguridad a ajustes del sistema</string>
   <string name="share_cancel">Compartir cancelado</string>
@@ -448,6 +464,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="sync_sub_int_dspt">Su operadora podría cobrarle por el envío de un SMS internacional para la activación de este servicio.</string>
   <string name="title_reg">Crear una cuenta Mi</string>
   <string name="total_space_upgraded_to">Espacio total: %s</string>
+  <string name="trying_to_connect_to_network">Conectandose a la red</string>
   <string name="unactivated_user">Desconectado</string>
   <string name="upgrade_space">Añadir espacio</string>
   <string name="upgrade_space_gb">GB</string>

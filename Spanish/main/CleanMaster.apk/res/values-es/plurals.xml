@@ -32,6 +32,14 @@
         <item quantity="other">%d grupos</item>
         <item quantity="one">%d grupo</item>
     </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">¿Borrar %d fotos?</item>
+        <item quantity="one">¿Borrar %d foto?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">¿Borrar %1$s fotos de todos los dispositivos ?</item>
+        <item quantity="one">¿Borrar %1$s foto de todos los dispositivos ?</item>
+    </plurals>
     <plurals name="deepclean_cache_summary">
         <item quantity="other">Puede borrar los datos sin importancia para las %d aplicaciones</item>
         <item quantity="one">Puede borrar los datos sin importancia para las %d aplicaciones</item>
@@ -55,5 +63,9 @@
     <plurals name="deepclean_video_summary">
         <item quantity="other">Se han encontrado %d vídeos, puede eliminar los innecesarios.​</item>
         <item quantity="one">Se han encontrado %d videos, puede eliminarlos.</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d aplicaciones instaladas</item>
+        <item quantity="one">%d aplicación instalada</item>
     </plurals>
 </resources>

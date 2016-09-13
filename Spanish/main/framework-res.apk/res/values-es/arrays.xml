@@ -37,74 +37,6 @@
         <item>Otros</item>
         <item>Personalización</item>
     </string-array>
-    <string-array name="app_ops_labels">
-        <item>Intentando acceder a la ubicación</item>
-        <item>Intentando acceder a la ubicación</item>
-        <item>Intentando acceder a la ubicación</item>
-        <item>Intentando usar vibración</item>
-        <item>Intentando leer contactos</item>
-        <item>Intentando modificar contactos</item>
-        <item>Intentando leer el registro de llamadas</item>
-        <item>Intentando modificar el registro de llamadas</item>
-        <item>Intentando leer calendario</item>
-        <item>Intentando modificar calendario</item>
-        <item>Intentando acceder a la ubicación</item>
-        <item>Intentando publicar la notificación</item>
-        <item>Intentando acceder a la ubicación</item>
-        <item>Intentando llamar</item>
-        <item>Intentando leer SMS</item>
-        <item>Intentando escribir/modificar SMS</item>
-        <item>Intentando recibir SMS</item>
-        <item>Intentando recibir SMS</item>
-        <item>Intentando recibir SMS</item>
-        <item>Intentando recibir SMS</item>
-        <item>Intentando enviar SMS</item>
-        <item>Intentando leer SMS</item>
-        <item>Intentando escribir/modificar SMS</item>
-        <item>Intentando modificar ajustes</item>
-        <item>Intentando dibujar encima</item>
-        <item>Intentando acceder a notificaciones</item>
-        <item>Intentando acceder a la Cámara</item>
-        <item>Intentando grabar audio</item>
-        <item>Intentando reproducir audio</item>
-        <item>Intentando leer portapapeles</item>
-        <item>Intentando modificar portapapeles</item>
-        <item>Intentando usar botones multimedia</item>
-        <item>Intentando usar entrada de audio</item>
-        <item>Intentando usar volumen principal</item>
-        <item>Intentando usar volumen de voz</item>
-        <item>Intentando usar volumen de timbre</item>
-        <item>Intentando usar volumen de medios</item>
-        <item>Intentando usar volumen de alarma</item>
-        <item>Intentando usar volumen de notificación</item>
-        <item>Intentando usar volumen bluetooth</item>
-        <item>Intentando mantener despierto el dispositivo</item>
-        <item>Intentando acceder a la ubicación</item>
-        <item>Intentando acceder a la ubicación</item>
-        <item>Intentando encender/apagar Wi-Fi</item>
-        <item>Intentando encender/apagar bluetooth</item>
-        <item>Intentando encender/apagar datos móviles</item>
-        <item>Intentando enviar MMS</item>
-        <item>Intentando leer MMS</item>
-        <item>Intentando escribir MMS</item>
-        <item>Intentando arrancar al inicio</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
-        <item>Trying to start at bootup</item>
-        <item>Trying to turn on/off NFC</item>
-        <item>Trying to delete SMS</item>
-        <item>Trying to delete MMS</item>
-        <item>Trying to delete contacts</item>
-        <item>Trying to delete call log</item>
-        <item>Trying to turn on mobile data</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Casa</item>
-        <item>Trabajo</item>
-        <item>Otros</item>
-        <item>Personalización</item>
-    </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Reservado0</item>
         <item>Reservado1</item>
@@ -125,5 +57,11 @@
         <item>Mantenga el dedo6 en el sensor más tiempo</item>
         <item>Reservado17</item>
         <item>Reservado18</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Otros</item>
+        <item>Personalización</item>
     </string-array>
 </resources>

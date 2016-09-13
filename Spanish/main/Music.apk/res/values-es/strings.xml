@@ -160,7 +160,7 @@
   <string name="dialog_queued_body">Este archivo está en cola para futuras descargas</string>
   <string name="dialog_title_add_playlist">Añadir lista de reproducción</string>
   <string name="dialog_title_delete_tracks">Eliminar</string>
-  <string name="dialog_title_name_playlist">nombre de la lista de reproducción</string>
+  <string name="dialog_title_name_playlist">Nombre de la lista de reproducción</string>
   <string name="dialog_title_not_available">No se pudo descargar</string>
   <string name="dialog_title_queued_body">El archivo no esta disponible aun</string>
   <string name="dialog_title_remove_tracks">Eliminar</string>
@@ -232,7 +232,7 @@
   <string name="download_title_sorted_by_size">Descargas - Ordenar por tamaño</string>
   <string name="download_traffic_dialog_buy_package">Comprar plan Musica</string>
   <string name="download_traffic_dialog_msg">El uso de la conexión de datos móvil para descargar música puede aumentar los costes del uso de datos</string>
-  <string name="download_traffic_dialog_negative_button">Esperando por WLAN</string>
+  <string name="download_traffic_dialog_negative_button">Esperando por Wi-Fi</string>
   <string name="download_traffic_dialog_position_button">Descargar a la vez</string>
   <string name="download_unknown_title">&lt;Untitled&gt;</string>
   <string name="download_wait_connect">Esperando conexión</string>
@@ -494,7 +494,7 @@
   <string name="notification_headset_custom">Descartar</string>
   <string name="notification_headset_info">Pulsa para configurar.</string>
   <string name="notification_headset_settings">Auriculares conectados</string>
-  <string name="notification_need_wifi_for_size">Tamaño del archivo requiere WLAN.</string>
+  <string name="notification_need_wifi_for_size">Tamaño del archivo requiere Wi-Fi.</string>
   <string name="notification_play_summary">Ver canción actual y la siguiente, mostrar letras de las canciones en la Pantalla de inicio.</string>
   <string name="notification_play_title">Widget de panel de notificaciones</string>
   <string name="notification_recommend_summary">Obtener información acerca de las nuevas tendencias musicales y promociones de aplicaciones</string>
@@ -553,9 +553,9 @@
   <string name="please_select_song">Selecciona una canción primero</string>
   <string name="power_save_mode_dialog_msg">EL ahorro de batería está encendido. ¿Comenzar a descargar ahora mismo?</string>
   <string name="pref_download_settings_title">Tamaño maximo de descarga</string>
-  <string name="pref_summary_any_bytes_popup">Siempre espere a que la conexión WLAN para descargar archivos</string>
+  <string name="pref_summary_any_bytes_popup">Siempre espere a que la conexión Wi-Fi para descargar archivos</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se utiliza la conexión de datos móvil para descargar el contenido</string>
-  <string name="pref_summary_max_bytes_limit_format">Espere a WLAN si el tamaño del archivo excede %s</string>
+  <string name="pref_summary_max_bytes_limit_format">Espere a Wi-Fi si el tamaño del archivo excede %s</string>
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar indicador de uso de datos</string>
   <string name="preferences_title">Configuraciones</string>
@@ -649,7 +649,7 @@
   <string name="settings_search_key_desktop_lyric">Letras de la pantalla principal;Letras;Música;Canciones</string>
   <string name="settings_search_key_download_quality">Descarga de calidad;Calidad;Música;Descargar;Canciones</string>
   <string name="settings_search_key_download_when_favorite">Descarga favoritos;Descargar;Música Favorita;Canciones</string>
-   <string name="settings_search_key_main">Música;Canciones</string>
+  <string name="settings_search_key_main">Música;Canciones;Canción</string>
   <string name="settings_search_key_notification">Notificaciones de música;Música;Notificaciones;Canciones</string>
   <string name="settings_search_key_vip_service">Canciones Premium;VIP;Paquetes de canciones;Paquete de Canciones Premium;Miembro;Suscripción;Música;Canciones</string>
   <string name="settings_search_path_advance">Aplicaciones del sistema/Música/Servicio y Ajustes/Configuración avanzada</string>
@@ -789,7 +789,7 @@
   <string name="vip_required">Lo siento, VIP requerido</string>
   <string name="vip_required_with_song">Obtener Paquete canción mejorada para jugar \"% s\". Hemos saltado por usted.</string>
   <string name="warning_tip_cancel">Descargar</string>
-  <string name="warning_tip_content">Ya no tienes conexión mediante red WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
+  <string name="warning_tip_content">Ya no tienes conexión mediante red Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="warning_tip_ok">Pausar</string>
   <string name="warning_tip_title">Advertencia de uso de datos</string>
   <string name="welcome_to_new_music">Bienvenido a la nueva version Mi Music</string>

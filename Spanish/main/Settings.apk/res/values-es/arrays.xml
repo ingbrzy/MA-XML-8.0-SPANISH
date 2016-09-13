@@ -588,7 +588,7 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nada</item>
-        <item>Mostrar panel de apps recientes</item>
+        <item>Mostrar las aplicaciones recientes</item>
         <item>Ejecutar asistente</item>
         <item>Lanzar Google Now</item>
         <item>Cerrar aplicación actual</item>
@@ -600,6 +600,16 @@
         <item>1 segundo</item>
         <item>1,5 segundos</item>
         <item>2 segundos</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>Ninguno</item>
+        <item>Street-snap(necesitas seleccionarlo en la cámara)</item>
+        <item>Atajos en transporte público</item>
+    </string-array>
+        <string-array name="long_press_volume_down_action_value">
+        <item>ninguno</item>
+        <item>Street-snap</item>
+        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -937,6 +947,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Explorador de archivos</item>
         <item>Bloqueo de aplicaciones</item>
         <item>Segundo espacio</item>
+    </string-array>
+        <string-array name="anr_record_interval_entries">
+        <item>10 segundos</item>
+        <item>20 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Todos los días</item>

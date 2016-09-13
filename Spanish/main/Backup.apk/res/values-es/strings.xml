@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abort_backup_confirm">La copia de seguridad no ha terminado aún. ¿Detener el proceso?</string>
+  <string name="abort_backup_confirm">"La copia de seguridad no ha terminado aún. ¿Deseas detener el proceso?"</string>
+  <string name="abort_restore_confirm">"No se ha terminado de restaurar aún. ¿Deseas detener el proceso?"</string>
   <string name="account_contact_backup_info">Datos de cuenta Google, Mi y los contactos</string>
   <string name="account_login">Iniciar sesión</string>
   <string name="account_summary">Copia de seguridad de cuenta Google, Mi y otros datos de usuario</string>
@@ -34,14 +35,14 @@
   <string name="backup_finished">Copia de seguridad completada</string>
   <string name="backup_hint">No apagues el dispositivo</string>
   <string name="backup_hint_onpad">No apagues el dispositivo</string>
-  <string name="backup_is_running">Backing up device</string>
+  <string name="backup_is_running">Haciendo copia de seguridad del dispositivo</string>
   <string name="backup_items_app_tailer">" archivos de datos de aplicación"</string>
   <string name="backup_items_sysdata_tailer">" archivos de datos de sistema,"</string>
   <string name="backup_new">Nuevo:</string>
   <string name="backup_progress">Respaldando…</string>
   <string name="backup_report">Ver detalles de la copia de seguridad</string>
   <string name="backup_update">Actualizar</string>
-  <string name="batch_delete_backup_confirm">¿Borrar %d copias de seguridad?</string>
+  <string name="batch_delete_backup_confirm">¿Borrar las copias de seguridad seleccionadas?</string>
   <string name="button_backup">Copia de seguridad</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_continue">Continuar</string>
@@ -130,7 +131,7 @@
   <string name="local_restore_window_title">Restauración local</string>
   <string name="local_select_account_contact">Cuentas y contactos</string>
   <string name="local_select_audio">Audios</string>
-  <string name="local_select_doc">Documents</string>
+  <string name="local_select_doc">Documentos</string>
   <string name="local_select_files">Tarjeta SD</string>
   <string name="local_select_image">Imágenes</string>
   <string name="local_select_sysdata">Sistema</string>
@@ -292,7 +293,7 @@ Toca [Soy un receptor] para crear el código QR"</string>
   <string name="trans_progress_subdescript_waiting">Esperando a recibir %s</string>
   <string name="trans_receiver">Soy un receptor</string>
   <string name="trans_receiver_time_remained">"%s restantes.
-No apagues el punto de acceso WLAN. 
+No apagues el punto de acceso Wi-Fi. 
 Mantén los dispositivos cerca."</string>
   <string name="trans_receiving_completed">Datos recibidos</string>
   <string name="trans_restoring">Restableciendo…</string>
@@ -313,7 +314,7 @@ Los archivos similares se sobreescribirán"</string>
   <string name="trans_sender_searching_ensurance">"Asegúrate de que el dispositivo antiguo
 está encendido para que el nuevo dispositivo se conecte…"</string>
   <string name="trans_sender_time_remained">"%s restantes.
-No apagues el punto de acceso WLAN. Mantén los dispositivos cerca."</string>
+No apagues el punto de acceso Wi-Fi. Mantén los dispositivos cerca."</string>
   <string name="trans_sending_completed">Datos enviados</string>
   <string name="trans_show_qr_code_label">Conecte el dispositivo antiguo</string>
   <string name="trans_show_qr_code_tips">Escanea el código QR usando el dispositivo viejo</string>
