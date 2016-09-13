@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wifi_fail_to_scan">Fallo al buscar redes.</string>
+    <string name="wifi_fail_to_scan">No se puede buscar redes.</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -20,8 +20,6 @@
     <string name="wifi_not_in_range">Fuera de rango</string>
     <string name="wifi_no_internet">No se ha detectado acceso a Internet, no se volverá a conectar automáticamente.</string>
     <string name="saved_network">Guardadas por %1$s</string>
-    <string name="saved_wifi">Red guardada</string>
-    <string name="saved_wifi_delete">Borrar</string>
     <string name="connected_via_wfa">Conectado a través de asistente Wi‑Fi</string>
     <string name="connected_via_passpoint">Conectado a través de %1$s</string>
     <string name="available_via_passpoint">Disponible a través de %1$s</string>
@@ -125,7 +123,7 @@
     <string name="music_audio_effect_settings">Configuración de efectos</string>
     <string name="music_equalizer">Ecualizador</string>
     <string name="music_equalizer_summary">Ajustar niveles individuales para distintos tipos de música</string>
-    <string name="music_title_dolby_control">Dolby Digital Plus</string>
+    <string name="music_title_dolby_control">Dolby digital plus</string>
     <string name="music_dolby_mode_off">Apagado</string>
     <string name="music_dolby_mode_music">Música</string>
     <string name="music_dolby_mode_movie">Vídeo</string>
@@ -979,14 +977,14 @@ Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al
     <string name="screen_timeout_title">Modo inactivo</string>
     <string name="screen_timeout_summary">%1$s de inactividad</string>
     <string name="wallpaper_settings_title">Fondo de pantalla</string>
-    <string name="wallpaper_settings_fragment_title">Elige una categoría</string>
+    <string name="wallpaper_settings_fragment_title">Elija una categoría</string>
     <string name="screensaver_settings_title">Salvapantallas</string>
     <string name="screensaver_settings_summary_either_long">Con el dispositivo en un dock o inactivo y cargando</string>
     <string name="screensaver_settings_summary_either_short">Ambos casos</string>
     <string name="screensaver_settings_summary_sleep">Durante la carga</string>
     <string name="screensaver_settings_summary_dock">Con el dispositivo en un dock</string>
     <string name="screensaver_settings_summary_off">No</string>
-    <string name="screensaver_settings_disabled_prompt">Para controlar lo que ocurre cuando el teléfono está en un dock o inactivo, debes activar el salvapantallas.</string>
+    <string name="screensaver_settings_disabled_prompt">Para controlar lo que ocurre cuando el teléfono está en un dock o inactivo, debe activar el salvapantallas.</string>
     <string name="screensaver_settings_when_to_dream">Cuándo activarlo</string>
     <string name="screensaver_settings_dream_start">Iniciar ahora</string>
     <string name="screensaver_settings_button">Ajustes</string>
@@ -1036,7 +1034,6 @@ Es posible que el PIN no sea correcto."</string>
     <string name="model_number">Modelo</string>
     <string name="fcc_equipment_id">ID de equipo</string>
     <string name="baseband_version">Versión de la banda base</string>
-    <string name="batch_delete_saved_network">Borrar las redes salvadas: ¿%s?</string>
     <string name="kernel_version">Versión del kernel</string>
     <string name="build_number">Número de compilación</string>
     <string name="selinux_status">Estado de SELinux</string>
@@ -1341,6 +1338,7 @@ Para eliminar la música, las imágenes y otros datos de usuario, debes borrar l
     <string name="tethering_help_button_text">Ayuda</string>
     <string name="network_settings_title">Redes móviles</string>
     <string name="manage_mobile_plan_title">Plan móvil</string>
+    <string name="sms_application_title">Aplicación SMS</string>
     <string name="sms_change_default_dialog_title">¿Cambiar aplicación de SMS?</string>
     <string name="sms_change_default_dialog_text">¿Usar %1$s en lugar de %2$s como aplicación de SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">¿Usar %s como aplicación de SMS?</string>
@@ -1629,7 +1627,6 @@ No se perderán los datos de las aplicaciones."</string>
     <string name="auto_caps_summary">Escribir en mayúsculas la primera letra de las frases</string>
     <string name="auto_punctuate">Puntuación automática</string>
     <string name="hardkeyboard_category">Ajustes del teclado físico</string>
-    <string name="has_screenshot_sound">Sonido de captura</string>
     <string name="auto_punctuate_summary">Pulsa la barra espaciadora dos veces para insertar el carácter \".\"</string>
     <string name="show_password">Mostrar las contraseñas</string>
     <string name="ime_security_warning">%1$s can record everything you type, including passwords, credit card numbers, and other personal data.</string>
@@ -2544,9 +2541,6 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="user_delete_user_description">Eliminar usuario</string>
     <string name="user_delete_button">Eliminar</string>
     <string name="user_guest">Invitado</string>
-    <string name="user_experience_program">Programa de Experiencia del Usuario</string>
-    <string name="user_experience_program_summary">Ayude a mejorar MIUI mediante el envió de datos anónimos de uso</string>
-    <string name="user_experience_program_title">Programa de Experiencia del Usuario</string>
     <string name="user_exit_guest_title">Eliminar invitado</string>
     <string name="user_exit_guest_confirm_title">¿Eliminar invitado?</string>
     <string name="user_exit_guest_confirm_message">Se eliminarán las aplicaciones y los datos de esta sesión.</string>
@@ -3239,7 +3233,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="search_pref_volume_wake_title">Encender con botones de volumen;botones de volumen</string>
     <string name="search_screen_on_proximity_sensor_title">Evitar llamadas en el bolsillo;Bolsillo;Marcación en el bolsillo;Llamadas en el bolsillo</string>
     <string name="search_second_space">Segundo espacio</string>
-    <string name="search_xspace">Aplicaciones duplicadas;Duplicar aplicaciones</string>
+    <string name="search_xspace">Aplicaciones duales;Clonar aplicaciones</string>
     <string name="search_do_not_disturb">No molestar</string>
     <string name="search_dndm_auto_time_setting">Establecer hora;DND</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Excepciones;Lista de aprobadas;Lista de aprobadas</string>
@@ -3417,7 +3411,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="path_pref_volume_wake_title">Ajustes/Pantalla de bloqueo y contraseña/Encender con los botones de volumen</string>
     <string name="path_screen_on_proximity_sensor_title">Ajustes/Pantalla de bloqueo y contraseña/Prevenir llamadas en el bolsillo</string>
     <string name="path_second_space">Ajustes/Segundo espacio</string>
-    <string name="path_xspace">Ajustes/Aplicaciones duplicadas</string>
+    <string name="path_xspace">Ajustes/Aplicaciones duales</string>
     <string name="path_do_not_disturb_settings">Ajustes/No molestar</string>
     <string name="path_dndm_auto_time_setting">Ajustes/No molestar/Establecer la hora</string>
     <string name="path_dndm_wristband">Ajustes/No molestar/Activar con Mi Banda</string>
@@ -3451,7 +3445,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="path_ntts_settings_title">Ajustes/Ajustes adicionales/Accesibilidad/Texto a voz</string>
     <string name="path_accessibility_long_press_timeout_preference_title">Ajustes/Ajustes adicionales/Accesibilidad/Pulsar y mantener</string>
     <string name="path_accessibility_display_daltonizer_preference_title">Ajustes/Ajustes adicionales/Accesibilidad/Corrección del color</string>
-    <string name="path_touch_assistant_settings">Ajustes/Ajustes adicionales/Asistente táctil</string>
+    <string name="path_touch_assistant_settings">Ajustes/Ajustes adicionales/Bola flotante</string>
     <string name="path_force_touch">Ajustes/Ajustes adicionales/3D Touch</string>
     <string name="path_device_info_memory">Ajustes/Almacenamiento</string>
     <string name="path_storage_settings">Ajustes/Almacenamiento/Limpiador</string>
@@ -3503,6 +3497,8 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="path_xiaomi_cloud_service">Aplicaciones</string>
     <string name="path_xiaomi_money_service">Aplicaciones</string>
     <string name="debug_log">Programa de Experiencia de Usuario</string>
+    <string name="upload_debug_log_title">Programa de Experiencia de Usuario</string>
+    <string name="upload_debug_log_summary">Ayude a mejorar MIUI enviando datos anónimos de uso</string>
     <string name="sound_vibrate_settings">Sonido y vibración</string>
     <string name="device_miui_version">Versión MIUI</string>
     <string name="device_cpu">CPU</string>
@@ -3589,14 +3585,13 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="handy_mode_enter_ask">Preguntar antes de entrar en modo a una mano</string>
     <string name="handy_mode_tips">Deslice a la izquierda o a la derecha desde el botón de inicio para poner la pantalla en un lado.</string>
     <string name="handy_mode_size">Tamaño de pantalla</string>
-    <string name="touch_assistant">Asistente táctil</string>
+    <string name="touch_assistant">Bola flotante</string>
     <string name="force_touch">3D Touch</string>
     <string name="force_touch_enable">Activar Toque 3D</string>
     <string name="force_touch_enable_tips">Toque largo en el icono de la aplicación para mostrar los atajos, mientras el 3D Touch esté activo.</string>
     <string name="force_touch_demo">Reproducir demostración</string>
     <string name="screenshot">Captura de pantalla</string>
     <string name="screenshot_three_gesture">Deslizar tres dedos simultáneamente activará la captura de pantalla</string>
-    <string name="screenshot_three_gesture_summary">Otros gestos con los tres dedos se desactivarán</string>
     <string name="avoid_ui">Evitar UI</string>
     <string name="key_settings_title">Botones</string>
     <string name="key_settings">Botones</string>
@@ -3649,7 +3644,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="wifi_tether_settings_title">Punto de acceso personal</string>
     <string name="lock_settings">Pantalla de bloqueo y contraseña</string>
     <string name="second_space">Segundo espacio</string>
-    <string name="xspace">Aplicaciones duplicadas</string>
+    <string name="xspace">Aplicaciones duales</string>
     <string name="call_settings_primary_user_only">Cambie los ajustes de llamada en su Primer espacio</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
     <string name="lock_settings_picker_settings">Establecer bloqueo de pantalla</string>
@@ -3682,7 +3677,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="breathing_light_freq_summary">Pulsar cuando tenga nuevas notificaciones</string>
     <string name="led_settings">Luz de notificación</string>
     <string name="led_colors_summary">Notificaciones</string>
-    <string name="led_frequence_summary">Establecer el intervalo de pulso</string>
+    <string name="led_frequence_summary">Establecer el intervalo del pulso</string>
     <string name="led_pulse_summary">Encender luz de notificación cuando se reciban nuevas notificaciones</string>
     <string name="show_rounded_corners">Mostrar esquinas redondeadas</string>
     <string name="pref_operational_key">Botones de navegación</string>
@@ -3943,7 +3938,6 @@ Seleccione su sistema operativo:"</string>
     <string name="screen_color_and_optimize_disabled">No se pudo ajustar la temperatura del color en el modo lectura</string>
     <string name="screen_paper_mode_title">Modo lectura</string>
     <string name="screen_paper_mode_summary">Reducir el brillo de fondo de la pantalla</string>
-    <string name="screen_paper_mode_time_title">Programado</string>
     <string name="screen_paper_mode_turn_on">Activar</string>
     <string name="screen_paper_mode_turn_off">Apagar</string>
     <string name="screen_paper_mode_apps_title">Utilice el modo de lectura</string>
@@ -3973,8 +3967,6 @@ Seleccione su sistema operativo:"</string>
     <string name="power_autorun_apps_empty">Vacío</string>
     <string name="power_autorun_empty">Vacío</string>
     <string name="auto_startup_count">%d aplicaciones tienen permiso para iniciarse automáticamente</string>
-    <string name="auto_upload_debug_log_summary">Los datos de diagnóstico, pueden incluir información sobre el uso de tu hardware, sistema operativo y aplicaciones. Los datos serán usados para localizar y analizar los problemas en el sistema, y nunca serán usados para identificarte personalmente.</string>
-    <string name="auto_upload_debug_log_title">Enviar datos de diagnóstico automáticamente</string>
     <string name="man_add_application">Añadir aplicaciones de inicio automático</string>
     <string name="application_item_disable">Denegar</string>
     <string name="application_item_permission">Permitir</string>
@@ -4123,15 +4115,10 @@ Seleccione su sistema operativo:"</string>
     <string name="line_breaking_title">Optimizar texto</string>
     <string name="line_breaking_summary">Optimizar los saltos de línea del párrafo</string>
     <string name="nfc_se_route_title">Posición de elemento seguro</string>
-    <string name="nfc_se_wallet_title">Monedero por defecto</string>
     <string name="se_route_ese">Elemento seguro incorporado</string>
     <string name="se_route_uicc">Elemento seguro en la SIM</string>
-    <string name="se_wallet_ese">Mi Wallet te permite usar Mi Pay y usar tu teléfono como si fuese una tarjeta para realizar pagos.</string>
-    <string name="se_wallet_hce">Usa HCE Wallet</string>
     <string name="current_use_uicc_se">Usando elemento seguro en la SIM</string>
     <string name="current_use_ese">Usar elemento seguro incorporado</string>
-    <string name="current_use_ese_wallet">"Estás usando Mi Wallet. Te permite usar Mi Pay y tu teléfono como si fuese una tarjeta para realizar pagos."</string>
-    <string name="current_use_hce_wallet">"Estás usando HCE Wallet"</string>
     <string name="open_wifi_connect_title">Conectar con %1$s</string>
     <string name="open_wifi_connect_summary">Pulse para ver los detalles.</string>
     <string name="free_wifi_summary">Pulse para conectar a %1$s.</string>
@@ -4186,8 +4173,6 @@ Seleccione su sistema operativo:"</string>
     <string name="checking_for_updates">Buscando actualizaciones…</string>
     <string name="rebootiing_for_updates">Reiniciando…</string>
     <string name="update_progress_for_updates">Actualizando (%s)</string>
-    <string name="upload_debug_log_summary">Los datos de diagnóstico, pueden incluir información sobre el uso de tu hardware, sistema operativo y aplicaciones. Los datos serán usados para localizar y analizar los problemas en el sistema, y nunca serán usados para identificarte personalmente.</string>
-    <string name="upload_debug_log_title">Enviar datos de diagnóstico automáticamente.</string>
     <string name="button_text_reboot_now">Reiniciar</string>
     <string name="button_text_login">Iniciar sesión</string>
     <string name="dialog_content_login">¿Quiere iniciar sesión en su cuenta Mi para actualizar?</string>
@@ -4358,8 +4343,6 @@ Seleccione su sistema operativo:"</string>
     <string name="page_layout_30">Jai Mani</string>
     <string name="page_layout_31">Jack Tang</string>
     <string name="page_layout_small_title">Extra pequeño</string>
-    <string name="paper_mode_end_time_title">Tiempo de final</string>
-    <string name="paper_mode_start_time_title">Tiempo de comienzo</string>
     <string name="page_layout_normal_title">Pequeño</string>
     <string name="page_layout_medium_title">Medio</string>
     <string name="page_layout_large_title">Grande</string>
@@ -4424,7 +4407,10 @@ Seleccione su sistema operativo:"</string>
     <string name="lock_screen_secure_after_timeout_summary">Contraseña requerida en %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Contraseña requerida inmediatamente.</string>
     <string name="theme_settings_title">Temas</string>
-    <string name="sms_application_title">Aplicación SMS</string>
+    <string name="choose_smartcover_type">Elija tipo de letra</string>
+    <string name="normal_smartcover_title">Frente cubierta opaca</string>
+    <string name="smallwindow_smartcover_title">Frente cubierta transparente</string>
+    <string name="lattice_smartcover_title">Celosía de fondo</string>
     <string name="wifi_eap_sim_simcard">Elegir SIM</string>
     <string name="children_mode_title">Modo niño</string>
     <string name="children_mode_tips_on">Después de apagar el modo niño, pulse el botón de Inicio para volver a la pantalla de inicio.</string>
@@ -4487,7 +4473,6 @@ Seleccione su sistema operativo:"</string>
     <string name="information_dialog_button_text">De acuerdo</string>
     <string name="max_fingerprint_number_reached">No se puede agregar más de 5 huellas. Para agregar una huella, elimine una huella existente primero.</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">¿Elimininar esta huella digital?</string>
-    <string name="delete_saved_network">Borrar redes guardadas</string>
     <string name="delete_legacy_fingerprint">Eliminar</string>
     <string name="keep_legacy_fingerprint">Mantener</string>
     <string name="add_fingerprint_finished_button_text">De acuerdo</string>
@@ -4569,8 +4554,6 @@ Seleccione su sistema operativo:"</string>
     <string name="optimization_cancel">Cancelar</string>
     <string name="security_encryption_title">Cifra el dispositivo usando la contraseña de bloqueo de pantalla</string>
     <string name="security_encryption_is_used">Activado</string>
-    <string name="security_encryption_progress_dialog_close">Cifrando…</string>
-    <string name="security_encryption_progress_dialog_open">Descifrando…</string>
     <string name="security_encryption_attention_title">Importante</string>
     <string name="security_encryption_attention_info">Puede cifrar cuentas, configuraciones, aplicaciones descargadas y sus datos, contenido multimedia y otros archivos.</string>
     <string name="security_encryption_alert_dialog_title_first">Primero establezca el bloqueo de pantalla</string>
@@ -4597,11 +4580,11 @@ Seleccione su sistema operativo:"</string>
     <string name="power_optimize">Economizador de batería</string>
     <string name="power_checker">Verificador de energía</string>
     <string name="app_invisible">Aplicación invisible</string>
-    <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicación duplicada?</string>
-    <string name="uninstall_xspace_app_dlg_msg">Al desinstalar una aplicación duplicada se eliminarán todos los datos de la aplicación.</string>
+    <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicación dual?</string>
+    <string name="uninstall_xspace_app_dlg_msg">Al desinstalar una aplicación dual se eliminarán todos los datos de la aplicación.</string>
     <string name="uninstall_dlg_title">¿Desinstalar ahora?</string>
     <string name="uninstall_dlg_msg">Al desinstalar borrará todos los datos de las aplicaciones.</string>
-    <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duplicadas correspondientes se eliminarán junto a los datos de la aplicación.</string>
+    <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duales correspondientes se eliminarán junto a los datos de la aplicación.</string>
     <string name="mqsas_settings_category">MQSAS</string>
     <string name="record_anr_in_background">Grabar casos de ANR en segundo plano</string>
     <string name="anr_record_interval_title">Grabar intervalos entre ANR</string>
