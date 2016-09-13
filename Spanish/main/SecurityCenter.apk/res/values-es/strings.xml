@@ -617,6 +617,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="menu_text_antispam">Lista de bloqueo</string>
   <string name="menu_text_antivirus">Escáner de virus</string>
   <string name="menu_text_garbage_cleanup">Limpiador</string>
+  <string name="menu_text_garbage_cleanup_danger">%s terminado</string> 
   <string name="menu_text_license_manager">Permisos</string>
   <string name="menu_text_networkassistants">Uso de datos</string>
   <string name="menu_text_networkassistants_danger">%s por encima del límite</string>
@@ -1287,6 +1288,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_flow_purchase_beyond">Has excedido el límite del plan de datos mensual de tu operador por %sMB</string>
   <string name="summary_flow_verify">No se han sincronizado las estadísticas de uso de datos del operador en %d días</string>
   <string name="summary_flow_verify_failed">Ajuste automático de uso de datos para evitar cargos adicionales</string>
+  <string name="summary_garbage_clean">Borrar caché para liberar espacio</string> 
   <string name="summary_garbage_lib">Usar las últimas definiciones para eliminar spyware, adware y otra basura no deseada</string>
   <string name="summary_install_virus">Comprueba si tus aplicaciones tienen virus antes de instalarlas</string>
   <string name="summary_live_talk_purchase">Ahorre hasta un 70% en sus llamadas</string>
@@ -1401,6 +1403,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi al máximo, los elementos podrían no sincronizarse</string>
   <string name="title_cloud_space_full">Almacenamiento en la nube al máximo</string>
   <string name="title_cmcc_app_check">Verificación incompleta</string>
+  <string name="title_consume_power">Se encontraron problemas con la batería</string> 
+  <string name="title_consume_power_rank">Uso de la batería</string> 
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
   <string name="title_default_app">MIUI %s no se establece como predeterminado</string>
   <string name="title_dev_no">Opciones de desarrollador activadas</string>
@@ -1411,6 +1415,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="title_flow_rank">Uso de datos móviles</string>
   <string name="title_flow_verify">Comparar contabilidad</string>
   <string name="title_flow_verify_failed">"No se pudo ajustar durante 5 días seguidos"</string>
+  <string name="title_garbage_clean">La aplicación alcanzó el tamaño caché %s</string> 
   <string name="title_garbage_lib">Actualizar definiciones</string>
   <string name="title_install_virus_no">Monitor de instalación apagado</string>
   <string name="title_install_virus_yes">Monitor de instalación activado</string>
