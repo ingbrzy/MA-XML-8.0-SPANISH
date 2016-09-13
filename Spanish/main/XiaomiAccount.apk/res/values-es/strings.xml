@@ -55,7 +55,6 @@
   <string name="activate_email_notice">Asegúrese de activar su cuenta dentro de las 24 horas</string>
   <string name="activity_not_found_notice">No se pudo localizar la aplicación</string>
   <string name="add_account">Conectar cuenta</string>
-  <string name="add_this_verified_device">Añadir este dispositivo a verificados</string>
   <string name="alert_title_remove_account">¿Eliminar cuenta?</string>
   <string name="app_name">Cuenta Mi</string>
   <string name="auth_fail_warning">La sesión ha expirado, inténtelo mas tarde</string>
@@ -280,7 +279,6 @@ Para activar su cuenta, siga el
   <string name="passport_reg_failed">No ha sido posible configurar la cuenta</string>
   <string name="passport_reg_new">Crear una Cuenta Mi gratis</string>
   <string name="passport_reg_prompt">¿No tienes una Cuenta Mi? Crea una gratis.</string>
-  <string name="passport_reg_sms_send_prompt">Enviar código de verificación a %s</string>
   <string name="passport_reg_success">Cuenta creada</string>
   <string name="passport_reg_success_summary">%1$s ha sido enlazado a tu cuenta. Puedes usarlo para iniciar sesión o resetear tu contraseña.</string>
   <string name="passport_reg_type_email">Usar dirección de correo electrónico</string>
@@ -321,7 +319,8 @@ Para activar su cuenta, siga el
   <string name="passport_skip_setup_account_msg">Puedes configurar tu Cuenta Mi más tarde desde Ajustes.</string>
   <string name="passport_skip_setup_account_title">Saltar configuración</string>
   <string name="passport_title_reg">Crear una cuenta</string>
-  <string name="passport_trust_device">Confiar en este dispositivo</string>
+  <string name="passport_trust_device">Añadir este dispositivo como dispositivo verificado</string>  
+  <string name="passport_trying_read_verify_code_sms">Conseguir el código de verificación…</string>  
   <string name="passport_uplink_reg">Usar número de teléfono</string>
   <string name="passport_uplink_slot1_reg">Usar SIM 1</string>
   <string name="passport_uplink_slot2_reg">Usar SIM 2</string>
@@ -333,6 +332,7 @@ Para activar su cuenta, siga el
   <string name="passport_user_agreement_p3">" y la "</string>
   <string name="passport_user_agreement_p4">" Política de Privacidad"</string>
   <string name="passport_vcode_notification_title">La verificación de inicio de sesión no se pudo completar</string>
+  <string name="passport_vcode_sms_send_prompt">Enviar código de verificación para %s</string> 
   <string name="passport_vcode_prompt_long">Introducir código de verificación</string>
   <string name="passport_verification_failed">Autentificación fallida</string>
   <string name="passport_verify">Verificar</string>
@@ -342,7 +342,6 @@ Para activar su cuenta, siga el
   <string name="passport_wrong_phone_number_format">El formato de número de teléfono introducido es inválido</string>
   <string name="passport_wrong_vcode">El código introducido es incorrecto</string>
   <string name="phone_activated">%s activado</string>
-  <string name="phone_send_verify_code_prompt">Enviar código de verificación a %s</string>
   <string name="phone_unactivated">Sin activar</string>
   <string name="phone_unknown">Desconocido</string>
   <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
@@ -381,7 +380,6 @@ Asegúrese de recordar las respuestas a las preguntas."</string>
   <string name="success">Listo</string>
   <string name="trusted_browsers">Navegadores de confianza</string>
   <string name="trusted_browsers_prompt">El navegador dejará de ser confiable si borras las cookies.</string>
-  <string name="trying_read_verify_code_sms">Obtener el código de verificación…</string>
   <string name="turn_off_find_device_failed_title">Error al apagar la función Encontrar dispositivo</string>
   <string name="turning_off_find_device">Desactivando la función Encontrar dispositivo…</string>
   <string name="unbind_sns_description">Una vez borrada esta cuenta, no podrás usar la información de tu cuenta %s para iniciar sesión en tu cuenta Mi.</string>
