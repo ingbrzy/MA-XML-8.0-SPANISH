@@ -3233,7 +3233,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="search_pref_volume_wake_title">Encender con botones de volumen;botones de volumen</string>
     <string name="search_screen_on_proximity_sensor_title">Evitar llamadas en el bolsillo;Bolsillo;Marcación en el bolsillo;Llamadas en el bolsillo</string>
     <string name="search_second_space">Segundo espacio</string>
-    <string name="search_xspace">Aplicaciones duales;Clonar aplicaciones</string>
+    <string name="search_xspace">Aplicaciones duplicadas;Clonar aplicaciones</string>
     <string name="search_do_not_disturb">No molestar</string>
     <string name="search_dndm_auto_time_setting">Establecer hora;DND</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Excepciones;Lista de aprobadas;Lista de aprobadas</string>
@@ -3271,7 +3271,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="search_ntts_settings_title">TTS;Ajustes TTS</string>
     <string name="search_accessibility_long_press_timeout_preference_title">Tocar y mantener retraso:Tocar y mantener retraso;Tocar y mantener;Retraso</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Corrección de color;Color;Colores</string>
-    <string name="search_touch_assistant">Bola flotante;Asistente táctil</string>
+    <string name="search_touch_assistant">Asistente táctil;Asistente táctil</string>
     <string name="search_force_touch">3D Touch</string>
     <string name="search_key">Botones;Teclas</string>
     <string name="search_app_switch_key">Recientes;Reciente;Menú;Botón de menú;Administrador de tareas</string>
@@ -3411,7 +3411,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="path_pref_volume_wake_title">Ajustes/Pantalla de bloqueo y contraseña/Encender con los botones de volumen</string>
     <string name="path_screen_on_proximity_sensor_title">Ajustes/Pantalla de bloqueo y contraseña/Prevenir llamadas en el bolsillo</string>
     <string name="path_second_space">Ajustes/Segundo espacio</string>
-    <string name="path_xspace">Ajustes/Aplicaciones duales</string>
+    <string name="path_xspace">Ajustes/Aplicaciones duplicadas</string>
     <string name="path_do_not_disturb_settings">Ajustes/No molestar</string>
     <string name="path_dndm_auto_time_setting">Ajustes/No molestar/Establecer la hora</string>
     <string name="path_dndm_wristband">Ajustes/No molestar/Activar con Mi Banda</string>
@@ -3445,7 +3445,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="path_ntts_settings_title">Ajustes/Ajustes adicionales/Accesibilidad/Texto a voz</string>
     <string name="path_accessibility_long_press_timeout_preference_title">Ajustes/Ajustes adicionales/Accesibilidad/Pulsar y mantener</string>
     <string name="path_accessibility_display_daltonizer_preference_title">Ajustes/Ajustes adicionales/Accesibilidad/Corrección del color</string>
-    <string name="path_touch_assistant_settings">Ajustes/Ajustes adicionales/Bola flotante</string>
+    <string name="path_touch_assistant_settings">Ajustes/Ajustes adicionales/Asistente táctil</string>
     <string name="path_force_touch">Ajustes/Ajustes adicionales/3D Touch</string>
     <string name="path_device_info_memory">Ajustes/Almacenamiento</string>
     <string name="path_storage_settings">Ajustes/Almacenamiento/Limpiador</string>
@@ -3585,7 +3585,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="handy_mode_enter_ask">Preguntar antes de entrar en modo a una mano</string>
     <string name="handy_mode_tips">Deslice a la izquierda o a la derecha desde el botón de inicio para poner la pantalla en un lado.</string>
     <string name="handy_mode_size">Tamaño de pantalla</string>
-    <string name="touch_assistant">Bola flotante</string>
+    <string name="touch_assistant">Asistente táctil</string>
     <string name="force_touch">3D Touch</string>
     <string name="force_touch_enable">Activar Toque 3D</string>
     <string name="force_touch_enable_tips">Toque largo en el icono de la aplicación para mostrar los atajos, mientras el 3D Touch esté activo.</string>
@@ -3644,7 +3644,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="wifi_tether_settings_title">Punto de acceso personal</string>
     <string name="lock_settings">Pantalla de bloqueo y contraseña</string>
     <string name="second_space">Segundo espacio</string>
-    <string name="xspace">Aplicaciones duales</string>
+    <string name="xspace">Aplicaciones duplicadas</string>
     <string name="call_settings_primary_user_only">Cambie los ajustes de llamada en su Primer espacio</string>
     <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
     <string name="lock_settings_picker_settings">Establecer bloqueo de pantalla</string>
@@ -4584,7 +4584,7 @@ Seleccione su sistema operativo:"</string>
     <string name="uninstall_xspace_app_dlg_msg">Al desinstalar una aplicación dual se eliminarán todos los datos de la aplicación.</string>
     <string name="uninstall_dlg_title">¿Desinstalar ahora?</string>
     <string name="uninstall_dlg_msg">Al desinstalar borrará todos los datos de las aplicaciones.</string>
-    <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duales correspondientes se eliminarán junto a los datos de la aplicación.</string>
+    <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duplicadas correspondientes se eliminarán junto a los datos de la aplicación.</string>
     <string name="mqsas_settings_category">MQSAS</string>
     <string name="record_anr_in_background">Grabar casos de ANR en segundo plano</string>
     <string name="anr_record_interval_title">Grabar intervalos entre ANR</string>
