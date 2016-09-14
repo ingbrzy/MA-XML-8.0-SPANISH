@@ -251,7 +251,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="card_main_xspace_action">Crear</string>
   <string name="card_main_xspace_summary">Crear cuentas dobles para cualquier aplicación</string>
   <string name="card_main_xspace_title">Aplicaciones dobles</string>
-  <string name="charging_text_battery_full_time">Última carga</string>
+  <string name="charging_text_battery_full_time">"Última carga"</string>
   <string name="charging_text_battery_nearly_full">Casi totalmente cargada</string>
   <string name="charging_text_battery_perfect">Completamente cargada</string>
   <string name="charging_text_time_calculating">Calculando tiempo de carga…</string>
@@ -804,8 +804,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_cell">Antena activada</string>
   <string name="power_center_auto_shutdown">Calendario de encendido/apagado</string>
   <string name="power_center_auto_shutdown_summary_default">Enciende o apaga tu dispositivo a una hora programada</string>
-  <string name="power_center_battery_full">Batería cargada</string>
-  <string name="power_center_charge_time">%1$s para terminar</string>
+  <string name="power_center_battery_full">"Batería cargada"</string>
+  <string name="power_center_charge_time">%1$spara terminar</string>
   <string name="power_center_consume_rank">Consumo de batería</string>
   <string name="power_center_consume_time">%1$s restante</string>
   <string name="power_center_custom_summary_default">Mejora la batería con perfiles personalizados</string>
