@@ -248,6 +248,13 @@
     <string name="login_immediately">Iniciar sesión</string>
     <string name="long_click_dialog_summary">Presione prolongadamente para añadir a las excepciones.</string>
     <string name="long_click_dialog_title">Aviso</string>
+    <string name="low_memory_clean_dialog_msg">En primer lugar borrar archivos de al menos 100 MB</string>  
+    <string name="low_memory_clean_dialog_ok_button">OK</string>  
+    <string name="low_memory_clean_dialog_title">No hay suficiente espacio libre</string>  
+    <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
+    <string name="low_memory_warning_dialog_msg">Liberar espacio en el dispositivo para continuar</string> 
+    <string name="low_memory_warning_dialog_ok_button">Limpiar</string> 
+    <string name="low_memory_warning_dialog_title">No hay suficiente espacio libre</string> 
     <string name="mainbtn_text_quick_cleanup">Limpiar %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Limpiar</string>
     <string name="megabyteShort">MB</string>
