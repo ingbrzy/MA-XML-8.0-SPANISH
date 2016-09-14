@@ -603,12 +603,12 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Ninguno</item>
-        <item>Street-snap(necesitas seleccionarlo en la cámara)</item>
-        <item>Atajos en transporte público</item>
+        <item>Quick-snap(Actívalo en la cámara)</item>
+        <item>Tarjeta de atajos en transporte público</item>
     </string-array>
         <string-array name="long_press_volume_down_action_value">
         <item>ninguno</item>
-        <item>Street-snap</item>
+        <item>Modo Quick-snap</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
