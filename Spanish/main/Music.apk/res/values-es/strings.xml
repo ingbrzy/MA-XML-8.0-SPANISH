@@ -23,6 +23,7 @@
   <string name="action_settings">Ajustes</string>
   <string name="ad_close">Cerrar</string>
   <string name="ad_extension">Promoción</string>
+  <string name="ad_mark">Anuncio</string>
   <string name="add_music">Añadir canciones</string>
   <string name="add_to_last_of_playlist">Añadir al final de la lista de reproducción.</string>
   <string name="alaka_required">Esta canción no está disponible.</string>
@@ -200,6 +201,7 @@
   <string name="download_done_btn">Descargado</string>
   <string name="download_error">Ha fallado</string>
   <string name="download_error_insufficient_space">Sin espacio</string>
+  <string name="download_fail_to_fetch_info">Error en la descarga. Por favor inténtelo de nuevo.</string>
   <string name="download_filesize_unknown">Desconocido</string>
   <string name="download_in_process">DESCARGANDO</string>
   <string name="download_info_count_deleted_tasks">%s descarga eliminada</string>
@@ -363,6 +365,7 @@
   <string name="list_item_play_FM_radio">Toca para reproducir la radio FM</string>
   <string name="list_item_play_all_tracks">Reproducir todo</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
+  <string name="loadercontainer_loading">Un momento…</string>
   <string name="loading_hint">Un momento…</string>
   <string name="local_music">Local</string>
   <string name="local_music_empty">La lista de reproducción local está vacía</string>
@@ -455,6 +458,7 @@
   <string name="nav_online_billboard">Listas</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Listas de reproducción</string>
+  <string name="network_error_and_retry">"No se pudo conectar, pulse para volver intentarlo"</string>
   <string name="network_failure">Comprueba tu conexión e inténtalo de nuevo.</string>
   <string name="network_request_error">No se puede conectar a la red</string>
   <string name="network_settings_error">No se puede conectar a la red</string>
@@ -512,7 +516,7 @@
   <string name="online_music_enabled_summary">Escucha y descarga tus canciones favoritas. ¡Consulta las mejores canciones y listas de reproducción recomendadas estés donde estés!</string>
   <string name="online_music_enabled_title">El streaming gratuito está aquí</string>
   <string name="online_playlist_is_empty">La lista de reproducción está vacía</string>
-  <string name="online_recommend">Recomendado</string>
+  <string name="online_recommend">Lista de reproducción</string>
   <string name="online_special">Especial</string>
   <string name="open_download">Abrir</string>
   <string name="order_pending">Esperando confirmación</string>
@@ -665,6 +669,7 @@
   <string name="share_chooser_title">Compartir usando</string>
   <string name="share_description">De Mi Music</string>
   <string name="share_end_note">De Mi Music</string>
+  <string name="share_image_error">Error al compartir la imagen porque se produjo un error en la descarga</string>
   <string name="share_text_list">"Lista de reproducción en Mi Music: "</string>
   <string name="share_text_song">"Canción en Mi Music: "</string>
   <string name="show_more">Mostrar %s mas</string>
@@ -715,6 +720,19 @@
   <string name="tab_track">Canc.</string>
   <string name="tab_track_list">Canc.</string>
   <string name="take_effect_afater_restart">Es necesario reiniciar la aplicación para que esta configuración tenga efecto.</string>
+  <string name="talkback_back">Salir de la página actual</string>
+  <string name="talkback_device">Escuchar a través de otros dispositivos</string>
+  <string name="talkback_download">Descargar</string>
+  <string name="talkback_favorite">Me gusta esta canción</string>
+  <string name="talkback_mode">Cambiar a modo bucle</string>
+  <string name="talkback_more">Más menú</string>
+  <string name="talkback_next">Siguiente canción</string>
+  <string name="talkback_play">Reproducir / Pausar</string>
+  <string name="talkback_pre">Anterior canción</string>
+  <string name="talkback_progress">Barra de progreso</string>
+  <string name="talkback_radar">Reconocimiento de música</string>
+  <string name="talkback_search">Buscar</string>
+  <string name="talkback_share">Compartir</string>
   <string name="task_already_exist">La tarea ya existe</string>
   <string name="ticket_summary">Comprar entradas para espectáculos, conciertos, obras de teatro y otros eventos</string>
   <string name="ticket_title">entradas para espectáculos</string>
@@ -732,6 +750,7 @@
   <string name="toast_cancel_download">Descarga cancelada</string>
   <string name="toast_cancel_play">Reproducción cancelado</string>
   <string name="toast_download_error_by_count_limit">Se ha agotado su cuota de descarga para este mes.</string>
+  <string name="toast_download_error_by_not_login">Inicie sesión con su Cuenta Mi e inténtelo de nuevo.</string>
   <string name="toast_download_error_by_vip_required">Obtener paquete de canción premium para descargar esta canción.</string>
   <string name="toast_download_in_process">Descarga en proceso</string>
   <string name="toast_normal_songs_for_download">Descargando calidad estándar</string>
@@ -793,7 +812,7 @@
   <string name="warning_tip_ok">Pausar</string>
   <string name="warning_tip_title">Advertencia de uso de datos</string>
   <string name="welcome_to_new_music">Bienvenido a la nueva version Mi Music</string>
-  <string name="wifi_required_body" formatted="false">"\"Deberías usar una red WI-FI para completar ésta %s descarga. 
+  <string name="wifi_required_body" formatted="false">"\"Deberías usar una red WI-FI para completar ésta %s descarga.
 
 Toca %s para iniciar la descarga la próxima vez que tengas una conexión tipo WI-FI."</string>
   <string name="wifi_required_title">Debe conectarse a WI-FI para descargar este archivo</string>
