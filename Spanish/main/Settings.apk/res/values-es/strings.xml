@@ -105,6 +105,7 @@
     <string name="music_mi_effect_summary">Usar potenciador Mi Sound cuando se utilicen altavoces</string>
     <string name="music_headphone_settings">Seleccione el tipo de auriculares</string>
     <string name="music_dirac_control">Optimizar la calidad del audio</string>
+    <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_off">Dirac desactivado</string>
     <string name="music_dirac_mode_general">General</string>
     <string name="music_dirac_mode_general_earbuds">General</string>
@@ -171,7 +172,10 @@
     <string name="status_bar_settings_toggle_position">Cambiar posiciones</string>
     <string name="status_bar_settings_long_click_sort">Pulse y mantenga para acceder a un acceso rápido</string>
     <string name="status_bar_screen_button_key">Botones de la pantalla</string>
-    <string name="status_bar_key_position_custom">Posición del botón personalizado</string>
+    <string name="status_bar_key_position_custom">Cambiar posiciones del botón</string>
+    <string name="status_bar_screen_button_desc">Deslizar para ocultar el botón en pantalla</string>
+    <string name="status_bar_screen_button_key">Botones en pantalla</string>
+    <string name="status_bar_screen_button_key_can_hide">Los botones en pantalla se pueden ocultar</string>
     <string name="status_bar_screen_key_menu">Botón Menú</string>
     <string name="status_bar_screen_key_home">Botón Inicio</string>
     <string name="status_bar_screen_key_recent_apps">Botón de aplicaciones recientes</string>
@@ -885,12 +889,12 @@ Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al
     <string name="wifi_status_test">Estado Wi-Fi</string>
     <string name="wifi_update">Refrescar estadísticas</string>
     <string name="wifi_state_label">Estado Wi-Fi:</string>
-    <string name="network_state_label">Network state:</string>
+    <string name="network_state_label">Estado de la red:</string>
     <string name="supplicant_state_label">Estado de la solicitud:</string>
     <string name="rssi_label">RSSI:</string>
     <string name="bssid_label">BSSID:</string>
     <string name="ssid_label">SSID:</string>
-    <string name="hidden_ssid_label">Hidden SSID:</string>
+    <string name="hidden_ssid_label">SSID ocultos:</string>
     <string name="ipaddr_label">IPaddr:</string>
     <string name="macaddr_label">MAC addr:</string>
     <string name="networkid_label">Network ID:</string>
@@ -898,8 +902,8 @@ Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al
     <string name="scan_list_label">Scan results:</string>
     <string name="wifi_state_disabling">Disabling</string>
     <string name="wifi_state_disabled">Disabled</string>
-    <string name="wifi_state_enabling">Enabling</string>
-    <string name="wifi_state_enabled">Enabled</string>
+    <string name="wifi_state_enabling">Habilitando</string>
+    <string name="wifi_state_enabled">Habilitado</string>
     <string name="wifi_state_unknown">Desconocido</string>
     <string name="wifi_config_info">Ajustes Wi-Fi</string>
     <string name="config_list_label">redes configuradas</string>
@@ -3606,7 +3610,7 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="home_key">Inicio</string>
     <string name="back_key">Volver</string>
     <string name="screen_key_long_press_timeout">Establecer el tiempo de pulsación prolongada</string>
-    <string name="under_keyguard">Pantalla de bloqueo</string>
+    <string name="under_keyguard">Apagar pantalla</string>
     <string name="enable_snapshot_screenlock">Pulsación larga para realizar una foto</string>
     <string name="disable_power_key_long_press_under_keyguard">Desactivar el menú del botón de apagado</string>
     <string name="trackball_wake_title">Encender trackball</string>
@@ -4119,6 +4123,8 @@ Seleccione su sistema operativo:"</string>
     <string name="se_route_uicc">Elemento seguro en la SIM</string>
     <string name="current_use_uicc_se">Usando elemento seguro en la SIM</string>
     <string name="current_use_ese">Usar elemento seguro incorporado</string>
+    <string name="current_use_ese_wallet">Está usando Mi Wallet. Le permite usar Mi Pay y tarjeta de transporte NFC.</string>
+    <string name="current_use_hce_wallet">Está usando HCE Wallet</string>
     <string name="open_wifi_connect_title">Conectar con %1$s</string>
     <string name="open_wifi_connect_summary">Pulse para ver los detalles.</string>
     <string name="free_wifi_summary">Pulse para conectar a %1$s.</string>
@@ -4447,6 +4453,7 @@ Seleccione su sistema operativo:"</string>
     <string name="crypt_keeper_content">Puede cifrar sus cuentas, configuraciones, aplicaciones descargadas y sus datos, contenido multimedia y otros archivos.</string>
     <string name="crypt_keeper_decrypt_methods_title">Descifrando su dispositivo</string>
     <string name="crypt_keeper_decrypt_methods">Después de cifrar su teléfono, suponiendo que’configuró un bloqueo de pantalla (es decir, un patrón o PIN numérico o contraseña), deberá’desbloquear la pantalla para descifrar su teléfono cada vez que lo encienda. La única manera diferente de descifrar es realizar un restablecimiento de datos de fábrica, se eliminarán todos sus datos.</string>
+    <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Si usted ha cifrado su teléfono, tendrá que introducir su contraseña, PIN, o patrón cada vez que reinicie el dispositivo para descifrarlo</string>
     <string name="crypt_keeper_conditions_title">Acerca del cifrado de su dispositivo</string>
     <string name="crypt_keeper_conditions">El proceso de cifrado puede tardar una hora o más. Debe comenzar con la batería cargada y mantener su teléfono enchufado durante el proceso. Si lo interrumpe, ’perderá algunos o todos sus datos.</string>
     <string name="application_lock_name">Bloqueo de aplicaciones</string>
@@ -4838,4 +4845,19 @@ Attempts Remaining :"</string>
     <string name="usb_sdcard_title">Montar tarjeta SD</string>
     <string name="external_storage_turn_on">El almacenamiento externo ha sido activado</string>
     <string name="external_storage_turn_off">El almacenamiento externo ha sido desactivado</string>
+    <string name="close_gesture">Close gesture</string>
+    <string name="got_it">Lo tengo</string>
+    <string name="hide">Ocultar</string>
+    <string name="hide_screen_button">Ocultar botón de la pantalla</string>
+    <string name="instruction_title">Instrucciones</string>
+    <string name="long_press_volume_down">Pulsación larga bajar volumen</string>
+    <string name="pref_volume_launch_camera_summary">Pulsar el botón bajar volumen dos veces lanza la cámara</string>
+    <string name="pref_volume_launch_camera_title">Cámara rápida</string>
+    <string name="screen_button">Botón en pantalla</string>
+    <string name="screen_button_tips">Hidden key decline</string>
+    <string name="se_wallet_ese">Mi Wallet le permite usar Mi Pay y tarjeta de transporte NFC.</string>
+    <string name="suspension_ball_enable">Switch suspension ball</string>
+    <string name="suspension_ball_enable_desc">After turned on, you can quickly open ball suspended on screen button</string>
+    <string name="switch_screen_button_order">Switch screen button order</string>
+    <string name="switch_screen_button_order_desc">After opening , down gesture to hide the screen button</string>
 </resources>
