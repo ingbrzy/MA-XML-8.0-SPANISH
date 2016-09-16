@@ -10,12 +10,15 @@
   <string name="apply_font_btn_reboot">Reiniciar</string>
   <string name="apply_font_tip">Reiniciar para aplicar la fuente de este tema.</string>
   <string name="apply_theme_with_ringtones">Usar los tonos del tema</string>
+  <string name="audio_duration_minutes_format">%1$d minutos</string>
+  <string name="audio_duration_seconds_format">%1$d segundos</string>
   <string name="backup_theme_dialog_message">¿Hacer una copia de seguridad del tema actual?</string>
   <string name="backup_theme_dialog_ok">Aceptar</string>
   <string name="backup_theme_fail_trial_rights_message">No se puede hacer copia de seguridad de los recursos de prueba</string>
   <string name="backup_theme_name">Copia de seguridad del tema</string>
   <string name="backup_theme_progress_message">Haciendo copia de seguridad…</string>
   <string name="backup_theme_success_message">Copia de seguridad del tema realizada.</string>
+  <string name="browser_local_resource">Recursos locales</string>
   <string name="change_host_hint">Change host</string>
   <string name="change_wallpaper">Fondo de pantalla</string>
   <string name="close">Cerrar</string>
@@ -36,6 +39,8 @@
   <string name="description_version">Versión</string>
   <string name="description_version_szie">Versión: %1$s Tamaño: %2$s</string>
   <string name="desktop_wallpaper">Pantalla de inicio</string>
+  <string name="dev_options">Opciones dispositivo</string>
+  <string name="dev_options_summary">Recurso Web</string>
   <string name="download_failed">Descarga fallida</string>
   <string name="download_preview_failed">No se puede cargar la vista previa</string>
   <string name="download_success">Descarga finalizada</string>
@@ -94,6 +99,7 @@
   <string name="my_gifts">Regalos</string>
   <string name="my_gifts_purchased">Comprados</string>
   <string name="my_gifts_received">Recibidos</string>
+  <string name="no_data">No se puede conectar a la red</string>
   <string name="online_no_network">No se puede conectar a la red</string>
   <string name="online_search_hint">Buscar recursos en línea</string>
   <string name="present_local_themes">Descargados</string>
@@ -104,6 +110,7 @@
   <string name="provision_title">Elija un tema</string>
   <string name="purchased_list">Comprados</string>
   <string name="purchased_list_format">%1$s comprados</string>
+  <string name="reload">Inténtelo de nuevo</string>
   <string name="resource_account_abnormal_state">Error en la cuenta. Espere uno o dos minutos y vuelva a intentarlo.</string>
   <string name="resource_account_fail_to_add">No se puede añadir la cuenta</string>
   <string name="resource_account_login">Iniciar sesión</string>
@@ -243,6 +250,12 @@
   <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
   <string name="resource_save_to_note">Guardar en Notas</string>
+  <string name="resource_search_color_hint_blue">Azul</string>
+  <string name="resource_search_color_hint_green">Verde</string>
+  <string name="resource_search_color_hint_orange">Naranja</string>
+  <string name="resource_search_color_hint_purple">Morado</string>
+  <string name="resource_search_color_hint_red">Rojo</string>
+  <string name="resource_search_color_hint_yellow">Amarillo</string>
   <string name="resource_search_list_empty">No se ha encontrado nada</string>
   <string name="resource_see_more">Ver más</string>
   <string name="resource_select">Seleccionar</string>
@@ -287,12 +300,16 @@
   <string name="resource_update">Actualizar</string>
   <string name="resource_user_know">Aceptar</string>
   <string name="resource_waiting_download">Esperando</string>
+  <string name="resource_waiting_pause">Pausa</string>
   <string name="sdcard_not_mounted_dialog_message">"Inserte la tarjeta SD ahora.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Tarjeta SD no detectada</string>
   <string name="search_hint_header_text">Lo más buscado</string>
   <string name="selected_resource_file_invalid">No se puede utilizar el archivo de recurso seleccionado</string>
   <string name="settings">Ajustes</string>
+  <string name="theme_apply_audio_dialog_item_alarm">Alarma</string>
+  <string name="theme_apply_audio_dialog_item_notification">Notificación</string>
+  <string name="theme_apply_audio_dialog_item_ringtone">Tono de llamada</string>
   <string name="theme_apply_failured">No se puede aplicar el fondo de la pantalla de bloqueo</string>
   <string name="theme_apply_success">Pantalla de bloqueo aplicada</string>
   <string name="theme_applying">Aplicando…</string>
@@ -301,6 +318,7 @@
   <string name="theme_batch_update_dlg_content_single">¿Actualizar %1$s ahora?</string>
   <string name="theme_batch_update_dlg_title">Actualizar tema</string>
   <string name="theme_batch_updating_text">Actualizando (%1$d)</string>
+  <string name="theme_bug_report">Feedback</string>
   <string name="theme_changed_failed_message">No se puede aplicar el tema</string>
   <string name="theme_changed_message">Tema aplicado</string>
   <string name="theme_changing_dialog_title">"Aplicando "</string>
