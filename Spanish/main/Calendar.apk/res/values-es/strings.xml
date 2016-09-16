@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Sugerencias de contacto abiertas</string>
   <string name="accessibility_add_attendee">Añadir asistente</string>
   <string name="accessibility_add_reminder">Añadir recordatorio</string>
   <string name="accessibility_all_day">Evento de todo el día</string>
@@ -104,7 +105,7 @@
   <string name="copy_email">Copiar la dirección de email</string>
   <string name="copy_number">Copiar el numero de teléfono</string>
   <string name="create_an_account_desc">"El calendario funciona mejor con una Cuenta Mi.
-    
+
 • Acceso desde cualquier navegador
 • Copia de seguridad de tus eventos"</string>
   <string name="creating_event">Evento creado</string>
@@ -154,6 +155,7 @@
   <string name="drop_down_list_header_loading_text">Cargando…</string>
   <string name="drop_down_list_header_pull_text">Deslice hacia abajo actualizar</string>
   <string name="drop_down_list_header_release_text">Desliza para actualizar</string>
+  <string name="dropdown_delete_button_desc">Quitar %s de destinatarios</string>
   <string name="edit_event_all_day_label">Todo el día</string>
   <string name="edit_event_calendar_label">Calendario</string>
   <string name="edit_event_confirm_message">¿Descartar cambios?</string>
@@ -237,8 +239,6 @@
   <string name="marketing_activity_text_cake">Pastel de cumpleaños predeterminado</string>
   <string name="marketing_activity_text_flower">Enviar flores</string>
   <string name="marketing_activity_text_header">Enviar un regalo</string>
-  <string name="match_ed">已结束</string>
-  <string name="match_ing">进行中</string>
   <string name="menu_about_preferences">Acerca de Calendario</string>
   <string name="menu_general_preferences">Configuración general</string>
   <string name="menu_preferences">Ajustes</string>
@@ -312,6 +312,7 @@
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Zona horaria propia</string>
   <string name="preferences_import_credit_repayment">Pagos con tarjeta de crédito</string>
+  <string name="preferences_notification_ringtone_title">Sonido</string>
   <string name="preferences_reminder_title">Notificación y recordatorios</string>
   <string name="preferences_show_week_num_title">Mostrar número de semana</string>
   <string name="preferences_solar_terms">Mostrar condiciones solares</string>
@@ -365,6 +366,7 @@
   <string name="saving_event">Evento guardado</string>
   <string name="saving_event_with_guest">Las actualizaciones serán enviadas</string>
   <string name="search">Búsqueda</string>
+  <string name="search_calendar">Calendario;Agenda;Recordatorios</string>
   <string name="search_history_cleared">Historial de búsqueda limpiado</string>
   <string name="search_title">Buscar mis calendarios</string>
   <string name="select_date">Seleccionar fecha</string>
@@ -372,21 +374,21 @@
   <string name="select_synced_calendars_title">Calendarios a sincronizar</string>
   <string name="select_visible_calendars_title">Calendarios a mostrar</string>
   <string name="set_as_wallpaper">Establecer como fondo de pantalla</string>
-  <string name="setting_chinese_almanac">Ver almanaque</string>
   <string name="setting_about_calendar_version">Versión de Calendario:</string>
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">Versión MIUI:</string>
   <string name="setting_about_summary">Versión:</string>
+  <string name="setting_chinese_almanac">Ver almanaque</string>
+  <string name="setting_chinese_holiday">Ver días festivos</string>
   <string name="setting_holiday">Festivos</string>
   <string name="setting_holiday_display_desc">Las tarjetas de días festivos se encuentran debajo de la agenda en la página de inicio</string>
   <string name="setting_holiday_display_title">Mostrar festivos</string>
   <string name="setting_holiday_reminder">Recordatorio de festivos</string>
   <string name="setting_homepage">Ajustes de la página Inicio</string>
-  <string name="setting_chinese_holiday">Ver días festivos</string>
   <string name="setting_others">Otros</string>
+  <string name="setting_sms_import">Importar eventos por SMS</string>
   <string name="setting_title_about">Acerca de</string>
   <string name="settings_calendar">Calendario</string>
-  <string name="setting_sms_import">Importar eventos por SMS</string>
   <string name="show_controls">Mostrar controles</string>
   <string name="show_day_view">Mostrar día</string>
   <string name="show_newer_events">Toque para ver los eventos después de %1$s</string>
@@ -409,7 +411,6 @@
   <string name="subscribe_description_card_more_launch">Expansión</string>
   <string name="subscribe_detail_title">Detalles de la suscripción</string>
   <string name="subscribe_ed">Ya estás suscrito</string>
-  <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="sync_notice_cancel_toast_message">El calendario local no se sincronizará con Mi Cloud</string>
   <string name="sync_notice_message">¿Sincronizar su calendario con Mi Cloud?</string>
   <string name="sync_notice_ok">Sincronizar ahora</string>
