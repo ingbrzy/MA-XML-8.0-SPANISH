@@ -28,7 +28,7 @@
   <string name="add_organization">Añadir organización</string>
   <string name="add_to_my_contacts">Añadir a mis contactos</string>
   <string name="add_wait">Añadir espera</string>
-  <string name="add_xiaomi_account_dialog_btn">Usar cuenta Mi</string>
+  <string name="add_xiaomi_account_dialog_btn">Usar Cuenta Mi</string>
   <string name="add_xiaomi_account_dialog_msg">¡Respaldar los contactos a su cuenta de Mi para acceder a ellos desde cualquier lugar!</string>
   <string name="add_xiaomi_account_dialog_title">Elija cuenta</string>
   <string name="aggregation_suggestion_edit_dialog_message">¿Cambiar a edición del contacto del mismo nombre? La información introducida hasta el momento se copiará.</string>
@@ -208,7 +208,7 @@
   <string name="contact_detail_miprofile_accept_fail_toast">No se pudieron intercambiar las tarjetas de contacto</string>
   <string name="contact_detail_miprofile_accept_success_toast">Tarjetas de contacto intercambiadas</string>
   <string name="contact_detail_miprofile_binded_label">Verificada</string>
-  <string name="contact_detail_miprofile_exchange_closed">"No hay ningún número de teléfono asociado con esta cuenta Mi
+  <string name="contact_detail_miprofile_exchange_closed">"No hay ningún número de teléfono asociado con esta Cuenta Mi
 Las tarjetas de contacto están apagadas"</string>
   <string name="contact_detail_miprofile_privacy_settings">Solicitar permiso para ver</string>
   <string name="contact_detail_miprofile_request">Intercambiar tarjetas de contacto</string>
@@ -519,8 +519,8 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="import_to_xiaomi_account_confirm">Importar</string>
   <string name="import_to_xiaomi_account_progress_finish">¡Contactos importados!</string>
   <string name="import_to_xiaomi_account_progress_message">Importando…</string>
-  <string name="import_to_xiaomi_account_progress_title">Importar contactos a la cuenta Mi</string>
-  <string name="import_to_xiaomi_account_title">Importar a cuenta Mi</string>
+  <string name="import_to_xiaomi_account_progress_title">Importar contactos a la Cuenta Mi</string>
+  <string name="import_to_xiaomi_account_title">Importar a la Cuenta Mi</string>
   <string name="import_vcard_description">Importar contactos de la memoria interna del teléfono</string>
   <string name="import_vcard_dialog_message">¿Importar vCard?</string>
   <string name="import_weibo_dialog_title">Importar contactos de Weibo</string>
@@ -647,7 +647,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="miprofile_alertdialog_edit">Introducir nombre</string>
   <string name="miprofile_alertdialog_message">Mostrar este nombre a los contactos cuando solicites un intercambio de tarjetas.</string>
   <string name="miprofile_alertdialog_title">Introducir nombre</string>
-  <string name="miprofile_bind_account_alertdialog_message">Debes añadir el número de teléfono de este dispositivo a tu cuenta Mi para usar esta funcionalidad.</string>
+  <string name="miprofile_bind_account_alertdialog_message">Debes añadir el número de teléfono de este dispositivo a tu Cuenta Mi para usar esta funcionalidad.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Añadir número</string>
   <string name="miprofile_bind_account_alertdialog_title">Añadir número de teléfono</string>
   <string name="miprofile_contact_add">Añadir</string>
@@ -657,7 +657,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="miprofile_contact_verifying">Verificando</string>
   <string name="miprofile_edit_title">Editar perfil</string>
   <string name="miprofile_error_accept_self">No puedes intercambiar tu propia tarjeta de contacto</string>
-  <string name="miprofile_error_no_miaccount">Iniciar sesión con tu cuenta Mi</string>
+  <string name="miprofile_error_no_miaccount">Inicia sesión con tu Cuenta Mi</string>
   <string name="miprofile_error_not_opened">Apagar tarjetas de contacto</string>
   <string name="miprofile_error_not_set">Tu tarjeta de contacto no ha sido sincronizada con el servidor</string>
   <string name="miprofile_error_unknown">Error desconocido</string>
@@ -730,7 +730,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="nickname_picker_nickname_column">Título</string>
   <string name="noAccounts">Para crear grupos necesita una cuenta.</string>
   <string name="noContactHelpTextAccountsInfo"/>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar datos de contactos utilizando la cuenta Mi</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar datos de contactos utilizando su Cuenta Mi</string>
   <string name="noContacts">No hay contactos</string>
   <string name="noContactsHelpText">"No tiene ningún contacto que mostrar.
 
@@ -905,9 +905,9 @@ Para agregar un contacto a la lista de favoritos:
   <string name="pref_key_sim_manage2">Configurar SIM 2</string>
   <string name="pref_rcs_backup_restore_title">Copia de seguridad y Ajustes de recuperación</string>
   <string name="pref_rcs_fetion_entry_title">Ajustes Fetion</string>
-  <string name="pref_summary_import_from_account">Transferir contactos desde cuentas de Google y Exchange a mi cuenta Mi</string>
+  <string name="pref_summary_import_from_account">Transferir contactos desde cuentas de Google y Exchange a mi Cuenta Mi</string>
   <string name="pref_title_account_import">Importar contactos</string>
-  <string name="pref_title_import_from_account">Importar a cuenta Mi</string>
+  <string name="pref_title_import_from_account">Importar a Cuenta Mi</string>
   <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_auto_ip_summary_on">Prefijo IP del operador: %s</string>
   <string name="preference_auto_ip_title">Prefijo IP automática</string>
