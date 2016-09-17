@@ -74,4 +74,15 @@
         <item>CPU</item>
         <item>Despertar</item>
     </string-array>
+	    </string-array>
+    <string-array name="group_name">
+        <item>normal</item>
+        <item>ocultar</item>
+        <item>lectura</item>
+        <item>media</item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>seleccionado</item>
+        <item>deseleccionado</item>
+    </string-array>
 </resources>
