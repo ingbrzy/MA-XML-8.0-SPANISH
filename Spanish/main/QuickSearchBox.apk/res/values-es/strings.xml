@@ -81,10 +81,10 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Prueba diciendo: </string>
   <string name="web_search_results">Resultados web</string>
-  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
-  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
+  <string name="xiaomi_hint">http://fluxyon.comxa.com/hint.json</string>
+  <string name="xiaomi_homepage_hint">http://127.0.0.1</string>
+  <string name="xiaomi_homepage_suggest">http://127.0.0.1</string>
   <string name="xiaomi_search_label">Resultados</string>
-  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
+  <string name="xiaomi_source_url">http://127.0.0.1</string>
+  <string name="xiaomi_suggest_base">http://fluxyon.comxa.com/buscarengoogle.html</string>
 </resources>
