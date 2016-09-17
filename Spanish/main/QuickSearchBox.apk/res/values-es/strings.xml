@@ -45,7 +45,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="google_search_hint">Búsqueda en Google</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Búsqueda en Google</string>
-  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&client=android&q=</string>
+  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
   <string name="loading">Un momento…</string>
   <string name="menu_help">Ayuda</string>
@@ -57,7 +57,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
   <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
   <string name="search_apps">Buscar aplicaciones</string>
-  <string name="search_apps_url">market://search?q=%s&ref=migs&pageRef=migs_local_app</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Más</string>
   <string name="search_history">Historial</string>
@@ -70,7 +70,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
   <string name="search_suggestion">Consejos</string>
   <string name="search_videos">Buscar Videos</string>
-  <string name="search_videos_url">mivideo://video/search?id=%s&ref=migs-local-video</string>
+  <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Buscar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="settings_description">Nombres de aplicaciones instaladas</string>
