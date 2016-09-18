@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="mins_ago">
-        <item quantity="other">Hace %1$d mins</item>
-        <item quantity="one">Hace %1$d min</item>
+        <item quantity="other">Hace %1$d minutos</item>
+        <item quantity="zero">Hace %1$d minutos</item>
+        <item quantity="one">Hace %1$d minuto</item>
+        <item quantity="two">Hace %1$d minutos</item>
+        <item quantity="few">Hace %1$d minutos</item>
+        <item quantity="many">Hace %1$d minutos</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">Hace %1$d horas</item>
