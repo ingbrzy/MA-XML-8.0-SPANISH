@@ -194,7 +194,7 @@ Para activar su cuenta, siga el
  link que hemos enviado a su bandeja de entrada."</string>
   <string name="passport_completed">Finalizar</string>
   <string name="passport_confirm_recycle_account">Sí</string>
-  <string name="passport_copy_message_text_success">Texto copiado</string>
+  <string name="passport_copy_message_text_success">¡Copiado!</string>
   <string name="passport_copy_message_vcode">Copiar código de verificación</string>
   <string name="passport_delete_account">Cerrar sesión</string>
   <string name="passport_downlink_reg">Crear una cuenta usando un número telefónico</string>
@@ -383,4 +383,5 @@ Asegúrese de recordar las respuestas a las preguntas."</string>
   <string name="wipe_data_dialog_msg">%s serán eliminados si continúas.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Algunos elementos no se han sincronizado</string>
+  <string name="passport_message_dialog_title">SMS con código de verifiación</string>
 </resources>

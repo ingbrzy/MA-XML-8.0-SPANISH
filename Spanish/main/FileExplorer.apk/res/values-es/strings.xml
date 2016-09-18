@@ -39,7 +39,7 @@
   <string name="backup_success_confirm">Ver</string>
   <string name="backup_success_message">Copiado en %1$s</string>
   <string name="backup_success_title">Copiado</string>
-  <string name="backup_title">Copias de WeChat Video</string>
+  <string name="backup_title">¿Respaldar de video chats?</string>
   <string name="big5_summary">Codificación predeterminada de Chino tradicional de Windows</string>
   <string name="big5_title">BIG5</string>
   <string name="bind">Añadir</string>
@@ -198,7 +198,7 @@
   <string name="encrypt_error">Error al encriptar archivos, intente de nuevo</string>
   <string name="encrypt_prefix">ENCRIPTADO</string>
   <string name="encrypt_success">Encriptados correctamente</string>
-  <string name="encrypt_success_first_five">Encriptado y ocultado. Deslice hacia abajo en la pantalla de inicio del Explorador para ver los archivos.</string>
+  <string name="encrypt_success_first_five">Cifrado y ocultado. Deslice hacia abajo en la pantalla de inicio del Explorador para ver los archivos.</string>
   <string name="encrypting">Encriptando…</string>
   <string name="error_contains_sharer_path">No se puede encriptar archivos en la carpeta /MIUI/Gallery/cloud/sharer. Muévalos a otro sitio e intente de nuevo.</string>
   <string name="error_filename_too_long">El nombre de archivo introducido es demasiado largo.</string>
@@ -477,7 +477,7 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="notification_summary">%1$s no permite esta característica actualmente</string>
   <string name="notification_title">Cuando %1$s crea un archivo</string>
   <string name="notification_wechat_auto_backup_hint">Más información.</string>
-  <string name="notification_wechat_auto_backup_switch_title">Respaldar videos WeChat</string>
+  <string name="notification_wechat_auto_backup_switch_title">Respaldar video chats</string>
   <string name="notification_wechat_expired_empty">WeChat ya ha borrado estos vídeos.</string>
   <string name="notification_wechat_sticker_hint">Mostrar una notificación cuando nuevas pegatinas WeChat estén disponibles</string>
   <string name="notification_wechat_sticker_switch_title">Nuevas notoficaciones de pegatinas diarias</string>
@@ -714,8 +714,8 @@ y no te pierdas nunca las más nuevas y mejores"</string>
   <string name="shared_sticker_page_no_file">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
   <string name="shared_sticker_str">Compartidos por fans de Mi</string>
   <string name="shared_sticker_suffix">Pegatina en %s</string>
-  <string name="shared_sticker_use_tip">"Puedes enviar las pegatinas que guardarste en conversaciones de WeChat igual que envías imágenes.
-(Los GIFs se pueden añadir a Personalizados en las pegatinas de WeChat)."</string>
+  <string name="shared_sticker_use_tip">"Puedes enviar las pegatinas que guardarste en conversaciones de chat igual que envías imágenes.
+(Los GIFs se pueden añadir a Personalizados en las pegatinas de chat)."</string>
   <string name="shared_sticker_use_tip_title">Cómo usar pegatinas</string>
   <string name="shared_str">Compartido por %s</string>
   <string name="show_message">Necesitas descargar este archivo para poder abrirlo.</string>
