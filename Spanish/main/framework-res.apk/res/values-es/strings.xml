@@ -242,7 +242,7 @@
     <string name="permdesc_statusBarService">Permite que la aplicación sea la barra de estado.</string>
     <string name="permlab_expandStatusBar">expandir o reducir la barra de estado</string>
     <string name="permdesc_expandStatusBar">Permite que la aplicación muestre y oculte la barra de estado.</string>
-    <string name="permlab_install_shortcut">instalar accesos directos</string>
+    <string name="permlab_install_shortcut">crear accesos directos</string>
     <string name="permdesc_install_shortcut">Permite que una aplicación agregue accesos directos a la pantalla principal sin que el usuario intervenga.</string>
     <string name="permlab_uninstall_shortcut">desinstalar accesos directos</string>
     <string name="permdesc_uninstall_shortcut">Permite que la aplicación elimine accesos directos de la pantalla principal sin que el usuario intervenga.</string>
@@ -324,7 +324,7 @@
     <string name="permdesc_wakeLock">Permite que la aplicación evite que el dispositivo entre en estado de inactividad.</string>
     <string name="permlab_transmitIr">Transmitir por infrarrojos</string>
     <string name="permdesc_transmitIr">Permite que la aplicación utilice el transmisor infrarrojo del teléfono.</string>
-    <string name="permlab_setWallpaper">establecer papel tapiz</string>
+    <string name="permlab_setWallpaper">establecer fondo de pantalla</string>
     <string name="permdesc_setWallpaper">Permite que la aplicación establezca el fondo de pantalla del sistema.</string>
     <string name="permlab_setWallpaperHints">ajustar el tamaño del fondo de pantalla</string>
     <string name="permdesc_setWallpaperHints">Permite que la aplicación establezca el tamaño del fondo de pantalla del sistema.</string>
@@ -354,8 +354,8 @@
     <string name="permdesc_changeWimaxState">Permite que la aplicación conecte el dispositivo a una red WiMAX y que lo desconecte de ella.</string>
     <string name="permlab_bluetooth">vincular con dispositivos Bluetooth</string>
     <string name="permdesc_bluetooth">Permite que la aplicación vea la configuración de Bluetooth del dispositivo y que cree y acepte conexiones con los dispositivos sincronizados.</string>
-    <string name="permlab_nfc">controlar la Transmisión de datos en proximidad</string>
-    <string name="permdesc_nfc">Permite que la aplicación se comunique con lectores, tarjetas y etiquetas de Comunicación de campo cercano (NFC).</string>
+    <string name="permlab_nfc">controlar el NFC</string>
+    <string name="permdesc_nfc">Permite que la aplicación se comunique con lectores, tarjetas y etiquetas NFC.</string>
     <string name="permlab_disableKeyguard">desactivar el bloqueo de pantalla</string>
     <string name="permdesc_disableKeyguard">Permite que la aplicación desactive el bloqueo del teclado y cualquier protección con contraseña asociada. Por ejemplo, el dispositivo puede desactivar el bloqueo del teclado cuando recibe una llamada telefónica y volver a activarlo cuando finaliza la llamada.</string>
     <string name="permlab_useFingerprint">hardware de uso de huellas digitales</string>
