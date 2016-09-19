@@ -986,7 +986,7 @@ Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al
     <string name="screensaver_settings_summary_either_short">Ambos casos</string>
     <string name="screensaver_settings_summary_sleep">Durante la carga</string>
     <string name="screensaver_settings_summary_dock">Con el dispositivo en un dock</string>
-    <string name="screensaver_settings_summary_off">No</string>
+    <string name="screensaver_settings_summary_off">Apagado</string>
     <string name="screensaver_settings_disabled_prompt">Para controlar lo que ocurre cuando el teléfono está en un dock o inactivo, debe activar el salvapantallas.</string>
     <string name="screensaver_settings_when_to_dream">Cuándo activarlo</string>
     <string name="screensaver_settings_dream_start">Iniciar ahora</string>
@@ -1063,8 +1063,8 @@ Es posible que el PIN no sea correcto."</string>
     <string name="status_signal_strength">Intensidad de la señal</string>
     <string name="status_roaming">Itinerancia</string>
     <string name="status_operator">Red</string>
-    <string name="status_wifi_mac_address">Dirección MAC Wi-Fi</string>
-    <string name="status_bt_address">Dirección Bluetooth</string>
+    <string name="status_wifi_mac_address">Dirección MAC de Wi-Fi</string>
+    <string name="status_bt_address">Dirección de Bluetooth</string>
     <string name="status_serial_number">Número de serie</string>
     <string name="status_unavailable">No disponible</string>
     <string name="status_up_time">Tiempo de actividad</string>
@@ -1780,8 +1780,8 @@ También puedes ampliar el contenido seleccionado de forma temporal con solo toc
 
 Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación."</string>
     <string name="accessibility_global_gesture_preference_title">Acceso directo a accesibilidad</string>
-    <string name="accessibility_global_gesture_preference_summary_on">Sí</string>
-    <string name="accessibility_global_gesture_preference_summary_off">No</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Encendido</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Apagado</string>
     <string name="accessibility_global_gesture_preference_description">"Cuando esta función está activada, puedes habilitar las funciones de accesibilidad rápidamente en dos pasos.
 
 Paso 1: mantén pulsado el botón de encendido hasta que escuches un sonido o notes una vibración.
@@ -1810,8 +1810,8 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
     <string name="daltonizer_mode_protanomaly">Protanomalía (rojo-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalía (azul-amarillo)</string>
     <string name="accessibility_menu_item_settings">Ajustes</string>
-    <string name="accessibility_feature_state_on">Sí</string>
-    <string name="accessibility_feature_state_off">No</string>
+    <string name="accessibility_feature_state_on">Encendido</string>
+    <string name="accessibility_feature_state_off">Apagado</string>
     <string name="accessibility_feature_or_input_method_not_allowed">Tu organización no lo permite</string>
     <string name="captioning_preview_title">Vista previa</string>
     <string name="captioning_standard_options_title">Opciones estándar</string>
@@ -1867,8 +1867,8 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
     <string name="print_no_printers_found">No se encontraron impresoras</string>
     <string name="print_menu_item_settings">Ajustes</string>
     <string name="print_menu_item_add_printers">Añadir impresoras</string>
-    <string name="print_feature_state_on">Sí</string>
-    <string name="print_feature_state_off">No</string>
+    <string name="print_feature_state_on">Encendido</string>
+    <string name="print_feature_state_off">Apagado</string>
     <string name="print_menu_item_add_service">Añadir servicio</string>
     <string name="print_menu_item_add_printer">Añadir impresora</string>
     <string name="print_menu_item_search">Buscar</string>
@@ -2091,8 +2091,8 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
     <string name="gadget_toggle_wifi">Actualizando ajustes Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Actualización de la configuración de la conexión Bluetooth</string>
     <string name="gadget_state_template">%1$s %2$s</string>
-    <string name="gadget_state_on">sí</string>
-    <string name="gadget_state_off">no</string>
+    <string name="gadget_state_on">encendido</string>
+    <string name="gadget_state_off">apagado</string>
     <string name="gadget_state_turning_on">activando</string>
     <string name="gadget_state_turning_off">desactivando</string>
     <string name="gadget_wifi">Wi-Fi</string>
@@ -2103,7 +2103,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
     <string name="gadget_brightness_state_auto">automático</string>
     <string name="gadget_brightness_state_full">completo</string>
     <string name="gadget_brightness_state_half">medio</string>
-    <string name="gadget_brightness_state_off">no</string>
+    <string name="gadget_brightness_state_off">apagado</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">Almacenamiento de credenciales</string>
     <string name="credentials_install">Instalar desde la tarjeta SD</string>
@@ -2852,8 +2852,8 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
     <string name="device_feedback">Dar tu opinión sobre el dispositivo</string>
     <string name="oem_preferred_feedback_reporter" />
     <string name="restr_pin_enter_admin_pin">Introduce el PIN del administrador</string>
-    <string name="switch_on_text">Sí</string>
-    <string name="switch_off_text">No</string>
+    <string name="switch_on_text">Encendido</string>
+    <string name="switch_off_text">Apagado</string>
     <string name="screen_pinning_title">Fijar pantalla</string>
     <string name="screen_pinning_description">"Si esta opción está activada, puedes usar la opción de fijar la pantalla para mantener visible la pantalla actual hasta que desactives esta opción.
 
@@ -2875,10 +2875,10 @@ Para ello:
     <string name="managing_admin">Administrado por %s</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="display_auto_rotate_title">Rotación automática de pantalla</string>
-    <string name="display_auto_rotate_rotate">Activado</string>
+    <string name="display_auto_rotate_rotate">Encendido</string>
     <string name="display_auto_rotate_stay_in_portrait">Bloquear en modo vertical</string>
     <string name="display_auto_rotate_stay_in_landscape">Bloquear en modo apaisado</string>
-    <string name="display_auto_rotate_stay_in_current">Off</string>
+    <string name="display_auto_rotate_stay_in_current">Apagado</string>
     <string name="imei_information_title">Información IMEI</string>
     <string name="encryption_interstitial_header">Inicio seguro</string>
     <string name="encryption_continue_button">Continuar</string>
@@ -3074,9 +3074,9 @@ Esto te permitirá proteger los datos del dispositivo en caso de pérdida o robo
     <string name="write_settings_preference">Permiso de aplicación para modificar ajustes sistema</string>
     <string name="permit_write_settings">Permitir que se modifiquen ajustes sistema</string>
     <string name="write_settings_description">Cuando se concede este permiso, la aplicación puede modificar los ajustes del sistema.</string>
-    <string name="write_settings_on">Sí</string>
-    <string name="write_settings_off">No</string>
-    <string name="msim_sim_radio_off">Off</string>
+    <string name="write_settings_on">Encendido</string>
+    <string name="write_settings_off">Apagado</string>
+    <string name="msim_sim_radio_off">Apagado</string>
     <string name="forbidden_switch_apn_string">Los ajustes de APN seleccionados no coinciden con el tipo de red actual</string>
     <string name="ad_service">Servicios de publicidad</string>
     <string name="use_personalized_ad_service">Publicidad personalizada</string>
@@ -3944,8 +3944,8 @@ Seleccione su sistema operativo:"</string>
     <string name="screen_color_and_optimize_disabled">No se pudo ajustar la temperatura del color en el modo lectura</string>
     <string name="screen_paper_mode_title">Modo lectura</string>
     <string name="screen_paper_mode_summary">Reducir el brillo de fondo de la pantalla</string>
-    <string name="screen_paper_mode_turn_on">Activar</string>
-    <string name="screen_paper_mode_turn_off">Apagar</string>
+    <string name="screen_paper_mode_turn_on">Encendido</string>
+    <string name="screen_paper_mode_turn_off">Apagado</string>
     <string name="screen_paper_mode_apps_title">Utilice el modo de lectura</string>
     <string name="screen_paper_mode_off_apps_title">No usar el modo de lectura</string>
     <string name="screen_paper_mode_adjust_level">Intensidad</string>
@@ -4047,8 +4047,8 @@ Seleccione su sistema operativo:"</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" quiere activar Bluetooth y hacer su teléfono visible para otros dispositivos durante %1$d segundos."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" quiere activar el Bluetooth y hacer su teléfono visible para otros dispositivos. Puede cambiar esto más tarde en los ajustes del Bluetooth."</string>
     <string name="wifi_share">Compartir Wi-Fi</string>
-    <string name="wifi_share_turn_on">Activar</string>
-    <string name="wifi_share_turn_off">Apagar</string>
+    <string name="wifi_share_turn_on">Encendido</string>
+    <string name="wifi_share_turn_off">Apagado</string>
     <string name="wifi_share_upload">Compartir</string>
     <string name="wifi_share_uploading">Compartiendo…</string>
     <string name="wifi_share_upload_finish">Compartido</string>
@@ -4213,8 +4213,8 @@ Seleccione su sistema operativo:"</string>
     <string name="other_personal_settings">Ajustes personales</string>
     <string name="local_auto_backup_section_title">Crear backup automáticamente</string>
     <string name="google_backup_enable">Activar copias de respaldo</string>
-    <string name="local_auto_backup_on">On</string>
-    <string name="local_auto_backup_off">Off</string>
+    <string name="local_auto_backup_on">Encendido</string>
+    <string name="local_auto_backup_off">Apagado</string>
     <string name="other_advanced_settings">Ajustes adicionales</string>
     <string name="recent_location_requests_title">Acceso a ubicación</string>
     <string name="recent_location_requests_summary">Ver aplicaciones que soliciten acceso a su ubicación</string>
@@ -4226,7 +4226,7 @@ Seleccione su sistema operativo:"</string>
     <string name="security_password_category_name">Bloqueo de pantalla</string>
     <string name="bluetooth_unlock_title">Desbloquear con disp. bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Apagado</string>
-    <string name="bluetooth_unlock_turned_on">Activado</string>
+    <string name="bluetooth_unlock_turned_on">Encendido</string>
     <string name="bluetooth_unlock_settings_toggle_title">Aplicar a</string>
     <string name="bluetooth_unlock_settings_unlock_device">Desbloquear dispositivo</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
@@ -4272,8 +4272,8 @@ Seleccione su sistema operativo:"</string>
     <string name="status_sim_2">SIM 2</string>
     <string name="status_summary">Pulse para ver los detalles.</string>
     <string name="wifi_subnet_mask">Máscara de subred</string>
-    <string name="wireless_on">On</string>
-    <string name="wireless_off">Off</string>
+    <string name="wireless_on">Encendido</string>
+    <string name="wireless_off">Apagado</string>
     <string name="whetstone_level_title">Optimización de memoria</string>
     <string name="whetstone_level_reboot">Este ajuste se aplicará cuando reinicie su dispositivo.</string>
     <string name="whetstone_level_reboot_OK">Reiniciar</string>
@@ -4863,4 +4863,5 @@ Attempts Remaining :"</string>
     <string name="suspension_ball_enable_desc">Mirror Back and Menu buttons</string>
     <string name="switch_screen_button_order">Cambiar orden de botones en pantalla</string>
     <string name="switch_screen_button_order_desc">Después de abrir, deslizar hacia abajo para ocultar</string>
+    <string name="nfc_se_wallet_title">Cartera predeterminada</string>
 </resources>
