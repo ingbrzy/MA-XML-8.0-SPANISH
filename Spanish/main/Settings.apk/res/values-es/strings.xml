@@ -3595,7 +3595,8 @@ El identificador de publicidad es único y permanente para su dispositivo. Los v
     <string name="force_touch_enable_tips">Toque largo en el icono de la aplicación para mostrar los atajos, mientras el 3D Touch esté activo.</string>
     <string name="force_touch_demo">Reproducir demostración</string>
     <string name="screenshot">Captura de pantalla</string>
-    <string name="screenshot_three_gesture">Deslizar tres dedos simultáneamente activará la captura de pantalla</string>
+    <string name="screenshot_three_gesture">Deslizar tres dedos para realizar una captura de pantalla</string>
+    <string name="screenshot_three_gesture_summary">Otros gestos con tres dedos se desactivarán</string>
     <string name="avoid_ui">Evitar UI</string>
     <string name="key_settings_title">Botones</string>
     <string name="key_settings">Botones</string>
@@ -4706,6 +4707,7 @@ de Wi‑Fi"</string>
     <string name="disable_data_string">Desactivar la conexión de datos</string>
     <string name="path_account_add">Ajustes/Otras cuentas</string>
     <string name="hardware_version">Versión de hardware</string>
+    <string name="has_screenshot_sound">Sonido al hacer una captura</string>
     <string name="sim_pin_enabled">¡PIN1 Habilitado!</string>
     <string name="sim_pin_disabled">¡PIN1 Deshabilitado!</string>
     <string name="sim_pin_attempts">"
