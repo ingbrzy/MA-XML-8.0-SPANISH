@@ -10,7 +10,7 @@
   <string name="ac_enable_title">Activar bloqueo de Aplicaciones</string>
   <string name="ac_enter_applock">Ingrese bloqueo de Aplicaciones</string>
   <string name="ac_firstUseApplock_subTitle">Proteja su privacidad con el bloqueo de Aplicaciones</string>
-  <string name="ac_firstUseApplock_title">Abra aplicaciones seleccionadas mediante contraseña</string>
+  <string name="ac_firstUseApplock_title">Establecer una contraseña para proteger sus aplicaciones</string>
   <string name="ac_summaryOff">Apagado, no requiere ninguna contraseña para abrir aplicaciones</string>
   <string name="ac_summaryOn">Encendido, requiere una contraseña para abrir aplicaciones</string>
   <string name="access_control_need_password">"%s añadido exitosamente
@@ -1220,6 +1220,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="security_scan_optimizing">Optimizando…</string>
   <string name="see_detail">Detalles</string>
   <string name="select_pattern">Seleccione el patrón</string>
+  <string name="set_applock_password">Establecer contraseña</string>
   <string name="settings">Ajustes de uso de datos</string>
   <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería se esté drenando rápido</string>
   <string name="settings_battery_consume_abnormal_title">Notificaciones de descarga de la batería</string>
@@ -1357,6 +1358,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="tc_sms_report_get_sms">Obtener SMS</string>
   <string name="tc_sms_report_get_sms2">Obtener SMS</string>
   <string name="tc_sms_report_get_sms_again">Actualizar SMS</string>
+  <string name="tc_sms_report_get_sms_bill">Obtener SMS</string>
+  <string name="tc_sms_report_get_sms_calltime">Obtener SMS</string>
   <string name="tc_sms_report_get_sms_failure">No se pudo conseguir el nuevo formato SMS para el uso de datos</string>
   <string name="tc_sms_report_get_sms_successs">Formato de SMS para el uso de datos actualizado</string>
   <string name="tc_sms_report_get_sms_timeout">Tiempo de espera agotado</string>
@@ -1378,6 +1381,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="tc_sms_report_tips_dialog_message">El uso de datos utiliza un SMS con un formato especial para conseguir su última utilización de los datos de su compañía. Si esta función no está funcionando normalmente, intente actualizar el formato de SMS para el uso de datos. El nuevo formato actualizado será subido a nuestros servidores.</string>
   <string name="tc_sms_report_tips_dialog_title">SMS de uso de datos</string>
   <string name="tc_sms_report_title">Reportar error de uso de datos</string>
+  <string name="tc_sms_report_title_bill">Informe de error de uso de datos</string>
+  <string name="tc_sms_report_title_calltime">Informe de error de uso de datos</string>
   <string name="tc_sms_report_toast_text">Obteniendo información…</string>
   <string name="tc_sms_report_upload_success">SMS de infome de uso de datos enviado. ¡Vamos a trabajar en ello!</string>
   <string name="tc_sms_report_upload_when_net">¡Gracias por sus comentarios!</string>
