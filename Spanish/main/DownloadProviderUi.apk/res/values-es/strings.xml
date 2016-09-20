@@ -191,9 +191,9 @@
   <string name="pref_download_settings_title">Límite de tamaño de descarga</string>
   <string name="pref_download_storage_path">Crear una nueva carpeta para descargas</string>
   <string name="pref_sniff_shortcut">Crear acceso directo</string>
-  <string name="pref_summary_any_bytes_popup">Descargar archivos sólo mediante conexión Wi-Fi</string>
+  <string name="pref_summary_any_bytes_popup">Esperar siempre conexión Wi-Fi para descargar archivos</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se usen datos móviles para descargar contenido</string>
-  <string name="pref_summary_max_bytes_limit_format">Descargar por Wi-Fi si el tamaño excede de %s</string>
+  <string name="pref_summary_max_bytes_limit_format">Esperar conexión Wi-Fi si el tamaño del fichero excede de %s</string>
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar advertencia de uso de datos</string>
   <string name="preferences_title">Ajustes</string>
@@ -221,7 +221,7 @@
   <string name="revert_default">Restablecer</string>
   <string name="revert_download_path">¿Usar ubicación de descargas por defecto?</string>
   <string name="save_path">"Guardar descargas en: "</string>
-  <string name="search_home_download_popup">Volver a descargas</string>
+  <string name="search_home_download_popup">Volver a Descargas</string>
   <string name="select_all">Seleccionar todo</string>
   <string name="select_operation_items">Elegir elementos</string>
   <string name="select_sub_file_download">Elegir un fichero para descargar</string>
@@ -253,7 +253,7 @@
   <string name="third_web_title">Descargar</string>
   <string name="title_tips">Atención</string>
   <string name="title_unbind_xunlei">Quitar tu cuenta Xunlei</string>
-  <string name="toast_only_wifi_download">Conectar a Wi-Fi para descargar este archivo</string>
+  <string name="toast_only_wifi_download">Conectar a Wi-Fi para descargar este ítem</string>
   <string name="toast_xunlei_engine_open">Se ha activado el acelerador de descargas Xunlei</string>
   <string name="torrent_file_error">No se pudo parsear el fichero torrent</string>
   <string name="torrent_no_subfile">Este torrent no tiene subficheros</string>
