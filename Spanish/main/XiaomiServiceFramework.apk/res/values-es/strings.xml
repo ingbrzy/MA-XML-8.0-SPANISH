@@ -74,9 +74,9 @@ Introduzca el número de teléfono asociado con su nueva tarjeta SIM para reacti
   <string name="activate_popup_title_manual">Activación de tarjeta SIM</string>
   <string name="activate_popup_title_new_sim_card">Nueva activación de tarjeta SIM</string>
   <string name="activate_popup_title_register_account">Registrar una cuenta</string>
-  <string name="activate_status_desc_acquire_phone_number">Adquisición de número de teléfono del servidor</string>
-  <string name="activate_status_desc_acquire_phone_number_server_error">Se produjo un error en el servidor al adquirir el número de teléfono</string>
-  <string name="activate_status_desc_acquire_phone_number_server_no_info">No se pudo recuperar el número de teléfono</string>
+  <string name="activate_status_desc_acquire_phone_number">Verificar el número de teléfono</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error">Se produjo un error en el servidor al verificar el número de teléfono</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info">"No se pudo verificar el número de teléfono"</string>
   <string name="activate_status_desc_checking_xiaomi_account">Verificación de la cuenta Mi</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Se ha producido un error en la verificación de su cuenta Mi</string>
   <string name="activate_status_desc_completed_with_sms_sent">Enviado SMS para activar SIM</string>
