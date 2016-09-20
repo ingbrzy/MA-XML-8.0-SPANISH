@@ -24,7 +24,8 @@
   <string name="auto_update_sum">Elegir automáticamente la mejor hora para descargar actualizaciones</string>
   <string name="autosetmode">Ajustes de actualización</string>
   <string name="best_update">La mejor actualización hasta el momento</string>
-  <string name="boot_recovery">Reiniciar en modo recuperación</string>
+  <string name="boot_recovery">¿Reiniciar en modo recuperación</string>
+  <string name="button_delay_update_reboot">Reiniciar y actualizar</string>
   <string name="button_text_check">Comprobar</string>
   <string name="button_text_later_reboot">Reiniciar más tarde</string>
   <string name="button_text_reboot">Reiniciar ahora</string>
@@ -57,9 +58,12 @@
   <string name="confirm_local_package_wipe_title">¿Borrar datos?</string>
   <string name="continue_update_negative_btn">Continuar</string>
   <string name="continue_update_positive_btn">Parar</string>
-  <string name="daily_build">Diaria</string>
-  <string name="dialog_no">No</string>
-  <string name="dialog_ok">Aceptar</string>
+  <string name="daily_build">De noche</string>
+  <string name="delay_update_text">Actualizar más tarde</string>
+  <string name="dialog_delay_update_cancel">Cancelar</string>
+  <string name="dialog_delay_update_msg">"El dispositivo se reiniciará para aplicar las actualizaciones cuando esté encendido y la batería este al menos el 30% de la carga"</string>
+  <string name="dialog_delay_update_title">Actualización disponible</string>
+  <string name="dialog_delay_update_tonight">Actualizar esta noche</string>
   <string name="dialog_reboot_message">MIUI está a punto de actualizar. Este proceso puede tardar 5-20 minutos. Mantenga el dispositivo encendido, y no reiniciar el sistema mientras se está actualizando.</string>
   <string name="dialog_reboot_title">Actualizacion del sistema</string>
   <string name="dialog_reboot_yes">Actualizar</string>
@@ -128,6 +132,12 @@
   <string name="no_wifi_title">Aviso de uso de datos</string>
   <string name="not_open">No activar</string>
   <string name="notification_auto_reboot_seccess_title">Dispositivo actualizado automáticamente.</string>
+  <string name="notification_delay_update_button">Actualizar en 2 horas</string>
+  <string name="notification_delay_update_cancel">"No actualizar esta noche"</string>
+  <string name="notification_delay_update_low_power">Parece que la batería estaba baja por la noche</string>
+  <string name="notification_delay_update_msg">El dispositivo se reiniciará y se actualizara en %ss</string>
+  <string name="notification_delay_update_no_update">"Las actualizaciones no se han aplicado"</string>
+  <string name="notification_delay_update_shutdown">Parece que el dispositivo estaba apagado por la noche</string>
   <string name="notification_downloading">Descargando actualización…</string>
   <string name="notification_fail_msg">Intentar la descarga completa de la ROM</string>
   <string name="notification_load_body_alpha">Consiga las últimas actualizaciones para su dispositivo.</string>
@@ -220,6 +230,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="test">Prueba</string>
   <string name="timer_title">El dispositivo se reiniciará en %d segundos.</string>
   <string name="title_toast_auto">Las actualizaciones se descargarán automáticamente</string>
+  <string name="toast_delay_update_tonight">El dispositivo se actualizará entre las 2:00AM y 5:00AM</string>
   <string name="top_secret_build">Alto secreto</string>
   <string name="uncrypt_title">Descifrado (%s)</string>
   <string name="unkown_error_title">No se pudo descargar</string>
