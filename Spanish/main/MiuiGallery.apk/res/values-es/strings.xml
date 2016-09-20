@@ -57,6 +57,7 @@
     <string name="album_share_subtitle_requesting">Descargando información del álbum…</string>
     <string name="album_share_title_new_album">Compartir nuevo álbum</string>
     <string name="album_show_local_only">Mostrar solo álbumes locales</string>
+    <string name="album_show_local_only_summary">Active para ver y borrar fotos sólo en su dispositivo</string>
     <string name="album_type_baby">Álbum del bebé</string>
     <string name="album_type_share">Álbumes compartidos</string>
     <string name="album_type_system">Álbumes del sistema</string>
@@ -204,9 +205,10 @@
     <string name="delete_album_msg_format">¿Eliminar el álbum \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_success">Álbum eliminado</string>
     <string name="delete_finish_format">%d eliminado(s)</string>
-    <string name="delete_from_album">del álbum \"%s\" (todos los dispositivos)</string>
+    <string name="delete_from_album">del álbum \"%s\" y de Mi Cloud</string>
     <string name="delete_from_album_no_account">del álbum \"%s\"</string>
     <string name="delete_from_all_devices">de todos los dispositivos</string>
+    <string name="delete_from_all_devices_and_cloud">de todos los dispositivos y Mi Cloud</string>
     <string name="delete_from_cloud">Elementos eliminados de Mi Cloud</string>
     <string name="delete_from_devices">Todos los dispositivos sincronizados</string>
     <string name="delete_from_devices_album">Todos los dispositivos con los que se sincroniza este álbum</string>
@@ -381,14 +383,10 @@
     <string name="input_or_select_a_name">Introduzca o seleccione un nombre</string>
     <string name="invalid_invition_url">URL de invitación no válida</string>
     <string name="invalid_recipient_message">Corrija el nombre del destinatario(s)</string>
-    <string name="invite_send_sms_tip">Su operadora podría cobrarle el mensaje SMS que se usa para enviar esta invitación.</string>
-    <string name="invite_sharer_again_confirm_button_text">Invitar de nuevo</string>
     <string name="invite_sharer_confirm_button_text">Invitar</string>
-    <string name="invite_sharer_phone_number_tip">Introducir número de teléfono</string>
     <string name="invite_sharer_relation_tip">Álbum de %1$s</string>
     <string name="invite_sharer_title">Invitar al %2$s de %1$s</string>
     <string name="invite_tip">Compartir sus fotos de bebé</string>
-    <string name="invited_tip">Invitado</string>
     <string name="is">Sí</string>
     <string name="kick_owner_user_positive_button_text">Eliminar</string>
     <string name="kick_owner_user_title">¿Eliminar a esta persona?</string>
@@ -508,7 +506,6 @@
     <string name="people_page_unname">Sin nombre</string>
     <string name="pet_album_display_name">Fotos de mascotas</string>
     <string name="petabyteShort">PB</string>
-    <string name="phone_number_empty_alert">Añadir número de teléfono</string>
     <string name="photo">Fotos</string>
     <string name="photo_edit_file_not_exits_tip">Descargue la foto antes de editarla</string>
     <string name="photo_editor_saving">Guardando…</string>
@@ -600,7 +597,6 @@
     <string name="secret_reason_unknow_reasons">Error desconocido</string>
     <string name="select_item_face">"¿Es este(a) '%s'?"</string>
     <string name="select_origin_tip">Archivo original (%s)</string>
-    <string name="send_invitation_fail">No se pudo enviar invitación</string>
     <string name="send_multiple_files_hint_format">Enviar (%s)</string>
     <string name="send_public_url">Enviar álbum por URL</string>
     <string name="send_too_many_files_error">No es posible enviar más de %d elementos a vez</string>
