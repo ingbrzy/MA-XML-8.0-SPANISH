@@ -24,30 +24,6 @@
         <item quantity="few">%d archivos</item>
         <item quantity="many">%d archivos</item>
     </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d archivos por descargar</item>
-        <item quantity="zero">%1$d archivos por descargar</item>
-        <item quantity="one">%1$d archivo por descargar</item>
-        <item quantity="two">%1$d archivos por descargar</item>
-        <item quantity="few">%1$d archivos por descargar</item>
-        <item quantity="many">%1$d archivos por descargar</item>
-    </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d archivos por subir</item>
-        <item quantity="zero">%1$d archivos por subir</item>
-        <item quantity="one">%1$d archivo por subir</item>
-        <item quantity="two">%1$d archivos por subir</item>
-        <item quantity="few">%1$d archivos por subir</item>
-        <item quantity="many">%1$d archivos por subir</item>
-    </plurals>
-    <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d archivos por enviar</item>
-        <item quantity="zero">%1$d archivos por enviar</item>
-        <item quantity="one">%1$d archivo por enviar</item>
-        <item quantity="two">%1$d archivos por enviar</item>
-        <item quantity="few">%1$d archivos por enviar</item>
-        <item quantity="many">%1$d archivos por enviar</item>
-    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="zero">%1$d seleccionados</item>
