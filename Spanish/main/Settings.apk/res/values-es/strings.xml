@@ -476,6 +476,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="security_passwords_title">Contraseñas</string>
     <string name="security_settings_fingerprint_preference_title">Huella digital</string>
     <string name="fingerprint_manage_category_title">Administrar huellas</string>
+    <string name="fingerprint_not_identified_msg">No se puede leer la huella. Introduzca su contraseña</string>
     <string name="fingerprint_usage_category_title">Usar huella para</string>
     <string name="fingerprint_add_title">Añadir huella digital</string>
     <string name="fingerprint_enable_keyguard_toggle_title">bloqueo de pantalla</string>
@@ -537,11 +538,11 @@ El proceso de cifrar tarda 1 hora o más. Debes iniciar el proceso con la bater�
     <string name="crypt_keeper_warn_wipe">Advertencia: Se borrarán los datos del dispositivo después de otros ^1 intentos fallidos para desbloquearlo</string>
     <string name="crypt_keeper_enter_password">Escribe tu contraseña</string>
     <string name="crypt_keeper_failed_title">Error en el cifrado</string>
-    <string name="crypt_keeper_failed_summary">"El cifrado se ha interrumpido y no se puede completar. No podrás volver a acceder a los datos del teléfono. 
+    <string name="crypt_keeper_failed_summary">"El cifrado se ha interrumpido y no se puede completar. No podrás volver a acceder a los datos del teléfono.
 
 Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando configures el teléfono después de este proceso, podrás restaurar los datos de los que hayas hecho una copia de seguridad en tu cuenta de Google."</string>
     <string name="crypt_keeper_data_corrupt_title">Descifrado incorrecto</string>
-    <string name="crypt_keeper_data_corrupt_summary">"La contraseña que has introducido es correcta pero, lamentablemente, tus datos están dañados. 
+    <string name="crypt_keeper_data_corrupt_summary">"La contraseña que has introducido es correcta pero, lamentablemente, tus datos están dañados.
 
 Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al configurar el dispositivo después de este proceso, podrás restaurar los datos incluidos en la copia de seguridad de tu cuenta de Google."</string>
     <string name="crypt_keeper_switch_input_method">Cambiar método de entrada</string>
@@ -1133,32 +1134,32 @@ Es posible que el PIN no sea correcto."</string>
     <string name="storage_format_success">%1$s se ha formateado</string>
     <string name="storage_format_failure">Error al formatear %1$s</string>
     <string name="storage_rename_title">Cambiar nombre de almacenamiento</string>
-    <string name="storage_dialog_unmounted">"Este dispositivo de almacenamiento (^1) se ha extraído de forma segura, pero sigue estando disponible. 
+    <string name="storage_dialog_unmounted">"Este dispositivo de almacenamiento (^1) se ha extraído de forma segura, pero sigue estando disponible.
 
 Para utilizar el dispositivo (^1), debes activarlo."</string>
-    <string name="storage_dialog_unmountable">"Este dispositivo de almacenamiento (^1) está dañado. 
+    <string name="storage_dialog_unmountable">"Este dispositivo de almacenamiento (^1) está dañado.
 
 Para utilizar el dispositivo (^1), debes configurarlo."</string>
-    <string name="storage_dialog_unsupported">"El dispositivo no admite el uso de este dispositivo de almacenamiento (^1). 
+    <string name="storage_dialog_unsupported">"El dispositivo no admite el uso de este dispositivo de almacenamiento (^1).
 
 Para utilizar el dispositivo de almacenamiento (^1) con este dispositivo, debes configurarlo."</string>
-    <string name="storage_internal_format_details">"Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos. 
+    <string name="storage_internal_format_details">"Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
 
-Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrarán cuando se formatee. 
+Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrarán cuando se formatee.
 
-"<b>Copia de seguridad de fotos y de otro contenido multimedia</b>" 
-Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfiérelos a un ordenador con un cable USB. 
+"<b>Copia de seguridad de fotos y de otro contenido multimedia</b>"
+Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfiérelos a un ordenador con un cable USB.
 
-"<b>Copia de seguridad de aplicaciones</b>" 
+"<b>Copia de seguridad de aplicaciones</b>"
 Se desinstalarán todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muévelas a otro espacio de almacenamiento del dispositivo."</string>
-    <string name="storage_internal_unmount_details"><b>Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estarán disponibles hasta que se vuelva a insertar.</b>" 
+    <string name="storage_internal_unmount_details"><b>Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estarán disponibles hasta que se vuelva a insertar.</b>"
 
 Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
-    <string name="storage_internal_forget_details">"Para utilizar las aplicaciones, fotos o datos incluidos en tu ^1, vuelve a insertarla. 
+    <string name="storage_internal_forget_details">"Para utilizar las aplicaciones, fotos o datos incluidos en tu ^1, vuelve a insertarla.
 
-También puedes olvidar el almacenamiento si el dispositivo no está disponible. 
+También puedes olvidar el almacenamiento si el dispositivo no está disponible.
 
-Si lo haces, los datos del dispositivo se perderán para siempre. 
+Si lo haces, los datos del dispositivo se perderán para siempre.
 
 Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus datos almacenados en este dispositivo."</string>
     <string name="storage_internal_forget_confirm_title">¿Borrar ^1?</string>
@@ -1170,10 +1171,10 @@ Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus dato
     <string name="storage_detail_cached">Datos almacenados en caché</string>
     <string name="storage_detail_other">Otros</string>
     <string name="storage_detail_explore">Explorar ^1</string>
-    <string name="storage_detail_dialog_other">"En Otros se incluyen archivos compartidos almacenados por aplicaciones, archivos descargados de Internet o por Bluetooth, archivos de Android y mucho más. 
+    <string name="storage_detail_dialog_other">"En Otros se incluyen archivos compartidos almacenados por aplicaciones, archivos descargados de Internet o por Bluetooth, archivos de Android y mucho más.
 
 Para ver todo el contenido de este dispositivo de almacenamiento (^1), toca Explorar."</string>
-    <string name="storage_detail_dialog_user">"^1 puede tener aplicaciones, películas, música, fotos y otros datos guardados que ocupan un espacio de ^2. 
+    <string name="storage_detail_dialog_user">"^1 puede tener aplicaciones, películas, música, fotos y otros datos guardados que ocupan un espacio de ^2.
 
 Para ver información detallada, cambia a ^1."</string>
     <string name="storage_wizard_init_title">Configurar tu ^1</string>
@@ -1182,20 +1183,20 @@ Para ver información detallada, cambia a ^1."</string>
     <string name="storage_wizard_init_internal_title">Utilizar como almacenamiento interno</string>
     <string name="storage_wizard_init_internal_summary">Para almacenar cualquier contenido (como aplicaciones y fotos) únicamente en este dispositivo. Se debe formatear la unidad para que no se pueda utilizar con otros dispositivos.</string>
     <string name="storage_wizard_format_confirm_title">Formatear como almacen. interno</string>
-    <string name="storage_wizard_format_confirm_body">"Debes formatear tu ^1 por seguridad. 
+    <string name="storage_wizard_format_confirm_body">"Debes formatear tu ^1 por seguridad.
 
-Una vez que se formatee, tu ^1 solo funcionará en este dispositivo. 
+Una vez que se formatee, tu ^1 solo funcionará en este dispositivo.
 
 "<b>Al formatear tu ^1, se borrarán todos los datos que tenga almacenados.</b> Te recomendamos que hagas una copia de seguridad de los datos para no perderlos.</string>
     <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
-    <string name="storage_wizard_format_confirm_public_body">"Debes formatear tu ^1. 
+    <string name="storage_wizard_format_confirm_public_body">"Debes formatear tu ^1.
 
 "<b>Al formatear tu ^1, se borrarán todos los datos que tengas almacenados.</b> Te recomendamos que hagas una copia de seguridad de los datos para no perderlos.</string>
     <string name="storage_wizard_format_confirm_next">Borrar y formatear</string>
     <string name="storage_wizard_format_progress_title">Formateando ^1…</string>
     <string name="storage_wizard_format_progress_body">No extraigas tu ^1 mientras se esté formateando.</string>
     <string name="storage_wizard_migrate_title">Mover a nuevo almacenamiento</string>
-    <string name="storage_wizard_migrate_body">"Puedes mover tus fotos, tus archivos y algunas aplicaciones al nuevo dispositivo de almacenamiento (^1). 
+    <string name="storage_wizard_migrate_body">"Puedes mover tus fotos, tus archivos y algunas aplicaciones al nuevo dispositivo de almacenamiento (^1).
 
 La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio de almacenamiento interno. Algunas aplicaciones no funcionarán hasta que finalice el proceso."</string>
     <string name="storage_wizard_migrate_now">Mover ahora</string>
@@ -1204,27 +1205,27 @@ La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio
     <string name="storage_wizard_migrate_confirm_body"><b>La migración durará ^1 y permitirá liberar ^2 de espacio de almacenamiento en ^3.</b></string>
     <string name="storage_wizard_migrate_confirm_next">Mover</string>
     <string name="storage_wizard_migrate_progress_title">Moviendo datos…</string>
-    <string name="storage_wizard_migrate_details">"Durante la migración: 
-• No extraigas tu ^1. 
-• Algunas aplicaciones no funcionarán correctamente. 
+    <string name="storage_wizard_migrate_details">"Durante la migración:
+• No extraigas tu ^1.
+• Algunas aplicaciones no funcionarán correctamente.
 • Mantén cargado el dispositivo."</string>
     <string name="storage_wizard_ready_title">Tu ^1 ya se puede utilizar</string>
     <string name="storage_wizard_ready_external_body">Tu ^1 se ha configurado para que se utilice con fotos y con otro contenido multimedia.</string>
-    <string name="storage_wizard_ready_internal_body">"Tu nueva ^1 está lista. 
+    <string name="storage_wizard_ready_internal_body">"Tu nueva ^1 está lista.
 
 Para mover fotos, archivos y datos de aplicaciones a este dispositivo, accede a Ajustes > Almacenamiento."</string>
     <string name="storage_wizard_move_confirm_title">Mover ^1</string>
-    <string name="storage_wizard_move_confirm_body">"La migración de ^1 y de sus datos a tu ^2 solo durará un momento. No podrás utilizar la aplicación hasta que finalice el proceso. 
+    <string name="storage_wizard_move_confirm_body">"La migración de ^1 y de sus datos a tu ^2 solo durará un momento. No podrás utilizar la aplicación hasta que finalice el proceso.
 
 No extraigas tu ^2 durante la migración."</string>
     <string name="storage_wizard_move_progress_title">Moviendo ^1…</string>
-    <string name="storage_wizard_move_progress_body">"No extraigas tu ^1 durante la migración 
+    <string name="storage_wizard_move_progress_body">"No extraigas tu ^1 durante la migración
 
 La aplicación ^2 de este dispositivo no estará disponible hasta que finalice el proceso."</string>
     <string name="storage_wizard_move_progress_cancel">Cancelar migración</string>
-    <string name="storage_wizard_slow_body">"Esta ^1 no parece ser muy rápida. 
+    <string name="storage_wizard_slow_body">"Esta ^1 no parece ser muy rápida.
 
-Puedes seguir, pero puede que las aplicaciones movidas a esta ubicación no funcionen de forma fluida y las transferencias de datos tarden bastante. 
+Puedes seguir, pero puede que las aplicaciones movidas a esta ubicación no funcionen de forma fluida y las transferencias de datos tarden bastante.
 
 Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="battery_status_title">Estado de la batería</string>
@@ -1257,6 +1258,12 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="carrier_enabled_summaryOn">APN habilitado</string>
     <string name="carrier_enabled_summaryOff">APN inhabilitado</string>
     <string name="bearer">Tipo de conexión</string>
+    <string name="bind_xiaomi_account_cancel">Cancelar</string>
+    <string name="bind_xiaomi_account_confirm">Añadir</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Está a punto de añidir la cuenta Mi %s. Si olvida su contraseña, puede usar esta cuenta para restablecerla."</string>
+    <string name="bind_xiaomi_account_success">Cuenta Mi añadida added exitosamente</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Añadir</string>
+    <string name="binded_xiaomi_summary">Cuenta actual: %s</string>
     <string name="mvno_type">Tipo de OMV</string>
     <string name="mvno_match_data">Valor de OMV</string>
     <string name="menu_delete">Eliminar APN</string>
@@ -1451,6 +1458,8 @@ Para eliminar la música, las imágenes y otros datos de usuario, debes borrar l
     <string name="lockpattern_settings_change_lock_pattern">Cambiar patrón</string>
     <string name="lockpattern_settings_help_how_to_record">Como dibujar un patrón</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts">Demasiados intentos fallidos. Intenta nuevamente en %d segundos.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Espere %d segundos e inténtelo otra vez.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
     <string name="activity_not_found">La aplicación no está instalada en el teléfono.</string>
     <string name="manageapplications_settings_title">Administrar aplicaciones</string>
     <string name="manageapplications_settings_summary">Administrar y eliminar aplicaciones instaladas</string>
@@ -2206,7 +2215,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
     <string name="wifi_setup_status_eap_not_supported">EAP no compatible</string>
     <string name="wifi_setup_eap_not_supported">Durante la configuración no puede definir una conexión Wi-Fi EAP, pero puede hacerlo cuando haya finalizado a través de Ajustes > Conexiones inalámbricas y redes.</string>
     <string name="wifi_setup_description_connecting">Conectando (puede tardar unos minutos)…</string>
-    <string name="wifi_setup_description_connected">Pulsa <b>Siguiente</b>" para continuar con la configuración. 
+    <string name="wifi_setup_description_connected">Pulsa <b>Siguiente</b>" para continuar con la configuración.
 
 Pulsa "<b>Atrás</b> para conectarse a otra red Wi-Fi.</string>
     <string name="time_zone_auto_stub">Select Time Zone</string>
@@ -2240,7 +2249,7 @@ Pulsa "<b>Atrás</b> para conectarse a otra red Wi-Fi.</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Calendar</string>
     <string name="sync_contacts">Contactos</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Te damos la bienvenida a Google Sync,</font>" 
+    <string name="sync_plug"><font fgcolor="#ffffffff">Te damos la bienvenida a Google Sync,</font>"
 un servicio de Google que te permite sincronizar datos para que puedas acceder a tus contactos, a tus citas, etc., desde cualquier ubicación."</string>
     <string name="header_application_sync_settings">Ajustes de sincronización de la aplicación</string>
     <string name="header_data_and_synchronization">Datos y sincronización</string>
@@ -2882,13 +2891,13 @@ Para ello:
     <string name="imei_information_title">Información IMEI</string>
     <string name="encryption_interstitial_header">Inicio seguro</string>
     <string name="encryption_continue_button">Continuar</string>
-    <string name="encryption_interstitial_message_pin">"Puedes solicitar el PIN del dispositivo antes de iniciarlo para aumentar la protección. Hasta que el dispositivo no se inicie, no podrá recibir llamadas, mensajes ni notificaciones, como alarmas. 
+    <string name="encryption_interstitial_message_pin">"Puedes solicitar el PIN del dispositivo antes de iniciarlo para aumentar la protección. Hasta que el dispositivo no se inicie, no podrá recibir llamadas, mensajes ni notificaciones, como alarmas.
 
 Esta opción ayuda a proteger los datos en dispositivos perdidos o robados."</string>
-    <string name="encryption_interstitial_message_pattern">"Puedes solicitar el patrón del dispositivo antes de iniciarlo para aumentar la protección. Hasta que el dispositivo no se inicie, no podrá recibir llamadas, mensajes ni notificaciones, como alarmas. 
+    <string name="encryption_interstitial_message_pattern">"Puedes solicitar el patrón del dispositivo antes de iniciarlo para aumentar la protección. Hasta que el dispositivo no se inicie, no podrá recibir llamadas, mensajes ni notificaciones, como alarmas.
 
 Esta opción ayuda a proteger los datos en dispositivos perdidos o robados."</string>
-    <string name="encryption_interstitial_message_password">"Puedes solicitar la contraseña del dispositivo antes de iniciarlo para aumentar la protección. Hasta que el dispositivo no se inicie, no podrá recibir llamadas, mensajes ni notificaciones, como alarmas. 
+    <string name="encryption_interstitial_message_password">"Puedes solicitar la contraseña del dispositivo antes de iniciarlo para aumentar la protección. Hasta que el dispositivo no se inicie, no podrá recibir llamadas, mensajes ni notificaciones, como alarmas.
 
 Esta opción ayuda a proteger los datos en dispositivos perdidos o robados."</string>
     <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de desbloquear este dispositivo con tu huella dactilar, puedes protegerlo aún más haciendo que sea necesario introducir un PIN cuando se inicia. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes ni notificaciones, y tampoco sonarán las alarmas.
@@ -3049,6 +3058,7 @@ Esto te permitirá proteger los datos del dispositivo en caso de pérdida o robo
     <string name="ignore_optimizations_off_desc">Recomendado para mejorar la duración de la batería</string>
     <string name="ignore_optimizations_title">¿Permitir que %s ignore las optimizaciones de la batería?</string>
     <string name="app_list_preference_none">Ninguna</string>
+    <string name="app_lock_role_instruction">Protea sus aplicaciones privadas</string>
     <string name="work_profile_usage_access_warning">Al desactivar el acceso de uso de esta aplicación, no evitarás que el administrador realice un seguimiento del uso de datos de las aplicaciones en tu perfil de trabajo.</string>
     <string name="accessibility_lock_screen_progress">%1$d de %2$d caracteres utilizados</string>
     <string name="draw_overlay_title">Aplicaciones que pueden escribir sobre otras aplicaciones</string>
@@ -3999,9 +4009,9 @@ Seleccione su sistema operativo:"</string>
     <string name="lockpassword_pin_fixed_length">El PIN debe tener %d dígitos</string>
     <string name="lockpassword_confirm_for_second_user">Confirma tu contraseña del segundo espacio</string>
     <string name="lockpassword_choose_for_second_user">Establece la contraseña del segundo espacio</string>
-    <string name="lockpassword_choose_your_password_second_space">"Establece la contraseña 
+    <string name="lockpassword_choose_your_password_second_space">"Establece la contraseña
  para el segundo espacio"</string>
-    <string name="lockpassword_choose_your_pin_header_second_space">"Establece el PIN 
+    <string name="lockpassword_choose_your_pin_header_second_space">"Establece el PIN
  para el segundo espacio"</string>
     <string name="cancel_alert">¿Descartar los cambios?</string>
     <string name="android_beam_witch_label">Android Beam</string>
@@ -4420,6 +4430,7 @@ Seleccione su sistema operativo:"</string>
     <string name="smallwindow_smartcover_title">Frente cubierta transparente</string>
     <string name="lattice_smartcover_title">Celosía de fondo</string>
     <string name="wifi_eap_sim_simcard">Elegir SIM</string>
+    <string name="childmod_privacy_password_role_instruction">Encienda el modo niño para prevenir acciones indeseadas cuando el dispositivo es usado por un niño</string>
     <string name="children_mode_title">Modo niño</string>
     <string name="children_mode_tips_on">Después de apagar el modo niño, pulse el botón de Inicio para volver a la pantalla de inicio.</string>
     <string name="children_mode_tips_off">Después de apagar el modo niño, pulse el botón de Inicio para volver a la pantalla de inicio.</string>
@@ -4520,6 +4531,9 @@ Seleccione su sistema operativo:"</string>
     <string name="onekey_migrate">Transferencia</string>
     <string name="confirm_fingerprint_msg">Coloque su dedo en el sensor</string>
     <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
+    <string name="forget_pattern">&lt;u&gt;¿Olvidar patrón?&lt;/u&gt;</string>
+    <string name="forget_privacy_password_setting">Añadir cuenta Mi</string>
+    <string name="forget_privacy_password_summary">Use Cuenta Mi para restrablecer su contraseña</string>
     <string name="storage_usb">Almacenamiento USB</string>
     <string name="usb_eject">Desmontar almacenamiento USB</string>
     <string name="usb_eject_summary">Expulsar almacenamiento USB para extraerlo con seguridad</string>
@@ -4863,4 +4877,35 @@ Attempts Remaining :"</string>
     <string name="suspension_ball_enable_desc">Mirror Back and Menu buttons</string>
     <string name="switch_screen_button_order">Cambiar orden de botones en pantalla</string>
     <string name="switch_screen_button_order_desc">Después de abrir, deslizar hacia abajo para ocultar</string>
+    <string name="confirm_privacy_password">Introduzca contraseña de protección de privacidad</string>
+    <string name="confirm_privacy_password_fingerprint">Escanee su huella o introduzca contraseña de protección de privacidad</string>
+    <string name="confirm_privacy_password_instruction">Esta contraseña protege aplicaciones, mensajes, fotos y contactos.</string>
+    <string name="file_privacy_password_role_instruction">Sus archivos privados se guardarán aquí.</string>
+    <string name="gallery_privacy_password_role_instruction">Sus fotos privadas se guardarán aquí.</string>
+    <string name="instruction_privacy_password">Esta contraseña protege los siguientes ítems</string>
+    <string name="mms_privacy_password_role_instruction">Sus conversaciones con contactos privados se guardarán aquí.</string>
+    <string name="modify_instruction_password_settings">Establezca la contraseña</string>
+    <string name="modify_privacy_password">Cambie la contraseña</string>
+    <string name="notes_privacy_password_role_instruction">Sus notas privadas se guardarán aquí.</string>
+    <string name="privacy_applock">Bloqueo de aplicaciones</string>
+    <string name="privacy_childmode">Modo niño</string>
+    <string name="privacy_file">Archivos</string>
+    <string name="privacy_gallery">Fotos</string>
+    <string name="privacy_mms">Mensajes</string>
+    <string name="privacy_notes">Notas</string>
+    <string name="privacy_password">Contraseña de protección de privacidad</string>
+    <string name="privacy_password_confirm_SecondSpace_Password">Confirme contraseña de Segundo Espacio</string>
+    <string name="privacy_password_confirm_use_finger">Desbloquee con la huella</string>
+    <string name="privacy_password_fingerprint_confirm_failed">No se puede verificar la huella</string>
+    <string name="privacy_password_fingerprint_confirm_succes">Huella verificada</string>
+    <string name="privacy_password_fingerprint_dialog_error_title">No se puede escanear la huella, inténtelo otra vez</string>
+    <string name="privacy_password_fingerprint_dialog_message">Ponga su dedo en el sensor</string>
+    <string name="privacy_password_fingerprint_dialog_title">Escanear su huella</string>
+    <string name="privacy_password_settings">Usar contraseña de protección de privacidad</string>
+    <string name="privacy_password_settings_titles">La contraseña de protección de privacidad protege sus mensajes, fotos, archivos, notas y aplicaciones.</string>
+    <string name="privacy_password_title">Contraseña de protección de privacidad</string>
+    <string name="privacy_password_transparent_tiltle"/>
+    <string name="privacy_password_visible_pattern">Mostrar patrón</string>
+    <string name="setting_privacy_password">Establecer contraseña de protección de privacidad</string>
+    <string name="use_privacy_password_immediate">Usar</string>
 </resources>
