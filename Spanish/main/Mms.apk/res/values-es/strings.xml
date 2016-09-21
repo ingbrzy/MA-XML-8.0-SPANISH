@@ -148,8 +148,6 @@
   <string name="edit_phrase">Editar respuestas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivas</string>
   <string name="edit_slideshow_activity">Editar diapositivas</string>
-  <string name="enable_password_protect">Se requiere contraseña</string>
-  <string name="enable_visible_pattern_title">Hacer visible el patrón</string>
   <string name="english_subject_limit">límite de 40 caracteres</string>
   <string name="enter_edit_mode">Editar mensajes</string>
   <string name="error_code_label">"Código de error: "</string>
@@ -443,6 +441,14 @@
   <string name="priority_low">Baja</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">No se puede enviar mensajes en modo Invitado</string>
+  <string name="privacy_password_message1">La contraseña de privacidad funciona para aplicaciones, fotos, notas y carpetas ocultas.</string>
+  <string name="privacy_password_message2">Utilizar la contraseña de privacidad. Funciona para aplicaciones, fotos, notas y carpetas ocultas.</string>
+  <string name="privacy_password_message3">"La contraseña de mensajería será reemplazado por la contraseña de privacidad que funciona para aplicaciones, fotos, notas y carpetas ocultas."</string>
+  <string name="privacy_password_set_password">Establecer</string>
+  <string name="privacy_password_title1">Establecer contraseña</string>
+  <string name="privacy_password_title2">Utilizar la contraseña de privacidad</string>
+  <string name="privacy_password_title3">Actualizar contraseña</string>
+  <string name="privacy_password_title4">Contraseña actualizada</string>
   <string name="private_message">Mensajes privados</string>
   <string name="private_new_notification">Notificaciones de mensajes</string>
   <string name="private_protect">Contraseñas</string>
