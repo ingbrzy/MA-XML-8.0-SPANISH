@@ -16,8 +16,8 @@
   <string name="access_control_need_password">"%s añadido exitosamente
 "</string>
   <string name="access_control_need_to_unlock">"Escanee su huella dactilar
-o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Introduzca contraseña para desbloquear</string>
+o introduzca la contraseña de privacidad"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Introduzca la contraseña de privacidad</string>
   <string name="access_control_recording_intro_header">Dibuje el patrón para añadir el bloqueo de aplicaciones</string>
   <string name="access_control_reset_by_account">Acceda a su Cuenta Mi para restablecer la contraseña</string>
   <string name="action_button_text_100">Optimizar</string>
@@ -163,6 +163,12 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="battery_status_unknown">Error desconocido</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Fecha de reinicio de uso</string>
+  <string name="bind_xiaomi_account_cancel">Cancelar</string>
+  <string name="bind_xiaomi_account_confirm">Añadir</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir Cuenta Mi %s. Si olvida su contraseña, puede utilizar esta cuenta para restablecerla. La cuenta se elimina automáticamente si sales."</string>
+  <string name="bind_xiaomi_account_success">Cuenta Mi añadida correctamente</string>
+  <string name="bind_xiaomi_account_summary">Utilice Cuenta Mi para restablecer su contraseña</string>
+  <string name="bind_xiaomi_account_title">Añadir cuenta Mi</string>
   <string name="boot_reminder">Enciende tu dispositivo a una hora programada</string>
   <string name="boot_time">Encender: %1$s</string>
   <string name="boot_time_day">Encender: %2$s %1$dd</string>
@@ -263,6 +269,7 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
   <string name="cmcc_app_check_dialog_negative">Más tarde</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar ahora</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Añadiendo Cuenta Mi</string>
   <string name="confirm_fingerprint_msg">Coloque su dedo en el sensor</string>
   <string name="confirm_reject_all_permission">¿Restringir todas las aplicaciones utilizando esta característica?</string>
   <string name="connect_internet_by_mobiledata">Conexión de datos móviles</string>
@@ -754,6 +761,11 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="package_setted_error_notification_titile">No se pudo establecer el plan de datos</string>
   <string name="packages_subtitle">Paquetes incluidos</string>
   <string name="passwordIncorrect">Usuario o contraseña incorrectos</string>
+  <string name="password_promotion_button_text">Entendido</string>
+  <string name="password_promotion_message">La aplicación de bloqueo está siendo actualizada a la contraseña de privacidad. Usted puede utilizar su Cuenta actual de Mi para restablecerlo.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">La aplicación de bloqueo está siendo actualizada a la contraseña de privacidad. Usted puede utilizar su cuenta actual de Mi para restablecerla. Añada su Cuenta Mi para ser capaz de hacerlo.</string>
+  <string name="password_promotion_postbutton_text">Ir a Ajustes</string>
+  <string name="password_promotion_title">Contraseña de privacidad</string>
   <string name="path_antispam">Aplicaciones del sistema/Seguridad/Lista de bloqueo</string>
   <string name="path_antivirus">Aplicaciones del sistema/Seguridad de exploración/Virus</string>
   <string name="path_cleanmaster">Aplicaciones del sistema/Seguridad/Limpiador</string>
@@ -1221,6 +1233,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="see_detail">Detalles</string>
   <string name="select_pattern">Seleccione el patrón</string>
   <string name="set_applock_password">Establecer contraseña</string>
+  <string name="setting_privacy_password">Establecer la contraseña de privacidad</string>
   <string name="settings">Ajustes de uso de datos</string>
   <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería se esté drenando rápido</string>
   <string name="settings_battery_consume_abnormal_title">Notificaciones de descarga de la batería</string>
