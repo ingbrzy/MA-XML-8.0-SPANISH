@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Borrar %1$d ficheros</item>
+        <item quantity="zero">Borrar %1$d ficheros</item>
+        <item quantity="one">Borrar %1$d fichero</item>
+        <item quantity="two">Borrar %1$d ficheros</item>
+        <item quantity="few">Borrar %1$d ficheros</item>
+        <item quantity="many">Borrar %1$d ficheros</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" y %1$d carpetas?"</item>
+        <item quantity="zero">" y %1$d carpetas?"</item>
+        <item quantity="one">" y %1$d carpeta?"</item>
+        <item quantity="two">" y %1$d carpetas?"</item>
+        <item quantity="few">" y %1$d carpetas?"</item>
+        <item quantity="many">" y %1$d carpetas?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d ítems</item>
+        <item quantity="zero">%d ítems</item>
+        <item quantity="one">%d ítem</item>
+        <item quantity="two">%d ítems</item>
+        <item quantity="few">%d ítems</item>
+        <item quantity="many">%d ítems</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d ficheros faltan por descargar</item>
+        <item quantity="zero">%1$d ficheros faltan por descargar</item>
+        <item quantity="one">%1$d fichero falta por descargar</item>
+        <item quantity="two">%1$d ficheros faltan por descargar</item>
+        <item quantity="few">%1$d ficheros faltan por descargar</item>
+        <item quantity="many">%1$d ficheros faltan por descargar</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d ficheros faltan por subir</item>
+        <item quantity="zero">%1$d ficheros faltan por subir</item>
+        <item quantity="one">%1$d fichero falta por subir</item>
+        <item quantity="two">%1$d ficheros faltan por subir</item>
+        <item quantity="few">%1$d ficheros faltan por subir</item>
+        <item quantity="many">%1$d ficheros faltan por subir</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">%1$d ficheros faltan por transmitir</item>
+        <item quantity="zero">%1$d ficheros faltan por transmitir</item>
+        <item quantity="one">%1$d fichero falta por transmitir</item>
+        <item quantity="two">%1$d ficheros faltan por transmitir</item>
+        <item quantity="few">%1$d ficheros faltan por transmitir</item>
+        <item quantity="many">%1$d ficheros faltan por transmitir</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="zero">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+        <item quantity="two">%1$d seleccionados</item>
+        <item quantity="few">%1$d seleccionados</item>
+        <item quantity="many">%1$d seleccionados</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d ítems)</item>
+        <item quantity="zero"> (%1$d ítems)</item>
+        <item quantity="one"> (%1$d ítem)</item>
+        <item quantity="two"> (%1$d ítems)</item>
+        <item quantity="few"> (%1$d ítems)</item>
+        <item quantity="many"> (%1$d ítems)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d ítems)</item>
+        <item quantity="zero"> (%1$d ítems)</item>
+        <item quantity="one"> (%1$d ítem)</item>
+        <item quantity="two"> (%1$d ítems)</item>
+        <item quantity="few"> (%1$d ítems)</item>
+        <item quantity="many"> (%1$d ítems)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d ítems</item>
+        <item quantity="zero"> %1$d ítems</item>
+        <item quantity="one"> %1$d ítem</item>
+        <item quantity="two"> %1$d ítems</item>
+        <item quantity="few"> %1$d ítems</item>
+        <item quantity="many"> %1$d ítems</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">hace %1$d mins</item>
+        <item quantity="zero">hace %1$d mins</item>
+        <item quantity="one">hace %1%d min</item>
+        <item quantity="two">hace %1$d mins</item>
+        <item quantity="few">hace %1$d mins</item>
+        <item quantity="many">hace %1$d mins</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">hace %1$d horas</item>
+        <item quantity="zero">hace %1$d horas</item>
+        <item quantity="one">hace %1$d hora</item>
+        <item quantity="two">hace %1$d horas</item>
+        <item quantity="few">hace %1$d horas</item>
+        <item quantity="many">hace %1$d horas</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">hace %1$d días</item>
+        <item quantity="zero">hace %1$d días</item>
+        <item quantity="one">hace %1$d día</item>
+        <item quantity="two">hace %1$d días</item>
+        <item quantity="few">hace %1$d días</item>
+        <item quantity="many">hace %1$d días</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="zero">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+        <item quantity="two">%1$d segundos</item>
+        <item quantity="few">%1$d segundos</item>
+        <item quantity="many">%1$d segundos</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="zero">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="two">%1$d mins</item>
+        <item quantity="few">%1$d mins</item>
+        <item quantity="many">%1$d mins</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="zero">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
+        <item quantity="two">%1$d horas</item>
+        <item quantity="few">%1$d horas</item>
+        <item quantity="many">%1$d horas</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d días</item>
+        <item quantity="zero">%1$d días</item>
+        <item quantity="one">%1$d día</item>
+        <item quantity="two">%1$d días</item>
+        <item quantity="few">%1$d días</item>
+        <item quantity="many">%1$d días</item>
+    </plurals>
+    <plurals name="des_running_trans">
+        <item quantity="other">"%1$d ficheros no han podido ser transferidos."</item>
+        <item quantity="one">"%1$d fichero no ha podido ser transferido."</item>
+    </plurals>
+</resources>
