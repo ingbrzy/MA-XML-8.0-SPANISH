@@ -39,7 +39,9 @@
   <string name="error_sdcard_unmounted">Inserte una tarjeta SD</string>
   <string name="export_to_note">Exportar a Notas</string>
   <string name="invalid_argument">Argumento inválido</string>
-  <string name="low_battery_error">Queda menos del 5% de batería. Para impedir que se pierda su grabación, se ha pausado y guardado.</string>
+  <string name="low_battery_error">"Queda menos del 5% de batería. Detener y guardar la grabación para asegurarse de que no se pierde."</string>
+  <string name="low_battery_error_confirm">OK</string>
+  <string name="low_battery_error_title">Batería baja</string>
   <string name="mark_point_list_title">Marcas</string>
   <string name="message_file_size_error">La grabación ha alcanzado la longitud máxima soportada por %s</string>
   <string name="new_record_name">Nueva grabación</string>
