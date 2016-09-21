@@ -603,12 +603,12 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Ninguno</item>
-        <item>Quick-snap(Actívalo en la cámara)</item>
-        <item>Tarjeta de atajos en transporte público</item>
+        <item>Street-snap(necesitará seleccionar el modo de cámara)</item>
+        <item>Atajos de transporte públicos</item>
     </string-array>
         <string-array name="long_press_volume_down_action_value">
         <item>ninguno</item>
-        <item>Modo Quick-snap</item>
+        <item>Street-snap</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -967,5 +967,21 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_key_position_action">
         <item>Botón de menú a la izquierda, botón de volver a la derecha</item>
         <item>Botón de volver a la izquierda, botón de menú a la derecha</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_keys">
+        <item>privacy_mms</item>
+        <item>privacy_gallery</item>
+        <item>privacy_file</item>
+        <item>privacy_notes</item>
+        <item>privacy_applock</item>
+        <item>child_mode</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>Mensajes</item>
+        <item>Fotos</item>
+        <item>Archivos</item>
+        <item>Notas</item>
+        <item>Bloqueo de aplicación</item>
+        <item>Modo niño</item>
     </string-array>
 </resources>
