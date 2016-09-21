@@ -53,14 +53,14 @@
     <string name="power_dialog_new_event_fail">No es posible añadir nuevos eventos</string>
     <string name="power_optimize_activity_profile_file_error">Error de economizador de batería</string>
     <string name="foreground_change">Aplicación ejecutándose en primer plano</string>
-    <string name="screen_on">Pantalla activada</string>
-    <string name="screen_off">Pantalla desactivada</string>
-    <string name="screen_off_10_min">Pantalla desactivada más de 10 minutos</string>
+    <string name="screen_on">La pantalla está activada</string>
+    <string name="screen_off">La pantalla está apagada</string>
+    <string name="screen_off_10_min">La pantalla está apagada durante más de 10 minutos</string>
     <string name="full_screen_enter">Acceda a pantalla completa</string>
     <string name="full_screen_exit">Salir de pantalla completa</string>
     <string name="background">Aplicación ejecutándose en segundo plano</string>
     <string name="set_brightness">Brillo máximo de la pantalla</string>
-    <string name="set_cpufreq_max">Frequencia MAX CPU</string>
+    <string name="set_cpufreq_max">Frecuencia máxima de la CPU</string>
     <string name="set_lcd_mode">Modo de pantalla</string>
     <string name="set_cpu_powermode">Uso de CPU</string>
     <string name="none">No hay procesos</string>
@@ -153,5 +153,5 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="ragment_sys_listempty">No hay aplicaciones del sistema</string>
     <string name="fragment_nonesys_listempty">No hay aplicaciones instaladas</string>
     <string name="app_invisible_title">AppInvisible</string>
-    <string name="google_base_app_install_choice">\"%s\" requiere de las aplicaciones Marco de Servicio de Google para funcionar con normalidad, desea descargarlas e instalarlas?</string>
+    <string name="google_base_app_install_choice">\"%s\" requiere de las aplicaciones Marco de Servicio de Google para trabajar con normalidad, desea descargarlas e instalarlas?</string>
 </resources>
