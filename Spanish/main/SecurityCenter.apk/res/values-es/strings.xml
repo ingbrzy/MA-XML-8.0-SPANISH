@@ -624,7 +624,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="menu_text_antispam">Lista de bloqueo</string>
   <string name="menu_text_antivirus">Escáner de virus</string>
   <string name="menu_text_garbage_cleanup">Limpiador</string>
-  <string name="menu_text_garbage_cleanup_danger">%s terminado</string> 
+  <string name="menu_text_garbage_cleanup_danger">%s terminado</string>
   <string name="menu_text_license_manager">Permisos</string>
   <string name="menu_text_networkassistants">Uso de datos</string>
   <string name="menu_text_networkassistants_danger">%s por encima del límite</string>
@@ -702,6 +702,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="notification_item">Proteger aplicaciones seleccionadas con el bloqueo de Aplicaciones</string>
   <string name="notification_subtitle">Toca para activar</string>
   <string name="notification_summary_cmcc_app_check">Pulsa para ver detalles.</string>
+  <string name="notification_sysapp_cracked_text">La versión actual de MIUI ha sido modificada</string>
+  <string name="notification_sysapp_cracked_title">Se ha detectado un riesgo en la seguridad</string>
   <string name="notification_title_cmcc_app_check">%d días desde el último chequeo</string>
   <string name="notification_title_firewall_blocked">Bloqueados</string>
   <string name="notify_daily_data_usage_body">Para limitar el uso de datos de forma automática, configure su plan de datos mensual.</string>
@@ -1302,7 +1304,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_flow_purchase_beyond">Has excedido el límite del plan de datos mensual de tu operador por %sMB</string>
   <string name="summary_flow_verify">No se han sincronizado las estadísticas de uso de datos del operador en %d días</string>
   <string name="summary_flow_verify_failed">Ajuste automático de uso de datos para evitar cargos adicionales</string>
-  <string name="summary_garbage_clean">Borrar caché para liberar espacio</string> 
+  <string name="summary_garbage_clean">Borrar caché para liberar espacio</string>
   <string name="summary_garbage_lib">Usar las últimas definiciones para eliminar spyware, adware y otra basura no deseada</string>
   <string name="summary_install_virus">Comprueba si tus aplicaciones tienen virus antes de instalarlas</string>
   <string name="summary_live_talk_purchase">Ahorre hasta un 70% en sus llamadas</string>
@@ -1321,6 +1323,15 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_virus_cloudscan">Subir detalles y nombres de aplicaciones y escanear usando definiciones de virus en línea</string>
   <string name="summary_virus_update">Obtener automáticamente las últimas definiciones de virus</string>
   <string name="summary_xiaomi_roaming">CNY 0,01/MB para la itinerancia de datos móviles.</string>
+  <string name="sys_app_prot_cracked_confirm">Lo tengo</string>
+  <string name="sys_app_prot_cracked_login">Regístrese con la cuenta Mi</string>
+  <string name="sys_app_prot_cracked_text_login">"La versión actual de MIUI ha sido modificada lo que pone a la seguridad de su dispositivo en riesgo.
+
+Asegúrese de saber de dónde viene este dispositivo, y contacte con un centro de servicio autorizado Xiaomi en su zona para ser ayudado."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"La versión actual de MIUI ha sido modificada lo que pone a la seguridad de su dispositivo en riesgo. Regístrese con su cuenta Mi para apagar esta advertencia.
+
+Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene este dispositivo y contacte con un centro de servicio autorizado Xiaomi en su zona."</string>
+  <string name="sys_app_prot_cracked_title">Riesgo de seguridad</string>
   <string name="system_app">Aplicaciones del sistema</string>
   <string name="system_application">Aplicaciones del sistema</string>
   <string name="system_check_content_none">Seguro</string>
@@ -1421,8 +1432,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi al máximo, los elementos podrían no sincronizarse</string>
   <string name="title_cloud_space_full">Almacenamiento en la nube al máximo</string>
   <string name="title_cmcc_app_check">Verificación incompleta</string>
-  <string name="title_consume_power">Se encontraron problemas con la batería</string> 
-  <string name="title_consume_power_rank">Uso de la batería</string> 
+  <string name="title_consume_power">Se encontraron problemas con la batería</string>
+  <string name="title_consume_power_rank">Uso de la batería</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
   <string name="title_default_app">MIUI %s no se establece como predeterminado</string>
   <string name="title_dev_no">Opciones de desarrollador activadas</string>
@@ -1433,7 +1444,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="title_flow_rank">Uso de datos móviles</string>
   <string name="title_flow_verify">Comparar contabilidad</string>
   <string name="title_flow_verify_failed">"No se pudo ajustar durante 5 días seguidos"</string>
-  <string name="title_garbage_clean">La aplicación alcanzó el tamaño caché %s</string> 
+  <string name="title_garbage_clean">La aplicación alcanzó el tamaño caché %s</string>
   <string name="title_garbage_lib">Actualizar definiciones</string>
   <string name="title_install_virus_no">Monitor de instalación apagado</string>
   <string name="title_install_virus_yes">Monitor de instalación activado</string>
