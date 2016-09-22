@@ -476,7 +476,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
     <string name="security_passwords_title">Contraseñas</string>
     <string name="security_settings_fingerprint_preference_title">Huella digital</string>
     <string name="fingerprint_manage_category_title">Administrar huellas</string>
-    <string name="fingerprint_not_identified_msg">No se puede leer la huella. Introduzca su contraseña</string>
+    <string name="fingerprint_not_identified_msg">No se puede leer la huella dactilar. Introduzca su contraseña</string>
     <string name="fingerprint_usage_category_title">Usar huella para</string>
     <string name="fingerprint_add_title">Añadir huella digital</string>
     <string name="fingerprint_enable_keyguard_toggle_title">bloqueo de pantalla</string>
@@ -1260,8 +1260,8 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
     <string name="bearer">Tipo de conexión</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Añadir</string>
-    <string name="bind_xiaomi_account_dialog_summery">"Está a punto de añidir la cuenta Mi %s. Si olvida su contraseña, puede usar esta cuenta para restablecerla."</string>
-    <string name="bind_xiaomi_account_success">Cuenta Mi añadida added exitosamente</string>
+    <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir Cuenta Mi %s. Si olvida su contraseña, puede usar esta cuenta para restablecerla."</string>
+    <string name="bind_xiaomi_account_success">Cuenta Mi añadida correctamente</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Añadir</string>
     <string name="binded_xiaomi_summary">Cuenta actual: %s</string>
     <string name="mvno_type">Tipo de OMV</string>
@@ -3058,7 +3058,7 @@ Esto te permitirá proteger los datos del dispositivo en caso de pérdida o robo
     <string name="ignore_optimizations_off_desc">Recomendado para mejorar la duración de la batería</string>
     <string name="ignore_optimizations_title">¿Permitir que %s ignore las optimizaciones de la batería?</string>
     <string name="app_list_preference_none">Ninguna</string>
-    <string name="app_lock_role_instruction">Protea sus aplicaciones privadas</string>
+    <string name="app_lock_role_instruction">Proteja sus aplicaciones privadas</string>
     <string name="work_profile_usage_access_warning">Al desactivar el acceso de uso de esta aplicación, no evitarás que el administrador realice un seguimiento del uso de datos de las aplicaciones en tu perfil de trabajo.</string>
     <string name="accessibility_lock_screen_progress">%1$d de %2$d caracteres utilizados</string>
     <string name="draw_overlay_title">Aplicaciones que pueden escribir sobre otras aplicaciones</string>
@@ -4432,7 +4432,7 @@ Seleccione su sistema operativo:"</string>
     <string name="smallwindow_smartcover_title">Frente cubierta transparente</string>
     <string name="lattice_smartcover_title">Celosía de fondo</string>
     <string name="wifi_eap_sim_simcard">Elegir SIM</string>
-    <string name="childmod_privacy_password_role_instruction">Encienda el modo niño para prevenir acciones indeseadas cuando el dispositivo es usado por un niño</string>
+    <string name="childmod_privacy_password_role_instruction">Activar el modo de niño para evitar acciones no deseadas cuando el dispositivo es utilizado por un niño</string>
     <string name="children_mode_title">Modo niño</string>
     <string name="children_mode_tips_on">Después de apagar el modo niño, pulse el botón de Inicio para volver a la pantalla de inicio.</string>
     <string name="children_mode_tips_off">Después de apagar el modo niño, pulse el botón de Inicio para volver a la pantalla de inicio.</string>
@@ -4533,7 +4533,7 @@ Seleccione su sistema operativo:"</string>
     <string name="onekey_migrate">Transferencia</string>
     <string name="confirm_fingerprint_msg">Coloque su dedo en el sensor</string>
     <string name="forget_password_button_text"><u>Contraseña olvidada</u></string>
-    <string name="forget_pattern">&lt;u&gt;¿Olvidar patrón?&lt;/u&gt;</string>
+    <string name="forget_pattern">&lt;u&gt;¿Olvido el patrón de desbloqueo?&lt;/u&gt;</string>
     <string name="forget_privacy_password_setting">Añadir cuenta Mi</string>
     <string name="forget_privacy_password_summary">Use Cuenta Mi para restrablecer su contraseña</string>
     <string name="storage_usb">Almacenamiento USB</string>
@@ -4877,8 +4877,8 @@ Attempts Remaining :"</string>
     <string name="suspension_ball_enable_desc">Mirror Back and Menu buttons</string>
     <string name="switch_screen_button_order">Cambiar orden de botones en pantalla</string>
     <string name="switch_screen_button_order_desc">Después de abrir, deslizar hacia abajo para ocultar</string>
-    <string name="confirm_privacy_password">Introduzca contraseña de protección de privacidad</string>
-    <string name="confirm_privacy_password_fingerprint">Escanee su huella o introduzca contraseña de protección de privacidad</string>
+    <string name="confirm_privacy_password">Introduzca contraseña de privacidad</string>
+    <string name="confirm_privacy_password_fingerprint">Escanee su huella o introduzca contraseña de privacidad</string>
     <string name="confirm_privacy_password_instruction">Esta contraseña protege aplicaciones, mensajes, fotos y contactos.</string>
     <string name="file_privacy_password_role_instruction">Sus archivos privados se guardarán aquí.</string>
     <string name="gallery_privacy_password_role_instruction">Sus fotos privadas se guardarán aquí.</string>
@@ -4893,19 +4893,19 @@ Attempts Remaining :"</string>
     <string name="privacy_gallery">Fotos</string>
     <string name="privacy_mms">Mensajes</string>
     <string name="privacy_notes">Notas</string>
-    <string name="privacy_password">Contraseña de protección de privacidad</string>
+    <string name="privacy_password">Contraseña de privacidad</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirme contraseña de Segundo Espacio</string>
-    <string name="privacy_password_confirm_use_finger">Desbloquee con la huella</string>
-    <string name="privacy_password_fingerprint_confirm_failed">No se puede verificar la huella</string>
-    <string name="privacy_password_fingerprint_confirm_succes">Huella verificada</string>
-    <string name="privacy_password_fingerprint_dialog_error_title">No se puede escanear la huella, inténtelo otra vez</string>
+    <string name="privacy_password_confirm_use_finger">Desbloquee con la huella dactilar</string>
+    <string name="privacy_password_fingerprint_confirm_failed">No se puede verificar la huella dactilar</string>
+    <string name="privacy_password_fingerprint_confirm_succes">Huella dactilar verificada</string>
+    <string name="privacy_password_fingerprint_dialog_error_title">No se puede escanear la huella dactilar, inténtelo otra vez</string>
     <string name="privacy_password_fingerprint_dialog_message">Ponga su dedo en el sensor</string>
-    <string name="privacy_password_fingerprint_dialog_title">Escanear su huella</string>
-    <string name="privacy_password_settings">Usar contraseña de protección de privacidad</string>
-    <string name="privacy_password_settings_titles">La contraseña de protección de privacidad protege sus mensajes, fotos, archivos, notas y aplicaciones.</string>
-    <string name="privacy_password_title">Contraseña de protección de privacidad</string>
+    <string name="privacy_password_fingerprint_dialog_title">Escanear su huella dactilar</string>
+    <string name="privacy_password_settings">Usar contraseña de de privacidad</string>
+    <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos, notas y aplicaciones.</string>
+    <string name="privacy_password_title">Contraseña de privacidad</string>
     <string name="privacy_password_transparent_tiltle"/>
     <string name="privacy_password_visible_pattern">Mostrar patrón</string>
-    <string name="setting_privacy_password">Establecer contraseña de protección de privacidad</string>
+    <string name="setting_privacy_password">Establecer contraseña de privacidad</string>
     <string name="use_privacy_password_immediate">Usar</string>
 </resources>
