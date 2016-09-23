@@ -116,8 +116,6 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
 El administrador podrá controlar y administrar los ajustes, el acceso, las aplicaciones y los datos asociados a este usuario, como la actividad de red y la información de ubicación de tus dispositivos."</string>
   <string name="additional_permissions">Permisos adicionales</string>
   <string name="additional_permissions_more">%1$d más</string>
-  <string name="additional_system_update"/>
-  <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales de sistema</string>
   <string name="adjust_3d_depth_title">Ajuste profundidad 3D de juegos</string>
   <string name="advanced_apps">Opciones avanzadas</string>
@@ -221,7 +219,6 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">No se ha encontrado la aplicación en la lista de aplicaciones instaladas.</string>
-  <string name="app_not_found_dlg_title"/>
   <string name="app_notification_block_summary">No mostrar nunca notificaciones de esta aplicación</string>
   <string name="app_notification_block_title">Bloquear todo</string>
   <string name="app_notification_peekable_summary">Permitir que esta aplicación destaque algunas notificaciones expandiéndolas en la pantalla actual</string>
@@ -518,7 +515,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_enter_passkey_msg">Escribe el código de vinculación y, a continuación, pulsa la tecla Intro</string>
   <string name="bluetooth_enter_passkey_other_device">Es posible que tengas que introducir la clave de acceso en el otro dispositivo.</string>
   <string name="bluetooth_enter_pin_other_device">Es posible que tengas que introducir este PIN en el otro dispositivo.</string>
-  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del teléfono</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizar para audio del teléfono</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado a dispositivo de entrada</string>
@@ -845,7 +841,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="credentials_reset_warning_plural">Contraseña incorrecta. Tienes %1$d oportunidades más antes de que se borre el almacenamiento de credenciales.</string>
   <string name="credentials_settings_not_available">Las credenciales no están disponibles para este usuario</string>
   <string name="credentials_title">Almacenamiento de credenciales</string>
-  <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Escribe la contraseña del almacenamiento de credenciales.</string>
   <string name="credentials_wrong_password">Contraseña incorrecta</string>
   <string name="crypt_keeper_button_text">Cifrar teléfono</string>
@@ -979,10 +974,10 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="data_usage_restrict_background_title">¿Restringir conexiones automáticas?</string>
   <string name="data_usage_restrict_denied_dialog">Solo puedes restringir las conexiones automáticas si has establecido un límite de datos móviles.</string>
   <string name="data_usage_summary_title">Uso de datos</string>
-  <string name="data_usage_sweep_limit">^1^2límite"
-"</string>
-  <string name="data_usage_sweep_warning">^1^2aviso"
-"</string>
+  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;limite&lt;/font&gt;</string>
+  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;aviso&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1093,7 +1088,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="dialog_title_hdmi_color_calibration">Corrección de color preestablecido</string>
   <string name="dialog_title_login">Inicie sesión en su cuenta Mi</string>
   <string name="dialog_yes">Sí</string>
-  <string name="disableNetwork">desactivarlaRed</string>
   <string name="disable_overlays">Inhabilitar superposiciones HW</string>
   <string name="disable_overlays_summary">Usar siempre la GPU para combinar pantallas</string>
   <string name="disable_power_key_long_press_under_keyguard">Desactivar el menú del botón de apagado</string>
@@ -1119,7 +1113,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="dlg_confirm_unmount_text">Si desactivas la tarjeta SD, se detendrán algunas aplicaciones en ejecución y no estarán disponibles hasta que la vuelvas a activar.</string>
   <string name="dlg_confirm_unmount_title">¿Desactivar tarjeta SD?</string>
   <string name="dlg_error_unmount_text">No se ha podido desactivar la tarjeta SD. Inténtalo de nuevo más tarde.</string>
-  <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">Aceptar</string>
   <string name="dlg_switch">Cambiar</string>
   <string name="dndm_alarm_content">Sonidos</string>
@@ -1228,7 +1221,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="emergency_tone_title">Tono de emergencia</string>
   <string name="emergency_tone_vibrate">Vibrar</string>
   <string name="empty_list_msg">No tienes instalada ninguna aplicación externa.</string>
-  <string name="enableNetwork">permitirRed</string>
   <string name="enable_adb">Depuración por USB</string>
   <string name="enable_adb_summary">Activar el modo de depuración cuando el dispositivo esté conectado por USB</string>
   <string name="enable_compatibility">Aplicación de escala</string>
@@ -1308,7 +1300,6 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="error_mcc_not3">El campo MCC debe contener 3 dígitos.</string>
   <string name="error_mnc_not23">El campo MNC debe contener 2 o 3 dígitos.</string>
   <string name="error_name_empty">El campo Nombre no puede estar vacío.</string>
-  <string name="error_title"/>
   <string name="every_day">Todos los días</string>
   <string name="experimental_preference">(Experimental)</string>
   <string name="external_code_size_label">En almacenamiento USB</string>
@@ -1399,7 +1390,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="force_touch_enable">Activar Toque 3D</string>
   <string name="force_touch_enable_tips">Toque largo en el icono de la aplicación para mostrar los atajos, mientras el 3D Touch esté activo.</string>
   <string name="forget">Olvidar</string>
-  <string name="forget_password_button_text">Contraseña olvidada</string>
+  <string name="forget_password_button_text">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
   <string name="forget_pattern">&lt;u&gt;¿Olvido el patrón?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Añadir cuenta Mi</string>
   <string name="forget_privacy_password_summary">Use Cuenta Mi para restrablecer su contraseña</string>
@@ -1576,7 +1567,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="internal_format">Borrar el almacenamiento interno</string>
   <string name="internal_format_summary">Borrar todos los datos del almacenamiento interno del dispositivo</string>
   <string name="internal_media_format_button_text">Borrar el almacenamiento interno</string>
-  <string name="internal_media_format_desc">Todos sus datos guardados se borrarán permanentemente. El teléfono se reiniciará después de haber borrado el almacenamiento interno.¿Borrar todo el almacenamiento interno? </string>
+  <string name="internal_media_format_desc"><b>Todos</b> sus datos guardados se borrarán permanentemente. El teléfono se reiniciará después de haber borrado el almacenamiento interno.¿Desea borrar todo el almacenamiento interno? </string>
   <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá revertir esta acción! El teléfono se reiniciará después de haber borrado el almacenamiento interno.</string>
   <string name="internal_media_format_title">Borrar el almacenamiento interno</string>
   <string name="internal_memory">Almacenamiento interno</string>
@@ -1904,17 +1895,17 @@ Has accedido a las cuentas que se indican a continuación:
   <string name="master_clear_all">¿Borrar todos los datos de la memoria interna de su teléfono? ¡Esta acción no podrá deshacerse!</string>
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
-  <string name="master_clear_desc">almacenamiento internoTu cuenta de GoogleLos ajustes y los datos de aplicaciones y del sistemaLas aplicaciones descargadas" del teléfono, como:
+ <string name="master_clear_desc">"Esto borrará todos los datos del teléfono y el "&lt;b&gt;almacenamiento interno&lt;/b&gt;", incluyendo:
 
-""
-""
-"Se borrarán todos los datos del </string>
-  <string name="master_clear_desc_also_erases_external">MúsicaFotosOtros datos de usuario"
-""
-"</string>
-  <string name="master_clear_desc_erase_external_storage">tarjeta SD"
+"&lt;li&gt;Su cuenta de Google&lt;/li&gt;"
+"&lt;li&gt;Los ajustes y los datos de aplicaciones&lt;/li&gt;"
+"&lt;li&gt;Aplicaciones descargadas&lt;/li&gt;</string>
+ <string name="master_clear_desc_also_erases_external">&lt;li&gt;Música&lt;/li&gt;"
+"&lt;li&gt;Fotos&lt;/li&gt;"
+"&lt;li&gt;Otros datos de usuario&lt;/li&gt;</string>
+ <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar la música, las imágenes y otros datos de usuario, debes borrar la ".</string>
+Para borrar la musica, imáganes, y otros datos de usuario, la "&lt;b&gt;Tarjeta SD&lt;/b&gt; necesita ser borrada.</string>
   <string name="master_clear_erase_application_progress">Eliminando aplicaciones…</string>
   <string name="master_clear_failed">No se ha reiniciado el sistema porque el servicio Borrado del sistema no está disponible.</string>
   <string name="master_clear_final_button_text">Borrar todo</string>
@@ -2032,7 +2023,6 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="modify_privacy_password">Cambie la contraseña</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">No se ha podido mover la aplicación (%1$s).</string>
-  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Mover al teléfono</string>
   <string name="move_app_to_sdcard">Mover a la tarjeta SD</string>
   <string name="moving">Moviendo</string>
@@ -2213,7 +2203,6 @@ Seleccione su sistema operativo:"</string>
   <string name="now">Reiniciar ahora</string>
   <string name="nsd_quick_toggle_summary">Permitir que las aplicaciones de otros dispositivos puedan ver las aplicaciones de este dispositivo</string>
   <string name="nsd_quick_toggle_title">Detección de aplicaciones</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">Ajustes/información específica de OEM</string>
   <string name="oem_unlock_enable">Desbloqueo de OEM</string>
   <string name="oem_unlock_enable_summary">Permitir desbloquear el bootloader</string>
@@ -2505,7 +2494,6 @@ Seleccione su sistema operativo:"</string>
   <string name="phone_call_noise_suppression">Supresión del ruido ambiente durante las llamadas</string>
   <string name="phone_info_label">Información sobre el teléfono</string>
   <string name="phone_language">Idioma</string>
-  <string name="phone_language_summary"/>
   <string name="pico_installed">Instalada</string>
   <string name="pico_languages_and_voices">Idiomas y voces</string>
   <string name="pico_not_installed">Sin instalar</string>
@@ -2565,7 +2553,7 @@ Seleccione su sistema operativo:"</string>
   <string name="preference_change_password_title">Cambiar contraseña</string>
   <string name="preferred_app_settings">Predeterminados</string>
   <string name="preferred_app_settings_default">Predeterminado</string>
-  <string name="preferred_app_settings_not_selected">No seleccionado</string>
+  <string name="preferred_app_settings_not_selected">No seleccionada</string>
   <string name="preferred_app_settings_reset">Restablecer valores predeterminados</string>
   <string name="preferred_app_settings_reset_button">Restablecer</string>
   <string name="preferred_app_settings_reset_message">Las preferencias de las aplicaciones por defecto se restablecerán a los ajustes de fábrica.</string>
@@ -2637,7 +2625,6 @@ Seleccione su sistema operativo:"</string>
   <string name="privacy_password_settings">Usar contraseña de privacidad</string>
   <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos, notas y aplicaciones.</string>
   <string name="privacy_password_title">Contraseña de privacidad</string>
-  <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Mostrar patrón</string>
   <string name="privacy_protect_title">Protección de privacidad</string>
   <string name="privacy_relative">Privacidad</string>
@@ -2775,7 +2762,6 @@ Seleccione su sistema operativo:"</string>
   <string name="recent_location_requests_title">Acceso a ubicación</string>
   <string name="recompute_size">Recalculando tamaño…</string>
   <string name="record_anr_in_background">Grabar casos de ANR en segundo plano</string>
-  <string name="regulatory_info_text"/>
   <string name="regulatory_information">Información regulatoria</string>
   <string name="remove_account_failed">El administrador no permite este cambio</string>
   <string name="remove_account_label">Quitar cuenta</string>
@@ -2787,15 +2773,15 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_aaid">Restablecer el identificador de publicidad</string>
   <string name="reset_app_preferences">Restablecer preferencias</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
-  <string name="reset_app_preferences_desc">Aplicaciones inhabilitadasNotificaciones de aplicaciones inhabilitadasAplicaciones predeterminadasRestricciones de datos de aplicacionesRestricciones de permisos"
- ""
- ""
- ""
- ""
+ <string name="reset_app_preferences_desc">"Esto restablecerá todas las preferencias de
 
-No se perderán los datos de las aplicaciones.""Se restablecerán todas las preferencias de:
+ "&lt;li&gt;Aplicaciones inhabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Notificaciones inhabilitadas de aplicaciones &lt;/li&gt;"
+ "&lt;li&gt;Aplicaciones predeterminadas&lt;/li&gt;"
+ "&lt;li&gt;Restricciones de datos de aplicaciones&lt;/li&gt;"
+ "&lt;li&gt;Restricciones de permisos&lt;/li&gt;"
 
- "</string>
+No se perderán los datos de las aplicaciones."</string>
   <string name="reset_app_preferences_title">¿Restablecer preferencias de las aplicaciones?</string>
   <string name="reset_legacy_password_settings_preface_text">Es necesario restablecer la contraseña de bloqueo de pantalla.</string>
   <string name="reset_network_button_text">Restablecer ajustes</string>
@@ -3553,7 +3539,7 @@ Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que s
 
 "</string>
   <string name="storage_internal_title">Almacenamiento del dispositivo</string>
-  <string name="storage_internal_unmount_details">Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estarán disponibles hasta que se vuelva a insertar."
+  <string name="storage_internal_unmount_details"><string name="storage_internal_unmount_details"><b>Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estarán disponibles hasta que se vuelva a insertar.</b>"
 
 Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_label">Almacenamiento</string>
@@ -3595,8 +3581,8 @@ Una vez que se formatee, tu ^1 solo funcionará en este dispositivo.
 
 "</string>
   <string name="storage_wizard_format_confirm_next">Borrar y formatear</string>
-  <string name="storage_wizard_format_confirm_public_body">Al formatear tu ^1, se borrarán todos los datos que tengas almacenados. Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1.
-
+<string name="storage_wizard_format_confirm_public_body">
+    <b>Al formatear tu ^1, se borrarán todos los datos que tengas almacenados.</b> Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1.
 "</string>
   <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
   <string name="storage_wizard_format_confirm_title">Formatear como almacen. interno</string>
@@ -3610,7 +3596,9 @@ Una vez que se formatee, tu ^1 solo funcionará en este dispositivo.
   <string name="storage_wizard_migrate_body">"Puedes mover tus fotos, tus archivos y algunas aplicaciones al nuevo dispositivo de almacenamiento (^1).
 
 La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio de almacenamiento interno. Algunas aplicaciones no funcionarán hasta que finalice el proceso."</string>
-  <string name="storage_wizard_migrate_confirm_body">La migración durará ^1 y permitirá liberar ^2 de espacio de almacenamiento en ^3.</string>
+   <string name="storage_wizard_migrate_confirm_body">
+    <b>La migración durará ^1 y permitirá liberar ^2 de espacio de almacenamiento en ^3.</b>
+  </string>
   <string name="storage_wizard_migrate_confirm_next">Mover</string>
   <string name="storage_wizard_migrate_confirm_title">Migración de datos</string>
   <string name="storage_wizard_migrate_details">"Durante la migración:
