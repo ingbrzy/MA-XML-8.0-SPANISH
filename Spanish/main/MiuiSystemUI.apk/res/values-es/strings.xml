@@ -72,7 +72,7 @@
   <string name="bluetooth_connected_no_a2dp">Conectado (sin multimedia)</string>
   <string name="bluetooth_connected_no_headset">Conectado (sin teléfono)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sin teléfono o multimedia)</string>
-  <string name="bluetooth_connected_no_map">Conectedo (sin acceso a los mensajes)</string>
+  <string name="bluetooth_connected_no_map">Conectado (sin acceso a los mensajes)</string>
   <string name="bluetooth_connecting">Conectando…</string>
   <string name="bluetooth_disconnected">Desconectado</string>
   <string name="bluetooth_disconnecting">Desconectando…</string>
@@ -201,7 +201,7 @@ Usa sólo el cargador provisto."</string>
   <string name="notification_header_title">Notificaciones</string>
   <string name="notification_hidden_text">Contenido oculto</string>
   <string name="notification_manager">Administrar notificaciones</string>
-  <string name="notification_manager_des">Filtrar and administrar notificaciones</string>
+  <string name="notification_manager_des">Filtrar y administrar notificaciones</string>
   <string name="notification_otg_gamestick_in">Control de juego conectado</string>
   <string name="notification_otg_gamestick_out">Control de juego desconectado</string>
   <string name="notification_otg_keyboard_in">Teclado conectado</string>
@@ -345,9 +345,9 @@ Desliza hacia abajo para bloquear"</string>
   <string name="weather_publish_time">Actualizado %1$s</string>
   <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
   <string name="wifi_disabled_generic">Desactivado</string>
-  <string name="wifi_disabled_network_failure">Error en la Configuración IP</string>
-  <string name="wifi_disabled_password_failure">Problema de autenticacion</string>
-  <string name="wifi_disabled_wifi_failure">Error de conexión WLAN</string>
+  <string name="wifi_disabled_network_failure">Error en los ajustes IP</string>
+  <string name="wifi_disabled_password_failure">Problema de autenticación</string>
+  <string name="wifi_disabled_wifi_failure">Error de conexión Wi-Fi</string>
   <string name="wifi_fail_to_scan">"No se pueden buscar redes"</string>
   <string name="wifi_no_internet">"No se ha detectado acceso a Internet, no se volverá a conectar automáticamente."</string>
   <string name="wifi_not_in_range">Fuera de rango</string>
