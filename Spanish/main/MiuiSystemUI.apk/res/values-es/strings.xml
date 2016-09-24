@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Modo avión</string>
   <string name="accessibility_assistant">Asistente táctil</string>
@@ -197,7 +197,7 @@ Usa sólo el cargador provisto."</string>
   <string name="mount_storage">Sí</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">No hay notificaciones.</string>
-  <string name="no_weather_description">Obtener información del clima &amp;gt</string>
+  <string name="no_weather_description">Obtener información del clima &gt;</string>
   <string name="notification_header_title">Notificaciones</string>
   <string name="notification_hidden_text">Contenido oculto</string>
   <string name="notification_manager">Administrar notificaciones</string>
@@ -273,9 +273,9 @@ Usa sólo el cargador provisto."</string>
  MMMM d"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Hoy: %1$s   Restante: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido:&amp;ltfont color=%2$s&amp;gt%3$s&amp;lt/font&amp;gt</string>
+  <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Límite mensual: %1$s   "</string>
-  <string name="status_bar_network_flow_purchase">"   Comprar &amp;gt"</string>
+  <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
   <string name="status_bar_network_flow_today">Hoy: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Ninguna aplicación reciente</string>
