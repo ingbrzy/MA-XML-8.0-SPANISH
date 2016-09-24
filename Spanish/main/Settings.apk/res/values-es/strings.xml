@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="aaid_info">"
 El identificador de publicidad es único y permanente para su dispositivo. Los vendedores lo usan para seleccionar contenido publicitario que será más útil para usted."</string>
@@ -48,6 +48,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="accessibility_long_press_timeout_preference_title">Retraso al mantener pulsado</string>
   <string name="accessibility_menu_item_settings">Ajustes</string>
   <string name="accessibility_no_services_installed">No se ha instalado ningún servicio.</string>
+  <string name="accessibility_no_wifi">Wi-Fi desconectado</string>
   <string name="accessibility_personal_account_title">Cuenta personal (%s)</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">El botón de encendido cuelga</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
@@ -80,6 +81,12 @@ Con la imagen acercada, puedes:
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar ampliación automáticamente</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Ampliación de pantalla</string>
   <string name="accessibility_toggle_speak_password_preference_title">Decir contraseñas</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Decir contraseñas</string>
+  <string name="accessibility_wifi_off">Wifi apagado.</string>
+  <string name="accessibility_wifi_one_bar">Una barra de Wifi</string>
+  <string name="accessibility_wifi_signal_full">Señal máxima de Wifi</string>
+  <string name="accessibility_wifi_three_bars">Tres barras de Wifi.</string>
+  <string name="accessibility_wifi_two_bars">Dos barras de Wifi.</string>
   <string name="accessibility_work_account_title">Cuenta de trabajo (%s)</string>
   <string name="account_add">Añadir</string>
   <string name="account_autostar_label">Inicio automático</string>
@@ -352,6 +359,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="band_mode_succeeded">Correcto</string>
   <string name="band_mode_title">Establecer banda GSM/UMTS</string>
   <string name="baseband_version">Versión de la banda base</string>
+  <string name="batch_delete_saved_network">Eliminar la red guardada: %s?</string>
   <string name="battery_action_app_details">Información de la aplicación</string>
   <string name="battery_action_app_settings">Ajustes de aplicación</string>
   <string name="battery_action_bluetooth">Ajustes de Bluetooth</string>
@@ -1083,6 +1091,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="delete_fingerprint_text">Eliminar huella</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">¿Elimininar esta huella digital?</string>
+  <string name="delete_saved_network">Borrar red guardada</string>
   <string name="deny">Denegar</string>
   <string name="deny_sms_message">No permitir que las aplicaciones instaladas envíen SMS</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -2451,6 +2460,8 @@ Seleccione su sistema operativo:"</string>
   <string name="page_layout_page2_small_title">Extra pequeño</string>
   <string name="page_layout_page2_title">Vista previa</string>
   <string name="page_layout_small_title">Extra pequeño</string>
+  <string name="paper_mode_end_time_title">Hora de finalización</string>
+  <string name="paper_mode_start_time_title">Hora de inicio</string>
   <string name="passpoint_content">Credenciales de %1$s</string>
   <string name="passpoint_label">Guardada a través de</string>
   <string name="password_entrance_title">Bloqueo de pantalla</string>
@@ -2548,6 +2559,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_other_advanced_settings">Ajustes/Ajustes adicionales</string>
   <string name="path_owner_info_settings">Ajustes/Pantalla de bloqueo y contraseña/Información del propietario</string>
   <string name="path_page_layout_settings">Ajustes/Pantalla/Tamaño del texto</string>
+  <string name="path_pn_settings">Ajustes/Redes móviles/Nombres de los puntos de acceso</string>
   <string name="path_pointer_speed">Ajustes/Ajustes adicionales/Teclado e idioma/Velocidad del puntero</string>
   <string name="path_power_checker">Ajustes/Ajustes adicionales/Funciones Beta/Control de energía</string>
   <string name="path_power_hide_mode_title">Ajustes/Batería y rendimiento/Administrar el uso de la batería en aplicaciones</string>
@@ -2714,6 +2726,7 @@ Seleccione su sistema operativo:"</string>
   <string name="preference_change_password_title">Cambiar contraseña</string>
   <string name="preferred_app_settings">Predeterminados</string>
   <string name="preferred_app_settings_default">Predeterminado</string>
+  <string name="preferred_app_settings_not_selected">No seleccionada</string>
   <string name="preferred_app_settings_reset">Restablecer valores predeterminados</string>
   <string name="preferred_app_settings_reset_button">Restablecer</string>
   <string name="preferred_app_settings_reset_message">Las preferencias de las aplicaciones por defecto se restablecerán a los ajustes de fábrica.</string>
@@ -2879,6 +2892,7 @@ Seleccione su sistema operativo:"</string>
   <string name="quiet_off_mode">Permitir siempre las interrupciones</string>
   <string name="radio_controls_summary">Administrar Wi-Fi, Bluetooth, Modo avión, Redes móviles y VPN</string>
   <string name="radio_controls_title">Más</string>
+  <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
   <string name="radio_info_band_mode_label">Seleccionar banda de señal móvil</string>
   <string name="radio_info_call_redirect_label">Desvío de llamada:</string>
   <string name="radio_info_call_status_label">Estado de la llamada:</string>
@@ -3082,6 +3096,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="screen_paper_mode_range_title">Ajustes</string>
   <string name="screen_paper_mode_set_apps_title">Aplicaciones de modo de lectura</string>
   <string name="screen_paper_mode_summary">Reducir el brillo de fondo de la pantalla</string>
+  <string name="screen_paper_mode_time_title">Programado</string>
   <string name="screen_paper_mode_title">Modo lectura</string>
   <string name="screen_paper_mode_turn_off">Apagado</string>
   <string name="screen_paper_mode_turn_on">Encendido</string>
@@ -3156,7 +3171,8 @@ Para ello:
   <string name="sdcard_unmount">Desactivar tarjeta SD</string>
   <string name="se_route_ese">Elemento seguro incorporado</string>
   <string name="se_route_uicc">Elemento seguro en la SIM</string>
-  <string name="se_wallet_ese">Mi Wallet le permite usar Mi Pay y tarjeta de transporte NFC.</string>
+  <string name="se_wallet_ese">Mi Wallet permite usar Mi Pay y tarjeta de transporte NFC.</string>
+  <string name="se_wallet_hce">Usar cartera HCE</string>
   <string name="search_about">Acerca del teléfono;Modelo;Versión de Android;Versión de MIUI;CPU;RAM;Memoria interna;Versión de la banda base;Versión del Kernel;Número de compilación</string>
   <string name="search_accelerometer">Autorrotar pantalla;Rotar pantalla;Orientación;Retrato;Paisaje</string>
   <string name="search_access_control">Ajustes de Privacidad;Seguridad de Privacidad;Invitado;Modo invitado</string>
@@ -3360,6 +3376,8 @@ Para ello:
   <string name="security_encryption_close_dialog_title">Vuelva a la protección de contraseña por defecto</string>
   <string name="security_encryption_diaglog_continue">Siguiente</string>
   <string name="security_encryption_is_used">Activado</string>
+  <string name="security_encryption_progress_dialog_close">Desencriptando…</string>
+  <string name="security_encryption_progress_dialog_open">Encriptando…</string>
   <string name="security_encryption_title">Cifra el dispositivo usando la contraseña de bloqueo de pantalla</string>
   <string name="security_keyguard_category_name">Pantalla de bloqueo</string>
   <string name="security_password_category_name">Bloqueo de pantalla</string>
