@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Modo avión</string>
+  <string name="accessibility_assistant">Asistente táctil</string>
   <string name="accessibility_back">Atrás</string>
   <string name="accessibility_battery_level">Batería %d por ciento.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth conectado</string>
@@ -38,6 +39,7 @@
   <string name="accessibility_ringer_vibrate">Timbre en vibración</string>
   <string name="accessibility_search_light">Buscar</string>
   <string name="accessibility_tty_enabled">TeleTypewriter habilitado</string>
+  <string name="accessibility_wifi_off">Wifi desactivado.</string>
   <string name="accessibility_wifi_one_bar">Una barra de señal Wi-Fi</string>
   <string name="accessibility_wifi_signal_full">Señal de Wi-Fi completa</string>
   <string name="accessibility_wifi_three_bars">Tres barras de señal Wi-Fi</string>
@@ -55,12 +57,61 @@
   <string name="audio_effect_custom">Configurar</string>
   <string name="audio_effect_info">Optimizar audio</string>
   <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
+  <string name="available_via_passpoint">Disponible a través de %1$s</string>
   <string name="battery_low_percent_format">Queda un %d%% por ciento</string>
   <string name="battery_low_title">Conecta el cargador.</string>
   <string name="battery_profiles">Usar perfiles de batería</string>
+  <string name="block_notification_content_text">"%1$s's las notificaciones no se mostrarán de nuevo.Puedes cambiar esto en Ajustes."</string>
+  <string name="block_notification_text">Ocultar</string>
   <string name="block_record_notification_more_text">Ocultando notificaciones de %1$s &amp; %2$d aplicaciones.</string>
   <string name="block_record_notification_text">Ocultando notificaciones de %1$s.</string>
   <string name="block_record_notification_title">Notificaciones ocultas</string>
+  <string name="bluetooth_a2dp_profile_summary_connected">Conectado para el audio multimedia</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para audio multimedia</string>
+  <string name="bluetooth_connected">Conectado</string>
+  <string name="bluetooth_connected_no_a2dp">Conectado (sin multimedia)</string>
+  <string name="bluetooth_connected_no_headset">Conectado (sin teléfono)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sin teléfono o multimedia)</string>
+  <string name="bluetooth_connected_no_map">Conectado (sin acceso a los mensajes)</string>
+  <string name="bluetooth_connecting">Conectando…</string>
+  <string name="bluetooth_disconnected">Desconectado</string>
+  <string name="bluetooth_disconnecting">Desconectando…</string>
+  <string name="bluetooth_dun_profile_summary_connected">Conectado al servidor Dun</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Usar para el acceso a la red teléfonica</string>
+  <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del teléfono</string>
+  <string name="bluetooth_headset_profile_summary_use_for">Usar para el audio del teléfono</string>
+  <string name="bluetooth_hid_profile_summary_connected">Conectado para dispositivo de entrada</string>
+  <string name="bluetooth_hid_profile_summary_use_for">Usar como entrada</string>
+  <string name="bluetooth_map_profile_summary_connected">Conectado para mapa</string>
+  <string name="bluetooth_map_profile_summary_use_for">Usar para el mapa</string>
+  <string name="bluetooth_opp_profile_summary_connected">Conectado para la transferencia de archivos</string>
+  <string name="bluetooth_opp_profile_summary_not_connected">No conectado al servidor de transferencia de archivos</string>
+  <string name="bluetooth_opp_profile_summary_use_for">Usar para la transferencia de archivos</string>
+  <string name="bluetooth_pairing">Vinculando…</string>
+  <string name="bluetooth_pairing_accept">Vincular</string>
+  <string name="bluetooth_pairing_accept_all_caps">VINCULAR</string>
+  <string name="bluetooth_pairing_decline">Cancelar</string>
+  <string name="bluetooth_pairing_device_down_error_message">"No se puede comunicar con %1$s."</string>
+  <string name="bluetooth_pairing_error_message">"No se pudo vincular con %1$s."</string>
+  <string name="bluetooth_pairing_pin_error_message">"No se pudo vincular con %1$s debido a que el PIN o la clave de acceso es incorrecta."</string>
+  <string name="bluetooth_pairing_rejected_error_message">Vinculación rechazada por %1$s.</string>
+  <string name="bluetooth_pairing_will_share_phonebook">La vinculación permite el acceso a los contactos y al historial de llamadas cuando está conectado.</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Compartiendo conexión Internet local con el dispositivo</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Usar para el acceso a Internet</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Conectado al dispositivo para el acceso a Internet</string>
+  <string name="bluetooth_profile_a2dp">Audio multimedia</string>
+  <string name="bluetooth_profile_dun">Acceso a la Red teléfonica</string>
+  <string name="bluetooth_profile_headset">Audio del teléfono</string>
+  <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
+  <string name="bluetooth_profile_map">Acceso a mensajes</string>
+  <string name="bluetooth_profile_opp">Transferencia de archivos</string>
+  <string name="bluetooth_profile_pan">Acceso a Internet</string>
+  <string name="bluetooth_profile_pan_nap">Conexión a Internet compartida</string>
+  <string name="bluetooth_profile_pbap">Compartir contactos</string>
+  <string name="bluetooth_profile_pbap_summary">Usar para compartir contactos</string>
+  <string name="bluetooth_profile_sap">Acceso a la SIM</string>
+  <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Usar para el acceso a la SIM</string>
   <string name="bluetooth_tethered">Bluetooth anclado</string>
   <string name="call_status_dialing">Marcando</string>
   <string name="call_status_ringing">Sonando</string>
@@ -76,6 +127,8 @@
   <string name="camera_key_action_shortcut_wake">Bloquear/desbloquear dispositivo</string>
   <string name="camera_key_action_toggle_title">Alternar controles</string>
   <string name="chooseUsbActivity">Elige una app para el dispositivo USB</string>
+  <string name="connected_via_passpoint">Conectado a través de %1$s</string>
+  <string name="connected_via_wfa">Conectado a través del asistente Wi-Fi</string>
   <string name="data_usage_disabled_dialog">"Alcanzaste el límite de uso de datos especificado.
 
 Puede que tu operador te cobre por volver a activar datos."</string>
@@ -113,8 +166,11 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="ext_media_safe_unmount_notification_title">Retirar el almacenamiento USB de forma segura</string>
   <string name="ext_media_unmountable_notification_message">El almacenamiento USB está dañado. Deberías formatearlo.</string>
   <string name="ext_media_unmountable_notification_title">Almacenamiento USB dañado</string>
+  <string name="float_incall_ignore">Ignorar</string>
+  <string name="float_incall_message">Mensaje</string>
   <string name="gps_notification_found_text">La ubicación se estableció por GPS</string>
   <string name="gps_notification_searching_text">Buscando GPS</string>
+  <string name="hour_minute_time_format">HH:mm</string>
   <string name="invalid_charger">"No admite la carga USB.
 Usa sólo el cargador provisto."</string>
   <string name="kilobyte_per_second">K/s</string>
@@ -144,6 +200,8 @@ Usa sólo el cargador provisto."</string>
   <string name="no_weather_description">Obtener información del clima &gt;</string>
   <string name="notification_header_title">Notificaciones</string>
   <string name="notification_hidden_text">Contenido oculto</string>
+  <string name="notification_manager">Administrar notificaciones</string>
+  <string name="notification_manager_des">Filtrar y administrar notificaciones</string>
   <string name="notification_otg_gamestick_in">Control de juego conectado</string>
   <string name="notification_otg_gamestick_out">Control de juego desconectado</string>
   <string name="notification_otg_keyboard_in">Teclado conectado</string>
@@ -165,7 +223,7 @@ Usa sólo el cargador provisto."</string>
   <string name="oldman_incall_text">en llamada</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">No hay dispositivos emparejados disponibles</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">No hay dispositivos vinculados disponibles</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Conectado</string>
   <string name="quick_settings_connecting">Conectando</string>
@@ -179,6 +237,8 @@ Usa sólo el cargador provisto."</string>
   <string name="recent_task_unlock_text">Desb.</string>
   <string name="reject_call">Rechazando llamada</string>
   <string name="return_to_incall_screen">Volver a la llamada</string>
+  <string name="save_mode_btn_ok">Aceptar</string>
+  <string name="saved_network">Guardado por %1$s</string>
   <string name="screen_button_notification_text">Para activarlos, presiona los botones de Inicio y Encender simultáneamente.</string>
   <string name="screen_button_notification_title">Los botones de navegación están desactivados</string>
   <string name="screen_pinning_description">Se mantendrá a la vista hasta sea desanclada. Mantenga pulsado Inicio y el botón de Encendido al mismo tiempo para desanclar.</string>
@@ -225,7 +285,6 @@ Desliza hacia abajo para bloquear"</string>
   <string name="status_bar_recent_guide_bottom">Deslice hacia abajo para bloquear</string>
   <string name="status_bar_recent_guide_top">Deslice hacia arriba para cerrar</string>
   <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponible</string>
-  <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Volver a la grabadora</string>
   <string name="status_bar_recording_pause">Grabación en pausa</string>
   <string name="status_bar_safepay_risk">Se encontraron riesgos de pago</string>
@@ -237,9 +296,9 @@ Desliza hacia abajo para bloquear"</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sin conexión a Internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectado</string>
   <string name="status_bar_style_settings">Notificaciones</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">Bloqueo de aplicación activado</string>
   <string name="title_usb_accessory">Accesorio USB</string>
-  <string name="toast_rotation_locked">Screen is now locked in landscape orientation.</string>
   <string name="torch_activity_hint">Mantén pulsado [icon] en la pantalla de bloqueo para activar la linterna</string>
   <string name="torch_activity_name">Linterna</string>
   <string name="torch_closed">Linterna apagada</string>
@@ -284,4 +343,14 @@ Desliza hacia abajo para bloquear"</string>
   <string name="vpn_title_long">Conexión a VPN utilizando %s</string>
   <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Actualizado %1$s</string>
+  <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
+  <string name="wifi_disabled_generic">Desactivado</string>
+  <string name="wifi_disabled_network_failure">Error en los ajustes IP</string>
+  <string name="wifi_disabled_password_failure">Problema de autenticación</string>
+  <string name="wifi_disabled_wifi_failure">Error de conexión Wi-Fi</string>
+  <string name="wifi_fail_to_scan">"No se pueden buscar redes"</string>
+  <string name="wifi_no_internet">"No se ha detectado acceso a Internet, no se volverá a conectar automáticamente."</string>
+  <string name="wifi_not_in_range">Fuera de rango</string>
+  <string name="wifi_remembered">Guardado</string>
+  <string name="wifi_security_none">Ninguna</string>
 </resources>
