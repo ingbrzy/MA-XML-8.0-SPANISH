@@ -32,12 +32,15 @@
   <string name="dialog_report">Reportar</string>
   <string name="document_color_picture">Color</string>
   <string name="document_color_picture_tip">Convertir a color…</string>
+  <string name="document_crop_title">Recortar el documento</string>
   <string name="document_grayscale">Escala de grises</string>
   <string name="document_grayscale_tip_msg">Convirtiendo a escala de grises…</string>
   <string name="document_ocr">OCR</string>
+  <string name="document_ocr_result_copy">Copiar texto</string>
+  <string name="document_ocr_result_save">Guardar en Notas</string>
   <string name="document_ocr_result_title">Foto del documento</string>
   <string name="document_ocr_tip_msg">Reconociendo…</string>
-  <string name="document_recognize_fail_tip">No se pudo reconocer el documento</string>
+  <string name="document_recognize_fail_tip">"No se pudo reconocer el documento"</string>
   <string name="document_rectify">Ajustar</string>
   <string name="document_rectify_tip_msg">Ajustando…</string>
   <string name="document_save_succeed_tip">Documento guardado en %1$s</string>
