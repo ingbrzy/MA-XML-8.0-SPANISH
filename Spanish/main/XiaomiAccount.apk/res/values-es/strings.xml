@@ -121,7 +121,6 @@
   <string name="find_device_account_error">Imposible obtener el estado actual debido a un error en la cuenta</string>
   <string name="find_device_activate_account">Activar cuenta</string>
   <string name="find_device_bad_response_error">Imposible obtener el estado actual debido a un error con el servidor, intente más tarde</string>
-  <string name="find_device_display_id">Desbloquear número: %s</string>
   <string name="find_device_error_password_not_confirmed">Imposible apagar la función Encontrar dispositivo. Ingrese la contraseña de la Cuenta Mi nuevamente.</string>
   <string name="find_device_error_password_recently_changed">El los últimos tres días se hizo un cambio de contraseña. Por razones de securidad aún no es posible desactivar la función Encontrar dispositivo.</string>
   <string name="find_device_interrupted">La acción fue interrumpida, intente más tarde</string>
@@ -146,7 +145,7 @@
   <string name="location_service_not_working">El servicio de ubicación no está funcionando</string>
   <string name="login_check_find_device">Obteniendo información de seguridad del dispositivo…</string>
   <string name="login_check_find_device_failed_title">"No se pudo localizar el estado del dispositivo"</string>
-  <string name="login_find_device_bind">Este dispositivo no esta asociado con una cuenta Mi existente ID (%s).</string>
+  <string name="login_find_device_bind">Este dispositivo no esta asociado con una cuenta Mi existente ID (%s), introducir la contraseña para verificar que el dispositivo</string>
   <string name="login_guard_prompt">Se requiere de un número de verificación cuando incias sesión en una cuenta Mi desde una aplicación o dispositivo desconocido por primera vez.</string>
   <string name="logout_failed">No se pudo cerrar sesión</string>
   <string name="mi_account_identity_title">Verificar la identidad</string>
@@ -156,8 +155,6 @@
   <string name="micloud_space_info">%s disponible</string>
   <string name="mili_center">Créditos Mi</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="miui_provision_find_status_text">"Este dispositivo esta asignado a una cuenta Mi ya existente (%1$s), introduzca la contraseña para verificarlo.
-(Número de desbloqueo: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Parece que usted está utilizando su cuenta de Primer espacio.</string>
   <string name="multi_user_not_show_sync_activity_message_2">Por esta razón, todos los datos se sincronizarán con el segundo espacio. Para evitar esto, no activar la sincronización con Mi Nube.</string>
   <string name="multi_user_not_show_sync_activity_title">No activar la sincronización con Mi Cloud</string>
@@ -210,7 +207,7 @@ Para activar su cuenta, siga el
   <string name="passport_error_empty_email">Introducir dirección de correo electrónico</string>
   <string name="passport_error_empty_phone_num">Introducir número de teléfono</string>
   <string name="passport_error_empty_pwd">Introduce tu contraseña</string>
-  <string name="passport_error_empty_username">Introduce tu nombre de usuario</string>
+  <string name="passport_error_empty_username">Introduzca la ID de su cuenta</string>
   <string name="passport_error_empty_vcode">Introduce el código de verificación</string>
   <string name="passport_error_illegal_pwd">Contraseña inválida</string>
   <string name="passport_error_invalid_dev_id">El ID de su dispositivo es inválido.</string>
@@ -372,6 +369,10 @@ Asegúrese de recordar las respuestas a las preguntas."</string>
   <string name="turn_off_find_device_failed_title">Error al apagar la función Encontrar dispositivo</string>
   <string name="turning_off_find_device">Desactivando la función Encontrar dispositivo…</string>
   <string name="unbind_sns_description">Una vez borrada esta cuenta, no podrás usar la información de tu cuenta %s para iniciar sesión en tu cuenta Mi.</string>
+  <string name="unlock_help_notice">"Ayuda:
+  Si ha olvidado su contraseña, vaya a id.mi.com para restablecerlo.
+  Si no puede desbloquear el dispositivo, vaya a i.mi.com para desactivar buscar dispositivo
+  Decirle este número de desbloqueo al servicio al cliente: %s"</string>
   <string name="update_contacts">Actualiza tu libreta de contactos</string>
   <string name="update_email_address_dialog_message">Necesita verificar su identidad antes de poder actualizar el correo.</string>
   <string name="update_email_address_dialog_title">Actualizar correo</string>
