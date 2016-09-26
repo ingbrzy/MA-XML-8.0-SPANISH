@@ -337,4 +337,9 @@
         <item>Mes</item>
         <item>Agenda</item>
     </string-array>
-</resources>
+    <string-array name="prefEntries_alerts_vibrateWhen">  
+        <item>Siempre</item>  
+        <item>Sólo cuando se silencie el timbre</item>  
+        <item>Nunca</item>  
+     </string-array>  
+​</resources>
