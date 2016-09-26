@@ -160,11 +160,6 @@
         <item>Empieza sin mí.</item>
         <item>Lo siento, no puedo ir. Tendremos que aplazar la cita.</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Siempre</item>
-        <item>Sólo cuando se silencia el timbre</item>
-        <item>Nunca</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>Transparente</item>
         <item>Fondo blanco</item>
@@ -339,7 +334,7 @@
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">  
         <item>Siempre</item>  
-        <item>Sólo cuando se silencie el timbre</item>  
+        <item>Sólo cuando se silencia el timbre</item>  
         <item>Nunca</item>  
      </string-array>  
-​</resources>
+ </resources>
