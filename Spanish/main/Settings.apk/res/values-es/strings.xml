@@ -1670,7 +1670,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="input_methods_and_subtype_enabler_title">Elegir métodos entrada activos</string>
   <string name="input_methods_settings_label_format">Ajustes de %1$s</string>
   <string name="input_methods_settings_title">Introducción de texto</string>
-  <string name="input_password_hint_text">Introducir contraseña</string>
   <string name="input_settings">Ajustes de entrada</string>
   <string name="install_all_warning">El teléfono y los datos personales son más vulnerables a los ataques de aplicaciones de origen desconocido. El usuario acepta ser el único responsable de cualquier daño en el teléfono o pérdida de datos que se pueda derivar del uso de estas aplicaciones.</string>
   <string name="install_applications">Orígenes desconocidos</string>
@@ -4150,6 +4149,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Activo</string>
   <string name="usage_type_wifi_running">Wi-Fi en uso</string>
+  <string name="usb_adb_input">Depuración USB (Ajustes de seguridad)</string>
+  <string name="usb_adb_input_desc">Permitir la concesión de permisos y la simulación de entrada a través de la depuración USB</string>
   <string name="usb_audio_disable_routing">Sin enrutamiento audio USB</string>
   <string name="usb_audio_disable_routing_summary">Inhabilitar el enrutamiento automático a periféricos de audio USB</string>
   <string name="usb_charging_summary">Apague todas las demás características de conexión USB para acelerar la carga.</string>
@@ -4162,6 +4163,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="usb_host_mode_subtext">El uso de controladores de juego y otros periféricos en el puerto USB puede consumir más energía</string>
   <string name="usb_host_mode_text">Modo host USB</string>
   <string name="usb_insert_summary">Conectar almacenamiento USB</string>
+  <string name="usb_install_app">Instalar a través de USB</string>
+  <string name="usb_install_app_desc">Permitir la instalación de aplicaciones a través de USB</string>
   <string name="usb_label_installer_cd">Instalar las herramientas de transferencia de archivos</string>
   <string name="usb_media_format_button_text">Borrar almacenamiento USB</string>
   <string name="usb_media_format_desc">
@@ -4889,7 +4892,6 @@ Pulsa "Pulsa </string>
   <string name="xiaomi_router_notif_title">Notificaciones del Mi Router</string>
   <string name="xspace">Aplicaciones duplicadas</string>
   <string name="yes">Sí</string>
-  <string name="yes_all_caps">SÍ</string>
   <string name="zen_access_empty_text">Ninguna aplicación instalada ha solicitado acceso de No molestar</string>
   <string name="zen_access_warning_dialog_summary">La aplicación podrá activar o desactivar No molestar y realizar cambios en los ajustes relacionados.</string>
   <string name="zen_access_warning_dialog_title">¿Permitir acceso de %1$s a No molestar?</string>
