@@ -71,8 +71,6 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="install_from_appstore_hint">Te recomendamos que instales la aplicación desde &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Instalando…</string>
   <string name="launch">Abrir</string>
-  <string name="lift_ban">Permitir</string>
-  <string name="lift_ban_once">Permitir una vez</string>
   <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
   <string name="lb_control_display_rewind_multiplier">%1$dX</string>
   <string name="lb_guidedactions_item_disabled_chevron_alpha">0.5</string>
@@ -105,6 +103,8 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="lb_search_bar_hint_speech">Habla para buscar</string>
   <string name="lb_search_bar_hint_with_title">Buscar %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Habla para buscar %1$s</string>
+  <string name="lift_ban">Permitir</string>
+  <string name="lift_ban_once">Permitir una vez</string>
   <string name="loading">Cargando…</string>
   <string name="location_settings">Ajustes de ubicación</string>
   <string name="location_warning">%1$s es un proveedor de servicios de localización para este dispositivo. El acceso a la ubicación se puede modificar en los ajustes de ubicación.</string>
@@ -180,8 +180,8 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="unknown_apps_dlg_text1">"El teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas. Puede desactivar esta función en "</string>
   <string name="unknown_apps_dlg_text2">\"Ajustes\"</string>
   <string name="unknown_apps_dlg_text3">.</string>
-  <string name="unknown_installer">Herramientas de PC no identificadas</string>
   <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
+  <string name="unknown_installer">Herramientas de PC no identificadas</string>
   <string name="v7_preference_off">APAGADO</string>
   <string name="v7_preference_on">ENCENDIDO</string>
   <string name="virus_scan_caller_unknown">Desconocido</string>
@@ -190,4 +190,4 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="virus_scan_is_risk">"Esta aplicación supone un riesgo para la seguridad de su dispositivo."</string>
   <string name="virus_scan_is_virus">Esta aplicación contiene un virus.</string>
   <string name="waiting_tip">Esto puede tomar un tiempo, pero vale la pena</string>
- </resources>
+</resources>

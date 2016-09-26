@@ -186,7 +186,7 @@
   <string name="passport_auto_generate_pwd">Generate secure password</string>
   <string name="passport_back">Atrás</string>
   <string name="passport_bad_authentication">Contraseña o nombre de usuario incorrecto</string>
-  <string name="passport_change_account"><u>Cambiar de cuenta</u></string>
+  <string name="passport_change_account">&lt;u&gt;Cambiar de cuenta&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Cambiar números</string>
   <string name="passport_checking_account">Verificando contraseña…</string>
   <string name="passport_checking_input">Comprobando entrada…</string>
@@ -252,7 +252,8 @@ Para activar su cuenta, siga el
   <string name="passport_login_instead_reg_with_email">Usar esta dirección de correo electrónico</string>
   <string name="passport_login_prompt">Una Cuenta Mi. Todos los servicios Mi.</string>
   <string name="passport_login_title">Iniciar sesión con tu cuenta Mi</string>
-  <string name="passport_login_using_other_ways"><u>Otras maneras de conectarte</u></string>
+  <string name="passport_login_using_other_ways">&lt;u&gt;Otras maneras de conectarte&lt;/u&gt;</string>
+  <string name="passport_message_dialog_title">SMS con código de verifiación</string>
   <string name="passport_next">Siguiente</string>
   <string name="passport_notification_title">Error de inicio de sesión para %1$s</string>
   <string name="passport_password_req_notice">La contraseña debe tener de 8 a 16 caracteres y debe incluir números y letras (distingue entre mayúsculas y minúsculas).</string>
@@ -282,7 +283,7 @@ Para activar su cuenta, siga el
   <string name="passport_register">Crear una cuenta</string>
   <string name="passport_register_account_goto_email">Ir a la bandeja de entrada</string>
   <string name="passport_register_account_verified_confirm">Cuenta verificada</string>
-  <string name="passport_register_by_email"><u>Crear una cuenta usando la dirección de correo electrónico</u></string>
+  <string name="passport_register_by_email">&lt;u&gt;Crear una cuenta usando la direcci&amp;#243;n de correo electr&amp;#243;nico&lt;/u&gt;</string>
   <string name="passport_register_restricted">Se han asociado demasiadas cuentas a este número; intenta con otro</string>
   <string name="passport_register_restricted_title">No se puede usar este número telefónico</string>
   <string name="passport_registered_phone_user_ID">ID usuario: %s</string>
@@ -308,8 +309,8 @@ Para activar su cuenta, siga el
   <string name="passport_skip_setup_account_msg">Puedes configurar tu Cuenta Mi más tarde desde Ajustes.</string>
   <string name="passport_skip_setup_account_title">Saltar configuración</string>
   <string name="passport_title_reg">Crear una cuenta</string>
-  <string name="passport_trust_device">Añadir este dispositivo como dispositivo verificado</string>  
-  <string name="passport_trying_read_verify_code_sms">Conseguir el código de verificación…</string>  
+  <string name="passport_trust_device">Añadir este dispositivo como dispositivo verificado</string>
+  <string name="passport_trying_read_verify_code_sms">Conseguir el código de verificación…</string>
   <string name="passport_uplink_reg">Usar número de teléfono</string>
   <string name="passport_uplink_slot1_reg">Usar SIM 1</string>
   <string name="passport_uplink_slot2_reg">Usar SIM 2</string>
@@ -321,8 +322,8 @@ Para activar su cuenta, siga el
   <string name="passport_user_agreement_p3">" y la "</string>
   <string name="passport_user_agreement_p4">" Política de Privacidad"</string>
   <string name="passport_vcode_notification_title">La verificación de inicio de sesión no se pudo completar</string>
-  <string name="passport_vcode_sms_send_prompt">Enviar código de verificación para %s</string> 
   <string name="passport_vcode_prompt_long">Introducir código de verificación</string>
+  <string name="passport_vcode_sms_send_prompt">Enviar código de verificación para %s</string>
   <string name="passport_verification_failed">Autentificación fallida</string>
   <string name="passport_verify">Verificar</string>
   <string name="passport_wait_for_sms_prompt">¿Comenzar nuevamente ahora? Los mensajes de verificación pueden tardar hasta 10 minutos en recibirse cuando tu teléfono se encuentra dentro del área de servicio.</string>
@@ -385,5 +386,4 @@ Asegúrese de recordar las respuestas a las preguntas."</string>
   <string name="wipe_data_dialog_msg">%s serán eliminados si continúas.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Algunos elementos no se han sincronizado</string>
-  <string name="passport_message_dialog_title">SMS con código de verifiación</string>
 </resources>

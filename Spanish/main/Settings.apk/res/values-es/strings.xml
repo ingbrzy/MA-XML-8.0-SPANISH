@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Accounts_settings_title">Cuentas</string>
   <string name="aaid_info">"
 El identificador de publicidad es único y permanente para su dispositivo. Los vendedores lo usan para seleccionar contenido publicitario que será más útil para usted."</string>
   <string name="about_settings">Información del teléfono</string>
@@ -53,15 +54,15 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="accessibility_power_button_ends_call_prerefence_title">El botón de encendido cuelga</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
   <string name="accessibility_screen_magnification_summary">
-    <ul>
-      <li>
-        <li>Modificar el nivel de zoom: pellizca dos o más dedos o sepáralos mientras los arrastras.</li>"Desplazar la imagen: arrastra dos o más dedos por la pantalla.
-"</li>
-    </ul>"
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;li&gt;Modificar el nivel de zoom: pellizca dos o m&amp;#225;s dedos o sep&amp;#225;ralos mientras los arrastras.&lt;/li&gt;"Desplazar la imagen: arrastra dos o m&amp;#225;s dedos por la pantalla.
+"&lt;/li&gt;
+    &lt;/ul&gt;"
 
-También puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla pulsada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
+Tambi&amp;#233;n puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla pulsada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
 
-Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación.""Cuando esta función está activada, puedes acercar y alejar la imagen tocando tres veces la pantalla.
+Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegaci&amp;#243;n.""Cuando esta funci&amp;#243;n est&amp;#225; activada, puedes acercar y alejar la imagen tocando tres veces la pantalla.
 
 Con la imagen acercada, puedes:
 "</string>
@@ -96,7 +97,6 @@ Con la imagen acercada, puedes:
   <string name="account_settings_menu_auto_sync_work">Sincr. autom. datos trabajo</string>
   <string name="account_settings_title">Cuentas</string>
   <string name="account_sync_settings_title">Sincronización</string>
-  <string name="Accounts_settings_title">Cuentas</string>
   <string name="activating">Activando…</string>
   <string name="active_device_admin_msg">Administrador de dispositivos</string>
   <string name="active_input_method_subtypes">Métodos de entrada activos</string>
@@ -127,8 +127,8 @@ Con la imagen acercada, puedes:
 El administrador podrá controlar y administrar los ajustes, el acceso, las aplicaciones y los datos asociados a este usuario, como la actividad de red y la información de ubicación de tus dispositivos."</string>
   <string name="additional_permissions">Permisos adicionales</string>
   <string name="additional_permissions_more">%1$d más</string>
-  <string name="additional_system_update" />
-  <string name="additional_system_update_menu" />
+  <string name="additional_system_update"/>
+  <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales de sistema</string>
   <string name="adjust_3d_depth_title">Ajuste profundidad 3D de juegos</string>
   <string name="advanced_apps">Opciones avanzadas</string>
@@ -235,7 +235,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">No se ha encontrado la aplicación en la lista de aplicaciones instaladas.</string>
-  <string name="app_not_found_dlg_title" />
+  <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Esta aplicación no se admite para perfiles restringidos.</string>
   <string name="app_notification_block_summary">No mostrar nunca notificaciones de esta aplicación</string>
   <string name="app_notification_block_title">Bloquear todo</string>
@@ -346,7 +346,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="backup_data_summary">Crear backup de datos, contraseñas Wi-Fi y otros ajustes a los servidores de Google</string>
   <string name="backup_data_title">Copiar mis datos</string>
   <string name="backup_erase_dialog_message">¿Desea detener el backup vía Wi-Fi de sus datos, contraseñas, otros ajustes, datos de aplicaciones y eliminar también las copias en los servidores de Google?</string>
-  <string name="backup_erase_dialog_title" />
+  <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">El servicio de copia de seguridad está inactivo.</string>
   <string name="backup_lock_settings_picker_title">Bloqueo alternativo</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
@@ -540,7 +540,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_enter_pin_msg">Dispositivo</string>
   <string name="bluetooth_enter_pin_msg_hs">Device requires High Security 16 character passkey</string>
   <string name="bluetooth_enter_pin_other_device">Es posible que tengas que introducir este PIN en el otro dispositivo.</string>
-  <string name="bluetooth_error_title" />
+  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del teléfono</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizar para audio del teléfono</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado a dispositivo de entrada</string>
@@ -642,7 +642,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_tethering_overflow_error">No se puede anclar a más de %1$d dispositivos.</string>
   <string name="bluetooth_turning_off">Desactivando Bluetooth…</string>
   <string name="bluetooth_turning_on">Activando Bluetooth…</string>
-  <string name="bluetooth_unknown" />
+  <string name="bluetooth_unknown"/>
   <string name="bluetooth_unlock_add_device">Añadir dispositivo</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">El dispositivo emparejado antiguo será reemplazado por el nuevo.</string>
   <string name="bluetooth_unlock_change_matched_device">Escoger otro dispositivo</string>
@@ -881,7 +881,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="credentials_reset_warning_plural">Contraseña incorrecta. Tienes %1$d oportunidades más antes de que se borre el almacenamiento de credenciales.</string>
   <string name="credentials_settings_not_available">Las credenciales no están disponibles para este usuario</string>
   <string name="credentials_title">Almacenamiento de credenciales</string>
-  <string name="credentials_unlock" />
+  <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Escribe la contraseña del almacenamiento de credenciales.</string>
   <string name="credentials_wrong_password">Contraseña incorrecta</string>
   <string name="crypt_keeper_button_text">Cifrar teléfono</string>
@@ -1019,14 +1019,14 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="data_usage_restrict_denied_dialog">Solo puedes restringir las conexiones automáticas si has establecido un límite de datos móviles.</string>
   <string name="data_usage_summary_title">Uso de datos</string>
   <string name="data_usage_sweep_limit">
-    <font size="21">^1</font>
-    <font size="9">^2</font>
-    <font size="12">límite</font>"
+    &lt;font size="21"&gt;^1&lt;/font&gt;
+    &lt;font size="9"&gt;^2&lt;/font&gt;
+    &lt;font size="12"&gt;l&amp;#237;mite&lt;/font&gt;"
 "</string>
   <string name="data_usage_sweep_warning">
-    <font size="21">^1</font>
-    <font size="9">^2</font>
-    <font size="12">aviso</font>"
+    &lt;font size="21"&gt;^1&lt;/font&gt;
+    &lt;font size="9"&gt;^2&lt;/font&gt;
+    &lt;font size="12"&gt;aviso&lt;/font&gt;"
 "</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
@@ -1156,6 +1156,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="dirac_mode_piston_100">Auriculares Mi in-ear</string>
   <string name="dirac_mode_piston_2">Mi piston-2</string>
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
+  <string name="disableNetwork">desactivarlaRed</string>
   <string name="disable_data_string">Desactivar la conexión de datos</string>
   <string name="disable_overlays">Inhabilitar superposiciones HW</string>
   <string name="disable_overlays_summary">Usar siempre la GPU para combinar pantallas</string>
@@ -1165,7 +1166,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="disable_text">Inhabilitar</string>
   <string name="disabled">Inhabilitada</string>
   <string name="disabled_because_no_backup_security">Para usarlo, debes establecer una pantalla de bloqueo</string>
-  <string name="disableNetwork">desactivarlaRed</string>
   <string name="disconnect">desconectar</string>
   <string name="display_auto_rotate_rotate">Encendido</string>
   <string name="display_auto_rotate_stay_in_current">Apagado</string>
@@ -1188,7 +1188,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="dlg_confirm_usb_unmount_title">¿Expulsar almacenamiento USB?</string>
   <string name="dlg_error_uicc_unmount_text">No se pudo expulsar el almacenamiento UICC. Inténtelo de nuevo más tarde.</string>
   <string name="dlg_error_unmount_text">No se ha podido desactivar la tarjeta SD. Inténtalo de nuevo más tarde.</string>
-  <string name="dlg_error_unmount_title" />
+  <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">No se pudo expulsar el almacenamiento USB. Inténtelo de nuevo más tarde.</string>
   <string name="dlg_ok">Aceptar</string>
   <string name="dlg_switch">Cambiar</string>
@@ -1316,6 +1316,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="emergency_tone_title">Tono de emergencia</string>
   <string name="emergency_tone_vibrate">Vibrar</string>
   <string name="empty_list_msg">No tienes instalada ninguna aplicación externa.</string>
+  <string name="enableNetwork">permitirRed</string>
   <string name="enable_adb">Depuración por USB</string>
   <string name="enable_adb_summary">Activar el modo de depuración cuando el dispositivo esté conectado por USB</string>
   <string name="enable_adb_summary_charging">Device is in Charging mode, USB debugging is disabled</string>
@@ -1340,7 +1341,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Habilitar</string>
   <string name="enable_wifi_display">Pantalla inalámbrica</string>
-  <string name="enableNetwork">permitirRed</string>
   <string name="encrypt_dont_require_password">No, gracias</string>
   <string name="encrypt_dont_require_pattern">No, gracias</string>
   <string name="encrypt_dont_require_pin">No, gracias</string>
@@ -1402,7 +1402,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="error_mcc_not3">El campo MCC debe contener 3 dígitos.</string>
   <string name="error_mnc_not23">El campo MNC debe contener 2 o 3 dígitos.</string>
   <string name="error_name_empty">El campo Nombre no puede estar vacío.</string>
-  <string name="error_title" />
+  <string name="error_title"/>
   <string name="every_day">Todos los días</string>
   <string name="experience_optimization_category">Programa de experiencia de usuario</string>
   <string name="experimental_preference">(Experimental)</string>
@@ -1497,7 +1497,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="force_touch_enable_tips">Toque largo en el icono de la aplicación para mostrar los atajos, mientras el 3D Touch esté activo.</string>
   <string name="forget">Olvidar</string>
   <string name="forget_password_button_text">
-    <u>Contraseña olvidada</u>
+    &lt;u&gt;Contrase&amp;#241;a olvidada&lt;/u&gt;
   </string>
   <string name="forget_pattern">&lt;u&gt;¿Olvido el patrón?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Añadir cuenta Mi</string>
@@ -1600,23 +1600,23 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="heads_up_enabled_title">Aparecer con prioridad alta</string>
   <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo haces, puedes perder parte de tu trabajo.</string>
   <string name="help_label">Ayuda y sugerencias</string>
-  <string name="help_url_accounts" />
-  <string name="help_url_backup_reset" />
-  <string name="help_url_battery" />
-  <string name="help_url_bluetooth" />
-  <string name="help_url_choose_lockscreen" />
-  <string name="help_url_data_usage" />
-  <string name="help_url_dreams" />
-  <string name="help_url_location_access" />
-  <string name="help_url_more_networks" />
-  <string name="help_url_nfc_payment" />
-  <string name="help_url_remote_display" />
-  <string name="help_url_security" />
-  <string name="help_url_sound" />
-  <string name="help_url_tether" />
-  <string name="help_url_users" />
-  <string name="help_url_vpn" />
-  <string name="help_url_wifi" />
+  <string name="help_url_accounts"/>
+  <string name="help_url_backup_reset"/>
+  <string name="help_url_battery"/>
+  <string name="help_url_bluetooth"/>
+  <string name="help_url_choose_lockscreen"/>
+  <string name="help_url_data_usage"/>
+  <string name="help_url_dreams"/>
+  <string name="help_url_location_access"/>
+  <string name="help_url_more_networks"/>
+  <string name="help_url_nfc_payment"/>
+  <string name="help_url_remote_display"/>
+  <string name="help_url_security"/>
+  <string name="help_url_sound"/>
+  <string name="help_url_tether"/>
+  <string name="help_url_users"/>
+  <string name="help_url_vpn"/>
+  <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">SSID ocultos:</string>
   <string name="hide">Ocultar</string>
   <string name="hide_screen_button">Ocultar botónes en pantalla</string>
@@ -1695,7 +1695,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="internal_format_summary">Borrar todos los datos del almacenamiento interno del dispositivo</string>
   <string name="internal_media_format_button_text">Borrar el almacenamiento interno</string>
   <string name="internal_media_format_desc">
-    <b>Todos</b> sus datos guardados se borrarán permanentemente. El teléfono se reiniciará después de haber borrado el almacenamiento interno.¿Borrar todo el almacenamiento interno? </string>
+    &lt;b&gt;Todos&lt;/b&gt; sus datos guardados se borrar&amp;#225;n permanentemente. El tel&amp;#233;fono se reiniciar&amp;#225; despu&amp;#233;s de haber borrado el almacenamiento interno.&amp;#191;Borrar todo el almacenamiento interno? </string>
   <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá revertir esta acción! El teléfono se reiniciará después de haber borrado el almacenamiento interno.</string>
   <string name="internal_media_format_title">Borrar el almacenamiento interno</string>
   <string name="internal_memory">Almacenamiento interno</string>
@@ -2034,24 +2034,24 @@ Has accedido a las cuentas que se indican a continuación:
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
   <string name="master_clear_desc">
-    <b>almacenamiento interno</b>
-    <li>Tu cuenta de Google</li>
-    <li>Los ajustes y los datos de aplicaciones y del sistema</li>
-    <li>Las aplicaciones descargadas</li>" del teléfono, como:
+    &lt;b&gt;almacenamiento interno&lt;/b&gt;
+    &lt;li&gt;Tu cuenta de Google&lt;/li&gt;
+    &lt;li&gt;Los ajustes y los datos de aplicaciones y del sistema&lt;/li&gt;
+    &lt;li&gt;Las aplicaciones descargadas&lt;/li&gt;" del tel&amp;#233;fono, como:
 
 ""
 ""
-"Se borrarán todos los datos del </string>
+"Se borrar&amp;#225;n todos los datos del </string>
   <string name="master_clear_desc_also_erases_external">
-    <li>Música</li>
-    <li>Fotos</li>
-    <li>Otros datos de usuario</li>"
+    &lt;li&gt;M&amp;#250;sica&lt;/li&gt;
+    &lt;li&gt;Fotos&lt;/li&gt;
+    &lt;li&gt;Otros datos de usuario&lt;/li&gt;"
 ""
 "</string>
   <string name="master_clear_desc_erase_external_storage">
-    <b>tarjeta SD</b>"
+    &lt;b&gt;tarjeta SD&lt;/b&gt;"
 
-Para eliminar la música, las imágenes y otros datos de usuario, debes borrar la ".</string>
+Para eliminar la m&amp;#250;sica, las im&amp;#225;genes y otros datos de usuario, debes borrar la ".</string>
   <string name="master_clear_erase_application_progress">Eliminando aplicaciones…</string>
   <string name="master_clear_failed">No se ha reiniciado el sistema porque el servicio Borrado del sistema no está disponible.</string>
   <string name="master_clear_final_button_text">Borrar todo</string>
@@ -2082,7 +2082,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="media_feedback_enable_title">Vibrar con el ritmo</string>
   <string name="media_format_button_text">Eliminar almacenamiento USB</string>
   <string name="media_format_desc">
-    <b>todos</b> los datos almacenados.¿Deseas borrar todo el almacenamiento de USB? Perderás </string>
+    &lt;b&gt;todos&lt;/b&gt; los datos almacenados.&amp;#191;Deseas borrar todo el almacenamiento de USB? Perder&amp;#225;s </string>
   <string name="media_format_final_button_text">Eliminar todo</string>
   <string name="media_format_final_desc">¿Deseas borrar el almacenamiento USB y eliminar todos sus archivos? Esta acción no se puede deshacer.</string>
   <string name="media_format_gesture_explanation">Debes crear tu patrón de desbloqueo para confirmar que deseas borrar el almacenamiento USB.</string>
@@ -2182,7 +2182,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="modify_privacy_password">Cambie la contraseña</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">No se ha podido mover la aplicación (%1$s).</string>
-  <string name="move_app_failed_dlg_title" />
+  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Mover al teléfono</string>
   <string name="move_app_to_sdcard">Mover a la tarjeta SD</string>
   <string name="moving">Moviendo</string>
@@ -2371,7 +2371,7 @@ Seleccione su sistema operativo:"</string>
   <string name="now">Reiniciar ahora</string>
   <string name="nsd_quick_toggle_summary">Permitir que las aplicaciones de otros dispositivos puedan ver las aplicaciones de este dispositivo</string>
   <string name="nsd_quick_toggle_title">Detección de aplicaciones</string>
-  <string name="oem_preferred_feedback_reporter" />
+  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">Ajustes/información específica de OEM</string>
   <string name="oem_unlock_enable">Desbloqueo de OEM</string>
   <string name="oem_unlock_enable_summary">Permitir desbloquear el bootloader</string>
@@ -2463,9 +2463,9 @@ Seleccione su sistema operativo:"</string>
   <string name="paper_mode_start_time_title">Hora de inicio</string>
   <string name="passpoint_content">Credenciales de %1$s</string>
   <string name="passpoint_label">Guardada a través de</string>
+  <string name="passwordIncorrect">La contraseña introducida no es correcta</string>
   <string name="password_entrance_title">Bloqueo de pantalla</string>
   <string name="password_guard">Contraseña</string>
-  <string name="passwordIncorrect">La contraseña introducida no es correcta</string>
   <string name="path_about_about_settings">Ajustes/Acerca del teléfono</string>
   <string name="path_accelerometer_settings">Ajustes/Pantalla/Autorrotar</string>
   <string name="path_access_control_settings">Ajustes/Ajustes adicionales/Privacidad/Ajustes de privacidad</string>
@@ -2665,7 +2665,7 @@ Seleccione su sistema operativo:"</string>
   <string name="phone_call_noise_suppression">Supresión del ruido ambiente durante las llamadas</string>
   <string name="phone_info_label">Información sobre el teléfono</string>
   <string name="phone_language">Idioma</string>
-  <string name="phone_language_summary" />
+  <string name="phone_language_summary"/>
   <string name="pico_installed">Instalada</string>
   <string name="pico_languages_and_voices">Idiomas y voces</string>
   <string name="pico_not_installed">Sin instalar</string>
@@ -2802,7 +2802,7 @@ Seleccione su sistema operativo:"</string>
   <string name="privacy_password_settings">Usar contraseña de privacidad</string>
   <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos, notas y aplicaciones.</string>
   <string name="privacy_password_title">Contraseña de privacidad</string>
-  <string name="privacy_password_transparent_tiltle" />
+  <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Mostrar patrón</string>
   <string name="privacy_protect_title">Protección de privacidad</string>
   <string name="privacy_relative">Privacidad</string>
@@ -2889,6 +2889,30 @@ Seleccione su sistema operativo:"</string>
   <string name="quiet_mode">Silenciar todas las interrupciones</string>
   <string name="quiet_no_interruptions_mode">Silenciar todas las interrupciones</string>
   <string name="quiet_off_mode">Permitir siempre las interrupciones</string>
+  <string name="radioInfo_cid">CID</string>
+  <string name="radioInfo_data_connected">Conectado</string>
+  <string name="radioInfo_data_connecting">Estableciendo conexión</string>
+  <string name="radioInfo_data_disconnected">Desconectada</string>
+  <string name="radioInfo_data_suspended">Suspendido</string>
+  <string name="radioInfo_display_asu">asu</string>
+  <string name="radioInfo_display_bytes">bytes</string>
+  <string name="radioInfo_display_dbm">dBm</string>
+  <string name="radioInfo_display_packets">pqts</string>
+  <string name="radioInfo_lac">LAC</string>
+  <string name="radioInfo_menu_getPDP">Obtener lista PDP</string>
+  <string name="radioInfo_menu_viewADN">Ver libreta de direcciones de tarjeta SIM</string>
+  <string name="radioInfo_menu_viewFDN">Ver números de marcación fija</string>
+  <string name="radioInfo_menu_viewSDN">Ver números de marcación de servicio</string>
+  <string name="radioInfo_phone_idle">Inactivo</string>
+  <string name="radioInfo_phone_offhook">Llamada en curso</string>
+  <string name="radioInfo_phone_ringing">Sonando</string>
+  <string name="radioInfo_roaming_in">Itinerancia</string>
+  <string name="radioInfo_roaming_not">Sin itinerancia</string>
+  <string name="radioInfo_service_emergency">Solo llamadas de emergencia</string>
+  <string name="radioInfo_service_in">En servicio</string>
+  <string name="radioInfo_service_off">Señal móvil desactivada</string>
+  <string name="radioInfo_service_out">Fuera de servicio</string>
+  <string name="radioInfo_unknown">desconocido</string>
   <string name="radio_controls_summary">Administrar Wi-Fi, Bluetooth, Modo avión, Redes móviles y VPN</string>
   <string name="radio_controls_title">Más</string>
   <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
@@ -2923,30 +2947,6 @@ Seleccione su sistema operativo:"</string>
   <string name="radio_info_smsc_refresh_label">Actualizar</string>
   <string name="radio_info_smsc_update_label">Actualizar</string>
   <string name="radio_info_toggle_dns_check_label">alternar comprobación de DNS</string>
-  <string name="radioInfo_cid">CID</string>
-  <string name="radioInfo_data_connected">Conectado</string>
-  <string name="radioInfo_data_connecting">Estableciendo conexión</string>
-  <string name="radioInfo_data_disconnected">Desconectada</string>
-  <string name="radioInfo_data_suspended">Suspendido</string>
-  <string name="radioInfo_display_asu">asu</string>
-  <string name="radioInfo_display_bytes">bytes</string>
-  <string name="radioInfo_display_dbm">dBm</string>
-  <string name="radioInfo_display_packets">pqts</string>
-  <string name="radioInfo_lac">LAC</string>
-  <string name="radioInfo_menu_getPDP">Obtener lista PDP</string>
-  <string name="radioInfo_menu_viewADN">Ver libreta de direcciones de tarjeta SIM</string>
-  <string name="radioInfo_menu_viewFDN">Ver números de marcación fija</string>
-  <string name="radioInfo_menu_viewSDN">Ver números de marcación de servicio</string>
-  <string name="radioInfo_phone_idle">Inactivo</string>
-  <string name="radioInfo_phone_offhook">Llamada en curso</string>
-  <string name="radioInfo_phone_ringing">Sonando</string>
-  <string name="radioInfo_roaming_in">Itinerancia</string>
-  <string name="radioInfo_roaming_not">Sin itinerancia</string>
-  <string name="radioInfo_service_emergency">Solo llamadas de emergencia</string>
-  <string name="radioInfo_service_in">En servicio</string>
-  <string name="radioInfo_service_off">Señal móvil desactivada</string>
-  <string name="radioInfo_service_out">Fuera de servicio</string>
-  <string name="radioInfo_unknown">desconocido</string>
   <string name="rarely_running">Apenas en ejecución (%s)</string>
   <string name="really_remove_account_message">Si quitas esta cuenta, se eliminarán todos sus mensajes, contactos y otros datos del teléfono.</string>
   <string name="really_remove_account_title">¿Quitar cuenta?</string>
@@ -2956,7 +2956,7 @@ Seleccione su sistema operativo:"</string>
   <string name="recent_location_requests_title">Acceso a ubicación</string>
   <string name="recompute_size">Recalculando tamaño…</string>
   <string name="record_anr_in_background">Grabar casos de ANR en segundo plano</string>
-  <string name="regulatory_info_text" />
+  <string name="regulatory_info_text"/>
   <string name="regulatory_information">Información regulatoria</string>
   <string name="remove_account_failed">El administrador no permite este cambio</string>
   <string name="remove_account_label">Quitar cuenta</string>
@@ -2969,17 +2969,17 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_app_preferences">Restablecer preferencias</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
   <string name="reset_app_preferences_desc">
-    <li>Aplicaciones inhabilitadas</li>
-    <li>Notificaciones de aplicaciones inhabilitadas</li>
-    <li>Aplicaciones predeterminadas</li>
-    <li>Restricciones de datos de aplicaciones</li>
-    <li>Restricciones de permisos</li>"
+    &lt;li&gt;Aplicaciones inhabilitadas&lt;/li&gt;
+    &lt;li&gt;Notificaciones de aplicaciones inhabilitadas&lt;/li&gt;
+    &lt;li&gt;Aplicaciones predeterminadas&lt;/li&gt;
+    &lt;li&gt;Restricciones de datos de aplicaciones&lt;/li&gt;
+    &lt;li&gt;Restricciones de permisos&lt;/li&gt;"
  ""
  ""
  ""
  ""
 
-No se perderán los datos de las aplicaciones.""Se restablecerán todas las preferencias de:
+No se perder&amp;#225;n los datos de las aplicaciones.""Se restablecer&amp;#225;n todas las preferencias de:
 
  "</string>
   <string name="reset_app_preferences_title">¿Restablecer preferencias de las aplicaciones?</string>
@@ -2988,11 +2988,11 @@ No se perderán los datos de las aplicaciones.""Se restablecerán todas las pref
   <string name="reset_network_complete_toast">Se han restablecido los ajustes de red</string>
   <string name="reset_network_confirm_title">¿Restablecer?</string>
   <string name="reset_network_desc">
-    <li>Wi‑Fi</li>
-    <li>Datos móviles</li>
-    <li>Bluetooth</li>"
+    &lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;
+    &lt;li&gt;Datos m&amp;#243;viles&lt;/li&gt;
+    &lt;li&gt;Bluetooth&lt;/li&gt;"
 ""
-""Se restablecerán todos los ajustes de red, incluidos los siguientes:
+""Se restablecer&amp;#225;n todos los ajustes de red, incluidos los siguientes:
 
 "</string>
   <string name="reset_network_final_button_text">Restablecer ajustes</string>
@@ -3020,7 +3020,7 @@ No se perderán los datos de las aplicaciones.""Se restablecerán todas las pref
   <string name="ring_volume_title">Volumen del timbre</string>
   <string name="ringtone_mute">Ninguno</string>
   <string name="ringtone_slot_setting_title">Configuración de SIM individual</string>
-  <string name="ringtone_summary" />
+  <string name="ringtone_summary"/>
   <string name="ringtone_title">Tono del teléfono</string>
   <string name="ringtone_uniform_setting_title">Configuración de SIM dual</string>
   <string name="roaming">Itinerancia de datos</string>
@@ -3153,7 +3153,7 @@ Para ello:
   <string name="sd_insert_summary">Insertar una tarjeta SD para el montaje</string>
   <string name="sd_memory">Tarjeta SD</string>
   <string name="sd_mount">Activar tarjeta SD</string>
-  <string name="sd_mount_summary" />
+  <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Los cambios se aplicarán cuando se vuelva a conectar el cable USB.</string>
   <string name="sdcard_format">Borrar tarjeta SD</string>
   <string name="sdcard_setting">Tarjeta SD</string>
@@ -3391,9 +3391,9 @@ Para ello:
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nombre</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Aceptar</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">
-    <annotation id="url">Más información</annotation>Además de desbloquear el teléfono, también puedes utilizar tu huella digital para autorizar acceso a aplicaciones y compras. </string>
+    &lt;annotation id="url"&gt;M&amp;#225;s informaci&amp;#243;n&lt;/annotation&gt;Adem&amp;#225;s de desbloquear el tel&amp;#233;fono, tambi&amp;#233;n puedes utilizar tu huella digital para autorizar acceso a aplicaciones y compras. </string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">
-    <annotation id="url">Más información</annotation>La opción de bloqueo de pantalla está inhabilitada. Puedes seguir utilizando tu huella digital para autorizar acceso a aplicaciones y compras. </string>
+    &lt;annotation id="url"&gt;M&amp;#225;s informaci&amp;#243;n&lt;/annotation&gt;La opci&amp;#243;n de bloqueo de pantalla est&amp;#225; inhabilitada. Puedes seguir utilizando tu huella digital para autorizar acceso a aplicaciones y compras. </string>
   <string name="security_settings_fingerprint_enroll_done">Listo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustración con la ubicación del sensor de huellas digitales y dispositivo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Localiza el sensor de huellas digitales situado en la parte trasera del teléfono.</string>
@@ -3760,19 +3760,19 @@ Si lo haces, los datos del dispositivo se perderán para siempre.
 
 Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus datos almacenados en este dispositivo."</string>
   <string name="storage_internal_format_details">
-    <b>Copia de seguridad de fotos y de otro contenido multimedia</b>
-    <b>Copia de seguridad de aplicaciones</b>"
-Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfiérelos a un ordenador con un cable USB.
+    &lt;b&gt;Copia de seguridad de fotos y de otro contenido multimedia&lt;/b&gt;
+    &lt;b&gt;Copia de seguridad de aplicaciones&lt;/b&gt;"
+Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfi&amp;#233;relos a un ordenador con un cable USB.
 
 ""
-Se desinstalarán todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muévelas a otro espacio de almacenamiento del dispositivo.""Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
+Se desinstalar&amp;#225;n todas las aplicaciones almacenadas en tu ^1 y se borrar&amp;#225;n sus datos. Para conservarlas, mu&amp;#233;velas a otro espacio de almacenamiento del dispositivo.""Despu&amp;#233;s de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
 
-Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrarán cuando se formatee.
+Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrar&amp;#225;n cuando se formatee.
 
 "</string>
   <string name="storage_internal_title">Almacenamiento del dispositivo</string>
   <string name="storage_internal_unmount_details">
-    <b>Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estarán disponibles hasta que se vuelva a insertar.</b>"
+    &lt;b&gt;Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejar&amp;#225;n de funcionar y los archivos multimedia guardados en ella no estar&amp;#225;n disponibles hasta que se vuelva a insertar.&lt;/b&gt;"
 
 Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_label">Almacenamiento</string>
@@ -3797,9 +3797,9 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_settings_summary">Desactivar tarjeta SD, ver almacenamiento disponible.</string>
   <string name="storage_settings_title">Ajustes de almacenamiento</string>
   <string name="storage_size_large">
-    <small>
-      <small> ^2</small>
-    </small>^1</string>
+    &lt;small&gt;
+      &lt;small&gt; ^2&lt;/small&gt;
+    &lt;/small&gt;^1</string>
   <string name="storage_summary_format">%1$s usados en %2$s</string>
   <string name="storage_title_usb">Conexión USB a ordenador</string>
   <string name="storage_type_external">Almacenamiento externo</string>
@@ -3814,14 +3814,14 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_volume_used">Utilizado de %1$s</string>
   <string name="storage_volume_used_total">Total utilizado de %1$s</string>
   <string name="storage_wizard_format_confirm_body">
-    <b>Al formatear tu ^1, se borrarán todos los datos que tenga almacenados.</b> Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1 por seguridad.
+    &lt;b&gt;Al formatear tu ^1, se borrar&amp;#225;n todos los datos que tenga almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1 por seguridad.
 
-Una vez que se formatee, tu ^1 solo funcionará en este dispositivo.
+Una vez que se formatee, tu ^1 solo funcionar&amp;#225; en este dispositivo.
 
 "</string>
   <string name="storage_wizard_format_confirm_next">Borrar y formatear</string>
   <string name="storage_wizard_format_confirm_public_body">
-    <b>Al formatear tu ^1, se borrarán todos los datos que tengas almacenados.</b> Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1.
+    &lt;b&gt;Al formatear tu ^1, se borrar&amp;#225;n todos los datos que tengas almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1.
 
 "</string>
   <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
@@ -3837,7 +3837,7 @@ Una vez que se formatee, tu ^1 solo funcionará en este dispositivo.
 
 La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio de almacenamiento interno. Algunas aplicaciones no funcionarán hasta que finalice el proceso."</string>
   <string name="storage_wizard_migrate_confirm_body">
-    <b>La migración durará ^1 y permitirá liberar ^2 de espacio de almacenamiento en ^3.</b>
+    &lt;b&gt;La migraci&amp;#243;n durar&amp;#225; ^1 y permitir&amp;#225; liberar ^2 de espacio de almacenamiento en ^3.&lt;/b&gt;
   </string>
   <string name="storage_wizard_migrate_confirm_next">Mover</string>
   <string name="storage_wizard_migrate_confirm_title">Migración de datos</string>
@@ -3914,8 +3914,8 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
   <string name="sync_one_time_sync">"Tocar para realizar la sincronización ahora
 %1$s"</string>
   <string name="sync_plug">
-    <font fgcolor="#ffffffff">Te damos la bienvenida a Google Sync,</font>"
-un servicio de Google que te permite sincronizar datos para que puedas acceder a tus contactos, a tus citas, etc., desde cualquier ubicación."</string>
+    &lt;font fgcolor="#ffffffff"&gt;Te damos la bienvenida a Google Sync,&lt;/font&gt;"
+un servicio de Google que te permite sincronizar datos para que puedas acceder a tus contactos, a tus citas, etc., desde cualquier ubicaci&amp;#243;n."</string>
   <string name="sync_settings">Sincronizar</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Solamente por Wi-Fi</string>
@@ -3932,7 +3932,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="system_package">Las actualizaciones del sistema no se pueden instalar en ubicaciones externas.</string>
   <string name="system_storage">Almacenamiento de sistema</string>
   <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
-  <string name="system_update_settings_list_item_summary" />
+  <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Actualiz. del sistema</string>
   <string name="tap_to_wake">Tocar para activar</string>
   <string name="tap_to_wake_summary">Toca dos veces cualquier punto de la pantalla para activar el dispositivo</string>
@@ -3961,10 +3961,10 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="title_color_calibration">Corrección de color preestablecido</string>
   <string name="title_dolby_control">Dolby Digital Plus</string>
   <string name="title_font">Fuente</string>
+  <string name="title_font2">Fuente</string>
   <string name="title_font_current">Fuente del sistema</string>
   <string name="title_font_current2">Fuente del sistema</string>
   <string name="title_font_size">Tamaño de la fuente</string>
-  <string name="title_font2">Fuente</string>
   <string name="title_hdmi_color_calibration">Corrección de color preestablecido</string>
   <string name="title_layout_current">Tamaño del texto</string>
   <string name="title_layout_current2">Tamaño del texto</string>
@@ -3989,7 +3989,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Encender trackball</string>
   <string name="transition_animation_scale_title">Escala de transición-animación</string>
-  <string name="translation_contributors_summary" />
+  <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Colaboradores</string>
   <string name="trust_agent_disabled_device_admin">Inhabilitado por el administrador</string>
   <string name="trusted_credentials">Certificados de confianza</string>
@@ -4056,7 +4056,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="uicc_insert_summary">Conectar almacenamiento UICC</string>
   <string name="uicc_media_format_button_text">Borrar almacenamiento UICC</string>
   <string name="uicc_media_format_desc">
-    <b>todos</b> los archivos guardados allí.¿Borrar el almacenamiento UICC? Perderá </string>
+    &lt;b&gt;todos&lt;/b&gt; los archivos guardados all&amp;#237;.&amp;#191;Borrar el almacenamiento UICC? Perder&amp;#225; </string>
   <string name="uicc_media_format_final_desc">Todos los archivos almacenados en el almacenamiento UICC se eliminarán de forma permanente.</string>
   <string name="uicc_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento UICC.</string>
   <string name="uicc_media_format_summary">Eliminar todos los datos del almacenamiento UICC</string>
@@ -4108,7 +4108,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Sin seguridad</string>
   <string name="unlock_set_unlock_none_title">Ninguno</string>
-  <string name="unlock_set_unlock_off_summary" />
+  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Sin seguridad</string>
   <string name="unlock_set_unlock_password_summary">Introduzca cuatro o más números para desbloquear el dispositivo</string>
   <string name="unlock_set_unlock_password_title">Contraseña</string>
@@ -4165,7 +4165,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="usb_label_installer_cd">Instalar las herramientas de transferencia de archivos</string>
   <string name="usb_media_format_button_text">Borrar almacenamiento USB</string>
   <string name="usb_media_format_desc">
-    <b>todos</b> los archivos guardados allí.¿Borrar el almacenamiento USB? Perderá </string>
+    &lt;b&gt;todos&lt;/b&gt; los archivos guardados all&amp;#237;.&amp;#191;Borrar el almacenamiento USB? Perder&amp;#225; </string>
   <string name="usb_media_format_final_desc">Todos los archivos almacenados en el almacenamiento USB se eliminarán de forma permanente.</string>
   <string name="usb_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento USB.</string>
   <string name="usb_media_format_summary">Eliminar todos los datos del almacenamiento USB</string>
@@ -4173,7 +4173,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="usb_midi_summary">Permite a las aplicaciones compatibles con MIDI utilizar software de MIDI en tu ordenador por USB.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Montar almacenamiento USB</string>
-  <string name="usb_mount_summary" />
+  <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">Obtener disco de controladores para Windows y OSX</string>
   <string name="usb_msd_driver_installer_title">Disco de instalación de controladores (MSD)</string>
   <string name="usb_msd_summary">Transferir archivos usando OSX o Windows</string>
@@ -4194,9 +4194,9 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="usb_title">USB</string>
   <string name="usb_unmount_inform_text">El almacenamiento USB será expulsado.</string>
   <string name="usb_use">Utilizar USB para</string>
+  <string name="usb_use_MIDI">MIDI</string>
   <string name="usb_use_charging_only">Solo carga</string>
   <string name="usb_use_file_transfers">Transferir archivos (MTP)</string>
-  <string name="usb_use_MIDI">MIDI</string>
   <string name="usb_use_photo_transfers">Transferir fotos (PTP)</string>
   <string name="use_default_tts_settings_summary">La configuración predeterminada anula la de la aplicación.</string>
   <string name="use_default_tts_settings_title">Utilizar siempre mi configuración</string>
@@ -4254,7 +4254,7 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
   <string name="user_dict_settings_empty_text">"Usted no tiene ningún diccionario
 Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="user_dict_settings_more_languages">Más idiomas…</string>
-  <string name="user_dict_settings_summary" />
+  <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Diccionario personal</string>
   <string name="user_enable_calling">Activar llamadas</string>
   <string name="user_enable_calling_and_sms_confirm_message">El historial de SMS y de llamadas se compartirán con este usuario.</string>
@@ -4346,9 +4346,9 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="virus_scanner_scan">Pulsa para escanear</string>
   <string name="virus_scanner_scanning">Escaneando…</string>
   <string name="virus_scanner_select_Cancel">Cancelar</string>
+  <string name="virus_scanner_select_OK">De acuerdo</string>
   <string name="virus_scanner_select_lib">Seleccionar definiciones de virus</string>
   <string name="virus_scanner_select_multi">La selección de más de un conjunto de definiciones hará que se ralentice la instalación y el análisis</string>
-  <string name="virus_scanner_select_OK">De acuerdo</string>
   <string name="virus_scanner_select_single">Solo usar definiciones de fuentes fiables.</string>
   <string name="virus_scanner_select_trust_lib">Seleccionar definiciones de virus</string>
   <string name="virus_scanner_title">Analizador de virus</string>
@@ -4474,13 +4474,13 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="wifi_allow_scan_with_traffic">Permitir siempre búsquedas de Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/No permitir búsquedas de Wi-Fi basadas en la cantidad de tráfico de datos presente en la interfaz</string>
   <string name="wifi_and_mobile_skipped_message">
-    <li>Tu teléfono no tendrá conexión a Internet.</li>
-    <li>No recibirás actualizaciones de software hasta que te conectes a Internet.</li>
-    <li>No podrás activar las funciones de protección del dispositivo en este momento.</li>"
+    &lt;li&gt;Tu tel&amp;#233;fono no tendr&amp;#225; conexi&amp;#243;n a Internet.&lt;/li&gt;
+    &lt;li&gt;No recibir&amp;#225;s actualizaciones de software hasta que te conectes a Internet.&lt;/li&gt;
+    &lt;li&gt;No podr&amp;#225;s activar las funciones de protecci&amp;#243;n del dispositivo en este momento.&lt;/li&gt;"
 
 ""
 
-""Si te saltas el paso de la conexión Wi‑Fi:
+""Si te saltas el paso de la conexi&amp;#243;n Wi&amp;#8209;Fi:
 
 "</string>
   <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
@@ -4683,21 +4683,21 @@ de Wi‑Fi"</string>
   <string name="wifi_scan_notify_text_location_off">Las aplicaciones pueden buscar redes cercanas incluso cuando Wi-Fi esté desactivado. Si no quieres que esto ocurra, ve a Config. avanzada &gt; Búsqueda siempre disponible.</string>
   <string name="wifi_scan_notify_text_location_on">Para mejorar la precisión de la ubicación y para otros fines, Google y otras aplicaciones pueden explorar las redes cercanas, incluso cuando Wi-Fi esté desactivado. Si no quieres que esto ocurra, ve a Avanzado &gt; Exploración siempre disponible.</string>
   <string name="wifi_security">Seguridad</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
-  <string name="wifi_security_none">Ninguna</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_eap">802.1x EAP</string>
+  <string name="wifi_security_none">Ninguna</string>
+  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_wep">WEP</string>
+  <string name="wifi_security_short_wpa">WPA</string>
+  <string name="wifi_security_short_wpa2">WPA2</string>
+  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
   <string name="wifi_security_wep">WEP</string>
   <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_select_assistant_dialog_title">Elige un asistente</string>
   <string name="wifi_select_network">Selecciona una red Wi-Fi</string>
   <string name="wifi_setting_category">Redes disponibles</string>
@@ -4716,8 +4716,8 @@ de Wi‑Fi"</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
   <string name="wifi_setup_description_connected">
-    <b>Siguiente</b>
-    <b>Atrás</b> para conectarse a otra red Wi-Fi." para continuar con la configuración.
+    &lt;b&gt;Siguiente&lt;/b&gt;
+    &lt;b&gt;Atr&amp;#225;s&lt;/b&gt; para conectarse a otra red Wi-Fi." para continuar con la configuraci&amp;#243;n.
 
 Pulsa "Pulsa </string>
   <string name="wifi_setup_description_connecting">Conectando (puede tardar unos minutos)…</string>
@@ -4811,7 +4811,7 @@ Pulsa "Pulsa </string>
   <string name="wifi_tether_settings_title">Punto de acceso personal</string>
   <string name="wifi_tether_starting">Activando zona Wi-Fi…</string>
   <string name="wifi_tether_stopping">Desactivando zona Wi-Fi…</string>
-  <string name="wifi_type_approval" />
+  <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">Homologación</string>
   <string name="wifi_unchanged">(no modificada)</string>
