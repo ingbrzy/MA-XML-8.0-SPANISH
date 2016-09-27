@@ -1824,7 +1824,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="local_backup_section_summary">Crear backup de los ajustes, información de cuenta y aplicaciones</string>
   <string name="local_backup_section_title">Backups locales</string>
   <string name="locale_default">Predeterminado</string>
-  <string name="locale_settings">Configuración regional</string>
+  <string name="locale_settings">Región</string>
   <string name="location_access_off">Desactivar</string>
   <string name="location_access_on">Activar</string>
   <string name="location_access_summary">Las aplicaciones pueden obtener su información de ubicación</string>
@@ -1952,7 +1952,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lockpassword_pin_no_sequential_digits">No se permiten una secuencia ascendente, descendente ni repetida de dígitos</string>
   <string name="lockpassword_pin_recently_used">El administrador de dispositivos no permite el desbloqueo PIN</string>
   <string name="lockpassword_pin_set_toast">PIN establecido</string>
-  <string name="lockpassword_pin_too_long">El PIN debe de tener menos de %d dígitos</string>
+  <string name="lockpassword_pin_too_long">El PIN puede contener hasta %d dígitos</string>
   <string name="lockpassword_pin_too_short">El PIN debe tener %d dígitos de longitud</string>
   <string name="lockpassword_press_continue">Tocar Continuar al terminar</string>
   <string name="lockpattern_change_lock_pattern_label">Cambiar patrón de desbloqueo</string>
@@ -1985,7 +1985,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lockpattern_settings_title">Patrón</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Demasiados intentos fallidos. Intenta nuevamente en %d segundos.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Espere %d segundos e inténtelo otra vez.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiados intentos fallidos</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Siguiente</string>
   <string name="lockscreen_glogin_checking_password">Comprobando…</string>
@@ -4120,7 +4120,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="unmount_inform_text">Se desactivará la tarjeta SD.</string>
   <string name="untitled_apn">Sin título</string>
   <string name="update_progress_for_updates">Actualizando (%s)</string>
-  <string name="upload_debug_log_summary">Los datos de diagnóstico pueden incluir información sobre el uso del hardware, sistema operativo y aplicaciones. Los datos serán usados para localizar y analizar los problemas en el sistema y nunca serán usados para identificarle personalmente.</string>
+  <string name="upload_debug_log_summary">La información que recogemos puede contener sus datos personales. Será usada para localizar y analizar los problemas en el sistema y nunca serán usados para identificarle personalmente.</string>
   <string name="upload_debug_log_title">Envíe automáticamente datos de diagnóstico</string>
   <string name="usage_access">Acceso de uso</string>
   <string name="usage_access_description">El acceso de uso permite que una aplicación controle las aplicaciones que utilizas y con qué frecuencia, así como tu operador, los ajustes de idioma y otros detalles.</string>
