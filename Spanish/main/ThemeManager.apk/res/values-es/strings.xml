@@ -25,8 +25,8 @@
   <string name="component_backup_preference_title">Copia de seguridad de los temas</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">AVANZADO</string>
-  <string name="component_title_ringtone">Tono de llamada</string>
-  <string name="component_title_wallpaper">Fondos de escritorio</string>
+  <string name="component_title_ringtone">Tonos de llamada</string>
+  <string name="component_title_wallpaper">Fondos de pantalla</string>
   <string name="current_using_desktop_wallpaper_text">Pantalla de inicio</string>
   <string name="current_using_lockscreen_wallpaper_text">Bloquear pantalla</string>
   <string name="deleting">Borrando…</string>
@@ -39,8 +39,8 @@
   <string name="description_version">Versión</string>
   <string name="description_version_szie">Versión: %1$s Tamaño: %2$s</string>
   <string name="desktop_wallpaper">Pantalla de inicio</string>
-  <string name="dev_options">Opciones dispositivo</string>
-  <string name="dev_options_summary">Recurso Web</string>
+  <string name="dev_options">Opciones de desarrollador</string>
+  <string name="dev_options_summary">Recursos web</string>
   <string name="download_failed">Descarga fallida</string>
   <string name="download_preview_failed">No se puede cargar la vista previa</string>
   <string name="download_success">Descarga finalizada</string>
@@ -109,7 +109,8 @@
   <string name="provision_second_title">Seleccione uno de los cinco temas por defecto</string>
   <string name="provision_title">Elija un tema</string>
   <string name="purchased_list">Comprados</string>
-  <string name="purchased_list_format">%1$s comprados</string>
+  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_legacy">Temas heredados</string>
   <string name="reload">Inténtelo de nuevo</string>
   <string name="resource_account_abnormal_state">Error en la cuenta. Espere uno o dos minutos y vuelva a intentarlo.</string>
   <string name="resource_account_fail_to_add">No se puede añadir la cuenta</string>
@@ -240,8 +241,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit">Créditos Mi</string>
+  <string name="resource_purchase_common_error">Operación fallida. Inténtelo de nuevo.</string>
+  <string name="resource_purchase_continue_to_pay">Seguir pagando %s</string>
   <string name="resource_purchase_getting_order">Recuperando información del pedido…</string>
   <string name="resource_purchase_verifying_payment">Verificando la información del pago…</string>
+  <string name="resource_purchase_vip_pay_failed">No ha pagado por VIP.</string>
   <string name="resource_purchase_waiting_payment">Esperando la información del pago…</string>
   <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">Gratis</string>
@@ -330,7 +334,7 @@
   <string name="theme_component_title_boot_audio">Audio de arranque</string>
   <string name="theme_component_title_clock">Reloj</string>
   <string name="theme_component_title_contact">Teclado de marcación</string>
-  <string name="theme_component_title_font">Fuente</string>
+  <string name="theme_component_title_font">Fuentes</string>
   <string name="theme_component_title_framework">Bordes</string>
   <string name="theme_component_title_icon">Iconos</string>
   <string name="theme_component_title_launcher">Bandeja de favoritos</string>
@@ -394,6 +398,6 @@
   <string name="wallpaper_loading_text">Un momento…</string>
   <string name="wallpaper_set_as_both">Establecer ambos</string>
   <string name="wallpaper_set_as_destop">Establecer como fondo de pantalla</string>
-  <string name="wallpaper_set_as_lockscreen">Establecer como pantalla de bloqueo</string>
+  <string name="wallpaper_set_as_lockscreen">Establecer como Pantalla de bloqueo</string>
   <string name="wallpaper_settings">Configuración de fondo de pantalla</string>
 </resources>
