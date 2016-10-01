@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEEE, d de MMMM</string>
-    <string name="date_time_12">EEEE, d de MMMM</string>
+    <string name="date_time">EEEE, d MMMM</string>
+    <string name="date_time_12">EEEE, d MMMM</string>
     <string name="language">en</string>
-    <string name="desc_date_format">EEEE, d de MMMM</string>
+    <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'hora actual' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', doble toque para entrar'</string>
     <string name="weather_type_0">Despejado</string>
     <string name="weather_type_1">Nublado</string>
