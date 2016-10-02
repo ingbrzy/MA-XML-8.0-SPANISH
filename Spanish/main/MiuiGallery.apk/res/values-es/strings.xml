@@ -623,6 +623,7 @@
   <string name="share">Compartir</string>
   <string name="share_album">Compartir álbum</string>
   <string name="share_album_needs_auto_upload_tip">No se pudo desactivar la copia de seguridad para los álbumes compartidos</string>
+  <string name="share_app_is_launching">{0,choice,0#Ejecutando aplicación…|1#%s Ejecutando…}</string>
   <string name="share_by_email_start">Compartido %1$s en segundo plano</string>
   <string name="share_by_email_successfully">Compartido %1$s</string>
   <string name="share_public_url_text">He compartido el álbum %1$s contigo. Puede verlo en %2$s</string>
