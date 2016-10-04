@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Sin seguimiento del uso de datos para %d aplicaciones</item>
-        <item quantity="one">Sin seguimiento del uso de datos para %d aplicación</item>
+        <item quantity="other">No monitorizar el uso de datos para %d aplicaciones</item>
+        <item quantity="one">No monitorizar el uso de datos para %d aplicación</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Seguimiento del uso de los datos para %d aplicaciones</item>
@@ -45,16 +45,16 @@
         <item quantity="one">En %1$d min</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Optimizado %d problemas con las baterías</item>
-        <item quantity="one">Optimizado %d problema con las batería</item>
+        <item quantity="other">Arreglados %d problemas con la batería</item>
+        <item quantity="one">Arreglado %d problema con la batería</item>
     </plurals>
     <plurals name="quick_optimize_issue_found">
-        <item quantity="other">Encontró %d problemas con las baterías</item>
-        <item quantity="one">Encontró %d problema con las batería</item>
+        <item quantity="other">Se encontraron %d problemas con la batería</item>
+        <item quantity="one">Se encontró %d problema con la batería</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
-        <item quantity="other">%d problemas con las baterías</item>
-        <item quantity="one">%d problema con las batería</item>
+        <item quantity="other">%d problemas con la batería</item>
+        <item quantity="one">%d problema con la batería</item>
     </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d problemas pueden ser optimizados</item>
@@ -85,12 +85,12 @@
         <item quantity="one">%d aplicación</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d aplicaciones tienen acceso a la raíz</item>
+        <item quantity="other">%d aplicaciones tienen acceso root</item>
         <item quantity="one">%d aplicación tiene acceso root</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d aplicaciones no tienen acceso a la raíz</item>
-        <item quantity="one">%d aplicación no tiene acceso a la raíz</item>
+        <item quantity="other">%d aplicaciones no tienen acceso root</item>
+        <item quantity="one">%d aplicación no tiene acceso root</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Actualizaciones disponibles para %d aplicaciones.</item>
@@ -158,11 +158,11 @@
         <item quantity="one">%s aplicación no está protegida</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">%d apps bloqueadas pueden limpiarse</item>
-        <item quantity="one">%d app bloqueada puede limpiarse</item>
+        <item quantity="other">%d aplicaciones bloqueadas pueden limpiarse</item>
+        <item quantity="one">%d aplicación bloqueada puede limpiarse</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
-        <item quantity="other">Eliminado %d virus</item>
+        <item quantity="other">Eliminados %d virus</item>
         <item quantity="one">Eliminado %d virus</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
