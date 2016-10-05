@@ -281,6 +281,9 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_snap_entry_take_movie">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para empezar a grabar un vídeo. Suelta para parar.</string>
   <string name="pref_camera_snap_entry_take_picture">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para hacer una ráfaga de fotos. Suelta para parar.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Can`t use Quick snap mode while \"Wake with Volume buttons\" is on.</string>
+  <string name="pref_camera_snap_value_off">Apagado</string>
+  <string name="pref_camera_snap_value_take_movie">Vídeo</string>
+  <string name="pref_camera_snap_value_take_picture">Imagen</string>
   <string name="pref_camera_sound_title">Sonidos de cámara</string>
   <string name="pref_camera_square_mode_title">Cuadro</string>
   <string name="pref_camera_stereo_default">7</string>
@@ -288,6 +291,8 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_tilt_shift_default">circulo</string>
   <string name="pref_camera_tilt_shift_entry_circle">Circulo</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Horizontal</string>
+  <string name="pref_camera_tilt_shift_entryvalue_circle">circulo</string>
+  <string name="pref_camera_tilt_shift_entryvalue_parallel">horizontal</string>
   <string name="pref_camera_tilt_shift_title">Efecto diorama</string>
   <string name="pref_camera_touchafaec_entry_off">Apagado</string>
   <string name="pref_camera_touchafaec_entry_on">Encendido</string>

@@ -25,6 +25,7 @@
   <string name="convertion_unit_weight">Conversor de pesos</string>
   <string name="cos">cos</string>
   <string name="cosDesc">coseno</string>
+  <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Actualizado %s</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
@@ -47,6 +48,7 @@
   <string name="dotDesc">punto</string>
   <string name="e">e</string>
   <string name="eDesc">Número de Euler</string>
+  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">es igual a</string>
@@ -80,8 +82,10 @@
   <string name="leftParenDesc">paréntesis izquierdo</string>
   <string name="lg">log</string>
   <string name="lgDesc">logaritmo</string>
+  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">logaritmo natural</string>
+  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Introduzca la cantidad</string>
   <string name="loan_edittext_hint_commercial_combined">Comercial</string>
   <string name="loan_edittext_hint_fund">Introduzca la cantidad</string>
@@ -141,10 +145,12 @@
   <string name="rightParenDesc">paréntesis derecho</string>
   <string name="sin">sin</string>
   <string name="sinDesc">seno</string>
+  <string name="sin_mathematical_value">sin</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">raíz cuadrada</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangente</string>
+  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Fondo de acumulación</string>
   <string name="tax_annual_bonus_hint">Introduzca su bono antes de impuestos</string>
   <string name="tax_birth">Nacimiento</string>

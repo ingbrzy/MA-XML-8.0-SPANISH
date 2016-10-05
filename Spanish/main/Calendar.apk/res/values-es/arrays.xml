@@ -6,6 +6,30 @@
         <item>Mensaje de texto</item>
         <item>Alarma</item>
     </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Por defecto</item>
         <item>Sábado</item>
@@ -157,6 +181,36 @@
         <item>2 días</item>
         <item>1 semana</item>
     </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Sin recordatorio</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 día</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </string-array>
+    <integer-array name="online_reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <integer-array name="online_reminder_minutes_values_allday">
+        <item>0</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>4320</item>
+        <item>10080</item>
+    </integer-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 horas</item>
         <item>4 horas</item>
