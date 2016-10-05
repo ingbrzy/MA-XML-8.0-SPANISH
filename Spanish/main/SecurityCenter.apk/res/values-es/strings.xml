@@ -823,17 +823,13 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_button_delete">Borrar</string>
   <string name="power_cell">Antena activada</string>
   <string name="power_center_auto_shutdown">Calendario de encendido/apagado</string>
-  <string name="power_center_auto_shutdown_summary_default">Enciende o apaga tu dispositivo a una hora programada</string>
   <string name="power_center_battery_full">"Batería cargada "</string>
   <string name="power_center_charge_time">%1$spara terminar</string>
   <string name="power_center_consume_rank">Consumo de batería</string>
   <string name="power_center_consume_time">%1$s restante</string>
-  <string name="power_center_custom_summary_default">Mejora la batería con perfiles personalizados</string>
   <string name="power_center_custom_title">Perfiles de energía</string>
-  <string name="power_center_low_battery_summary_default">Cambiar perfiles cuando el nivel de batería es bajo</string>
   <string name="power_center_low_battery_summary_dynamic">En %1$d%% cambiar a %2$s</string>
   <string name="power_center_low_battery_title">Ahorro de batería</string>
-  <string name="power_center_on_time_summary_default">Cambia el perfil de la batería a una hora programada</string>
   <string name="power_center_on_time_summary_dynamic">%1$s - %2$s cambiar a %3$s</string>
   <string name="power_center_on_time_title">Programar cambio de perfil</string>
   <string name="power_center_ontime_boot">Activación programada</string>
@@ -885,7 +881,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_dialog_cpu_state_save">Ahorrar batería</string>
   <string name="power_dialog_cpu_state_save_desc">Dar prioridad a la batería sobre el rendimiento de la CPU</string>
   <string name="power_dialog_cpu_state_title">Uso de la CPU</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_default">Estás usando este perfil ahora.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Tu dispositivo está programado para cambiar a este perfil cuando la batería esté baja. Debes cambiar los ajustes de energía antes de poder borrar este perfil.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Tu dispositivo está programado para cambiar a este perfil cuando la batería esté baja. Debes cambiar los ajustes de energía antes de poder borrar este perfil.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Tu dispositivo está programado para cambiar a este perfil cuando la batería se recupere. Debes cambiar tus ajustes antes de poder borrar este perfil.</string>
@@ -981,7 +976,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_save_mode_summary" formatted="false">Supervisar los procesos en segundo plano, y desactivar la sincronización.El economizador de batería se apagará automáticamente cuando la batería este entre el 60% y el 100% de la carga.</string>
   <string name="power_save_on_time_auto_save_title">Programar cambio de perfil</string>
   <string name="power_save_on_time_default_time">00:00</string>
-  <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary">Terminar</string>
   <string name="power_save_on_time_end_time_summary_na">A</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -1085,7 +1079,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
   <string name="preference_key_module_antipam">module_antipam</string>
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
@@ -1349,9 +1342,6 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_brand_error_notification_title">Tipo de red incorrecta</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Marca del operador errónea&lt;br/&gt;&lt;br/&gt;Establecer marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Listo</string>
-  <string name="tc_diagnostic_fragment_default">"Acerca de diagnóstico
-1. El dispositivo se conectará a la red del operador, enviar un mensaje sin costo, y esperará la respuesta de la compañía. Esto puede tardar hasta 5 minutos.
-2. Puede salir de esta página durante los diagnósticos, estos se ejecutarán en segundo plano."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar la ubicación</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicación errónea</string>
   <string name="tc_diagnostic_notification_sumarry">Pulse para ver los resultados</string>
