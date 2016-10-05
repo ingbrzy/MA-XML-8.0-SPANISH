@@ -53,15 +53,6 @@
         <item>25 minutos</item>
         <item>30 minutos</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="auto_silence_entries">
         <item>Nunca</item>
         <item>1 minuto</item>
@@ -72,24 +63,9 @@
         <item>25 minutos</item>
         <item>30 minutos</item>
     </string-array>
-    <string-array name="auto_silence_values">
-        <item>-1</item>
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>No hacer nada</item>
         <item>Repetir</item>
         <item>Rechazar</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

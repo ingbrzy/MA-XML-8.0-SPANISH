@@ -496,11 +496,6 @@
         <item>Tiempo de espera agotado</item>
         <item>Incorrecta</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Preguntar</item>
-        <item>No permitir nunca</item>
-        <item>Permitir siempre</item>
-    </string-array>
     <string-array name="ram_states">
         <item>normal</item>
         <item>moderado</item>
@@ -605,11 +600,6 @@
         <item>Ninguno</item>
         <item>Modo de movimiento rápido(seleccionar en la cámara)</item>
         <item>Atajos de transporte público</item>
-    </string-array>
-        <string-array name="long_press_volume_down_action_value">
-        <item>ninguno</item>
-        <item>Street-snap</item>
-        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -742,16 +732,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Medio</item>
         <item>Alto</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Red doméstica</item>
         <item>Toda la red</item>
@@ -760,18 +740,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>CALIENTE</item>
@@ -782,11 +753,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>4,5 pulgadas</item>
         <item>4,0 pulgadas</item>
         <item>3,5 pulgadas</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Inmediatamente</item>
@@ -818,128 +784,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>XG</item>
         <item>XXG</item>
         <item>XXXG</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>tm</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
-        <item>il</item>
-        <item>it</item>
-        <item>jm</item>
-        <item>jo</item>
-        <item>kz</item>
-        <item>ke</item>
-        <item>kw</item>
-        <item>lb</item>
-        <item>ls</item>
-        <item>ly</item>
-        <item>lt</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mr</item>
-        <item>mu</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>np</item>
-        <item>ni</item>
-        <item>ng</item>
-        <item>kp</item>
-        <item>om</item>
-        <item>pk</item>
-        <item>ps</item>
-        <item>pa</item>
-        <item>py</item>
-        <item>pe</item>
-        <item>ph</item>
-        <item>pl</item>
-        <item>qa</item>
-        <item>ro</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sa</item>
-        <item>sn</item>
-        <item>rs</item>
-        <item>sg</item>
-        <item>sk</item>
-        <item>so</item>
-        <item>za</item>
-        <item>gs</item>
-        <item>kr</item>
-        <item>es</item>
-        <item>lk</item>
-        <item>kn</item>
-        <item>lc</item>
-        <item>vc</item>
-        <item>sd</item>
-        <item>sr</item>
-        <item>sz</item>
-        <item>ch</item>
-        <item>sy</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tn</item>
-        <item>tr</item>
-        <item>tm</item>
-        <item>tt</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>us</item>
-        <item>uy</item>
-        <item>uz</item>
-        <item>ve</item>
-        <item>vn</item>
-        <item>ye</item>
-        <item>zm</item>
-        <item>zw</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Pantalla de bloqueo</item>

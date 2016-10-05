@@ -44,21 +44,6 @@
         <item>Sólo con Wi-Fi</item>
         <item>Siempre</item>
      </string-array>
-     <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>Korean (EUC-KR)</item>
-     </string-array>
-     <string-array name="pref_default_zoom_choices">
-        <item>Pequeño</item>
-        <item>Medio</item>
-        <item>Grande</item>
-     </string-array>
      <string-array name="pref_development_ua_choices">
         <item>Android</item>
         <item>Escritorio</item>
@@ -125,10 +110,5 @@
      <string-array name="pref_volume_key_choices">
         <item>Página anterior/Página siguiente</item>
         <item>Pestaña anterior/Pestaña siguiente</item>
-     </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
      </string-array>
 </resources>
