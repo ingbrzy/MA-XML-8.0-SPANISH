@@ -28,16 +28,6 @@
   <string name="cannot_startup_during_call">¡No se puede iniciar FM durante llamada!</string>
   <string name="confirm">Confirmar</string>
   <string name="correct">Aceptar</string>
-  <string name="default_audio">Estéreo</string>
-  <string name="default_band">Estados Unidos</string>
-  <string name="default_blank"/>
-  <string name="default_preset_list_name">FM Lista</string>
-  <string name="default_record"/>
-  <string name="default_record_duration">5 minutos</string>
-  <string name="default_search_category">Buscar</string>
-  <string name="default_search_category_type">Todas las estaciones</string>
-  <string name="default_sleep"/>
-  <string name="default_station">FM</string>
   <string name="delete_station_title">Eliminar</string>
   <string name="dialog_preset_rename_title">Introducir un nombre</string>
   <string name="dialog_presetlist_rename_title">Introducir un nombre</string>
@@ -50,7 +40,6 @@
   <string name="enter_sigth">Introducir señal Th</string>
   <string name="error">Error</string>
   <string name="error_sdcard_access">No se puede acceder a la tarjeta SD.</string>
-  <string name="fac_defaults">Volver a los valores de fábrica</string>
   <string name="factory_reset_dialog_message">Eliminará todas las configuraciones incluyendo los Programas</string>
   <string name="factory_reset_dialog_title">Confirmar el restablecimiento</string>
   <string name="find_af_station">Buscar</string>
@@ -162,8 +151,6 @@
   <string name="settings_menu">Configuraciones</string>
   <string name="settings_revert_confirm_msg">Eliminará todas las configuraciones incluyendo los Preajustes</string>
   <string name="settings_revert_confirm_title">Confirmar restablecer la configuración</string>
-  <string name="settings_revert_defaults_summary">Restablecimiento de todos los valores</string>
-  <string name="settings_revert_defaults_title">Volver a los valores de fábrica</string>
   <string name="sleep_toast">Close after %1$s</string>
   <string name="spaceIsLow_content">La tarjeta SD se está quedando sin espacio Cambie el ajuste de calidad o borrar algunas imágenes u otros archivos.</string>
   <string name="srch_params">Configurar RMSSI Delta</string>
