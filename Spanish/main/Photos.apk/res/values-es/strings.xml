@@ -107,6 +107,7 @@
   <string name="cpe_a11y_close">Cancelar</string>
   <string name="cpe_a11y_close_editor">Cerrar el editor</string>
   <string name="cpe_a11y_controls_tilt">Controla la inclinación.</string>
+  <string name="cpe_a11y_controls_tilt_value">Ángulo de inclinación: %1$d grados.</string>
   <string name="cpe_a11y_crop_auto">Recortar y enderezar automáticamente</string>
   <string name="cpe_a11y_crop_auto_done">Se ha aplicado automáticamente</string>
   <string name="cpe_a11y_crop_bottom_edge_moved">Se ha establecido el borde inferior: %1$d por ciento</string>
@@ -142,6 +143,7 @@
   <string name="cpe_a11y_filter_name_selected">filtro %s seleccionado</string>
   <string name="cpe_a11y_filter_selected">Está seleccionado %s</string>
   <string name="cpe_a11y_filter_slider">Con este control ajustas el filtro.</string>
+  <string name="cpe_a11y_filter_slider_value">Control del %1$d%%.</string>
   <string name="cpe_a11y_rotate">Girar 90 grados en el sentido contrario al de las agujas del reloj</string>
   <string name="cpe_a11y_rotate_done_180">Al revés que la original</string>
   <string name="cpe_a11y_rotate_done_270">90 grados a la derecha respecto a la original</string>
@@ -790,8 +792,10 @@ Aquí se muestran fotos y vídeos."</string>
   <string name="photos_mediadetails_caption_placeholder_hint">Añade una descripción</string>
   <string name="photos_mediadetails_details_map_content_description">Mapa de la ubicación en la que se hizo la foto</string>
   <string name="photos_mediadetails_details_title">Información</string>
+  <string name="photos_mediadetails_exif_focal_length_value">%.2f mm</string>
   <string name="photos_mediadetails_exif_header">Detalles</string>
   <string name="photos_mediadetails_exif_location">Ubicación</string>
+  <string name="photos_mediadetails_exif_pixels_value">%d MP</string>
   <string name="photos_mediadetails_save_caption_error">No se ha podido guardar el título</string>
   <string name="photos_mediadetails_unknown_error">No se han podido cargar los datos de la foto.</string>
   <string name="photos_onboarding_add_account">Añadir una cuenta</string>
