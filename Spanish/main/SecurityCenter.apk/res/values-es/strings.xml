@@ -94,7 +94,7 @@ o introduzca la contraseña de privacidad"</string>
   <string name="app_check_optimize_title">Optimizar actividades en segundo plano</string>
   <string name="app_check_reason_background_cpu">Actividad de fondo de la CPU</string>
   <string name="app_check_reason_background_gps">GPS funcionando en segundo plano</string>
-  <string name="app_check_reason_wakelock">No se ha establecido el tiempo para el apagado automático del sistema</string>
+  <string name="app_check_reason_wakelock">No se ha establecido el tiempo suspensión automática</string>
   <string name="app_check_reason_wakeup_alarm">Pantalla de bloqueo se despierta con frecuencia</string>
   <string name="app_check_reason_wifi_scan">Exploraciones WIFI frecuentes</string>
   <string name="app_check_sub_title_text">Optimizar aplicaciones para resolver los problemas con la batería</string>
@@ -131,11 +131,11 @@ o introduzca la contraseña de privacidad"</string>
   <string name="battery_charge_estimating">Calculando…</string>
   <string name="battery_charge_full">Cargado</string>
   <string name="battery_charging_prompt">Cargando</string>
-  <string name="battery_desc_apps">Batería usada por app</string>
+  <string name="battery_desc_apps">Batería usada por aplicación</string>
   <string name="battery_desc_bluetooth">Batería usada por Bluetooth</string>
   <string name="battery_desc_display">Batería usada por la pantalla y la retroiluminación</string>
-  <string name="battery_desc_other_apps">Energía consumida por otras aplicaciones</string>
-  <string name="battery_desc_radio">Batería usada por radio</string>
+  <string name="battery_desc_other_apps">Batería consumida por otras aplicaciones</string>
+  <string name="battery_desc_radio">Batería usada por la red</string>
   <string name="battery_desc_standby">Batería usada cuando el teléfono está inactivo</string>
   <string name="battery_desc_voice">Batería usada por llamadas de voz</string>
   <string name="battery_desc_wifi">Batería usada por Wi-Fi</string>
@@ -189,7 +189,7 @@ o introduzca la contraseña de privacidad"</string>
   <string name="btn_stop_diagnostic">Detener</string>
   <string name="btn_text_cleanup_all">Limpiar</string>
   <string name="btn_text_done">Hecho</string>
-  <string name="btn_text_goto_power_rank">Ver la clasificación de la batería</string>
+  <string name="btn_text_goto_power_rank">Ver aplicaciones que gastan más batería</string>
   <string name="btn_text_goto_setup">Ir a la configuración</string>
   <string name="btn_text_network_speed_detail">Conexión</string>
   <string name="btn_text_open_now">Activar</string>
@@ -198,7 +198,7 @@ o introduzca la contraseña de privacidad"</string>
   <string name="btn_text_power_cleanup">Limpieza a fondo</string>
   <string name="btn_text_quick_cleanup">Limpiar</string>
   <string name="btn_text_quick_optimize">Optimizar</string>
-  <string name="btn_text_quick_save_power">Enfriando</string>
+  <string name="btn_text_quick_save_power">Arreglar</string>
   <string name="btn_text_quick_scan">Escanear</string>
   <string name="btn_text_start_check">Escanear</string>
   <string name="btn_text_stop">Detener</string>
@@ -365,7 +365,7 @@ o introduzca la contraseña de privacidad"</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="empty_app">Sin aplicaciones</string>
-  <string name="empty_title_auto_start_list">No hay aplicaciones que puedan iniciarse automáticamente.</string>
+  <string name="empty_title_auto_start_list">Ninguna aplicación se inicia automáticamente.</string>
   <string name="empty_title_manual_item_white_list">Sin excepciones.</string>
   <string name="empty_title_perm_apps">No hay aplicaciones con este permiso.</string>
   <string name="empty_title_permission_apps_list">Sin aplicaciones.</string>
@@ -373,7 +373,7 @@ o introduzca la contraseña de privacidad"</string>
   <string name="empty_title_root_apps">Aun no hay aplicaciones con acceso root.</string>
   <string name="empty_title_system_cache_list">Caché del sistema vacía</string>
   <string name="empty_title_system_process_list">Sin procesos del sistema</string>
-  <string name="empty_title_virus_list">Sin virus</string>
+  <string name="empty_title_virus_list">No hay virus</string>
   <string name="enable_network">Activar primero la red</string>
   <string name="every_day">Todos los días</string>
   <string name="examination_score_100">¡Todo parece estar bien!</string>
@@ -616,7 +616,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="menu_item_notification_antispam_text_normal">Lista de bloqueo</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Error</string>
-  <string name="menu_item_notification_power_text">Energía</string>
+  <string name="menu_item_notification_power_text">Gestión de la batería</string>
   <string name="menu_item_notification_title">Mostrar menú en la barra de notificaciones</string>
   <string name="menu_item_settings_title">Ajustes</string>
   <string name="menu_item_shortcut_summary">Crear acceso directo de funciones en el escritorio</string>
@@ -843,7 +843,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_center_state_on">Encendido</string>
   <string name="power_center_time_to_boot">Activación programada</string>
   <string name="power_center_time_to_shutdown">Apagado programado</string>
-  <string name="power_center_title">Energía</string>
+  <string name="power_center_title">Gestión de la batería</string>
   <string name="power_chooser_check_box_summary">Seleccionar un perfil para mejorar la duración de la batería</string>
   <string name="power_chooser_check_box_title">Seleccionar perfil</string>
   <string name="power_chooser_mine_summary">Añadir perfil</string>
@@ -1141,7 +1141,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="quick_optimize_no_issue">No hay problemas con la batería</string>
   <string name="quick_optimize_no_issue_subtitle">Todo parece estar bien</string>
   <string name="quick_optimize_no_issue_title">No se encontraron problemas con la batería</string>
-  <string name="quick_optimize_sub_summary_text">Añadido %s de duración a la batería</string>
+  <string name="quick_optimize_sub_summary_text">La batería durará %s más</string>
   <string name="reach_daily_limit_value_body">Reducir el uso de datos móviles.</string>
   <string name="reach_daily_limit_value_title">Límite diario de datos alcanzada</string>
   <string name="recently_reject_message">Instalación de %1$s y %2$d otras aplicaciones rechazadas</string>
