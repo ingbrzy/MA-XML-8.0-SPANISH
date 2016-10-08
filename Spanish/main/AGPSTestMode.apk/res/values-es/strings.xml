@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agps_enable">Habilitar A-GPS</string>
-  <string name="agps_mode">Modo A-GPS</string>
-  <string name="agps_network">Permitir que la red inicie una solicitud</string>
-  <string name="agps_onoff">A-GPS Encendido/Apagado</string>
-  <string name="agps_position_mode">Modo de posición A-GPS</string>
+  <string name="agps_mode">Modo AGPS</string>
+  <string name="agps_network">Permitir que la Red Inicie una Solicitud</string>
+  <string name="agps_onoff">AGPS Encendido/Apagado</string>
+  <string name="agps_position_mode">Modo de Posición A-GPS</string>
   <string name="app_name">A-GPSTestMode</string>
   <string name="cmcc_logging">Ingreso CMCC</string>
   <string name="logging">Ingreso</string>
@@ -14,14 +14,14 @@
   <string name="position_mode_coldstart">Inicio frio</string>
   <string name="position_mode_hotstart">Inicio en caliente</string>
   <string name="position_mode_warmstart">Inicio cálido</string>
-  <string name="reset">Restaurar valores por defecto</string>
+  <string name="reset">Restaurar Valores por Defecto</string>
   <string name="save">Guardar</string>
-  <string name="secure_mode">Modo seguro</string>
+  <string name="secure_mode">Modo Seguro</string>
   <string name="slp_address">Dirección SLP:</string>
   <string name="slp_load">Cargar</string>
   <string name="slp_port">Puerto SLP:</string>
   <string name="slp_template">Planilla SLP</string>
   <string name="slp_templatechoose">Elegir Plantilla SLP</string>
   <string name="supl_logging">Ingreso SUPL</string>
-  <string name="user_plane_settings">Plano de ajustes de usuario</string>
+  <string name="user_plane_settings">Plano de Ajustes de Usuario</string>
 </resources>
