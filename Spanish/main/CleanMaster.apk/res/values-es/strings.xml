@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Publicidad</string>
   <string name="activity_title_apk">Paquetes</string>
   <string name="activity_title_brightness_image">Subexpuesta y sobreexpuesta</string>
@@ -76,6 +77,7 @@
   <string name="button_text_unselect_pic">Desmarcar</string>
   <string name="button_text_view_detail">Detalles</string>
   <string name="button_text_view_file">Archivo</string>
+  <string name="buy_a_new_phone">Actualización del almacenamiento</string>
   <string name="buy_immediately">Comprar</string>
   <string name="buy_traffic_pack">Comprar más datos</string>
   <string name="byteShort">B</string>
@@ -295,7 +297,6 @@
   <string name="pref_category_title_garbage_cleanup_check">Notificaciones</string>
   <string name="pref_category_title_other_clean_settings">Ajustes adicionales</string>
   <string name="pref_content_cleanup_white_list_none">Ninguno</string>
-  <string name="pref_section_auto_clean_and_alert">Limpiar automáticamente</string>
   <string name="pref_summary_auto_clean_and_alert">Programar el limpiador para ejecutarse automáticamente</string>
   <string name="pref_summary_auto_update_cleanup_db">Última actualización %s</string>
   <string name="pref_summary_cleanup_white_list">Evitar que se haga limpieza de las apps seleccionadas</string>
@@ -306,17 +307,14 @@
   <string name="pref_summary_garbage_process_mode">Configurar notificaciones para cuando se ejecute el limpiador</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Subir y comparar nombres de archivo desconocidos con definiciones online</string>
   <string name="pref_title_apps_cleanup_size">Cuando alcance el tamaño del caché</string>
-  <string name="pref_title_auto_clean_and_alert">Limpiar automáticamente</string>
   <string name="pref_title_auto_clean_content_choose">Seleccionar elementos a limpiar</string>
   <string name="pref_title_auto_update_cleanup_db">Actualizar automáticamente</string>
   <string name="pref_title_choose_engine">Definiciones</string>
   <string name="pref_title_cleanup_white_list">Excepciones</string>
   <string name="pref_title_expand_cache_group">Mostrar elementos en caché</string>
-  <string name="pref_title_garbage_auto_clean_content">Elementos para limpiar</string>
   <string name="pref_title_garbage_cleanup_check_size">Tamaño del límite de papelera</string>
   <string name="pref_title_garbage_cleanup_check_time">Programar</string>
   <string name="pref_title_garbage_cleanup_size">Tamaño límite de papelera</string>
-  <string name="pref_title_garbage_process_mode">Notificaciones</string>
   <string name="pref_title_manual_check_cleanup_db_update">Comprobar actualizaciones</string>
   <string name="pref_title_open_optimizer_cloud_scan">Cargar los nombres de los archivos</string>
   <string name="pref_title_open_optimizer_memory_scan">Escanear memoria de la aplicación</string>
@@ -337,6 +335,8 @@
   <string name="recommend_news">Fuentes recomendados</string>
   <string name="recommend_the_following">Lleve a cabo las siguientes acciones para obtener el máximo provecho de su dispositivo</string>
   <string name="recommended">Destacado</string>
+  <string name="remain_item_name_n7p"/>
+  <string name="remain_item_name_pamp"/>
   <string name="safety_check_detail">%1$d veces, ganados %2$d puntos</string>
   <string name="safety_rank">Cerca de %d%% usuarios de MIUI en términos de seguridad</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
