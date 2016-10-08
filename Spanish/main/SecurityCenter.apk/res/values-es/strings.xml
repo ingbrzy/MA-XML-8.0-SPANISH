@@ -744,6 +744,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optimize_result_button_open_now">Activar</string>
   <string name="optimize_result_button_purchase">Comprar</string>
   <string name="optimize_result_button_purchase_flow">Ver todo</string>
+  <string name="optimize_result_button_realname_now">Verificar</string>
   <string name="optimize_result_button_see_detaills">Detalles</string>
   <string name="optimize_result_button_to_open">Encende</string>
   <string name="optimize_result_button_to_set">Conjunto</string>
@@ -1265,6 +1266,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sp_back_title_text_zero">Seguro</string>
   <string name="sp_monitored_apps_count_zero">Todavía no hay aplicaciones de pago que estén protegidos</string>
   <string name="sp_monitored_apps_list_title">Ajustes de supervisión</string>
+  <string name="sp_network_privacy_dialog_message">"La aplicación de seguridad no puede comprobar los pagos porque se le ha restringido el acceso a Internet. ¿Permitir a seguridad conectarse a internet?"</string>
+  <string name="sp_network_privacy_dialog_title">"No se puede comprobar los pagos"</string>
   <string name="sp_safe_score_text">El pago es seguro</string>
   <string name="sp_scan_item_monitor">Monitor de pagos</string>
   <string name="sp_scan_item_url_antispam">Protección contra URL maliciosas</string>
@@ -1315,6 +1318,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_permission">Evite los pagos no deseados y proteja su información personal</string>
   <string name="summary_permission_root">Parece que este dispositivo tiene acceso a la raíz. Se puede dañar la seguridad de su dispositivo</string>
   <string name="summary_power_optimizer">Reduce el rendimiento de tu dispositivo cuando el nivel de batería esté bajo</string>
+  <string name="summary_realname_verify">Verificar su identidad para hacer pagos más seguros.</string>
   <string name="summary_show_notification">Limpiar caché, ver estado de batería y bloquear elementos en el panel de notificaciones</string>
   <string name="summary_telecom_operator">Obtén las estadísticas de uso de datos mensuales de tu operador</string>
   <string name="summary_usb">Prevenir la transmisión de malware a través de USB</string>
@@ -1455,6 +1459,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_permission_root">Acceso raíz</string>
   <string name="title_permission_yes">El administrador de permisos está activado</string>
   <string name="title_power_optimizer">Ahorro de batería</string>
+  <string name="title_realname_verify">verificación ID</string>
   <string name="title_show_notification">Widget de cortina de notificaciones</string>
   <string name="title_telecom_operator">Auto ajuste</string>
   <string name="title_usb_no">Depuración USB activada</string>
