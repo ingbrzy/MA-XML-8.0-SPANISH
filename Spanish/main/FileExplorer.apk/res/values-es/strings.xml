@@ -182,10 +182,9 @@
   <string name="flow_setting">Ajustes</string>
   <string name="folder_name_empty">El nombre de la carpeta no puede estar vacío</string>
   <string name="folder_name_illegal">Nombre de carpeta no válido</string>
-  <string name="folder_name_invalid">Los nombres de carpetas no pueden contener los siguientes caracteres: /\\:*?&lt;&gt;</string>
   <string name="found_router">Router conectado</string>
   <string name="found_usb">Almacenamiento por USB conectado</string>
-  <string name="ftp_account_req_notice">4-16 caracteres, letras y números, mayúsculas y minúsculas</string>
+  <string name="ftp_account_req_notice">4–16 caracteres, letras y números, mayúsculas y minúsculas</string>
   <string name="ftp_anonymous_login">Inicio de sesión anónimo</string>
   <string name="ftp_invalid_username_or_password">Contraseña o nombre de usuario no válido.</string>
   <string name="ftp_open_port_error">No se pudo abrir el puerto. Comprueba tu conexión de red o restablece el número del puerto.</string>
@@ -409,12 +408,13 @@
   <string name="phone_valid_code_tip">El código ha sido ingresado tantas veces, que ahora debes obtener uno nuevo</string>
   <string name="pick_file">Elegir archivos</string>
   <string name="pick_folder">Elegir carpeta</string>
+  <string name="popup_msg_qq">Comparte este vídeo con tus amigos de QQ.</string>
+  <string name="popup_msg_wx">Comparte este vídeo con tus amigos de WeChat.</string>
   <string name="port_range">El puerto debe estar entre 1024 y 65535</string>
   <string name="private_files">Ocultos</string>
   <string name="private_folder">Carpeta oculta</string>
   <string name="private_folder_no_file_hints">No hay archivos ocultos.</string>
   <string name="private_folder_update">Actualizando archivos ocultos…</string>
-  <string name="private_toast_hint1">Toca para añadir archivos a carpetas ocultas</string>
   <string name="private_toast_hint2">Para ocultar un archivo, pulsa y mantén, después añádelo a una carpeta oculta.</string>
   <string name="private_toast_hint3">Deslice para abrir las carpetas ocultas</string>
   <string name="promot_enctypt_password">Introduce la contraseña utilizada para desbloquear tu dispositivo o apagar el Modo niño</string>
@@ -499,6 +499,10 @@
   <string name="setting_message_notify">Notificaciones</string>
   <string name="share_title_1">¡Encontrado nuevo paquete de pegatinas!</string>
   <string name="share_to">Compartir a…</string>
+  <string name="share_youliao1">Actualizar para ver más episodios.</string>
+  <string name="share_youliao2">Actualizar para ver más episodios.</string>
+  <string name="share_youliao3">Actualizar para ver más episodios.</string>
+  <string name="share_youliao4">Actualizar para ver más episodios.</string>
   <string name="shared_sticker_network_permission_tip">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
   <string name="shared_sticker_page_no_file">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
   <string name="shared_sticker_str">Compartidos por fans de Mi</string>
@@ -559,6 +563,7 @@
   <string name="unlogin">Registrese primero</string>
   <string name="unmount_inform_text">¿Desmontar el almacenamiento USB?</string>
   <string name="unreviewed_video_cannot_share">Los videos han de ser reseñados antes de ser compartidos</string>
+  <string name="update">Actualizar</string>
   <string name="update_loading">Guardando…</string>
   <string name="upload_avatar_camera">Cámara</string>
   <string name="upload_avatar_failed">"No se puede subir, intentelo de nuevo"</string>
@@ -580,6 +585,12 @@
   <string name="upload_notification_success_content">Tu video debe ser reseñado antes de ser compartido con otras personas</string>
   <string name="upload_notification_title">Subiendo video</string>
   <string name="upload_user_photo">Subir</string>
+  <string name="upload_video_failed">"No se pudo subir"</string>
+  <string name="upload_video_failed_external_progress">"No se pudo subir, probar una vez más"</string>
+  <string name="upload_video_failed_progress">"No se pudo subir, vuelve a intentarlo"</string>
+  <string name="upload_video_forbidden">No subas el mismo video</string>
+  <string name="upload_video_success">Subido correctamente</string>
+  <string name="upload_video_success_progress">Subido correctamente</string>
   <string name="upload_video">Compartir video</string>
   <string name="upload_video_dialog_message">El vídeo será presentado después de ser comprobado.</string>
   <string name="upload_video_dialog_title">Video compartido</string>
@@ -635,12 +646,12 @@
   <string name="video_comment_hint">Seleccionar tema</string>
   <string name="video_comment_limit">%1$s carácteres restantes</string>
   <string name="video_comment_publish">Incribir</string>
-  <string name="video_comment_title">Descripción</string>
   <string name="video_comment_topic">\#Añadir tópicoc#</string>
   <string name="video_data_consumption_cancel">Cancelar</string>
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">Subir va a requerir %1$s de datos móviles</string>
   <string name="video_data_consumption_dialog_title">Aviso de uso de datos</string>
+  <string name="video_description">Descripción del video</string>
   <string name="video_parse_btn">Comenzar</string>
   <string name="video_parse_error_unknown">"Este enlace no es compatible, pruebe con otro."</string>
   <string name="video_parse_hint">Servicios soportados: WeChat, Weibo, Youku.</string>
@@ -649,6 +660,8 @@
   <string name="video_parsing_btn">Analizando…</string>
   <string name="video_play_failed">Error desconocido</string>
   <string name="video_publish_hint">Una buena descripción ayudará a que otras personas encuentren tu video</string>
+  <string name="video_publish_hint2">Descripción</string>
+  <string name="video_recommend_upload">Recomendado</string>
   <string name="video_status_reject">Rechazado</string>
   <string name="video_status_review">Siendo reseñado</string>
   <string name="video_tag">\#%s#</string>
@@ -658,12 +671,16 @@
   <string name="video_topic_hint">Buscar</string>
   <string name="video_upload_btn">Siguiente</string>
   <string name="video_upload_btn_hint">Los videos MP$ deberan tener de 3s~10min de duración</string>
+  <string name="video_upload_hint">Subir vídeos promocionados para ganar más puntos.</string>
   <string name="video_upload_item_more">Más (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
+  <string name="video_upload_kuaishou_hint">Sube vídeos a KuaiShou para conseguir más fans.</string>
   <string name="video_upload_retry_confirm">Intentar de nuevo</string>
   <string name="video_upload_retry_message">No se ha podido subir, ¿intentar de nuevo?</string>
   <string name="video_upload_retry_title">Intentar de nuevo</string>
   <string name="video_upload_title">Seleccionar video</string>
+  <string name="video_upload_wechat_hint">Sube vídeos a WeChat para conseguir más fans.</string>
+  <string name="video_uploaded">Subido</string>
   <string name="view_more_sticker">Ver más pegatinas</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
@@ -681,6 +698,13 @@
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ayer</string>
+  <string name="youliao_ad_msg">"Ahora estas actualizado a la versión completa de la aplicación, ¡Diviértete!
+ viéndolo con 170 millones de seguidores de Mi."</string>
+  <string name="youliao_ad_title">¡Vídeos del momento se ha actualizado a la versión completa!</string>
+  <string name="youliao_ad_update">Actualizar</string>
+  <string name="youliao_dialog_msg">"Vídeos del momento se ha actualizado a \"Youliao\", 
+ actualizar a la versión completa de la aplicación, ver más."</string>
+  <string name="youliao_dialog_title">¿No hay vídeos interesantes?</string>
   <string name="zero">0</string>
   <string name="zero_comment">No hay comentarios</string>
 </resources>
