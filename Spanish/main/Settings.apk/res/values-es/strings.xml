@@ -231,7 +231,6 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="app_link_open_never">No abrir en esta aplicación</string>
   <string name="app_list_memory_use">Uso de las aplicaciones</string>
   <string name="app_list_preference_none">Ninguna</string>
-  <string name="app_lock_role_instruction">Proteja sus aplicaciones privadas</string>
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">No se ha encontrado la aplicación en la lista de aplicaciones instaladas.</string>
@@ -846,7 +845,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="confirm_new_backup_pw_prompt">Vuelve a escribir aquí la nueva contraseña de la copia de seguridad completa.</string>
   <string name="confirm_privacy_password">Introduzca contraseña de privacidad</string>
   <string name="confirm_privacy_password_fingerprint">Escanee su huella o introduzca contraseña de privacidad</string>
-  <string name="confirm_privacy_password_instruction">Esta contraseña protege aplicaciones, mensajes, fotos y contactos.</string>
+  <string name="confirm_privacy_password_instruction">Esta contraseña protege mensajes, fotos y contactos.</string>
   <string name="confirm_reset_aaid">De acuerdo</string>
   <string name="connect_to_internet">Conectarse a la red</string>
   <string name="connected_via_passpoint">Conectado a través de %1$s</string>
@@ -2795,7 +2794,7 @@ Seleccione su sistema operativo:"</string>
   <string name="privacy_password_fingerprint_dialog_message">Ponga su dedo en el sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Escanear su huella dactilar</string>
   <string name="privacy_password_settings">Usar contraseña de privacidad</string>
-  <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos, notas y aplicaciones.</string>
+  <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos y notas.</string>
   <string name="privacy_password_title">Contraseña de privacidad</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Mostrar patrón</string>
