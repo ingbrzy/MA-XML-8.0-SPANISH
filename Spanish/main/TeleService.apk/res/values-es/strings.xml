@@ -239,6 +239,7 @@
   <string name="cfnrc_title_cta">Desviar cuando no esté disponible</string>
   <string name="cfnry_title">Desviar cuando no se responda la llamada</string>
   <string name="cfu_title">Desviar siempre las llamadas</string>
+  <string name="change_data_preference_4g_only_prompt">Parece que tienes una SIM que sólo soporta 4G. ¿Establecer por defecto para datos móviles?</string>
   <string name="change_default_data_card">SIM por defecto para datos móviles</string>
   <string name="change_default_data_card_summary">Parece que cambió las tarjetas SIM. ¿Desea establecer esta tarjeta SIM como predeterminada para su conexión de datos móviles?</string>
   <string name="change_num">Actualizar</string>
@@ -637,7 +638,7 @@ Recargar y empezar a hablar"</string>
   <string name="livetalk_terms_conditions">Términos y Condiciones</string>
   <string name="livetalk_unavaiable_info">Este servicio no está disponible temporalmente</string>
   <string name="livetalk_user_config_title">Comprobar número telefónico</string>
-  <string name="livetalk_welcome_description_text">"• Ahorre hasta un 70% en sus llamadas. 
+  <string name="livetalk_welcome_description_text">"• Ahorre hasta un 70% en sus llamadas.
 • Llame a cualquier número en el mundo, sin restricciones de operador.
  • Cargue y empiece a llamar, no tiene ajustes complicados."</string>
   <string name="livetalk_welcome_notes_text">Nota: Cada llamada requiere 1 KB de datos móviles; Números de servicio y números cortos no son compatibles. Si usted paga por las llamadas entrantes, su compañía puede cobrarle cuando la itinerancia esté activada. Su compañía puede cobrarle un SMS que se enviará para verificar este número de teléfono.</string>
@@ -697,6 +698,7 @@ Recargar y empezar a hablar"</string>
   <string name="msim_disable_sim_card_btn_text">Aceptar</string>
   <string name="msim_disable_sim_card_summary_default_card">Esta tarjeta está actualmente establecida como SIM predeterminada. Si deja de usarla, no podrá realizar llamadas ni utilizar su conexión de datos móviles. Puede detener esta tarjeta SIM después de establecer otra SIM como tarjeta predeterminada.</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Es posible que no pueda realizar llamadas o utilizar su conexión de datos móviles. ¿Dejar de usar %s la tarjeta SIM?</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"No restrinjas la retrollamada de tu SIM secundaria en caso de emergencia."</string>
   <string name="msim_disable_sim_card_title">Dejar de usar la tarjeta SIM</string>
   <string name="msim_enable_sim">Activar</string>
   <string name="msim_general_setting">Configuración</string>
@@ -873,12 +875,12 @@ Usando red preferida."</string>
   <string name="ota_title_activate">Activar tu teléfono</string>
   <string name="ota_title_activate_success">Télefono activado correctamente.</string>
   <string name="ota_title_problem_with_activation">No se pudo activar</string>
-  <string name="ota_touch_activate">"Es necesario realizar una llamada especial para activar el servicio telefónico. 
+  <string name="ota_touch_activate">"Es necesario realizar una llamada especial para activar el servicio telefónico.
 
 Tras pulsar \"Activar\", escucha las instrucciones sobre cómo activar el teléfono."</string>
   <string name="ota_try_again">Reintentar</string>
-  <string name="ota_unsuccessful">"El teléfono no se ha activado. 
-Es posible que tengas que situarte en una zona con más cobertura (cerca de una ventana o en el exterior). 
+  <string name="ota_unsuccessful">"El teléfono no se ha activado.
+Es posible que tengas que situarte en una zona con más cobertura (cerca de una ventana o en el exterior).
 
 Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente para consultar otras opciones."</string>
   <string name="other">Otros</string>
