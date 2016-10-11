@@ -16,8 +16,8 @@
   <string name="access_control_need_password">"%s añadido exitosamente
 "</string>
   <string name="access_control_need_to_unlock">"Escanee su huella dactilar
-o introduzca la contraseña de privacidad"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Introduzca la contraseña de privacidad</string>
+o introduzca la contraseña de bloqueo de Aplicación"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Introduzca contraseña de bloqueo de Aplicación</string>
   <string name="access_control_recording_intro_header">Dibuje el patrón para añadir el bloqueo de aplicaciones</string>
   <string name="access_control_reset_by_account">Acceda a su Cuenta Mi para restablecer la contraseña</string>
   <string name="action_button_text_100">Optimizar</string>
@@ -124,7 +124,61 @@ o introduzca la contraseña de privacidad"</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Compruebe la aplicación de mensajería</string>
   <string name="apps_list_header_title_sms_access">Restringir el acceso a los códigos de verificación</string>
+  <string name="auto_atsk_condition_battery_level_text_down">Cuando la batería alcanza %s</string>
+  <string name="auto_atsk_condition_battery_level_text_up">Cuando la batería se carga a %s</string>
   <string name="auto_handle_title">GENERAL</string>
+  <string name="auto_task_condition_choose_battery_level_down">Cuando la batería alcanza un cierto nivel</string>
+  <string name="auto_task_condition_choose_battery_level_up">Cuando la batería se carga a un cierto nivel</string>
+  <string name="auto_task_condition_choose_end_time">Tiempo final</string>
+  <string name="auto_task_condition_choose_ontime">Temporizador</string>
+  <string name="auto_task_condition_choose_start_time">Hora de inicio</string>
+  <string name="auto_task_condition_choose_time_duration">Fijar tiempo</string>
+  <string name="auto_task_condition_number_pick_title">Establecer estado de la batería</string>
+  <string name="auto_task_condition_restore_task_when_charged">Cambiar al modo anterior después de la carga</string>
+  <string name="auto_task_condition_time_duration_text">De %1$s a %2$s</string>
+  <string name="auto_task_condition_time_pick_title">Ajustar el temporizador</string>
+  <string name="auto_task_condition_time_text">A las %s</string>
+  <string name="auto_task_dialog_button_close">Hecho</string>
+  <string name="auto_task_edit_abandon_change">¿Descartar cambios?</string>
+  <string name="auto_task_edit_activity_title">Mis tareas automáticas</string>
+  <string name="auto_task_edit_adandon_button_text">Descarte</string>
+  <string name="auto_task_edit_choose_condition_title">Seleccione la condición</string>
+  <string name="auto_task_edit_choose_new_operation">Añadir acción</string>
+  <string name="auto_task_edit_choose_operation_title">Seleccione la acción</string>
+  <string name="auto_task_edit_condition_summary">Por ejemplo, \"A las 23:00\"</string>
+  <string name="auto_task_edit_condition_title">Añadir condición</string>
+  <string name="auto_task_edit_my_custom_task">Nombre</string>
+  <string name="auto_task_edit_operation_summary">Por ejemplo, \"Encender en Modo Avión\"</string>
+  <string name="auto_task_edit_task_name">Nombre</string>
+  <string name="auto_task_main_summary">Cambiar la configuración del sistema para determinados períodos de tiempo o de acuerdo con el nivel de batería</string>
+  <string name="auto_task_main_title">Tareas automáticas</string>
+  <string name="auto_task_mamange_activity_title">Opciones</string>
+  <string name="auto_task_manage_delete_prompt">¿Eliminar tareas seleccionadas?</string>
+  <string name="auto_task_manager_group_title">Mis tareas automáticas</string>
+  <string name="auto_task_notify_do_task_title">Tarea automática iniciada</string>
+  <string name="auto_task_notify_exit_task_title">Tarea automática finalizada</string>
+  <string name="auto_task_operation_airplane_mode">Modo avión</string>
+  <string name="auto_task_operation_auto_brightness">Brillo automático</string>
+  <string name="auto_task_operation_bluetooth">Bluetooth</string>
+  <string name="auto_task_operation_brightness">Brillo de la pantalla</string>
+  <string name="auto_task_operation_close">Off</string>
+  <string name="auto_task_operation_close_string">Apagar %s</string>
+  <string name="auto_task_operation_gps">GPS</string>
+  <string name="auto_task_operation_lockscreen_time">Bloquear pantalla</string>
+  <string name="auto_task_operation_memory_clean_lockscreen">Limpiar memoria</string>
+  <string name="auto_task_operation_mobile_data">Datos móviles</string>
+  <string name="auto_task_operation_modify_string">Editar %s</string>
+  <string name="auto_task_operation_mute">Modo silencio</string>
+  <string name="auto_task_operation_no_op">"No seleccionar esta acción"</string>
+  <string name="auto_task_operation_open">On</string>
+  <string name="auto_task_operation_open_string">Encender %s</string>
+  <string name="auto_task_operation_string_comma">,</string>
+  <string name="auto_task_operation_string_etc">, etc.</string>
+  <string name="auto_task_operation_string_modify">Editar</string>
+  <string name="auto_task_operation_string_split">;</string>
+  <string name="auto_task_operation_sync">Sincronizar</string>
+  <string name="auto_task_operation_vibration">Vibración</string>
+  <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back">Atrás</string>
   <string name="background_traffic">Segundo plano %s</string>
   <string name="battery_capacity_title">Capacidad de la batería</string>
@@ -245,6 +299,8 @@ o introduzca la contraseña de privacidad"</string>
   <string name="card_main_deepclean_action">Limpiar</string>
   <string name="card_main_deepclean_summary">Eliminar archivos innecesarios</string>
   <string name="card_main_deepclean_title">Limpieza profunda</string>
+  <string name="card_main_gamebooster_summary">Aumentar velocidad &amp; mejorar la experiencia de juego</string>
+  <string name="card_main_gamebooster_title">Aumentar la velocidad de juego</string>
   <string name="card_main_monthreport_action">Ver</string>
   <string name="card_main_monthreport_summary">Ver informes mensuales</string>
   <string name="card_main_monthreport_title">Estadísticas de seguridad</string>
@@ -275,6 +331,7 @@ o introduzca la contraseña de privacidad"</string>
   <string name="cmcc_app_check_dialog_negative">Más tarde</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar ahora</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
+  <string name="confirmSecondSpacePassword">Confirmar la contraseña del Segundo Espacio</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Añadiendo Cuenta Mi</string>
   <string name="confirm_fingerprint_msg">Coloque su dedo en el sensor</string>
   <string name="confirm_reject_all_permission">¿Restringir todas las aplicaciones utilizando esta característica?</string>
@@ -1223,7 +1280,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="scanning_bar_system_title">Escaneando el sistema…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="section_clear_acc_item_title">"Liberado %s. Si todavía no hay suficiente espacio de almacenamiento, intente utilizar el limpiador."</string>
+  <string name="section_clear_acc_item_title">"%s. Si todavía no hay suficiente espacio de almacenamiento, intente utilizar el Limpiador"</string>
   <string name="section_security_defend_item_title">Proteja sus datos con el bloqueo de aplicaciones</string>
   <string name="section_system_item_fixed">Arreglado</string>
   <string name="section_title_clear_acc">Limpiar cache</string>
@@ -1235,7 +1292,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="see_detail">Detalles</string>
   <string name="select_pattern">Seleccione el patrón</string>
   <string name="set_applock_password">Establecer contraseña</string>
-  <string name="setting_privacy_password">Establecer la contraseña de privacidad</string>
+  <string name="setting_privacy_password">Establecer la contraseña de bloqueo de Aplicación</string>
   <string name="settings">Ajustes de uso de datos</string>
   <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería se esté drenando rápido</string>
   <string name="settings_battery_consume_abnormal_title">Notificaciones de descarga de la batería</string>
@@ -1266,8 +1323,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sp_back_title_text_zero">Seguro</string>
   <string name="sp_monitored_apps_count_zero">Todavía no hay aplicaciones de pago que estén protegidos</string>
   <string name="sp_monitored_apps_list_title">Ajustes de supervisión</string>
-  <string name="sp_network_privacy_dialog_message">"La aplicación de seguridad no puede comprobar los pagos porque se le ha restringido el acceso a Internet. ¿Permitir a seguridad conectarse a internet?"</string>
-  <string name="sp_network_privacy_dialog_title">"No se puede comprobar los pagos"</string>
+  <string name="sp_network_privacy_dialog_message">"La aplicación de seguridad no puede comprobar los pagos porque se le ha restringido el acceso a Internet. ¿Permitir a Seguridad conectarse a internet?"</string>
+  <string name="sp_network_privacy_dialog_title">No se puede comprobar los pagos</string>
   <string name="sp_safe_score_text">El pago es seguro</string>
   <string name="sp_scan_item_monitor">Monitor de pagos</string>
   <string name="sp_scan_item_url_antispam">Protección contra URL maliciosas</string>
@@ -1290,6 +1347,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="suffix_virus_count_top">riesgos</string>
   <string name="suggest_app_tolock">Sugerencias</string>
   <string name="summary_app_lock_disable">Proteja sus datos con el bloqueo de aplicaciones</string>
+  <string name="summary_auto_update">MIUI seleccionará el momento más adecuado para descargar e instalar actualizaciones.</string>
   <string name="summary_cleaner_cloudscan">Subir y comprar nombres de carpetas con definiciones en línea</string>
   <string name="summary_cloud_account">Aprovecha al máximo tu dispositivo Mi</string>
   <string name="summary_cloud_service">Sincroniza tus fotos, contactos y más entre todos tus dispositivos</string>
@@ -1426,6 +1484,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tips_message">Para ver los detalles de su plan de datos, marque %2$s (%1$s).</string>
   <string name="title_app_lock_disable">Bloquear aplicaciones</string>
   <string name="title_app_update">Actualizaciones disponibles</string>
+  <string name="title_auto_update">Actualizar automáticamente</string>
   <string name="title_cleaner_cloudscan">Escanear papelera de reciclaje de la nube</string>
   <string name="title_cloud_account">Cuenta Mi</string>
   <string name="title_cloud_service">Mi Cloud</string>
@@ -1459,7 +1518,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_permission_root">Acceso raíz</string>
   <string name="title_permission_yes">El administrador de permisos está activado</string>
   <string name="title_power_optimizer">Ahorro de batería</string>
-  <string name="title_realname_verify">Verificación de la ID</string>
+  <string name="title_realname_verify">Verificación del ID</string>
   <string name="title_show_notification">Widget de cortina de notificaciones</string>
   <string name="title_telecom_operator">Auto ajuste</string>
   <string name="title_usb_no">Depuración USB activada</string>
