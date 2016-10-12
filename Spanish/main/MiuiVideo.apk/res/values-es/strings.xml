@@ -32,6 +32,7 @@
   <string name="all">todo</string>
   <string name="all_ep">Todos ep</string>
   <string name="all_episode">Todos los episodios</string>
+  <string name="already_buy_vip">ya ha comprado vip</string>
   <string name="app_charging_wifi_mode">Cargando para actualizar la aplicación</string>
   <string name="app_charging_wifi_mode_summary">Actualizar automáticamente cuando esté conectado a Wi-Fi y cargándose</string>
   <string name="app_latest_version">Ya está utilizando la última versión de la aplicación</string>
@@ -116,6 +117,7 @@
   <string name="disk_volume">Almacenamiento extraíble</string>
   <string name="dlna_list_name">Dispositivo DLNA</string>
   <string name="dlna_name">Dispositivo compartido</string>
+  <string name="do_not_buy_vip">no compre vip</string>
   <string name="douban_score">Puntuación</string>
   <string name="download">Descargar</string>
   <string name="download_add_success">Añadido a la cola de descargas</string>
@@ -146,6 +148,8 @@
   <string name="error_empty_filter_title">No hay resultados</string>
   <string name="error_empty_live_favor">Sin lista de canales de televisión</string>
   <string name="error_empty_title">Algo salió mal</string>
+  <string name="expire_time">tiempo de expiración</string>
+  <string name="expired_buy_vip">vip ya ha expirado</string>
   <string name="favorite">Favorito</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">Error de archivo</string>
@@ -154,9 +158,10 @@
   <string name="finish_install">Instalado con éxito</string>
   <string name="forecast">Previo</string>
   <string name="forecast_empty_hint">Vacío</string>
-  <string name="forecasts">Previos</string>
+  <string name="forecasts">EPG</string>
   <string name="fullscreen">Pantalla completa</string>
   <string name="funshion">Fundir</string>
+  <string name="go_to_cinema">ir al cine</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ge">%d total</string>
   <string name="gong_count_ji">%d Ep. total</string>
@@ -216,7 +221,11 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Para enviar comentarios, inicia sesión con tu cuenta de Mi</string>
   <string name="no_longer_tips">"No mostrar de nuevo"</string>
+  <string name="no_pay_record">sin registro de pago</string>
   <string name="no_sdcard_no_download">No hay suficiente espacio, error al solicitar la descarga.</string>
+  <string name="no_vip_product">no soporta servicios vip</string>
+  <string name="not_buy_vip">no vip</string>
+  <string name="not_exist_openid">obteniendo información de cuenta, por favor espere...</string>
   <string name="not_login">No se ha iniciado sesión</string>
   <string name="notification_sub_title">Total %d tarea de descarga(s) completada</string>
   <string name="notification_ticker_text">Sin conexión de vídeo completar la descarga</string>
@@ -316,6 +325,8 @@
   <string name="share_device">Dispositivo compartido</string>
   <string name="similar">Película similar</string>
   <string name="sina">Sina</string>
+  <string name="single_pay">pago único</string>
+  <string name="sniff">Fuente</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">No se ha podido conseguir la fuente</string>
   <string name="star1">1 estrella</string>
@@ -378,6 +389,9 @@
   <string name="video_plugin">Plugin de vídeo</string>
   <string name="video_plugin_downloading">Descargando (%1$s)</string>
   <string name="video_plugin_prepare">Preparando plugin de vídeo, por favor espere.</string>
+  <string name="video_vip">vip</string>
+  <string name="vip_package">paquete vip</string>
+  <string name="vip_rights">Derechos Vip e intereses</string>
   <string name="vp_VideoView_error_button">Aceptar</string>
   <string name="vp_VideoView_error_network_not_available">"No se puede conectar a la red"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Este tipo de archivo no es compatible."</string>
