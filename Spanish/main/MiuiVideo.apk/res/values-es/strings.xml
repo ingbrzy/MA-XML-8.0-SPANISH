@@ -4,6 +4,7 @@
   <string name="about_title">Acerca de</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Código de versión</string>
+  <string name="account_auth_fail">fallo autenticación de la cuenta</string>
   <string name="actor">Actor</string>
   <string name="actor_intro">Acerca de</string>
   <string name="ad_countdown">%ss restante</string>
@@ -18,6 +19,7 @@
   <string name="adjust_position_prev_media_notice">Último</string>
   <string name="ads_control">Control de anuncios</string>
   <string name="ads_control_desc">Muestra anuncios cuando se inicia la aplicación</string>
+  <string name="ads_ignore">Ignorar</string>
   <string name="airkan_control_device_des">Para controlar la reproducción, toque la barra inferior</string>
   <string name="airkan_device_xiaomi_phone">Mi</string>
   <string name="airkan_playing">emitiendo</string>
@@ -56,6 +58,7 @@
   <string name="bmp_quality_mode_desc">Mejorar calidad de imágen del vídeo</string>
   <string name="buffering">Cargando búfer…</string>
   <string name="buffering_video_netplay_label_v5">Cargando búfer…</string>
+  <string name="buy_vip">compra vip</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_favorite_success">Desmarcado de favoritos</string>
   <string name="check_app_version">Comprobando la última versión...</string>
@@ -107,6 +110,7 @@
   <string name="delete_addon">Eliminar</string>
   <string name="delete_addon_content">¿Eliminar este elemento?</string>
   <string name="delete_with">Borrar (%d)</string>
+  <string name="detail">Detalle</string>
   <string name="detail_comment_empty">Vacío</string>
   <string name="develop_version">Aplicación de desarrollo</string>
   <string name="development_setting">Opciones de desarrollo</string>
@@ -143,8 +147,10 @@
   <string name="empty_data">Error al cargar</string>
   <string name="empty_keyword_hint">La palabra clave no puede estar vacía</string>
   <string name="empty_tv_exiting">Saliendo…</string>
+  <string name="enter_detail">Más información</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
+  <string name="error_empty_epg">No hay información EPG</string>
   <string name="error_empty_filter_title">No hay resultados</string>
   <string name="error_empty_live_favor">Sin lista de canales de televisión</string>
   <string name="error_empty_title">Algo salió mal</string>
@@ -172,6 +178,7 @@
   <string name="hint_apk_install">Descargar aplicación</string>
   <string name="hint_apk_text_update">Nueva versión de la aplicación %1$s disponible, ¿quiere actualizar?</string>
   <string name="hint_apk_title_update">Nueva versión %1$s</string>
+  <string name="i_will_write_comments">Escriba sus comentarios aquí</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Cargando…</string>
   <string name="init">Iniciar</string>
@@ -185,6 +192,7 @@
   <string name="lastrefresh">Actualización reciente:</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
+  <string name="live">Directo</string>
   <string name="loading">&lt;CDATA&gt;Cargando&lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">Cargando…</string>
   <string name="loading_video_netplay_label_v5">Cargando…</string>
@@ -227,6 +235,7 @@
   <string name="not_buy_vip">no vip</string>
   <string name="not_exist_openid">obteniendo información de cuenta, por favor espere...</string>
   <string name="not_login">No se ha iniciado sesión</string>
+  <string name="notification_default_title">Video offline</string>
   <string name="notification_sub_title">Total %d tarea de descarga(s) completada</string>
   <string name="notification_ticker_text">Sin conexión de vídeo completar la descarga</string>
   <string name="notification_title">\"%1$s\" completar la descarga</string>
@@ -244,6 +253,7 @@
   <string name="offline_loading">Local</string>
   <string name="offline_max_promote">Esperando caché, como máximo se pueden ejecutar dos tareas de caché al mismo tiempo.</string>
   <string name="offline_media_empty_title">Vacío</string>
+  <string name="offline_no_avail_item_hint">No hay episodios disponibles para descargar</string>
   <string name="offline_no_selected_item_hint">Elige un vídeo</string>
   <string name="offline_no_source">"No se puede reproducir en modo local"</string>
   <string name="offline_setting">Medios locales</string>
@@ -257,12 +267,16 @@
   <string name="online_video">En línea</string>
   <string name="online_video_oneweek">Durante la última semana</string>
   <string name="online_video_oneweek_ago">Hace una semana</string>
+  <string name="open_in_browser">Abrir en Navegador</string>
   <string name="operator_test">Configuración del operador</string>
   <string name="operator_test_summary">Arrancar en modo operador test</string>
+  <string name="original_price">precio original</string>
+  <string name="other_info">Otro</string>
   <string name="other_setting">Otros</string>
   <string name="path_develop_settings">Video/Ajustes/Ajustes de Desarrollo</string>
   <string name="path_settings">Video/Ajustes</string>
   <string name="pause">Pausar</string>
+  <string name="pay_record">registro de pago</string>
   <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Mejorar rendimiento del reproductor</string>
   <string name="performance_mode_desc">Maximizar rendimiento del reproductor de vídeo</string>
@@ -296,6 +310,7 @@
   <string name="reload_sub_title">Pulse la pantalla para reintentar</string>
   <string name="reload_title">"No se puede conectar a la red"</string>
   <string name="reload_title_ep">No se pueden obtener las series completas</string>
+  <string name="replay">Repetir</string>
   <string name="retry">Reintentar</string>
   <string name="router">Remoto local</string>
   <string name="router_download_task_with">%d tareas</string>
@@ -309,6 +324,7 @@
   <string name="search_hint">Buscar vídeo en línea</string>
   <string name="search_result_empty_text">"No se ha encontrado nada"</string>
   <string name="search_settings">Ajustes de Video;Red Movil;Wifi;reproducir Video;Push;Notificación;Cache;Ajustes de desarrollo</string>
+  <string name="search_snack_more">Más Información</string>
   <string name="second"> Segundo</string>
   <string name="see_all_count_comment">%d comentarios más</string>
   <string name="select_all">Seleccionar todo</string>
@@ -337,6 +353,7 @@
   <string name="start_addon">iniciar plugin</string>
   <string name="storage_remain">"Disponible: "</string>
   <string name="storage_total">"Espacio total: "</string>
+  <string name="subscribe">Suscribir</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">Ajustes de sistema</string>
   <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
@@ -399,6 +416,8 @@
   <string name="vp_VideoView_error_title">Error desconocido</string>
   <string name="vp_adapt_height">Ajustar altura</string>
   <string name="vp_adapt_width">Ajuste anchura</string>
+  <string name="vp_app_download">Descarga de aplicación</string>
+  <string name="vp_app_name">Reproductor de Video</string>
   <string name="vp_audio">Volumen</string>
   <string name="vp_auto_select">Selección automática</string>
   <string name="vp_back">Atrás</string>
@@ -414,8 +433,10 @@
   <string name="vp_datastream_alert_positive_button">Continuar</string>
   <string name="vp_datastream_alert_title">Aviso de uso de datos</string>
   <string name="vp_device_list">Dispositivos</string>
+  <string name="vp_download_apk_from_video_ad">Instalar la aplicación</string>
   <string name="vp_download_connect_fail">"No se encontró la URL."</string>
   <string name="vp_download_file_fail">"Descarga fallida. Asegúrese de que tiene suficiente espacio en su dispositivo."</string>
+  <string name="vp_downloading_apk_title">Descargando %1$s</string>
   <string name="vp_exit">Salir</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Pantalla completa</string>
@@ -469,6 +490,7 @@
   <string name="vp_select_ep">Elegir episodio</string>
   <string name="vp_select_function">Ajustes del reproductor</string>
   <string name="vp_select_source">Seleccionar fuente</string>
+  <string name="vp_select_tv">Canales</string>
   <string name="vp_select_video_definition">Seleccionar definición</string>
   <string name="vp_select_video_source">Seleccionar fuente</string>
   <string name="vp_skip">Saltar introducción y créditos</string>
@@ -479,6 +501,7 @@
   <string name="vp_using_16_9">Forzar 16:9</string>
   <string name="vp_using_4_3">Forzar 4:3</string>
   <string name="vp_video_bad_network_condition">Mala conectividad de red, inténtelo más tarde</string>
+  <string name="vp_video_invalid_cp_info">Información inválida del proveedor de video, por favor reinicie la aplicación</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Cargando...&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">Instalando plugin %1$s para una mejor calidad de imagen...</string>
   <string name="waiting_to_download">Esperando</string>
