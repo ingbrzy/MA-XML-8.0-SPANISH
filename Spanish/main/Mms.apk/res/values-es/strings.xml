@@ -38,7 +38,10 @@
   <string name="attach_take_photo">Tomar foto</string>
   <string name="attach_video">Vídeo</string>
   <string name="audio_download_failed">No se puede descargar audio</string>
+  <string name="audio_message_expired">Este mensaje de voz ha expirado.</string>
+  <string name="audio_message_mx_offline">"No se pudo descargar el audio. Mi Mensaje está desconectado o no está disponible."</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">No hay conexión de red o la tarjeta SIM insertada no es la correcta. Introduzca la tarjeta SIM desde el que se envió el mensaje y conéctese a la red.</string>
   <string name="back_to_message_list">Volver a la lista de mensajes</string>
   <string name="batch_adding_progress_message">Agregando…</string>
   <string name="batch_delete_confirm_dialog_message">¿Eliminar %1$s mensajes?</string>
