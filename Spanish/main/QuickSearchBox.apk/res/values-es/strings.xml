@@ -38,6 +38,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="device_settings_category_title">Borrar accesos directos</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="entrance_setting">Abrir búsqueda</string>
   <string name="google_app_label">Google Search</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -51,7 +52,6 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="menu_help">Ayuda</string>
   <string name="menu_settings">Ajustes de búsqueda</string>
   <string name="network_unavailable">No se pudo conectar a la red</string>
-  <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
   <string name="recent_apps">Aplicaciones recomendadas</string>
   <string name="recently_shortcut_label">Accesos directos recientes</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
@@ -76,6 +76,8 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="settings_description">Nombres de aplicaciones instaladas</string>
   <string name="show_more">Mostrar más</string>
   <string name="suggest_open_app_failed">No se puede abrir esta aplicación</string>
+  <string name="swipe_up_summary">Deslizar hacia arriba para abrir la búsqueda global</string>
+  <string name="swipe_up_title">Deslizar hacia arriba</string>
   <string name="system_search_category_title">Teléfono</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
