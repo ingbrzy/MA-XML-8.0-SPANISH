@@ -3,7 +3,7 @@
     <string name="date_time">E, d 'de' MMMM</string>
     <string name="date_time_12">E, d 'de' MMMM</string>
     <string name="language">es_ES</string>
-    <string name="desc_date_format">EEEE, d \'de\' MMMM</string>
+    <string name="desc_date_format">EEEE, MMM dd</string>
     <string name="desc_time">'hora actual' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', doble toque para ver el reloj'</string>
     <string name="weather_type_0">Despejado</string>
     <string name="weather_type_1">Nublado</string>
