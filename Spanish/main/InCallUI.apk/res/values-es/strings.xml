@@ -1,10 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accept_modify_call_request_prompt">¿Aceptar modificar solicitud de llamada?</string>
   <string name="add_vm_number_str">Agregar número</string>
+  <string name="antispam_local_marked" traducir="a currar">Local marked</string>
   <string name="antispam_marked_count">Informado por %1$d usuarios MIUI</string>
+  <string name="antispam_marked_title" traducir="a currar">%1$s</string>
   <string name="antispam_notification_title">Número desconocido</string>
   <string name="antispam_provider">Identificado por %s</string>
+  <string name="areacode_set_default" traducir="a currar">Set as default</string>
   <string name="callFailed_cb_enabled">No pueden hacer llamadas mientras esté activada la restricción de llamadas.</string>
   <string name="callFailed_congestion">Red ocupada</string>
   <string name="callFailed_dialToDial">Petición DIAL modificada a DIAL con diferente número.</string>
@@ -31,10 +34,12 @@
   <string name="callUnanswered_forwarded">Llamada no respondida y desviada</string>
   <string name="call_button_dialer_text">Teclado</string>
   <string name="call_button_tools_text">Caracteristicas</string>
+  <string name="call_contacts_deny_permission_msg" traducir="a currar">"You denied read contacts permission, can't show contacts info."</string>
   <string name="call_description_recording">Grabando…</string>
   <string name="call_extension_conference_mode">Modo conferencia</string>
   <string name="call_record_button_label">Grabando: %s</string>
   <string name="call_record_wait_label">Esperando</string>
+  <string name="call_recording_deny_permission_msg" traducir="a currar">"You denied record permission, can't record."</string>
   <string name="call_recording_error_low_storage">No hay suficiente espacio en la tarjeta SD</string>
   <string name="call_recording_error_privacy">No es posible grabar mientras estás en modo de Invitado</string>
   <string name="call_recording_error_sd_access">No se puede acceder a la tarjeta SD</string>
@@ -50,6 +55,8 @@
   <string name="call_title_redialing_with_times">Rellamado %d veces</string>
   <string name="caller_manage_header">Llamada de conferencia %s</string>
   <string name="calling_via_template">Llamando vía %s</string>
+  <string name="can_not_call_oneself" traducir="a currar">"Can't call this number"</string>
+  <string name="can_not_use" traducir="a currar">"Can't use"</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_call">Colgar</string>
   <string name="card_title_call_ended">"Llamada finalizada "</string>
@@ -59,12 +66,23 @@
   <string name="card_title_in_call">En llamada</string>
   <string name="card_title_in_call_short">En llamada</string>
   <string name="card_title_incoming_call">Llamada entrante</string>
+  <string name="card_title_incoming_conference_call" traducir="a currar">Incoming conference call</string>
   <string name="card_title_on_hold">"En espera "</string>
   <string name="card_title_threeway_call">Llamada a 3</string>
+  <string name="card_title_upgrade_video_call_error" traducir="a currar">"Couldn't update video"</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote" traducir="a currar">"Couldn't update video"</string>
+  <string name="card_title_upgrade_video_call_requesting" traducir="a currar">Requesting video…</string>
+  <string name="card_title_upgrade_video_call_timed_out" traducir="a currar">"Couldn't update video"</string>
+  <string name="card_title_video_call" traducir="a currar">Video call</string>
+  <string name="card_title_video_call_paused" traducir="a currar">Video paused</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s personas</string>
+  <string name="conference_call_single_description" traducir="a currar">%s etc. total %s</string>
+  <string name="conference_caller_info_name" traducir="a currar">"%1$s's conference call"</string>
+  <string name="conference_caller_name_me" traducir="a currar">Me</string>
   <string name="conference_callers_exceeded">Callers in conference exceeded</string>
   <string name="contacts_icon_label">Contactos</string>
+  <string name="default_area_code_setting" traducir="a currar">Default area code</string>
   <string name="description_image_button_answer">Responder</string>
   <string name="description_image_button_dialpad">Marcador</string>
   <string name="description_image_button_eight">ocho</string>
@@ -87,14 +105,34 @@
   <string name="description_image_button_zero">cero</string>
   <string name="description_target_answer">Responder</string>
   <string name="dial_with_gsm_phone">Llamada normal</string>
+  <string name="dialog_activate_livetalk" traducir="a currar">Verify number</string>
   <string name="dialog_call_ordinary_telephone">Llamada regular</string>
   <string name="dialog_purchase">Ir arriba</string>
+  <string name="dialpad_abc" traducir="a currar">ABC</string>
+  <string name="dialpad_def" traducir="a currar">DEF</string>
+  <string name="dialpad_eight" traducir="a currar">8</string>
+  <string name="dialpad_five" traducir="a currar">5</string>
+  <string name="dialpad_four" traducir="a currar">4</string>
+  <string name="dialpad_ghi" traducir="a currar">GHI</string>
+  <string name="dialpad_jkl" traducir="a currar">JKL</string>
+  <string name="dialpad_mno" traducir="a currar">MNO</string>
+  <string name="dialpad_nine" traducir="a currar">9</string>
+  <string name="dialpad_one" traducir="a currar">1</string>
+  <string name="dialpad_pqrs" traducir="a currar">PQRS</string>
+  <string name="dialpad_seven" traducir="a currar">7</string>
+  <string name="dialpad_six" traducir="a currar">6</string>
+  <string name="dialpad_three" traducir="a currar">3</string>
+  <string name="dialpad_tuv" traducir="a currar">TUV</string>
+  <string name="dialpad_two" traducir="a currar">2</string>
+  <string name="dialpad_wxyz" traducir="a currar">WXYZ</string>
+  <string name="dialpad_zero" traducir="a currar">0</string>
   <string name="do_not_ask">No mostrar de nuevo</string>
   <string name="do_not_support_video_calls_by_remote">Las llamadas de video no son compatibles en el otro dispositivo</string>
   <string name="emergency_call_dialog_number_for_display">Número de emergencia</string>
   <string name="fraud_call_answer">Responder</string>
   <string name="fraud_call_decline">Rechazar</string>
   <string name="fraud_call_waring">Comprueba siempre la identidad del contacto por teléfono o vídeo antes de responder a cualquier mensaje que incluya su información personal.</string>
+  <string name="inCallLabel" traducir="a currar">InCallUI</string>
   <string name="incall_call_type_label_sip">Llamada internet</string>
   <string name="incall_error_supp_service_conference">Incapaz de realizar llamadas de conferencia.</string>
   <string name="incall_error_supp_service_hangup">No se puede(n) liberar la(s) llamada(s).</string>
@@ -103,6 +141,7 @@
   <string name="incall_error_supp_service_switch">No se puede alternar entre llamadas.</string>
   <string name="incall_error_supp_service_transfer">No se puede transferir la llamada.</string>
   <string name="incall_error_supp_service_unknown">Servicio no soportado.</string>
+  <string name="incoming_answer_voice_text" traducir="a currar">Voice answer</string>
   <string name="incoming_call_forwarded_title">Desviar llamadas entrantes</string>
   <string name="incoming_circle_text_answer">Lanzamiento</string>
   <string name="incoming_circle_text_answer_p">Deslizar hacia arriba</string>
@@ -118,6 +157,9 @@
   <string name="jeejen_end_call_text">Finalizar llamada</string>
   <string name="jeejen_reject_call_text">Rechazar llamada</string>
   <string name="jeejen_toggle_dialpad_text">Teclado de marcación</string>
+  <string name="keep_wait_call_back" traducir="a currar">Keep waiting</string>
+  <string name="livetalk_dial" traducir="a currar">Using Top-up package</string>
+  <string name="livetalk_hangup" traducir="a currar">Hang up</string>
   <string name="livetalk_left_minute">%s mins restantes</string>
   <string name="manageConferenceLabel">Gestionar la llamada de conferencia</string>
   <string name="miprofile_stranger_card">Tarjeta de desconocido</string>
@@ -135,10 +177,15 @@
   <string name="network_error_title">Error de red</string>
   <string name="no_balance_message">No tienes saldo suficiente en tu paquete de recarga. Puedes hacer una llamada normal en su lugar.</string>
   <string name="no_balance_title">Saldo insuficiente</string>
+  <string name="no_call_back_message" traducir="a currar">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
+  <string name="no_call_back_title" traducir="a currar">Attention</string>
   <string name="no_vm_number">No hay número de buzón de voz</string>
   <string name="no_vm_number_msg">Ningún número de buzón de voz almacenado en la tarjeta SIM.</string>
   <string name="non_ivr_menu_collapse_menu">Contraer menú</string>
   <string name="non_ivr_menu_view_menu">Ver menú</string>
+  <string name="not_activate_sim_card_content" traducir="a currar">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
+  <string name="not_activate_sim_card_content_title" traducir="a currar">Phone number isnt verified</string>
+  <string name="not_activate_sim_card_content_with_operator" traducir="a currar">Verify SIM %1$s (%2$s) to make a call using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
   <string name="not_support_message">El paquete de recarga no soporta estos números. Puedes hacer una llamada normal en su lugar.</string>
   <string name="not_support_title">Número no soportado</string>
   <string name="notification_action_accept">Aceptar</string>
@@ -148,11 +195,13 @@
   <string name="notification_action_end_call">Colgar</string>
   <string name="notification_dialing">Llamando</string>
   <string name="notification_incoming_call">Llamada entrante</string>
+  <string name="notification_incoming_video_call" traducir="a currar">Incoming video call</string>
   <string name="notification_on_hold">En espera</string>
   <string name="notification_ongoing_call">Llamada en curso</string>
   <string name="notification_requesting_video_call">Petición de vídeo entrante</string>
   <string name="ok">Aceptar</string>
   <string name="online_check_provider_info">Identificado por %s</string>
+  <string name="online_check_provider_name_by_cmb" traducir="a currar">China Merchants Bank</string>
   <string name="online_check_warning_info_by_cmb">Siempre verifique la identidad de la persona con la que habla por teléfono o vídeo antes de responder a cualquier mensaje relacionado con sus finanzas personales.</string>
   <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="onscreenEndCallText">Fin</string>
@@ -164,14 +213,21 @@
   <string name="onscreen_audio_mode_speaker">Altavoz</string>
   <string name="onscreen_audio_switch_mode">Cambiar audio</string>
   <string name="onscreen_call_record">Grabar</string>
+  <string name="onscreen_change_to_video" traducir="a currar">Video call</string>
+  <string name="onscreen_change_to_voice" traducir="a currar">Voice call</string>
+  <string name="onscreen_close_preview_camera" traducir="a currar">Close</string>
   <string name="onscreen_hold_text">Retener</string>
   <string name="onscreen_merge_calls_text">Combinar las llamadas</string>
   <string name="onscreen_mute_text">Silenciar</string>
   <string name="onscreen_note_calls_text">Nota</string>
+  <string name="onscreen_rcs_text" traducir="a currar">Messages</string>
   <string name="onscreen_swap_calls_text">Alternar</string>
+  <string name="onscreen_switch_camera" traducir="a currar">Switch</string>
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Teléfono público</string>
+  <string name="phone_info_divider" traducir="a currar">" ｜ "</string>
+  <string name="picking_participant" traducir="a currar">Getting contact info…</string>
   <string name="private_num">Número privado</string>
   <string name="purchase_now">Recargar</string>
   <string name="respond_via_sms_custom_message">Escribe tu propio…</string>
@@ -182,8 +238,12 @@
   <string name="separate_from_conference">Separada llamada</string>
   <string name="sip_call_not_support_record">"No se puede grabar llamadas SIP"</string>
   <string name="suspect_info">Siempre verifique la identidad de la persona con la que está hablando mediante una llamada de teléfono o vídeo antes de responder a cualquier mensaje relacionado con sus finanzas personales.</string>
+  <string name="time_left_livetalk" traducir="a currar">(%ds)</string>
   <string name="unknown">Desconocido</string>
   <string name="upgrade_vt_prompt">¿Quieres cambiar la llamada a llamada de vídeo?</string>
+  <string name="video_call_not_allowed_if_tty_enabled" traducir="a currar">Turn off TTY mode first</string>
+  <string name="video_switch_to_voice_call_prompt" traducir="a currar">Switch to voice call</string>
+  <string name="voicemail" traducir="a currar">Voicemail</string>
   <string name="wait_prompt_str">"¿Enviar los siguientes tonos?
 "</string>
   <string name="waiting_close_airplane_mode">Un momento…</string>
