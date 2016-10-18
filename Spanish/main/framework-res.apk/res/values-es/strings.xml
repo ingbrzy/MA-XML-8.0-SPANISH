@@ -36,9 +36,9 @@
   <string name="SetupCallDefault">¿Aceptar la llamada?</string>
   <string name="ThreeWCMmi">Llamada de tres direcciones</string>
   <string name="VideoView_error_button">Aceptar</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">No es posible transmitir este video al dispositivo.</string>
-  <string name="VideoView_error_text_unknown">No se puede reproducir el video.</string>
-  <string name="VideoView_error_title">Problemas de video</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">No es posible transmitir este vídeo al dispositivo.</string>
+  <string name="VideoView_error_text_unknown">No se puede reproducir el vídeo.</string>
+  <string name="VideoView_error_title">Problemas de vídeo</string>
   <string name="accept">Aceptar</string>
   <string name="accessibility_binding_label">Accesibilidad</string>
   <string name="accessibility_enabled">Se activó la accesibilidad.</string>
@@ -48,7 +48,7 @@
   <string name="action_bar_up_description">Desplazarse hacia arriba</string>
   <string name="action_menu_overflow_description">Más opciones</string>
   <string name="action_mode_done">Listo</string>
-  <string name="activity_chooser_view_dialog_title_default">Elige actividad</string>
+  <string name="activity_chooser_view_dialog_title_default">Seleccionar actividad</string>
   <string name="activity_chooser_view_see_all">Ver todas</string>
   <string name="activity_list_empty">No se encontraron actividades coincidentes.</string>
   <string name="activity_resolver_use_always">Siempre</string>
@@ -56,22 +56,20 @@
   <string name="activity_resolver_work_profiles_support">%1$s no admite perfiles de trabajo.</string>
   <string name="activitychooserview_choose_application">Elige una aplicación.</string>
   <string name="activitychooserview_choose_application_error">No se pudo abrir %s.</string>
-  <string name="adb_active_notification_message">Toca para desactivar la depuración por USB.</string>
-  <string name="adb_active_notification_title">Depuración por USB conectada</string>
+  <string name="adb_active_notification_message">Toca para desactivar la depuración USB.</string>
+  <string name="adb_active_notification_title">Depuración USB conectada</string>
   <string name="addToDictionary">Agregar al diccionario</string>
   <string name="add_account_button_label">Agregar una cuenta</string>
   <string name="add_account_label">Agregar una cuenta</string>
   <string name="aerr_application">Lamentablemente, la aplicación %1$s se detuvo.</string>
   <string name="aerr_process">Lamentablemente, el proceso %1$s se detuvo.</string>
-  <string name="aerr_title"/>
   <string name="allow">Permitir</string>
-  <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">Utilizar de manera predeterminada en esta acción.</string>
   <string name="android_preparing_apk">Preparando %1$s.</string>
   <string name="android_start_title">Iniciando Android…</string>
   <string name="android_system_label">Sistema Android</string>
-  <string name="android_upgrading_apk">Optimizando la aplicación %1$d de %2$d</string>
-  <string name="android_upgrading_complete">Finalizando el inicio</string>
+  <string name="android_upgrading_apk">Optimizando aplicación %1$d de %2$d</string>
+  <string name="android_upgrading_complete">Finalizando inicio...</string>
   <string name="android_upgrading_fstrim">Optimizando almacenamiento</string>
   <string name="android_upgrading_starting_apps">Iniciando aplicaciones</string>
   <string name="android_upgrading_title">Android se está actualizando…</string>
@@ -85,7 +83,6 @@
   <string name="anr_process">"El proceso %1$s no responde.
 
 ¿Deseas cerrarlo?"</string>
-  <string name="anr_title"/>
   <string name="app_not_found">No se encontró una aplicación para manejar esta acción.</string>
   <string name="app_running_notification_text">Toca para obtener más información o para detener la aplicación.</string>
   <string name="app_running_notification_title">%1$s se está ejecutando</string>
@@ -183,11 +180,7 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
   <string name="choose_account_label">Seleccionar una cuenta</string>
   <string name="chooser_wallpaper">Cambiar fondo de pantalla</string>
   <string name="clearDefaultHintMsg">Eliminar valores predeterminados en Configuración del sistema &gt; Aplicaciones &gt; Descargas.</string>
-  <string name="common_last_name_prefixes"/>
   <string name="common_name">Nombre habitual:</string>
-  <string name="common_name_conjunctions"/>
-  <string name="common_name_prefixes"/>
-  <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Proveedor de condiciones</string>
   <string name="configure_input_methods">Seleccionar teclados</string>
   <string name="contentServiceSync">Sincronización</string>
@@ -207,7 +200,7 @@ con %s"</string>
   <string name="data_usage_limit_body">Datos pausados resto del ciclo</string>
   <string name="data_usage_limit_snoozed_body">Límite superado en %s</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límite de datos móviles superado</string>
-  <string name="data_usage_mobile_limit_title">Límite datos móviles alcanzado</string>
+  <string name="data_usage_mobile_limit_title">Límite de datos móviles alcanzado</string>
   <string name="data_usage_restricted_body">Toca para eliminar la restricc.</string>
   <string name="data_usage_restricted_title">Datos de referencia restringidos</string>
   <string name="data_usage_warning_body">Toca para ver uso y ajustes.</string>
@@ -239,7 +232,7 @@ con %s"</string>
   <string name="deleted_key">%1$s borrado</string>
   <string name="deny">Rechazar</string>
   <string name="description_target_unlock_tablet">Desliza el dedo para desbloquear.</string>
-  <string name="dial_number_using">"Marcar el número
+  <string name="dial_number_using">"Marcar número
 con %s"</string>
   <string name="dialog_alert_title">Aviso</string>
   <string name="display_manager_built_in_display_name">Pantalla integrada</string>
@@ -279,7 +272,7 @@ con %s"</string>
   <string name="emergency_call_dialog_number_for_display">Número de emergencia</string>
   <string name="emergency_calls_only">Solo llamadas de emergencia</string>
   <string name="emptyPhoneNumber">(No hay número de teléfono)</string>
-  <string name="enablePin">Error; habilita el bloqueo de SIM/RUIM.</string>
+  <string name="enablePin">Error, habilite el bloqueo de SIM/RUIM.</string>
   <string name="enable_accessibility_canceled">Se canceló la accesibilidad.</string>
   <string name="enable_explore_by_touch_warning_message">%1$s desea activar la exploración táctil. Cuando esta función esté activada, podrás escuchar o ver descripciones del contenido seleccionado o usar gestos para interactuar con el dispositivo.</string>
   <string name="enable_explore_by_touch_warning_title">¿Activar exploración táctil?</string>
@@ -313,10 +306,10 @@ con %s"</string>
   <string name="ext_media_status_ejecting">Expulsando…</string>
   <string name="ext_media_status_formatting">Formateando…</string>
   <string name="ext_media_status_missing">No insertado</string>
-  <string name="ext_media_status_mounted">Lista</string>
+  <string name="ext_media_status_mounted">Listo</string>
   <string name="ext_media_status_mounted_ro">Solo lectura</string>
-  <string name="ext_media_status_removed">Retirada</string>
-  <string name="ext_media_status_unmountable">Dañada</string>
+  <string name="ext_media_status_removed">Extraído</string>
+  <string name="ext_media_status_unmountable">Dañado</string>
   <string name="ext_media_status_unmounted">Expulsado</string>
   <string name="ext_media_status_unsupported">No soportado</string>
   <string name="ext_media_unmount_action">Expulsar</string>
@@ -342,26 +335,26 @@ con %s"</string>
   <string name="find_next">Buscar siguiente</string>
   <string name="find_on_page">Buscar en la página</string>
   <string name="find_previous">Buscar anterior</string>
-  <string name="fingerprint_acquired_imager_dirty">El sensor de huellas dactilares está sucio. Por favor limpielo y vuelvalo a intentar.</string>
-  <string name="fingerprint_acquired_insufficient">"No se ha podido procesar la huella dactilar. Por favor inténtelo de nuevo.</string>
+  <string name="fingerprint_acquired_imager_dirty">El sensor de huellas digitales está sucio. Por favor limpielo y vuelvalo a intentar.</string>
+  <string name="fingerprint_acquired_insufficient">"No se ha podido procesar la huella digital. Por favor inténtelo de nuevo.</string>
   <string name="fingerprint_acquired_partial">Solo se detectó parte de su huella. Por favor inténtelo de nuevo.</string>
   <string name="fingerprint_acquired_too_fast">El dedo se movió demasiado rápido. Por favor inténtelo de nuevo.</string>
   <string name="fingerprint_acquired_too_slow">El dedo se movió demasiado lento. Por favor inténtelo de nuevo.</string>
   <string name="fingerprint_error_canceled">Operación con huella cancelada.</string>
-  <string name="fingerprint_error_hw_not_available">El hardware de huella dactilar no está disponible.</string>
+  <string name="fingerprint_error_hw_not_available">El hardware de huella digital no está disponible.</string>
   <string name="fingerprint_error_lockout">Demasiados intentos. Intentélo de nuevo más tarde.</string>
   <string name="fingerprint_error_no_space">"No se puede guardar la huella. Por favor elimine una existente."</string>
-  <string name="fingerprint_error_timeout">Tiempo de espera de la huella dactilar alcanzado.Inténtelo de nuevo.</string>
+  <string name="fingerprint_error_timeout">Tiempo de espera de la huella digital alcanzado.Inténtelo de nuevo.</string>
   <string name="fingerprint_error_unable_to_process">Inténtelo de nuevo.</string>
-  <string name="fingerprint_icon_content_description">Icono de la huella dactilar</string>
+  <string name="fingerprint_icon_content_description">Icono de la huella digital</string>
   <string name="fingerprint_name_template">Dedo %d</string>
-  <string name="fingerprints">Huellas dactilares:</string>
+  <string name="fingerprints">Icono de huella digital:</string>
   <string name="floating_toolbar_close_overflow_description">Cerrar</string>
   <string name="floating_toolbar_open_overflow_description">Más opciones</string>
   <string name="force_close">Aceptar</string>
   <string name="forward_intent_to_owner">Estás utilizando esta aplicación fuera del perfil de trabajo.</string>
   <string name="forward_intent_to_work">Estás utilizando esta aplicación en tu perfil de trabajo.</string>
-  <string name="gadget_host_error_inflating">No se pudo agregar el widget.</string>
+  <string name="gadget_host_error_inflating">No se ha podido añadir el widget.</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">Asistente</string>
   <string name="global_action_bug_report">Informe de errores</string>
@@ -467,17 +460,17 @@ con %s"</string>
   <string name="keygaurd_accessibility_media_controls">Controles de medios</string>
   <string name="keyguard_accessibility_add_widget">Agregar widget</string>
   <string name="keyguard_accessibility_camera">Cámara</string>
-  <string name="keyguard_accessibility_expand_lock_area">Expandir el área desbloqueada</string>
+  <string name="keyguard_accessibility_expand_lock_area">Ampliar área de desbloqueo</string>
   <string name="keyguard_accessibility_face_unlock">Desbloqueo facial</string>
   <string name="keyguard_accessibility_password_unlock">Desbloqueo por contraseña</string>
   <string name="keyguard_accessibility_pattern_area">Área de patrón</string>
   <string name="keyguard_accessibility_pattern_unlock">Desbloqueo por patrón</string>
   <string name="keyguard_accessibility_pin_unlock">Desbloqueo por PIN</string>
-  <string name="keyguard_accessibility_slide_area">Área de deslizamiento</string>
-  <string name="keyguard_accessibility_slide_unlock">Desbloqueo por deslizamiento</string>
+  <string name="keyguard_accessibility_slide_area">Área para deslizar</string>
+  <string name="keyguard_accessibility_slide_unlock">Desbloqueo deslizando el dedo</string>
   <string name="keyguard_accessibility_status">Estado</string>
-  <string name="keyguard_accessibility_unlock_area_collapsed">El área desbloqueada se contrajo.</string>
-  <string name="keyguard_accessibility_unlock_area_expanded">Área desbloqueada expandida.</string>
+  <string name="keyguard_accessibility_unlock_area_collapsed">Área de desbloqueo contraída</string>
+  <string name="keyguard_accessibility_unlock_area_expanded">Área de desbloqueo ampliada</string>
   <string name="keyguard_accessibility_user_selector">Selector de usuarios</string>
   <string name="keyguard_accessibility_widget">%1$s widget</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d de %3$d</string>
@@ -494,7 +487,7 @@ con %s"</string>
   <string name="keyguard_password_enter_puk_prompt">Código PUK</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;Toca para ingresar la contraseña&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto</string>
-  <string name="kg_enter_confirm_pin_hint">Confirmar código PIN deseado</string>
+  <string name="kg_enter_confirm_pin_hint">Confirma el código PIN</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Dibujaste incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos más, se te solicitará que desbloquees tu dispositivo mediante el uso de una cuenta de correo.
 
  Vuelve a intentarlo en %d segundos."</string>
@@ -545,8 +538,6 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="launch_warning_title">Aplicación redireccionada</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Cargando…</string>
-  <string name="locale_codes"/>
-  <string name="locale_replacement"/>
   <string name="lock_pattern_view_aspect">square</string>
   <string name="lock_to_app_description">"Fijación de pantalla bloquea para mostrar en una sola vista.
 
@@ -565,40 +556,40 @@ Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendid
   <string name="lockscreen_access_pattern_area">Área del patrón.</string>
   <string name="lockscreen_access_pattern_cell_added">Se agregó una celda.</string>
   <string name="lockscreen_access_pattern_cell_added_verbose">Celda %1$s añadida</string>
-  <string name="lockscreen_access_pattern_cleared">Se eliminó el patrón</string>
-  <string name="lockscreen_access_pattern_detected">Se completó el patrón</string>
-  <string name="lockscreen_access_pattern_start">Se inició el patrón</string>
+  <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
+  <string name="lockscreen_access_pattern_detected">Patrón completado</string>
+  <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
   <string name="lockscreen_carrier_default">Sin servicio</string>
-  <string name="lockscreen_emergency_call">Realizar llamada de emergencia</string>
+  <string name="lockscreen_emergency_call">Emergencia</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Puedes intentarlo %d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos de usuario.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has establecido incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos, se te solicitará que desbloquees tu dispositivo mediante el uso de tu información de acceso de Google.
 
  Vuelve a intentarlo en %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Se restablecerán los valores predeterminados de fábrica del dispositivo.</string>
-  <string name="lockscreen_forgot_pattern_button_text">¿Olvidaste el patrón?</string>
+  <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"\"¿Olvidaste tu nombre de usuario o contraseña?
 Accede a \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="lockscreen_glogin_checking_password">Comprobando…</string>
-  <string name="lockscreen_glogin_forgot_pattern">Desbloquear cuenta</string>
+  <string name="lockscreen_glogin_forgot_pattern">Desbloqueo de cuenta</string>
   <string name="lockscreen_glogin_instructions">Para desbloquear, accede con tu cuenta de Google.</string>
   <string name="lockscreen_glogin_invalid_input">Nombre de usuario o contraseña incorrecta.</string>
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Inicia sesión</string>
   <string name="lockscreen_glogin_too_many_attempts">Demasiados intentos incorrectos de creación del patrón</string>
   <string name="lockscreen_glogin_username_hint">Nombre de usuario (correo)</string>
-  <string name="lockscreen_instructions_when_pattern_disabled">Presionar Menú para desbloquear.</string>
-  <string name="lockscreen_instructions_when_pattern_enabled">Presiona el Menú para desbloquear o realizar una llamada de emergencia.</string>
-  <string name="lockscreen_missing_sim_instructions">Inserta una tarjeta SIM.</string>
+  <string name="lockscreen_instructions_when_pattern_disabled">Pulse la tecla de menú para desbloquear la pantalla.</string>
+  <string name="lockscreen_instructions_when_pattern_enabled">Pulse la tecla de menú para desbloquear el teléfono o realizar una llamada de emergencia.</string>
+  <string name="lockscreen_missing_sim_instructions">Inserte una tarjeta SIM.</string>
   <string name="lockscreen_missing_sim_instructions_long">Falta la tarjeta SIM o no se puede leer. Introduce una tarjeta SIM.</string>
   <string name="lockscreen_missing_sim_message">No hay tarjeta SIM en el dispositivo.</string>
   <string name="lockscreen_missing_sim_message_short">Sin tarjeta SIM</string>
   <string name="lockscreen_network_locked_message">Red bloqueada</string>
-  <string name="lockscreen_password_wrong">Volver a intentarlo</string>
+  <string name="lockscreen_password_wrong">Vuelve a intentarlo.</string>
   <string name="lockscreen_pattern_correct">Correcto</string>
   <string name="lockscreen_pattern_instructions">Dibujar el patrón de desbloqueo</string>
   <string name="lockscreen_pattern_wrong">Vuelve a intentarlo.</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Tu tarjeta SIM se ha inhabilitado de forma permanente.
- Ponte en contacto con tu proveedor de servicios inalámbricos para obtener otra tarjeta SIM."</string>
+ Ponte en contacto con tu proveedor de servicios de telefonía para obtener otra tarjeta SIM."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Tarjeta SIM inutilizable</string>
   <string name="lockscreen_return_to_call">Regresar a llamada</string>
   <string name="lockscreen_screen_locked">Pantalla bloqueada.</string>
@@ -740,8 +731,6 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="mmiComplete">MMI completa.</string>
   <string name="mmiError">Problema de conexión o código incorrecto de MMI.</string>
   <string name="mmiFdnError">La operación está limitada a números de marcación fija.</string>
-  <string name="mobile_provisioning_apn"/>
-  <string name="mobile_provisioning_url"/>
   <string name="more_item_label">Más</string>
   <string name="muted_by">Silenciados por %1$s</string>
   <string name="needPuk">Tu tarjeta SIM está bloqueada con PUK. Escribe el código PUK para desbloquearla.</string>
@@ -771,8 +760,6 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="older">Antiguos</string>
   <string name="oneMonthDurationPast">Hace 1 mes.</string>
   <string name="open_permission_deny">No tienes permiso para abrir esta página.</string>
-  <string name="operator_config_url"/>
-  <string name="operator_ping_url"/>
   <string name="orgTypeCustom">Personalizado</string>
   <string name="orgTypeOther">Otro</string>
   <string name="orgTypeWork">Trabajo</string>
@@ -816,7 +803,7 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permdesc_bodySensors">Permite que la aplicación acceda a datos de sensores que controlan tu condición física, como el ritmo cardíaco.</string>
   <string name="permdesc_broadcastSticky">Permite que la aplicación envíe transmisiones persistentes que permanecen después de que finaliza la transmisión. Un uso excesivo podría ralentizar el dispositivo o hacer que funcione de manera inestable al forzarlo a utilizar mucha memoria.</string>
   <string name="permdesc_callPhone">Permite que la aplicación haga llamadas a números de teléfono sin intervención del usuario, lo que puede dar lugar a llamadas o cargos inesperados. Ten en cuenta que las aplicaciones no pueden usar este servicio para realizar llamadas a números de emergencia, pero las aplicaciones malintencionadas pueden causarte gastos imprevistos al realizar llamadas sin tu confirmación.</string>
-  <string name="permdesc_camera">Permite que la aplicación saque fotos o grabe videos con la cámara. Este permiso autoriza a la aplicación a utilizar la cámara en cualquier momento sin tu confirmación.</string>
+  <string name="permdesc_camera">Permite que la aplicación saque fotos o grabe vídeos con la cámara. Este permiso autoriza a la aplicación a utilizar la cámara en cualquier momento sin tu confirmación.</string>
   <string name="permdesc_changeNetworkState">Permite que la aplicación cambie el estado de la conectividad de red.</string>
   <string name="permdesc_changeTetherState">Permite que la aplicación cambie el estado de la conectividad de anclaje a la red.</string>
   <string name="permdesc_changeWifiMulticastState">Permite que la aplicación reciba paquetes enviados a todos los dispositivos de una red Wi-Fi que utilicen direcciones de multidifusión, no solo a tu dispositivo. Utiliza más batería que el modo que no es de multidifusión.</string>
@@ -893,7 +880,7 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permdesc_writeSettings">Permite que la aplicación modifique los datos de configuración del sistema. Las aplicaciones maliciosas pueden dañar la configuración del sistema.</string>
   <string name="permdesc_writeSyncSettings">Permite que la aplicación modifique la configuración de sincronización de una cuenta. Este permiso se puede utilizar, por ejemplo, para activar la sincronización de la aplicación Personas con una cuenta.</string>
   <string name="permgroupdesc_calendar">acceso directo a calendario y eventos</string>
-  <string name="permgroupdesc_camera">acceso directo a cámara para imagen o captura de video</string>
+  <string name="permgroupdesc_camera">acceso directo a cámara para imagen o captura de vídeo</string>
   <string name="permgroupdesc_contacts">acceder a los contactos</string>
   <string name="permgroupdesc_location">controlar tu ubicación física</string>
   <string name="permgroupdesc_microphone">acceso directo a micrófono para grabar audio</string>
@@ -938,7 +925,7 @@ para la cuenta %s"</string>
   <string name="permlab_bodySensors">sensores corporales (frec. card)</string>
   <string name="permlab_broadcastSticky">enviar emisiones pegajosas</string>
   <string name="permlab_callPhone">llamar directamente a números de teléfono</string>
-  <string name="permlab_camera">tomar fotografías y grabar videos</string>
+  <string name="permlab_camera">tomar fotografías y grabar vídeos</string>
   <string name="permlab_changeNetworkState">cambiar la conectividad de la red</string>
   <string name="permlab_changeTetherState">cambiar la conectividad de anclaje a red</string>
   <string name="permlab_changeWifiMulticastState">permitir recepción de multidifusión Wi-Fi</string>
@@ -958,7 +945,7 @@ para la cuenta %s"</string>
   <string name="permlab_install_shortcut">crear accesos directos</string>
   <string name="permlab_invokeCarrierSetup">ejecutar la aplicación de configuración proporcionada por el proveedor</string>
   <string name="permlab_killBackgroundProcesses">cerrar otras aplicaciones</string>
-  <string name="permlab_manageFingerprint">gestionar huella dactilar</string>
+  <string name="permlab_manageFingerprint">gestionar hardware de huellas digitales</string>
   <string name="permlab_manageNetworkPolicy">gestionar la política de la red</string>
   <string name="permlab_manageProfileAndDeviceOwners">Administrar perfil y propietarios del dispositivo</string>
   <string name="permlab_modifyAudioSettings">cambiar tu configuración de audio</string>
@@ -1124,19 +1111,19 @@ para la cuenta %s"</string>
   <string name="ringtone_picker_title">Tonos de llamada</string>
   <string name="ringtone_silent">Ninguno</string>
   <string name="ringtone_unknown">Tono de llamada desconocido</string>
-  <string name="roamingText0">Indicador de roaming activado</string>
-  <string name="roamingText1">Indicador de roaming desactivado</string>
-  <string name="roamingText10">Roaming: funcionalidad de servicio parcial</string>
-  <string name="roamingText11">Banner de roaming activado</string>
-  <string name="roamingText12">Banner de roaming desactivado</string>
-  <string name="roamingText2">Indicador de roaming titilando</string>
+  <string name="roamingText0">Indicador de itinerancia activado</string>
+  <string name="roamingText1">Indicador de itinerancia desactivado</string>
+  <string name="roamingText10">Itinerancia: funcionalidad de servicio parcial</string>
+  <string name="roamingText11">Banner de itinerancia activado</string>
+  <string name="roamingText12">Banner de itinerancia desactivado</string>
+  <string name="roamingText2">Indicador de itinerancia parpadeante</string>
   <string name="roamingText3">Fuera del vecindario</string>
-  <string name="roamingText4">Fuera de construcción</string>
-  <string name="roamingText5">Roaming: sistema preferido</string>
-  <string name="roamingText6">Roaming: sistema disponible</string>
-  <string name="roamingText7">Roaming: socio de alianza</string>
-  <string name="roamingText8">Roaming: socio premium</string>
-  <string name="roamingText9">Roaming: funcionalidad de servicio completa</string>
+  <string name="roamingText4">Fuera del edificio</string>
+  <string name="roamingText5">Itinerancia: sistema preferido</string>
+  <string name="roamingText6">Itinerancia: sistema disponible</string>
+  <string name="roamingText7">Itinerancia: partner de alianza</string>
+  <string name="roamingText8">Itinerancia: partner de gran calidad</string>
+  <string name="roamingText9">Itinerancia: funcionalidad de servicio completa</string>
   <string name="roamingTextSearching">Buscando servicio</string>
   <string name="safeMode">Modo seguro</string>
   <string name="safe_media_volume_warning">"¿Quieres subir el volumen por encima del nivel recomendado?
@@ -1182,9 +1169,9 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="serviceClassPacket">Paquete</string>
   <string name="serviceClassSMS">SMS</string>
   <string name="serviceClassVoice">Voz</string>
-  <string name="serviceDisabled">Se ha desactivado el servicio.</string>
-  <string name="serviceEnabled">Se ha activado el servicio.</string>
-  <string name="serviceEnabledFor">Se activó el servicio para:</string>
+  <string name="serviceDisabled">El servicio se ha inhabilitado.</string>
+  <string name="serviceEnabled">El servicio se ha habilitado.</string>
+  <string name="serviceEnabledFor">Se ha habilitado el servicio para:</string>
   <string name="serviceErased">Se ha borrado correctamente.</string>
   <string name="serviceNotProvisioned">Servicio no suministrado.</string>
   <string name="serviceRegistered">El registro se ha realizado correctamente.</string>
@@ -1280,29 +1267,29 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="tutorial_double_tap_to_zoom_message_short">Toca dos veces para acceder al control de zoom.</string>
   <string name="unknownName">Desconocido</string>
   <string name="untitled">&lt;Sin Título&gt;</string>
-  <string name="upload_file">Elegir archivo</string>
+  <string name="upload_file">Seleccionar archivo</string>
   <string name="usb_accessory_notification_title">Conectado a un accesorio USB</string>
   <string name="usb_cd_installer_notification_title">Conectado como un instalador</string>
-  <string name="usb_charging_notification_title">USB para carga</string>
-  <string name="usb_midi_notification_title">USB como MIDI</string>
+  <string name="usb_charging_notification_title">USB para cargaR</string>
+  <string name="usb_midi_notification_title">USB para MIDI</string>
   <string name="usb_midi_peripheral_name">Puerto de periféricos USB Android</string>
-  <string name="usb_midi_peripheral_product_name">Puerto de periféricos USB</string>
-  <string name="usb_mtp_notification_title">Conectado como un dispositivo de medios</string>
+  <string name="usb_midi_peripheral_product_name">Puerto periférico USB</string>
+  <string name="usb_mtp_notification_title">USB para transferir archivos</string>
   <string name="usb_notification_message">Toca para acceder a otras opciones de USB.</string>
-  <string name="usb_ptp_notification_title">Conectado como una cámara</string>
+  <string name="usb_ptp_notification_title">USB para transferir fotos</string>
   <string name="usb_storage_activity_title">Almacenamiento USB masivo</string>
   <string name="usb_storage_button_mount">Activar el almacenamiento USB</string>
   <string name="usb_storage_error_message">Se produjo un error al usar el almacenamiento USB como almacenamiento USB masivo.</string>
   <string name="usb_storage_message">Has conectado el dispositivo a la computadora por USB. Toca el siguiente botón si quieres copiar archivos entre tu computadora y el almacenamiento USB de tu Android.</string>
   <string name="usb_storage_notification_message">Toca para copiar archivos en o desde tu computadora.</string>
-  <string name="usb_storage_notification_title">Conectado al USB</string>
+  <string name="usb_storage_notification_title">Conectado por USB</string>
   <string name="usb_storage_stop_button_mount">Desactivar el almacenamiento USB</string>
   <string name="usb_storage_stop_error_message">Se ha producido un error al desactivar el almacenamiento USB. Comprueba que hayas desactivado el host USB y vuelve a intentarlo.</string>
   <string name="usb_storage_stop_message">Antes de desactivar el almacenamiento USB, extrae el almacenamiento USB del dispositivo Android de tu computadora.</string>
   <string name="usb_storage_stop_notification_message">Toca para desactivar el almacenamiento USB.</string>
   <string name="usb_storage_stop_notification_title">Desactivar el almacenamiento USB</string>
-  <string name="usb_storage_stop_title">Almacenamiento USB en uso</string>
-  <string name="usb_storage_title">Conectado al USB</string>
+  <string name="usb_storage_stop_title">El almacenamiento USB está en uso</string>
+  <string name="usb_storage_title">Conectado por USB</string>
   <string name="use_a_different_app">Utilizar una aplicación diferente</string>
   <string name="user_owner_label">Aplicaciones personales</string>
   <string name="user_switched">Usuario actual: %1$s</string>
@@ -1316,7 +1303,7 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="volume_icon_description_media">Multimedia</string>
   <string name="volume_icon_description_notification">Notificación</string>
   <string name="volume_icon_description_ringer">Tono de llamada</string>
-  <string name="volume_music">Volumen de los medios</string>
+  <string name="volume_music">Volumen multimedia</string>
   <string name="volume_music_hint_playing_through_bluetooth">Reproduciendo a través de Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">Tono de silencio establecido</string>
   <string name="volume_notification">Volumen de notificación</string>
@@ -1336,10 +1323,10 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="webpage_unresponsive">"La página no responde.
 
 ¿Deseas cerrarla?"</string>
-  <string name="websearch">Buscar en la Web</string>
+  <string name="websearch">Búsqueda web</string>
   <string name="week">semana</string>
   <string name="weeks">semanas</string>
-  <string name="wfcRegErrorTitle">WLAN </string>
+  <string name="wfcRegErrorTitle">Llamadas Wi-Fi</string>
   <string name="wfc_mode_cellular_preferred_summary">Preferir red móvil</string>
   <string name="wfc_mode_wifi_only_summary">Llamada WLAN</string>
   <string name="wfc_mode_wifi_preferred_summary">Preferir WLAN</string>
