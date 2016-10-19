@@ -1703,8 +1703,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="internal_format">Borrar el almacenamiento interno</string>
   <string name="internal_format_summary">Borrar todos los datos del almacenamiento interno del dispositivo</string>
   <string name="internal_media_format_button_text">Borrar el almacenamiento interno</string>
-  <string name="internal_media_format_desc">
-    &lt;b&gt;Todos&lt;/b&gt; sus datos guardados se borrar&amp;#225;n permanentemente. El tel&amp;#233;fono se reiniciar&amp;#225; despu&amp;#233;s de haber borrado el almacenamiento interno.&amp;#191;Borrar todo el almacenamiento interno? </string>
+  <string name="internal_media_format_desc">¿Borrar almacenamiento interno? &lt;b&gt;Todos&lt;/b&gt; los datos se borrarán. El teléfono se reiniciará después de haber borrado el almacenamiento interno</string>
   <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá revertir esta acción! El teléfono se reiniciará después de haber borrado el almacenamiento interno.</string>
   <string name="internal_media_format_title">Borrar el almacenamiento interno</string>
   <string name="internal_memory">Almacenamiento interno</string>
@@ -2042,25 +2041,17 @@ Has accedido a las cuentas que se indican a continuación:
   <string name="master_clear_all">¿Borrar todos los datos de la memoria interna de su teléfono? ¡Esta acción no podrá deshacerse!</string>
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
-  <string name="master_clear_desc">
-    &lt;b&gt;almacenamiento interno&lt;/b&gt;
-    &lt;li&gt;Tu cuenta de Google&lt;/li&gt;
-    &lt;li&gt;Los ajustes y los datos de aplicaciones y del sistema&lt;/li&gt;
-    &lt;li&gt;Las aplicaciones descargadas&lt;/li&gt;" del tel&amp;#233;fono, como:
-
-""
-""
-"Se borrar&amp;#225;n todos los datos del </string>
+  <string name="master_clear_desc">Esto borrará todos los datos del teléfono del &lt;b&gt;almacenamiento interno&lt;/b&gt;", incluyendo:
+    
+ "&lt;li&gt;Tu cuenta de Google&lt;/li&gt;"
+ "&lt;li&gt;Los ajustes y los datos de aplicaciones y del sistema&lt;/li&gt;"
+ "&lt;li&gt;Las aplicaciones descargadas&lt;/li&gt;"</string>
   <string name="master_clear_desc_also_erases_external">
-    &lt;li&gt;M&amp;#250;sica&lt;/li&gt;
-    &lt;li&gt;Fotos&lt;/li&gt;
-    &lt;li&gt;Otros datos de usuario&lt;/li&gt;"
-""
-"</string>
+ "&lt;li&gt;Fotos&lt;/li&gt;"
+ "&lt;li&gt;Otros datos de usuario&lt;/li&gt;"</string>
   <string name="master_clear_desc_erase_external_storage">
-    &lt;b&gt;tarjeta SD&lt;/b&gt;"
 
-Para eliminar la m&amp;#250;sica, las im&amp;#225;genes y otros datos de usuario, debes borrar la ".</string>
+ Para borrar música, imágenes y otros datos de los usuarios, el "&lt;b&gt;almacenamiento USB&lt;/b&gt; tiene que ser borrado.</string>
   <string name="master_clear_erase_application_progress">Eliminando aplicaciones…</string>
   <string name="master_clear_failed">No se ha reiniciado el sistema porque el servicio Borrado del sistema no está disponible.</string>
   <string name="master_clear_final_button_text">Borrar todo</string>
@@ -2089,15 +2080,6 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="media_button">Botón multimedia</string>
   <string name="media_category">Multimedia</string>
   <string name="media_feedback_enable_title">Vibrar con el ritmo</string>
-  <string name="media_format_button_text">Eliminar almacenamiento USB</string>
-  <string name="media_format_desc">
-    &lt;b&gt;todos&lt;/b&gt; los datos almacenados.&amp;#191;Deseas borrar todo el almacenamiento de USB? Perder&amp;#225;s </string>
-  <string name="media_format_final_button_text">Eliminar todo</string>
-  <string name="media_format_final_desc">¿Deseas borrar el almacenamiento USB y eliminar todos sus archivos? Esta acción no se puede deshacer.</string>
-  <string name="media_format_gesture_explanation">Debes crear tu patrón de desbloqueo para confirmar que deseas borrar el almacenamiento USB.</string>
-  <string name="media_format_gesture_prompt">Extrae tu patrón de desbloqueo</string>
-  <string name="media_format_summary">Borra todos los datos del almacenamiento USB</string>
-  <string name="media_format_title">Eliminar almacenamiento USB</string>
   <string name="media_volume_option_title">Volumen multimedia</string>
   <string name="media_volume_summary">Establecer volumen para música y vídeos</string>
   <string name="media_volume_title">Multimedia</string>
@@ -2977,33 +2959,25 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_aaid">Restablecer el identificador de publicidad</string>
   <string name="reset_app_preferences">Restablecer preferencias</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
-  <string name="reset_app_preferences_desc">
-    &lt;li&gt;Aplicaciones inhabilitadas&lt;/li&gt;
-    &lt;li&gt;Notificaciones de aplicaciones inhabilitadas&lt;/li&gt;
-    &lt;li&gt;Aplicaciones predeterminadas&lt;/li&gt;
-    &lt;li&gt;Restricciones de datos de aplicaciones&lt;/li&gt;
-    &lt;li&gt;Restricciones de permisos&lt;/li&gt;"
- ""
- ""
- ""
- ""
+  <string name="reset_app_preferences_desc">"Esto restablecerá todas las preferencias para:
+    
+ "&lt;li&gt;Aplicaciones inhabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Notificaciones de aplicaciones inhabilitadas&lt;/li&gt;"
+ "&lt;li&gt;Aplicaciones predeterminadas&lt;/li&gt;"
+ "&lt;li&gt;Restricciones de datos de aplicaciones&lt;/li&gt;"
+ "&lt;li&gt;Restricciones de permisos&lt;/li&gt;"
 
-No se perder&amp;#225;n los datos de las aplicaciones.""Se restablecer&amp;#225;n todas las preferencias de:
-
- "</string>
+ No se perderán los datos de aplicaciones."</string>
   <string name="reset_app_preferences_title">¿Restablecer preferencias de las aplicaciones?</string>
   <string name="reset_legacy_password_settings_preface_text">Es necesario restablecer la contraseña de bloqueo de pantalla.</string>
   <string name="reset_network_button_text">Restablecer ajustes</string>
   <string name="reset_network_complete_toast">Se han restablecido los ajustes de red</string>
   <string name="reset_network_confirm_title">¿Restablecer?</string>
-  <string name="reset_network_desc">
-    &lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;
-    &lt;li&gt;Datos m&amp;#243;viles&lt;/li&gt;
-    &lt;li&gt;Bluetooth&lt;/li&gt;"
-""
-""Se restablecer&amp;#225;n todos los ajustes de red, incluidos los siguientes:
-
-"</string>
+  <string name="reset_network_desc">"Esto restablecerá todos los ajustes de la red, incluyendo:
+   
+ "&lt;li&gt;Wi-Fi&lt;/li&gt;"
+ "&lt;li&gt;Datos del celular&lt;/li&gt;"
+ "&lt;li&gt;Bluetooth&lt;/li&gt;"</string>
   <string name="reset_network_final_button_text">Restablecer ajustes</string>
   <string name="reset_network_final_desc">¿Quieres restablecer todos los ajustes de red? Esta acción no se puede deshacer.</string>
   <string name="reset_network_title">Restablecer ajustes de red</string>
@@ -3399,10 +3373,8 @@ Para ello:
   <string name="security_settings_fingerprint_enroll_dialog_delete">Eliminar</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nombre</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Aceptar</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">
-    &lt;annotation id="url"&gt;M&amp;#225;s informaci&amp;#243;n&lt;/annotation&gt;Adem&amp;#225;s de desbloquear el tel&amp;#233;fono, tambi&amp;#233;n puedes utilizar tu huella digital para autorizar acceso a aplicaciones y compras. </string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">
-    &lt;annotation id="url"&gt;M&amp;#225;s informaci&amp;#243;n&lt;/annotation&gt;La opci&amp;#243;n de bloqueo de pantalla est&amp;#225; inhabilitada. Puedes seguir utilizando tu huella digital para autorizar acceso a aplicaciones y compras. </string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Además de desbloquear el teléfono, también puede utilizar su huella digital para autorizar las compras y el acceso de aplicaciones.  &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">La opción de bloqueo de pantalla esta desactivada. Puede seguir utilizando su huella digital para autorizar las compras y el acceso de aplicaciones. &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Listo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustración con la ubicación del sensor de huellas digitales y dispositivo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Localiza el sensor de huellas digitales situado en la parte trasera del teléfono.</string>
@@ -3771,17 +3743,17 @@ Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus dato
   <string name="storage_internal_format_details">
     &lt;b&gt;Copia de seguridad de fotos y de otro contenido multimedia&lt;/b&gt;
     &lt;b&gt;Copia de seguridad de aplicaciones&lt;/b&gt;"
-Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfi&amp;#233;relos a un ordenador con un cable USB.
+Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transferirlos a un ordenador con un cable USB.
 
 ""
-Se desinstalar&amp;#225;n todas las aplicaciones almacenadas en tu ^1 y se borrar&amp;#225;n sus datos. Para conservarlas, mu&amp;#233;velas a otro espacio de almacenamiento del dispositivo.""Despu&amp;#233;s de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
+Se desinstalaran todas las aplicaciones almacenadas en tu ^1 y se borraran sus datos. Para conservarlas, muevelas a otro espacio de almacenamiento del dispositivo. Despues de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
 
-Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrar&amp;#225;n cuando se formatee.
+Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borraran cuando se formatee.
 
 "</string>
   <string name="storage_internal_title">Almacenamiento del dispositivo</string>
   <string name="storage_internal_unmount_details">
-    &lt;b&gt;Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejar&amp;#225;n de funcionar y los archivos multimedia guardados en ella no estar&amp;#225;n disponibles hasta que se vuelva a insertar.&lt;/b&gt;"
+    &lt;b&gt;Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejaran de funcionar y los archivos multimedia guardados en ella no estaran disponibles hasta que se vuelva a insertar.&lt;/b&gt;"
 
 Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_label">Almacenamiento</string>
