@@ -53,13 +53,15 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="accessibility_personal_account_title">Cuenta personal (%s)</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">El botón de encendido cuelga</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
-  <string name="accessibility_screen_magnification_summary">"Modificar el nivel de zoom: pellizca dos o más dedos o sepáralos mientras los arrastras. Desplazar la imagen: arrastra dos o más dedos por la pantalla.
+  <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puede acercar y alejar con solo tocar la pantalla tres veces.
 
-También puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla pulsada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
+ Con la imagen ampliada, puedes:
+ "&lt;li&gt;&lt;ul&gt;"Desplazar la imagen: Arrastra dos o más dedos por la pantalla.
+ "&lt;li&gt;Ajustar el nivel de zoom: Pellizca con dos o más dedos y sepáralos mientras los arrastras.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-Nota: puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación. Cuando esta función está activada, puedes acercar y alejar la imagen tocando tres veces la pantalla.
+ También puedes ampliar el contenido seleccionado de forma temporal con solo tocar la pantalla tres veces y mantenerla pulsada. Con el contenido ampliado, puedes arrastrar el dedo para explorar diferentes partes de la pantalla. Levanta el dedo para volver al estado anterior.
 
-Con la imagen acercada, puedes:"</string>
+ Nota: Puedes tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación.
   <string name="accessibility_screen_magnification_title">Gestos de lupa</string>
   <string name="accessibility_service_default_description">No se ha especificado ninguna descripción.</string>
   <string name="accessibility_services_title">Servicios</string>
