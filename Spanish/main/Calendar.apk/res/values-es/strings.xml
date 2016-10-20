@@ -124,9 +124,9 @@
   <string name="credit_event_title">Factura de la tarjeta de crédito</string>
   <string name="custom">Personalizado (no se puede personalizar en el teléfono)</string>
   <string name="daily">Diario</string>
-  <string name="date_pattern_mm_dd">MMesddía</string>
-  <string name="date_pattern_mm_dd_kk_mm">MMesddía HH:mm</string>
-  <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
+  <string name="date_pattern_mm_dd">ddíaMMes</string>
+  <string name="date_pattern_mm_dd_kk_mm">ddíaMMes HH:mm</string>
+  <string name="date_pattern_yyyy_mm_dd_kk_mm">d-M-yyyy HH:mm</string>
   <string name="day_view">Día</string>
   <string name="day_view_new_event_hint">Nuevo evento</string>
   <string name="default_reminder_mode">Recordatorios</string>
@@ -175,7 +175,7 @@
   <string name="event_date_format">dd/MM</string>
   <string name="event_delete">Borrar evento</string>
   <string name="event_edit">Editar evento</string>
-  <string name="event_full_date_format">dd/MM/aaaa</string>
+  <string name="event_full_date_format">dd/MM/yyyy</string>
   <string name="event_hide_more">Ocultar</string>
   <string name="event_info_descrip">Descripción\u0009\u0009\u0009</string>
   <string name="event_info_end">Fin\u0009\u0009\u0009</string>
