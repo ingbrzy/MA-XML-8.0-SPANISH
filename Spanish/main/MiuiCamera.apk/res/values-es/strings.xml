@@ -81,6 +81,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="face_beauty_intelligent_level_2">Media</string>
   <string name="face_beauty_intelligent_level_3">Alta</string>
   <string name="face_beauty_smart">Inteligente</string>
+  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="flash">Flash</string>
   <string name="height">Altura</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
@@ -91,7 +92,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="not_enough_space">El almacenamiento interno está lleno</string>
   <string name="object_track_enable_toast">Pase a pantalla de vista previa para permitir el seguimiento del objeto.</string>
   <string name="orientation">Grado de rotación</string>
-  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Alinear la flecha con la línea de referencia</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Sigue…</string>
   <string name="pano_how_to_use_prompt_slow_down">Por favor más despacio</string>
@@ -282,8 +283,8 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_show_gender_age_title">Edad y género</string>
   <string name="pref_camera_snap_enable_title">Modo disparo rápido</string>
   <string name="pref_camera_snap_entry_off">Apagado</string>
-  <string name="pref_camera_snap_entry_take_movie">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para empezar a grabar un vídeo. Suelta para parar.</string>
-  <string name="pref_camera_snap_entry_take_picture">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para hacer una ráfaga de fotos. Suelta para parar.</string>
+  <string name="pref_camera_snap_entry_take_movie">Mantenga volumen hacia abajo para grabar vídeo. Soltar para detener.</string>
+  <string name="pref_camera_snap_entry_take_picture">Mantenga volumen hacia abajo para hacer una ráfaga de fotos. Soltar para detener.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Can`t use Quick snap mode while \"Wake with Volume buttons\" is on.</string>
   <string name="pref_camera_sound_title">Sonidos de cámara</string>
   <string name="pref_camera_square_mode_title">Cuadro</string>
@@ -412,7 +413,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="toast_start_audio_capture">Hacer un sonido para tomar una foto</string>
   <string name="ubi_focus_capture_fail">No se ha podido tomar la foto</string>
   <string name="ubifocus_capture_warning_message">Para obtener mejores resultados, su imagen debe contener objetos cercanos (menos de 1 metro de la lente) y lejanos</string>
-  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Alcanzado el límite de tamaño.</string>
   <string name="wait">Espera…</string>
   <string name="width">Ancho</string>
