@@ -53,7 +53,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="accessibility_personal_account_title">Cuenta personal (%s)</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">El botón de encendido cuelga</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliación</string>
-  <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puede acercar y alejar con solo tocar la pantalla tres veces.
+  <string name="accessibility_screen_magnification_summary">"Cuando esta función está activada, puede acercar y alejar el zoom con tocar la pantalla tres veces.
 
  Con la imagen ampliada, puedes:
  "&lt;li&gt;&lt;ul&gt;"Desplazar la imagen: Arrastra dos o más dedos por la pantalla.
@@ -1703,7 +1703,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="internal_format">Borrar el almacenamiento interno</string>
   <string name="internal_format_summary">Borrar todos los datos del almacenamiento interno del dispositivo</string>
   <string name="internal_media_format_button_text">Borrar el almacenamiento interno</string>
-  <string name="internal_media_format_desc">¿Borrar almacenamiento interno? &lt;b&gt;Todos&lt;/b&gt; los datos se borrarán. El teléfono se reiniciará después de haber borrado el almacenamiento interno</string>
+  <string name="internal_media_format_desc">&lt;b&gt;Todos&lt;/b&gt; sus datos se borrarán permanentemente. El teléfono se reiniciará después de haber borrado el almacenamiento interno. ¿Borrar almacenamiento interno?.</string>
   <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá revertir esta acción! El teléfono se reiniciará después de haber borrado el almacenamiento interno.</string>
   <string name="internal_media_format_title">Borrar el almacenamiento interno</string>
   <string name="internal_memory">Almacenamiento interno</string>
@@ -2051,7 +2051,7 @@ Has accedido a las cuentas que se indican a continuación:
  "&lt;li&gt;Otros datos de usuario&lt;/li&gt;"</string>
   <string name="master_clear_desc_erase_external_storage">
 
- Para borrar música, imágenes y otros datos de los usuarios, el "&lt;b&gt;almacenamiento USB&lt;/b&gt; tiene que ser borrado.</string>
+ Para eliminar música, imágenes y otros datos de los usuarios, el "&lt;b&gt;almacenamiento USB&lt;/b&gt; tiene que ser borrado.</string>
   <string name="master_clear_erase_application_progress">Eliminando aplicaciones…</string>
   <string name="master_clear_failed">No se ha reiniciado el sistema porque el servicio Borrado del sistema no está disponible.</string>
   <string name="master_clear_final_button_text">Borrar todo</string>
@@ -2080,6 +2080,14 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="media_button">Botón multimedia</string>
   <string name="media_category">Multimedia</string>
   <string name="media_feedback_enable_title">Vibrar con el ritmo</string>
+  <string name="media_format_button_text">Eliminar aalmacenamiento USB</string>
+  <string name="media_format_desc">&lt;b&gt;Todos&lt;/b&gt; los datos almacenados se borrarán permanentemente. El teléfono se reiniciará después de haber borrado el almacenamiento USB. ¿Deseas borrar todo el almacenamiento USB?.</string>
+  <string name="media_format_final_button_text">Eliminar todo</string>
+  <string name="media_format_final_desc">¿Deseas borrar el almacenamiento USB y eliminar todos sus archivos? Esta acción no se puede deshacer.</string>
+  <string name="media_format_gesture_explanation">Debes crear tu patrón de desbloqueo para confirmar que deseas borrar el almacenamiento USB.</string>
+  <string name="media_format_gesture_prompt">Extrae tu patrón de desbloqueo</string>
+  <string name="media_format_summary">Borra todos los datos del almacenamiento USB</string>
+  <string name="media_format_title">Eliminar almacenamiento USB</string>
   <string name="media_volume_option_title">Volumen multimedia</string>
   <string name="media_volume_summary">Establecer volumen para música y vídeos</string>
   <string name="media_volume_title">Multimedia</string>
@@ -2959,7 +2967,7 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_aaid">Restablecer el identificador de publicidad</string>
   <string name="reset_app_preferences">Restablecer preferencias</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
-  <string name="reset_app_preferences_desc">"Esto restablecerá todas las preferencias para:
+  <string name="reset_app_preferences_desc">"Esto restablecerá todas las preferencias de:
     
  "&lt;li&gt;Aplicaciones inhabilitadas&lt;/li&gt;"
  "&lt;li&gt;Notificaciones de aplicaciones inhabilitadas&lt;/li&gt;"
@@ -2967,7 +2975,7 @@ Seleccione su sistema operativo:"</string>
  "&lt;li&gt;Restricciones de datos de aplicaciones&lt;/li&gt;"
  "&lt;li&gt;Restricciones de permisos&lt;/li&gt;"
 
- No se perderán los datos de aplicaciones."</string>
+ No se perderán los datos de las aplicaciones."</string>
   <string name="reset_app_preferences_title">¿Restablecer preferencias de las aplicaciones?</string>
   <string name="reset_legacy_password_settings_preface_text">Es necesario restablecer la contraseña de bloqueo de pantalla.</string>
   <string name="reset_network_button_text">Restablecer ajustes</string>
@@ -3548,7 +3556,7 @@ Es posible que el PIN no sea correcto."</string>
   <string name="sim_other_call_settings">Otras opciones de llamada</string>
   <string name="sim_outgoing_call_title">SIM para hacer llamadas</string>
   <string name="sim_pin_attempts">"
-Attempts Remaining :"</string>
+ Intentos restantes :"</string>
   <string name="sim_pin_change">Cambiar PIN de tarjeta SIM</string>
   <string name="sim_pin_change_failed_enable_sim_lock">"Error al Cambiar SIM/RUIM PIN.
  Habilitar Bloqueo SIM/RUIM."</string>
@@ -3745,15 +3753,11 @@ Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus dato
     &lt;b&gt;Copia de seguridad de aplicaciones&lt;/b&gt;"
 Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transferirlos a un ordenador con un cable USB.
 
-""
 Se desinstalaran todas las aplicaciones almacenadas en tu ^1 y se borraran sus datos. Para conservarlas, muevelas a otro espacio de almacenamiento del dispositivo. Despues de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
 
-Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borraran cuando se formatee.
-
-"</string>
+Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borraran cuando se formatee.</string>
   <string name="storage_internal_title">Almacenamiento del dispositivo</string>
-  <string name="storage_internal_unmount_details">
-    &lt;b&gt;Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejaran de funcionar y los archivos multimedia guardados en ella no estaran disponibles hasta que se vuelva a insertar.&lt;/b&gt;"
+  <string name="storage_internal_unmount_details">&lt;b&gt;Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejaran de funcionar y los archivos multimedia guardados en ella no estaran disponibles hasta que se vuelva a insertar.&lt;/b&gt;"
 
 Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_label">Almacenamiento</string>
@@ -3777,10 +3781,7 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_settings">Almacenamiento</string>
   <string name="storage_settings_summary">Desactivar tarjeta SD, ver almacenamiento disponible.</string>
   <string name="storage_settings_title">Ajustes de almacenamiento</string>
-  <string name="storage_size_large">
-    &lt;small&gt;
-      &lt;small&gt; ^2&lt;/small&gt;
-    &lt;/small&gt;^1</string>
+  <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
   <string name="storage_summary_format">%1$s usados en %2$s</string>
   <string name="storage_title_usb">Conexión USB a ordenador</string>
   <string name="storage_type_external">Almacenamiento externo</string>
@@ -3795,16 +3796,12 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_volume_used">Utilizado de %1$s</string>
   <string name="storage_volume_used_total">Total utilizado de %1$s</string>
   <string name="storage_wizard_format_confirm_body">
-    &lt;b&gt;Al formatear tu ^1, se borrar&amp;#225;n todos los datos que tenga almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1 por seguridad.
+ &lt;b&gt;Al formatear tu ^1, se borraran todos los datos que tenga almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1 por seguridad.
 
-Una vez que se formatee, tu ^1 solo funcionar&amp;#225; en este dispositivo.
-
-"</string>
+ Una vez que se formatee, tu ^1 solo funcionara en este dispositivo."</string>
   <string name="storage_wizard_format_confirm_next">Borrar y formatear</string>
   <string name="storage_wizard_format_confirm_public_body">
-    &lt;b&gt;Al formatear tu ^1, se borrar&amp;#225;n todos los datos que tengas almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1.
-
-"</string>
+ &lt;b&gt;Al formatear tu ^1, borraran todos los datos que tengas almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
   <string name="storage_wizard_format_confirm_title">Formatear como almacen. interno</string>
   <string name="storage_wizard_format_progress_body">No extraigas tu ^1 mientras se esté formateando.</string>
@@ -3818,7 +3815,7 @@ Una vez que se formatee, tu ^1 solo funcionar&amp;#225; en este dispositivo.
 
 La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio de almacenamiento interno. Algunas aplicaciones no funcionarán hasta que finalice el proceso."</string>
   <string name="storage_wizard_migrate_confirm_body">
-    &lt;b&gt;La migraci&amp;#243;n durar&amp;#225; ^1 y permitir&amp;#225; liberar ^2 de espacio de almacenamiento en ^3.&lt;/b&gt;
+    &lt;b&gt;La migración durara ^1 y permitira liberar ^2 de espacio de almacenamiento en ^3.&lt;/b&gt;
   </string>
   <string name="storage_wizard_migrate_confirm_next">Mover</string>
   <string name="storage_wizard_migrate_confirm_title">Migración de datos</string>
@@ -3896,7 +3893,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
 %1$s"</string>
   <string name="sync_plug">
     &lt;font fgcolor="#ffffffff"&gt;Te damos la bienvenida a Google Sync,&lt;/font&gt;"
-un servicio de Google que te permite sincronizar datos para que puedas acceder a tus contactos, a tus citas, etc., desde cualquier ubicaci&amp;#243;n."</string>
+un servicio de Google que te permite sincronizar datos para que puedas acceder a tus contactos, a tus citas, etc., desde cualquier ubicación."</string>
   <string name="sync_settings">Sincronizar</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Solamente por Wi-Fi</string>
@@ -4030,20 +4027,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="turn_off_security_lock">Desactivar bloqueo</string>
   <string name="turn_on_radio">Activar señal móvil</string>
   <string name="turn_on_security_lock">Seleccione bloqueo de pantalla</string>
-  <string name="uicc_eject">Expulsar almacenamiento UICC</string>
-  <string name="uicc_eject_summary">Expulsar almacenamiento UICC para extraerlo con seguridad</string>
-  <string name="uicc_format">Borrar almacenamiento UICC</string>
-  <string name="uicc_format_summary">Borrar todos los datos del almacenamiento UICC (por ejemplo: música y fotos)</string>
-  <string name="uicc_insert_summary">Conectar almacenamiento UICC</string>
-  <string name="uicc_media_format_button_text">Borrar almacenamiento UICC</string>
-  <string name="uicc_media_format_desc">
-    &lt;b&gt;todos&lt;/b&gt; los archivos guardados all&amp;#237;.&amp;#191;Borrar el almacenamiento UICC? Perder&amp;#225; </string>
-  <string name="uicc_media_format_final_desc">Todos los archivos almacenados en el almacenamiento UICC se eliminarán de forma permanente.</string>
-  <string name="uicc_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento UICC.</string>
-  <string name="uicc_media_format_summary">Eliminar todos los datos del almacenamiento UICC</string>
-  <string name="uicc_media_format_title">Borrar almacenamiento UICC</string>
-  <string name="uicc_mount">Montar almacenamiento UICC</string>
-  <string name="uicc_unmount_inform_text">El almacenamiento UICC será expulsado.</string>
   <string name="under_keyguard">Apagar pantalla</string>
   <string name="uninstall_all_users_text">Desinstalar para todos los usuarios</string>
   <string name="uninstall_dlg_msg">Al desinstalar borrará todos los datos de las aplicaciones.</string>
@@ -4456,16 +4439,13 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="wifi_alert_lockdown_by_device_owner">%1$s administra tu dispositivo y no permite modificar ni eliminar esta red Wi-Fi. Para obtener más información, ponte en contacto con el administrador.</string>
   <string name="wifi_allow_scan_with_traffic">Permitir siempre búsquedas de Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/No permitir búsquedas de Wi-Fi basadas en la cantidad de tráfico de datos presente en la interfaz</string>
-  <string name="wifi_and_mobile_skipped_message">
-    &lt;li&gt;Tu tel&amp;#233;fono no tendr&amp;#225; conexi&amp;#243;n a Internet.&lt;/li&gt;
-    &lt;li&gt;No recibir&amp;#225;s actualizaciones de software hasta que te conectes a Internet.&lt;/li&gt;
-    &lt;li&gt;No podr&amp;#225;s activar las funciones de protecci&amp;#243;n del dispositivo en este momento.&lt;/li&gt;"
-
-""
-
-""Si te saltas el paso de la conexi&amp;#243;n Wi&amp;#8209;Fi:
-
-"</string>
+  <string name="wifi_and_mobile_skipped_message">"Si te saltas el paso de la conexión Wi-fi:
+    
+ "&lt;li&gt;Tu telefono no tendra conexión a Internet.&lt;/li&gt;"
+    
+ "&lt;li&gt;No recibiras actualizaciones de software hasta que te conectes a Internet.&lt;/li&gt;"
+    
+ "&lt;li&gt;No podras activar las funciones de protección del dispositivo en este momento.&lt;/li&gt;"</string>
   <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
@@ -4698,11 +4678,9 @@ de Wi‑Fi"</string>
   <string name="wifi_setup_back">Atrás</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
-  <string name="wifi_setup_description_connected">
-    &lt;b&gt;Siguiente&lt;/b&gt;
-    &lt;b&gt;Atr&amp;#225;s&lt;/b&gt; para conectarse a otra red Wi-Fi." para continuar con la configuraci&amp;#243;n.
+  <string name="wifi_setup_description_connected">Pulsa &lt;b&gt;Siguiente&lt;/b&gt;" para continuar con la configuración.
 
-Pulsa "Pulsa </string>
+ Pulsa "&lt;b&gt;Atras&lt;/b&gt; para conectarse a otra red Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">Conectando (puede tardar unos minutos)…</string>
   <string name="wifi_setup_detail">Detalles de red</string>
   <string name="wifi_setup_eap_not_supported">Durante la configuración no puede definir una conexión Wi-Fi EAP, pero puede hacerlo cuando haya finalizado a través de Ajustes &gt; Conexiones inalámbricas y redes.</string>
