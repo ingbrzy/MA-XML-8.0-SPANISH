@@ -1,4 +1,4 @@
-# ![logo](http://s33.postimg.org/7qee18f4v/xiaomies_es.png) 
+# ![logo](http://s33.postimg.org/7qee18f4v/xiaomies_es.png)
 
 # SPANISH MIUI TRANSLATION FOR XIAOMI.EU MULTILANGUAGE ROMS
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
@@ -19,6 +19,6 @@ What's new in our repositorie?  | Últimas actualizaciones al repositorio en Esp
 https://github.com/ingbrzy/MA-XML-8.0-SPANISH/commits/master
 
 Special thanks to the active translators volunteers:
-@Infante007, @elyorch76 & @asirena
+@Infante007, @nosijf982, @elyorch76 & @asirena
 
-# If you want to help in translations, please contact @Jamflux or @ingbrzy for further details.
+# If you want to help in translations, please contact @Infante007 or @ingbrzy for further details.
