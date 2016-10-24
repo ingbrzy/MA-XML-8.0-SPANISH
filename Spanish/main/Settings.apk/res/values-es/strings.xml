@@ -1511,7 +1511,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="force_touch_enable_tips">Toque largo en el icono de la aplicación para mostrar los atajos, mientras el 3D Touch esté activo.</string>
   <string name="forget">Olvidar</string>
   <string name="forget_password_button_text">
-    &lt;u&gt;Contrase&amp;#241;a olvidada&lt;/u&gt;
+	&lt;u&gt;Contraseña olvidada&lt;/u&gt;
   </string>
   <string name="forget_pattern">&lt;u&gt;¿Olvidó el patrón?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Añadir cuenta Mi</string>
@@ -3753,11 +3753,11 @@ Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus dato
     &lt;b&gt;Copia de seguridad de aplicaciones&lt;/b&gt;"
 Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transferirlos a un ordenador con un cable USB.
 
-Se desinstalaran todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muevelas a otro espacio de almacenamiento del dispositivo. Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
+Se desinstalarán todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muevelas a otro espacio de almacenamiento del dispositivo. Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
 
 Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrarán cuando se formatee.</string>
   <string name="storage_internal_title">Almacenamiento del dispositivo</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estaran disponibles hasta que se vuelva a insertar.&lt;/b&gt;"
+  <string name="storage_internal_unmount_details">&lt;b&gt;Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estarán disponibles hasta que se vuelva a insertar.&lt;/b&gt;"
 
 Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_label">Almacenamiento</string>
@@ -3796,12 +3796,12 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_volume_used">Utilizado de %1$s</string>
   <string name="storage_volume_used_total">Total utilizado de %1$s</string>
   <string name="storage_wizard_format_confirm_body">
- &lt;b&gt;Al formatear tu ^1, se borraran todos los datos que tenga almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1 por seguridad.
+ &lt;b&gt;Al formatear tu ^1, se borrarán todos los datos que tenga almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1 por seguridad.
 
- Una vez que se formatee, tu ^1 solo funcionara en este dispositivo."</string>
+ Una vez que se formatee, tu ^1 solo funcionará en este dispositivo."</string>
   <string name="storage_wizard_format_confirm_next">Borrar y formatear</string>
   <string name="storage_wizard_format_confirm_public_body">
- &lt;b&gt;Al formatear tu ^1, borraran todos los datos que tengas almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1."</string>
+ &lt;b&gt;Al formatear tu ^1, borrarán todos los datos que tengas almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
   <string name="storage_wizard_format_confirm_title">Formatear como almacen. interno</string>
   <string name="storage_wizard_format_progress_body">No extraigas tu ^1 mientras se esté formateando.</string>
@@ -4132,8 +4132,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="usb_install_app_desc">Permitir la instalación de aplicaciones a través de USB</string>
   <string name="usb_label_installer_cd">Instalar las herramientas de transferencia de archivos</string>
   <string name="usb_media_format_button_text">Borrar almacenamiento USB</string>
-  <string name="usb_media_format_desc">
-    &lt;b&gt;todos&lt;/b&gt; los archivos guardados all&amp;#237;.&amp;#191;Borrar el almacenamiento USB? Perder&amp;#225; </string>
+  <string name="usb_media_format_desc">¿Desea borrar la unidad USB? ¡Perderá &lt;b&gt;todos&lt;/b&gt; los datos!</string>
   <string name="usb_media_format_final_desc">Todos los archivos almacenados en el almacenamiento USB se eliminarán de forma permanente.</string>
   <string name="usb_media_format_gesture_explanation">Dibuje su patrón de desbloqueo para confirmar que desea borrar el almacenamiento USB.</string>
   <string name="usb_media_format_summary">Eliminar todos los datos del almacenamiento USB</string>
