@@ -2042,7 +2042,7 @@ Has accedido a las cuentas que se indican a continuación:
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
   <string name="master_clear_desc">Esto borrará todos los datos del teléfono del &lt;b&gt;almacenamiento interno&lt;/b&gt;", incluyendo:
-    
+
  "&lt;li&gt;Tu cuenta de Google&lt;/li&gt;"
  "&lt;li&gt;Los ajustes y los datos de aplicaciones y del sistema&lt;/li&gt;"
  "&lt;li&gt;Las aplicaciones descargadas&lt;/li&gt;"</string>
@@ -2968,7 +2968,7 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_app_preferences">Restablecer preferencias</string>
   <string name="reset_app_preferences_button">Restablecer aplicaciones</string>
   <string name="reset_app_preferences_desc">"Esto restablecerá todas las preferencias de:
-    
+
  "&lt;li&gt;Aplicaciones inhabilitadas&lt;/li&gt;"
  "&lt;li&gt;Notificaciones de aplicaciones inhabilitadas&lt;/li&gt;"
  "&lt;li&gt;Aplicaciones predeterminadas&lt;/li&gt;"
@@ -2982,7 +2982,7 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_network_complete_toast">Se han restablecido los ajustes de red</string>
   <string name="reset_network_confirm_title">¿Restablecer?</string>
   <string name="reset_network_desc">"Esto restablecerá todos los ajustes de la red, incluyendo:
-   
+
  "&lt;li&gt;Wi-Fi&lt;/li&gt;"
  "&lt;li&gt;Datos del celular&lt;/li&gt;"
  "&lt;li&gt;Bluetooth&lt;/li&gt;"</string>
@@ -3796,12 +3796,12 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_volume_used">Utilizado de %1$s</string>
   <string name="storage_volume_used_total">Total utilizado de %1$s</string>
   <string name="storage_wizard_format_confirm_body">
- &lt;b&gt;Al formatear tu ^1, se borrarán todos los datos que tenga almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1 por seguridad.
+ Al formatear tu ^1, se borrarán todos los datos que tenga almacenados. Te recomendamos que hagas una copia de seguridad de los datos para no perderlos. "Debes formatear tu ^1 por seguridad.
 
  Una vez que se formatee, tu ^1 solo funcionará en este dispositivo."</string>
   <string name="storage_wizard_format_confirm_next">Borrar y formatear</string>
   <string name="storage_wizard_format_confirm_public_body">
- &lt;b&gt;Al formatear tu ^1, borrarán todos los datos que tengas almacenados.&lt;/b&gt; Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."Debes formatear tu ^1."</string>
+ Al formatear tu ^1, borrarán todos los datos que tengas almacenados. Te recomendamos que hagas una copia de seguridad de los datos para no perderlos. "Debes formatear tu ^1."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
   <string name="storage_wizard_format_confirm_title">Formatear como almacen. interno</string>
   <string name="storage_wizard_format_progress_body">No extraigas tu ^1 mientras se esté formateando.</string>
@@ -4439,11 +4439,11 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="wifi_allow_scan_with_traffic">Permitir siempre búsquedas de Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/No permitir búsquedas de Wi-Fi basadas en la cantidad de tráfico de datos presente en la interfaz</string>
   <string name="wifi_and_mobile_skipped_message">"Si te saltas el paso de la conexión Wi-fi:
-    
+
  "&lt;li&gt;Tu telefono no tendra conexión a Internet.&lt;/li&gt;"
-    
+
  "&lt;li&gt;No recibiras actualizaciones de software hasta que te conectes a Internet.&lt;/li&gt;"
-    
+
  "&lt;li&gt;No podras activar las funciones de protección del dispositivo en este momento.&lt;/li&gt;"</string>
   <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
