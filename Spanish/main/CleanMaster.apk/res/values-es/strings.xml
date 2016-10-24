@@ -121,6 +121,10 @@
   <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Tarjeta SD</string>
+  <string name="deepclean_normal_item_desc1">Archivos basura</string>
+  <string name="deepclean_normal_item_desc2">"La actividad de limpiador no influirá en el rendimiento del sistema"</string>
+  <string name="deepclean_normal_item_summary_empty">Todo parece correcto, nada para limpiar</string>
+  <string name="deepclean_normal_title">Limpiar automáticamente</string>
   <string name="deepclean_similar_ignore">Ignorar</string>
   <string name="deepclean_similar_summary_empty">Todo parece bien, no hay fotos para borrar</string>
   <string name="deepclean_size_summary_less">Sin espacio suficiente</string>
@@ -310,11 +314,12 @@
   <string name="pref_title_auto_clean_content_choose">Seleccionar elementos a limpiar</string>
   <string name="pref_title_auto_update_cleanup_db">Actualizar automáticamente</string>
   <string name="pref_title_choose_engine">Definiciones</string>
+  <string name="pref_title_clean_alert">Limpiar automáticamente</string>
   <string name="pref_title_cleanup_white_list">Excepciones</string>
   <string name="pref_title_expand_cache_group">Mostrar elementos en caché</string>
-  <string name="pref_title_garbage_cleanup_check_size">Tamaño del límite de papelera</string>
+  <string name="pref_title_garbage_cleanup_check_size">Límite del tamaño de la papelera</string>
   <string name="pref_title_garbage_cleanup_check_time">Programar</string>
-  <string name="pref_title_garbage_cleanup_size">Tamaño límite de papelera</string>
+  <string name="pref_title_garbage_cleanup_size">Límite del tamaño de la papelera</string>
   <string name="pref_title_manual_check_cleanup_db_update">Comprobar actualizaciones</string>
   <string name="pref_title_open_optimizer_cloud_scan">Cargar los nombres de los archivos</string>
   <string name="pref_title_open_optimizer_memory_scan">Escanear memoria de la aplicación</string>
@@ -375,7 +380,7 @@
   <string name="tips_of_traffic_notification">Ver las estadísticas de datos en la ventana de notificaciones</string>
   <string name="tips_of_traffic_pack_threshold">Comprar más datos cuando alcance el límite de datos mensuales</string>
   <string name="tips_of_virus_scan">Escanear su dispositivo regularmente en busca de virus para mantener la seguridad</string>
-  <string name="title_auto_cleaner">¿Limpiar automáticamente?</string>
+  <string name="title_auto_cleaner">Limpiar automáticamente</string>
   <string name="title_delete_cache">Limpiar caché de aplicaciones</string>
   <string name="title_delete_clipboard">Contenido del portapapeles</string>
   <string name="title_delete_deepclean">Eliminar</string>
