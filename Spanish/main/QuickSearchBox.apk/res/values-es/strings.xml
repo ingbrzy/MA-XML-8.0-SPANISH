@@ -58,7 +58,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="permission_prompt_title">¿Quieres más?</string>
   <string name="recent_apps">Aplicaciones recomendadas</string>
   <string name="recently_shortcut_label">Accesos directos recientes</string>
-  <string name="remove_from_history">¿Quiere borrar esta entrada del historial de busqueda?</string>
+  <string name="remove_from_history">¿Quiere borrar esta entrada del historial de búsqueda?</string>
   <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
   <string name="search_apps">Buscar aplicaciones</string>
   <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
@@ -99,10 +99,10 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Prueba diciendo: </string>
   <string name="web_search_results">Resultados web</string>
-  <string name="xiaomi_hint">http://fluxyon.comxa.com/hint.json</string>
-  <string name="xiaomi_homepage_hint">http://127.0.0.1</string>
-  <string name="xiaomi_homepage_suggest">http://127.0.0.1</string>
-  <string name="xiaomi_search_label">Resultados</string>
-  <string name="xiaomi_source_url">http://127.0.0.1</string>
-  <string name="xiaomi_suggest_base">http://fluxyon.comxa.com/buscarengoogle.html</string>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
+  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
+  <string name="xiaomi_search_label">Results</string>
+  <string name="xiaomi_source_url">https://search.browser.miui.com</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>
