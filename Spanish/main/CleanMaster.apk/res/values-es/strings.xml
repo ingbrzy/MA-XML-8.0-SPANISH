@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
+  <string name="RF_DalvikCacheLeftovers">Dalvik-Cache</string>
   <string name="activity_title_ad">Publicidad</string>
   <string name="activity_title_apk">Paquetes</string>
   <string name="activity_title_brightness_image">Subexpuesta y sobreexpuesta</string>
   <string name="activity_title_cache">Caché</string>
-  <string name="activity_title_cache_data">Datos de la app</string>
+  <string name="activity_title_cache_data">Datos de la aplicación</string>
   <string name="activity_title_deep_apk">Eliminar APK</string>
   <string name="activity_title_deep_clean">Limpieza a fondo</string>
   <string name="activity_title_garbage_cleanup">Limpiador</string>
@@ -26,23 +26,23 @@
   <string name="activity_title_video">Eliminar vídeos</string>
   <string name="activity_title_white_list">Excepciones</string>
   <string name="ad_install_success_dialog_lunch">Abrir</string>
-  <string name="ad_install_success_dialog_title">Instalado %1$s exitosamente. ¿Abrir ahora?</string>
+  <string name="ad_install_success_dialog_title">%1$s instalado correctamente. ¿Abrir ahora?</string>
   <string name="apk_status_damage">Dañado</string>
   <string name="apk_status_duplicate">Duplicado</string>
   <string name="apk_status_install">Instalado</string>
   <string name="apk_status_installed_old">Versión antigua</string>
-  <string name="apk_status_uninstalled">No instalado</string>
-  <string name="app_install_tips_go_to">Lunch now</string>
-  <string name="app_install_tips_install_success">%1$s install success</string>
+  <string name="apk_status_uninstalled">No instalada</string>
+  <string name="app_install_tips_go_to">Abrir</string>
+  <string name="app_install_tips_install_success">%1$s instalación correcta</string>
   <string name="apps_sort_type_item_size">Tamaño</string>
   <string name="apps_sort_type_item_time">Usado frecuentemente</string>
   <string name="apps_sort_type_title">Ordenar</string>
   <string name="authorize_detail">Bloqueadas %d aplicaciones</string>
-  <string name="auto_clean_switch_off">Off</string>
-  <string name="auto_clean_switch_on">On</string>
+  <string name="auto_clean_switch_off">Apagado</string>
+  <string name="auto_clean_switch_on">Encendido</string>
   <string name="auto_cleaner_open">Activar</string>
   <string name="back">Volver</string>
-  <string name="btn_text_done">Terminado</string>
+  <string name="btn_text_done">Listo</string>
   <string name="btn_text_quick_cleanup">Limpiar</string>
   <string name="btn_text_quick_cleanup_apk">%1$s Eliminar aplicaciones seleccionadas</string>
   <string name="btn_text_quick_cleanup_appdata">%1$s Eliminar los datos seleccionados</string>
@@ -50,7 +50,7 @@
   <string name="btn_text_quick_cleanup_video">%1$s Eliminar vídeos seleccionados</string>
   <string name="btn_text_quick_scan">Escanear</string>
   <string name="btn_text_stop">Parar</string>
-  <string name="button_optimizer">De acuerdo</string>
+  <string name="button_optimizer">Aceptar</string>
   <string name="button_text_add_to_white_list">Excepción</string>
   <string name="button_text_backup_uninstall">Hacer primero una copia de seguridad</string>
   <string name="button_text_cancel">Cancelar</string>
@@ -275,8 +275,8 @@
   <string name="msg_update_error_code_unknown_error">Error desconocido</string>
   <string name="name_debuglog_dir">Registro Debug Bsp</string>
   <string name="name_optimizer">Política de privacidad</string>
-  <string name="nb_clear_set">ROM limpia, ver la info de la batería y la lista de bloqueo en la pantalla de notificaciones</string>
-  <string name="net_assistant_detail">Usado %1$s, almacenado %2$s</string>
+  <string name="nb_clear_set">ROM limpia, ver la infomación de la batería y la lista de bloqueo en la pantalla de notificaciones</string>
+  <string name="net_assistant_detail">Usado %1$s, guardado %2$s</string>
   <string name="net_assistant_title">Usados %s datos móviles este mes</string>
   <string name="network_not_available">No se puede conectar a la red</string>
   <string name="news_change">Cambiar</string>
@@ -343,11 +343,11 @@
   <string name="remain_item_name_n7p"/>
   <string name="remain_item_name_pamp"/>
   <string name="safety_check_detail">%1$d veces, ganados %2$d puntos</string>
-  <string name="safety_rank">Cerca de %d%% usuarios de MIUI en términos de seguridad</string>
+  <string name="safety_rank">Por delante de %d%% usuarios de MIUI en términos de seguridad</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">¿Permitir a esta app conectarse a Internet para recibir actualizaciones?</string>
   <string name="scanning">Escaneando…</string>
-  <string name="search_history">Buscar Historial</string>
+  <string name="search_history">Historial de búsqueda</string>
   <string name="see_more">Más</string>
   <string name="set_immediately">Ajustar</string>
   <string name="seton_immediately">Activar</string>
@@ -357,7 +357,7 @@
   <string name="similar_image_scaning">Comprobando…</string>
   <string name="similar_image_title">Fotos</string>
   <string name="sponsored">Patrocinado</string>
-  <string name="start_downloading_app">Start download：%1$s</string>
+  <string name="start_downloading_app">Empezar descarga：%1$s</string>
   <string name="start_install">Instalar ahora</string>
   <string name="summary_auto_cleaner">¿Limpiar automáticamente el sistema cada 3 días?</string>
   <string name="summary_delete_apk">¿Eliminar APK seleccionadas permanentemente?</string>
@@ -417,7 +417,7 @@
   <string name="toast_uninstall_success">Desinstalación completa</string>
   <string name="total_clean">Total eliminado: %s</string>
   <string name="total_clean_text">Limpiar</string>
-  <string name="traffic_top">5 apps principales que consumen datos</string>
+  <string name="traffic_top">Aplicaciones que consumen más datos</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Análisis de virus</string>
   <string name="white_list_ad_header">Archivos de publicidad: %d</string>
