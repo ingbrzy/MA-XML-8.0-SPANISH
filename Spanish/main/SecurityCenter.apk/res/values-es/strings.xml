@@ -303,7 +303,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="buy_immediately" traducir="a currar">Buy</string>
   <string name="buy_traffic_pack" traducir="a currar">Buy more data</string>
   <string name="byteShort">B</string>
-  <string name="cache_check_content_none" traducir="a currar">@string/memory_check_content_none</string>
   <string name="cache_header_title">Limpiar %1$d archivos en caché para liberar %2$s de espacio</string>
   <string name="call_and_contact">Llamadas y contactos</string>
   <string name="cancal_to_setting_fingerprint">Cancelar</string>
@@ -334,14 +333,11 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="card_main_private_space_summary">Utilizando el segundo espacio es como tener 2 dispositivos</string>
   <string name="card_main_private_space_title">Segundo espacio</string>
   <string name="card_main_sectool_title">Herramientas</string>
-  <string name="card_main_speeddetail_action" traducir="a currar">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">Velocidad de conexión</string>
   <string name="card_main_speeddetailt_summary">Ver la velocidad de conexión para aplicaciones individuales</string>
   <string name="card_main_xspace_action">Crear</string>
   <string name="card_main_xspace_summary">Cree múltiples cuentas en cualquier aplicación</string>
   <string name="card_main_xspace_title">Aplicaciones duplicadas</string>
-  <string name="category_key_power_usage_details" traducir="a currar">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages" traducir="a currar">key_power_usage_packages</string>
   <string name="celcius_symbol" traducir="a currar">℃</string>
   <string name="charging_text_battery_full_time">"Última carga "</string>
   <string name="charging_text_battery_nearly_full">Casi totalmente cargada</string>
@@ -1100,7 +1096,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_save_mode_summary" formatted="false">Supervisar los procesos en segundo plano, y desactivar la sincronización.El economizador de batería se apagará automáticamente cuando la batería este entre el 60% y el 100% de la carga.</string>
   <string name="power_save_on_time_auto_save_title">Programar cambio de perfil</string>
   <string name="power_save_on_time_default_time">00:00</string>
-  <string name="power_save_on_time_default_time_na" traducir="a currar">00:00</string>
   <string name="power_save_on_time_end_time_summary">Terminar</string>
   <string name="power_save_on_time_end_time_summary_na">A</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -1212,7 +1207,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_default_apps_manager" traducir="a currar">key_default_apps_manager</string>
   <string name="preference_key_information_setting_close" traducir="a currar">key_information_setting_close</string>
   <string name="preference_key_information_setting_wlan" traducir="a currar">key_information_setting_wlan</string>
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
@@ -1506,9 +1500,6 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_brand_error_notification_title">Tipo de red incorrecta</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Marca del operador errónea&lt;br/&gt;&lt;br/&gt;Establecer marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Aceptar</string>
-  <string name="tc_diagnostic_fragment_default" traducir="a currar">"About diagnostics
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar la ubicación</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicación errónea</string>
   <string name="tc_diagnostic_notification_sumarry">Pulse para ver los resultados</string>
