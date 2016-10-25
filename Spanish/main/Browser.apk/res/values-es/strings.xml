@@ -56,6 +56,7 @@
   <string name="adblock_websites_settings_title">Sitios bloqueados</string>
   <string name="add_bookmark_group">Agregar grupo</string>
   <string name="add_bookshelf_popup_text">Añadido a la estantería</string>
+  <string name="add_favorites_to">Añadir favoritos a</string>
   <string name="add_new_bookmark">Agregar un marcador</string>
   <string name="add_new_quicklink">Añadir atajo</string>
   <string name="add_ql_bm_title">Guardar</string>
@@ -336,13 +337,14 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="homepage_set">Establecer página de inicio</string>
   <string name="homepage_top_card_menu">Arriba</string>
   <string name="in_incognito">"¡Estás de incógnito! Las páginas web que ves en esta pestaña no aparecen en el historial del navegador."</string>
+  <string name="in_secureaccess">El Navegador cambia a Modo seguro</string>
+  <string name="isReplacePage">File already exists, replace?</string>
   <string name="is_first_history_item">Este es el primer elemento del historial</string>
   <string name="is_first_tab">Esta es la primera pestaña</string>
   <string name="is_last_history_item">Este es el último elemento del historial</string>
   <string name="is_last_tab">Esta es la última pestaña</string>
   <string name="is_page_bottom">"Alcanzaste la parte inferior de la página"</string>
   <string name="is_page_top">"Estás en el inicio de la página"</string>
-  <string name="isreplace">¿El archivo ya existe, sustituir?</string>
   <string name="js_dialog_before_unload">"%s
 
 ¿Está seguro de querer salir de esta página?"</string>
@@ -649,7 +651,6 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="save_password_never">Nunca</string>
   <string name="save_password_notnow">Ahora no</string>
   <string name="save_password_remember">Recordar</string>
-  <string name="save_to">Salvar en</string>
   <string name="save_to_camera">Guardar en cámara</string>
   <string name="save_to_camera_failed">"No se puede guardar la imagen"</string>
   <string name="save_to_camera_success">Guardado en cámara</string>
