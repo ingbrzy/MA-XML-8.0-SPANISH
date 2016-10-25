@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+        <string-array name="record_type_values">
+        <item>audio/mpeg</item>
+        <item>audio/amr</item>
+    </string-array>
     <string-array name="record_type_entries">
         <item>MP3</item>
         <item>AMR</item>
@@ -23,12 +27,17 @@
         <item>Graba usando 2 canales, escucha el sonido estéreo en los auriculares</item>
         <item>"Mueve el micrófono cerca de la fuente de sonido para obtener mejor calidad"</item>
         <item>Sitúa el teléfono entre dos personas para grabarlas claramente a ambas</item>
-        <item>La distancia máxima efectiva del micrófono es de 10 metros</item>
+        <item>La alta tecnología del rango dinámico permite que la captura de sonido del micrófono sea más detallada</item>
         </string-array>
     <string-array name="record_quality_entries">
         <item>Alta</item>
         <item>Estándar</item>
         <item>Baja</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="record_quality_summaries">
         <item>MP3, ~192kbit/s, ~90MB/h</item>
