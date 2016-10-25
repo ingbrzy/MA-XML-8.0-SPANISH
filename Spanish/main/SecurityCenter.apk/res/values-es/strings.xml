@@ -29,7 +29,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="activity_title_apps_manager">Aplicaciones</string>
   <string name="activity_title_auto_start_manager">Inicio automático</string>
   <string name="activity_title_create_shortcut">Gestionar accesos directos</string>
-  <string name="activity_title_deep_clean" traducir="a currar">Deep clean</string>
+  <string name="activity_title_deep_clean">Limpieza profunda</string>
   <string name="activity_title_default_apps_manager">Aplicaciones predeterminadas</string>
   <string name="activity_title_garbage_cleanup">Limpiador</string>
   <string name="activity_title_license_manager">Permisos</string>
@@ -54,7 +54,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Detalle del virus</string>
   <string name="activity_title_virus_settings">Ajustes</string>
-  <string name="activity_title_white_list" traducir="a currar">Exceptions</string>
+  <string name="activity_title_white_list">Excepciones</string>
   <string name="adb_install_no_network">Conectarse a la red y vuelva a intentarlo</string>
   <string name="adb_install_open">Permitiendo…</string>
   <string name="adb_install_open_error">"No se puede permitir, compruebe su conexión a la red"</string>
@@ -102,8 +102,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_check_sub_title_text">Optimizar aplicaciones para resolver los problemas con la batería</string>
   <string name="app_detail">Detalles</string>
   <string name="app_install_intercept">Bloquear instalación</string>
-  <string name="app_install_tips_go_to" traducir="a currar">Open</string>
-  <string name="app_install_tips_install_success" traducir="a currar">Installed %1$s successfully</string>
+  <string name="app_install_tips_go_to">Abrir</string>
+  <string name="app_install_tips_install_success">Instalado %1$s con éxito</string>
   <string name="app_mobile">Móvil</string>
   <string name="app_name">Bloqueo de Aplicaciones</string>
   <string name="app_name_na">Uso de datos</string>
@@ -239,7 +239,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="bind_xiaomi_account_success">Cuenta Mi añadida correctamente</string>
   <string name="bind_xiaomi_account_summary">Utilice Cuenta Mi para restablecer su contraseña</string>
   <string name="bind_xiaomi_account_title">Añadir cuenta Mi</string>
-  <string name="booster_immediately" traducir="a currar">Boost</string>
+  <string name="booster_immediately">Aumentar</string>
   <string name="boot_reminder">Enciende tu dispositivo a una hora programada</string>
   <string name="boot_time">Encender: %1$s</string>
   <string name="boot_time_day">Encender: %2$s %1$dd</string>
@@ -252,7 +252,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="btn_lock">Añadir bloqueo</string>
   <string name="btn_start_diagnostic">Comprobar la red</string>
   <string name="btn_stop_diagnostic">Detener</string>
-  <string name="btn_text_already_opened" traducir="a currar">On</string>
+  <string name="btn_text_already_opened">Encendido</string>
   <string name="btn_text_cleanup_all">Limpiar</string>
   <string name="btn_text_done">Aceptar</string>
   <string name="btn_text_goto_power_rank">Ver aplicaciones que gastan más batería</string>
@@ -262,8 +262,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="btn_text_optimize_manually">Optimizar manualmente</string>
   <string name="btn_text_optimize_now">Optimizar</string>
   <string name="btn_text_power_cleanup">Limpieza a fondo</string>
-  <string name="btn_text_power_consume_suggest_optimize" traducir="a currar">Optimize</string>
-  <string name="btn_text_quick_antivirus" traducir="a currar">Fix</string>
+  <string name="btn_text_power_consume_suggest_optimize">Optimizar</string>
+  <string name="btn_text_quick_antivirus">Arreglar</string>
   <string name="btn_text_quick_cleanup">Limpiar</string>
   <string name="btn_text_quick_optimize">Optimizar</string>
   <string name="btn_text_quick_save_power">Arreglar</string>
@@ -279,7 +279,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="button_text_cleanup">Limpiar</string>
   <string name="button_text_clear">Limpiar</string>
   <string name="button_text_create_shortcut">Crear un acceso directo en la pantalla de inicio</string>
-  <string name="button_text_delete_from_virus_white_list" traducir="a currar">remove</string>
+  <string name="button_text_delete_from_virus_white_list">eliminar</string>
   <string name="button_text_deny">Denegar</string>
   <string name="button_text_disconnect_now">Desconectar</string>
   <string name="button_text_fix">Arreglar</string>
@@ -287,7 +287,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="button_text_ignore">Ignorar</string>
   <string name="button_text_ignore_alert_title">¿Ignorar esta alerta?</string>
   <string name="button_text_known">Aceptar</string>
-  <string name="button_text_let_me_select" traducir="a currar">Got it</string>
+  <string name="button_text_let_me_select">Entendido</string>
   <string name="button_text_next_step">Siguiente</string>
   <string name="button_text_next_step_timer">Siguiente paso (%d)</string>
   <string name="button_text_open_now">Abrir</string>
@@ -300,8 +300,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="button_text_update_now">Actualizar</string>
   <string name="button_text_view">Optimizar</string>
   <string name="button_text_view_power">Ver</string>
-  <string name="buy_immediately" traducir="a currar">Buy</string>
-  <string name="buy_traffic_pack" traducir="a currar">Buy more data</string>
+  <string name="buy_immediately">Comprar</string>
+  <string name="buy_traffic_pack">Comprar más datos</string>
   <string name="byteShort">B</string>
   <string name="cache_header_title">Limpiar %1$d archivos en caché para liberar %2$s de espacio</string>
   <string name="call_and_contact">Llamadas y contactos</string>
@@ -347,10 +347,10 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="choose">Elegir</string>
   <string name="clean_immediately">Limpiar</string>
   <string name="cleaned">Limpiado</string>
-  <string name="clear_bigfiles" traducir="a currar">Delete big files, duplicate photos, and other useless items</string>
-  <string name="clear_garbage" traducir="a currar">Clear trash to free up space</string>
-  <string name="clear_immediately" traducir="a currar">Clean now</string>
-  <string name="close" traducir="a currar">Close</string>
+  <string name="clear_bigfiles">Eliminar archivos de gran tamaño, fotos duplicadas y otros ítem inútiles</string>
+  <string name="clear_garbage">Borrar basura para liberar espacio</string>
+  <string name="clear_immediately">Limpiar ahora</string>
+  <string name="close">Cerrar</string>
   <string name="cmcc_app_check_dialog_message">Reinicia el dispositivo para completar la reparación.</string>
   <string name="cmcc_app_check_dialog_negative">Más tarde</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar ahora</string>
@@ -370,7 +370,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="cta_button_text_agree">Aceptar</string>
   <string name="cta_button_text_cancel">Cancelar</string>
   <string name="cta_checkbox_title">No volver a mostrar</string>
-  <string name="cta_dialog_msg">El centro de seguridad necesitará conectarse para bajar las actualizaciones.</string>
+  <string name="cta_dialog_msg">Seguridad requiere conexión a Internet para obtener actualizaciones, así como el acceso a la ubicación para funcionar normalmente.</string>
   <string name="cta_dialog_title">Avisos y términos de privacidad</string>
   <string name="cta_settings">Permitir conexión de la red</string>
   <string name="current_network_state_not_need_diagnose">La conexión a internet es normal.</string>
@@ -445,10 +445,9 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="downloading">Descargando</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
-  <string name="dynamic_md5" traducir="a currar">cf22c9ca95b12a9404c0b7c59515f3e3</string>
   <string name="empty_app">Sin aplicaciones</string>
   <string name="empty_title_auto_start_list">Ninguna aplicación se inicia automáticamente.</string>
-  <string name="empty_title_garbage_virus_white_list" traducir="a currar">Hold the results in the list to skip them during the next scan</string>
+  <string name="empty_title_garbage_virus_white_list">Mantenga los resultados en la lista para omitir durante el siguiente análisis</string>
   <string name="empty_title_manual_item_white_list">Sin excepciones.</string>
   <string name="empty_title_perm_apps">No hay aplicaciones con este permiso.</string>
   <string name="empty_title_permission_apps_list">Sin aplicaciones.</string>
@@ -493,7 +492,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s ha restringido el uso de %2$s redes</string>
   <string name="five_percent_total_pkg">%s (5%% de los datos mensuales)</string>
-  <string name="flow_rank_title" traducir="a currar">Data usage</string>
+  <string name="flow_rank_title">Uso de datos</string>
   <string name="force_stop_dlg_text">Si restringe los datos usados en segundo plano, algunas aplicaciones y servicios no funcionarán correctamente a menos que esté conectado a una red Wi-Fi.</string>
   <string name="force_stop_dlg_title">Restringir datos en segundo plano</string>
   <string name="foreground_traffic">Primer plano %s</string>
@@ -504,14 +503,14 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="free_time_traffic_settings">Límite de datos fuera de pico</string>
   <string name="free_time_traffic_title">Ingrese el límite de datos fuera de pico</string>
   <string name="free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
-  <string name="garbage_clean_detail" traducir="a currar">Details</string>
+  <string name="garbage_clean_detail">Detalles</string>
   <string name="gateway_exception_summary">Compruebe el router y vuelva a intentarlo.</string>
   <string name="gateway_exception_summary2">No es posible conectarse al servidor</string>
   <string name="gateway_exception_title">Probar el router</string>
   <string name="gigabyteShort">GB</string>
-  <string name="go_to" traducir="a currar">Proceed</string>
+  <string name="go_to">Seguir</string>
   <string name="go_to_setting_fingerprint">Ajustes</string>
-  <string name="goto_set" traducir="a currar">Set</string>
+  <string name="goto_set">Establecer</string>
   <string name="handle_bar_summary_wifi_unknown">Desconocido</string>
   <string name="handle_bar_title_apps">Aplicaciones</string>
   <string name="handle_bar_title_paysms">Mensajes</string>
@@ -520,13 +519,12 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="handle_text_cache">Caché</string>
   <string name="handle_text_memory">Memoria</string>
   <string name="handle_text_system">Sistema</string>
-  <string name="header_info_scan_progress" traducir="a currar">%d%%</string>
   <string name="help_label">Ayuda</string>
   <string name="hide_mode_app_background_setting_text">Aplicación de ahorro de batería</string>
   <string name="hide_mode_summary_text">Administrar aplicaciones en segundo plano para ahorrar batería</string>
   <string name="hide_mode_title_text">Modo Oculto</string>
   <string name="hints_auto_start_warning_info">Si restringes el inicio automático, algunas aplicaciones y servicios no podrán recibir notificaciones.</string>
-  <string name="hints_cleanning_done" traducir="a currar">Scanned successfully</string>
+  <string name="hints_cleanning_done">Escaneado correctamente</string>
   <string name="hints_cleanning_text">Limpiando…</string>
   <string name="hints_handle_item_text_risk">Riesgos: %d</string>
   <string name="hints_handle_item_text_safe">Seguros</string>
@@ -554,12 +552,12 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="hints_risk_app_list_item_summary">Riesgos (app)</string>
   <string name="hints_risk_descx_title">Descripción:</string>
   <string name="hints_risk_name_title">Riesgo:</string>
-  <string name="hints_scan_progress" traducir="a currar">Completed: %d</string>
-  <string name="hints_scan_result_phone_safe" traducir="a currar">Everything looks good</string>
+  <string name="hints_scan_progress">Terminado: %d</string>
+  <string name="hints_scan_result_phone_safe">Todo se ve bien</string>
   <string name="hints_scan_result_risk">Riesgos detectados</string>
   <string name="hints_scan_result_safe">Seguros</string>
   <string name="hints_scan_result_virus">Virus detectados</string>
-  <string name="hints_scanning" traducir="a currar">Scanning…</string>
+  <string name="hints_scanning">Escaneando…</string>
   <string name="hints_scanning_text">Escaneando…</string>
   <string name="hints_scanning_virus_by_cloud">Escaneo en la nube en proceso…</string>
   <string name="hints_unknown_virus_name">Desconocido</string>
@@ -572,8 +570,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Esta app supone un gran riesgo para la seguridad de tu teléfono.</string>
   <string name="history_details_title">Historial de detalles</string>
-  <string name="hot" traducir="a currar">Popular</string>
-  <string name="hot_today" traducir="a currar">Popular today</string>
+  <string name="hot">Popular</string>
+  <string name="hot_today">Popular hoy</string>
   <string name="info_and_call">Llamadas y mensajes</string>
   <string name="information_setting">Ajustes de servidores de Noticias</string>
   <string name="input_aviable_traffic">Establecer límite de uso de datos</string>
@@ -659,8 +657,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="lockscreen_glogin_checking_password">Verificando…</string>
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
-  <string name="long_click_dialog_summary" traducir="a currar">Hold the results in the list to add them to Exceptions</string>
-  <string name="long_click_dialog_title" traducir="a currar">Attention</string>
+  <string name="long_click_dialog_summary">Mantenga los resultados en la lista para agregarlos a las Excepciones</string>
+  <string name="long_click_dialog_title">Atención</string>
   <string name="main_activity_content_summary_root">Acceso root</string>
   <string name="main_activity_content_summary_update">Actualizacion del sistema</string>
   <string name="main_activity_content_title_scanning">Escaneado…</string>
@@ -769,7 +767,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
            2. Si recargó el saldo de su plan, reinicie el dispositivo y vuelva a intentarlo.
 
            3. La señal de la red de su operador puede ser débil en su ubicación actual."</string>
-  <string name="network_not_available" traducir="a currar">"Can't connect to the network"</string>
+  <string name="network_not_available">"No se puede conectar a la red"</string>
   <string name="network_operator_exception_summary">No se pudo activar la tarjeta SIM. Asegúrese de que su tarjeta SIM está insertada correctamente y de que su plan de telefonía móvil se ha activado por su compañía.</string>
   <string name="network_permission_exception_tips">No se pueden utilizar datos móviles para conectarse a la red</string>
   <string name="network_roaming_exception_tips">No se pueden utilizar datos móviles en roaming para conectarse a la red.</string>
@@ -805,10 +803,10 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="networkchanged_exception_summary">La conexión de red ha cambiado. Por favor pruebe de nuevo.</string>
   <string name="networkchanged_exception_title">Cambió la conexión</string>
   <string name="never">Una vez</string>
-  <string name="news_change" traducir="a currar">Change</string>
+  <string name="news_change">Cambiar</string>
   <string name="next_step_button">Siguiente</string>
-  <string name="no_network" traducir="a currar">"Couldn't connect to network, try again later"</string>
-  <string name="no_network_btn" traducir="a currar">Try again</string>
+  <string name="no_network">"No se pudo conectar a la red, inténtelo de nuevo más tarde"</string>
+  <string name="no_network_btn">Inténtalo de nuevo</string>
   <string name="none_mi_service_app_detail">Vacio</string>
   <string name="notification_battery_consume_abnormal_summary">Drenado %2$s de la batería durante los últimos %1$d minutos</string>
   <string name="notification_battery_consume_abnormal_title">La batería está siendo drenado demasiado rápido</string>
@@ -837,11 +835,11 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="ok">Aceptar</string>
   <string name="ok_button">Aceptar</string>
   <string name="open">Abrir</string>
-  <string name="open_app" traducir="a currar">Open</string>
-  <string name="open_browser" traducir="a currar">Open in browser</string>
+  <string name="open_app">Abrir</string>
+  <string name="open_browser">Abrir en el navegador</string>
   <string name="open_now">Permitir que la aplicación use datos móviles</string>
   <string name="operator_diagnostic">Diagnósticos de la compañía operadora</string>
-  <string name="operator_mi_sim" traducir="a currar">Mi SIM</string>
+  <string name="operator_mi_sim">SIM Mi</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -857,7 +855,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optimize_result_button_onekey_open">Activar</string>
   <string name="optimize_result_button_onekey_restore">Restaurar</string>
   <string name="optimize_result_button_open_now">Activar</string>
-  <string name="optimize_result_button_operators_diagnose" traducir="a currar">Carrier diagnostics</string>
+  <string name="optimize_result_button_operators_diagnose">Diagnóstico de la operadora</string>
   <string name="optimize_result_button_purchase">Comprar</string>
   <string name="optimize_result_button_purchase_flow">Ver todo</string>
   <string name="optimize_result_button_realname_now">Verificar</string>
@@ -906,7 +904,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pc_install_manager">Instalar vía USB</string>
   <string name="pc_to_phone_install">Instalación bloqueada de %s vía USB</string>
   <string name="per_month_pkg_traffic_settings">Establecer límite de datos</string>
-  <string name="percent_symbol" traducir="a currar">%</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Aceptar</string>
   <string name="permission_action_prompt">Notificar</string>
@@ -924,14 +921,14 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="permit_running_network">Datos en segundo plano</string>
   <string name="person_hotpot">Zonas Wi-Fi móviles</string>
   <string name="pkg_traffic">Establecer límite de uso de datos</string>
-  <string name="please_continue_keep" traducir="a currar">Keep</string>
+  <string name="please_continue_keep">Establecer</string>
   <string name="pm_auto_start_by_other">Inicio automático</string>
   <string name="pm_auto_start_by_other_app">Permitir que las aplicaciones sean iniciadas por otras aplicaciones</string>
   <string name="pm_auto_start_by_system">Iniciar aplicaciones</string>
   <string name="pm_auto_start_by_system_event">Permitir a las aplicaciones iniciar automáticamente</string>
   <string name="pm_auto_start_proc_is_running">Ejecutándose</string>
   <string name="pm_remember_choice">Recordar mi elección</string>
-  <string name="pm_root_success_notification_infomation" traducir="a currar">Make sure you understand the risks related with root access</string>
+  <string name="pm_root_success_notification_infomation">Asegúrese de entender los riesgos relacionados con el acceso root</string>
   <string name="pm_root_success_notification_title">Permitir el acceso root</string>
   <string name="power_20s_enter_mode">Cambiando a %2$s en %1$ds</string>
   <string name="power_20s_shutdown">El dispositivo se apagará en 20 segundos</string>
@@ -1136,13 +1133,13 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_category_title_reference_settings">Ajustes adicionales</string>
   <string name="pref_category_title_securitycenter_settings">General</string>
   <string name="pref_category_title_virus_lib_auto_update">Actualizar las definiciones automáticamente</string>
-  <string name="pref_category_title_virus_white_list" traducir="a currar">Exceptions</string>
+  <string name="pref_category_title_virus_white_list">Excepciones</string>
   <string name="pref_check_network_diagnostics">Probar la conexión a internet del dispositivo</string>
   <string name="pref_connect_settings_enable_background">Permitir datos en segundo plano</string>
   <string name="pref_connect_settings_enable_background_hint">Permitir a las aplicaciones utilizar datos móviles cuando no las utilice</string>
   <string name="pref_connect_settings_exceed_limit">Restringir el uso máximo de datos</string>
   <string name="pref_connect_settings_exceed_limit_hint">Desactive la conexión de datos cuando el uso de datos máximo alcanza el límite</string>
-  <string name="pref_content_virus_white_list_none" traducir="a currar">No items</string>
+  <string name="pref_content_virus_white_list_none">No hay ítems</string>
   <string name="pref_daily_adjust">Establecer límite de datos pico</string>
   <string name="pref_daily_traffic">Límite de datos pico</string>
   <string name="pref_data_usage_ignore_settings">Ignorar el uso de datos</string>
@@ -1157,7 +1154,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_leisure_no_overlay">Activado</string>
   <string name="pref_leisure_not_opened">Desactivado</string>
   <string name="pref_manual_adjust">Establecer las estadísticas de uso de datos de forma manual</string>
-  <string name="pref_mi_sim_settings" traducir="a currar">Mi SIM Settings</string>
+  <string name="pref_mi_sim_settings">Ajustes SIM Mi</string>
   <string name="pref_month_begin_date">Fecha de reinicio de uso</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Ajustes avanzados</string>
@@ -1178,7 +1175,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_specified_adjust">Establezca límite de datos personalizados</string>
   <string name="pref_specified_traffic_settings">Ajustes del límite de datos</string>
   <string name="pref_summary_lock_screen_memory_clean">Limpiar automáticamente cuando el dispositivo esté bloqueado</string>
-  <string name="pref_summary_virus_white_list" traducir="a currar">Prevent selected apps from being cleaned up</string>
+  <string name="pref_summary_virus_white_list" traducir="a currar">Evitar que las aplicaciones seleccionadas sean limpiadas</string>
   <string name="pref_title_declaration">Aviso legal importante</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificaciones flotantes</string>
   <string name="pref_title_lock_screen_memory_clean">Limpiar en pantalla de bloqueo</string>
@@ -1188,27 +1185,22 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_title_traffic_limit_number">Tamaño</string>
   <string name="pref_title_traffic_speed_state">Mostrar velocidad de la red</string>
   <string name="pref_title_update_notification">Notificación de uso de datos</string>
-  <string name="pref_title_virus_white_list" traducir="a currar">Exceptions</string>
+  <string name="pref_title_virus_white_list">Excepciones</string>
   <string name="pref_version">Versión %s</string>
   <string name="pref_warning_values">Nivel de advertencia del uso de datos</string>
   <string name="pref_whitelist_setting">Excepciones en el roaming de datos</string>
-  <string name="preference_category_information_setting" traducir="a currar">category_information_setting</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
   <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
-  <string name="preference_category_key_virus_white_list" traducir="a currar">key_category_virus_white_list</string>
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
-  <string name="preference_key_category_title_module_feature_settings" traducir="a currar">key_category_title_module_feature_settings</string>
   <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_information_setting_close" traducir="a currar">key_information_setting_close</string>
-  <string name="preference_key_information_setting_wlan" traducir="a currar">key_information_setting_wlan</string>
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
   <string name="preference_key_module_antipam">module_antipam</string>
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
@@ -1220,7 +1212,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
   <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
   <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
-  <string name="preference_key_payment_security" traducir="a currar">key_module_payment_security</string>
   <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
   <string name="preference_key_permission_manager">key_permission_manager</string>
   <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
@@ -1232,11 +1223,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
   <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
   <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
-  <string name="preference_key_shortcut_safepay" traducir="a currar">key_shortcut_safepay</string>
   <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
   <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-  <string name="preference_key_virus_white_list" traducir="a currar">key_virus_white_list</string>
-  <string name="preference_screen_key_antivirus_setting" traducir="a currar">key_screen_key_antivirus_setting</string>
   <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Cámara</string>
@@ -1246,7 +1234,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Mensajes</string>
   <string name="preferred_app_entries_music">Música</string>
-  <string name="privacy_declare_dialog_message">Al utilizar este servicio, usted está de acuerdo conlos &lt;a href=%s&gt; Términos de servicio&lt;/a&gt; de Opera.</string>
+  <string name="privacy_declare_dialog_message">Al utilizar este servicio, usted está de acuerdo con los &lt;a href=%s&gt; Términos de servicio&lt;/a&gt; de Opera.</string>
   <string name="privacy_declare_dialog_title">Términos de Servicio</string>
   <string name="privacy_mode_dialog_title">Modo de invitado</string>
   <string name="privacy_prompt_tc_sms_report_message">Su número de teléfono y los detalles del operador serán encriptados y cargados a los servidores Mi para actualizar la información de su uso de datos.</string>
@@ -1275,7 +1263,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="recently_reject_message_one">%1$s solicitudes de instalación rechazadas</string>
   <string name="recommend_app">Aplicaciones recomendadas</string>
   <string name="recommend_news">Fuentes recomendadas</string>
-  <string name="recommended" traducir="a currar">Featured</string>
+  <string name="recommended">Destacado</string>
   <string name="reject_all">Restringir todo</string>
   <string name="reject_countdown">Denegar (%d)</string>
   <string name="reject_usb_install">Se denegó la instalación de estas aplicaciones vía USB</string>
@@ -1305,7 +1293,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="result_virus_header">Encontrados %d virus and aplicaciones inseguras</string>
   <string name="result_wifi_header">Riesgos detectados en el WI-FI</string>
   <string name="right_precent">100%</string>
-  <string name="risk_list_header_title">%d aplicaciones sospechosas detectadas</string>
   <string name="roaming_allow_network_dialog_title">¿Permitir roaming de datos?</string>
   <string name="roaming_limit_dialog_message">Límite de datos de roaming diario alcanzado.</string>
   <string name="roaming_limit_network_notification_body">Pulse para ver las redes de datos disponibles</string>
@@ -1369,11 +1356,11 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="security_scan_card_clean_now">Escanear</string>
   <string name="security_scan_optimizing">Optimizando…</string>
   <string name="see_detail">Detalles</string>
-  <string name="see_more" traducir="a currar">More</string>
+  <string name="see_more">Más</string>
   <string name="select_pattern">Seleccione el patrón</string>
   <string name="set_applock_password">Establecer contraseña</string>
-  <string name="set_immediately" traducir="a currar">Set</string>
-  <string name="seton_immediately" traducir="a currar">Turn on</string>
+  <string name="set_immediately">Establecer</string>
+  <string name="seton_immediately">Activar</string>
   <string name="setting_privacy_password">Establecer la contraseña de bloqueo de Aplicación</string>
   <string name="settings">Ajustes de uso de datos</string>
   <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería se esté drenando rápido</string>
@@ -1384,9 +1371,9 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="settings_category_overheat">Calentamiento</string>
   <string name="settings_choice_no_notification">Apagado</string>
   <string name="settings_power_save_ontime_title">Programar</string>
-  <string name="settings_title_payment_security" traducir="a currar">Payment security settings</string>
+  <string name="settings_title_payment_security">Ajustes de seguridad para los pagos</string>
   <string name="settings_title_permission">Ajustes de permisos</string>
-  <string name="share" traducir="a currar">Share</string>
+  <string name="share">Compartir</string>
   <string name="show_traffic_dialog_message">Su información de uso de datos será mostrada en el panel de notificaciones. Puede desactivar esta característica en cualquier momento en Uso de datos &gt; Ajustes</string>
   <string name="show_traffic_dialog_title">Mostrar uso en el panel de notificaciones</string>
   <string name="showpattern">Mostrar patrón</string>
@@ -1431,10 +1418,10 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sp_settings_root_title_omit">Comprobar acceso root</string>
   <string name="sp_settings_title_input_method">Seguridad IME</string>
   <string name="spinner_title">%1$s - Datos móviles: %2$s</string>
-  <string name="sponsored" traducir="a currar">Sponsored</string>
+  <string name="sponsored">Patrocinado</string>
   <string name="st_title_mode_choose_group">Seleccionar perfil</string>
   <string name="start_diagnostic_botton">Iniciar</string>
-  <string name="start_downloading_app" traducir="a currar">Starting download: %1$s</string>
+  <string name="start_downloading_app">Iniciando descarga: %1$s</string>
   <string name="start_install">Instalar ahora</string>
   <string name="stop_app_button">Detener</string>
   <string name="suffix_pay_risk_count_bottom">riesgos</string>
@@ -1568,7 +1555,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="text_button">Ok</string>
   <string name="text_day"/>
   <string name="text_lock_info">Dibuje un patrón de desbloqueo</string>
-  <string name="there_is_no" traducir="a currar">Everything looks good, come back later</string>
+  <string name="there_is_no">Todo parece correcto, volver más tarde</string>
   <string name="third_application">Aplicaciones instaladas</string>
   <string name="three_percent_total_pkg">%s (3%% de los datos mensuales)</string>
   <string name="timeshow_h">%.1fh</string>
@@ -1579,12 +1566,12 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">¿No conoce su límite?</string>
   <string name="tips_message">Para ver los detalles de su plan de datos, marque %2$s (%1$s).</string>
-  <string name="tips_of_app_manage" traducir="a currar">Delete rarely used apps to save storage</string>
-  <string name="tips_of_auto_launch_manage" traducir="a currar">Prevent rarely used apps from starting automatically</string>
-  <string name="tips_of_operators_set" traducir="a currar">Adjust data usage stats automatically</string>
-  <string name="tips_of_package_set" traducir="a currar">Set your data plan and control the amount of traffic you use</string>
-  <string name="tips_of_traffic_pack_threshold" traducir="a currar">"Buy more data when you're about to reach your traffic limit"</string>
-  <string name="tips_of_virus_scan" traducir="a currar">Scan your device for viruses regularly to keep it secure</string>
+  <string name="tips_of_app_manage">Eliminar aplicaciones que rara vez se usan para ahorrar espacio de almacenamiento</string>
+  <string name="tips_of_auto_launch_manage">Evitar que aplicaciones poco utilizadas se inicien automáticamente</string>
+  <string name="tips_of_operators_set">Ajustar las estadísticas de uso de datos de forma automática</string>
+  <string name="tips_of_package_set">Configurar el plan de datos y controlar la cantidad de tráfico que utilice</string>
+  <string name="tips_of_traffic_pack_threshold">"Compre más datos cuando esté a punto de llegar a su límite de tráfico"</string>
+  <string name="tips_of_virus_scan">Analice el dispositivo en busca de virus con regularidad para mantenerlo seguro</string>
   <string name="title_app_lock_disable">Bloquear aplicaciones</string>
   <string name="title_app_update">Actualizaciones disponibles</string>
   <string name="title_auto_update">Actualizar automáticamente</string>
@@ -1616,17 +1603,17 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_mms_no">El filtro de mensajes está desactivado</string>
   <string name="title_mms_yes">El filtro de mensajes está activado</string>
   <string name="title_network_switch">Conexión de red</string>
-  <string name="title_of_app_manage" traducir="a currar">Apps</string>
-  <string name="title_of_auto_launch_manage" traducir="a currar">Autostart</string>
-  <string name="title_of_operators_set" traducir="a currar">Carrier settings</string>
-  <string name="title_of_package_set" traducir="a currar">Data plan settings</string>
+  <string name="title_of_app_manage">Aplicaciones</string>
+  <string name="title_of_auto_launch_manage">Inicio automático</string>
+  <string name="title_of_operators_set">Ajustes de operador</string>
+  <string name="title_of_package_set">Ajustes del plan de datos</string>
   <string name="title_payment_risk">Riesgos para el pago encontrados</string>
   <string name="title_permission_no">El administrador de permisos está desactivado</string>
   <string name="title_permission_root">Acceso raíz</string>
   <string name="title_permission_yes">El administrador de permisos está activado</string>
   <string name="title_power_optimizer">Ahorro de batería</string>
   <string name="title_realname_verify">Verificación del ID</string>
-  <string name="title_share_link" traducir="a currar">Share URL</string>
+  <string name="title_share_link">Compartir URL</string>
   <string name="title_show_notification">Widget de cortina de notificaciones</string>
   <string name="title_telecom_operator">Auto ajuste</string>
   <string name="title_usb_no">Depuración USB activada</string>
@@ -1638,7 +1625,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_virus_yes">No se encontraron virus</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_add_virus_white_list_no_need_repeat">!La excepción de virus ya existe!</string>
-  <string name="toast_add_virus_white_list_success" traducir="a currar">Added to Exceptions. View the items in the settings.</string>
+  <string name="toast_add_virus_white_list_success">Añadido a Excepciones. Ver los elementos en ajustes.</string>
   <string name="toast_auto_traffic_correct">El uso de datos se ajustara automáticamente</string>
   <string name="toast_cleaner_cloudscan">El limpiador usará definiciones en línea</string>
   <string name="toast_default_app">%1$s establecen como sistema predeterminado %2$s</string>
@@ -1648,10 +1635,10 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="toast_network_eror">"No se puede conectar a la red"</string>
   <string name="toast_network_switch">Esta aplicacion necesita conectarse a internet</string>
   <string name="toast_reject_sms_read_permission_success">Establecido con éxito</string>
-  <string name="toast_removed_from_virus_white_list" traducir="a currar">Removed from Exceptions. Item will be scanned next time.</string>
+  <string name="toast_removed_from_virus_white_list">Eliminado de Excepciones. El ítem será escaneado la próxima vez.</string>
   <string name="toast_root_apply_accept">Permiso root concedido a %s</string>
   <string name="toast_root_apply_reject">Permiso root denegado a %s</string>
-  <string name="toast_select_virus_white_need_remove" traducir="a currar">Select items</string>
+  <string name="toast_select_virus_white_need_remove">Seleccionar ítems</string>
   <string name="toast_set_success">Activado con éxito</string>
   <string name="toast_shortcut_install">Acceso directo enviado al escritorio</string>
   <string name="toast_shortcut_uninstall">Acceso directo eliminado</string>
@@ -1752,14 +1739,11 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="usbsharenet_exception_title">Pobar internet compartida a través de USB</string>
   <string name="usbsharenet_pc_exception_summary">No se puede conectar a internet mediante conexión USB compartida. Compruebe la conexión a internet de su computadora.</string>
   <string name="use_immediately">Utilizar</string>
-  <string name="virus_list_header_title">%d Virus detectados</string>
-  <string name="virus_scan" traducir="a currar">Virus scan</string>
-  <string name="virus_scan_process_pre" traducir="a currar">%</string>
-  <string name="voltage_symbol" traducir="a currar">V</string>
+  <string name="virus_scan">Búsqueda de virus</string>
   <string name="wakepath_confirm_start_activity">¿Permite a %1$s abrir %2$s?</string>
   <string name="warning_open_mi_sim">Activar Mi SIM</string>
-  <string name="white_list_risk_app_header" traducir="a currar">Dangerous apps: %d</string>
-  <string name="white_list_trojan_header" traducir="a currar">Trojans: %d</string>
+  <string name="white_list_risk_app_header">Aplicaciones peligrosas: %d</string>
+  <string name="white_list_trojan_header">Troyanos: %d</string>
   <string name="wifi_exception_summary">Probar redes Wi-Fi disponibles</string>
   <string name="wifi_exception_title">Probar la red Wi-Fi</string>
   <string name="wifi_item_status_connection_no">No conectado</string>
