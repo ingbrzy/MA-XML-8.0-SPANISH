@@ -60,6 +60,23 @@
         <item quantity="other">%d problemas pueden ser arreglados</item>
         <item quantity="one">%d problema puede ser arreglado</item>
     </plurals>
+    <plurals name="people">
+        <item quantity="other">Descargado por %1$d personas</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Descargado por %1$d personas</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Descargado por %1$d personas</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d visitas</item>
+        <item quantity="zero">%1$d visitas</item>
+        <item quantity="one">%1$d visita</item>
+        <item quantity="two">%1$d visitas</item>
+        <item quantity="few">%1$d visitas</item>
+        <item quantity="many">%1$d visitas</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elementos de seguridad</item>
         <item quantity="one">%1$d elemento seguro</item>
@@ -95,6 +112,22 @@
     <plurals name="summary_app_update">
         <item quantity="other">Actualizaciones disponibles para %d aplicaciones.</item>
         <item quantity="one">Actualización disponible para %d aplicación.</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d riesgos,</item>
+        <item quantity="one">%d riesgo,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d troyanos,</item>
+        <item quantity="one">%d troyano,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d riesgos</item>
+        <item quantity="one">%d riesgo</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d riesgos encontrados, arreglar ahora</item>
+        <item quantity="one">%d riesgo encontrado, arreglar ahora</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
