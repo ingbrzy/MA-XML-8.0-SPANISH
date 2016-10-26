@@ -354,6 +354,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="band_mode_title">Establecer banda GSM/UMTS</string>
   <string name="baseband_version">Versión de la banda base</string>
   <string name="batch_delete_saved_network">Eliminar la red guardada: %s?</string>
+  <string name="batch_delete_saved_networks">Eliminar todas las redes seleccionadas</string>	
   <string name="battery_action_app_details">Información de la aplicación</string>
   <string name="battery_action_app_settings">Ajustes de aplicación</string>
   <string name="battery_action_bluetooth">Ajustes de Bluetooth</string>
@@ -2216,6 +2217,7 @@ Seleccione su sistema operativo:"</string>
   <string name="multi_touch_points_preference">La configuración se aplicará cuando reinicie su dispositivo</string>
   <string name="music_audio_effect_optimize">Configuración de audio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, auriculares y otros ajustes de audio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, auriculares y otros ajustes de audio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculares y otros ajustes de audio</string>
   <string name="music_audio_effect_settings">Configuración de efectos</string>
   <string name="music_dirac_control">Optimizar la calidad del audio</string>
@@ -2241,6 +2243,7 @@ Seleccione su sistema operativo:"</string>
   <string name="music_dolby_mode_off">Apagado</string>
   <string name="music_equalizer">Ecualizador</string>
   <string name="music_equalizer_summary">Ajustar niveles individuales para distintos tipos de música</string>
+  <string name="music_hd_title">Audio HD Sound</string>	
   <string name="music_headphone_settings">Seleccione el tipo de auriculares</string>
   <string name="music_headset_button_settings">Asignar botones</string>
   <string name="music_headset_calibrate">Asignar botones</string>
@@ -3072,8 +3075,8 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="screen_key_press_action">Función de disparo</string>
   <string name="screen_locking_sounds_title">Sonidos de bloqueo de pantalla</string>
   <string name="screen_never_timeout_title">No suspender nunca</string>
-  <string name="screen_on_proximity_sensor_summary">Bloquear automáticamente cuando se ponga en el bolsillo</string>
-  <string name="screen_on_proximity_sensor_title">Evitar llamadas en el bolsillo</string>
+  <string name="screen_on_proximity_sensor_summary">Bloquear gestos táctiles cuando se ponga en el bolsillo</string>
+  <string name="screen_on_proximity_sensor_title">Modo bolsillo</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_adjust_level">Intensidad</string>
   <string name="screen_paper_mode_apps_loading">Un momento…</string>
@@ -3959,7 +3962,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="touch_sensitive_title">Modo guantes</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
   <string name="touch_sensitive_turn_off_confirm">De acuerdo</string>
-  <string name="touch_sensitive_turn_off_summary">¿Desactivar también la prevención contra llamadas en el bolsillo?</string>
+  <string name="touch_sensitive_turn_off_summary">¿Desactivar el modo de bolsillo?</string>
   <string name="touch_sensitive_turn_off_title">El modo guantes está desactivado</string>
   <string name="touch_sounds_title">Sonidos táctiles</string>
   <string name="touch_title">Toque</string>
