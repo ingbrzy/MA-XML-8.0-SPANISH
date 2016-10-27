@@ -353,7 +353,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="band_mode_succeeded">Correcto</string>
   <string name="band_mode_title">Establecer banda GSM/UMTS</string>
   <string name="baseband_version">Versión de la banda base</string>
-  <string name="batch_delete_saved_network">Eliminar la red guardada: %s?</string>
+  <string name="batch_delete_saved_network">¿Eliminar la red guardada: %s?</string>
   <string name="batch_delete_saved_networks">Eliminar todas las redes seleccionadas</string>	
   <string name="battery_action_app_details">Información de la aplicación</string>
   <string name="battery_action_app_settings">Ajustes de aplicación</string>
@@ -911,7 +911,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
 
 Para seguir utilizando el teléfono, debes restablecer los datos de fábrica. Al configurar el dispositivo después de este proceso, podrás restaurar los datos incluidos en la copia de seguridad de tu cuenta de Google."</string>
   <string name="crypt_keeper_data_corrupt_title">Descifrado incorrecto</string>
-  <string name="crypt_keeper_decrypt_methods">Después de cifrar su teléfono, suponiendo que’configuró un bloqueo de pantalla (es decir, un patrón o PIN numérico o contraseña), deberá’desbloquear la pantalla para descifrar su teléfono cada vez que lo encienda. La única manera diferente de descifrar es realizar un restablecimiento de datos de fábrica, se eliminarán todos sus datos.</string>
+  <string name="crypt_keeper_decrypt_methods">Después de cifrar su teléfono, suponiendo que configuró un bloqueo de pantalla (es decir, un patrón o PIN numérico o contraseña), deberá desbloquear la pantalla para descifrar su teléfono cada vez que lo encienda. La única manera diferente de descifrar es realizar un restablecimiento de datos de fábrica, se eliminarán todos sus datos.</string>
   <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Si usted ha cifrado su teléfono, tendrá que introducir su contraseña, PIN, o patrón cada vez que reinicie el dispositivo para descifrarlo</string>
   <string name="crypt_keeper_decrypt_methods_title">Descifrando su dispositivo</string>
   <string name="crypt_keeper_desc">"Puedes cifrar tus cuentas, los ajustes, las aplicaciones descargadas y sus datos, archivos multimedia y otros archivos. Después de cifrar el teléfono, siempre que hayas configurado una pantalla de bloqueo (es decir, un patrón, una contraseña o un PIN numérico), tendrás que desbloquear la pantalla para descifrar el teléfono cada vez que lo enciendas. También puedes descifrar el dispositivo restableciendo los datos de fábrica, pero se borrarán todos tus datos.
@@ -1517,7 +1517,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="forget_pattern">&lt;u&gt;¿Olvidó el patrón?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Añadir cuenta Mi</string>
   <string name="forget_privacy_password_summary">Use Cuenta Mi para restrablecer su contraseña</string>
-  <string name="forget_wifi_message">Su teléfono detendrá la conexión a esta red automáticamente.</string>
+  <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
   <string name="found_new_version">Actualización disponible</string>
   <string name="fp_nav_center_back_to_home_title">Pulse el botón Inicio para volver a la pantalla de inicio</string>
   <string name="free_memory">Libre</string>
