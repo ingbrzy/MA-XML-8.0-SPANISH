@@ -931,7 +931,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pm_root_success_notification_infomation">Asegúrese de entender los riesgos relacionados con el acceso root</string>
   <string name="pm_root_success_notification_title">Permitir el acceso root</string>
   <string name="power_20s_enter_mode">Cambiando a %2$s en %1$ds</string>
-  <string name="power_20s_shutdown">El dispositivo se apagará en 20 segundos</string>
+  <string name="power_20s_shutdown">El dispositivo se apagará en %d segundos</string>
   <string name="power_analysis_consume_title">Uso de la batería</string>
   <string name="power_analysis_suggestion_need_optimize">Problemas detectados en el uso de la batería.</string>
   <string name="power_apply_toast">Cambiado a %s</string>
