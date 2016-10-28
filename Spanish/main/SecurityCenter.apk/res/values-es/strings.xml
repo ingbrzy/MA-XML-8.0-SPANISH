@@ -338,7 +338,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="card_main_xspace_action">Crear</string>
   <string name="card_main_xspace_summary">Cree múltiples cuentas en cualquier aplicación</string>
   <string name="card_main_xspace_title">Aplicaciones duplicadas</string>
-  <string name="celcius_symbol" traducir="a currar">℃</string>
   <string name="charging_text_battery_full_time">"Última carga "</string>
   <string name="charging_text_battery_nearly_full">Casi totalmente cargada</string>
   <string name="charging_text_battery_perfect">Completamente cargada</string>
@@ -508,7 +507,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="gateway_exception_summary2">No es posible conectarse al servidor</string>
   <string name="gateway_exception_title">Probar el router</string>
   <string name="gigabyteShort">GB</string>
-  <string name="go_to">Seguir</string>
   <string name="go_to_setting_fingerprint">Ajustes</string>
   <string name="goto_set">Establecer</string>
   <string name="handle_bar_summary_wifi_unknown">Desconocido</string>
@@ -593,17 +591,17 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Actualizar definiciones de virus automáticamente</string>
   <string name="jump_remmend">Saltar Recomendado</string>
-  <string name="keywords_antispam" traducir="a currar">Blocklist;Block;Black list;Smart blocklist;Fraud;Sales;Agents</string>
-  <string name="keywords_antivirus" traducir="a currar">Virus;Risk;Antivirus;Scan</string>
-  <string name="keywords_cleanmaster" traducir="a currar">Trash;Clear;Speed;Storage;Cache</string>
-  <string name="keywords_monthreport" traducir="a currar">Report;Monthly report;Annual report;Security report</string>
-  <string name="keywords_networkassistant_1" traducir="a currar">Data;Traffic</string>
-  <string name="keywords_networkassistant_2" traducir="a currar">Data;Calibrate</string>
-  <string name="keywords_networkassistant_4" traducir="a currar">Connection;Internet;Test</string>
-  <string name="keywords_permcenter" traducir="a currar">Autostart;Permissions;ROOT;Location;Access contacts</string>
-  <string name="keywords_powercenter" traducir="a currar">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
-  <string name="keywords_securitycenter" traducir="a currar">Security;Check;Scan</string>
-  <string name="keywords_securitycenter_settings" traducir="a currar">ROOT;Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
+  <string name="keywords_antispam">Lista de bloqueo;Bloquear;Lista negra;Lista de bloqueo inteligente;Fraude;Ventas;Agentes</string>
+  <string name="keywords_antivirus">Virus;Riesgos;Antivirus;Escanear</string>
+  <string name="keywords_cleanmaster">Basura;Limpiar;Velocidad;Almacenamiento;Cache</string>
+  <string name="keywords_monthreport">Reportar;Reporte Mensual;Annual report;Reporte de seguridad</string>
+  <string name="keywords_networkassistant_1">Datos;Trafico</string>
+  <string name="keywords_networkassistant_2">Datos;Calibrar</string>
+  <string name="keywords_networkassistant_4">Conexión;Internet;Prueba</string>
+  <string name="keywords_permcenter">Autoinicio;Permissions;ROOT;Localización;Acceso a contactos</string>
+  <string name="keywords_powercenter">Ahorro de batería;Calentamiento;Encender;Apagar;Bateria;Drenado</string>
+  <string name="keywords_securitycenter">Seguiridad;Comprobar;Escanear</string>
+  <string name="keywords_securitycenter_settings">ROOT;usodelabatería;Permisos;Blocklist;Usodedatos;Calibrarplandedatos;reddeprueba;bloqueodeaplicaciones;ahorrarbatería;deahorrodebatería;Calefacción;Encienda;Desactivarlabatería;drenante;autoarranque;RAÍZ;contactosdeacceso;;LugarBloque;listadebloquesinteligente;;FraudeVentas;teleoperador;Agentes;datos;tráfico;Calibrar;Conexión;Internet;prueba;contraseña;deprivacidad;acceso;lista;Protección</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">Kb/s</string>
   <string name="last_check_canceled">El análisis anterior fue cancelado</string>
@@ -641,7 +639,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="lockpattern_need_to_unlock_wrong">Inténtalo de nuevo</string>
   <string name="lockpattern_pattern_confirmed_header">Nuevo patrón de desbloqueo</string>
   <string name="lockpattern_pattern_entered_header">Patrón añadido</string>
-  <string name="lockpattern_recording_incorrect_too_short">Conecte por lo menos%dpuntos</string>
+  <string name="lockpattern_recording_incorrect_too_short">Conecte por lo menos %d puntos</string>
   <string name="lockpattern_recording_inprogress">Levante el dedo cuando haya terminado</string>
   <string name="lockpattern_recording_intro_header">Conecte por lo menos 4 puntos para crear un patrón</string>
   <string name="lockpattern_retry_button_text">Dibujar de nuevo</string>
@@ -1175,7 +1173,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_specified_adjust">Establezca límite de datos personalizados</string>
   <string name="pref_specified_traffic_settings">Ajustes del límite de datos</string>
   <string name="pref_summary_lock_screen_memory_clean">Limpiar automáticamente cuando el dispositivo esté bloqueado</string>
-  <string name="pref_summary_virus_white_list" traducir="a currar">Evitar que las aplicaciones seleccionadas sean limpiadas</string>
+  <string name="pref_summary_virus_white_list">Evitar que las aplicaciones seleccionadas sean limpiadas</string>
   <string name="pref_title_declaration">Aviso legal importante</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificaciones flotantes</string>
   <string name="pref_title_lock_screen_memory_clean">Limpiar en pantalla de bloqueo</string>
@@ -1189,43 +1187,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_version">Versión %s</string>
   <string name="pref_warning_values">Nivel de advertencia del uso de datos</string>
   <string name="pref_whitelist_setting">Excepciones en el roaming de datos</string>
-  <string name="preference_category_key_reference_settings">key_reference_settings</string>
-  <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
-  <string name="preference_key_about_version">key_about_version</string>
-  <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
-  <string name="preference_key_app_permission_control">key_app_permission_control</string>
-  <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
-  <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
-  <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-  <string name="preference_key_create_shortcut">key_create_shortcut</string>
-  <string name="preference_key_cta_settings">key_cta_settings</string>
-  <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
-  <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
-  <string name="preference_key_module_antipam">module_antipam</string>
-  <string name="preference_key_module_antivirus">key_module_antivirus</string>
-  <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
-  <string name="preference_key_module_network_assistant">key_network_assistant</string>
-  <string name="preference_key_module_permissions">key_module_permissions</string>
-  <string name="preference_key_module_power_center">module_power_center</string>
-  <string name="preference_key_month_report_switch">key_month_report_switch</string>
-  <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
-  <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
-  <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
-  <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
-  <string name="preference_key_permission_manager">key_permission_manager</string>
-  <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
-  <string name="preference_key_root_manager">key_root_manager</string>
-  <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
-  <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
-  <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
-  <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
-  <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
-  <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
-  <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
-  <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
-  <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-  <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Cámara</string>
   <string name="preferred_app_entries_dial">Marcar</string>
@@ -1333,8 +1294,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="safepay_alert_dialog_button_continue">Continuar</string>
   <string name="safepay_alert_dialog_button_risk">Arreglar</string>
   <string name="safepay_alert_dialog_button_unknown">Revisar otra vez</string>
-  <string name="safepay_alert_dialog_title_risk" traducir="a currar">&lt;font color=#ec2700&gt;Risk found! Interrupt current payment!&lt;/font&gt;</string>
-  <string name="safepay_alert_dialog_title_unknown" traducir="a currar">"&lt;font color=#f59c00&gt;Couldn't check payment security. Connect to the internet and try again.&lt;/font&gt;"</string>
+  <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;¡Riesgo encontrado! ¡Interrumpiendo el pago actual!&lt;/font&gt;</string>
+  <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;No se pudo comprobar la seguridad del pago. Conectese a Internet y vuelve a intentarlo.&lt;/font&gt;"</string>
   <string name="sc_allow_network_dialog_message">Esta aplicación necesita conectarse a internet para funcionar con normalidad.</string>
   <string name="sc_allow_network_dialog_tiltle">No se puede utilizar esta función</string>
   <string name="scan_status_risk">Peligroso</string>
@@ -1611,7 +1572,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_of_package_set">Ajustes del plan de datos</string>
   <string name="title_payment_risk">Riesgos para el pago encontrados</string>
   <string name="title_permission_no">El administrador de permisos está desactivado</string>
-  <string name="title_permission_root">Acceso raíz</string>
+  <string name="title_permission_root">Acceso root</string>
   <string name="title_permission_yes">El administrador de permisos está activado</string>
   <string name="title_power_optimizer">Ahorro de batería</string>
   <string name="title_realname_verify">Verificación del ID</string>
