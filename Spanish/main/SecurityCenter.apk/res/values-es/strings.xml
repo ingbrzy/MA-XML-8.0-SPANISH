@@ -663,13 +663,15 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="main_alert_message_month_limit_error">Límite de datos incorrecto</string>
   <string name="main_alert_message_no_imsi">No se detectó ninguna SIM</string>
   <string name="main_alert_message_no_mobile_package">Establecer límite de datos</string>
-  <string name="main_button_idel_traffic">Abajo del pico</string>
-  <string name="main_button_normal_traffic">Pico</string>
+  <string name="main_alert_message_open_traffic_ctrl">Le recomendamos la restricción del uso de datos</string>
+  <string name="main_button_idel_traffic">Fuera de hora punta</string>
+  <string name="main_button_normal_traffic">Punta</string>
   <string name="main_button_usage_adjust">Sincronizar uso de datos móviles</string>
   <string name="main_button_usage_adjust_manual">Establecer límite de uso de datos</string>
   <string name="main_button_usage_adjusting">Cambiando…</string>
   <string name="main_button_usage_package_setting">Establecer límite de uso de datos</string>
   <string name="main_message_no_package_by_dual">Establecer límite de datos para %s</string>
+  <string name="main_open_traffic_ctrl_button">Restringir el uso de datos</string>
   <string name="main_primary_message_traffic_cur_leisure">Uso de datos por debajo del Pico</string>
   <string name="main_primary_message_traffic_cur_normal">Por debajo del límite de datos pico</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Límite de datos excedido</string>
@@ -1184,6 +1186,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_title_traffic_speed_state">Mostrar velocidad de la red</string>
   <string name="pref_title_update_notification">Notificación de uso de datos</string>
   <string name="pref_title_virus_white_list">Excepciones</string>
+  <string name="pref_traffic_manage_title">Uso de datos</string>
   <string name="pref_version">Versión %s</string>
   <string name="pref_warning_values">Nivel de advertencia del uso de datos</string>
   <string name="pref_whitelist_setting">Excepciones en el roaming de datos</string>
