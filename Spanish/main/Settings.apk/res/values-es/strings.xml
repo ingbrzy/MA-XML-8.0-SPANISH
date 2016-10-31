@@ -4800,11 +4800,11 @@ de Wi‑Fi"</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Introduzca el nombre del certificado de usuario</string>
   <string name="wifi_wapi_cert_uninstall">Desinstalar certificado WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
-  <string name="wifi_wapi_certification_dont_exist">La contraseña de red introducida no es correcta.</string>
+  <string name="wifi_wapi_certification_dont_exist">La contraseña introducida no es correcta.</string>
   <string name="wifi_wapi_user_cert">Certificado de usuario</string>
   <string name="wifi_wps_available_first_item">WPS disponible</string>
   <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
-  <string name="wifi_wps_complete">La configuración WPS se ha iniciado correctamente. Estableciendo conexión con la red…</string>
+  <string name="wifi_wps_complete">La conexión WPS se ha configurado correctamente. Estableciendo conexión con la red…</string>
   <string name="wifi_wps_connected">Conexión establecida con la red Wi-Fi %s</string>
   <string name="wifi_wps_failed_auth">Se ha producido un error de autenticación. Inténtalo de nuevo.</string>
   <string name="wifi_wps_failed_generic">Se ha producido un error en la configuración WPS. Inténtalo de nuevo en unos minutos.</string>
@@ -4832,7 +4832,7 @@ de Wi‑Fi"</string>
   <string name="work_sim_title">SIM de trabajo</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Asegúrate de que el router inalámbrico es compatible con WPS</string>
-  <string name="wps_connect_title">Botón WPS push</string>
+  <string name="wps_connect_title">Conectar usando WPS</string>
   <string name="write_settings">Modificar ajustes del sistema</string>
   <string name="write_settings_description">Cuando se concede este permiso, la aplicación puede modificar los ajustes del sistema.</string>
   <string name="write_settings_off">Apagado</string>
