@@ -120,6 +120,14 @@
         <item quantity="other">No hay suficiente. %1$d elementos esperando a ser respaldados</item>
         <item quantity="one">No hay suficiente. %1$d elemento esperando a ser respaldado</item>
     </plurals>
+    <plurals name="number_of_images_synced">
+         <item quantity="other">%1$d fotos</item>
+         <item quantity="one">Una foto</item>
+     </plurals>
+     <plurals name="number_of_videos_synced">
+         <item quantity="other">%1$d vídeos</item>
+         <item quantity="one">1 vídeo</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d fotos a la espera de ser respaldadas</item>
         <item quantity="one">1 foto a la espera de ser respaldada</item>
