@@ -309,6 +309,8 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="auto_disable_screenbuttons_auto">Siempre desactivar</string>
   <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
   <string name="auto_disable_screenbuttons_no">Nunca desactivar</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Cuando el dispositivo está en modo horizontal, se bloquearán los botones de navegación</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Bloquear los botones de navegación en modo horizontal</string>
   <string name="auto_disable_screenbuttons_summary">Desactivar automáticamente los botones de navegación al utilizar las aplicaciones seleccionadas. Toque dos veces cualquier botón de navegación para reactivarlos.</string>
   <string name="auto_disable_screenbuttons_title">Desactivar automáticamente los botones de navegación</string>
   <string name="auto_launch_disable_text">No se han establecido valores por defecto</string>
@@ -1681,6 +1683,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="input_methods_and_subtype_enabler_title">Elegir métodos entrada activos</string>
   <string name="input_methods_settings_label_format">Ajustes de %1$s</string>
   <string name="input_methods_settings_title">Introducción de texto</string>
+  <string name="input_password_hint_text">Introducir contraseña</string>
   <string name="input_settings">Ajustes de entrada</string>
   <string name="install_all_warning">El teléfono y los datos personales son más vulnerables a los ataques de aplicaciones de origen desconocido. El usuario acepta ser el único responsable de cualquier daño en el teléfono o pérdida de datos que se pueda derivar del uso de estas aplicaciones.</string>
   <string name="install_applications">Orígenes desconocidos</string>
@@ -3806,6 +3809,7 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_wizard_format_confirm_public_body">
  Al formatear tu ^1, borrarán todos los datos que tengas almacenados. Te recomendamos que hagas una copia de seguridad de los datos para no perderlos. "Debes formatear tu ^1."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
+  <string name="storage_wizard_format_confirm_third_body">Tu ^1 está siendo formateada</string>
   <string name="storage_wizard_format_confirm_title">Formatear como almacen. interno</string>
   <string name="storage_wizard_format_progress_body">No extraigas tu ^1 mientras se esté formateando.</string>
   <string name="storage_wizard_format_progress_title">Formateando ^1…</string>
@@ -3814,7 +3818,7 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_wizard_init_internal_summary">Para almacenar cualquier contenido (como aplicaciones y fotos) únicamente en este dispositivo. Se debe formatear la unidad para que no se pueda utilizar con otros dispositivos.</string>
   <string name="storage_wizard_init_internal_title">Utilizar como almacenamiento interno</string>
   <string name="storage_wizard_init_title">Configurar tu ^1</string>
-  <string name="storage_wizard_migrate_body">"Puedes mover tus fotos, tus archivos y algunas aplicaciones al nuevo dispositivo de almacenamiento (^1).
+  <string name="storage_wizard_migrate_body">"Puedes mover tus fotos, tus archivos y algunas aplicaciones al nuevo dispositivo de almacenamiento ^1.
 
 La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio de almacenamiento interno. Algunas aplicaciones no funcionarán hasta que finalice el proceso."</string>
   <string name="storage_wizard_migrate_confirm_body">
