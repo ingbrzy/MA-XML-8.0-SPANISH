@@ -122,6 +122,7 @@
   <string name="find_device_account_error">Imposible obtener el estado actual debido a un error en la cuenta</string>
   <string name="find_device_activate_account">Activar cuenta</string>
   <string name="find_device_bad_response_error">Imposible obtener el estado actual debido a un error con el servidor, intente más tarde</string>
+  <string name="find_device_display_id">Desbloquear número: %s</string>
   <string name="find_device_error_password_not_confirmed">Imposible apagar la función Encontrar dispositivo. Ingrese la contraseña de la Cuenta Mi nuevamente.</string>
   <string name="find_device_error_password_recently_changed">El los últimos tres días se hizo un cambio de contraseña. Por razones de securidad aún no es posible desactivar la función Encontrar dispositivo.</string>
   <string name="find_device_interrupted">La acción fue interrumpida, intente más tarde</string>
@@ -147,7 +148,7 @@
   <string name="location_service_not_working">El servicio de ubicación no está funcionando</string>
   <string name="login_check_find_device">Obteniendo información de seguridad del dispositivo…</string>
   <string name="login_check_find_device_failed_title">"No se pudo localizar el estado del dispositivo"</string>
-  <string name="login_find_device_bind">Este dispositivo no esta asociado con una cuenta Mi existente ID (%s), introducir la contraseña para verificar que el dispositivo</string>
+  <string name="login_find_device_bind">Este dispositivo está asociado con una Cuenta Mi existente ID (%s).</string>
   <string name="login_guard_prompt">Se requiere de un número de verificación cuando incias sesión en una cuenta Mi desde una aplicación o dispositivo desconocido por primera vez.</string>
   <string name="logout_failed">No se pudo cerrar sesión</string>
   <string name="mi_account_identity_title">Verificar la identidad</string>
@@ -157,6 +158,8 @@
   <string name="micloud_space_info">%s disponible</string>
   <string name="mili_center">Créditos Mi</string>
   <string name="mipay_center">Mi Wallet</string>
+  <string name="miui_provision_find_status_text">"Este dispositivo está asociado con una Cuenta Mi existente (%1$s), introduzca la contraseña para verificar el dispositivo.
++(Desbloquear número: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Parece que usted está utilizando su cuenta de Primer espacio.</string>
   <string name="multi_user_not_show_sync_activity_message_2">Por esta razón, todos los datos se sincronizarán con el segundo espacio. Para evitar esto, no activar la sincronización con Mi Nube.</string>
   <string name="multi_user_not_show_sync_activity_title">No activar la sincronización con Mi Cloud</string>
