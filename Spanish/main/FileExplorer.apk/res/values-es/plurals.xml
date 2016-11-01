@@ -161,20 +161,20 @@
         <item quantity="many">Recibidos %1$d archivos de WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d archivos de WeChat Video expirarán</item>
-        <item quantity="zero">%1$d archivos de WeChat Video expirarán</item>
-        <item quantity="one">%1$d archivo de WeChat Video expirará</item>
-        <item quantity="two">%1$d archivos de WeChat Video expirarán</item>
-        <item quantity="few">%1$d archivos de WeChat Video expirarán</item>
-        <item quantity="many">%1$d archivos de WeChat Video expirarán</item>
+        <item quantity="other">%1$d archivos de WeChat Vídeo expirarán</item>
+        <item quantity="zero">%1$d archivos de WeChat Vídeo expirarán</item>
+        <item quantity="one">%1$d archivo de WeChat Vídeo expirará</item>
+        <item quantity="two">%1$d archivos de WeChat Vídeo expirarán</item>
+        <item quantity="few">%1$d archivos de WeChat Vídeo expirarán</item>
+        <item quantity="many">%1$d archivos de WeChat Vídeo expirarán</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
-        <item quantity="zero">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
-        <item quantity="one">%1$d archivo temporal de WeChat Video se borrará, ¿quieres hacer copia?</item>
-        <item quantity="two">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
-        <item quantity="few">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
-        <item quantity="many">%1$d archivos temporales de WeChat Video se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="other">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="zero">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="one">%1$d archivo temporal de WeChat Vídeo se borrará, ¿quieres hacer copia?</item>
+        <item quantity="two">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="few">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
+        <item quantity="many">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
     </plurals>
     <plurals name="file_notify_title_wechat_sticker">
         <item quantity="other">%1$d nuevas etiquetas en WeChat</item>
@@ -217,12 +217,12 @@
         <item quantity="many">%1$s vistas</item>
     </plurals>
     <plurals name="video_num">
-        <item quantity="other">%1$s videos</item>
-        <item quantity="zero">%1$s videos</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s videos</item>
-        <item quantity="few">%1$s videos</item>
-        <item quantity="many">%1$s videos</item>
+        <item quantity="other">%1$s vídeos</item>
+        <item quantity="zero">%1$s vídeos</item>
+        <item quantity="one">%1$s vídeo</item>
+        <item quantity="two">%1$s vídeos</item>
+        <item quantity="few">%1$s vídeos</item>
+        <item quantity="many">%1$s vídeos</item>
     </plurals>
     <plurals name="follower_num">
         <item quantity="other">seguidores</item>
@@ -233,43 +233,51 @@
         <item quantity="many">seguidores</item>
     </plurals>
     <plurals name="user_upload_items">
-        <item quantity="other">videos</item>
-        <item quantity="zero">videos</item>
-        <item quantity="one">video</item>
-        <item quantity="two">videos</item>
-        <item quantity="few">videos</item>
-        <item quantity="many">videos</item>
-    </plurals>
-    <plurals name="number_of_comment">
-        <item quantity="other">%1$s comentarios</item>
-        <item quantity="zero">%1$s comentarios</item>
-        <item quantity="one">%1$s comentario</item>
-        <item quantity="two">%1$s comentarios</item>
-        <item quantity="few">%1$s comentarios</item>
-        <item quantity="many">%1$s comentarios</item>
+        <item quantity="other">vídeos</item>
+        <item quantity="zero">vídeos</item>
+        <item quantity="one">vídeo</item>
+        <item quantity="two">vídeos</item>
+        <item quantity="few">vídeos</item>
+        <item quantity="many">vídeos</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s videos</item>
-        <item quantity="zero">%1$s videos</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s videos</item>
-        <item quantity="few">%1$s videos</item>
-        <item quantity="many">%1$s videos</item>
+        <item quantity="other">%1$s vídeos</item>
+        <item quantity="zero">%1$s vídeos</item>
+        <item quantity="one">%1$s vídeo</item>
+        <item quantity="two">%1$s vídeos</item>
+        <item quantity="few">%1$s vídeos</item>
+        <item quantity="many">%1$s vídeos</item>
     </plurals>
-    <plurals name="number_of_comment_flow">  
-         <item quantity="other">%1$s comentarios</item>  
-         <item quantity="one">%1$s comentario</item>  
-    </plurals>  
-    <plurals name="user_sign_limt">  
-         <item quantity="other">Puede introducir %d caracteres</item>  
-         <item quantity="one">Puede introducir %d carácter</item>  
+    <plurals name="number_of_comment_flow">
+         <item quantity="other">%1$s comentarios</item>
+         <item quantity="one">%1$s comentario</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+         <item quantity="other">Puede introducir %d caracteres</item>
+         <item quantity="one">Puede introducir %d carácter</item>
     </plurals>
     <plurals name="video_items">
-         <item quantity="other"> %1$d items</item>
-         <item quantity="zero"> %1$d items</item>
-         <item quantity="one"> %1$d item</item>
-         <item quantity="two"> %1$d items</item>
-         <item quantity="few"> %1$d items</item>
-         <item quantity="many"> %1$d items</item>
+         <item quantity="other"> %1$d elementos</item>
+         <item quantity="zero"> %1$d elementos</item>
+         <item quantity="one"> %1$d elementos</item>
+         <item quantity="two"> %1$d elementos</item>
+         <item quantity="few"> %1$d elementos</item>
+         <item quantity="many"> %1$d elementos</item>
+    </plurals>
+    <plurals name="original_user_days">
+         <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> días</item>
+         <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> día</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+         <item quantity="other">• Usted subió &lt;font color=#fc7050>%1$s&lt;/font> vídeos,</item>
+         <item quantity="one">• Usted subió &lt;font color=#fc7050>%1$s&lt;/font> vídeo,</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+         <item quantity="other">¡Usted ha hecho feliz a &lt;font color=#fc7050>%1$s&lt;/font> personas!</item>
+         <item quantity="one">¡Usted ha hecho feliz a &lt;font color=#fc7050>%1$s&lt;/font> persona</item>
+    </plurals>
+    <plurals name="original_user_fans">
+         <item quantity="other">• ¡Usted tiene &lt;font color=#fc7050>%1$s&lt;/font> seguidores!</item>
+         <item quantity="one">• ¡Usted tiene &lt;font color=#fc7050>%1$s&lt;/font> seguidor!</item>
     </plurals>
 </resources>

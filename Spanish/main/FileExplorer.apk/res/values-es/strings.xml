@@ -26,6 +26,10 @@
   <string name="app_name_miuiringtone">Tonos de llamada</string>
   <string name="app_name_miuiwallpaper">Fondos de pantalla</string>
   <string name="app_name_screenshot">Capturas de pantalla</string>
+  <string name="auto_play">Reproducción automática cuando esté conectado a Wi-Fi</string>
+  <string name="auto_play_later">Más tarde</string>
+  <string name="auto_play_now">Encender</string>
+  <string name="auto_play_toast">Los videos se reproducirán automáticamente. Usted puede cambiar esto en ajustes.</string>
   <string name="backup_cancel">No copiar</string>
   <string name="backup_checkbox_msg">Copiar siempre y mostrar notificaciones</string>
   <string name="backup_confirm">Copiar ahora</string>
@@ -76,6 +80,20 @@
   <string name="change_sticker">Elige otra pegatina</string>
   <string name="choose_report_comment_reason">¿Por qué estás reportando este comentario?</string>
   <string name="choose_report_reason">¿Por qué estás reportando este vídeo?</string>
+  <string name="claim_no_video">No hay videos para reclamar</string>
+  <string name="claim_operation_too_frequently">¡Demasiados intentos! Inténtelo de nuevo más tarde.</string>
+  <string name="claim_remind_dialog_cancel">Ver otros videos</string>
+  <string name="claim_remind_dialog_confirm">Permanecer</string>
+  <string name="claim_remind_dialog_message">Usted no será capaz de reclamar este video si vuelve</string>
+  <string name="claim_remind_dialog_title">Atención</string>
+  <string name="claim_video">Reclamar</string>
+  <string name="claim_video_already_claimed">¡Este video ha sido reclamado, sea más rápido la próxima vez!</string>
+  <string name="claim_video_already_locked">Reclamado</string>
+  <string name="claim_video_failure">No se puede reclamar, inténtelo otra vez</string>
+  <string name="claim_video_locking">Reclamando…</string>
+  <string name="claim_video_over">¡Demasiadas reclamaciones por hoy, vuelva mañana!</string>
+  <string name="claim_video_success">Reclamado con éxito</string>
+  <string name="claim_video_unlogin">Identifíquese para reclamar videos</string>
   <string name="clean_hint">Tocar para liberar espacio</string>
   <string name="click_to_switch_volume">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
   <string name="click_to_switch_volume_pad">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
@@ -225,6 +243,7 @@
   <string name="interest_recommend">Videos recomendados</string>
   <string name="just_now">ahora mismo</string>
   <string name="kilobyteShort">KB</string>
+  <string name="kuaipan_label">Kuaipan</string>
   <string name="like_toast_1">Dichos vídeos se recomendarán con más frecuencia.</string>
   <string name="like_toast_2">Ver los vídeos que te gustan en tu perfil.</string>
   <string name="like_toast_3">Inicia sesión para ver los vídeos que te gustan en tu perfil.</string>
@@ -277,7 +296,6 @@
   <string name="mobile_network_dialog_cancle">Cancelar</string>
   <string name="mobile_network_dialog_confirm">De acuerdo</string>
   <string name="mobile_network_dialog_tip">¿Usar tu conexión de datos móviles para acceder a esta página? Recibirá las tarifas de datos móviles regulares de su compañía.</string>
-  <string name="mobile_network_dialog_tip2">Al ver videos online o transmitirlos se aplicarán costos extras por usar datos según el plan de datos que tengas.</string>
   <string name="mobile_network_dialog_title">Advertencia de datos móviles</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">No se puede cortar</string>
@@ -303,6 +321,7 @@
   <string name="no_enough_storage_title">No hay espacio suficiente</string>
   <string name="no_file">Vacío</string>
   <string name="no_login_btn_text">Iniciar sesión</string>
+  <string name="no_login_str">No identificado</string>
   <string name="no_message">No hay mensajes</string>
   <string name="no_new_content_tip">Todos los artículos están actualizados</string>
   <string name="no_recent_files">Sin archivos recientes</string>
@@ -364,6 +383,11 @@
   <string name="operation_show_sys">Mostrar archivos ocultos</string>
   <string name="operation_unfavorite">No favorito</string>
   <string name="origin_name">%1$s: </string>
+  <string name="original_user_qq_group">Únete al grupo QQ del equipo de Talentos</string>
+  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se ha unido a la comunidad</string>
+  <string name="original_user_signal">Equipo de Talentos</string>
+  <string name="original_user_title">¡Enhorabuena por llegar a ser un miembro del equipo de Talentos!</string>
+  <string name="original_user_verify">• ¡Gracias por quedarte!</string>
   <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Siguiendo</string>
   <string name="other_user_liked_topic_tip">No hay temas</string>
@@ -432,6 +456,8 @@
   <string name="rename_failed">No se puede renombrar %1$s</string>
   <string name="repair_done">Restaurado</string>
   <string name="repair_error">No se pudo restaurar</string>
+  <string name="repair_error_no_media">No se puede restaurar, por favor seleccione al menos un fichero multimedia.</string>
+  <string name="repair_error_no_order">No se puede restaurar, por favor borre o desencripte %s e inténtelo otra vez</string>
   <string name="repair_file">Restaurar archivos encriptados</string>
   <string name="reply_success">Comentario añadido</string>
   <string name="report_abuse">Abuso</string>
@@ -533,13 +559,16 @@
   <string name="swap_tip_2">para ver otros vídeos</string>
   <string name="sys_size_enable">" disponible"</string>
   <string name="tab_category">Categorías</string>
+  <string name="tab_claim">Reclamar</string>
   <string name="tab_common_app">Aplicaciones y carpetas</string>
+  <string name="tab_discover">Descubrir</string>
   <string name="tab_follow">Siguiendo</string>
+  <string name="tab_homepage">Inicio</string>
   <string name="tab_hottest_video">Popular</string>
   <string name="tab_local">Local</string>
+  <string name="tab_mine">Perfil</string>
   <string name="tab_more">Más</string>
   <string name="tab_newest_video">Nuevo</string>
-  <string name="tab_profile">Perfil</string>
   <string name="tab_ranking_list">Lista de clasificación</string>
   <string name="tab_source">Aplicaciones</string>
   <string name="terabyteShort">TB</string>
@@ -555,7 +584,7 @@
   <string name="tools">HERRAMIENTAS</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Siguiendo</string>
-  <string name="topic_message">%1$s: %2$s</string>
+  <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
   <string name="topic_winners">Ganadores previos</string>
   <string name="transfer_done">Archivos movidos correctamente.</string>
   <string name="transfer_private_data">Moviendo carpetas ocultas de la tarjeta SD…</string>
@@ -573,6 +602,7 @@
   <string name="unmount_inform_text">¿Desmontar el almacenamiento USB?</string>
   <string name="unreviewed_video_cannot_share">Los videos han de ser reseñados antes de ser compartidos</string>
   <string name="update">Actualizar</string>
+  <string name="update_failed">No se pudo guardar, inténtelo otra vez</string>
   <string name="update_loading">Guardando…</string>
   <string name="upload_avatar_camera">Cámara</string>
   <string name="upload_avatar_failed">"No se puede subir, intentelo de nuevo"</string>
@@ -594,15 +624,15 @@
   <string name="upload_notification_success_content">Tu video debe ser reseñado antes de ser compartido con otras personas</string>
   <string name="upload_notification_title">Subiendo video</string>
   <string name="upload_user_photo">Subir</string>
+  <string name="upload_video">Compartir video</string>
+  <string name="upload_video_dialog_message">El vídeo será presentado después de ser comprobado.</string>
+  <string name="upload_video_dialog_title">Video compartido</string>
   <string name="upload_video_failed">"No se pudo subir"</string>
   <string name="upload_video_failed_external_progress">"No se pudo subir, probar una vez más"</string>
   <string name="upload_video_failed_progress">"No se pudo subir, inténtelo de nuevo"</string>
   <string name="upload_video_forbidden">No subir el mismo video</string>
   <string name="upload_video_success">Subido correctamente</string>
   <string name="upload_video_success_progress">Subido correctamente</string>
-  <string name="upload_video">Compartir video</string>
-  <string name="upload_video_dialog_message">El vídeo será presentado después de ser comprobado.</string>
-  <string name="upload_video_dialog_title">Video compartido</string>
   <string name="uploading_video">Subiendo video…</string>
   <string name="usb_label">USB</string>
   <string name="used">Usado</string>
@@ -659,14 +689,22 @@
   <string name="video_comment_hint">Seleccionar tema</string>
   <string name="video_comment_limit">%1$s carácteres restantes</string>
   <string name="video_comment_publish">Incribir</string>
-  <string name="video_comment_topic">\#Añadir tópicoc#</string>
+  <string name="video_comment_topic">\#Añadir tópico#</string>
   <string name="video_data_consumption_cancel">Cancelar</string>
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">Subir va a requerir %1$s de datos móviles</string>
   <string name="video_data_consumption_dialog_title">Aviso de uso de datos</string>
   <string name="video_description">Descripción del video</string>
+  <string name="video_encrypt_fans_btn">Sea un fan</string>
+  <string name="video_encrypt_fans_text">Sólo los fans pueden ver este video</string>
+  <string name="video_encrypt_follow_fail">No se puede seguir</string>
+  <string name="video_encrypt_follow_success">Seguido %s</string>
+  <string name="video_encrypt_login_btn">Indentifíquese</string>
+  <string name="video_encrypt_login_text">Identifíquese para reproducir este video</string>
+  <string name="video_operation_need_fans">Siga a la persona que hizo el video para hacer esto</string>
+  <string name="video_operation_need_login">Identifíquese para hacer esto</string>
   <string name="video_parse_btn">Comenzar</string>
-  <string name="video_parse_error_unknown">"Este enlace no es compatible, pruebe con otro."</string>
+  <string name="video_parse_error_unknown">Este enlace no es compatible, pruebe con otro.</string>
   <string name="video_parse_hint">Servicios soportados: WeChat, Weibo, Youku.</string>
   <string name="video_parse_success">Analizado correctamente</string>
   <string name="video_parse_timeout">Se produjo un error, inténtelo de nuevo</string>
@@ -684,7 +722,6 @@
   <string name="video_topic_hint">Buscar</string>
   <string name="video_upload_btn">Siguiente</string>
   <string name="video_upload_btn_hint">Los videos MP$ deberan tener de 3s~10min de duración</string>
-  <string name="video_upload_hint">Subir vídeos promocionados para ganar más puntos.</string>
   <string name="video_upload_item_more">Más (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Sube vídeos a KuaiShou para conseguir más fans.</string>
@@ -722,5 +759,4 @@
  la cual es una aplicación dedicada a traer más diversión!"</string>
   <string name="youliao_dialog_title">¿No hay vídeos interesantes?</string>
   <string name="zero">0</string>
-  <string name="zero_comment">No hay comentarios</string>
 </resources>
