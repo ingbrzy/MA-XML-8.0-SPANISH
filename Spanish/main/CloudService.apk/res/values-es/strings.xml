@@ -126,7 +126,7 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
   <string name="loading">Solo un segundo…</string>
   <string name="loading_hint">Cargando</string>
   <string name="master_alert_notif_content">%d datos no sincronizaron.</string>
-  <string name="master_alert_notif_dspt_add">Ítems esperando a sincronizar: %s</string>
+  <string name="master_alert_notif_dspt_add">Elementos esperando a sincronizar: %s</string>
   <string name="master_alert_notif_dspt_no">Sincronizado</string>
   <string name="master_alert_notif_title">Activar MiCloud</string>
   <string name="member_due_date">Válido hasta %s</string>
@@ -252,7 +252,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_multi_user_error_title">Error de Mi Nube</string>
   <string name="micloud_main_network_abnormal">No es posible conectarse a la red</string>
   <string name="micloud_main_network_error">No es posible conectarse a la red</string>
-  <string name="micloud_main_not_sync">Ítems esperando a sincronizar: %d</string>
+  <string name="micloud_main_not_sync">Elementos esperando a sincronizar: %d</string>
   <string name="micloud_main_query_error_message">No se puede garantizar si la sincronización está terminada</string>
   <string name="micloud_main_query_error_title">No se puede obtener el estado de sincronización</string>
   <string name="micloud_main_set_internet">Red</string>
@@ -280,7 +280,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_title_sync_off">Sincronización desactivada</string>
   <string name="micloud_main_title_sync_on_wifi">Usar Wi-Fi</string>
   <string name="micloud_main_update_space">Conseguir más espacio de almacenamiento.</string>
-  <string name="micloud_main_wlan_sync_data_count">Ítems esperando a sincronizar: %d</string>
+  <string name="micloud_main_wlan_sync_data_count">Elementos esperando a sincronizar: %d</string>
   <string name="micloud_member">Afiliación a Mi Cloud</string>
   <string name="micloud_member_advantage">Conseguir más espacio de almacenamiento.</string>
   <string name="micloud_member_buy_content" formatted="false">"Válido para %s-%s-%s
@@ -368,7 +368,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_web_discription_01">Identifíquese en i.mi.com</string>
   <string name="micloud_web_discription_02">para almacenar y acceder a sus archivos desde cualquier parte</string>
   <string name="micloud_web_discription_international">Visite www.mi.com/micloud</string>
-  <string name="micloud_website">Ítems en Mi Cloud</string>
+  <string name="micloud_website">Elementos en Mi Cloud</string>
   <string name="microsoft_cloud">Servicio de Microsoft Cloud</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
@@ -445,7 +445,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="start_micloud">Empezar</string>
   <string name="storage">Almacenamiento</string>
   <string name="sub_alert_notif_content">Activar Micloud</string>
-  <string name="sub_alert_notif_dspt_add">Ítems esperando a sincronizar: %s</string>
+  <string name="sub_alert_notif_dspt_add">Elementos esperando a sincronizar: %s</string>
   <string name="sub_alert_notif_dspt_no">Sincronizado</string>
   <string name="sub_alert_notif_title">Sincronización con Mi Cloud</string>
   <string name="sub_sync_item_sms_summary">Solo sincronizar mensajes que contengan fotos, audio u otros archivos multimedia cuando esté conectado a una red Wi-Fi</string>
