@@ -3,6 +3,7 @@
   <string name="Accounts_settings_title">Cuentas</string>
   <string name="aaid_info">"
 El identificador de publicidad es único y permanente para su dispositivo. Los vendedores lo usan para seleccionar contenido publicitario que será más útil para usted."</string>
+  <string name="about_phone_enter_xiaomi_net">Aprende más</string>
   <string name="about_settings">Información del teléfono</string>
   <string name="about_settings_summary">Ver información legal, estado, versión del software</string>
   <string name="ac_enable_summary">Establecer una contraseña para las aplicaciones individuales</string>
@@ -839,6 +840,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="color_white">Blanco</string>
   <string name="color_yellow">Amarillo</string>
   <string name="common_settings">Ajustes rápidos</string>
+  <string name="complete_parameters">Todas las características</string>
   <string name="complete_settings">Ajustes generales</string>
   <string name="computing_size">Calculando…</string>
   <string name="condition_provider_security_warning_summary">%1$s podrá agregar condiciones de salida al modo No molestar.</string>
@@ -1127,12 +1129,14 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_admin_status">Este administrador está activo y permite que la aplicación %1$s realice las siguientes operaciones:</string>
   <string name="device_admin_title">Administración de dispositivos</string>
   <string name="device_admin_warning">Al activar este administrador, la aplicación %1$s podrá llevar a cabo las siguientes operaciones:</string>
+  <string name="device_complete_parameters">Completar</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
   <string name="device_cpu8_info">Octa-core</string>
+  <string name="device_display_layout_title">Caracteristicas Mi 5</string>
   <string name="device_edit_title">Renombrar teléfono</string>
   <string name="device_feedback">Dar tu opinión sobre el dispositivo</string>
   <string name="device_info_default">Desconocido</string>
@@ -1141,7 +1145,9 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_info_settings">Estado del teléfono</string>
   <string name="device_internal_memory">Memoria interna</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Ver más</string>
   <string name="device_miui_version">Versión de MIUI</string>
+  <string name="device_miui_version_update">Actualización disponible MIUI</string>
   <string name="device_name">Nombre de dispositivo</string>
   <string name="device_name_input_error">No se pudo guardar el nombre del dispositivo</string>
   <string name="device_name_input_hint">Introducir nombre</string>
@@ -1149,6 +1155,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_picker">Seleccionar dispositivo Bluetooth</string>
   <string name="device_reset_title">Restablecer dispositivo</string>
   <string name="device_sd_memory">Tarjeta SD</string>
+  <string name="device_share_loading">Crear imagen</string>
   <string name="device_security_settings_title">Seguridad</string>
   <string name="device_status">Estado</string>
   <string name="device_status_activity_title">Estado</string>
@@ -2134,6 +2141,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Se ha usado una media de %1$s de memoria durante las últimas 3 horas</string>
   <string name="menu_cancel">Descartar</string>
+  <string name="menu_check">Experiencia</string>
   <string name="menu_delete">Eliminar APN</string>
   <string name="menu_duration_12h">12 horas</string>
   <string name="menu_duration_1d">1 día</string>
@@ -2150,6 +2158,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="menu_proc_stats_type_foreground">En primer plano</string>
   <string name="menu_restore">Restablecer</string>
   <string name="menu_save">Guardar</string>
+  <string name="menu_share">Compartir</string>
   <string name="menu_show_percentage">Mostrar porcentajes</string>
   <string name="menu_show_system">Mostrar aplicaciones del sistema</string>
   <string name="menu_stats_last_unplugged">Desde la última vez que se desenchufó para %1$s</string>
@@ -2273,6 +2282,7 @@ Seleccione su sistema operativo:"</string>
   <string name="musicfx_title">Efectos de música</string>
   <string name="mvno_match_data">Valor de OMV</string>
   <string name="mvno_type">Tipo de OMV</string>
+  <string name="my_device">Mi dispositivo</string>
   <string name="nearby_wifi">Redes disponibles</string>
   <string name="need_reboot_now">Reinicie para instalar la actualización.</string>
   <string name="network_assistant">Uso de datos</string>
@@ -2404,6 +2414,7 @@ Seleccione su sistema operativo:"</string>
   <string name="optimization_close">Desactivar y reiniciar</string>
   <string name="optimization_open">Activar</string>
   <string name="other_advanced_settings">Ajustes adicionales</string>
+  <string name="other_device_info">Otros</string>
   <string name="other_personal_settings">Ajustes personales</string>
   <string name="other_relative">Otros</string>
   <string name="other_sound_settings">Otros sonidos</string>
@@ -2952,6 +2963,7 @@ Seleccione su sistema operativo:"</string>
   <string name="radio_info_smsc_refresh_label">Actualizar</string>
   <string name="radio_info_smsc_update_label">Actualizar</string>
   <string name="radio_info_toggle_dns_check_label">alternar comprobación de DNS</string>
+  <string name="rank_title">Clasificaciones</string>
   <string name="rarely_running">Apenas en ejecución (%s)</string>
   <string name="really_remove_account_message">Si quitas esta cuenta, se eliminarán todos sus mensajes, contactos y otros datos del teléfono.</string>
   <string name="really_remove_account_title">¿Quitar cuenta?</string>
@@ -2959,6 +2971,11 @@ Seleccione su sistema operativo:"</string>
   <string name="receiver_clean">Liberar espacio</string>
   <string name="recent_location_requests_summary">Ver aplicaciones que soliciten acceso a su ubicación</string>
   <string name="recent_location_requests_title">Acceso a ubicación</string>
+  <string name="recommend_item_1">Carcasa de telefono</string>
+  <string name="recommend_item_2">Mi Band</string>
+  <string name="recommend_item_3">Power bank</string>
+  <string name="recommend_item_4">Auriculares</string>
+  <string name="recommend_item_title">Recomendaciones</string>
   <string name="recompute_size">Recalculando tamaño…</string>
   <string name="record_anr_in_background">Grabar casos de ANR en segundo plano</string>
   <string name="regulatory_info_text"/>
