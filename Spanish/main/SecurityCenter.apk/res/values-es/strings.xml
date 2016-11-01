@@ -78,6 +78,11 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="antivirus_choose_engine_disable_toast">No se pueden cambiar las definiciones mientras el escaneo está en progreso</string>
   <string name="antivirus_choose_engine_settings">Ajustes de definiciones de virus</string>
   <string name="antivirus_choose_engine_title">Definiciones</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Eliminar aplicaciones peligrosas</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Eliminar virus</string>
+  <string name="antivirus_monitor_clean_tips">Eliminados %s elementos</string>
+  <string name="antivirus_monitor_risk_advice">"Esta aplicación no es segura, elimínela"</string>
+  <string name="antivirus_monitor_virus_advice">Esta aplicación podría contener virus, elimínela</string>
   <string name="antivirus_more_engine_dialog_summary">Usar múltiples archivos de definiciones para escanear podría tardar más tiempo.</string>
   <string name="antivirus_more_engine_dialog_title">Atención</string>
   <string name="antivirus_none_engine_dialog_ok">Aceptar</string>
