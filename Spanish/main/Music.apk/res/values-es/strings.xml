@@ -29,15 +29,6 @@
   <string name="alaka_required">Esta canción no está disponible.</string>
   <string name="album_name">Álbum</string>
   <string name="album_search_title">Álbum</string>
-  <string name="alert_msg_vip_song_for_download">Obtener Paquete Canción Mejorada para descargar esta canción.</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">Agotaste tu cuota de descarga para este mes. Compra el Paquete de Canción Mejorada para descargar más.</string>
-  <string name="alert_msg_vip_song_for_stream">Obtener Premium Pack de Canciones para transmitir esta canción.</string>
-  <string name="alert_msg_vip_songs_for_download">Obtener Premium Pack de Canciones para descargar todas las canciones.</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">Agotaste tu cuota de descarga para este mes. Compra el Paquete de Canción Mejorada para descargar más.</string>
-  <string name="alert_msg_vip_songs_for_stream">Algunas canciones sólo se pueden transmitir con el Paquete de Canción Mejorada.</string>
-  <string name="alert_title_vip_song">Canciones premium</string>
-  <string name="alert_title_vip_songs">Paquete de Canciones Premium</string>
-  <string name="alert_title_vip_songs_upgrade">Compra el Paquete de Canciones Premium</string>
   <string name="all_artist">Todos los artistas</string>
   <string name="all_downloads">Todas las descargas</string>
   <string name="all_fileter">Todo</string>
@@ -87,7 +78,6 @@
   <string name="button_wait_for_wifi">Espere</string>
   <string name="buy_other_flow">Flujo no direccional opcional</string>
   <string name="buy_traffic">Compra Unicom</string>
-  <string name="buy_vip">Obtener paquete canción premium</string>
   <string name="can_not_find_resource">No se encuentra el recurso</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_running_download">Cancel</string>
@@ -379,7 +369,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="local_page_song_download">Canciones locales</string>
   <string name="local_page_song_favorite">Canciones favoritas</string>
   <string name="local_tracks_short">Fuera de línea</string>
-  <string name="login_first">Inicia sesión en tu Cuenta Mi primero</string>
   <string name="lrc_search_failed">No se pudieron encontrar las letras</string>
   <string name="lrc_searching">Buscando…</string>
   <string name="lyric">Letra</string>
@@ -466,6 +455,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="network_request_error">No se puede conectar a la red</string>
   <string name="network_settings_error">No se puede conectar a la red</string>
   <string name="network_traffic">Uso de datos</string>
+  <string name="news_mark">NOTICIAS</string>
   <string name="next_time">La próxima vez</string>
   <string name="no_album_info">No hay información del álbum</string>
   <string name="no_artist_info">No hay información del artista</string>
@@ -525,7 +515,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="order_pending">Esperando confirmación</string>
   <string name="order_process_fail">No se pudo autorizar tu cuenta. Espera unos minutos y vuelve a intentarlo.</string>
   <string name="other_filter">Otro</string>
-  <string name="othor_song_in_album">Otras canciones en el mismo álbum.</string>
+  <string name="other_song_in_album">Other songs from this album</string>
   <string name="package_filter">Paquetes</string>
   <string name="pause_download">Pausar</string>
   <string name="paused_by_app">Pausado</string>
@@ -701,7 +691,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="storage_internal">Almacenamiento interno</string>
   <string name="storage_sd_card">SD tarjeta</string>
   <string name="storage_usb">USB almacenamiento</string>
-  <string name="stream_normal">"Reproducir  en calidad estándar"</string>
   <string name="stream_quality">Calidad de streaming</string>
   <string name="streamloadingtext">Conectando a %s</string>
   <string name="sub_explanation">Instrucciones de pedido</string>
@@ -750,8 +739,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="title_search_history">Histórico de búsqueda</string>
   <string name="title_search_hot">Popular</string>
   <string name="to_mi_pay">Créditos Mi</string>
-  <string name="toast_cancel_download">Descarga cancelada</string>
-  <string name="toast_cancel_play">Reproducción cancelado</string>
   <string name="toast_download_error_by_count_limit">Se ha agotado su cuota de descarga para este mes.</string>
   <string name="toast_download_error_by_not_login">Inicie sesión con su Cuenta Mi e inténtelo de nuevo.</string>
   <string name="toast_download_error_by_vip_required">Obtener paquete de canción premium para descargar esta canción.</string>
@@ -761,8 +748,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="toast_stream_normal">Reproduce en calidad estantar Obten paquete de cancion Premium y disfruta de alta calidad en streaming.</string>
   <string name="toast_uhd_songs_for_download">Descargando en alta calidad</string>
   <string name="toast_uhd_songs_for_stream">Streaming en alta calidad</string>
-  <string name="toast_vip_download_one_limit">Usted ha agotado su cuota de descarga para este mes. Puede descargar más canciones cuando llegue Paquete canción mejorada próximo mes.</string>
-  <string name="toast_vip_download_some_limit">" Usted ha agotado su cuota de descarga para este mes. Puede descargar más canciones cuando llegue Paquete canción mejorada próximo mes. "</string>
   <string name="too_freq">Demasiadas peticiones desde este dispositivo</string>
   <string name="tos">Términos de Servicio</string>
   <string name="track_list_control_download">Descargar</string>
@@ -796,7 +781,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="upgrade_services">Actualizaciones</string>
   <string name="upgrade_suggest">Suspendemos el servicio de streaming de música debido a asuntos de copyright. Actualízate a la última versión de la aplicación Música para escuchar música en alta calidad.</string>
   <string name="upgrade_to">Actualizar a</string>
-  <string name="upgrade_vip">Actualiza paquete de canciones premium</string>
   <string name="upgrade_waringing">Sólo podrás escuchar la música almacenada en el dispositivo.</string>
   <string name="valid_period">Válido: %s</string>
   <string name="version_info">Versión</string>
