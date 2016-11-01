@@ -23,7 +23,6 @@
   <string name="administrative_disable">Administrativo desactivado</string>
   <string name="administrative_enable">Administrativo activado</string>
   <string name="advanced_settings">Ajustes opcionales</string>
-  <string name="advanced_settings_container">advanced settings container</string>
   <string name="advanced_settings_hide">▽ Toca para ocultar todo</string>
   <string name="advanced_settings_show">▷ Toca para mostrar todo</string>
   <string name="advertisements_disable">Anuncios desactivados</string>
@@ -866,7 +865,6 @@ Usando red preferida."</string>
   <string name="operator_mins_first">Dar prioridad al plan de soporte</string>
   <string name="operator_mins_first_close">Apagar</string>
   <string name="operator_remain_mins">Paquete de minutos del operador</string>
-  <string name="operator_remain_mins_value">%1$s minutos</string>
   <string name="optional_summary">&lt;Opcional&gt;</string>
   <string name="order_by_recent">Frecuencia</string>
   <string name="order_id">ID de pedido: %1$s</string>
@@ -901,7 +899,6 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
   <string name="other_settings">Otras opciones de llamado</string>
   <string name="other_settings_category">Otros</string>
   <string name="overseas_roaming_setting">Roaming de datos</string>
-  <string name="password">Contraseña</string>
   <string name="password_changed">Contraseña cambiada</string>
   <string name="password_title">Contraseña</string>
   <string name="path_answer_state_setting_title">Aplicaciones del Sistema/Teléfono/Ajustes de llamada entrante</string>
@@ -987,7 +984,6 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
   <string name="pin_progress_set_icc_lock">Configurando estado del bloqueo ICC…</string>
   <string name="pin_progress_unlock_icc">Desbloqueando tarjeta SIM…</string>
   <string name="please_enter_phone_number">Por favor introduzca el número de teléfono</string>
-  <string name="port">Puerto</string>
   <string name="port_title">Número de puerto</string>
   <string name="preference_auto_ip_summary_disable">Apagado</string>
   <string name="preference_category_ringtone">Tono y vibración</string>
@@ -1344,7 +1340,6 @@ El próximo período comienza en %2$d días (%3$s)"</string>
   <string name="title_user_config">Activando tarjeta SIM</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="top_up_first">Recargar primero</string>
-  <string name="transport">Protocolo</string>
   <string name="transport_title">Tipo de transporte</string>
   <string name="tty_mode_not_allowed_video_call">No se permite el cambio del modo TTY durante una videollamada</string>
   <string name="tty_mode_option_summary">Establecer modo TTY</string>
@@ -1368,7 +1363,6 @@ El próximo período comienza en %2$d días (%3$s)"</string>
   <string name="use_history">Actividad</string>
   <string name="use_history_duration_min">%1$s mins</string>
   <string name="use_range">Características</string>
-  <string name="username">Nombre de Usuario</string>
   <string name="username_title">Usuario</string>
   <string name="ussdRunning">Código USSD en ejecución…</string>
   <string name="ussd_dialog_sep">----------</string>
@@ -1390,7 +1384,6 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="voicemail_default">Mi operador</string>
   <string name="voicemail_notification_ringtone_title">Sonido</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrar</string>
-  <string name="voicemail_notification_vibrate_when_default">nunca</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
   <string name="voicemail_number_not_set">&lt;No definido&gt;</string>
   <string name="voicemail_provider">Servicio de buzón de voz</string>
