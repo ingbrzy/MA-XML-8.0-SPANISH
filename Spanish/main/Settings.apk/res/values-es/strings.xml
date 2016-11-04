@@ -673,11 +673,11 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bootloader_device_bind_already">Agregado con éxito. La Cuenta Mi se asocia ahora con este dispositivo.</string>
   <string name="bootloader_device_bind_fail">"No se ha podido verificar, esperar uno o dos minutos y vuelva a intentarlo"</string>
   <string name="bootloader_device_bind_msg">Preparando para añadir la cuenta y el dispositivo…</string>
-  <string name="bootloader_device_bind_no_account">Iniciar sesión primero en su cuenta Mi</string>
+  <string name="bootloader_device_bind_no_account">Iniciar sesión primero en su Cuenta Mi</string>
   <string name="bootloader_device_bind_no_network">Conectarse a la red y vuelva a intentarlo</string>
   <string name="bootloader_locked_answer_1">"Bloqueamos los dispositivos para asegurar que son seguros y su información personal no sea revelada a terceros. Si tiene que entrar en el modo Fastboot y en el flash de su dispositivo, puede desbloquearlo."</string>
   <string name="bootloader_locked_answer_1_warning">"Recuerda: Usted no será capaz de utilizar \"Encontrar dispositivo\" después de que el teléfono este desbloqueado."</string>
-  <string name="bootloader_locked_answer_2">"Pulse en el botón de abajo para asociar su cuenta Mi con este dispositivo. A continuación, vaya a la página web de MIUI para descargar la herramienta de desbloqueo e instalarlo en su ordenador. Aquí está la dirección:"</string>
+  <string name="bootloader_locked_answer_2">"Pulse en el botón de abajo para asociar su Cuenta Mi con este dispositivo. A continuación, vaya a la página web de MIUI para descargar la herramienta de desbloqueo e instalarlo en su ordenador. Aquí está la dirección:"</string>
   <string name="bootloader_locked_check_status">Añadir una cuenta y el dispositivo</string>
   <string name="bootloader_locked_question_1">¿Por qué se deben bloquear dispositivos?</string>
   <string name="bootloader_locked_question_2">Entiendo los riesgos, pero todavía quiero desbloquear el dispositivo.</string>
@@ -1163,12 +1163,12 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_status_summary">Número de teléfono, señal, etc.</string>
   <string name="dial_application_title">Marcar</string>
   <string name="dial_pad_tones_title">Tonos del teclado</string>
-  <string name="dialog_content_login">¿Quiere iniciar sesión en su cuenta Mi para actualizar?</string>
+  <string name="dialog_content_login">¿Quiere iniciar sesión en su Cuenta Mi para actualizar?</string>
   <string name="dialog_no">No</string>
   <string name="dialog_title_color_calibration">Corrección de color preestablecido</string>
   <string name="dialog_title_font_size">Tamaño de la fuente</string>
   <string name="dialog_title_hdmi_color_calibration">Corrección de color preestablecido</string>
-  <string name="dialog_title_login">Inicie sesión en su cuenta Mi</string>
+  <string name="dialog_title_login">Inicie sesión en su Cuenta Mi</string>
   <string name="dialog_yes">Sí</string>
   <string name="dirac_control">Optimizar la calidad del audio</string>
   <string name="dirac_mode_earbuds">Auriculares Mi</string>
@@ -1525,7 +1525,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
 	&lt;u&gt;Contraseña olvidada&lt;/u&gt;
   </string>
   <string name="forget_pattern">&lt;u&gt;¿Olvidó el patrón?&lt;/u&gt;</string>
-  <string name="forget_privacy_password_setting">Añadir cuenta Mi</string>
+  <string name="forget_privacy_password_setting">Añadir Cuenta Mi</string>
   <string name="forget_privacy_password_summary">Use Cuenta Mi para restrablecer su contraseña</string>
   <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
   <string name="found_new_version">Actualización disponible</string>
@@ -2517,7 +2517,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_children_mode_settings">Ajustes/Ajustes adicionales/Modo niño</string>
   <string name="path_choose_timezone">Ajustes/Ajustes adicionales/Fecha y hora/Seleccione zona horaria</string>
   <string name="path_cloud_backup_settings_section_title">Ajustes/Ajustes adicionales/Copia de respaldo y reinicio/Ajustes de respaldos</string>
-  <string name="path_cloud_restore_section_title">Ajustes/Ajustes adicionales/Copia de respaldo y reinicio/Restaurar desde Mi Nube</string>
+  <string name="path_cloud_restore_section_title">Ajustes/Ajustes adicionales/Copia de respaldo y reinicio/Restaurar desde Mi Cloud</string>
   <string name="path_copyright">Ajustes/Acerca del teléfono/Información legal/Derechos de autor</string>
   <string name="path_credentials_install">Ajustes/Ajustes adicionales/Privacidad/Instalar desde el almacenamiento</string>
   <string name="path_date_time_settings">Ajustes/Ajustes adicionales/Fecha y hora</string>
@@ -2827,10 +2827,10 @@ Seleccione su sistema operativo:"</string>
   <string name="privacy_settings_title">Copia de seguridad y restauración</string>
   <string name="private_gallery_need_to_unlock">Se requiere contraseña:</string>
   <string name="private_gallery_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
-  <string name="private_gallery_reset_by_account">Para restablecer su contraseña, inicie sesión en su cuenta Mi</string>
+  <string name="private_gallery_reset_by_account">Para restablecer su contraseña, inicie sesión en su Cuenta Mi</string>
   <string name="private_sms_need_to_unlock">Se requiere contraseña:</string>
   <string name="private_sms_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
-  <string name="private_sms_reset_by_account">Para restablecer su contraseña, inicie sesión en su cuenta Mi</string>
+  <string name="private_sms_reset_by_account">Para restablecer su contraseña, inicie sesión en su Cuenta Mi</string>
   <string name="process_dex2oat_label">Optimización de aplicación</string>
   <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">SO Android</string>
@@ -3221,7 +3221,7 @@ Para ello:
   <string name="search_children_mode_title">Modo niño;Niño;Control parental</string>
   <string name="search_choose_timezone">Seleccionar zona horaria;Zona horaria;Zonas horarias</string>
   <string name="search_cloud_backup_settings_section_title">Ajustes de copias de respaldo;Hacer copia de respaldo;Hacer copia de respaldo;Copias de respaldo</string>
-  <string name="search_cloud_restore_section_title">Restaurar de Mi Nube;Mi Nube;Copias de respaldo de Mi Nube</string>
+  <string name="search_cloud_restore_section_title">Restaurar de Mi Cloud;Mi Cloud;Copias de respaldo de Mi Cloud</string>
   <string name="search_copyright">Derechos de autor</string>
   <string name="search_credentials_install">Instalar desde el almacenamiento;Instalación directa;Instalar APK</string>
   <string name="search_date_time">Fecha y hora;Fecha y hora;Fecha;Hora</string>
@@ -3265,7 +3265,7 @@ Para ello:
   <string name="search_manage_notification_access_title">Acceso a notificación;Notificaciones;Permisos de notificación</string>
   <string name="search_master_clear_title">Restablecer datos de fábrica</string>
   <string name="search_menu">Ajustes de búsqueda</string>
-  <string name="search_micloud">Sincronizar;Mi Nube;Sincronizar Nube;Sincronizar con Mi Nube</string>
+  <string name="search_micloud">Sincronizar;Mi Cloud;Sincronizar Nube;Sincronizar con Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">Ajustes de audio;Ajustes de sonido</string>
   <string name="search_music_headset_calibrate">Asignar botones;Botones</string>
   <string name="search_music_headset_mode_settings">Botones de auriculares;Controles remotos</string>
@@ -3974,7 +3974,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="title_local_resource">Recursos locales</string>
   <string name="title_system_resource">Recursos del sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Introducir contraseña</string>
-  <string name="toast_need_login">Inicie sesión en su cuenta Mi</string>
+  <string name="toast_need_login">Inicie sesión en su Cuenta Mi</string>
   <string name="total_memory">Memoria total</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
@@ -4733,7 +4733,7 @@ de Wi‑Fi"</string>
   <string name="wifi_share">Compartir Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Detener compartir redes</string>
   <string name="wifi_share_action_turn_on">Compartir Wi-Fi</string>
-  <string name="wifi_share_action_turn_on_summary">Para compartir, inicie sesión en su cuenta Mi</string>
+  <string name="wifi_share_action_turn_on_summary">Para compartir, inicie sesión en su Cuenta Mi</string>
   <string name="wifi_share_add">Compartir mis redes Wi-Fi públicas</string>
   <string name="wifi_share_add_summary">"Cuando comparte sus redes públicas,
  puede utilizar también las redes de otros usuarios"</string>
