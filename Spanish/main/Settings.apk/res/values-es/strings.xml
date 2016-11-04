@@ -939,7 +939,7 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
   <string name="cryptkeeper_wrong_password">Contraseña incorrecta</string>
   <string name="cryptkeeper_wrong_pattern">Patrón incorrecto</string>
   <string name="cryptkeeper_wrong_pin">PIN incorrecto</string>
-  <string name="current_backup_pw_prompt">Introduce aquí la contraseña actual de la copia de seguridad completa.</string>
+  <string name="current_backup_pw_prompt">Introduzca aquí la contraseña actual de la copia de seguridad completa.</string>
   <string name="current_input_method">Teclado actual</string>
   <string name="current_screen_lock">Bloqueo de pantalla actual</string>
   <string name="current_use_ese">Usar elemento seguro incorporado</string>
@@ -1398,9 +1398,9 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="enforce_read_external_title">Proteger tarjeta SD</string>
   <string name="enhanced_4g_lte_mode_summary">Usar datos LTE para mejorar la voz y las comunicaciones (recomendado)</string>
   <string name="enhanced_4g_lte_mode_title">Modo 4G LTE mejorado</string>
-  <string name="enter_password">Para iniciar tu dispositivo Android, introduce tu contraseña</string>
+  <string name="enter_password">Para iniciar tu dispositivo Android, introduzca su contraseña</string>
   <string name="enter_pattern">Para iniciar tu dispositivo Android, dibuja tu patrón</string>
-  <string name="enter_pin">Para iniciar tu dispositivo Android, introduce el PIN</string>
+  <string name="enter_pin">Para iniciar tu dispositivo Android, introduzca el PIN</string>
   <string name="equalizer">Ecualizador</string>
   <string name="erase_application">Borrar aplicaciones</string>
   <string name="erase_application_description">Borrar las aplicaciones descargadas</string>
@@ -1921,11 +1921,11 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lockpassword_confirm_pins_dont_match">Los PINs no coinciden</string>
   <string name="lockpassword_confirm_your_lock_password_header">Confirma tu contraseña</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirma tu patrón</string>
-  <string name="lockpassword_confirm_your_password_generic">Introduce tu contraseña para continuar.</string>
+  <string name="lockpassword_confirm_your_password_generic">Introduzca su contraseña para continuar.</string>
   <string name="lockpassword_confirm_your_password_header">Confirma tu contraseña</string>
   <string name="lockpassword_confirm_your_pattern_generic">Utiliza tu patrón para continuar.</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirma tu patrón</string>
-  <string name="lockpassword_confirm_your_pin_generic">Introduce tu PIN para continuar.</string>
+  <string name="lockpassword_confirm_your_pin_generic">Introduzca su PIN para continuar.</string>
   <string name="lockpassword_confirm_your_pin_header">Confirma tu PIN</string>
   <string name="lockpassword_confirm_your_private_password_header">Confirma tu contraseña</string>
   <string name="lockpassword_confirm_your_private_pattern_header">Confirma tu patrón</string>
@@ -2273,7 +2273,7 @@ Seleccione su sistema operativo:"</string>
   <string name="networks">Selección de operador</string>
   <string name="networks_title">Redes móviles</string>
   <string name="never">Nunca</string>
-  <string name="new_backup_pw_prompt">Introduce una contraseña nueva para las copias de seguridad completas.</string>
+  <string name="new_backup_pw_prompt">Introduzca una contraseña nueva para las copias de seguridad completas.</string>
   <string name="next_button_label">Siguiente</string>
   <string name="next_label">Siguiente</string>
   <string name="nfc_category_title">NFC</string>
@@ -2842,7 +2842,7 @@ Seleccione su sistema operativo:"</string>
   <string name="proxy_error_dismiss">Aceptar</string>
   <string name="proxy_error_empty_host_set_port">El campo de puerto debe estar vacío si el campo de host también lo está.</string>
   <string name="proxy_error_empty_port">Debes completar el campo de puerto.</string>
-  <string name="proxy_error_invalid_exclusion_list">La lista de exclusión que has escrito no es correcta. Introduce una lista separada por comas de dominios excluidos.</string>
+  <string name="proxy_error_invalid_exclusion_list">La lista de exclusión que has escrito no es correcta. Introduzca una lista separada por comas de dominios excluidos.</string>
   <string name="proxy_error_invalid_host">El nombre de host introducido no es válido.</string>
   <string name="proxy_error_invalid_port">El puerto que has introducido no es válido.</string>
   <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
@@ -2986,7 +2986,7 @@ Seleccione su sistema operativo:"</string>
   <string name="resource_ringtone_volume_mute">Su timbre está silenciado</string>
   <string name="restore_default_apn">Restaurando la configuración de APN predeterminada</string>
   <string name="restore_default_apn_completed">Se ha restablecido la configuración predeterminada de APN.</string>
-  <string name="restr_pin_enter_admin_pin">Introduce el PIN del administrador</string>
+  <string name="restr_pin_enter_admin_pin">Introduzca el PIN del administrador</string>
   <string name="restriction_bluetooth_config_summary">Permitir modificar los ajustes y las vinculaciones de Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Permitir a las aplicaciones utilizar tu ubicación</string>
@@ -3540,7 +3540,7 @@ Es posible que el PIN no sea correcto."</string>
   <string name="sim_missing">missing or error</string>
   <string name="sim_multi_sims_summary">Selecciona la SIM que prefieras usar para datos móviles.</string>
   <string name="sim_multi_sims_title">Varias SIM encontradas</string>
-  <string name="sim_name_hint">Introduce el nombre de SIM</string>
+  <string name="sim_name_hint">Introduzca el nombre de SIM</string>
   <string name="sim_no_inserted_msg">No se ha insertado ninguna tarjeta SIM</string>
   <string name="sim_notification_summary">Toca para configurar</string>
   <string name="sim_notification_title">Tarjetas SIM cambiadas.</string>
@@ -4546,10 +4546,10 @@ de Wi‑Fi"</string>
   <string name="wifi_ip_address">Dirección IP</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">Ajustes de IP</string>
-  <string name="wifi_ip_settings_invalid_dns">Introduce una dirección DNS válida.</string>
-  <string name="wifi_ip_settings_invalid_gateway">Introduce una dirección de puerta de enlace válida.</string>
-  <string name="wifi_ip_settings_invalid_ip_address">Introduce una dirección IP válida.</string>
-  <string name="wifi_ip_settings_invalid_network_prefix_length">Introduce un prefijo de red que tenga entre 0 y 32 caracteres.</string>
+  <string name="wifi_ip_settings_invalid_dns">Introduzca una dirección DNS válida.</string>
+  <string name="wifi_ip_settings_invalid_gateway">Introduzca una dirección de puerta de enlace válida.</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Introduzca una dirección IP válida.</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Introduzca un prefijo de red que tenga entre 0 y 32 caracteres.</string>
   <string name="wifi_ip_settings_menu_cancel">Cancelar</string>
   <string name="wifi_ip_settings_menu_save">Guardar</string>
   <string name="wifi_limit_optimizations_summary">Limitar batería usada por Wi‑Fi</string>
@@ -4730,7 +4730,7 @@ de Wi‑Fi"</string>
   <string name="wifi_skipped_message">ADVERTENCIA: Si omites la conexión Wi‑Fi, el teléfono solo utilizará datos móviles para realizar descargas y actualizaciones iniciales. Conéctate al Wi‑Fi para evitar posibles cargos de datos.</string>
   <string name="wifi_speed">Velocidad de enlace</string>
   <string name="wifi_ssid">SSID</string>
-  <string name="wifi_ssid_hint">Introduce el SSID</string>
+  <string name="wifi_ssid_hint">Introduzca el SSID</string>
   <string name="wifi_starting">Activando Wi-Fi…</string>
   <string name="wifi_state_disabled">Disabled</string>
   <string name="wifi_state_disabling">Disabling</string>
@@ -4795,7 +4795,7 @@ de Wi‑Fi"</string>
   <string name="wifi_wps_failed_tkip">No se admite el ajuste de seguridad del router inalámbrico (protocolo TKIP).</string>
   <string name="wifi_wps_failed_wep">No se admite el ajuste de seguridad del router inalámbrico (protocolo WEP).</string>
   <string name="wifi_wps_in_progress">El proceso de configuración de WPS está en curso y puede tardar hasta dos minutos.</string>
-  <string name="wifi_wps_nfc_enter_password">Introduce la contraseña de tu red</string>
+  <string name="wifi_wps_nfc_enter_password">Introduzca la contraseña de tu red</string>
   <string name="wifi_wps_onstart_pbc">Pulse el botón configuración Wi-Fi en su router. Es posible que se llame \"WPS\" o que incluya este símbolo:</string>
   <string name="wifi_wps_onstart_pin">Introduzca el PIN %1$s en su router Wi-Fi. El asistente de instalación podría tardar hasta dos minutos en completarse.</string>
   <string name="wifi_wps_overlap_error">Se detectó otra sesión Wi-Fi protegida. Vuelva a intentarlo en unos minutos.</string>
@@ -4895,7 +4895,7 @@ de Wi‑Fi"</string>
   <string name="zen_mode_repeat_callers">Llamadas repetidas</string>
   <string name="zen_mode_repeat_callers_summary">Permitir llamadas que procedan de la misma persona si no han pasado más de %d minutos desde su primera llamada</string>
   <string name="zen_mode_rule_name">Nombre de la regla</string>
-  <string name="zen_mode_rule_name_hint">Introduce un nombre</string>
+  <string name="zen_mode_rule_name_hint">Introduzca un nombre</string>
   <string name="zen_mode_rule_name_warning">Nombre de regla ya en uso</string>
   <string name="zen_mode_rule_not_found_text">No se ha encontrado esa regla.</string>
   <string name="zen_mode_rule_summary_combination">%1$s/%2$s</string>
