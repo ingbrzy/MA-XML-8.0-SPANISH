@@ -185,11 +185,7 @@
   <string name="composer_has_no_exportable_contact">No hay contactos exportables. Si usted tiene contactos en su teléfono, tenga en cuenta que algunos proveedores de datos no permiten exportar los contactos desde el teléfono.</string>
   <string name="composer_not_initialized">El generador de vCard no inició correctamente.</string>
   <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
-  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">¿Borrar registro de llamadas?</string>
   <string name="confirm_delete_selected_all_call_logs">¿Borrar registro de llamadas?</string>
   <string name="confirm_delete_sim_entry_miui_title">Borrar</string>
@@ -415,7 +411,6 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="email_work">Enviar email al trabajo</string>
   <string name="emergency_number_label">Número de emergencia</string>
   <string name="emptyGroup">Grupo sin contactos</string>
-  <string name="empty_divider_title"/>
   <string name="enter_contact_name">Nombre del contacto</string>
   <string name="eventLabelsGroup">Cumpleaños</string>
   <string name="eventTypeCustom">Personalizado</string>
@@ -489,10 +484,6 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="group_sms_progress_msg">Agrupando…</string>
   <string name="groupsLabel">Grupos</string>
   <string name="groups_list_empty">No hay grupos</string>
-  <string name="help_url_people_add"/>
-  <string name="help_url_people_edit"/>
-  <string name="help_url_people_main"/>
-  <string name="hint_distance"/>
   <string name="hint_findContacts">Encontrar contactos</string>
   <string name="hint_more_contact">Combinar contactos duplicados</string>
   <string name="hybrid_check_network">Configuración de red</string>
@@ -738,17 +729,16 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="nickname_picker_name_column">Nombre de contacto</string>
   <string name="nickname_picker_nickname_column">Título</string>
   <string name="noAccounts">Para crear grupos necesita una cuenta.</string>
-  <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar datos de contactos utilizando su Cuenta Mi</string>
   <string name="noContacts">No hay contactos</string>
   <string name="noContactsHelpText">"No tiene ningún contacto que mostrar.
 
 Para añadir contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
- 
+
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;Cuentas\" para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;Nuevo contacto\" para crear un contacto desde cero
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;Importar/Exportar\" para importar contactos desde su tarjeta SIM o desde la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
@@ -756,13 +746,13 @@ Para añadir contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Men�
   <string name="noContactsHelpTextWithSync">"No tiene ningún contacto para mostrar. (Si acaba de  agregar alguna cuenta, se sincronizará en pocos minutos).
 
 Para agregar contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
- 
+
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\" Opciones de visualización para cambiar qué contactos se van a mostrar
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nuevo contacto para crear un contacto desde cero
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importar/Exportar para importar contactos desde la tarjeta SIM o desde la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
@@ -770,24 +760,24 @@ Para agregar contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Men�
   <string name="noContactsNoSimHelpText">"No tiene contactos para mostrar.
 
 Para agregar contactos, vaya a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", Luego vaya a:
- 
+
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nuevo contacto para crear un nuevo contacto desde cero
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importar/Exportar para importar tus contactos desde la tarjeta SIM o la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"No tienes ningún contacto para mostrar.(Si acaba de  agregar alguna cuenta, ésta se sincronizará en pocos minutos).
 
 Para agregar contactos, ve a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", Luego ve a:
- 
+
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\" Opciones de visualización para cambiar que contactos se van a mostrar
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nuevo contacto para crear un contacto desde cero
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importar/Exportar para importar contactos desde la tarjeta SIM o desde la tarjeta de memoria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
@@ -797,9 +787,9 @@ Para agregar contactos, ve a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&l
 Para agregar un contacto a la lista de favoritos:
 
 \"&lt;li&gt;Vaya a&lt;b&gt;Contactos&lt;/b&gt;\" tab
-\"&lt;/li&gt;\" 
+\"&lt;/li&gt;\"
 \"&lt;li&gt;\"Escoja el contacto que quiere marcar como favorito
-\"&lt;/li&gt;\" 
+\"&lt;/li&gt;\"
 \"&lt;li&gt;\"Seleccione la estrella que está cerca del nombre del contacto
 \"&lt;/li&gt;\"
 "</string>
@@ -1015,7 +1005,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="remove_blacklist_dialog_message">¿Desbloquear este número?</string>
   <string name="remove_blacklist_dialog_title">Desbloquear</string>
   <string name="remove_duplicate">"MIUI te ayudará a encontrar y combinar contactos duplicados.
-  
+
   Para empezar, toque el icono de fusión en la parte inferior de la pantalla."</string>
   <string name="restore_nickname">Restaurar</string>
   <string name="ret_sign">"
@@ -1029,7 +1019,6 @@ Para agregar un contacto a la lista de favoritos:
   <string name="scan_duplicate_message">%1$d contactos con información idéntica</string>
   <string name="scan_merge">Buscando contactos duplicados…</string>
   <string name="scan_qrcode_card_hint1">Escanear el código QR de arriba</string>
-  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">El almacenamiento no pudo ser escaneado</string>
   <string name="searchHint">Buscar contactos</string>
@@ -1261,7 +1250,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowpage_navigation_search_history">Historial</string>
   <string name="yellowpage_navigation_search_offline_hint">Sin conexión</string>
   <string name="yellowpage_navigation_search_result_average_price">Promedio %d RMB</string>
-  <string name="yellowpage_navigation_search_result_network_error">"No se puede conectar a la 
+  <string name="yellowpage_navigation_search_result_network_error">"No se puede conectar a la
         red."</string>
   <string name="yellowpage_navigation_search_result_no_more">No hay más resultados</string>
   <string name="yellowpage_navigation_search_result_service_error">Servicio no disponible</string>

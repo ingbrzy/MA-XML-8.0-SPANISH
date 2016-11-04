@@ -51,7 +51,6 @@
   <string name="fm_service_started">Radio FM</string>
   <string name="fm_tune_timeout_msg">No se ha recibido respuesta al sintonizar FM Estación. Si el problema persiste, por favor apague FM y volver a encenderlo.</string>
   <string name="fmtx_autoselect_name">Selección automática eliminará todos los preajustes, ¿Continuar?</string>
-  <string name="frequency_string"/>
   <string name="headset_not_plug_in">Por favor, conectar los auriculares</string>
   <string name="headset_pluged_in">Auriculares conectados</string>
   <string name="menu_add_list">Añadir lista</string>
@@ -120,8 +119,6 @@
   <string name="presetlist_select_name">Select %1$s</string>
   <string name="presets_back">Anterior</string>
   <string name="presets_back_summary">Volver a la vista anterior</string>
-  <string name="prog_service_string"/>
-  <string name="pty_string"/>
   <string name="radio_text_string">Este es el texto largo Radio que necesita desplazarse</string>
   <string name="record_dur">Duración Grabación</string>
   <string name="record_path">Ruta de grabación</string>
@@ -162,7 +159,6 @@
   <string name="station_edit">Editar</string>
   <string name="station_empty_text">Lista de canales vacía, busque canales.</string>
   <string name="station_exists">¡Esta frecuencia ya existe!</string>
-  <string name="station_id_string"/>
   <string name="station_list_delete_station">Eliminar Emisora %s</string>
   <string name="station_list_delete_station_prompt">Desea eliminiar Emisora %s ？</string>
   <string name="station_move">Mover</string>
@@ -178,5 +174,4 @@
   <string name="toast_channel_searched">Searched out available channels:</string>
   <string name="transmit_msg_string">Transmitiendo en:</string>
   <string name="tx_app_name">Radio FM</string>
-  <string name="type_rd"/>
 </resources>

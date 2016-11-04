@@ -124,8 +124,6 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
 El administrador podrá controlar y administrar los ajustes, el acceso, las aplicaciones y los datos asociados a este usuario, como la actividad de red y la información de ubicación de tus dispositivos."</string>
   <string name="additional_permissions">Permisos adicionales</string>
   <string name="additional_permissions_more">%1$d más</string>
-  <string name="additional_system_update"/>
-  <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualizaciones adicionales de sistema</string>
   <string name="adjust_3d_depth_title">Ajuste profundidad 3D de juegos</string>
   <string name="advanced_apps">Opciones avanzadas</string>
@@ -231,7 +229,6 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="app_memory_use">Uso de memoria</string>
   <string name="app_name_label">Aplicación</string>
   <string name="app_not_found_dlg_text">No se ha encontrado la aplicación en la lista de aplicaciones instaladas.</string>
-  <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Esta aplicación no se admite para perfiles restringidos.</string>
   <string name="app_notification_block_summary">No mostrar nunca notificaciones de esta aplicación</string>
   <string name="app_notification_block_title">Bloquear todo</string>
@@ -344,7 +341,6 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="backup_data_summary">Crear backup de datos, contraseñas Wi-Fi y otros ajustes a los servidores de Google</string>
   <string name="backup_data_title">Copiar mis datos</string>
   <string name="backup_erase_dialog_message">¿Desea detener el backup vía Wi-Fi de sus datos, contraseñas, otros ajustes, datos de aplicaciones y eliminar también las copias en los servidores de Google?</string>
-  <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">El servicio de copia de seguridad está inactivo.</string>
   <string name="backup_lock_settings_picker_title">Bloqueo alternativo</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
@@ -539,7 +535,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_enter_pin_msg">Dispositivo</string>
   <string name="bluetooth_enter_pin_msg_hs">Device requires High Security 16 character passkey</string>
   <string name="bluetooth_enter_pin_other_device">Es posible que tengas que introducir este PIN en el otro dispositivo.</string>
-  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Conectado al audio del teléfono</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizar para audio del teléfono</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado a dispositivo de entrada</string>
@@ -641,7 +636,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_tethering_overflow_error">No se puede anclar a más de %1$d dispositivos.</string>
   <string name="bluetooth_turning_off">Desactivando Bluetooth…</string>
   <string name="bluetooth_turning_on">Activando Bluetooth…</string>
-  <string name="bluetooth_unknown"/>
   <string name="bluetooth_unlock_add_device">Añadir dispositivo</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">El dispositivo emparejado antiguo será reemplazado por el nuevo.</string>
   <string name="bluetooth_unlock_change_matched_device">Escoger otro dispositivo</string>
@@ -900,7 +894,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="credentials_reset_warning_plural">Contraseña incorrecta. Tienes %1$d oportunidades más antes de que se borre el almacenamiento de credenciales.</string>
   <string name="credentials_settings_not_available">Las credenciales no están disponibles para este usuario</string>
   <string name="credentials_title">Almacenamiento de credenciales</string>
-  <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Escribe la contraseña del almacenamiento de credenciales.</string>
   <string name="credentials_wrong_password">Contraseña incorrecta</string>
   <string name="crypt_keeper_button_text">Cifrar teléfono</string>
@@ -1213,7 +1206,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="dlg_confirm_usb_unmount_title">¿Expulsar almacenamiento USB?</string>
   <string name="dlg_error_uicc_unmount_text">No se pudo expulsar el almacenamiento UICC. Inténtelo de nuevo más tarde.</string>
   <string name="dlg_error_unmount_text">No se ha podido desactivar la tarjeta SD. Inténtalo de nuevo más tarde.</string>
-  <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">No se pudo expulsar el almacenamiento USB. Inténtelo de nuevo más tarde.</string>
   <string name="dlg_ok">Aceptar</string>
   <string name="dlg_switch">Cambiar</string>
@@ -1427,7 +1419,6 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="error_mcc_not3">El campo MCC debe contener 3 dígitos.</string>
   <string name="error_mnc_not23">El campo MNC debe contener 2 o 3 dígitos.</string>
   <string name="error_name_empty">El campo Nombre no puede estar vacío.</string>
-  <string name="error_title"/>
   <string name="every_day">Todos los días</string>
   <string name="experience_optimization_category">Programa de experiencia de usuario</string>
   <string name="experimental_preference">(Experimental)</string>
@@ -1625,23 +1616,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="heads_up_enabled_title">Aparecer con prioridad alta</string>
   <string name="heavy_weight_stop_description">No se puede detener la aplicación de forma segura. Si lo haces, puedes perder parte de tu trabajo.</string>
   <string name="help_label">Ayuda y sugerencias</string>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_dreams"/>
-  <string name="help_url_location_access"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_nfc_payment"/>
-  <string name="help_url_remote_display"/>
-  <string name="help_url_security"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_users"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">SSID ocultos:</string>
   <string name="hide">Ocultar</string>
   <string name="hide_screen_button">Ocultar botónes en pantalla</string>
@@ -2195,7 +2169,6 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="modify_privacy_password">Cambie la contraseña</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">No se ha podido mover la aplicación (%1$s).</string>
-  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Mover al teléfono</string>
   <string name="move_app_to_sdcard">Mover a la tarjeta SD</string>
   <string name="moving">Moviendo</string>
@@ -2387,7 +2360,6 @@ Seleccione su sistema operativo:"</string>
   <string name="now">Reiniciar ahora</string>
   <string name="nsd_quick_toggle_summary">Permitir que las aplicaciones de otros dispositivos puedan ver las aplicaciones de este dispositivo</string>
   <string name="nsd_quick_toggle_title">Detección de aplicaciones</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">Ajustes/información específica de OEM</string>
   <string name="oem_unlock_enable">Desbloqueo de OEM</string>
   <string name="oem_unlock_enable_summary">Permitir desbloquear el bootloader</string>
@@ -2682,7 +2654,6 @@ Seleccione su sistema operativo:"</string>
   <string name="phone_call_noise_suppression">Supresión del ruido ambiente durante las llamadas</string>
   <string name="phone_info_label">Información sobre el teléfono</string>
   <string name="phone_language">Idioma</string>
-  <string name="phone_language_summary"/>
   <string name="pico_installed">Instalada</string>
   <string name="pico_languages_and_voices">Idiomas y voces</string>
   <string name="pico_not_installed">Sin instalar</string>
@@ -2819,7 +2790,6 @@ Seleccione su sistema operativo:"</string>
   <string name="privacy_password_settings">Usar contraseña de privacidad</string>
   <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos y notas.</string>
   <string name="privacy_password_title">Contraseña de privacidad</string>
-  <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Mostrar patrón</string>
   <string name="privacy_protect_title">Protección de privacidad</string>
   <string name="privacy_relative">Privacidad</string>
@@ -2979,7 +2949,6 @@ Seleccione su sistema operativo:"</string>
   <string name="recommend_item_title">Recomendaciones</string>
   <string name="recompute_size">Recalculando tamaño…</string>
   <string name="record_anr_in_background">Grabar casos de ANR en segundo plano</string>
-  <string name="regulatory_info_text"/>
   <string name="regulatory_information">Información regulatoria</string>
   <string name="remove_account_failed">El administrador no permite este cambio</string>
   <string name="remove_account_label">Quitar cuenta</string>
@@ -3035,7 +3004,6 @@ Seleccione su sistema operativo:"</string>
   <string name="ring_volume_title">Volumen del timbre</string>
   <string name="ringtone_mute">Ninguno</string>
   <string name="ringtone_slot_setting_title">Configuración de SIM individual</string>
-  <string name="ringtone_summary"/>
   <string name="ringtone_title">Tono del teléfono</string>
   <string name="ringtone_uniform_setting_title">Configuración de SIM dual</string>
   <string name="roaming">Itinerancia de datos</string>
@@ -3168,7 +3136,6 @@ Para ello:
   <string name="sd_insert_summary">Insertar una tarjeta SD para el montaje</string>
   <string name="sd_memory">Tarjeta SD</string>
   <string name="sd_mount">Activar tarjeta SD</string>
-  <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Los cambios se aplicarán cuando se vuelva a conectar el cable USB.</string>
   <string name="sdcard_format">Borrar tarjeta SD</string>
   <string name="sdcard_setting">Tarjeta SD</string>
@@ -3935,7 +3902,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="system_package">Las actualizaciones del sistema no se pueden instalar en ubicaciones externas.</string>
   <string name="system_storage">Almacenamiento de sistema</string>
   <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
-  <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Actualiz. del sistema</string>
   <string name="tap_to_wake">Tocar para activar</string>
   <string name="tap_to_wake_summary">Toca dos veces cualquier punto de la pantalla para activar el dispositivo</string>
@@ -3992,7 +3958,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Encender trackball</string>
   <string name="transition_animation_scale_title">Escala de transición-animación</string>
-  <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Colaboradores</string>
   <string name="trust_agent_disabled_device_admin">Inhabilitado por el administrador</string>
   <string name="trusted_credentials">Certificados de confianza</string>
@@ -4097,7 +4062,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Sin seguridad</string>
   <string name="unlock_set_unlock_none_title">Ninguno</string>
-  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Sin seguridad</string>
   <string name="unlock_set_unlock_password_summary">Introduzca cuatro o más números para desbloquear el dispositivo</string>
   <string name="unlock_set_unlock_password_title">Contraseña</string>
@@ -4165,7 +4129,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="usb_midi_summary">Permite a las aplicaciones compatibles con MIDI utilizar software de MIDI en tu ordenador por USB.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Montar almacenamiento USB</string>
-  <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">Obtener disco de controladores para Windows y OSX</string>
   <string name="usb_msd_driver_installer_title">Disco de instalación de controladores (MSD)</string>
   <string name="usb_msd_summary">Transferir archivos usando OSX o Windows</string>
@@ -4246,7 +4209,6 @@ Cualquier usuario puede actualizar las aplicaciones del resto de usuarios."</str
   <string name="user_dict_settings_empty_text">"Usted no tiene ningún diccionario
 Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="user_dict_settings_more_languages">Más idiomas…</string>
-  <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Diccionario personal</string>
   <string name="user_enable_calling">Activar llamadas</string>
   <string name="user_enable_calling_and_sms_confirm_message">El historial de SMS y de llamadas se compartirán con este usuario.</string>
@@ -4796,7 +4758,6 @@ de Wi‑Fi"</string>
   <string name="wifi_tether_settings_title">Punto de acceso personal</string>
   <string name="wifi_tether_starting">Activando zona Wi-Fi…</string>
   <string name="wifi_tether_stopping">Desactivando zona Wi-Fi…</string>
-  <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">Homologación</string>
   <string name="wifi_unchanged">(no modificada)</string>

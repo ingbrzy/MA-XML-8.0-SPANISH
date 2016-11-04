@@ -49,7 +49,6 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Expirada</string>
   <string name="alert_title">Notificaciones de calendario</string>
-  <string name="anniversary_metric"/>
   <string name="anniversary_term">aniversario</string>
   <string name="app_label">Calendario</string>
   <string name="attendees_label">Invitados</string>
@@ -62,19 +61,14 @@
   <string name="birthday_event_description_days_ago">Hace %1$s días</string>
   <string name="birthday_event_description_days_later">Dentro de %1$s días</string>
   <string name="birthday_event_description_default">%1$s de %2$s %3$s %4$s</string>
-  <string name="birthday_event_description_detail_leap"/>
-  <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_description_special">%1$s %3$s %4$s %5$s de %2$s</string>
   <string name="birthday_event_description_today">Hoy es</string>
   <string name="birthday_event_description_tomorrow">Mañana es</string>
   <string name="birthday_event_description_yesterday">Ayer fue</string>
-  <string name="birthday_metric"/>
-  <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_days_later">%1$s días para el %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">No olvides felicitarle</string>
   <string name="birthday_notification_title_days_later">Pronto será el %2$s de %1$s</string>
   <string name="birthday_notification_title_today">%3$s de %1$s</string>
-  <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">Cumpleaños</string>
   <string name="book_card_free">Gratis</string>
   <string name="book_card_rating_text">|   %1$s opiniones</string>
@@ -217,7 +211,6 @@
   <string name="horoscope_select_activity_label">Seleccione la constelación</string>
   <string name="huangli_bad_type">Evitar</string>
   <string name="huangli_good_type">Yo</string>
-  <string name="huangli_label"/>
   <string name="image_content">Imagen</string>
   <string name="insert_event_dialog_btn_negative">No</string>
   <string name="insert_event_dialog_btn_positive">Sí</string>
@@ -240,8 +233,6 @@
   <string name="menu_preferences">Ajustes</string>
   <string name="menu_reminder_preferences">Ajustes de los recordatorios</string>
   <string name="menu_select_visible_calendars">Calendarios a mostrar</string>
-  <string name="miui_chinese_week_range_double"/>
-  <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Nuevo</string>
   <string name="modify_all">Cambiar todos los eventos de la serie</string>
   <string name="modify_all_following">Cambiar esto y todos los eventos futuros</string>
@@ -348,7 +339,6 @@
   <string name="repeat_label_frequency">Frecuencia</string>
   <string name="repeat_label_interval">Cada</string>
   <string name="repeat_label_week">Semana</string>
-  <string name="repeat_lunar_yearly"/>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeats_label">Repetir</string>
