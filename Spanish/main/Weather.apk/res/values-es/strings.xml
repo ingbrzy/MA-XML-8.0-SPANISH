@@ -15,6 +15,7 @@
   <string name="activity_find_city_dialog_title">Servicio de localización</string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Actualizado %1$s</string>
+  <string name="activity_main_update_time_expire">Datos caducados</string>
   <string name="activity_main_update_time_right_now">ahora</string>
   <string name="activity_weathermain_locationg">Ubicando</string>
   <string name="activity_weathermain_locationg_error">No se pudo ubicar</string>
@@ -58,11 +59,10 @@
   <string name="button_not_allow">Cancelar</string>
   <string name="button_sure_abandon">¿Descartar los cambios?</string>
   <string name="change_alert">Compruebe su conexión de red y vuelve a intentarlo</string>
-  <string name="close">Cerrar</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Un momento…</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
-  <string name="daily_forcast_drawer_on_top">%1$s días de pronóstico</string>
+  <string name="daily_forcast_drawer_on_top">Pronóstico para %1$s días</string>
   <string name="daily_forcast_no_stable_direction">Sin viento</string>
   <string name="daily_forcast_no_wind">Sin viento</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
@@ -78,10 +78,9 @@
   <string name="first_start_network_title">Alerta de conexión</string>
   <string name="global_aqi">ICA: %1$s %2$s</string>
   <string name="gps_hint">Ubicación actual</string>
-  <string name="hide_topic">Ocultar</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Ahora</string>
-  <string name="hourly_forecast_title">Pronóstico por hora</string>
+  <string name="hourly_forecast_title">Pronóstico por horas</string>
   <string name="index_item_install_now">Instalar ahora</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Sensación %1$s°C</string>

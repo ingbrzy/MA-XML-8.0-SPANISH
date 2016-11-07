@@ -91,7 +91,7 @@
   <string name="clean_content_three">3 elementos</string>
   <string name="clean_content_two">2 elementos</string>
   <string name="clean_content_zero">Nada</string>
-  <string name="clear_bigfiles">Eliminar archivos pesados, fotos duplicadas, y otros elementos sin uso</string>
+  <string name="clear_bigfiles">Eliminar archivos pesados, fotos duplicadas, y otros elementos obsoletos</string>
   <string name="clear_immediately">Limpiar ahora</string>
   <string name="clear_safe_notify">Barra de notificaciones de seguridad</string>
   <string name="close">Cerrar</string>
@@ -160,12 +160,13 @@
   <string name="empty_content_no_ignore_image">Vaciar</string>
   <string name="empty_content_no_privacy">Vacío</string>
   <string name="empty_content_no_similar_image">Sin fotos</string>
-  <string name="empty_title_ad">No se encontraron archivos de publicidad</string>
+  <string name="empty_title_ad">No se encontraron archivos obsoletos</string>
   <string name="empty_title_apk">No se encontraron paquetes instalados</string>
   <string name="empty_title_garbage_cache">Nada que limpiar</string>
   <string name="empty_title_garbage_white_list">Presione un elemento para añadirlo.</string>
   <string name="empty_title_installed_apps">Vaciar</string>
   <string name="empty_title_large_files">Vaciar</string>
+  <string name="empty_title_photos">No se encontraron fotos</string>
   <string name="empty_title_residual">No se encontraron residuos</string>
   <string name="empty_title_video">No hay vídeos para eliminar</string>
   <string name="flow_rank_title">Uso de datos</string>
@@ -180,7 +181,7 @@
   <string name="harass_detail">Bloqueadas %1$d SMS y %2$d llamadas</string>
   <string name="header_optimizer">Al usar esta función, acepta los %s.</string>
   <string name="hint_clean_select_items">Eliminación de duplicados…</string>
-  <string name="hints_ad_header_left">Archivos de publicidad</string>
+  <string name="hints_ad_header_left">Archivos obsoletos</string>
   <string name="hints_apk_header_left">Paquetes</string>
   <string name="hints_apk_version">Versión %s</string>
   <string name="hints_app_uninstall_residual">¿Borrar archivos de desinstalación residuales?</string>
@@ -419,7 +420,7 @@
   <string name="traffic_top">Aplicaciones que consumen más datos</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Análisis de virus</string>
-  <string name="white_list_ad_header">Archivos de publicidad: %d</string>
+  <string name="white_list_ad_header">Archivos obsoletos: %d</string>
   <string name="white_list_apk_header">Paquetes de instalación: %d</string>
   <string name="white_list_cache_header">Archivos en caché: %d</string>
   <string name="white_list_large_file_header">Archivos y vídeos grandes: %d</string>
