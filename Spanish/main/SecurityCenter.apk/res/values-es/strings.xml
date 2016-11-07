@@ -605,6 +605,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="keywords_networkassistant_4">Conexión;Internet;Prueba</string>
   <string name="keywords_permcenter">Autoinicio;Permissions;ROOT;Localización;Acceso a contactos</string>
   <string name="keywords_powercenter">Ahorro de batería;Calentamiento;Encender;Apagar;Bateria;Drenado</string>
+  <string name="keywords_powercenter_powerrank">Uso de la batería</string>
   <string name="keywords_securitycenter">Seguiridad;Comprobar;Escanear</string>
   <string name="keywords_securitycenter_settings">ROOT;usodelabatería;Permisos;Blocklist;Usodedatos;Calibrarplandedatos;reddeprueba;bloqueodeaplicaciones;ahorrarbatería;deahorrodebatería;Calefacción;Encienda;Desactivarlabatería;drenante;autoarranque;RAÍZ;contactosdeacceso;;LugarBloque;listadebloquesinteligente;;FraudeVentas;teleoperador;Agentes;datos;tráfico;Calibrar;Conexión;Internet;prueba;contraseña;deprivacidad;acceso;lista;Protección</string>
   <string name="kilobyteShort">KB</string>
@@ -839,6 +840,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s usado %2$s esta semana</string>
   <string name="ok">Aceptar</string>
   <string name="ok_button">Aceptar</string>
+  <string name="old_sdk_deny_warning">"La aplicación no es compatible con los últimos requisitos de permisos para Android. Los permisos denegados pueden afectar el funcionamiento de esta aplicación."</string>
   <string name="open">Abrir</string>
   <string name="open_app">Abrir</string>
   <string name="open_browser">Abrir en el navegador</string>
@@ -903,6 +905,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="path_networkassistant_4">Aplicaciones del sistema/Seguridad/Uso de datos/Test de la red</string>
   <string name="path_permcenter">Aplicaciones del sistema/Seguridad/Permisos</string>
   <string name="path_powercenter">Aplicaciones del sistema/Seguridad/Uso de la batería</string>
+  <string name="path_powercenter_powerrank">Batería y rendimiento/Uso de la batería</string>
   <string name="path_securitycenter">Aplicaciones del sistema/Seguridad</string>
   <string name="path_securitycenter_settings">Aplicaciones del sistema/Seguridad</string>
   <string name="pay_charge">Comprar datos adicionales</string>
@@ -1249,6 +1252,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="resource_networkassistant_4">Prueba de la red</string>
   <string name="resource_permcenter">Permisos</string>
   <string name="resource_powercenter">Uso de la batería</string>
+  <string name="resource_powercenter_powerrank">Batería y rendimiento</string>
   <string name="resource_securitycenter">Seguridad</string>
   <string name="resource_securitycenter_settings">Seguridad</string>
   <string name="result_autoscan_header">Monitoreo de pago</string>
@@ -1701,9 +1705,9 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Mantener encendido</string>
   <string name="usage_type_wifi_running">Wi-Fi en funcionamiento</string>
-  <string name="usb_adb_input_apply_step_1">El ordenador será capaz de cambiar la configuración y conceder permisos sin conocimiento del usuario cuando el dispositivo está conectado a través de USB</string>
-  <string name="usb_adb_input_apply_step_2">Esto puede dar lugar a fugas de información privada, como cuentas o mensajes</string>
-  <string name="usb_adb_input_apply_step_3">Asegúrese de entender los riesgos relacionados antes de permitir. ¿Permitir ahora?</string>
+  <string name="usb_adb_input_apply_step_1">"Esto podría dar lugar a fugas y pérdida de información privada. No se recomienda hacer esto a menos que seas un desarrollador."</string>
+  <string name="usb_adb_input_apply_step_2">Los desarrolladores pueden utilizar un software especial para imitar gestos, cambiar la configuración y conceder permisos a través de USB.</string>
+  <string name="usb_adb_input_apply_step_3">¿Permitir ahora?</string>
   <string name="usb_install_desc">¿Instalar esta aplicación vía USB?</string>
   <string name="usbsharenet_exception_summary">No se puede conectar a internet mediante conexión USB compartida. Compruebe la conexión USB de su dispositivo y reinicie Mi PC Suite.</string>
   <string name="usbsharenet_exception_title">Pobar internet compartida a través de USB</string>
