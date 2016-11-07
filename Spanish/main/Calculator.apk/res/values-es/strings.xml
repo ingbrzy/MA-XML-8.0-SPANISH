@@ -56,6 +56,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilómetros por hora</string>
   <string name="from_unit_short">km/h</string>
+  <string name="home_title_calculator">Calculadora</string>
   <string name="item_title_aa_payment">Dividir la cuenta</string>
   <string name="item_title_area_conversion">Área</string>
   <string name="item_title_calculator">Calculadora</string>
@@ -141,12 +142,14 @@
   <string name="tan">tan</string>
   <string name="tanDesc">tangente</string>
   <string name="tax_accumulation_fund">Fondo de acumulación</string>
-  <string name="tax_annual_bonus_hint">Introduzca su bono antes de impuestos</string>
+  <string name="tax_annual_bonus_hint">Introduzca su bonificación antes de impuestos</string>
+  <string name="tax_annual_bonus_number">Beneficio</string>
   <string name="tax_birth">Nacimiento</string>
   <string name="tax_cal_method_annual">Cálculo anual de bonificación</string>
   <string name="tax_cal_method_fixed_salary">Cálculo de impuestos sobre la renta</string>
   <string name="tax_cal_method_format">Personal de entrada: %s</string>
   <string name="tax_city">Ciudad</string>
+  <string name="tax_city_error">Introduzca la ciudad correcta</string>
   <string name="tax_city_located">Ubicación</string>
   <string name="tax_city_picker">Ciudad</string>
   <string name="tax_endowment">Fondo de retiro</string>
@@ -161,6 +164,8 @@
   <string name="tax_individual_income_tax_result">Resultado individual de impuestos</string>
   <string name="tax_injury">Lesión</string>
   <string name="tax_insurance_and_fund">Seguros y fondos</string>
+  <string name="tax_last_salary_hint">Introduzca sus ingresos</string>
+  <string name="tax_last_salary_number">Ingresos</string>
   <string name="tax_medical">Médico</string>
   <string name="tax_param_error">Por favor introduzca las tasas de seguros correctas</string>
   <string name="tax_result_real_get">Sea realista</string>
