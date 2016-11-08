@@ -1365,6 +1365,13 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sorted_button">Ordenar por</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_back_title_text_zero">Seguro</string>
+  <string name="sp_background_risk_dialog_summary">, por favor, tenga un control detallado y corrija los riesgos en los pagos</string>
+  <string name="sp_background_risk_dialog_title">Peligroso</string>
+  <string name="sp_background_risk_type_messaging">Se ha sustituido la aplicación de mensajería del sistema</string>
+  <string name="sp_background_risk_type_root">El sistema ha sido rooteado</string>
+  <string name="sp_background_risk_type_sign">Una aplicación no oficial se está ejecutando</string>
+  <string name="sp_background_risk_type_virus">Una aplicación con virus se está ejecutando</string>
+  <string name="sp_background_risk_type_wifi">La conexión Wi-fi es peligrosa</string>
   <string name="sp_button_text_ignore_alert_title">¿Ignorar la comprobación de este elemento?</string>
   <string name="sp_empty_title_sign_exception">Un único clic en la apliación en la página de resultados para añadir a excepciones</string>
   <string name="sp_monitored_apps_count_zero">Todavía no hay aplicaciones de pago que estén protegidos</string>
