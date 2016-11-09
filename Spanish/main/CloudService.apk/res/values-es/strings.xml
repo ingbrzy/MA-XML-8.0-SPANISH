@@ -366,6 +366,10 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_web_discription_02">para almacenar y acceder a sus archivos desde cualquier parte</string>
   <string name="micloud_web_discription_international">Visite www.mi.com/micloud</string>
   <string name="micloud_website">Elementos en Mi Cloud</string>
+  <string name="micloud_wipe_data_confirm_label">Eliminar datos de Mi Cloud</string>
+  <string name="micloud_wipe_data_confirm_title">Eliminar elementos sincronizados con Mi Cloud del teléfono después de cerrar sesión?</string>
+  <string name="micloud_wipe_data_remove">Eliminar</string>
+  <string name="micloud_wipe_data_retain">Dejar</string>
   <string name="microsoft_cloud">Servicio de Microsoft Cloud</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
@@ -501,7 +505,11 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="view_storage_title">Espacio de almacenamiento</string>
   <string name="virtual_sim_desc">Encienda Mi SIM para localizar el dispositivo sin una tarjeta SIM</string>
   <string name="voip_choose_sim">Seleccione el número de teléfono para activar Voz Mi</string>
-  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_button_check_sync">Comprobar si está sincronizado</string>
+  <string name="wipe_data_dialog_msg">"%s no se sincronizaron y seguirán en tu teléfono."</string>
+  <string name="wipe_data_dialog_msg_and_on">, y algunos otros elementos</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Algunos elementos no se han sincronizado"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>
