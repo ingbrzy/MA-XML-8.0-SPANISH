@@ -55,7 +55,6 @@
   <string name="activate_email_notice">Asegúrese de activar su cuenta dentro de las 24 horas</string>
   <string name="activity_not_found_notice">No se pudo localizar la aplicación</string>
   <string name="add_account">Conectar cuenta</string>
-  <string name="alert_title_remove_account">¿Eliminar cuenta?</string>
   <string name="app_name">Cuenta Mi</string>
   <string name="auth_fail_warning">La sesión ha expirado, inténtelo mas tarde</string>
   <string name="authorize_title">Autorización</string>
@@ -89,8 +88,6 @@
   <string name="cta_declaration_message">Para iniciar sesión en su Cuenta de Mi, conéctate a internet, permite la localización del dispositvo y activa Mi Cloud. Para respaldar tus datos personales, ésta aplicación necesita acceder a tus contactos, mensajes MSM y MMS, historial de llamadas, y grabaciones. No recojemos datos personales para uso comercial. Después de conectarte a la cuenta mi, Mi VIP y número de Servicio se conectará a internet.</string>
   <string name="cta_declaration_title">Términos de Usuario</string>
   <string name="current_location_title">Ubicación actual</string>
-  <string name="data_keep_in_device">Mantener en este dispositivo</string>
-  <string name="data_wipe_from_device">Borrar de este dispositivo</string>
   <string name="delete_action">Eliminar</string>
   <string name="delete_app">Borrar aplicación</string>
   <string name="delete_bank_card_message">Su tarjeta bancaria se eliminará por razones de seguridad después de cerrar la sesión</string>
@@ -336,7 +333,6 @@ Para activar su cuenta, siga el
   <string name="phone_unknown">Desconocido</string>
   <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
   <string name="qq">QQ</string>
-  <string name="remove_account_notice">¿Qué quieres hacer con los mensajes, contactos y otros datos que han sido sincronizados desde tu cuenta de Mi?</string>
   <string name="remove_device_success_notice">Si eliminas este dispositivo de tus dispositivos de confianza, necesitarás volver a realizar el proceso de verificación cuando vuelvas a iniciar sesión.</string>
   <string name="remove_trust_btn">Desvincular de los dispositivos de confianza</string>
   <string name="remove_trust_notice">Desvincular de los dispositivos de confianza y cerrar sesión</string>
@@ -371,7 +367,6 @@ Asegúrese de recordar las respuestas a las preguntas."</string>
   <string name="trusted_browsers">Navegadores de confianza</string>
   <string name="trusted_browsers_prompt">El navegador dejará de ser confiable si borras las cookies.</string>
   <string name="turn_off_find_device_failed_title">Error al apagar la función Encontrar dispositivo</string>
-  <string name="turning_off_find_device">Desactivando la función Encontrar dispositivo…</string>
   <string name="unbind_sns_description">Una vez borrada esta cuenta, no podrás usar la información de tu cuenta %s para iniciar sesión en tu Cuenta Mi.</string>
   <string name="unlock_help_notice">"Ayuda:
   Si ha olvidado su contraseña, vaya a id.mi.com para restablecerlo.
@@ -388,7 +383,4 @@ Asegúrese de recordar las respuestas a las preguntas."</string>
   <string name="verified_devices">Dispositivos verificados</string>
   <string name="verify_phone_prompt">Selecciona un número de teléfono para verificar</string>
   <string name="verify_phone_title">Vericar número de teléfono</string>
-  <string name="wipe_data_dialog_msg">%s serán eliminados si continúas.</string>
-  <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Algunos elementos no se han sincronizado</string>
 </resources>
