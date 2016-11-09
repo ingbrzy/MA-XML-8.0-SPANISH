@@ -284,7 +284,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="button_text_cleanup">Limpiar</string>
   <string name="button_text_clear">Limpiar</string>
   <string name="button_text_create_shortcut">Crear un acceso directo en la pantalla de inicio</string>
-  <string name="button_text_delete_from_virus_white_list">eliminar</string>
+  <string name="button_text_delete_from_virus_white_list">Eliminar</string>
   <string name="button_text_deny">Denegar</string>
   <string name="button_text_disconnect_now">Desconectar</string>
   <string name="button_text_fix">Arreglar</string>
@@ -661,7 +661,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="lockscreen_glogin_checking_password">Verificando…</string>
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
-  <string name="long_click_dialog_summary">Mantenga los resultados en la lista para agregarlos a las Excepciones</string>
+  <string name="long_click_dialog_summary">Mantenga los resultados en la lista para agregarlos a las excepciones</string>
   <string name="long_click_dialog_title">Atención</string>
   <string name="main_activity_content_summary_root">Acceso root</string>
   <string name="main_activity_content_summary_update">Actualizacion del sistema</string>
@@ -1372,8 +1372,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sp_background_risk_type_sign">Una aplicación no oficial se está ejecutando</string>
   <string name="sp_background_risk_type_virus">Una aplicación con virus se está ejecutando</string>
   <string name="sp_background_risk_type_wifi">La conexión Wi-fi es peligrosa</string>
-  <string name="sp_button_text_ignore_alert_title">¿Ignorar la comprobación de este elemento?</string>
-  <string name="sp_empty_title_sign_exception">Un único clic en la apliación en la página de resultados para añadir a excepciones</string>
+  <string name="sp_button_text_ignore_alert_title">¿Ignorar este elemento?</string>
+  <string name="sp_empty_title_sign_exception">Mantener la aplicación para añadir a excepciones</string>
   <string name="sp_monitored_apps_count_zero">Todavía no hay aplicaciones de pago que estén protegidos</string>
   <string name="sp_monitored_apps_list_title">Ajustes de supervisión</string>
   <string name="sp_network_privacy_dialog_message">"La aplicación de seguridad no puede comprobar los pagos porque se le ha restringido el acceso a Internet. ¿Permitir a Seguridad conectarse a internet?"</string>
@@ -1381,15 +1381,15 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sp_safe_score_text">El pago es seguro</string>
   <string name="sp_scan_item_monitor">Monitor de pagos</string>
   <string name="sp_scan_item_url_antispam">Protección contra URL maliciosas</string>
-  <string name="sp_settings_check_item_summary_sign_exception">Gestionar las excepciones de firmas</string>
-  <string name="sp_settings_check_item_summary_virus_exception">Gestionar las excepciones de virus</string>
-  <string name="sp_settings_check_item_title_root">ROOT</string>
+  <string name="sp_settings_check_item_summary_sign_exception">Gestionar excepciones de firmas</string>
+  <string name="sp_settings_check_item_summary_virus_exception">Gestionar excepciones de virus</string>
+  <string name="sp_settings_check_item_title_root">Root</string>
   <string name="sp_settings_check_item_title_sign_exception">Excepciones de firmas</string>
   <string name="sp_settings_check_item_title_update">Actualizaciones del sistema</string>
   <string name="sp_settings_check_item_title_virus_exception">Excepciones de virus</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Sin elementos</string>
-  <string name="sp_settings_group_title_check_item">Comprobar los ajustes de los elementos</string>
+  <string name="sp_settings_group_title_check_item">Comprobar múltiples ajustes</string>
   <string name="sp_settings_group_title_ime">Configuración de IME seguras</string>
   <string name="sp_settings_group_title_omit">Elementos omitidos</string>
   <string name="sp_settings_info_input_method">Utilizando el método de entrada del sistema en aplicaciones de pago</string>
@@ -1606,7 +1606,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_virus_yes">No se encontraron virus</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_add_virus_white_list_no_need_repeat">!La excepción de virus ya existe!</string>
-  <string name="toast_add_virus_white_list_success">Añadido a Excepciones. Ver los elementos en ajustes.</string>
+  <string name="toast_add_virus_white_list_success">Añadido a excepciones. Ver los elementos en ajustes.</string>
   <string name="toast_auto_traffic_correct">El uso de datos se ajustara automáticamente</string>
   <string name="toast_cleaner_cloudscan">El limpiador usará definiciones en línea</string>
   <string name="toast_default_app">%1$s establecen como sistema predeterminado %2$s</string>
@@ -1616,7 +1616,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="toast_network_eror">"No se puede conectar a la red"</string>
   <string name="toast_network_switch">Esta aplicacion necesita conectarse a internet</string>
   <string name="toast_reject_sms_read_permission_success">Establecido con éxito</string>
-  <string name="toast_removed_from_virus_white_list">Eliminado de Excepciones. El elemento será escaneado la próxima vez.</string>
+  <string name="toast_removed_from_virus_white_list">Eliminado de excepciones. El elemento será escaneado la próxima vez.</string>
   <string name="toast_root_apply_accept">Permiso root concedido a %s</string>
   <string name="toast_root_apply_reject">Permiso root denegado a %s</string>
   <string name="toast_select_virus_white_need_remove">Seleccionar elementos</string>
