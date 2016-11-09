@@ -127,6 +127,14 @@
         <item quantity="other">¿Desbloquear estos %1$d números?</item>
         <item quantity="one">¿Desbloquear %1$d número?</item>
     </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d personas</item>
+        <item quantity="one">%1$d persona</item>
+    </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">Minutos</item>
+        <item quantity="one">Minuto</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Sonó %d veces</item>
         <item quantity="one">Sonó %d vez</item>
