@@ -2487,6 +2487,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_brightness_settings">Ajustes/Pantalla/Brillo</string>
   <string name="path_button_light_timeout">Ajustes/Ajustes adicionales/Botones/Mantener luces de los botones encendidas</string>
   <string name="path_calendar_sound_title">Ajustes/Sonido y vibración/Sonido del calendario</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Ajustes/Ajustes adicionales/Captura de pantalla</string>
   <string name="path_children_mode_settings">Ajustes/Ajustes adicionales/Modo niño</string>
   <string name="path_choose_timezone">Ajustes/Ajustes adicionales/Fecha y hora/Seleccione zona horaria</string>
   <string name="path_cloud_backup_settings_section_title">Ajustes/Ajustes adicionales/Copia de respaldo y reinicio/Ajustes de respaldos</string>
@@ -2509,6 +2510,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_do_not_disturb_settings">Ajustes/No molestar</string>
   <string name="path_dtmf_tone_enable_title">Ajustes/Sonido y vibración/Tonos de teclado de llamada</string>
   <string name="path_edge_handgrip">Ajustes/Control de bordes</string>
+  <string name="path_enable_adb">Ajustes/Ajustes adicionales/Opciones de desarrollador/Depuración USB</string>
   <string name="path_equalizer">Ajustes/Sonido y vibración/Ajustes de audio/Ecualizador</string>
   <string name="path_fluency_mode">Ajustes/Batería y rendimiento/Animaciones del sistema</string>
   <string name="path_font_settings">Ajustes/Bluetooth/Fuente del sistema</string>
@@ -2548,6 +2550,7 @@ Seleccione su sistema operativo:"</string>
   <string name="path_other_advanced_settings">Ajustes/Ajustes adicionales</string>
   <string name="path_owner_info_settings">Ajustes/Pantalla de bloqueo y contraseña/Información del propietario</string>
   <string name="path_page_layout_settings">Ajustes/Pantalla/Tamaño del texto</string>
+  <string name="path_permission_settings_title">Ajustes/Permisos/Permisos de la aplicación</string>
   <string name="path_pn_settings">Ajustes/Redes móviles/Nombres de los puntos de acceso</string>
   <string name="path_pointer_speed">Ajustes/Ajustes adicionales/Teclado e idioma/Velocidad del puntero</string>
   <string name="path_power_checker">Ajustes/Ajustes adicionales/Funciones Beta/Control de energía</string>
@@ -3185,6 +3188,7 @@ Para ello:
   <string name="search_brightness">Brillo;Brillo de pantalla;Brillo de pantalla</string>
   <string name="search_button_light_timeout">Mantener las luces de los botones encendidas;Luces de botones</string>
   <string name="search_calendar_sound_title">Sonido de calendario;Tono de calendario;Calendario</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Captura de pantalla</string>
   <string name="search_children_mode_settings">Modo niño;Bloquear SMS;Control parental;Parental;Restringir SMS</string>
   <string name="search_children_mode_title">Modo niño;Niño;Control parental</string>
   <string name="search_choose_timezone">Seleccionar zona horaria;Zona horaria;Zonas horarias</string>
@@ -3194,7 +3198,7 @@ Para ello:
   <string name="search_credentials_install">Instalar desde el almacenamiento;Instalación directa;Instalar APK</string>
   <string name="search_date_time">Fecha y hora;Fecha y hora;Fecha;Hora</string>
   <string name="search_description">Ajustes de búsqueda</string>
-  <string name="search_development_settings">Opciones de desarrollador</string>
+  <string name="search_development_settings">Opciones de desarrollador;Ayudar</string>
   <string name="search_device_name">Nombre del dispositivo</string>
   <string name="search_device_status">Estado</string>
   <string name="search_display">Pantalla;Pantalla;Luz ambiental;Bolsillo;Llamada en el bolsillo</string>
@@ -3209,6 +3213,7 @@ Para ello:
   <string name="search_dtmf_tone_enable_title">Activar tonos del teclado de marcado;Tonos del teclado de marcado;Tonos de respuesta al toque;Sonidos de respuesta al toque;Tonos del teclado;Sonidos del teclado</string>
   <string name="search_edge_handgrip">Control de bordes</string>
   <string name="search_empty">Sin resultados</string>
+  <string name="search_enable_adb">Depuración USB</string>
   <string name="search_equalizer">Ecualizador</string>
   <string name="search_fluency_mode">Animaciones del sistema</string>
   <string name="search_font">Fuente del sistema;Fuente;Fuentes;Tamaño de las fuentes;Tamaño de la fuente</string>
@@ -3250,6 +3255,7 @@ Para ello:
   <string name="search_other_advanced_settings">Ajustes adicionales;Más ajustes</string>
   <string name="search_owner_info_settings">Información del propietario</string>
   <string name="search_page_layout_settings">Tamaño de texto;Tamaño de fuente;Pequeño;Grande;Mediano;XXL;Enorme;Tamaños de fuente</string>
+  <string name="search_permission_settings_title">Permisos de la aplicación</string>
   <string name="search_pointer_speed">Velocidad del puntero</string>
   <string name="search_power_checker">Verificador de Energía</string>
   <string name="search_power_hide_mode_title">Administrar el uso de batería de las aplicaciones;Uso de batería de las aplicaciónes;Uso de la batería;Estadísticas de la batería</string>
