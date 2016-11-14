@@ -3,8 +3,6 @@
   <string name="add_account_desc">¿Sincronizar las notas con tu Cuenta Mi?</string>
   <string name="alarm_bar_title">Recordatorio</string>
   <string name="alert_action_edit_anyway">Continuar editando</string>
-  <string name="alert_edit_action_delete">Eliminar</string>
-  <string name="alert_edit_action_update">Cambiar</string>
   <string name="alert_message_delete">¿Eliminar %1$s ?</string>
   <string name="alert_message_delete_note">¿Borrar esta nota?</string>
   <string name="alert_message_edit_anyway">La edición de la nota podría provocar la pérdida de su contenido.</string>
@@ -17,17 +15,12 @@
   <string name="all_terms">%1$s y %2$s</string>
   <string name="app_name">Notas</string>
   <string name="app_widget">Notas</string>
-  <string name="attachment_camera">Tomar una foto</string>
-  <string name="attachment_contact">Contactos</string>
-  <string name="attachment_gallery">Elegir de la galería</string>
-  <string name="button_new_note">Nuevo</string>
   <string name="call_folder_name">Llamadas grabadas</string>
   <string name="default_folder_name">Notas</string>
   <string name="delete_folder_dialog_tile">Eliminar carpetar</string>
   <string name="dlg_btn_set_password">Establecer contraseña</string>
   <string name="dlg_check_reminder">"No mostrar de nuevo"</string>
   <string name="dlg_delete_message">Eliminando…</string>
-  <string name="dlg_desc_confirm_alarm_silent">Las alarmas activas no sonarán cuando se desactive el sonido.</string>
   <string name="dlg_hide_message">Ocultando…</string>
   <string name="dlg_info_creating_message">Creando mensaje…</string>
   <string name="dlg_message_password_reset">"La contraseña de notas ocultas será reemplazada por la contraseña de privacidad que funciona para mensajes, fotos, y carpetas ocultas"</string>
@@ -37,13 +30,10 @@
   <string name="dlg_quick_delete_title">Borrado rápido</string>
   <string name="dlg_restore_message">Restaurando…</string>
   <string name="dlg_stick_message">Fijando…</string>
-  <string name="dlg_title_confirm_alarm_silent">Silenciar alarmas</string>
   <string name="dlg_title_password_reset">Actualizar su contraseña</string>
   <string name="dlg_title_set_password">Establecer contraseña</string>
   <string name="dlg_title_use_privacy_password">Utilizar la contraseña de privacidad</string>
   <string name="dlg_unhide_message">Desocultando…</string>
-  <string name="empty_folder_hint">"No hay carpetas
-Pulse en el signo más para crear una carpeta"</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">¿Sincronizar las notas con tu Cuenta Mi (%1$s)?</string>
   <string name="error_contact_not_exist">El Contacto no existe</string>
@@ -77,7 +67,6 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="menu_send_as_image">Enviar como imagen</string>
   <string name="menu_send_as_text">Enviar como texto</string>
   <string name="menu_send_to_desktop">Enviar a escritorio</string>
-  <string name="menu_send_wechat">Enviar a WeChat</string>
   <string name="menu_send_weibo">Enviar a Weibo</string>
   <string name="menu_source">De %1$s</string>
   <string name="menu_stick">Anclar</string>
@@ -96,14 +85,11 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="note_sort_way">Seleccionar el modo en que desea ordenar sus notas</string>
   <string name="notealert_enter">Abrir nota</string>
   <string name="notealert_ok">Descartar</string>
-  <string name="notelist_menu_new">Añadir nota</string>
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Nota recordatoria</string>
   <string name="permdesc_accessNote">Las aplicaciones maliciosas pueden usar esto para acceder a sus datos personales.</string>
   <string name="permlab_accessNote">Acceder a tus notas</string>
-  <string name="pref_desc_alarm_when_silent">Las alarmas para recordatorios seguirán sonando cuando se silencie el timbre</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"No pedir confirmación al eliminar una nota de manera gestual"</string>
-  <string name="pref_title_alarm_when_silent">No silenciar recordatorios</string>
   <string name="pref_title_common">Ajustes adicionales</string>
   <string name="pref_title_font_size">Tamaño de fuente</string>
   <string name="pref_title_note_style">Estilo</string>
@@ -135,7 +121,6 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="sns_choose_quality_title">Selecciona la calidad de imagen</string>
   <string name="sns_content_default">Compartir foto</string>
   <string name="sns_desc_image_preview">Vista previa del mensaje</string>
-  <string name="sns_desc_preview_wechat">Vista previa del mensaje en WeChat</string>
   <string name="sns_desc_preview_weibo">Vista previa del mensaje en Weibo</string>
   <string name="sns_footer_text">Creado con Notas Mi</string>
   <string name="sns_hint_content">Escribir un mensaje</string>
@@ -158,7 +143,6 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="theme_title_star">Estrellas</string>
   <string name="theme_title_yellow">Amarillo</string>
   <string name="toast_message_add_image_fail">Fallo al insertar imagen</string>
-  <string name="toast_message_add_text_warn">Este tipo de archivo no es compatible</string>
   <string name="toast_notes_delete_success">Borrado exitosamente</string>
   <string name="toast_notes_hidden">Ocultado con éxito</string>
   <string name="toast_notes_hidden_count">Ocultado %1$s exitosamente</string>

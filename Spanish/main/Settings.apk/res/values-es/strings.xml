@@ -794,7 +794,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="children_mode_title">Modo niño</string>
   <string name="choose_assist_title">Elegir aplicación de asistencia</string>
   <string name="choose_profile">Seleccionar perfil</string>
-  <string name="choose_smartcover_type">Elija tipo de letra</string>
+  <string name="choose_smartcover_type">Elija tipo de funda</string>
   <string name="choose_timezone">Elegir zona horaria</string>
   <string name="choose_voice_input_title">Seleccionar entrada de voz</string>
   <string name="cleaner">Limpiador</string>
@@ -1547,6 +1547,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="free_xiaomi_wifi_connect_summary">Pulse para conectar a %1$s.</string>
   <string name="frequently_fragment_delete">Eliminar</string>
   <string name="frequently_fragment_tempty">Los elementos usados frecuentemente se indicarán aquí</string>
+  <string name="full_transparent_smarrcover_title">Tapa frontal transparente</string>
   <string name="fullbackup_data_summary">"Realiza una copia de seguridad automática de los datos del dispositivo (como las contraseñas de redes Wi-Fi y el historial de llamadas) y de los datos de las aplicaciones (como sus ajustes y archivos guardados) de forma remota.
 
 Al activar la copia de seguridad automática, los datos del dispositivo y de las aplicaciones se guardan periódicamente de forma remota. Los datos de las aplicaciones pueden ser cualquier tipo de información que guarden (en función de la configuración de los desarrolladores), incluidos los datos que pueden ser confidenciales (como contactos, mensajes y fotos)."</string>
@@ -1771,7 +1772,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="large_font">Grande</string>
   <string name="last_synced">Última sincronización: %1$s</string>
   <string name="last_time_used_label">Último uso</string>
-  <string name="lattice_smartcover_title">Celosía de fondo</string>
+  <string name="lattice_smartcover_title">Tapa frontal de celosía</string>
   <string name="launch_by_default">Abrir de forma predeterminada</string>
   <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
   <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
@@ -2332,7 +2333,7 @@ Seleccione su sistema operativo:"</string>
   <string name="no_updates_warning2">Tranquilo, nosotros le diremos cuándo habrá una actualización :)</string>
   <string name="noise_suppression">Supresión del ruido ambiente</string>
   <string name="normal_date_format">Regional (%s)</string>
-  <string name="normal_smartcover_title">Frente cubierta opaca</string>
+  <string name="normal_smartcover_title">Tapa frontal opaca</string>
   <string name="not_installed">No instalada para este usuario</string>
   <string name="notes_privacy_password_role_instruction">Sus notas privadas se guardarán aquí.</string>
   <string name="notification_app_settings_button">Ajustes de notificaciones</string>
@@ -3588,7 +3589,9 @@ Es posible que el PIN no sea correcto."</string>
   <string name="slot_number">(Ranura %1$d)</string>
   <string name="slot_status_title">Info del IMEI</string>
   <string name="small_font">Pequeño</string>
-  <string name="smallwindow_smartcover_title">Frente cubierta transparente</string>
+  <string name="smallwindow_smartcover_title">Tapa frontal transparente</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Bloqueo o desbloqueo de pantalla con Smart Cover</string>
+  <string name="smartcover_sensitive_summary">Bloquee o desbloquee el teléfono fácilmente con Smart Cover</string>
   <string name="smartcover_sensitive_title">Modo Smartcover</string>
   <string name="sms_application_title">Aplicación SMS</string>
   <string name="sms_change_default_dialog_text">¿Usar %1$s en lugar de %2$s como aplicación de SMS?</string>
