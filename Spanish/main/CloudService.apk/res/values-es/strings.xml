@@ -197,8 +197,6 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_syncing">Sincronizando</string>
   <string name="micloud_detail_upload_syncing">Subiendo %s</string>
   <string name="micloud_detail_wlan">%d esperando a sincronizar</string>
-  <string name="micloud_detail_wlan_contact">Fotos de contactos esperando a sincronizar: %d</string>
-  <string name="micloud_detail_wlan_mms">%d MMS esperando a sincronizar</string>
   <string name="micloud_dspt">Use Mi Cloud para sincronizar datos, localizar su dispositivo,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud para sincronizar datos, localizar su dispositivo y compartir cosas con sus amigos.</string>
   <string name="micloud_find_device_finish">Listo</string>
@@ -237,7 +235,6 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_battery_low">No hay batería suficiente para realizar la sincronización</string>
   <string name="micloud_main_battery_message">Conecte el dispositivo a una fuente de energía para sincronizar</string>
   <string name="micloud_main_clear_now">Borrar</string>
-  <string name="micloud_main_data_unsynced">Elementos que están a la espera para sincronizar: %d</string>
   <string name="micloud_main_detail">Ver detalles</string>
   <string name="micloud_main_last_sync_time">Última sincronización %s</string>
   <string name="micloud_main_memory_low_message">Para sincronizar, elimine algunos elementos que haya almacenado en la nube.</string>
@@ -250,7 +247,6 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_multi_user_error_title">Error de Mi Cloud</string>
   <string name="micloud_main_network_abnormal">No es posible conectarse a la red</string>
   <string name="micloud_main_network_error">No es posible conectarse a la red</string>
-  <string name="micloud_main_not_sync">Elementos esperando a sincronizar: %d</string>
   <string name="micloud_main_query_error_message">No se puede garantizar si la sincronización está terminada</string>
   <string name="micloud_main_query_error_title">No se puede obtener el estado de sincronización</string>
   <string name="micloud_main_set_internet">Red</string>
@@ -306,7 +302,6 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar su dispositivo ahora.</string>
   <string name="micloud_notif_title_battery_low">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_clipboard_push">Contenido copiado al portapapeles</string>
-  <string name="micloud_notif_title_depend_wifi">Elementos que están a la espera para sincronizar: %d</string>
   <string name="micloud_notif_title_master_depend_wifi">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_memory_low">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_multi_user_error">"No se puede sincronizar con Mi Cloud"</string>
@@ -396,7 +391,6 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="next">Siguiente</string>
   <string name="noRemind">No recordármelo</string>
   <string name="no_sim">Tarjeta SIM no detectada</string>
-  <string name="one_sync_item_close">%d está desactivado</string>
   <string name="open_micloud_sync">Encender sincronización con Mi Cloud</string>
   <string name="other_settings">Otros ajustes</string>
   <string name="other_sync_item">Otros elementos sincronizando</string>
@@ -439,7 +433,6 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="sina_token_expired_warning">La cuenta Weibo ha expirado: Vuelve a vincularla</string>
   <string name="sina_token_invalid_warning">La cuenta Weibo no es válida: Vuelve a vincularla</string>
   <string name="sms">Mensajes</string>
-  <string name="some_sync_item_close">%d están apagados</string>
   <string name="soundrecorder_sync_only_in_wifi">Solo usar Wi-Fi para sincronizar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">La Grabadora no usará datos móviles para descargar o subir grabaciones</string>
   <string name="soundrecorder_sync_records">Sincronización con Mi Cloud</string>
