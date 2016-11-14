@@ -58,7 +58,6 @@
   <string name="app_name">Cuenta Mi</string>
   <string name="auth_fail_warning">La sesión ha expirado, inténtelo mas tarde</string>
   <string name="authorize_title">Autorización</string>
-  <string name="barcode_add_account_prompt">Para conectar una cuenta, vuelve a escanear el código QR después de iniciar sesión.</string>
   <string name="bind_facebook">Conectar cuenta de Facebook</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Cuentas</string>
@@ -184,6 +183,7 @@
   <string name="passport_auto_generate_pwd">Generate secure password</string>
   <string name="passport_back">Atrás</string>
   <string name="passport_bad_authentication">Contraseña o nombre de usuario incorrecto</string>
+  <string name="passport_barcode_add_account_prompt">Para conectar una cuenta, escanee de nuevo el código QR después de iniciar sesión.</string>
   <string name="passport_change_account">&lt;u&gt;Cambiar de cuenta&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Cambiar números</string>
   <string name="passport_checking_account">Verificando contraseña…</string>
