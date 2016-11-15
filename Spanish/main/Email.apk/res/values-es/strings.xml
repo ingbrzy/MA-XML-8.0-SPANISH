@@ -18,6 +18,10 @@
   <string name="account_set_up_change_type_note">Si necesita cambiar entre POP3 e IMAP, elimine su cuenta y cree una nueva con los ajustes deseados.</string>
   <string name="account_setting">Cuentas</string>
   <string name="account_setting_keywords">Cuentas;cuentas de correo</string>
+  <string name="account_setting_message_body_load_complete">Mensaje completo</string>
+  <string name="account_setting_message_body_load_head_abstract">Resumen del correo</string>
+  <string name="account_setting_message_body_load_head_only">Solo cabecera</string>
+  <string name="account_setting_message_body_load_text">Solo cuerpo</string>
   <string name="account_settings_action">Configuración de cuenta</string>
   <string name="account_settings_background_attachments_label">Descargar adjuntos</string>
   <string name="account_settings_background_attachments_summary">Descargar adjuntos usando Wi-Fi</string>
@@ -118,12 +122,12 @@
   <string name="account_setup_options_mail_check_frequency_12hour">Cada 12 horas</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Cada hora</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Cada 4 horas</string>
-  <string name="account_setup_options_mail_check_frequency_imap_push">Automático (Push, si el servidor lo admite)</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">Automático (Push)</string>
   <string name="account_setup_options_mail_check_frequency_never">Nunca</string>
   <string name="account_setup_options_mail_check_frequency_push">Automático (Push)</string>
   <string name="account_setup_options_mail_window_1day">Ayer</string>
   <string name="account_setup_options_mail_window_1month">Último mes</string>
-  <string name="account_setup_options_mail_window_1quarter">último cuarto</string>
+  <string name="account_setup_options_mail_window_1quarter">Cuarto</string>
   <string name="account_setup_options_mail_window_1week">Última semana</string>
   <string name="account_setup_options_mail_window_2weeks">Últimas dos semanas</string>
   <string name="account_setup_options_mail_window_3days">Últimos tres días</string>
@@ -187,6 +191,7 @@
   <string name="attachment_not_exists">¡El adjunto no está disponible!</string>
   <string name="attachment_open_SecurityException_hint">Es posible que no tenga permisos para abrir este archivo o que el archivo esté dañado.</string>
   <string name="attachment_open_SecurityException_title">No se puede abrir el archivo</string>
+  <string name="attachment_size_exceed_limit">"Parece que el tamaño superó el límite del servidor"</string>
   <string name="attachment_stop_all">Detener</string>
   <string name="attachment_text">Texto</string>
   <string name="attachment_type_blocked">Desafortunadamente, no se puede guardar o abrir este tipo de archivo adjunto.</string>
@@ -235,7 +240,7 @@
   <string name="colon">:</string>
   <string name="compose">Crear</string>
   <string name="compose_attachment_number_limit">No se puede agregar más de 10 adjuntos</string>
-  <string name="compose_paste_address_oob">Pegar el caracter es demasiado largo, se ha truncado</string>
+  <string name="compose_paste_address_oob">Demasiados caracteres</string>
   <string name="compose_picturesexceedlimits">No se puede exceder de 5 imágenes por línea en el mensaje</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Correo enviado</string>
@@ -253,14 +258,12 @@
   <string name="confirm_send_message_with_no_body">No hay texto en el cuerpo del mensaje.</string>
   <string name="confirm_send_message_with_no_subject">Este mensaje no tiene asunto.</string>
   <string name="confirm_send_title">¿Enviar mensaje?</string>
-  <string name="contact_edit_set_black_list_filtering">Filtrando…</string>
   <string name="contact_edit_set_black_list_from">Mover todos los correos de este remitente a la papelera</string>
   <string name="contact_edit_set_black_list_receive">Mover correos con este destinatario a la papelera (sólo nuevos correos)</string>
   <string name="contact_edit_set_black_list_receive_summary">Eliminar correos que incluyan este destinatario en el campo Para o en Cc</string>
   <string name="contact_edit_set_black_list_title">Añadir a lista de bloqueo</string>
   <string name="contact_edit_set_phone_contact">Editar contactos del teléfono</string>
   <string name="contact_edit_title_phone_contact">Lista de contactos del teléfono</string>
-  <string name="contact_in_filter_call_phone_str">"Llamada de %s "</string>
   <string name="contact_in_filter_title">Remitente</string>
   <string name="contact_info_string">Mostrar información de contacto de %1$s</string>
   <string name="contact_info_string_default">Mostrar información de contacto</string>
@@ -275,7 +278,7 @@
   <string name="contextmenu_add_contact">Añadir contacto</string>
   <string name="contextmenu_call">Llamar</string>
   <string name="contextmenu_copy">Copiar</string>
-  <string name="contextmenu_copylink">Copiar enlace URL</string>
+  <string name="contextmenu_copylink">Copiar URL</string>
   <string name="contextmenu_create">Crear nuevo contacto</string>
   <string name="contextmenu_dial_dot">Marcar…</string>
   <string name="contextmenu_edit">Editar contacto</string>
@@ -291,6 +294,9 @@
   <string name="conversation_item_mark_read">Leído</string>
   <string name="conversation_item_mark_unread">No leído</string>
   <string name="conversation_photo_welcome_text">Pulse en la imagen de un remitente para seleccionar la conversación.</string>
+  <string name="conversation_quick_button_approve">Aceptar</string>
+  <string name="conversation_quick_button_disapprove">Rechazar</string>
+  <string name="conversation_quick_button_received">Recibido</string>
   <string name="conversation_view">Vista de la conversación</string>
   <string name="conversation_view_keywords">vista de la conversación;conversación del correo</string>
   <string name="copied">Copiado</string>
@@ -345,7 +351,6 @@
   <string name="download_confirm_message">¿Descargar %1$s adjuntos?</string>
   <string name="download_confirm_title">Descargar adjunto</string>
   <string name="download_message_failed_for_too_large">El mensaje es demasiado grande para descargar.</string>
-  <string name="download_whole_email">Ver el resto del mensaje</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Cerrar el panel de navegación</string>
   <string name="drawer_contacts">Contactos</string>
@@ -389,6 +394,7 @@
   <string name="file_not_found_redownload">No se pudo encontrar el archivo</string>
   <string name="file_rar_not_support">No es posible abrir archivos rar cifrados</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
+  <string name="first_quick_default_reply">Pulse en este atajo, luego \"%s\" será enviado a todos los destinatarios.</string>
   <string name="folder_list_display_all">Mostrar todas las carpetas</string>
   <string name="folder_list_display_only_import">Solo mostrar carpetas importantes</string>
   <string name="folder_picker_title">Seleccionar carpetas</string>
@@ -405,7 +411,7 @@
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
   <string name="general_preference_str_auto_translation">Traducción rápida</string>
-  <string name="general_preference_str_auto_translation_prompt">Copiar el contenido correspondiente para ver el resultado de la traducción</string>
+  <string name="general_preference_str_auto_translation_prompt">Copie el texto para ver la traducción</string>
   <string name="general_preference_text_zoom_dialog_title">Tamaño del texto del mensaje</string>
   <string name="general_preference_text_zoom_huge">Enorme</string>
   <string name="general_preference_text_zoom_label">Tamaño del texto del mensaje</string>
@@ -430,18 +436,10 @@
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">La contraseña para el servidor de correo entrante es incorrecta</string>
-  <string name="info_actionbar_normal_detail">Detalles</string>
-  <string name="info_actionbar_subscribe">Noticias</string>
-  <string name="info_item_from">De </string>
+  <string name="info_actionbar_normal_detail">Promoción</string>
   <string name="info_item_hide">Ocultar</string>
-  <string name="info_loading">Cargando…</string>
-  <string name="info_name_title">NOTICIAS</string>
-  <string name="info_no_message">No articles to view</string>
-  <string name="info_no_more_message">No hay más elementos para ver</string>
-  <string name="info_switch_summary">Ver noticias principales</string>
-  <string name="info_switch_title">Noticias de la bandeja de entrada</string>
-  <string name="info_sync_error">"No se pudo sincronizar, intentarlo más tarde."</string>
-  <string name="information_subscribe_first_intro">"Parece que estás utilizando fuentes de noticias por primera vez. Cuéntanos acerca de sus intereses para que pudiéramos personalizar sus noticias."</string>
+  <string name="info_switch_summary">Mostrar promociones al principio de la bandeja de entrada</string>
+  <string name="info_switch_title">Promoción</string>
   <string name="inline_picture_deleted">Descargar imagen ausente…</string>
   <string name="input_password_prompt">Introduzca su contraseña</string>
   <string name="invalid_recipient">La dirección %s no es válida.</string>
@@ -452,7 +450,7 @@
   <string name="load_more">Cargar más</string>
   <string name="loading_conversation">Cargando…</string>
   <string name="loading_conversations">Cargando…</string>
-  <string name="loading_from_remote">Buscando…</string>
+  <string name="loading_from_remote">Cargando…</string>
   <string name="local_search">Búsqueda local</string>
   <string name="local_search_result">%s resultados en mensajes sincronizados</string>
   <string name="login">Iniciar sesión</string>
@@ -534,7 +532,8 @@ Declinado:
   <string name="menu_att_mgr_order_size">Ordenar por tamaño</string>
   <string name="menu_change_folders">Mover</string>
   <string name="menu_compose">Crear</string>
-  <string name="menu_discovery">Descubrir</string>
+  <string name="menu_contact_edit">Editar</string>
+  <string name="menu_discovery">Promoción</string>
   <string name="menu_folder_options">Opciones de sicronización</string>
   <string name="menu_move_to">Mover a</string>
   <string name="menu_move_to_inbox">Mover a la bandeja de entrada</string>
@@ -545,6 +544,7 @@ Declinado:
   <string name="menu_search">Buscar</string>
   <string name="menu_settings">Ajustes</string>
   <string name="merged_mailbox_compose_select_account">Seleccionar cuenta</string>
+  <string name="message_body_load_set_description">Tamaño de la carga de nuevos correos cuando se están usando datos móviles</string>
   <string name="message_compose_insert_quick_response_list_title">Añadir respuesta rápida</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">Se produjo un error al decodificar el mensaje</string>
@@ -568,7 +568,6 @@ Declinado:
   <string name="move_to_selection_dialog_title">Trasladar a otra carpeta</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Silenciar</string>
-  <string name="net_check_title">"No se pudo conectar a la red. Compruebe los ajustes y vuelva a intentarlo."</string>
   <string name="network_error">Sin conexión</string>
   <string name="network_not_available">No se puede conectar a la red</string>
   <string name="network_try_again">Compruebe la conexión de red e inténtelo de nuevo</string>
@@ -695,7 +694,6 @@ Declinado:
   <string name="print">Imprimir</string>
   <string name="prompt_title">Preguntar</string>
   <string name="pull_to_refresh">Deslice hacia abajo para actualizar</string>
-  <string name="pull_up_to_load_more">Deslice hacia arriba para cargar más</string>
   <string name="push_wps_better_confirm_download">Descargar</string>
   <string name="push_wps_better_confirm_exit">Ahora no</string>
   <string name="push_wps_better_confirm_message">Pruebe a utilizar WPS Office para abrir este adjunto.</string>
@@ -724,6 +722,7 @@ Declinado:
   <string name="quick_reply_hint_bcc">(En BCC)</string>
   <string name="quick_reply_hint_cc">(En CC)</string>
   <string name="quick_reply_hint_reply_only_from">Respuesta rápida (sólo el remitente)</string>
+  <string name="quick_reply_pattern">.*审批.*|.*批准.*|.*申请.*|.*申报.*|.*请示.*|.*请求.*</string>
   <string name="quick_responses_empty_view">Sin respuestas rápidas</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- Mensaje original --------</string>
@@ -757,6 +756,7 @@ Declinado:
   <string name="refreshing">Actualizando…</string>
   <string name="refreshing_done">Hecho</string>
   <string name="release_to_refresh">Suelte para actualizar</string>
+  <string name="remind_attachment_size_limit">Sus correos deberían ser menores de %sMB</string>
   <string name="remote_search_result">%s resultados del servidor</string>
   <string name="remove_account">Eliminar cuenta</string>
   <string name="remove_folder">Quitar de %1$s</string>
@@ -795,16 +795,17 @@ Declinado:
   <string name="security_unsupported_ticker_fmt">"La cuenta\" %s  \"no puede ser sincronizada debido a requisitos de seguridad."</string>
   <string name="select_attachment_type">Elegir adjunto de</string>
   <string name="select_no_file">No se han seleccionado adjuntos</string>
-  <string name="selected_lable">Seleccionado</string>
   <string name="send">Enviar</string>
   <string name="send_failed">El mensaje no fue enviado.</string>
   <string name="send_feed_back">Enviar comentarios</string>
   <string name="send_feed_back_keywords">enviar comentarios</string>
+  <string name="send_mail">Enviar</string>
   <string name="sender_whitelist_cleared">Las imágenes no se mostrarán automáticamente.</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Enviando…</string>
   <string name="sending_message">Enviando mensaje…</string>
+  <string name="sending_quick_reply">Enviando correo \"%s\"</string>
   <string name="sent_folder_selection_title">Seleccione la carpeta de elementos enviados para %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"No se pudo validar el certificado del servidor
 \u0009 (Asegúrese de que la 'Hora de sincronización automática' esté activada en Ajustes)"</string>
@@ -872,14 +873,14 @@ Declinado:
   <string name="too_large_to_attach_multiple">No se adjuntaron uno a varios archivos. El tamaño no puede exceder %1$s.</string>
   <string name="too_large_to_attach_single">No es posible adjuntar un archivo con un tamaño superior a %1$s .</string>
   <string name="topic_merge">Combinar temas</string>
-  <string name="translation_loading">Cargando…</string>
-  <string name="translation_no_result">No se han encontrado resultados</string>
-  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_loading">Un segundo…</string>
+  <string name="translation_no_result">No hay resultados</string>
+  <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Máquina</string>
-  <string name="translation_query_failure">La búsqueda falló</string>
-  <string name="translation_technology_support">El Soporte técnico por PowerWord</string>
+  <string name="translation_query_failure">No se encontraron resultados</string>
+  <string name="translation_technology_support">Soporte técnico por iciba.com</string>
   <string name="trash_folder_selection_title">Seleccione la Papelera del servidor para %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
@@ -890,7 +891,6 @@ Declinado:
   <string name="turn_auto_sync_on_dialog_title">¿Activar sincronización automática?</string>
   <string name="undo">Deshacer</string>
   <string name="unread_string">conversación sin leer</string>
-  <string name="unselected_lable">Más</string>
   <string name="unsent_messages_in_outbox">%1$s mensajes no enviados en %2$s</string>
   <string name="unzip_file_failed">No se pudo descomprimir el archivo</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
@@ -917,7 +917,7 @@ Pulse "&lt;b&gt;Sincronizar ahora&lt;/b&gt; para sincronizar el correo una vez, 
   <string name="wipe_account_fail_title">"Error al eliminar la información personal"</string>
   <string name="wrong_password">La contraseña introducida no es correcta</string>
   <string name="yes">Sí</string>
-  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">¿Enviar registros usando la conexión de datos? Si supera el límite de datos de su plan su operadora podría cobrarle gastos extras.</string>
+  <string name="youfuli">Promoción</string>
   <string name="zip_viewer_no_file">Sin archivos.</string>
 </resources>
