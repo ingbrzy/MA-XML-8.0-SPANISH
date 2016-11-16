@@ -400,7 +400,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="editContactNameExpandOpenDescription">Ampliar el nombre</string>
   <string name="editGroupDescription">Editar grupo</string>
   <string name="edit_contact">Editar contacto</string>
-  <string name="edit_contact_card_title">Editar tarjeta de contacto</string>
+  <string name="edit_contact_card_title">Seleccionar elementos para compartir</string>
   <string name="edit_contact_photo">Editar foto de contacto</string>
   <string name="email">Email</string>
   <string name="emailLabelsGroup">Email</string>
@@ -1245,8 +1245,8 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowPageNavigationIconLabel">Páginas amarillas</string>
   <string name="yellowPageNavigationLabel">Páginas amarillas</string>
   <string name="yellowpage_navigation_ad_hint">Anuncio</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"El equilibrio y los datos no se pudieron verificar, inténtelo de nuevo más tarde."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">El equilibrio y los datos han sido verificados</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"No se pudo verificar el saldo y los datos móviles. Vuelve a intentarlo más tarde."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">El saldo y los datos móviles han sido verificados</string>
   <string name="yellowpage_navigation_clear_search_history">Borrar historial</string>
   <string name="yellowpage_navigation_more_items">Más</string>
   <string name="yellowpage_navigation_more_items_title">Más servicios</string>
