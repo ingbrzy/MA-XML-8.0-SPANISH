@@ -50,7 +50,7 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
   <string name="cloud_space_upgrade_message">Pulse para añadir %sGB a su nube.</string>
   <string name="cloud_space_upgrade_no_quota_info">No se puedo obtener información sobre almacenamiento</string>
   <string name="cloud_space_upgrade_title">Más espacio para Mi Cloud</string>
-  <string name="cloud_storage_full">Almacenamiento Cloud</string>
+  <string name="cloud_storage_full">El almacenamiento en la nube está lleno</string>
   <string name="cloud_storage_is_full">Lleno</string>
   <string name="cloudservice_new_sync">Sincronizar %s con Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud para sincronizar datos, localizar su dispositivo y compartir cosas con sus amigos.</string>
@@ -185,7 +185,7 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
   <string name="micloud_detail_lastest_with_off">Sincronizado</string>
   <string name="micloud_detail_not_sync">%d esperando para sincronizar</string>
-  <string name="micloud_detail_not_synced">no sincronizado</string>
+  <string name="micloud_detail_not_synced">No sincronizado</string>
   <string name="micloud_detail_ok">De acuerdo</string>
   <string name="micloud_detail_pending">Esperando</string>
   <string name="micloud_detail_preference_sync_items">Elementos</string>
@@ -387,7 +387,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="mx_sub_dspt_provision">Mensajes Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Llamada por internet</string>
   <string name="mx_voip_dspt">Mi Voice</string>
-  <string name="network_unconnected">No conectado a la red</string>
+  <string name="network_unconnected">"No se pudo conectar a la red"</string>
   <string name="next">Siguiente</string>
   <string name="noRemind">No recordármelo</string>
   <string name="no_sim">Tarjeta SIM no detectada</string>
