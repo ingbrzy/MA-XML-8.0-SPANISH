@@ -5,8 +5,8 @@
         <item quantity="one">%d número se borrará.</item>
     </plurals>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">"Ninguna conexión de datos por  %s minutos"</item>
-        <item quantity="one">"Ninguna conexión de datos por  %s minuto"</item>
+        <item quantity="other">"Sin conexión de datos durante %s minutos"</item>
+        <item quantity="one">"Sin conexión de datos durante %s minuto"</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">El teléfono entrará en modo Llamada de Emergencia durante %s minutos. Durante este tiempo no podrá usar ninguna aplicación que necesite conexión de datos. ¿Quiere salir ahora?</item>

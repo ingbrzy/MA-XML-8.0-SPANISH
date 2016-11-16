@@ -623,7 +623,7 @@ Declinado:
   <string name="password_expire_warning_content_title">Contraseña de de bloqueo de pantalla caducada</string>
   <string name="password_expire_warning_dialog_content_fmt">Debe cambiar su contraseña o PIN de bloqueo pronto, o la información de %s será eliminada. ¿Quiere cambiarla ahora?</string>
   <string name="password_expire_warning_dialog_title">Contraseña de bloqueo de pantalla a punto de caducar</string>
-  <string name="password_expire_warning_ticker_fmt">"\" %s  \"requiere que cambia tu pantalla de bloqueo, PIN o contraseña."</string>
+  <string name="password_expire_warning_ticker_fmt">"\"%s\"requiere que cambie su pantalla de bloqueo, PIN o contraseña."</string>
   <string name="password_expired_content_title">Contraseña de bloqueo de pantalla caducada</string>
   <string name="password_expired_dialog_content_fmt">Los datos de %s están siendo borrados de su dispositivo. Puede restaurarlos al cambiar su PIN o contraseña de bloqueo de pantalla. ¿Cambiar ahora?</string>
   <string name="password_expired_dialog_title">La contraseña de bloqueo de pantalla ha caducado</string>
@@ -784,13 +784,13 @@ Declinado:
   <string name="search_tabs_name_subject">Asunto</string>
   <string name="search_title">Email unificado</string>
   <string name="search_txt_size_limit_prompt">Sólo puede realizar búsquedas de más de 3 caracteres</string>
-  <string name="security_changed_ticker_fmt">La cuenta\" %s  \"cambió su configuración de seguridad; ninguna acción del usuario se requiere.</string>
+  <string name="security_changed_ticker_fmt">La cuenta \"%s\"cambió su configuración de seguridad; ninguna acción del usuario se requiere.</string>
   <string name="security_needed_ticker_fmt">La cuenta \"%s\" requiere una actualización de los ajustes de seguridad.</string>
   <string name="security_notification_content_change_title">Las políticas de seguridad han cambiado</string>
   <string name="security_notification_content_unsupported_title">"Security requirements can't be
          met"</string>
   <string name="security_notification_content_update_title">Necesario actualizar seguridad</string>
-  <string name="security_unsupported_ticker_fmt">"La cuenta\" %s  \"no puede ser sincronizada debido a requisitos de seguridad."</string>
+  <string name="security_unsupported_ticker_fmt">"La cuenta \"%s\" no puede ser sincronizada debido a requisitos de seguridad."</string>
   <string name="select_attachment_type">Elegir adjunto de</string>
   <string name="select_no_file">No se han seleccionado adjuntos</string>
   <string name="send">Enviar</string>
@@ -884,7 +884,7 @@ Declinado:
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Inicie sesión con EXCHANGE</string>
-  <string name="turn_auto_sync_on_dialog_body">"Los cambios que realice en todas las aplicaciones y cuentas, no sólo Gmail, se sincronizarán en  la web, otros dispositivos y en su %1$s ."</string>
+  <string name="turn_auto_sync_on_dialog_body">"Los cambios que realice en todas las aplicaciones y cuentas, no sólo Gmail, se sincronizarán en la web, otros dispositivos y en su %1$s ."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">¿Activar sincronización automática?</string>
   <string name="undo">Deshacer</string>
