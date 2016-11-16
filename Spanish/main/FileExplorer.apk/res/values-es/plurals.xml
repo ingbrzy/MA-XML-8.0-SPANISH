@@ -280,4 +280,8 @@
          <item quantity="other">• ¡Usted tiene &lt;font color=#fc7050>%1$s&lt;/font> seguidores!</item>
          <item quantity="one">• ¡Usted tiene &lt;font color=#fc7050>%1$s&lt;/font> seguidor!</item>
     </plurals>
+    <plurals name="video_publish_watchable_hint">
+         <item quantity="other">Obtener %1$d seguidores más para actualizar tu estado</item>
+         <item quantity="one">Obtener %1$d seguidor más para actualizar tu estado</item>
+    </plurals>
 </resources>
