@@ -110,7 +110,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_fingerprint_done_msg">Ahora podrá desbloquear el dispositivo con su huella.</string>
   <string name="add_fingerprint_done_title">¿Listo para disfrutar?</string>
   <string name="add_fingerprint_failed_retry_text">No se pudo añadir la huella dactilar, vuelva a intentarlo</string>
-  <string name="add_fingerprint_finished_button_text">De acuerdo</string>
+  <string name="add_fingerprint_finished_button_text">Aceptar</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear el dispositivo o verificar el pago con su huella.</string>
   <string name="add_fingerprint_instruction_title">Añada su huella</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mueva el dedo ligeramente y colóquelo de nuevo en el censor para añadir las diferentes partes de su huella dactilar.</string>
@@ -782,7 +782,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="change_security_lock">Probar otras formas de bloquear</string>
   <string name="change_storage">Cambiar almacenamiento</string>
   <string name="charging_sounds_title">Sonidos de carga de batería</string>
-  <string name="check_find_device_status_failure_confirm">De acuerdo</string>
+  <string name="check_find_device_status_failure_confirm">Aceptar</string>
   <string name="check_update">Comprobar actualizaciones</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volumen de llamada entrante para notificaciones</string>
   <string name="checking_decryption">Comprobando...</string>
@@ -810,7 +810,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="clear_failed_dlg_text">No se ha podido borrar los datos de la aplicación.</string>
   <string name="clear_failed_dlg_title">Borrar datos</string>
   <string name="clear_user_data_text">Borrar datos</string>
-  <string name="close_dialog">De acuerdo</string>
+  <string name="close_dialog">Aceptar</string>
   <string name="close_gesture">Cerrar usando gesto</string>
   <string name="close_miui_optimization_title">Desactivar optimización MIUI</string>
   <string name="close_miui_optimization_warning_message">Su dispositivo se reiniciará para aplicar este cambio. Nota: desactivar esta función supondrá cambios importantes en el diseño y otros elementos de la interfaz de usuario.</string>
@@ -849,7 +849,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="config_ptp_function_name">ptp</string>
   <string name="configure_apps">Configurar aplicaciones</string>
   <string name="configure_input_method">Configurar métodos de entrada</string>
-  <string name="confirm_action">De acuerdo</string>
+  <string name="confirm_action">Aceptar</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Añadir</string>
   <string name="confirm_download_cancelation_dialog_message">¿Cancelar descarga?</string>
   <string name="confirm_enable_multi_window_text">ADVERTENCIA: Esta es una función experimental que permite realizar varias actividades en la pantalla al mismo tiempo a través de la interfaz de usuario de Aplicaciones recientes. Es posible que algunas aplicaciones se bloqueen o no funcionen correctamente cuando se utilicen con esta función.</string>
@@ -863,7 +863,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="confirm_privacy_password">Introduzca contraseña de privacidad</string>
   <string name="confirm_privacy_password_fingerprint">Escanee su huella o introduzca contraseña de privacidad</string>
   <string name="confirm_privacy_password_instruction">Esta contraseña protege mensajes, fotos y contactos.</string>
-  <string name="confirm_reset_aaid">De acuerdo</string>
+  <string name="confirm_reset_aaid">Aceptar</string>
   <string name="connect_to_internet">Conectarse a la red</string>
   <string name="connected_via_passpoint">Conectado a través de %1$s</string>
   <string name="connected_via_wfa">Conectado a través de asistente Wi‑Fi</string>
@@ -1526,7 +1526,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fp_nav_center_back_to_home_title">Pulse el botón Inicio para volver a la pantalla de inicio</string>
   <string name="free_memory">Libre</string>
   <string name="free_wifi_agreement_remind_never">No mostrar de nuevo</string>
-  <string name="free_wifi_confirm">De acuerdo</string>
+  <string name="free_wifi_confirm">Aceptar</string>
   <string name="free_wifi_connect">Conectar</string>
   <string name="free_wifi_connect_dialog_summary">%1$s gestionado por %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi disponible</string>
@@ -1658,7 +1658,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="incoming_call_breathing_light_color_title">Color de llamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frecuencia del pulso de llamadas</string>
   <string name="incoming_call_volume_title">Tono</string>
-  <string name="information_dialog_button_text">De acuerdo</string>
+  <string name="information_dialog_button_text">Aceptar</string>
   <string name="input_method">Teclado</string>
   <string name="input_method_selector">Selector de método de entrada</string>
   <string name="input_method_selector_always_hide_title">Ocultar siempre</string>
@@ -2187,7 +2187,7 @@ Seleccione su sistema operativo:"</string>
   <string name="msd_help_title">Ayuda</string>
   <string name="msd_install">¿Reinstalar controlador?</string>
   <string name="msd_install_download_zhushou">He descargado Mi Phone Manager</string>
-  <string name="msd_install_finish">De acuerdo</string>
+  <string name="msd_install_finish">Aceptar</string>
   <string name="msd_install_next">Siguiente</string>
   <string name="msd_install_retry">Si el ordenador no detecta el dispositivo, pruebe con lo siguiente:</string>
   <string name="msd_install_retry_connect">Reconectar el cable USB.</string>
@@ -2842,7 +2842,7 @@ Seleccione su sistema operativo:"</string>
   <string name="provision_next">Siguiente</string>
   <string name="provision_page_layout_confirm_message">Su dispositivo debe reiniciarse para aplicar estos cambios. Esto podría tardar alrededor de 1 minuto.</string>
   <string name="provision_skip">Omitir</string>
-  <string name="proxy_action_text">De acuerdo</string>
+  <string name="proxy_action_text">Aceptar</string>
   <string name="proxy_clear_text">Borrar</string>
   <string name="proxy_defaultView_text">Restaurar valores predeterminados</string>
   <string name="proxy_error">Atención</string>
@@ -3491,7 +3491,7 @@ Para ello:
   <string name="show_touches">Mostrar pulsaciones</string>
   <string name="show_touches_summary">Mostrar la ubicación de las pulsaciones en la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar la información del usuario en la pantalla de bloqueo</string>
-  <string name="shut_down_find_device_failure_confirm">De acuerdo</string>
+  <string name="shut_down_find_device_failure_confirm">Aceptar</string>
   <string name="shut_down_find_device_network_failure_content">No se pudo desactivar localizar el dispositivo. Asegúrese de que su dispositivo tiene una conexión a internet.</string>
   <string name="shut_down_find_device_network_failure_title">No se puede conectar a la red</string>
   <string name="shuting_down_find_device">Desactivando la búsqueda de dispositivo…</string>
@@ -3961,7 +3961,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="touch_sensitive_summary">Hacer que la sensibilidad de la pantalla sea mayor a la presión</string>
   <string name="touch_sensitive_title">Modo guantes</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
-  <string name="touch_sensitive_turn_off_confirm">De acuerdo</string>
+  <string name="touch_sensitive_turn_off_confirm">Aceptar</string>
   <string name="touch_sensitive_turn_off_summary">¿Desactivar también el modo bolsillo?</string>
   <string name="touch_sensitive_turn_off_title">El modo guantes está desactivado</string>
   <string name="touch_sounds_title">Sonidos táctiles</string>
@@ -4312,7 +4312,7 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="virus_scanner_scan">Pulsa para escanear</string>
   <string name="virus_scanner_scanning">Escaneando…</string>
   <string name="virus_scanner_select_Cancel">Cancelar</string>
-  <string name="virus_scanner_select_OK">De acuerdo</string>
+  <string name="virus_scanner_select_OK">Aceptar</string>
   <string name="virus_scanner_select_lib">Seleccionar definiciones de virus</string>
   <string name="virus_scanner_select_multi">La selección de más de un conjunto de definiciones hará que se ralentice la instalación y el análisis</string>
   <string name="virus_scanner_select_single">Solo usar definiciones de fuentes fiables.</string>
@@ -4476,7 +4476,7 @@ de Wi‑Fi"</string>
   <string name="wifi_configured_ap_list">Puntos de acceso previamente configurados</string>
   <string name="wifi_connect">Conectar</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Cancelar</string>
-  <string name="wifi_connect_cmcc_dialog_confirm">De acuerdo</string>
+  <string name="wifi_connect_cmcc_dialog_confirm">Aceptar</string>
   <string name="wifi_connect_cmcc_dialog_content">Conectado a los servicios de datos de red CMCC.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">No mostrar de nuevo</string>
   <string name="wifi_connect_cmcc_dialog_title">Notificación de uso de datos</string>
@@ -4587,7 +4587,7 @@ de Wi‑Fi"</string>
   <string name="wifi_notify_open_networks">Notificación de red disponible</string>
   <string name="wifi_notify_open_networks_summary">Recibir notificación si hay una red pública disponible</string>
   <string name="wifi_off_airplane_on_cancel">Cancelar</string>
-  <string name="wifi_off_airplane_on_confirm">De acuerdo</string>
+  <string name="wifi_off_airplane_on_confirm">Aceptar</string>
   <string name="wifi_off_airplane_on_content">Puede activar la función Wi-Fi manualmente cuando el modo avión esté activado.</string>
   <string name="wifi_off_airplane_on_not_remind">No mostrar de nuevo</string>
   <string name="wifi_off_airplane_on_title">Wi-Fi en modo avión</string>
@@ -4716,13 +4716,13 @@ de Wi‑Fi"</string>
   <string name="wifi_share_connected_title">Wi-Fi compartida con MIUI</string>
   <string name="wifi_share_count">Compartidas %d redes</string>
   <string name="wifi_share_current_network">Red actual</string>
-  <string name="wifi_share_know">De acuerdo</string>
+  <string name="wifi_share_know">Aceptar</string>
   <string name="wifi_share_list_empty">No se han encontrado redes compartidas.</string>
   <string name="wifi_share_login">Compartir red Wi-Fi</string>
   <string name="wifi_share_login_summary">Esta es una red pública, puede compartirla con otros usuarios de MIUI.</string>
   <string name="wifi_share_notification_summary">MIUI se ha conectado a una red pública por Wi-Fi.</string>
   <string name="wifi_share_other_network">Otras redes</string>
-  <string name="wifi_share_qrcode_finish">De acuerdo</string>
+  <string name="wifi_share_qrcode_finish">Aceptar</string>
   <string name="wifi_share_qrcode_summary">Para compartir, escanee primero el código QR anterior.</string>
   <string name="wifi_share_qrcode_title">Compartir red Wi-Fi</string>
   <string name="wifi_share_show_network">Mostrar redes</string>
