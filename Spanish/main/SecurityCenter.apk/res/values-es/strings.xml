@@ -228,7 +228,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_stats_charging_label">Cargando</string>
   <string name="battery_stats_gps_on_label">GPS</string>
-  <string name="battery_stats_on_battery">%1$s en la batería</string>
+  <string name="battery_stats_on_battery">%1$s de batería</string>
   <string name="battery_stats_phone_signal_label">Señal de la red móvil</string>
   <string name="battery_stats_screen_on_label">Pantalla</string>
   <string name="battery_stats_wake_lock_label">Despierto</string>
@@ -523,7 +523,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="handle_text_memory">Memoria</string>
   <string name="handle_text_system">Sistema</string>
   <string name="help_label">Ayuda</string>
-  <string name="hide_mode_app_background_setting_text">Aplicación de ahorro de batería</string>
+  <string name="hide_mode_app_background_setting_text">Ahorrar batería en las aplicaciones</string>
   <string name="hide_mode_summary_text">Administrar aplicaciones en segundo plano para ahorrar batería</string>
   <string name="hide_mode_title_text">Modo Oculto</string>
   <string name="hints_auto_start_warning_info">Si restringes el inicio automático, algunas aplicaciones y servicios no podrán recibir notificaciones.</string>
@@ -715,7 +715,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="manual_white_list_header">%d excepciones</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">Mb/s</string>
-  <string name="memory_check_content">Liberado %s</string>
+  <string name="memory_check_content">Se han liberado %s</string>
   <string name="memory_check_content_none">Vacío</string>
   <string name="menu_item_about_content">Versión %s</string>
   <string name="menu_item_about_summary">Versión %s</string>
@@ -855,7 +855,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_result_buAjustars_diagnose">Diagnóstico del operador</string>
   <string name="optimize_result_button_cloudspace">Añadir almacenamiento en la nube</string>
-  <string name="optimize_result_button_consume_power_analysis">Escaneo de la batería</string>
+  <string name="optimize_result_button_consume_power_analysis">Uso de la batería</string>
   <string name="optimize_result_button_cooldown_now">Enfriar</string>
   <string name="optimize_result_button_correct_now">Ajustar</string>
   <string name="optimize_result_button_fix_now">Corregir</string>
@@ -882,7 +882,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optmizingbar_title_acceleration">Optimizando…</string>
   <string name="optmizingbar_title_clear">Limpiar cache</string>
   <string name="optmizingbar_title_security">Seguridad</string>
-  <string name="optmizingbar_title_system">Sistema de seguridad</string>
+  <string name="optmizingbar_title_system">Seguridad del sistema</string>
   <string name="other_exception_summary">No tiene conexión a internet</string>
   <string name="other_exception_title">Verificando otros problemas</string>
   <string name="package_change_notification_summary">Pulse para conocer más.</string>
@@ -1324,7 +1324,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="section_system_item_fixed">Arreglado</string>
   <string name="section_title_clear_acc">Limpiar cache</string>
   <string name="section_title_security_defend">Seguridad</string>
-  <string name="section_title_system">Sistema de seguridad</string>
+  <string name="section_title_system">Seguridad del sistema</string>
   <string name="security_app_lock">Bloquear aplicación</string>
   <string name="security_scan_card_clean_now">Escanear</string>
   <string name="security_scan_optimizing">Optimizando…</string>
@@ -1566,15 +1566,15 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_consume_power_rank">Uso de la batería</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
   <string name="title_default_app">MIUI %s no se establece como predeterminado</string>
-  <string name="title_dev_no">Opciones de desarrollador activadas</string>
-  <string name="title_dev_yes">Opciones de desarrollador desactivadas</string>
+  <string name="title_dev_no">Opciones de desarrollo activadas</string>
+  <string name="title_dev_yes">Opciones de desarrollo desactivadas</string>
   <string name="title_find_device">Encontrar dispositivo</string>
   <string name="title_flow_notification">Notificación de datos móviles</string>
   <string name="title_flow_purchase">Comprar datos móviles</string>
   <string name="title_flow_rank">Uso de datos móviles</string>
   <string name="title_flow_verify">Comparar contabilidad</string>
   <string name="title_flow_verify_failed">"No se pudo ajustar durante 5 días seguidos"</string>
-  <string name="title_garbage_clean">La aplicación alcanzó el tamaño caché %s</string>
+  <string name="title_garbage_clean">La cache de aplicaciones alcanzó %s</string>
   <string name="title_garbage_lib">Actualizar definiciones</string>
   <string name="title_install_virus_no">Monitor de instalación apagado</string>
   <string name="title_install_virus_yes">Monitor de instalación activado</string>
