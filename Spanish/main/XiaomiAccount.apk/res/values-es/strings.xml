@@ -168,6 +168,10 @@
   <string name="notify_network_restricted_content_hidden_state">"La actividad en segundo plano está restringido para la Cuenta Mi. Toque para permitir."</string>
   <string name="notify_network_restricted_content_mobile_network">"El acceso a Internet está restringido para la Cuenta Mi. Toque para permitir."</string>
   <string name="notify_network_restricted_title">"La Cuenta Mi no puede conectarse a la red"</string>
+  <string name="oauth_get_scopes_failed">"No se pudo obtener información de la cuenta"</string>
+  <string name="oauth_getting_scopes">Verificación de la cuenta…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtendrá los siguientes permisos:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Iniciar sesión con Mi Cuenta</string>
   <string name="other_devices_title">Otros dispositivos</string>
   <string name="passport_access_denied">Acceso denegado</string>
   <string name="passport_account_hint_text">Dirección de correo o ID de Cuenta Mi</string>
