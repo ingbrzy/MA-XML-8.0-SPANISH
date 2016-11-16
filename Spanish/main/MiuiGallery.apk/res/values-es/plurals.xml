@@ -117,8 +117,8 @@
         <item quantity="one">Mi Cloud lleno. %1$d elemento esperando a ser respaldado</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">No hay suficiente. %1$d elementos esperando a ser respaldados</item>
-        <item quantity="one">No hay suficiente. %1$d elemento esperando a ser respaldado</item>
+        <item quantity="other">"No se puede copiar %1$d elementos"</item>
+        <item quantity="one">"No se puede copiar %1$d elemento"</item>
     </plurals>
     <plurals name="number_of_images_synced">
          <item quantity="other">%1$d fotos</item>
