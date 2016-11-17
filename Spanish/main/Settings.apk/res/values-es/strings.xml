@@ -353,7 +353,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="band_mode_succeeded">Correcto</string>
   <string name="band_mode_title">Establecer banda GSM/UMTS</string>
   <string name="baseband_version">Versión de la banda base</string>
-  <string name="batch_delete_saved_network">¿Eliminar la red guardada: %s?</string>
+  <string name="batch_delete_saved_network">¿Eliminar las redes seleccionadas: %s?</string>
   <string name="batch_delete_saved_networks">Eliminar todas las redes seleccionadas</string>
   <string name="battery_action_app_details">Información de la aplicación</string>
   <string name="battery_action_app_settings">Ajustes de aplicación</string>
@@ -1105,7 +1105,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="delete_fingerprint_text">Eliminar huella</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">¿Elimininar esta huella digital?</string>
-  <string name="delete_saved_network">Borrar red guardada</string>
+  <string name="delete_saved_network">Eliminar redes guardadas</string>
   <string name="deny">Denegar</string>
   <string name="deny_sms_message">No permitir que las aplicaciones instaladas envíen SMS</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -2204,9 +2204,9 @@ Seleccione su sistema operativo:"</string>
   <string name="multi_touch_points_category_title">Puntos multi-táctiles</string>
   <string name="multi_touch_points_preference">La configuración se aplicará cuando reinicie su dispositivo</string>
   <string name="music_audio_effect_optimize">Configuración de audio</string>
-  <string name="music_audio_effect_optimize_summary">Dirac, auriculares y otros ajustes de audio</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, auriculares y otros ajustes de audio</string>
-  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculares y otros ajustes de audio</string>
+  <string name="music_audio_effect_optimize_summary">Dirac, auriculares, y otros ajustes de audio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, auriculares, y otros ajustes de audio</string>
+  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculares, y otros ajustes de audio</string>
   <string name="music_audio_effect_settings">Configuración de efectos</string>
   <string name="music_dirac_control">Optimizar la calidad del audio</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
