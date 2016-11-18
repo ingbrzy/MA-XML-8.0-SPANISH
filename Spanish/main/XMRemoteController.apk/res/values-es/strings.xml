@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ir al inicio</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Ir arriba</string>
   <string name="abc_action_menu_overflow_description">Más opciones</string>
   <string name="abc_action_mode_done">Hecho</string>
   <string name="abc_activity_chooser_view_see_all">Mostrar todos</string>
   <string name="abc_activitychooserview_choose_application">Elegir una aplicación</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">Apagado</string>
+  <string name="abc_capital_on">Encendido</string>
   <string name="abc_search_hint">Buscar…</string>
   <string name="abc_searchview_description_clear">Limpiar cadena</string>
   <string name="abc_searchview_description_query">Buscar cadena</string>
@@ -19,7 +17,7 @@
   <string name="abc_shareactionprovider_share_with">Compartir con</string>
   <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
   <string name="abc_toolbar_collapse_description">Mostrar menos</string>
-  <string name="ac_gree">CA Gree</string>
+  <string name="ac_gree">AC Gree</string>
   <string name="ac_mode_auto">Auto</string>
   <string name="ac_mode_cold">Refrigeración</string>
   <string name="ac_mode_dry">Dehumidificar</string>
