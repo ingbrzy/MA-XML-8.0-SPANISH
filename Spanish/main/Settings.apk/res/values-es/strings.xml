@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Accounts_settings_title">Cuentas</string>
   <string name="aaid_info">"
@@ -118,6 +118,7 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
   <string name="add_fingerprint_put_finger_msg">Coloque el dedo en el sensor y levántelo cuando sienta una vibración.</string>
   <string name="add_fingerprint_put_finger_title">Añadir huella dactilar</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mueve el dedo ligeramente y colócalo de nuevo en el sensor para añadir las diferentes partes de tu huella dactilar.</string>
+  <string name="add_fingerprint_success_msg">Añadida correctamente</string>
   <string name="add_fingerprint_text">Añadir huella</string>
   <string name="add_fingerprint_toast_text">Coloque su dedo en el sensor</string>
   <string name="adding_profile_owner_warning">"Al continuar, el administrador gestionará tu usuario y podrá almacenar los datos asociados, junto con tus datos personales.
@@ -711,9 +712,12 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="button_light_timeout">Mantener encendidas las luces del botón</string>
   <string name="button_text_accept">Aceptar</string>
   <string name="button_text_accept_timer">Aceptar (%d)</string>
+  <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_login">Iniciar sesión</string>
   <string name="button_text_next_step">Proximo</string>
   <string name="button_text_next_step_timer">Siguiente (%d)</string>
+  <string name="button_text_ok">Aceptar</string>
+  <string name="button_text_ok_timer">Aceptar(%d)</string>
   <string name="button_text_reboot_now">Reiniciar</string>
   <string name="button_text_reject">Rechazar</string>
   <string name="cache_header_label">Caché</string>
@@ -1154,8 +1158,8 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_picker">Seleccionar dispositivo Bluetooth</string>
   <string name="device_reset_title">Restablecer dispositivo</string>
   <string name="device_sd_memory">Tarjeta SD</string>
-  <string name="device_share_loading">Crear imagen</string>
   <string name="device_security_settings_title">Seguridad</string>
+  <string name="device_share_loading">Crear imagen</string>
   <string name="device_status">Estado</string>
   <string name="device_status_activity_title">Estado</string>
   <string name="device_status_summary">Número de teléfono, señal, etc.</string>
@@ -1463,9 +1467,12 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fingerprint_add_max">Puedes añadir hasta %d huellas digitales</string>
   <string name="fingerprint_add_title">Añadir huella digital</string>
   <string name="fingerprint_and_password_entrance_title">Bloqueo de pantalla y huella dactilar</string>
+  <string name="fingerprint_apply_to_privacy_password">Contraseña de protección de privacidad</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">La contraseña de protección de privacidad protege sus mensajes, fotos, ficheros, notas y aplicaciones.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueo de pantalla</string>
   <string name="fingerprint_enroll_button_add">Añadir otra</string>
   <string name="fingerprint_enroll_button_next">Siguiente</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Huella (la huella se puede usar después de establecer una contraseña de bloqueo de pantalla)</string>
   <string name="fingerprint_for_keyguard_disabled">Se desactivó la huella dactilar por razones de seguridad.</string>
   <string name="fingerprint_identify_input_password_msg">Introduzca contraseña</string>
   <string name="fingerprint_identify_msg">Escaneando huella…</string>
@@ -1476,6 +1483,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="fingerprint_list_title">Huella</string>
   <string name="fingerprint_lock_first">Desbloquear primer espacio</string>
   <string name="fingerprint_lock_second">Desbloquear segundo espacio</string>
+  <string name="fingerprint_manage">Gestionar huella</string>
   <string name="fingerprint_manage_category_title">Administrar huellas</string>
   <string name="fingerprint_not_identified_msg">No se puede leer la huella dactilar. Introduzca su contraseña</string>
   <string name="fingerprint_not_recognized">No reconocido</string>
@@ -1720,6 +1728,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keyboard_layout_picker_title">Diseños de teclado</string>
   <string name="keyboard_settings_category">Teclado y métodos de introducción</string>
   <string name="keyboard_settings_title">Teclado de Android</string>
+  <string name="keyguard_advance_setting_title">Ajustes avanzados de desbloqueo</string>
   <string name="keyguard_left_function_chooser_hint_text">Acceso directo izquierdo cambiado a %s</string>
   <string name="keyguard_left_function_chooser_title">Aplicación</string>
   <string name="keyguard_left_function_title">Izquierda</string>
@@ -1778,6 +1787,8 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="launch_by_default">Abrir de forma predeterminada</string>
   <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
   <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
+  <string name="launcher_auto_fill_empty_title">Llenado Automáticamente las Celdas Vacías</string>
+  <string name="launcher_title">Lanzador</string>
   <string name="launching_cit">Ejecutando CIT</string>
   <string name="launching_pho">Enviando información del teléfono, por favor espere.</string>
   <string name="launching_rep">Notificando…</string>
@@ -1889,6 +1900,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lock_after_timeout_summary_with_exception">%1$s después de activar el modo de suspensión, salvo si %2$s mantiene el dispositivo desbloqueado</string>
   <string name="lock_immediately_summary_with_exception">Inmediatamente después de activar el modo de suspensión (salvo si %1$s mantiene el dispositivo desbloqueado)</string>
   <string name="lock_intro_message">Lock_intro_message</string>
+  <string name="lock_screen_cells_title">Celdas de Pantalla de Bloqueo</string>
   <string name="lock_screen_notifications_interstitial_message">¿Cómo quieres que se muestren las notificaciones cuando esté bloqueado el dispositivo?</string>
   <string name="lock_screen_notifications_interstitial_title">Notificaciones</string>
   <string name="lock_screen_notifications_summary_disable">No mostrar notificaciones</string>
@@ -1898,6 +1910,8 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lock_screen_secure_after_timeout_immediately_summary">Contraseña requerida inmediatamente.</string>
   <string name="lock_screen_secure_after_timeout_summary">Contraseña requerida en %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Contraseña requerida</string>
+  <string name="lock_screen_signature_summary">la firma se mostrará en la pantalla bloqueada</string>
+  <string name="lock_screen_signature_title">firma de pantalla de bloqueo</string>
   <string name="lock_screen_unlock_show">Ocultar pantalla de bloqueo</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente a la pantalla de inicio o introducción de la contraseña al activar</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Toca para cambiar</string>
@@ -2005,6 +2019,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="manage_condition_providers_summary_zero">Ninguna aplicación proporciona condiciones</string>
   <string name="manage_device_admin">Administradores de dispositivos</string>
   <string name="manage_device_admin_summary">Ver o desactivar administradores de dispositivo</string>
+  <string name="manage_fingerprint_text">Gestionar huellas</string>
   <string name="manage_mobile_plan_title">Plan móvil</string>
   <string name="manage_notification_access_summary_zero">Las aplicaciones no pueden leer notificaciones</string>
   <string name="manage_notification_access_title">Acceso a notificaciones</string>
@@ -2029,6 +2044,9 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
 Has accedido a las cuentas que se indican a continuación:
 "</string>
   <string name="master_clear_all">¿Borrar todos los datos de la memoria interna de su teléfono? ¡Esta acción no podrá deshacerse!</string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;El restablecimiento de ajustes de fábrica&amp;#8221; borrará todos los datos en su teléfono&lt;/b&gt;, incluyendo fotos, canciones, notas y otros datos personales. Asegúrese de pasar todos los datos importantes a su ordenador.</string>
+  <string name="master_clear_apply_step_2">Asegúrese de que todos los elementos importantes han sido copiados a su ordenador. Todos los datos de este dispositivo serán borrados durante el restablecimiento. &lt;b&gt;No podrá recuperar los elementos que no haya guardado.&lt;/b&gt;</string>
+  <string name="master_clear_apply_title">Atención</string>
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
   <string name="master_clear_desc">Esto borrará todos los datos del teléfono del &lt;b&gt;almacenamiento interno&lt;/b&gt;", incluyendo:
@@ -2155,6 +2173,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="miui_data_usage_menu_metered">Puntos de acceso móviles</string>
   <string name="miui_disturb_title">No molestar</string>
   <string name="miui_experience_optimization">Activar optimización MIUI</string>
+  <string name="miui_screen_config_title">Configuración de Pantalla del Lanzador de Miui</string>
   <string name="miui_silent_title">Modo silencio</string>
   <string name="mms_breathing_light_color_title">Color de mensajes</string>
   <string name="mms_breathing_light_freq_title">Frecuencia del pulso de mensajes</string>
@@ -2278,6 +2297,10 @@ Seleccione su sistema operativo:"</string>
   <string name="networks_title">Redes móviles</string>
   <string name="never">Nunca</string>
   <string name="new_backup_pw_prompt">Introduzca una contraseña nueva para las copias de seguridad completas.</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">La huella digital se puede utilizar para desbloquear la pantalla después de haberla añadido</string>
+  <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancelar</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">Añadir</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">Añadir huella</string>
   <string name="next_button_label">Siguiente</string>
   <string name="next_label">Siguiente</string>
   <string name="nfc_category_title">NFC</string>
@@ -2459,6 +2482,8 @@ Seleccione su sistema operativo:"</string>
   <string name="passwordIncorrect">La contraseña introducida no es correcta</string>
   <string name="password_entrance_title">Bloqueo de pantalla</string>
   <string name="password_guard">Contraseña</string>
+  <string name="password_turned_off_text">La contraseña ha sido desactivada</string>
+  <string name="password_turned_on_text">La contraseña ha sido activada</string>
   <string name="path_about_about_settings">Ajustes/Acerca del teléfono</string>
   <string name="path_accelerometer_settings">Ajustes/Pantalla/Autorrotar</string>
   <string name="path_access_control_settings">Ajustes/Ajustes adicionales/Privacidad/Ajustes de privacidad</string>
@@ -3056,6 +3081,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="screen">Pantalla</string>
   <string name="screen_button">Botónes en pantalla</string>
   <string name="screen_button_tips">Deslizar hacia abajo para ocultar botones en pantalla</string>
+  <string name="screen_cells_config_title">Configuración de Celdas de Pantalla</string>
   <string name="screen_color_and_optimize">Colores y contraste</string>
   <string name="screen_color_and_optimize_disabled">No se pudo ajustar la temperatura del color en el modo lectura</string>
   <string name="screen_color_temperature">Colores</string>
@@ -3481,7 +3507,7 @@ Para ello:
   <string name="show_hw_screen_updates_summary">Actualizar vistas de las ventanas creadas con GPU</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
   <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
-  <string name="show_owner_info_on_lockscreen_label">Mostrar datos del propietario en la pantalla de bloqueo</string>
+  <string name="show_owner_info_on_lockscreen_label">Mostrar firma en la Pantalla de bloqueo</string>
   <string name="show_password">Mostrar las contraseñas</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar información de perfil en pantalla bloqueo</string>
   <string name="show_rounded_corners">Mostrar esquinas redondeadas</string>
@@ -3592,8 +3618,8 @@ Es posible que el PIN no sea correcto."</string>
   <string name="slot_status_title">Info del IMEI</string>
   <string name="small_font">Pequeño</string>
   <string name="smallwindow_smartcover_title">Tapa frontal transparente</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">bloqueo o desbloqueo de pantalla con Smart Cover</string>
-  <string name="smartcover_sensitive_summary">bloquee o desbloquee el teléfono fácilmente con Smart Cover</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Modo Smart Cover</string>
+  <string name="smartcover_sensitive_summary">Bloquee o desbloquee el teléfono automáticamente usando la Smart Cover</string>
   <string name="smartcover_sensitive_title">Modo Smartcover</string>
   <string name="sms_application_title">Aplicación SMS</string>
   <string name="sms_change_default_dialog_text">¿Usar %1$s en lugar de %2$s como aplicación de SMS?</string>
@@ -4025,8 +4051,12 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="tts_status_requires_network">El idioma %1$s requiere conexión a Internet</string>
   <string name="tts_status_title">Estado del idioma predeterminado</string>
   <string name="turn_off_common_password_confirm_msg">También se desactivará el bloqueo de pantalla.</string>
+  <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
+  <string name="turn_off_keyguard_password_confirm_msg">¿Confirma que quiere activar la contraseña de la pantalla de bloqueo?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">No podrá utilizar la función de huella digital después de desactivar la contraseña de la pantalla de bloqueo</string>
   <string name="turn_off_radio">Desactivar señal móvil</string>
   <string name="turn_off_security_lock">Desactivar bloqueo</string>
+  <string name="turn_on_keyguard_password">Activar la contraseña de la pantalla de bloqueo</string>
   <string name="turn_on_radio">Activar señal móvil</string>
   <string name="turn_on_security_lock">Seleccione bloqueo de pantalla</string>
   <string name="under_keyguard">Apagar pantalla</string>
