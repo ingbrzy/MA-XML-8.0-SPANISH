@@ -339,8 +339,8 @@ está encendido y la Transferencia activada"</string>
   <string name="wifi_title">Configuración Wi-Fi</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">No se pudo conectar al administrador de descargas, comprobar la descarga en el control de Aplicaciones.</string>
-  <string name="xiaomi_external_storage_unavailable">El almacenamiento no está disponible, comprobar la tarjeta SD.</string>
+  <string name="xiaomi_connect_download_manager_fail">"No se pudo iniciar la descarga. Asegúrese de que el Administrador de Descargas funciona correctamente."</string>
+  <string name="xiaomi_external_storage_unavailable">"El almacenamiento no está disponible, compruebe su tarjeta SD."</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Router Mi</string>
