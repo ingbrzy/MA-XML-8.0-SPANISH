@@ -147,4 +147,30 @@
         <item quantity="other">%d contactos no sincronizados</item>
         <item quantity="one">%d contacto no sincronizado</item>
     </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Hace una hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Justo ahora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">En media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">en %d minutos</item>
+        <item quantity="one">en 1 minuto</item>
+   </plurals>
 </resources>
