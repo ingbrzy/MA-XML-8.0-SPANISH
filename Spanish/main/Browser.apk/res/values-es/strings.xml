@@ -47,6 +47,7 @@
   <string name="action_menu_useful_page">Añadir acceso directo</string>
   <string name="action_menu_useful_page_added">Añadida a la página de inicio</string>
   <string name="actionbar_share">Compartir</string>
+  <string name="actionbar_textselection_title">Selección de texto</string>
   <string name="actionbar_web_search">Búsqueda en la web</string>
   <string name="adblock_notification">%d anuncios bloqueados</string>
   <string name="adblock_rules_not_updated_toast">"No se pudo actualizar"</string>
@@ -56,7 +57,7 @@
   <string name="adblock_websites_settings_title">Sitios bloqueados</string>
   <string name="add_bookmark_group">Agregar grupo</string>
   <string name="add_bookshelf_popup_text">Añadido a la estantería</string>
-  <string name="add_favorites_to">Añadir favoritos a</string>
+  <string name="add_favorites_to">Agregar a favoritos</string>
   <string name="add_new_bookmark">Agregar un marcador</string>
   <string name="add_new_quicklink">Añadir atajo</string>
   <string name="add_ql_bm_title">Guardar</string>
@@ -83,6 +84,7 @@
   <string name="aqi_quality_index_moderate">Moderado</string>
   <string name="aqi_quality_index_pure">Excelente</string>
   <string name="aqi_quality_index_unhealthy">Insalubre</string>
+  <string name="autofill_keyboard_accessory_content_description">Sugerencias disponibles</string>
   <string name="autofill_popup_content_description">Mostrando ventana de relleno automático</string>
   <string name="autologin_bar_error">"Hubo un error al conectarte a la cuenta"</string>
   <string name="autologin_bar_hide_text">Ocultar</string>
@@ -198,9 +200,9 @@
 está a punto de suceder"</string>
   <string name="custom_head_card_text_incognito">"Estás ahora en modo incógnito
 Las páginas que visites no se verán reflejadas en el historial"</string>
-  <string name="data_traffic_prompt_change">"Usar su conexión de datos para ver vídeos incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales."</string>
-  <string name="data_traffic_prompt_message">"Usar su conexión de datos para navegar incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales."</string>
-  <string name="data_traffic_prompt_message_short">"El uso de datos móviles para transmitir vídeo puede hacer que usted se exceda el límite de su plan de datos."</string>
+  <string name="data_traffic_prompt_change">Usar su conexión de datos para ver vídeos incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
+  <string name="data_traffic_prompt_message">Usar su conexión de datos para navegar incrementará el uso de datos. Si excede el límite de su plan de datos, su operador puede cargarle gastos adicionales.</string>
+  <string name="data_traffic_prompt_message_short">El uso de datos móviles para transmitir vídeo puede hacer que usted se exceda el límite de su plan de datos.</string>
   <string name="data_traffic_prompt_title">Aviso de uso de datos</string>
   <string name="date_picker_dialog_clear">Limpiar</string>
   <string name="date_picker_dialog_other_button_label">Otros</string>
@@ -360,7 +362,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="location">Dirección</string>
   <string name="login_failed_toast">"No hubo conexión, actualiza e intenta de nuevo"</string>
   <string name="low_memory_error">No se puede completar la anterior operación debido a la poca memoria</string>
-  <string name="low_memory_toast">No se puede usar el Navegador debido a la poca memoria</string>
+  <string name="low_memory_toast">"No se puede usar el Navegador debido a la falta de memoria"</string>
   <string name="max_tabs_warning">Limite de pestañas alcanzado</string>
   <string name="maximum_input_alert">Máxima entrada 2048 caracteres</string>
   <string name="media_error_action_refresh">Refrescar</string>
@@ -373,9 +375,9 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="media_error_timeout">Tiempo excedido de trasmisión por Red</string>
   <string name="media_error_video_not_exist">El vídeo no existe</string>
   <string name="media_player_error_button">Aceptar</string>
-  <string name="media_player_error_text_invalid_progressive_playback">"Este vídeo no se puede transmitir en este dispositivo."</string>
-  <string name="media_player_error_text_unknown">"Este video no puede ser reproducido."</string>
-  <string name="media_player_error_title">"No se puede reproducir vídeo"</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Lo sentimos, este video no es válido para la transmisión a este dispositivo</string>
+  <string name="media_player_error_text_unknown">Lo sentimos, este vídeo no puede ser reproducido.</string>
+  <string name="media_player_error_title">No se puede reproducir el vídeo</string>
   <string name="media_player_loading_video">Cargando el vídeo</string>
   <string name="menu_addtodesk">Añadir a la pantalla de inicio</string>
   <string name="menu_exit_nightmode">Salir</string>
@@ -427,9 +429,9 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuichromium_error_page_reload">Recargar</string>
   <string name="miuichromium_error_page_safe_network">Modo seguro</string>
   <string name="miuichromium_error_page_server_error">Estan intentando conectarse demasiados dispositivos</string>
-  <string name="miuichromium_error_page_title">"No se puede encontrar esta página"</string>
-  <string name="miuichromium_error_page_url">Ver la página: URL</string>
-  <string name="miuichromium_error_page_wlan">Configuración Wi-Fi</string>
+  <string name="miuichromium_error_page_title">Ocurrió un error</string>
+  <string name="miuichromium_error_page_unknown_error">¡Vaya!, algo salió mal</string>
+  <string name="miuichromium_error_page_wlan">Encender Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activación requerida</string>
   <string name="miuishare_account_activate_ok">Activar</string>
   <string name="miuishare_account_login_cancel">Cancelar</string>
@@ -484,6 +486,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="paused_waiting_to_retry">Esperando a reintentar…</string>
   <string name="pay_failed_toast">"No se puede realizar el pago"</string>
   <string name="pay_success_toast">Pagado con éxito</string>
+  <string name="permission_alert_window">Para usar la función, abra la opción del sistema Mostrar ventana emergente.</string>
+  <string name="permission_unknown">Opción Desconocida</string>
   <string name="popup_window_attempt">¿Permitir a este sitio abrir una ventana emergente?</string>
   <string name="positive_confirm_message">Apagar de todas formas</string>
   <string name="pref_accessibility">Accesibilidad</string>
@@ -742,6 +746,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="unsecurity_url_toast">Esta web no es segura</string>
   <string name="up_to_loading_tips">Soltar para refrescar</string>
   <string name="update_no_network_toast">"No se puede conectar a la red"</string>
+  <string name="updating_chrome">Actualización de Chrome...</string>
   <string name="uploads_disabled">Carga de archivos está desactivada</string>
   <string name="url_copy_done">URL copiado en el portapapeles</string>
   <string name="url_find_on_page_result">Ver en el Navegador</string>
