@@ -6,7 +6,7 @@
 Los mensajes sólo aparecerán en el Segundo espacio."</string>
   <string name="PrivacyContactDes2">"Si usa los mensajes privados en el Primer espacio,
 esta característica se añadirá al Segundo espacio de forma automática."</string>
-  <string name="add_finger_print">Añadir huella digital</string>
+  <string name="add_finger_print">Añadir huella dactilar</string>
   <string name="appData">Aplicaciones instaladas</string>
   <string name="app_name">Security Core</string>
   <string name="back">Atrás</string>
@@ -50,7 +50,7 @@ para poder verlos en cualquier momento"</string>
   <string name="deleteAll">Eliminar todo</string>
   <string name="deleteDataConfirm">Se eliminarán todos los elementos</string>
   <string name="deleteDataDes">No ha seleccionado artículos para mover. No será capaz de restaurar los elementos después de que se eliminen.</string>
-  <string name="delete_fingerprint">Borrar la huella digital</string>
+  <string name="delete_fingerprint">Borrar la huella dactilar</string>
   <string name="delete_fingerprint_desc">"La huella registrada del Segundo espacio será eliminada junto con la contraseña"</string>
   <string name="delete_phone_fingerprint">Eliminar huella del Segundo espacio</string>
   <string name="delete_src_file">Eliminar archivos</string>
@@ -73,8 +73,8 @@ para poder verlos en cualquier momento"</string>
   <string name="err_volume_not_enough">No hay suficiente espacio de almacenamiento</string>
   <string name="exit_private_space">Cambiar</string>
   <string name="finger_print_num">Huella dactilar %d</string>
-  <string name="finger_print_of_use">Uso de huellas digitales</string>
-  <string name="fingerprint_removal_failed">No se pudo borrar la huella digital</string>
+  <string name="finger_print_of_use">Uso de huellas dactilares</string>
+  <string name="fingerprint_removal_failed">No se pudo borrar la huella dactilar</string>
   <string name="goToSecondSpacce">Ir al Segundo espacio</string>
   <string name="go_on_import">Mantener la importación</string>
   <string name="guide_contact_sub_title_desc">"Los contactos añadidos al Segundo espacio se mantendrán privados.
@@ -146,7 +146,7 @@ De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de
   <string name="restore_show_toast">No mostrar mensajes privados</string>
   <string name="retain_src_file">Mantener los archivos</string>
   <string name="retain_src_photo">Mantener las fotos</string>
-  <string name="scanner_fingerprint">Escaneando la huella digital…</string>
+  <string name="scanner_fingerprint">Escaneando la huella dactilar…</string>
   <string name="scanner_fingerprint_enter_second">"Escanee la huella del Segundo espacio 
 para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="scanner_fingerprint_error_tips_desc">Imposible hallar huellas compatibles. Añadir nueva huella para el Segundo espacio</string>
@@ -158,7 +158,7 @@ para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="second_owner_finger_print">Huella del Segundo espacio</string>
   <string name="second_space_finger_printf_desc">Añadir huella exclusivamente para entrar al Segundo espacio</string>
   <string name="second_space_finger_printf_title">Huella del Segundo espacio</string>
-  <string name="select_existed_fingerprint">Seleccione la huella digital</string>
+  <string name="select_existed_fingerprint">Seleccione la huella dactilar</string>
   <string name="serNameSummary">Segundo espacio</string>
   <string name="setSecondSpacePassword">Establecer la contraseña del Segundo espacio</string>
   <string name="setSecondSpacePasswordGuide">Establecer la contraseña del Segundo espacio</string>
@@ -168,7 +168,7 @@ para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="set_space_pwd_detail">Puede acceder al Segundo espacio usando la contraseña</string>
   <string name="set_space_pwd_suc">Añadida contraseña del Segundo espacio</string>
   <string name="setting_finger_print_sub_title">Asegúrese que la huella sea muy distinta a la del Primer espacio</string>
-  <string name="setting_finger_print_title">Añadir huellas digitales del Segundo espacio</string>
+  <string name="setting_finger_print_title">Añadir huellas dactilares del Segundo espacio</string>
   <string name="setting_fingerprint_title">Añadir contraseña del Segundo espacio</string>
   <string name="setting_is_show_text_contacts">Establecer los contactos privados y los mensajes</string>
   <string name="settings_cross_notification_summary">Recibir notificaciones del otro espacio</string>
@@ -188,8 +188,8 @@ para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="spaceSetting">Ajustes</string>
   <string name="startSet">Configurar</string>
   <string name="startTransfer">Transferir</string>
-  <string name="start_input_finger_print">Añadir huella digital</string>
-  <string name="start_new_fingerprint">Agregar una nueva huella digital</string>
+  <string name="start_input_finger_print">Añadir huella dactilar</string>
+  <string name="start_new_fingerprint">Agregar una nueva huella dactilar</string>
   <string name="start_new_fingerprint_tips">"Utilice la huella del Segundo espacio para entrar
 al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="start_setting_guide_desc_title">Hay algunas cosas por establecer</string>
