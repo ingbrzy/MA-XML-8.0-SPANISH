@@ -3412,9 +3412,9 @@ Para ello:
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">La opción de bloqueo de pantalla esta desactivada. Puede seguir utilizando su huella dactilar para autorizar las compras y el acceso de aplicaciones. &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Listo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustración con la ubicación del sensor de huellas dactilares y dispositivo</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_message">Localiza el sensor de huellas digitales situado en la parte trasera del teléfono.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Localiza el sensor de huellas dactilares situado en la parte trasera del teléfono.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Localiza el sensor</string>
-  <string name="security_settings_fingerprint_enroll_finish_message">Cuando aparezca este icono, puedes usar tu huella digital para identificarte o autorizar una compra.</string>
+  <string name="security_settings_fingerprint_enroll_finish_message">Cuando aparezca este icono, puedes usar tu huella dactilar para identificarte o autorizar una compra.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Huella dactilar añadida</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancelar</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continuar</string>
@@ -4053,7 +4053,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="turn_off_common_password_confirm_msg">También se desactivará el bloqueo de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
   <string name="turn_off_keyguard_password_confirm_msg">¿Confirma que quiere activar la contraseña de la pantalla de bloqueo?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">No podrá utilizar la función de huella digital después de desactivar la contraseña de la pantalla de bloqueo</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">No podrá utilizar la función de huella dactilar después de desactivar la contraseña de la pantalla de bloqueo</string>
   <string name="turn_off_radio">Desactivar señal móvil</string>
   <string name="turn_off_security_lock">Desactivar bloqueo</string>
   <string name="turn_on_keyguard_password">Activar la contraseña de la pantalla de bloqueo</string>
@@ -4074,13 +4074,13 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="unlock_change_lock_pattern_title">Cambiar patrón desbloqueo</string>
   <string name="unlock_change_lock_pin_title">Cambiar PIN</string>
   <string name="unlock_disable_frp_warning_content_password">Las funciones de protección del dispositivo no funcionarán sin tu contraseña.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">Las funciones de protección del dispositivo no funcionarán sin tu contraseña. Las huellas digitales guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">Las funciones de protección del dispositivo no funcionarán sin tu contraseña. Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
   <string name="unlock_disable_frp_warning_content_pattern">Las funciones de protección del dispositivo no funcionarán sin tu patrón.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Las funciones de protección del dispositivo no funcionarán sin tu patrón. Las huellas digitales guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Las funciones de protección del dispositivo no funcionarán sin tu patrón. Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
   <string name="unlock_disable_frp_warning_content_pin">Las funciones de protección del dispositivo no funcionarán sin tu PIN.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">Las funciones de protección del dispositivo no funcionarán sin tu PIN. Las huellas digitales guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla. Las huellas digitales guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla. Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
   <string name="unlock_disable_frp_warning_ok">Sí, eliminar</string>
   <string name="unlock_disable_frp_warning_title">¿Eliminar protección del dispositivo?</string>
   <string name="unlock_disable_lock_password_summary">Eliminar la contraseña de desbloqueo</string>
@@ -4112,7 +4112,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="unlock_set_unlock_pin_summary">Introduzca cuatro dígitos para desbloquear el dispositivo</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Establecer bloqueo de pantalla</string>
-  <string name="unlock_setup_wizard_fingerprint_details">Una vez que hayas configurado un bloqueo de pantalla, podrás configurar también la huella digital en Ajustes &gt; Seguridad.</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Una vez que hayas configurado un bloqueo de pantalla, podrás configurar también la huella dactilar en Ajustes &gt; Seguridad.</string>
   <string name="unmount_inform_text">Se desactivará la tarjeta SD.</string>
   <string name="untitled_apn">Sin título</string>
   <string name="update_progress_for_updates">Actualizando (%s)</string>
