@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="action_firewall_setting">Lista de bloqueo</string>
   <string name="activity_not_found">No se encontró aplicación para ejecutar acción</string>
@@ -394,8 +394,8 @@
   <string name="pref_forward_title">Reenviar</string>
   <string name="pref_messages_to_save">Establecer numero de mensajes a guardar</string>
   <string name="pref_mms_settings_title">Mensajes multimedia (MMS)</string>
-  <string name="pref_notification_settings_title">Notificaciones</string>
   <string name="pref_msg_trash_bin_title">Mensajes eliminados recientemente</string>
+  <string name="pref_notification_settings_title">Notificaciones</string>
   <string name="pref_other_title">Otros</string>
   <string name="pref_show_blocked_messages_summary">Mostrar los SMS bloqueados en la lista de conversaciones</string>
   <string name="pref_show_sms_template_in_summary">Detectar automáticamente OTP en mensajes SMS</string>
@@ -519,7 +519,7 @@
   <string name="second_mms_introduction">Ir al segundo espacio</string>
   <string name="second_mms_switch">Cambiar</string>
   <string name="secs">segs</string>
-  <string name="security_alert_desc">El remitente no está en tus contactos. &lt;u&gt;&amp;lt;font color=red&amp;gt;Reportar este n&amp;#250;mero&amp;lt;/font&amp;gt;&lt;/u&gt;</string>
+  <string name="security_alert_desc">El remitente no está en tus contactos. <u>&lt;font color=red&gt;Reportar este n&#250;mero&lt;/font&gt;</u></string>
   <string name="security_alert_desc_highlight">Report this number</string>
   <string name="security_alert_dialog_desc">Reportar este número (%s) y mensaje enviándolo a Xiaomi para que lo revise.</string>
   <string name="security_alert_dialog_title">Reportar</string>
@@ -659,7 +659,7 @@ Intentos realizados: %s"</string>
   <string name="url_fraud_risky_alert">"La página web a la que está intentando acceder puede ser peligrosa. ¿Visita de todos modos?
 %s"</string>
   <string name="url_fraud_title">El sitio web puede ser falso</string>
-  <string name="url_fraud_visit">&lt;u&gt;Visitar de todos modos&lt;/u&gt;</string>
+  <string name="url_fraud_visit"><u>Visitar de todos modos</u></string>
   <string name="url_result_safe">Esta URL es segura</string>
   <string name="url_scanning">Verificación de URL…</string>
   <string name="user_agreement1">Lea los términos aplicables cuidadosamente antes de instalar software adicional o usar este producto.</string>

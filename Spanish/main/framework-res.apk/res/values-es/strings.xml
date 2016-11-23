@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="BaMmi">Restricción de llamadas</string>
   <string name="CLIRDefaultOffNextCallOff">El Identificador de llamadas está predeterminado en no restringido. Llamada siguiente: no restringido</string>
@@ -157,7 +157,7 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
   <string name="bugreport_title">Iniciar informe de errores</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancelar</string>
-  <string name="candidates_style">&lt;u&gt;candidatos&lt;/u&gt;</string>
+  <string name="candidates_style"><u>candidatos</u></string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Es posible que se instalen secuencias de comandos para que el contenido de las aplicaciones sea más accesible.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Incluye datos personales, como números de tarjeta de crédito y contraseñas.</string>
   <string name="capability_desc_canRequestTouchExploration">Los elementos que toques se dirán en voz alta, y podrás explorar la pantalla mediante gestos.</string>
@@ -485,7 +485,7 @@ con %s"</string>
   <string name="keyguard_password_enter_pin_prompt">Nuevo código PIN</string>
   <string name="keyguard_password_enter_puk_code">Escribe el código PUK y un nuevo código PIN.</string>
   <string name="keyguard_password_enter_puk_prompt">Código PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;Toca para ingresar la contraseña&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint"><font size=\"17\">Toca para ingresar la contraseña</font></string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto</string>
   <string name="kg_enter_confirm_pin_hint">Confirma el código PIN</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Dibujaste incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos más, se te solicitará que desbloquees tu dispositivo mediante el uso de una cuenta de correo.
@@ -499,7 +499,7 @@ con %s"</string>
   <string name="kg_invalid_sim_pin_hint">Escribe un PIN que tenga de cuatro a ocho números.</string>
   <string name="kg_invalid_sim_puk_hint">El código PUK debe tener 8 números.</string>
   <string name="kg_login_account_recovery_hint">"\"¿Olvidaste tu nombre de usuario o contraseña?
-Accede a \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
+Accede a \"<b>google.com/accounts/recovery</b>."</string>
   <string name="kg_login_checking_password">Comprobando la cuenta…</string>
   <string name="kg_login_instructions">Para desbloquear, accede con tu cuenta de Google.</string>
   <string name="kg_login_invalid_input">Nombre de usuario o contraseña incorrectos</string>
@@ -568,7 +568,7 @@ Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendid
   <string name="lockscreen_failed_attempts_now_wiping">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Se restablecerán los valores predeterminados de fábrica del dispositivo.</string>
   <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"\"¿Olvidaste tu nombre de usuario o contraseña?
-Accede a \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
+Accede a \"<b>google.com/accounts/recovery</b>."</string>
   <string name="lockscreen_glogin_checking_password">Comprobando…</string>
   <string name="lockscreen_glogin_forgot_pattern">Desbloqueo de cuenta</string>
   <string name="lockscreen_glogin_instructions">Para desbloquear, accede con tu cuenta de Google.</string>
@@ -1002,7 +1002,7 @@ para la cuenta %s"</string>
   <string name="permlab_writeSettings">modificar la configuración del sistema</string>
   <string name="permlab_writeSyncSettings">activar y desactivar la sincronización</string>
   <string name="perms_description_app">Proporcionado por %1$s</string>
-  <string name="perms_new_perm_prefix">&lt;font size=\"12\" fgcolor=\"#ff33b5e5\"&gt;NUEVO: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix"><font size=\"12\" fgcolor=\"#ff33b5e5\">NUEVO: </font></string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Asistente</string>
   <string name="phoneTypeCallback">Devolución de llamada</string>
@@ -1205,13 +1205,13 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="sms_control_no">Rechazar</string>
   <string name="sms_control_title">Enviando mensajes SMS</string>
   <string name="sms_control_yes">Permitir</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;Se aplicar&amp;#225;n cargos en la cuenta del dispositivo m&amp;#243;vil.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details"><b>Se aplicar&#225;n cargos en la cuenta del dispositivo m&#243;vil.</b></string>
   <string name="sms_short_code_confirm_allow">Enviar</string>
   <string name="sms_short_code_confirm_always_allow">Permitir siempre</string>
   <string name="sms_short_code_confirm_deny">Cancelar</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; desea enviar un mensaje a &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">No permitir nunca</string>
-  <string name="sms_short_code_details">&lt;b&gt;Es posible que se apliquen cargos&lt;/b&gt; en la cuenta del dispositivo m&amp;#243;vil.</string>
+  <string name="sms_short_code_details"><b>Es posible que se apliquen cargos</b> en la cuenta del dispositivo m&#243;vil.</string>
   <string name="sms_short_code_remember_choice">Recordar mi elección</string>
   <string name="sms_short_code_remember_undo_instruction">Puedes cambiar esta opción más tarde en Configuración &gt; Aplicaciones.</string>
   <string name="smv_application">La aplicación %1$s (proceso %2$s) ha infringido su política StrictMode de aplicación automática.</string>

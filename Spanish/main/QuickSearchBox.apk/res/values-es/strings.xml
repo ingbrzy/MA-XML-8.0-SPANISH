@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Búsqueda</string>
   <string name="application_desc">Aplicación</string>
@@ -8,7 +8,7 @@
   <string name="baidu_search_url_from_launcher">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_minus_one">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_systemui">https://www.google.com/search?q=%s</string>
-  <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&client=android&q=</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_history">Borrar historial</string>
   <string name="clear_shortcuts">Borrar accesos directos</string>
@@ -73,7 +73,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
   <string name="search_suggestion">Consejos</string>
   <string name="search_videos">Buscar Videos</string>
-  <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
+  <string name="search_videos_url">mivideo://video/search?id=%s&ref=migs-local-video</string>
   <string name="search_widget">Buscar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="settings_description">Nombres de aplicaciones instaladas</string>

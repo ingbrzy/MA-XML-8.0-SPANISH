@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="SMS_and_MMS">SMS y MMS</string>
   <string name="Setting_lock">Ajustes</string>
@@ -779,20 +779,20 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="network_roaming_exception_tips">No se pueden utilizar datos móviles en roaming para conectarse a la red.</string>
   <string name="network_route_exception_detail">"Puede haber un problema con el router al que está conectado:
 
-"&lt;b&gt;"1. Problemas de red Wi-Fi publica
-"&lt;/b&gt;"Si esta conectado a una red Wi-Fi publica, el numero de usuarios conectados a la red podra estar haciendola lenta o causando problemas de conectividad. Cambie a otra red e intente nuevamente.
+"<b>"1. Problemas de red Wi-Fi publica
+"</b>"Si esta conectado a una red Wi-Fi publica, el numero de usuarios conectados a la red podra estar haciendola lenta o causando problemas de conectividad. Cambie a otra red e intente nuevamente.
 
-"&lt;b&gt;"2. Problemas de proveedores de servicios de Internet
-"&lt;/b&gt;" Asegurese que su cuenta esta en buenos terminos con su proveedor de servicios de internet.
+"<b>"2. Problemas de proveedores de servicios de Internet
+"</b>" Asegurese que su cuenta esta en buenos terminos con su proveedor de servicios de internet.
 
-"&lt;b&gt;"3. Problemas de hardware del router
-"&lt;/b&gt;"Intente reiniciar el router o comprobar la configuración de administración de su router.
+"<b>"3. Problemas de hardware del router
+"</b>"Intente reiniciar el router o comprobar la configuración de administración de su router.
 
-"&lt;b&gt;"4. Otras cuestiones de router
-"&lt;/b&gt;"Lea las instrucciones que vienen con el router y restaure las configuraciones de fabrica.
+"<b>"4. Otras cuestiones de router
+"</b>"Lea las instrucciones que vienen con el router y restaure las configuraciones de fabrica.
 
-"&lt;b&gt;"5. Asegurese de que el router esta conectado correctamente
-"&lt;/b&gt;"Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, pongase en contacto con su proveedor de servicios de internet."</string>
+"<b>"5. Asegurese de que el router esta conectado correctamente
+"</b>"Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, pongase en contacto con su proveedor de servicios de internet."</string>
   <string name="network_sim_exception_detail">"Puede haber un problema con la tarjeta SIM:
 
            1. Asegúrese de que su cuenta está en buenos términos con su compañía. Trate de usar la tarjeta SIM de un amigo y vea si puede conectar con normalidad.

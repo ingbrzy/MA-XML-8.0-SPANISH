@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Result_title">Resultado</string>
   <string name="accessibility_settings_activity_title">Accesibilidad</string>
@@ -112,7 +112,7 @@
   <string name="callFailed_low_battery">Batería baja</string>
   <string name="callFailed_noSignal">No hay señal.</string>
   <string name="callFailed_number_unreachable">No se puede establecer conexión con el número.</string>
- <string name="callFailed_outOfService">Red móvil no disponible</string>
+  <string name="callFailed_outOfService">Red móvil no disponible</string>
   <string name="callFailed_out_of_network">La llamada se realizó desde fuera de la red.</string>
   <string name="callFailed_powerOff">Sin red</string>
   <string name="callFailed_server_error">Se produjo un error de servidor. Vuelve a intentarlo más tarde.</string>
@@ -512,7 +512,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="incall_error_wfc_only_no_wireless_network">Conéctese a una red inalámbrica para realizar una llamada.</string>
   <string name="incall_status_dialed_mmi">Iniciando secuencia MMI…</string>
   <string name="input_password">Introduzca la contraseña</string>
-   <string name="internation_remain_minutes">（o %1$s %2$s de tiempo de habla internacional）</string>
+  <string name="internation_remain_minutes">（o %1$s %2$s de tiempo de habla internacional）</string>
   <string name="international_calls">Solo internacional</string>
   <string name="international_dial_complete_intention">Hacer llamadas internacionales con tarifas más bajas</string>
   <string name="international_dial_complete_no">Ahora no</string>
@@ -595,7 +595,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="livetalk_name">Paquete de recarga</string>
   <string name="livetalk_package_introduction_text">Llamadas baratas a cualquier teléfono</string>
   <string name="livetalk_provider">Proporcionado por %1$s</string>
-  <string name="livetalk_provision">&lt;b&gt;T&amp;#233;rminos de Servicio&lt;/b&gt;</string>
+  <string name="livetalk_provision"><b>T&#233;rminos de Servicio</b></string>
   <string name="livetalk_provision_content">Es necesarios que estés de acuerdo con %1$s. Para utilizar este servicio, puede ser necesario conectarse a Internet o o enviar un SMS para activar el servicio.</string>
   <string name="livetalk_provision_title">Términos de Servicio</string>
   <string name="livetalk_service_and_short_number_not_support">Los números de servicio y números cortos no son admitidos.</string>

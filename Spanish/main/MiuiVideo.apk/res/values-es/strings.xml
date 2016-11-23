@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_app_name">Reproductor de Vídeo</string>
   <string name="about_title">Acerca de</string>
@@ -49,7 +49,7 @@
   <string name="app_wifi_mode">Actualizar automáticamente</string>
   <string name="app_wifi_mode_summary">Actualizar automáticamente al iniciar aplicación y con conexión Wi-Fi</string>
   <string name="authenticated_failed">"No se pudo iniciar sesión"</string>
-  <string name="authenticating">&lt;CDATA&gt;Comprobando&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="authenticating"><CDATA>Comprobando&#8230;</CDATA></string>
   <string name="authenticating_manually">"Imposible autentificar"</string>
   <string name="average_score">Puntuación media</string>
   <string name="avg_score">%.1f</string>
@@ -102,8 +102,8 @@
   <string name="debug_mode_desc">Arranca en modo depuración y muestra la ID del vídeo en la parte superior izquierda</string>
   <string name="declaration">Términos de uso</string>
   <string name="declaration_allow">Acepto</string>
-  <string name="declaration_content">1. Mediante el uso de esta aplicación incluyendo Sohu vídeo, iQIYI y el servicio a otros proveedores de contenido, usted acepta "&lt;a href="http://www.miui.com/res/doc/eula.html"&gt;Acuerdo del Usuario&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html"&gt;Privacy Policy&lt;/a&gt;".
-2. Para mejorar la experiencia del usuario, vamos a recoger algunos datos sobre el dispositivo y el contenido que ve. Sohu y iQIYI recibirá también el IMEI del dispositivo.&amp;#8203;
+  <string name="declaration_content">1. Mediante el uso de esta aplicación incluyendo Sohu vídeo, iQIYI y el servicio a otros proveedores de contenido, usted acepta "<a href="http://www.miui.com/res/doc/eula.html">Acuerdo del Usuario</a> and <a href="http://www.miui.com/res/doc/privacy.html">Privacy Policy</a>".
+2. Para mejorar la experiencia del usuario, vamos a recoger algunos datos sobre el dispositivo y el contenido que ve. Sohu y iQIYI recibirá también el IMEI del dispositivo.&#8203;
 3. Nuestro plugin de vídeo HD será instalado automáticamente.
 4. Esta característica necesita conectarse a internet para funcionar con normalidad."</string>
   <string name="declaration_content_td_custom">Esta característica necesita conectarse a internet para funcionar normalmente.</string>
@@ -196,7 +196,7 @@
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="live">Directo</string>
-  <string name="loading">&lt;CDATA&gt;Cargando&lt;/CDATA&gt;</string>
+  <string name="loading"><CDATA>Cargando</CDATA></string>
   <string name="loading_video_netplay_label">Cargando…</string>
   <string name="loading_video_netplay_label_v5">Cargando…</string>
   <string name="local_favorite_empty_title">Vacío</string>
@@ -512,7 +512,7 @@
   <string name="subscribe">Suscribir</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">Ajustes de sistema</string>
-  <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
+  <string name="tab_loading"><CDATA>...</CDATA></string>
   <string name="temp_play_history_button_label">Historial</string>
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">"A continuación: "</string>
@@ -546,7 +546,7 @@
   <string name="user_tab">Mi aplicación</string>
   <string name="version_select">Seleccionar versión</string>
   <string name="version_select_summary">Selecciona versión alfa, desarrollo o estable</string>
-  <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
+  <string name="vertical_line"><CDATA> | </CDATA></string>
   <string name="video">Vídeo</string>
   <string name="video_app_update">Actualizar</string>
   <string name="video_bbs">Únete al foro</string>
@@ -604,8 +604,8 @@
   <string name="vp_hint">Atención</string>
   <string name="vp_install">Instalar</string>
   <string name="vp_install_title">Instalar</string>
-  <string name="vp_loading">&lt;CDATA&gt;Descargando&lt;/CDATA&gt;</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;Descargando...&lt;/CDATA&gt;</string>
+  <string name="vp_loading"><CDATA>Descargando</CDATA></string>
+  <string name="vp_loading_download"><CDATA>Descargando...</CDATA></string>
   <string name="vp_loading_video">Cargando…</string>
   <string name="vp_low_definition">BAJA</string>
   <string name="vp_maintitlearea">Ver vídeo en HD en cualquier parte</string>
@@ -659,7 +659,7 @@
   <string name="vp_using_4_3">Forzar 4:3</string>
   <string name="vp_video_bad_network_condition">Mala conectividad de red, inténtelo más tarde</string>
   <string name="vp_video_invalid_cp_info">Información inválida del proveedor de video, por favor reinicie la aplicación</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;Cargando...&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading"><CDATA>Cargando...</CDATA></string>
   <string name="vp_video_plugin_installation">Instalando plugin %1$s para una mejor calidad de imagen...</string>
   <string name="waiting_to_download">Esperando</string>
   <string name="wasu">Wasu</string>
