@@ -3376,7 +3376,7 @@ Para ello:
   <string name="search_xspace">Aplicaciones duplicadas;Duplicar aplicaciones</string>
   <string name="search_zen_mode_option_miui_silent">Modo Silencio;Silencio;Silencio;Silenciar</string>
   <string name="second_space">Segundo espacio</string>
-  <string name="secure_keyguard_business_title">>Establecer bloqueo de pantalla</string>
+  <string name="secure_keyguard_business_title">&gt;Establecer bloqueo de pantalla</string>
   <string name="secure_lock_encryption_warning">Has activado un servicio de accesibilidad, por lo que el dispositivo no utilizará el bloqueo de pantalla para mejorar el cifrado de datos.</string>
   <string name="security_enable_widgets_disabled_summary">Inhabilitado por administrador</string>
   <string name="security_enable_widgets_title">Habilitar widgets</string>
@@ -3845,7 +3845,7 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
 
 La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio de almacenamiento interno. Algunas aplicaciones no funcionarán hasta que finalice el proceso."</string>
   <string name="storage_wizard_migrate_confirm_body">
-    <b>La migración durara ^1 y permitira liberar ^2 de espacio de almacenamiento en ^3.</b>
+    <b>La migración durará ^1 y permitirá liberar ^2 de espacio de almacenamiento en ^3.</b>
   </string>
   <string name="storage_wizard_migrate_confirm_next">Mover</string>
   <string name="storage_wizard_migrate_confirm_title">Migración de datos</string>
@@ -4469,11 +4469,11 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/No permitir búsquedas de Wi-Fi basadas en la cantidad de tráfico de datos presente en la interfaz</string>
   <string name="wifi_and_mobile_skipped_message">"Si te saltas el paso de la conexión Wi-fi:
 
- "<li>Tu telefono no tendra conexión a Internet.</li>"
+ "<li>Tu teléfono no tendrá conexión a Internet.</li>"
 
- "<li>No recibiras actualizaciones de software hasta que te conectes a Internet.</li>"
+ "<li>No recibirás actualizaciones de software hasta que te conectes a Internet.</li>"
 
- "<li>No podras activar las funciones de protección del dispositivo en este momento.</li>"</string>
+ "<li>No podrás activar las funciones de protección del dispositivo en este momento.</li>"</string>
   <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
@@ -4708,7 +4708,7 @@ de Wi‑Fi"</string>
   <string name="wifi_setup_connect">Conectar</string>
   <string name="wifi_setup_description_connected">Pulsa <b>Siguiente</b>" para continuar con la configuración.
 
- Pulsa "<b>Atras</b> para conectarse a otra red Wi-Fi.</string>
+ Pulsa "<b>Atrás</b> para conectarse a otra red Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">Conectando (puede tardar unos minutos)…</string>
   <string name="wifi_setup_detail">Detalles de red</string>
   <string name="wifi_setup_eap_not_supported">Durante la configuración no puede definir una conexión Wi-Fi EAP, pero puede hacerlo cuando haya finalizado a través de Ajustes &gt; Conexiones inalámbricas y redes.</string>
