@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ac_mode_array">
-        <item>Refrigeración</item>
-        <item>Calentamiento</item>
+        <item>Enfriamiento</item>
+        <item>Calefacción</item>
         <item>Deshumidificación</item>
         <item>Ventilador</item>
     </string-array>
     <string-array name="answer">
         <item>El dispositivo sólo puede emparejarse con Mi TV, Mi Box y otros dispositivos Android que utilizan Wi-Fi.</item>
-        <item>Asegúrese de que ha seleccionado el modelo correcto de aire acondicionado en el proceso de emparejamiento. Siga las indicaciones de su dispositivo hasta que se complete el emparejamiento.</item>
+        <item>"Asegúrese de haber seleccionado el modelo de Aire acondicionado correcto en el proceso de emparejamiento y siga las indicaciones en su dispositivo hasta que se complete el emparejamiento".</item>
         <item>No. Actualmente puede utilizar Mi 4, Mi 4c y Redmi Note 2 como dispositivos de infrarrojos.</item>
-    </string-array>
-    <string-array name="assistant_tab">
-        <item>Vídeo</item>
-        <item>Capturas de pantalla</item>
-        <item>Aplicación</item>
-    </string-array>
-    <string-array name="epg_channel_tab">
-        <item>Complete</item>
-        <item>Collect</item>
-        <item>CCTV</item>
-        <item>TV</item>
-        <item>HD</item>
-        <item>Recent</item>
-    </string-array>
-    <string-array name="epg_channel_tab_actionbar">
-        <item>Todos los canales</item>
-        <item>Canales favoritos</item>
-        <item>CCTV Channel</item>
-        <item>Canal de TV vía satélite</item>
-        <item>Canales de HD</item>
-        <item>Vistas recientemente</item>
     </string-array>
     <string-array name="epg_week_tab">
         <item>Dom</item>
@@ -43,7 +22,7 @@
     </string-array>
     <string-array name="question">
         <item>¿Por qué mi teléfono sigue buscando dispositivos inalámbricos?</item>
-        <item>¿Por qué sólo puedo encender el aire acondicionado y no puedo apagarlo?</item>
+        <item>"¿Por qué sólo puedo encender el aire acondicionado y no puedo apagarlo?"</item>
         <item>¿Puedo usar Mi 3, Mi 2 y Redmi como un control remoto de infrarrojos?</item>
     </string-array>
 </resources>
