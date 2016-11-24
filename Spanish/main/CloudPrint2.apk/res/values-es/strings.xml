@@ -8,8 +8,8 @@
   <string name="abc_action_mode_done">Listo</string>
   <string name="abc_activity_chooser_view_see_all">Ver todo</string>
   <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
-  <string name="abc_capital_off">NO</string>
-  <string name="abc_capital_on">SÍ</string>
+  <string name="abc_capital_off">APAGADO</string>
+  <string name="abc_capital_on">ENCENDIDO</string>
   <string name="abc_search_hint">Buscar…</string>
   <string name="abc_searchview_description_clear">Borrar consulta</string>
   <string name="abc_searchview_description_query">Consulta</string>
@@ -39,7 +39,7 @@
   <string name="add_people_title">Añadir usuarios</string>
   <string name="add_printer">Añadir impresora</string>
   <string name="add_printer_failed">No se ha podido añadir la impresora</string>
-  <string name="adding_printer">Añadiendo impresora...</string>
+  <string name="adding_printer">Añadiendo impresora…</string>
   <string name="app_name">Cloud Print</string>
   <string name="apply">Aplicar</string>
   <string name="cancel">Cancelar</string>
@@ -59,7 +59,7 @@
   <string name="cdd_option_dpi_single">%1$d PPP</string>
   <string name="cdd_option_dpi_vertical">PPP vertical</string>
   <string name="cdd_option_duplex_long_edge">Borde largo</string>
-  <string name="cdd_option_duplex_off">No</string>
+  <string name="cdd_option_duplex_off">Apagado</string>
   <string name="cdd_option_duplex_short_edge">Borde corto</string>
   <string name="cdd_option_fit_to_page_fill">Rellenar página</string>
   <string name="cdd_option_fit_to_page_fit">Ajustar a página</string>
@@ -110,7 +110,7 @@
   <string name="common_google_play_services_update_title">Actualiza los Servicios de Google Play</string>
   <string name="common_google_play_services_updating_text">%1$s no se ejecutará hasta que finalice la actualización en curso de los Servicios de Google Play.</string>
   <string name="common_google_play_services_updating_title">Actualizando Servicios de Google Play</string>
-  <string name="common_open_on_phone">Abrir en teléfono</string>
+  <string name="common_open_on_phone">Abrir en el teléfono</string>
   <string name="common_signin_button_text">Iniciar sesión</string>
   <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
   <string name="content_description_account_image">Imagen de la cuenta</string>
@@ -179,7 +179,7 @@ Error: %1$s"</string>
   <string name="failure_server_failed_response">El servidor ha devuelto un estado de error</string>
   <string name="feature_off">Desactivar</string>
   <string name="feature_on">Activar</string>
-  <string name="fedex_tos_text">" Al imprimir a FedEx Office, acepta sus "&lt;a href="http://www.fedex.com/us/office/copyprint/online/googlecloudprint/termsandconditions"&gt;términos de uso&lt;/a&gt;". "</string>
+  <string name="fedex_tos_text">" Al imprimir en FedEx Office, acepta sus "&lt;a href="http://www.fedex.com/us/office/copyprint/online/googlecloudprint/termsandconditions"&gt;términos de uso&lt;/a&gt;". "</string>
   <string name="fedex_tos_title">Términos y condiciones de Fedex</string>
   <string name="gcp_add_account">Añadir cuenta</string>
   <string name="help_and_feedback">Ayuda y sugerencias</string>
@@ -223,7 +223,7 @@ Error: %1$s"</string>
   <string name="play_store_tagline">Imprime estés donde estés desde cualquier smartphone o tablet Android.</string>
   <string name="play_store_whats_new">"
 - Ahora se admiten impresoras de Google Cloud Print 2.0 (impresión local sin controladores y fácil configuración)
-- Nuevas funciones de administración de impresoras (Configuración &amp;gt Impresión &amp;gt Cloud Print &amp;gt menú Ajustes &amp;gt Administrar impresoras)
+- Nuevas funciones de administración de impresoras (Configuración &amp;gt Impresión &amp;gt Cloud Print &amp;gt menú ’Ajustes’ &amp;gt Administrar impresoras)
 - Mejoras de la interfaz de usuario y corrección de errores"</string>
   <string name="please_confirm_registration_on_device">Confirmar registro en dispositivo</string>
   <string name="pref_about">Sobre mí</string>
