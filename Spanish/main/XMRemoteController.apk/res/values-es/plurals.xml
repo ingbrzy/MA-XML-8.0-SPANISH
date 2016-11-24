@@ -9,12 +9,12 @@
         <item quantity="one">%1$s usuario</item>
     </plurals>
     <plurals name="days_ago">
-           <item quantity="other">%1$d hace días</item>
-           <item quantity="one">%1$d hace un dia</item>
+           <item quantity="other">Hace %1$d días</item>
+           <item quantity="one">Hace %1$d dia</item>
      </plurals>
      <plurals name="hours_ago">
-           <item quantity="other">%1$d horas atras</item>
-           <item quantity="one">%1$d hace una hora</item>
+           <item quantity="other">Hace %1$d horas</item>
+           <item quantity="one">Hace %1$d hora</item>
      </plurals>
      <plurals name="match_brand_selection_des">
            <item quantity="other">%d marcas disponibles</item>
