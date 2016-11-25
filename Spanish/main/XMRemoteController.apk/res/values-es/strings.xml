@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ir al inicio</string>
   <string name="abc_action_bar_up_description">Ir arriba</string>
@@ -570,7 +570,7 @@ espere un momento después de la tarea."</string>
   <string name="passport_bad_authentication">Usuario o contraseña incorrectos</string>
   <string name="passport_btn_return">Atrás</string>
   <string name="passport_button_cancel">Cancelar</string>
-  <string name="passport_change_account"><u>Cambiar cuenta</u></string>
+  <string name="passport_change_account">&lt;u&gt;Cambiar cuenta&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Cambiar números</string>
   <string name="passport_checking_account">Comprobando contraseña…</string>
   <string name="passport_checking_input">Comprobando entrada…</string>
@@ -611,7 +611,7 @@ link enviado a su correo electrónico.</string>
   <string name="passport_error_verify_code">El código que introdujo es incorrecto</string>
   <string name="passport_failed_to_send_activate_email">No se pudo enviar el correo de activación</string>
   <string name="passport_find_password_on_web_msg">Visita account.mi.com para restablecer su contraseña.</string>
-  <string name="passport_forget_password"><u>Contraseña olvidada</u></string>
+  <string name="passport_forget_password">&lt;u&gt;Contraseña olvidada&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Contraseña olvidada</string>
   <string name="passport_get_back_pwd">Recuperar contraseña de la cuenta</string>
   <string name="passport_get_verify_code">Obteniendo código</string>
@@ -637,7 +637,6 @@ link enviado a su correo electrónico.</string>
   <string name="passport_login_short">Iniciar sesión</string>
   <string name="passport_login_title">Inciar sesión con Cuenta Mi</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;Iniciar sesión con correo eléctronico o Cuenta Mi&lt;/u&gt;</string>
-  <string name="passport_login_with_email_or_id"><u>Iniciar sesión con tu correo eléctronico o tu Cuenta Mi</u></string>
   <string name="passport_next">Siguiente</string>
   <string name="passport_notification_title">Error de identificación de %1$s</string>
   <string name="passport_password_req_notice">La contraseña debe tener 8-16 caracteres de longitud e incluir números y letras (sensible a mayúsculas).</string>
@@ -662,21 +661,12 @@ link enviado a su correo electrónico.</string>
   <string name="passport_reg_using_other_phone">Use un número de teléfono alternativo</string>
   <string name="passport_reg_using_other_phone_number_prompt">Crear una nueva cuenta usando </string>
   <string name="passport_reg_using_phone_number_prompt">Crear cuenta usando un número de teléfono</string>
-  <string name="passport_reg_success_summary">%1$s se ha asociado con su cuenta. Se puede utilizar para acceder o para restablecer su contraseña.</string>
-  <string name="passport_reg_type_email">Crear una cuenta utilizando correo electrónico </string>
-  <string name="passport_reg_type_other_ways"><u>Crear cuenta de otras maneras</u></string>
-  <string name="passport_reg_type_other_ways_title">Crear cuenta de otras maneras</string>
-  <string name="passport_reg_using_other_phone">Registrar con otro número de teléfono</string>
-  <string name="passport_reg_using_other_phone_number_prompt">Registrar con otro número de teléfono</string>
-  <string name="passport_reg_using_phone_number_prompt">Registrar un número de teléfono</string>
   <string name="passport_reg_via_sms_alert">Su operador puede cobrar por un mensaje SMS que se utiliza para activar este servicio.</string>
   <string name="passport_reging">Creando cuenta…</string>
   <string name="passport_register">Crea una cuenta</string>
   <string name="passport_register_account_goto_email">Ir a su bandeja de entrada</string>
   <string name="passport_register_account_verified_confirm">Cuenta verificada</string>
   <string name="passport_register_by_email">&lt;u&gt;Crear una cuenta utilizando dirección correo electrónico &lt;/u&gt;</string>
-  <string name="passport_register_account_verified_confirm">Ya ha verificado su cuenta</string>
-  <string name="passport_register_by_email"><u>Crear una cuenta utilizando correo electrónico </u></string>
   <string name="passport_register_restricted">Demasiadas cuentas se han asociado con este número, pruebe con otro</string>
   <string name="passport_register_restricted_title">No se pudo utilizar este número de teléfono</string>
   <string name="passport_reject_recycle_account">No</string>
@@ -737,7 +727,6 @@ link enviado a su correo electrónico.</string>
   <string name="press_to_match">Toque para emparejar</string>
   <string name="prev_remote">Control remoto anterior</string>
   <string name="privacy_content">"Lea la &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Política de privacidad&lt;/a&gt; de Xiaomi y el &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Acuerdo de usuario&lt;/a&gt; antes de utilizar Mi Remote. Se necesita acceso a Internet y servicios de ubicación para que la aplicación funcione normalmente."</string>
-  <string name="privacy_content">"Lea la Política de privacidad de Xiaomi <a href="http://www.miui.com/res/doc/privacy/en.html">Política de privacidad</a> y el <a href="http://www.miui.com/res/doc/eula/en.html">Acuerdo de usuario</a> antes de utilizar Mi Remote. Se necesita acceso a Internet y servicios de localización para que la aplicación funcione normalmente."</string>
   <string name="privacy_nohit">No volver a mostrar</string>
   <string name="privacy_title">Términos y Condiciones</string>
   <string name="program_booking_book_filter_book_status">Estado de programación</string>
