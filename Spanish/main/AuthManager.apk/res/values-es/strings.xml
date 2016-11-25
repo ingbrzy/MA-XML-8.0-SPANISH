@@ -55,12 +55,12 @@ Deberá actualizar primero la versión para el desarrollador de MIUI para poder 
   <string name="Generic_UserApp">Descargadas (%d)</string>
   <string name="Generic_Version">Versión %1$s</string>
   <string name="HIPS_Action_Accept">Permitir</string>
-  <string name="HIPS_Action_Accept_Colored"><font color="#478800">Permitir</font></string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Permitir&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Once">Permitir una vez</string>
   <string name="HIPS_Action_Prompt">Preguntar</string>
-  <string name="HIPS_Action_Prompt_Colored"><font color="#FF8A00">;Preguntar</font></string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Preguntar&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Denegar</string>
-  <string name="HIPS_Action_Reject_Colored"><font color="#DF0000">Denegar</font></string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Denegar&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Once">Denegar una vez</string>
   <string name="HIPS_Group_DataPrivacy">Privacidad</string>
   <string name="HIPS_Group_Expense">Seguridad</string>
@@ -253,7 +253,7 @@ Deberá actualizar primero la versión para el desarrollador de MIUI para poder 
   <string name="HIPS_SecurityPrompt_Remember">Recordar preferencia</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s está tratando de %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permisos</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d permisos - <font color="#478800">Fiables</font></string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d permisos - &lt;font color=#478800&gt;Fiables&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">OK</string>
   <string name="Privacy_App_Installed">Instalado con éxito</string>
   <string name="Privacy_App_Launch">Ejecutar</string>
