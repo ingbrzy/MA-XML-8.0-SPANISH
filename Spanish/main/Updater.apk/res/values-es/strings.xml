@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_device">Acerca del teléfono</string>
   <string name="active_xiaomi_account">Activo</string>
@@ -108,7 +108,7 @@
   <string name="menu_title_download_current_rom">Descargar el paquete de actualización</string>
   <string name="menu_title_pick_rom_file">Seleccionar el paquete de actualización</string>
   <string name="menu_title_recovery">Reiniciar en modo Recuperación</string>
-  <string name="miui_BBS">" \"\""&lt;a href="http://bbs.miui.com"&gt;Ir al foro MIUI&lt;/a&gt;"\"\" "</string>
+  <string name="miui_BBS">" \"\""<a href="http://bbs.miui.com">Ir al foro MIUI</a>"\"\" "</string>
   <string name="miui_summary_has_new_version">"  Hay disponible una actualización  "</string>
   <string name="miui_summary_no_new_version">No hay actualizaciones disponibles</string>
   <string name="miui_summary_now_version">No fue posible la conexión</string>
