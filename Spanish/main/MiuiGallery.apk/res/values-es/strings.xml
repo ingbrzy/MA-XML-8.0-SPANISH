@@ -169,10 +169,10 @@
   <string name="confirm_merge_face_albums">" "<Data> ¿Combinar este álbum con %s? </Data>" "</string>
   <string name="confirm_merge_many_face_albums">" "<Data> ¿Combinar estos álbumes con %s? </Data>" "</string>
   <string name="confirm_not_face">Sin resultados</string>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; ¿Esta seguro que es &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Esta persona se movera al álbum \"%2$s\". &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" ¿Esta seguro que este no es &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; ¿Esta seguro que estas personas son &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estas personas se moveran al álbum \"%2$s\". &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; ¿Esta seguro que este no es &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; ¿Está seguro de que es &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Esta persona se moverá al álbum \"%2$s\". &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" ¿Está seguro de que este no es &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; ¿Está seguro de que estas personas son &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estas personas se moverán al álbum \"%2$s\". &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; ¿Está seguro de que este no es &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_tip">Contacto</string>
   <string name="context_menu_add_contact">Añadir a contactos</string>
   <string name="context_menu_copy">Copiar</string>
@@ -227,7 +227,7 @@
   <string name="delete_to_trash_tips">Puede ver las fotos eliminadas recientemente en Ajustes y Papelera</string>
   <string name="deny">Rechazar</string>
   <string name="detail_title">Info. detallada</string>
-  <string name="disable_auto_upload_tip">"Fotos nuevas y eliminadas no serán sincronizadas Mi Cloud. Este albúm será movido a otros álbumes."</string>
+  <string name="disable_auto_upload_tip">"Las fotos nuevas y eliminadas no serán sincronizadas Mi Cloud. Este álbum será movido a otros álbumes."</string>
   <string name="disable_auto_upload_title">Desactivar la sincronización con Mi Cloud</string>
   <string name="do_not_remind_me">No mostrar de nuevo</string>
   <string name="do_not_save">No guardar</string>
@@ -272,7 +272,7 @@
   <string name="error_link_has_expired">La URL ha caducado</string>
   <string name="error_not_acceptable">La sincronización se ha desactivado.</string>
   <string name="error_repeat_apply">Su álbum compartido está listo</string>
-  <string name="error_share_not_support">Esta función todavía no está incluída</string>
+  <string name="error_share_not_support">Esta función todavía no está incluida</string>
   <string name="error_share_with_creator">Ya es miembro de este álbum</string>
   <string name="error_socket_timeout">Tiempo de conexión de red excedido</string>
   <string name="error_title">No se pudo sincronizar</string>
@@ -374,7 +374,7 @@
   <string name="image_invalid_path">Ruta inválida</string>
   <string name="image_not_found">No se puede encontrar la imagen</string>
   <string name="image_quota_fulfiled">Demasiadas imágenes. Borre alguna imagen y vuelva a intentarlo.</string>
-  <string name="impunity_declaration_settings">Notificación de conexión a internet</string>
+  <string name="impunity_declaration_settings">Notificación de conexión a Internet</string>
   <string name="impunity_declaration_summary">Mostrar notificación de conexión a Internet cada vez que se abra la Galería</string>
   <string name="initializing_cloud">Inicializando…</string>
   <string name="initializing_sdk">Iniciando…</string>
@@ -434,7 +434,7 @@
   <string name="move_to_other_albums_tip">La sincronización con Mi Cloud se desactivará si mueve este álbum a otros álbumes. ¿Mover ahora?</string>
   <string name="must_pick_file">Seleccionar foto</string>
   <string name="name_split">,</string>
-  <string name="need_to_turn_on_network">El dispositivo no está conectado a internet</string>
+  <string name="need_to_turn_on_network">El dispositivo no está conectado a Internet</string>
   <string name="need_to_turn_on_sync">Activar sincronización con Mi Cloud</string>
   <string name="need_to_turn_on_sync_first">Active primero la sincronización con Mi Cloud</string>
   <string name="need_to_turn_on_wlan">Primero conéctese a la red Wi-Fi</string>
@@ -615,7 +615,7 @@
   <string name="send_too_many_files_error">No es posible enviar más de %d elementos a vez</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Establecer como fondo de pantalla de bloqueo</string>
-  <string name="set_as_wallpaper_description">Esta imagen es una miniatura. ¿Descargar la originial？</string>
+  <string name="set_as_wallpaper_description">Esta imagen es una miniatura. ¿Descargar la original？</string>
   <string name="set_as_wallpaper_title">Establecer como fondo</string>
   <string name="set_face_group_toast_msg_new_user">Mantenga presionada a una persona para combinar o ignorar.</string>
   <string name="set_face_group_toast_msg_old_user">Mantenga presionada la foto de una persona para crear grupos (familia, amigos, compañeros de clase, etc.)</string>

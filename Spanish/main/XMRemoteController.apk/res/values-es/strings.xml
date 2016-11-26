@@ -20,7 +20,7 @@
   <string name="ac_gree">AC Gree</string>
   <string name="ac_mode_auto">Auto</string>
   <string name="ac_mode_cold">Refrigeración</string>
-  <string name="ac_mode_dry">Dehumidificar</string>
+  <string name="ac_mode_dry">Deshumidificar</string>
   <string name="ac_mode_fan">Dirección</string>
   <string name="ac_mode_hot">Calefacción</string>
   <string name="ac_set_timer_title_text">Seleccione la hora y pulse el botón de temporización en el Aire Acondicionado</string>
@@ -97,7 +97,7 @@
   <string name="application">Aplicaciones</string>
   <string name="auto_tune">Sintonización automática</string>
   <string name="auto_tune_hint_text">Cambiar automáticamente el canal después de encender, el teléfono enviará un código en determinado intervalo&lt;Canal+&gt;Botón</string>
-  <string name="auto_tune_running">Sintonización automática ejecutandose...</string>
+  <string name="auto_tune_running">Sintonización automática ejecutándose...</string>
   <string name="back">Atrás</string>
   <string name="backup">Copia de seguridad</string>
   <string name="backup_failed">Copia de seguridad fallida,inténtelo de nuevo</string>
@@ -167,7 +167,7 @@
   <string name="current_stb">Actual: </string>
   <string name="current_version_frame">Versión actual: %s</string>
   <string name="current_version_latest">No hay actualizaciones disponibles</string>
-  <string name="data_request_error">No se pudo obtener informción</string>
+  <string name="data_request_error">No se pudo obtener información</string>
   <string name="day">d</string>
   <string name="day_string">d</string>
   <string name="decrease">Bajar</string>
@@ -216,7 +216,7 @@
   <string name="epg_bottom_title_textview_str">Toque para emparejar decodificador</string>
   <string name="epg_cancel_book_program">%1$s [%2$s] Cancel</string>
   <string name="epg_change_channel">Cambiar canales</string>
-  <string name="epg_change_channel_casting">Cambiar de canal (emitiendose)</string>
+  <string name="epg_change_channel_casting">Cambiar de canal (emitiéndose)</string>
   <string name="epg_change_channel_not_casting">Cambiar de canal (Se emitirá en %1$s)</string>
   <string name="epg_channel_group_open">Mostrar todo</string>
   <string name="epg_channel_operation_tip">Pulsa el canal para editar o para añadir a favoritos</string>
@@ -246,7 +246,7 @@
   <string name="epg_loading_hint">Cambie los canales en su decodificador utilizando el teléfono</string>
   <string name="epg_more_comment_list_title">Más comentarios destacados (%1$d)</string>
   <string name="epg_name">Programas de televisión</string>
-  <string name="epg_no_booking_data">No hay inforamación de programación</string>
+  <string name="epg_no_booking_data">No hay información de programación</string>
   <string name="epg_no_more_latest_comment">No hay más comentarios</string>
   <string name="epg_no_program_data">Sin información</string>
   <string name="epg_no_search_result">Sin resultados</string>
@@ -272,7 +272,7 @@
   <string name="episode_intro_title_text">Resumen de episodio</string>
   <string name="episode_title">Episodio %1$d</string>
   <string name="episodes_list">Episodios seleccionados</string>
-  <string name="error_input_dialogue_guide">Inserta un código de 4 digitos</string>
+  <string name="error_input_dialogue_guide">Inserta un código de 4 dígitos</string>
   <string name="exit">Salir</string>
   <string name="external_app">Instalar aplicación</string>
   <string name="external_photo">Ver fotos</string>
@@ -311,7 +311,7 @@
   <string name="get_data_fail_tips">No se puede obtener información, inténtelo de nuevo</string>
   <string name="get_info_failed">No se pudo obtener información</string>
   <string name="get_location_fail_tip">No se pudo establecer la ubicación, seleccione una ciudad</string>
-  <string name="guid_one">· Conécte el decodificador/TV a la misma red Wi-Fi que su teléfono.</string>
+  <string name="guid_one">· Conecte el decodificador/TV a la misma red Wi-Fi que su teléfono.</string>
   <string name="guid_three">· Algunos controles pueden no estar disponibles si su televisor o decodificador no soporta Android</string>
   <string name="guid_two">· Los dispositivos se detectarán y se mostrarán en esta página</string>
   <string name="guid_zero">. Su dispositivo no soporta dispositivos infrarrojos, pero soporta controles remotos Wi-Fi.</string>
@@ -558,7 +558,7 @@ espere un momento después de la tarea."</string>
   <string name="outdoor_temp_unknown">Desconocido</string>
   <string name="partner">Asistencia</string>
   <string name="passport_access_denied">Acceso denegado</string>
-  <string name="passport_account_hint_text">Correo eléctronico o ID Cuenta MI</string>
+  <string name="passport_account_hint_text">Correo electrónico o ID Cuenta MI</string>
   <string name="passport_account_identity_title">Comprobar tu identidad</string>
   <string name="passport_account_name">Cuenta: %1$s</string>
   <string name="passport_account_not_activated">La cuenta no ha sido activada</string>
@@ -566,7 +566,7 @@ espere un momento después de la tarea."</string>
   <string name="passport_active_email_visit">Compruebe su bandeja de entrada %s</string>
   <string name="passport_activing_account">Activando..</string>
   <string name="passport_area_code_hot">NORMALMENTE USADO</string>
-  <string name="passport_area_code_title">Código del páis</string>
+  <string name="passport_area_code_title">Código del país</string>
   <string name="passport_bad_authentication">Usuario o contraseña incorrectos</string>
   <string name="passport_btn_return">Atrás</string>
   <string name="passport_button_cancel">Cancelar</string>
@@ -591,18 +591,18 @@ link enviado a su correo electrónico.</string>
   <string name="passport_error_dup_phone">Este número de teléfono ya está asociado con otra cuenta</string>
   <string name="passport_error_email">El correo eléctronico que introdujo no es válido</string>
   <string name="passport_error_empty_captcha_code">Introduzca el captcha</string>
-  <string name="passport_error_empty_email">Introduca su correo eléctronico</string>
-  <string name="passport_error_empty_phone_num">Introduca su número de teléfono</string>
-  <string name="passport_error_empty_pwd">Introduca su contraseña</string>
-  <string name="passport_error_empty_username">Introduca su nombre de usuario</string>
-  <string name="passport_error_empty_vcode">Introduca el código de verificación</string>
+  <string name="passport_error_empty_email">Introduzca su correo eléctronico</string>
+  <string name="passport_error_empty_phone_num">Introduzca su número de teléfono</string>
+  <string name="passport_error_empty_pwd">Introduzca su contraseña</string>
+  <string name="passport_error_empty_username">Introduzca su nombre de usuario</string>
+  <string name="passport_error_empty_vcode">Introduzca el código de verificación</string>
   <string name="passport_error_illegal_pwd">Contraseña inválida</string>
   <string name="passport_error_invalid_dev_id">ID del dispositivo no válido</string>
   <string name="passport_error_invalid_phone_num">Número de teléfono inválido</string>
   <string name="passport_error_login">No se pudo iniciar sesión</string>
   <string name="passport_error_network">No se pudo conectar a la red</string>
   <string name="passport_error_no_sms_service">No se pudo enviar el SMS.La red móvil no está disponible.</string>
-  <string name="passport_error_phone_error">Número de telefono incorrecto</string>
+  <string name="passport_error_phone_error">Número de teléfono incorrecto</string>
   <string name="passport_error_server">Error en el servidor</string>
   <string name="passport_error_sim_not_ready">No se pudo encontrar ninguna SIM</string>
   <string name="passport_error_ssl_hand_shake">No se pudo conectar al servidor</string>
@@ -656,7 +656,7 @@ link enviado a su correo electrónico.</string>
   <string name="passport_reg_success">Cuenta creada</string>
   <string name="passport_reg_success_summary">%1$s se ha asociado con su cuenta. Se puede utilizar para identificarse o para restablecer su contraseña.</string>
   <string name="passport_reg_type_email">Use dirección de correo electrónico</string>
-  <string name="passport_reg_type_other_ways"><u>Use su dirección de correo electrónico o un múmero alternativo</u></string>
+  <string name="passport_reg_type_other_ways"><u>Use su dirección de correo electrónico o un número alternativo</u></string>
   <string name="passport_reg_type_other_ways_title">Crear una Cuenta Mi</string>
   <string name="passport_reg_using_other_phone">Use un número de teléfono alternativo</string>
   <string name="passport_reg_using_other_phone_number_prompt">Crear una nueva cuenta usando </string>
@@ -700,10 +700,10 @@ link enviado a su correo electrónico.</string>
   <string name="passport_verification_failed">Error de autenticación</string>
   <string name="passport_verify">Verificar</string>
   <string name="passport_wait_for_sms_prompt">¿Empezar de nuevo ahora? Los mensajes de verificación pueden tardar 10 minutos hasta que lleguen cuando el teléfono está dentro del alcance de la red de su compañía.</string>
-  <string name="passport_wrong_captcha">El código que introduciste es incorrecto</string>
+  <string name="passport_wrong_captcha">El código que introdujo es incorrecto</string>
   <string name="passport_wrong_password">La contraseña es incorrecta</string>
   <string name="passport_wrong_phone_number_format">El formato del número de teléfono que ha introducido no es válido</string>
-  <string name="passport_wrong_vcode">El código que introduciste es incorrecto</string>
+  <string name="passport_wrong_vcode">El código que introdujo es incorrecto</string>
   <string name="passport_xiaomi_account_dspt">Use su Cuenta Mi para iniciar sesión en Mi Cloud, MIUI Theme Store, y Mi Store, desde cualquier lugar.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Se requiere una conexión a Internet para acceder a su Cuenta Mi. Acceso a la ubicación y Mi Cloud se activarán automáticamente.</string>
@@ -779,7 +779,7 @@ link enviado a su correo electrónico.</string>
   <string name="reset">Reiniciar</string>
   <string name="respond">Funciona</string>
   <string name="retry_for_more">Toque para ver más</string>
-  <string name="room_guide_tips">"Controla multiples dispositivos
+  <string name="room_guide_tips">"Controla múltiples dispositivos
 
  directamente desde tu pantalla de Bloqueo"</string>
   <string name="save">Guardar</string>
@@ -838,7 +838,7 @@ link enviado a su correo electrónico.</string>
   <string name="select_brand">Seleccionar %s</string>
   <string name="select_controller">Selecciona control remoto</string>
   <string name="select_done">Hecho</string>
-  <string name="select_dvb_carrier">Elegir provedor de servicios</string>
+  <string name="select_dvb_carrier">Elegir proveedor de servicios</string>
   <string name="select_screenshot_topic">Elegir tema</string>
   <string name="select_stb">Seleccionar decodificador</string>
   <string name="service_info">Información sobre el servicio</string>
@@ -914,7 +914,7 @@ link enviado a su correo electrónico.</string>
   <string name="speed_up_channel_switch">Cambie canales en algunos decodificadores más rápido</string>
   <string name="splash_add_device_des">Comience agregando algún dispositivo</string>
   <string name="splash_desc">Controle todo con sólo un toque.</string>
-  <string name="start_auto_tune">Sintonizar automaticamente al encender</string>
+  <string name="start_auto_tune">Sintonizar automáticamente al encender</string>
   <string name="start_diagnosis">Probar</string>
   <string name="start_match">Emparejar</string>
   <string name="status_bar_notification_info_overflow">999+</string>
@@ -931,7 +931,7 @@ link enviado a su correo electrónico.</string>
   <string name="succeed_title">Emparejado</string>
   <string name="suggest_use_wifi_rc">*Control remoto por Wi-Fi también contiene características semejantes como emisión de vídeo, aplicaciones, etc.</string>
   <string name="supported_by_kookong">Asistencia técnica por Kookong</string>
-  <string name="supporting_soon">Proximamente</string>
+  <string name="supporting_soon">Próximamente</string>
   <string name="swipe_loading">Un momento…</string>
   <string name="switch_place">Elegir ciudad</string>
   <string name="technical_support">Soporte técnico</string>
@@ -962,8 +962,8 @@ link enviado a su correo electrónico.</string>
   <string name="tv_mirror_intro">Mostrar controles en pantalla en modo horizontal</string>
   <string name="tv_power">Encender/Apagar TV</string>
   <string name="udt_conn_error">Dispositivo no conectado</string>
-  <string name="udt_timeout_error">Error en el tiempo de conexión. Comprueba tu conexión a internet</string>
-  <string name="udt_version_error">Error de versión,actualize la aplicación a la versión más reciente</string>
+  <string name="udt_timeout_error">Error en el tiempo de conexión. Comprueba tu conexión a Internet</string>
+  <string name="udt_version_error">Error de versión, actualice la aplicación a la versión más reciente</string>
   <string name="unknown">Desconocido</string>
   <string name="unkown_device_input_hint">Introduzca el modelo de dispositivo</string>
   <string name="unkown_device_main">No puede emparejar este dispositivo.</string>
@@ -987,7 +987,7 @@ Para cambiar, mantenga presionado el botón de encendido de TV"</string>
   <string name="user_title">Perfil</string>
   <string name="video">Vídeos</string>
   <string name="video_actor_label">"Reparto: "</string>
-  <string name="video_all_category">Todas las categorias</string>
+  <string name="video_all_category">Todas las categorías</string>
   <string name="video_area_label">"País: "</string>
   <string name="video_category_filter">%s filtro</string>
   <string name="video_channel_entry">Enter the %s channel</string>
