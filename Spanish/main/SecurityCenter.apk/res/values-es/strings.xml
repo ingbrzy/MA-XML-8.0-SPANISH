@@ -364,7 +364,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="confirm_fingerprint_msg">Coloque su dedo en el sensor</string>
   <string name="confirm_reject_all_permission">¿Restringir todas las aplicaciones utilizando esta característica?</string>
   <string name="connect_internet_by_mobiledata">Conexión de datos móviles</string>
-  <string name="connect_internet_by_usbshare">Compartir internet a través de USB</string>
+  <string name="connect_internet_by_usbshare">Compartir Internet a través de USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="connecting">Conectando…</string>
   <string name="continue_install">Instalar</string>
@@ -377,12 +377,12 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="cta_dialog_msg">Seguridad requiere conexión a Internet para obtener actualizaciones, así como el acceso a la ubicación para funcionar normalmente.</string>
   <string name="cta_dialog_title">Avisos y términos de privacidad</string>
   <string name="cta_settings">Permitir conexión de la red</string>
-  <string name="current_network_state_not_need_diagnose">La conexión a internet es normal.</string>
+  <string name="current_network_state_not_need_diagnose">La conexión a Internet es normal.</string>
   <string name="daily_limit_and_lock_screen">Límite de datos y notificaciones</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">Ha superado el límite diario de datos.</string>
   <string name="daily_pkg_traffic">Límite de datos pico</string>
-  <string name="data_network_blocked_notification_title">Sin conexión a internet</string>
+  <string name="data_network_blocked_notification_title">Sin conexión a Internet</string>
   <string name="data_usage_correction_timeout_body">Pulse para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Tiempo agotado de sincronización de uso de datos</string>
   <string name="data_usage_disabled_dialog">Usted ha alcanzado el límite de uso de datos de su plan. Si pasa su límite, su compañía puede cobrarle cargos adicionales.</string>
@@ -399,7 +399,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="data_usage_restricted_body">Pulse para activar los datos en segundo plano.</string>
   <string name="data_usage_restricted_title">Datos en segundo plano restringidos</string>
   <string name="data_usage_warning_body">Toque para ver los detalles de uso de datos.</string>
-  <string name="data_usage_warning_title">Al vertencia de uso de datos</string>
+  <string name="data_usage_warning_title">Advertencia de uso de datos</string>
   <string name="datausage_ignore_app_list_count">Ignorando uso de datos de %d aplicaciones</string>
   <string name="declaration_dialog_msg">Esta característica puede ayudar a realizar un seguimiento de su uso, pero no garantiza que no se apliquen cargos adicionales. Para obtener mejores resultados, establezca un límite razonable.</string>
   <string name="deep_clean_disconnect_data_title">Desactiva el plan de datos cuando el dispositivo está bloqueado</string>
@@ -606,7 +606,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="keywords_permcenter">Autoinicio;Permissions;ROOT;Localización;Acceso a contactos</string>
   <string name="keywords_powercenter">Ahorro de batería;Calentamiento;Encender;Apagar;Bateria;Drenado</string>
   <string name="keywords_powercenter_powerrank">Uso de la batería</string>
-  <string name="keywords_securitycenter">Seguiridad;Comprobar;Escanear</string>
+  <string name="keywords_securitycenter">Seguridad;Comprobar;Escanear</string>
   <string name="keywords_securitycenter_settings">ROOT;usodelabatería;Permisos;Blocklist;Usodedatos;Calibrarplandedatos;reddeprueba;bloqueodeaplicaciones;ahorrarbatería;deahorrodebatería;Calefacción;Encienda;Desactivarlabatería;drenante;autoarranque;RAÍZ;contactosdeacceso;;LugarBloque;listadebloquesinteligente;;FraudeVentas;teleoperador;Agentes;datos;tráfico;Calibrar;Conexión;Internet;prueba;contraseña;deprivacidad;acceso;lista;Protección</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">Kb/s</string>
@@ -779,20 +779,20 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="network_roaming_exception_tips">No se pueden utilizar datos móviles en roaming para conectarse a la red.</string>
   <string name="network_route_exception_detail">"Puede haber un problema con el router al que está conectado:
 
-"<b>"1. Problemas de red Wi-Fi publica
-"</b>"Si esta conectado a una red Wi-Fi publica, el numero de usuarios conectados a la red podra estar haciendola lenta o causando problemas de conectividad. Cambie a otra red e intente nuevamente.
+"<b>"1. Problemas de red Wi-Fi pública
+"</b>"Si está conectado a una red Wi-Fi pública, el numero de usuarios conectados a la red podrá estar haciéndola lenta o causando problemas de conectividad. Cambie a otra red e intente nuevamente.
 
 "<b>"2. Problemas de proveedores de servicios de Internet
-"</b>" Asegurese que su cuenta esta en buenos terminos con su proveedor de servicios de internet.
+"</b>" Asegúrese de que su cuenta está en buenos términos con su proveedor de servicios de Internet.
 
 "<b>"3. Problemas de hardware del router
 "</b>"Intente reiniciar el router o comprobar la configuración de administración de su router.
 
 "<b>"4. Otras cuestiones de router
-"</b>"Lea las instrucciones que vienen con el router y restaure las configuraciones de fabrica.
+"</b>"Lea las instrucciones que vienen con el router y restaure las configuraciones de fábrica.
 
-"<b>"5. Asegurese de que el router esta conectado correctamente
-"</b>"Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, pongase en contacto con su proveedor de servicios de internet."</string>
+"<b>"5. Asegúrese de que el router está conectado correctamente
+"</b>"Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, póngase en contacto con su proveedor de servicios de Internet."</string>
   <string name="network_sim_exception_detail">"Puede haber un problema con la tarjeta SIM:
 
            1. Asegúrese de que su cuenta está en buenos términos con su compañía. Trate de usar la tarjeta SIM de un amigo y vea si puede conectar con normalidad.
@@ -813,14 +813,14 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="next_step_button">Siguiente</string>
   <string name="no_network">"No se pudo conectar a la red, inténtelo de nuevo más tarde"</string>
   <string name="no_network_btn">Inténtalo de nuevo</string>
-  <string name="none_mi_service_app_detail">Vacio</string>
+  <string name="none_mi_service_app_detail">Vacío</string>
   <string name="notification_battery_consume_abnormal_summary">Drenado %2$s de la batería durante los últimos %1$d minutos</string>
   <string name="notification_battery_consume_abnormal_title">La batería está siendo drenado demasiado rápido</string>
   <string name="notification_battery_over_heat_summary">Encuentra lo que provoca un calentamiento y enfriamiento del dispositivo.</string>
   <string name="notification_battery_over_heat_title">Temperatura actual es %d℃</string>
   <string name="notification_charging_title">"Cargando "</string>
   <string name="notification_exit_power_save_mode">Apagado el ahorro de batería</string>
-  <string name="notification_exit_power_save_mode_subtitle">Bateria %s cargada.</string>
+  <string name="notification_exit_power_save_mode_subtitle">Batería %s cargada.</string>
   <string name="notification_item">Protege las aplicaciones seleccionadas con el bloqueo de Aplicaciones</string>
   <string name="notification_subtitle">Toca para activar</string>
   <string name="notification_summary_cmcc_app_check">Pulsa para ver detalles.</string>
@@ -853,7 +853,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
-  <string name="optimize_result_buAjustars_diagnose">Diagnóstico del operador</string>
   <string name="optimize_result_button_cloudspace">Añadir almacenamiento en la nube</string>
   <string name="optimize_result_button_consume_power_analysis">Uso de la batería</string>
   <string name="optimize_result_button_cooldown_now">Enfriar</string>
@@ -867,7 +866,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optimize_result_button_purchase_flow">Ver todo</string>
   <string name="optimize_result_button_realname_now">Verificar</string>
   <string name="optimize_result_button_see_detaills">Detalles</string>
-  <string name="optimize_result_button_to_open">Encende</string>
+  <string name="optimize_result_button_to_open">Encender</string>
   <string name="optimize_result_button_to_set">Conjunto</string>
   <string name="optimize_result_button_update_now">Actualizar</string>
   <string name="optimize_result_summary_sucurity_risk">Algunas características de seguridad están desactivadas. Activar estas características para hacer al dispositivo más seguro:</string>
@@ -883,7 +882,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optmizingbar_title_clear">Limpiar caché</string>
   <string name="optmizingbar_title_security">Seguridad</string>
   <string name="optmizingbar_title_system">Seguridad del sistema</string>
-  <string name="other_exception_summary">No tiene conexión a internet</string>
+  <string name="other_exception_summary">No tiene conexión a Internet</string>
   <string name="other_exception_title">Verificando otros problemas</string>
   <string name="package_change_notification_summary">Pulse para conocer más.</string>
   <string name="package_change_notification_title">Ajustar automáticamente el límite de datos</string>
@@ -918,7 +917,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="permission_action_reject">Denegar</string>
   <string name="permission_close_permission_control_dialog_msg">Cuando el administrador de permisos esté desactivado, las aplicaciones no te pedirán permiso antes de leer tus contactos, ver tu historial de llamadas, cambiar los ajustes del sistema o acceder a la cámara y otros recursos del dispositivo.</string>
   <string name="permission_close_permission_control_dialog_title">¿Desactivar?</string>
-  <string name="permission_exception_summary">Algunas aplicaciones no tienen permiso para conectarse a internet</string>
+  <string name="permission_exception_summary">Algunas aplicaciones no tienen permiso para conectarse a Internet</string>
   <string name="permission_exception_title">Ver permisos de red</string>
   <string name="permission_group_title_others">Otros</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Las aplicaciones no te pedirán permiso antes de leer tus contactos, ver tu historial de llamadas, cambiar ajustes del sistema o acceder a la cámara y otros recursos del dispositivo. Puedes activar esta función en Ajustes de permisos.</string>
@@ -1142,7 +1141,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_category_title_securitycenter_settings">General</string>
   <string name="pref_category_title_virus_lib_auto_update">Actualizar las definiciones automáticamente</string>
   <string name="pref_category_title_virus_white_list">Excepciones</string>
-  <string name="pref_check_network_diagnostics">Probar la conexión a internet del dispositivo</string>
+  <string name="pref_check_network_diagnostics">Probar la conexión a Internet del dispositivo</string>
   <string name="pref_connect_settings_enable_background">Permitir datos en segundo plano</string>
   <string name="pref_connect_settings_enable_background_hint">Permitir a las aplicaciones utilizar datos móviles cuando no las utilice</string>
   <string name="pref_connect_settings_exceed_limit">Restringir el uso máximo de datos</string>
@@ -1293,7 +1292,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="safe_result_item_info_app_virus">Ningún virus o aplicación de riesgo</string>
   <string name="safe_result_item_info_sms_auth">Restringir el acceso de aplicaciones de terceros para códigos de verificación</string>
   <string name="safe_result_item_info_sms_default">Cambiar a los valores predeterminados la aplicación de mensajería</string>
-  <string name="safe_result_item_info_sms_url">Protección contra URL maliciosas via SMS</string>
+  <string name="safe_result_item_info_sms_url">Protección contra URL maliciosas vía SMS</string>
   <string name="safe_result_item_info_system_antivirus">Protección contra virus de phishing</string>
   <string name="safe_result_item_info_system_root">Seguro root</string>
   <string name="safe_result_item_info_system_scan">Monitoreo de pagos activo</string>
@@ -1307,8 +1306,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="safepay_alert_dialog_button_risk">Arreglar</string>
   <string name="safepay_alert_dialog_button_unknown">Revisar otra vez</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;¡Riesgo encontrado! ¡Interrumpiendo el pago actual!&lt;/font&gt;</string>
-  <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;No se pudo comprobar la seguridad del pago. Conectese a Internet y vuelve a intentarlo.&lt;/font&gt;"</string>
-  <string name="sc_allow_network_dialog_message">Esta aplicación necesita conectarse a internet para funcionar con normalidad.</string>
+  <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;No se pudo comprobar la seguridad del pago. Conéctese a Internet y vuelva a intentarlo.&lt;/font&gt;"</string>
+  <string name="sc_allow_network_dialog_message">Esta aplicación necesita conectarse a Internet para funcionar con normalidad.</string>
   <string name="sc_allow_network_dialog_tiltle">No se puede utilizar esta función</string>
   <string name="scan_status_risk">Peligroso</string>
   <string name="scan_status_safe">Seguro</string>
@@ -1376,7 +1375,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sp_empty_title_sign_exception">Mantener la aplicación para añadir a excepciones</string>
   <string name="sp_monitored_apps_count_zero">Todavía no hay aplicaciones de pago que estén protegidos</string>
   <string name="sp_monitored_apps_list_title">Ajustes de supervisión</string>
-  <string name="sp_network_privacy_dialog_message">"La aplicación de seguridad no puede comprobar los pagos porque se le ha restringido el acceso a Internet. ¿Permitir a Seguridad conectarse a internet?"</string>
+  <string name="sp_network_privacy_dialog_message">"La aplicación de seguridad no puede comprobar los pagos porque se le ha restringido el acceso a Internet. ¿Permitir a Seguridad conectarse a Internet?"</string>
   <string name="sp_network_privacy_dialog_title">No se puede comprobar los pagos</string>
   <string name="sp_safe_score_text">El pago es seguro</string>
   <string name="sp_scan_item_monitor">Monitor de pagos</string>
@@ -1435,7 +1434,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_live_talk_purchase">Ahorre hasta un 70% en sus llamadas</string>
   <string name="summary_miui_update">Actualización disponible para %s.</string>
   <string name="summary_mms">Bloquea el spam de SMS automáticamente</string>
-  <string name="summary_network_switch">Permite a Security app conectarse a internet</string>
+  <string name="summary_network_switch">Permite a Security app conectarse a Internet</string>
   <string name="summary_never_flow_verify">Este número no se ha verificado con tu compañía</string>
   <string name="summary_payment_risk">"Parece una zona de pago no segura"</string>
   <string name="summary_permission">Evite los pagos no deseados y proteja su información personal</string>
@@ -1479,11 +1478,11 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_operator_error_notification_title">Operador incorrecto</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Resultado: Operador erróneo&lt;br/&gt;&lt;br/&gt;Establecer operador: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Operador actual: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Solucionar y continuar</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnosticos completados, problemas de ubicación resueltos.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnosticos completados, problemas de ubicación y operador resueltos.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnósticos completados, problemas de ubicación resueltos.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnósticos completados, problemas de ubicación y operador resueltos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Cambiado con éxito</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultado: No se pudo completar el diagnóstico &lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herraminetas de mejoramiento de MIUI&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Ubicación erronea&lt;br/&gt;&lt;br/&gt;Establecer ubicación: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Ubicación actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Ubicación errónea&lt;br/&gt;&lt;br/&gt;Establecer ubicación: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Ubicación actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Red del operador no encontrada</string>
   <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Sin conexión a la red&lt;/font&gt;"</string>
@@ -1492,10 +1491,10 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Red del operador no responde&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Fuera de tiempo&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">Comprobando…</string>
-  <string name="tc_diagnostic_success_notification_summary">Reporte este problema para ayudar a las herraminetas de diagnostico de MIUI</string>
+  <string name="tc_diagnostic_success_notification_summary">Reporte este problema para ayudar a las herramientas de diagnostico de MIUI</string>
   <string name="tc_diagnostic_success_notification_title">La red del operador y la marca son correctos</string>
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Red del operador y marca establecidos correctamente&lt;br/&gt;&lt;br/&gt;No se pudo completar el ajuste:&lt;br/&gt;1. Las estadísticas del operador pueden no ser confiables al principio y final del mes&lt;br/&gt;2. El asistente del operador no se ha actualizado.&lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herraminetas de mejoramiento de MIUI&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_title">Diagnosticos de la compañía operadora</string>
+  <string name="tc_diagnostic_title">Diagnósticos de la compañía operadora</string>
   <string name="tc_diagnostic_upload_button">Reportar</string>
   <string name="tc_diagnostic_upload_no_network">¡Gracias por su comentario! Su reporte será enviado cuando se conecte a la red.</string>
   <string name="tc_diagnostic_upload_success">¡Gracias por su comentario!</string>
@@ -1521,7 +1520,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_sms_report_notify_get_timeout_body">Proceso fuera de tiempo. Pregunte a su operador si el código de consulta SMS que ingresó es correcto.</string>
   <string name="tc_sms_report_notify_get_timeout_title">No se puede obtener SMS de uso de datos</string>
   <string name="tc_sms_report_receive_content">Informe de uso de datos por contenido en SMS (Confirmar estadísticas de uso de datos)</string>
-  <string name="tc_sms_report_receive_content_null">¡Ayude a mejorar esta característica!&lt;br/&gt;Aquícómo:&lt;br/&gt;1. Ir a \"Comprobar comando SMS\" y \"Número de destinatario\"&lt;br/&gt;2. Pulse \"Obtener plantilla SMS\"&lt;br/&gt;3. Espere a recibir un mensaje SMS de su operador &lt;br/&gt;4. Pulse \"Subir a MIUI\"</string>
+  <string name="tc_sms_report_receive_content_null">¡Ayude a mejorar esta característica!&lt;br/&gt;Aquí cómo:&lt;br/&gt;1. Ir a \"Comprobar comando SMS\" y \"Número de destinatario\"&lt;br/&gt;2. Pulse \"Obtener plantilla SMS\"&lt;br/&gt;3. Espere a recibir un mensaje SMS de su operador &lt;br/&gt;4. Pulse \"Subir a MIUI\"</string>
   <string name="tc_sms_report_receive_num">Número del destinatario</string>
   <string name="tc_sms_report_send_num">Número de teléfono del operador</string>
   <string name="tc_sms_report_summary">Ayúdenos a mejorar esta característica enviando un informe cuando su uso de datos tiene un error o falla para actualizar</string>
@@ -1531,7 +1530,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_sms_report_title_bill">Informe de error de uso de datos</string>
   <string name="tc_sms_report_title_calltime">Informe de error de uso de datos</string>
   <string name="tc_sms_report_toast_text">Obteniendo información…</string>
-  <string name="tc_sms_report_upload_success">SMS de infome de uso de datos enviado. ¡Vamos a trabajar en ello!</string>
+  <string name="tc_sms_report_upload_success">SMS de informe de uso de datos enviado. ¡Vamos a trabajar en ello!</string>
   <string name="tc_sms_report_upload_when_net">¡Gracias por sus comentarios!</string>
   <string name="ten_percent_total_pkg">%s (10%% de los datos mensuales)</string>
   <string name="text_button">Ok</string>
@@ -1614,7 +1613,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="toast_garbage_lib">Actualizaciones automáticas para el Limpiador activadas</string>
   <string name="toast_lockscreen_glogin_empty_password">Contraseña requerida</string>
   <string name="toast_network_eror">"No se puede conectar a la red"</string>
-  <string name="toast_network_switch">Esta aplicación necesita conectarse a internet</string>
+  <string name="toast_network_switch">Esta aplicación necesita conectarse a Internet</string>
   <string name="toast_reject_sms_read_permission_success">Establecido con éxito</string>
   <string name="toast_removed_from_virus_white_list">Eliminado de excepciones. El elemento será escaneado la próxima vez.</string>
   <string name="toast_root_apply_accept">Permiso root concedido a %s</string>
@@ -1681,7 +1680,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="traffic_setting_fragment_null">Vacío</string>
   <string name="traffic_setting_fragment_operator">Operador</string>
   <string name="traffic_setting_fragment_send_num">Número de teléfono del operador</string>
-  <string name="traffic_setting_fragment_send_num_tips">Introduzca número de telefóno</string>
+  <string name="traffic_setting_fragment_send_num_tips">Introduzca número de teléfono</string>
   <string name="traffic_setting_fragment_sms_content">Contenido del mensaje</string>
   <string name="traffic_setting_fragment_sms_content_tips">Escriba su mensaje aquí</string>
   <string name="traffic_setting_fragment_template">Plantilla de mensaje</string>
@@ -1689,7 +1688,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="traffic_setting_open">Activado</string>
   <string name="traffic_setting_step_num">Ajustes de uso de datos</string>
   <string name="traffic_warning_purchase_title">Aviso de uso de datos móviles</string>
-  <string name="unable_connect_internet">Sin conexión a internet</string>
+  <string name="unable_connect_internet">Sin conexión a Internet</string>
   <string name="uninstall_app_dialog_msg">Desinstalar borrará todos los datos de la aplicación.</string>
   <string name="uninstall_app_dialog_title">¿Desinstalar ahora?</string>
   <string name="uninstall_app_done">Desinstalado correctamente</string>
@@ -1716,9 +1715,9 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="usb_adb_input_apply_step_2">Los desarrolladores pueden utilizar un software especial para imitar gestos, cambiar la configuración y conceder permisos a través de USB.</string>
   <string name="usb_adb_input_apply_step_3">¿Permitir ahora?</string>
   <string name="usb_install_desc">¿Instalar esta aplicación vía USB?</string>
-  <string name="usbsharenet_exception_summary">No se puede conectar a internet mediante conexión USB compartida. Compruebe la conexión USB de su dispositivo y reinicie Mi PC Suite.</string>
-  <string name="usbsharenet_exception_title">Pobar internet compartida a través de USB</string>
-  <string name="usbsharenet_pc_exception_summary">No se puede conectar a internet mediante conexión USB compartida. Compruebe la conexión a internet de su computadora.</string>
+  <string name="usbsharenet_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe la conexión USB de su dispositivo y reinicie Mi PC Suite.</string>
+  <string name="usbsharenet_exception_title">Probar Internet compartida a través de USB</string>
+  <string name="usbsharenet_pc_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe la conexión a Internet de su computadora.</string>
   <string name="use_immediately">Utilizar</string>
   <string name="virus_scan">Búsqueda de virus</string>
   <string name="wakepath_confirm_start_activity">¿Permite a %1$s abrir %2$s?</string>
@@ -1734,5 +1733,5 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="wifi_item_title_dns">Servidor de seguridad DNS</string>
   <string name="wifi_item_title_encryption">Red Wi-Fi cifrada</string>
   <string name="wifi_item_title_fake">Detectar Wi-Fi falsa</string>
-  <string name="wifi_network_blocked_notification_title">Sin conexión a internet</string>
+  <string name="wifi_network_blocked_notification_title">Sin conexión a Internet</string>
 </resources>
