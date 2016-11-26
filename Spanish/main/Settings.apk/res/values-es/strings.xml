@@ -255,7 +255,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="app_permissions">Permisos de aplicaciones</string>
   <string name="app_permissions_group_summary" formatted="false">%d de %d aplicaciones permitidas</string>
   <string name="app_permissions_summary" formatted="false">%d de %d aplicaciones tienen permitidos accesos adicionales</string>
-  <string name="app_process_limit_title">Límitar procesos en segundo plano</string>
+  <string name="app_process_limit_title">Limitar procesos en segundo plano</string>
   <string name="app_restrictions_custom_label">Definir restricciones de aplicación</string>
   <string name="app_sees_restricted_accounts">Esta aplicación puede acceder a tus cuentas</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Esta aplicación puede acceder a tus cuentas. Controladas por %1$s</string>
@@ -587,7 +587,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s quiere acceder a tus contactos y a tu historial de llamadas. ¿Quieres permitir el acceso a %2$s?</string>
   <string name="bluetooth_pb_remember_choice">No volver a preguntar</string>
   <string name="bluetooth_permission_request">Solicitud de permiso de Bluetooth</string>
-  <string name="bluetooth_phonebook_request">Solicitud de acceso a agenda teléfonica</string>
+  <string name="bluetooth_phonebook_request">Solicitud de acceso a agenda telefónica</string>
   <string name="bluetooth_pin_values_hint">Normalmente: 0000 o 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Debe tener 16 dígitos</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
@@ -687,7 +687,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bootloader_status_summary">Compruebe si el dispositivo está bloqueado</string>
   <string name="bootloader_status_unlocked">Desbloqueado</string>
   <string name="bootloader_status_unlocked_info">Este dispositivo está desbloqueado</string>
-  <string name="bootloader_summary">Flashear en su dispositivo via USB</string>
+  <string name="bootloader_summary">Flashear en su dispositivo vía USB</string>
   <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Color de la luz</string>
   <string name="breathing_light_color_summary">Color del LED cuando recibe una notificación</string>
@@ -714,7 +714,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="button_text_accept_timer">Aceptar (%d)</string>
   <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_login">Iniciar sesión</string>
-  <string name="button_text_next_step">Proximo</string>
+  <string name="button_text_next_step">Próximo</string>
   <string name="button_text_next_step_timer">Siguiente (%d)</string>
   <string name="button_text_ok">Aceptar</string>
   <string name="button_text_ok_timer">Aceptar (%d)</string>
@@ -1093,7 +1093,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="debug_monitoring_category">Supervisión</string>
   <string name="debug_networking_category">Redes</string>
   <string name="debug_view_attributes">Inspección de atributos de vista</string>
-  <string name="defalut_launcher_title">Lanzador preterminado</string>
+  <string name="defalut_launcher_title">Lanzador predeterminado</string>
   <string name="default_app">(Predeterminada)</string>
   <string name="default_apps_title">Aplicaciones predeterminadas</string>
   <string name="default_assist_none">Ninguno</string>
@@ -1110,7 +1110,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="delete_fingerprint_confirm_msg">¿Eliminar huella digital?</string>
   <string name="delete_fingerprint_text">Eliminar huella digital</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">¿Elimininar esta huella digital?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">¿Eliminar esta huella digital?</string>
   <string name="delete_saved_network">Eliminar redes guardadas</string>
   <string name="deny">Denegar</string>
   <string name="deny_sms_message">No permitir que las aplicaciones instaladas envíen SMS</string>
@@ -1528,7 +1528,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="forget_password_button_text"><u>Patrón olvidado</u></string>
   <string name="forget_pattern"><u>¿Olvidó el patrón?</u></string>
   <string name="forget_privacy_password_setting">Añadir Cuenta Mi</string>
-  <string name="forget_privacy_password_summary">Use la Cuenta Mi para restrablecer su contraseña</string>
+  <string name="forget_privacy_password_summary">Use la Cuenta Mi para restablecer su contraseña</string>
   <string name="forget_wifi_message">Su teléfono dejará de conectarse a esta red automáticamente.</string>
   <string name="found_new_version">Actualización disponible</string>
   <string name="fp_nav_center_back_to_home_title">Pulse el botón Inicio para volver a la pantalla de inicio</string>
@@ -1630,7 +1630,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="help_label">Ayuda y sugerencias</string>
   <string name="hidden_ssid_label">SSID ocultos:</string>
   <string name="hide">Ocultar</string>
-  <string name="hide_screen_button">Ocultar botónes en pantalla</string>
+  <string name="hide_screen_button">Ocultar botones en pantalla</string>
   <string name="high_performance_notif_summary">El dispositivo puede calentarse durante un uso intenso.</string>
   <string name="high_performance_notif_title">El modo de alto rendimiento está activado</string>
   <string name="high_performance_title">Parece que se está ejecutando una prueba de referencia. Ajuste la administración de energía en modo de \"Alto rendimiento\" para obtener mejores resultados.</string>
@@ -1746,8 +1746,8 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keywords_default_apps">aplicaciones predeterminadas</string>
   <string name="keywords_default_phone_app">marcador del teléfono predeterminado</string>
   <string name="keywords_display">pantalla táctil</string>
-  <string name="keywords_display_auto_brightness">atenuar, patalla, pantalla táctil, batería</string>
-  <string name="keywords_display_brightness_level">atenuar, patalla, pantalla táctil, batería</string>
+  <string name="keywords_display_auto_brightness">atenuar, pantalla, pantalla táctil, batería</string>
+  <string name="keywords_display_brightness_level">atenuar, pantalla, pantalla táctil, batería</string>
   <string name="keywords_display_cast_screen">proyectar, enviar</string>
   <string name="keywords_display_font_size">tamaño del texto</string>
   <string name="keywords_display_night_mode">tema oscuro, modo nocturno, atenuar pantalla, invertir brillo</string>
@@ -1979,7 +1979,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lockpattern_pattern_entered_header">Patrón guardado</string>
   <string name="lockpattern_pattern_same_with_owner">Debe ser diferente a la contraseña del primer espacio</string>
   <string name="lockpattern_pattern_same_with_security_space">Debe ser diferente a la contraseña del segundo espacio</string>
-  <string name="lockpattern_recording_incorrect_too_short">Conecte al menos%dpuntos. Volver a intentarlo.</string>
+  <string name="lockpattern_recording_incorrect_too_short">Conecte al menos %d puntos. Volver a intentarlo.</string>
   <string name="lockpattern_recording_inprogress">Levante el dedo cuando haya terminado</string>
   <string name="lockpattern_recording_intro_footer">Presiona Menú para obtener ayuda.</string>
   <string name="lockpattern_recording_intro_header">Dibuja un patrón:</string>
@@ -2088,7 +2088,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="media_button">Botón multimedia</string>
   <string name="media_category">Multimedia</string>
   <string name="media_feedback_enable_title">Vibrar con el ritmo</string>
-  <string name="media_format_button_text">Eliminar aalmacenamiento USB</string>
+  <string name="media_format_button_text">Eliminar almacenamiento USB</string>
   <string name="media_format_desc">&lt;b&gt;Todos&lt;/b&gt; los datos almacenados se borrarán permanentemente. El teléfono se reiniciará después de haber borrado el almacenamiento USB. ¿Deseas borrar todo el almacenamiento USB?.</string>
   <string name="media_format_final_button_text">Eliminar todo</string>
   <string name="media_format_final_desc">¿Deseas borrar el almacenamiento USB y eliminar todos sus archivos? Esta acción no se puede deshacer.</string>
@@ -2344,7 +2344,7 @@ Seleccione su sistema operativo:"</string>
   <string name="no_default_apps">Ninguna aplicación predeterminada</string>
   <string name="no_device_admins">No hay ningún administrador de dispositivos disponible.</string>
   <string name="no_internet_access_remember">No volver a preguntar por esta red</string>
-  <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a internet. ¿Permanecer conectado?</string>
+  <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a Internet. ¿Permanecer conectado?</string>
   <string name="no_media_button_receiver">No</string>
   <string name="no_memory_use_summary">No se ha usado memoria durante las últimas 3 horas</string>
   <string name="no_nearby_wifi">No se detecta red</string>
@@ -2399,7 +2399,7 @@ Seleccione su sistema operativo:"</string>
   <string name="oldman_mode_entry_title">Modo simplificado</string>
   <string name="oldman_mode_settings_caption">Ajustes de modo simplificado</string>
   <string name="oldman_mode_summary">Usar pantalla de inicio y menús simplificados</string>
-  <string name="oldman_mode_summary_cta">El modo simplificado necesita conectarse a internet y acceder a sus contactos, mensajes y ubicación para funcionar con normalidad.</string>
+  <string name="oldman_mode_summary_cta">El modo simplificado necesita conectarse a Internet y acceder a sus contactos, mensajes y ubicación para funcionar con normalidad.</string>
   <string name="onekey_migrate">Transferencia</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Los ajustes de la pantalla de inicio se ocultarán hasta que instales otra aplicación de pantalla de inicio.</string>
@@ -3079,7 +3079,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="saved_wifi_delete">Borrar</string>
   <string name="scan_list_label">Resultados del escaneo:</string>
   <string name="screen">Pantalla</string>
-  <string name="screen_button">Botónes en pantalla</string>
+  <string name="screen_button">Botones en pantalla</string>
   <string name="screen_button_tips">Deslizar hacia abajo para ocultar botones en pantalla</string>
   <string name="screen_cells_config_title">Configuración de Celdas de Pantalla</string>
   <string name="screen_color_and_optimize">Colores y contraste</string>
@@ -3118,7 +3118,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">No mostrar de nuevo</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar la lista de aplicaciones que usan el modo de lectura, debe conectarse a Internet.</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Conexión a internet</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Conexión a Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar la lista de aplicaciones que usan el modo de lectura automáticamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automáticamente</string>
   <string name="screen_pinning_description">"Si esta opción está activada, puedes usar la opción de fijar la pantalla para mantener visible la pantalla actual hasta que desactives esta opción.
@@ -3287,7 +3287,7 @@ Para ello:
   <string name="search_permission_settings_title">Permisos de la aplicación</string>
   <string name="search_pointer_speed">Velocidad del puntero</string>
   <string name="search_power_checker">Verificador de Energía</string>
-  <string name="search_power_hide_mode_title">Administrar el uso de batería de las aplicaciones;Uso de batería de las aplicaciónes;Uso de la batería;Estadísticas de la batería</string>
+  <string name="search_power_hide_mode_title">Administrar el uso de batería de las aplicaciones;Uso de batería de las aplicaciones;Uso de la batería;Estadísticas de la batería</string>
   <string name="search_power_mode">Ajustes de energía;Energía</string>
   <string name="search_power_optimize">Ahorro de batería;Ahorrar batería</string>
   <string name="search_pref_volume_wake_title">Encender con botones de volumen;botones de volumen</string>
@@ -3332,7 +3332,7 @@ Para ello:
   <string name="search_storage_settings">Limpiador;Limpiar caché;Caché</string>
   <string name="search_sync_settings">Sincronizar;Automático;Sólo Wi-Fi</string>
   <string name="search_system_app_settings">Aplicaciones del sistema</string>
-  <string name="search_tether">Conexiones y punto de acceso portátil;Conectar;compartir internet;Punto de acceso WLAN;Punto de acceso Wifi;Punto de acceso Wi-Fi</string>
+  <string name="search_tether">Conexiones y punto de acceso portátil;Conectar;compartir Internet;Punto de acceso WLAN;Punto de acceso Wifi;Punto de acceso Wi-Fi</string>
   <string name="search_tether_settings_title_bluetooth">Conexión Bluetooth;conexiones</string>
   <string name="search_tether_settings_title_usb">Conexión USB;Conexiones;USB</string>
   <string name="search_theme_settings">Temas;Tema;Personalización;Personalizar</string>
@@ -3496,7 +3496,7 @@ Para ello:
   <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
   <string name="show_connected_devices_title">Dispositivos conectados</string>
   <string name="show_cpu_usage">Mostrar uso de la CPU</string>
-  <string name="show_cpu_usage_summary">Suporponer el uso de la CPU en la pantalla</string>
+  <string name="show_cpu_usage_summary">Superponer el uso de la CPU en la pantalla</string>
   <string name="show_dev_already">Las opciones de desarrollo ya están activadas.</string>
   <string name="show_dev_on">¡Ahora están activadas las opciones de desarrollo!</string>
   <string name="show_fc">Aplicaciones de cierre forzado</string>
@@ -3518,7 +3518,7 @@ Para ello:
   <string name="show_touches_summary">Mostrar la ubicación de las pulsaciones en la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar la información del usuario en la pantalla de bloqueo</string>
   <string name="shut_down_find_device_failure_confirm">Aceptar</string>
-  <string name="shut_down_find_device_network_failure_content">No se pudo desactivar localizar el dispositivo. Asegúrese de que su dispositivo tiene una conexión a internet.</string>
+  <string name="shut_down_find_device_network_failure_content">No se pudo desactivar localizar el dispositivo. Asegúrese de que su dispositivo tiene una conexión a Internet.</string>
   <string name="shut_down_find_device_network_failure_title">No se puede conectar a la red</string>
   <string name="shuting_down_find_device">Desactivando la búsqueda de dispositivo…</string>
   <string name="silent_mode_title">Modo silencio</string>
@@ -3782,7 +3782,7 @@ Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus dato
     &lt;b&gt;Copia de seguridad de aplicaciones&lt;/b&gt;"
 Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transferirlos a un ordenador con un cable USB.
 
-Se desinstalarán todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muevelas a otro espacio de almacenamiento del dispositivo. Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
+Se desinstalarán todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muévelas a otro espacio de almacenamiento del dispositivo. Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
 
 Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrarán cuando se formatee.</string>
   <string name="storage_internal_title">Almacenamiento del dispositivo</string>
@@ -4642,7 +4642,7 @@ de Wi‑Fi"</string>
   <string name="wifi_p2p_wps_setup">Configuración WPS</string>
   <string name="wifi_password">Contraseña</string>
   <string name="wifi_poor_network_detection">Solo conexiones estables</string>
-  <string name="wifi_poor_network_detection_summary">No usar una red Wi-Fi a menos que tenga una buena conexión a internet</string>
+  <string name="wifi_poor_network_detection_summary">No usar una red Wi-Fi a menos que tenga una buena conexión a Internet</string>
   <string name="wifi_priority_changed" formatted="false">Valor antiguo %s | Nuevo valor %s</string>
   <string name="wifi_priority_label">Prioridad</string>
   <string name="wifi_priority_settings_label">Ajustes de prioridad</string>
