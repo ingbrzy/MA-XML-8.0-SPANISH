@@ -29,8 +29,8 @@
   <string name="auto_play">Reproducción automática cuando esté conectado a Wi-Fi</string>
   <string name="auto_play_later">Más tarde</string>
   <string name="auto_play_now">Encender</string>
-  <string name="auto_play_recommend">Reproducir automaticamente</string>
-  <string name="auto_play_recommend_tips">Empezar a reproducir vídeos automaticamente</string>
+  <string name="auto_play_recommend">Reproducir automáticamente</string>
+  <string name="auto_play_recommend_tips">Empezar a reproducir vídeos automáticamente</string>
   <string name="auto_play_toast">Los videos se reproducirán automáticamente. Usted puede cambiar esto en ajustes.</string>
   <string name="backup_cancel">No copiar</string>
   <string name="backup_checkbox_msg">Copiar siempre y mostrar notificaciones</string>
@@ -111,7 +111,7 @@
   <string name="confirm">Aceptar</string>
   <string name="confirm_clean">Limpiar</string>
   <string name="confirm_know">Aceptar</string>
-  <string name="connect_network_setting_des">Avisar cuando se conecte a internet</string>
+  <string name="connect_network_setting_des">Avisar cuando se conecte a Internet</string>
   <string name="connecting">Conectando…</string>
   <string name="connection_error">No se pudo conectar</string>
   <string name="copied">Copiado</string>
@@ -122,9 +122,9 @@
   <string name="data_consumption_cancel">Salir</string>
   <string name="data_consumption_checkbox_hint">No mostrar de nuevo</string>
   <string name="data_consumption_confirm">Aceptar</string>
-  <string name="data_consumption_message">Esta aplicación necesita conectarse a internet por Wi-Fi para funcionar con normalidad.</string>
-  <string name="data_consumption_message1">El dispositivo debe estar conectado a internet para ver pegatinas y videos.</string>
-  <string name="data_consumption_title">Conexión a internet</string>
+  <string name="data_consumption_message">Esta aplicación necesita conectarse a Internet por Wi-Fi para funcionar con normalidad.</string>
+  <string name="data_consumption_message1">El dispositivo debe estar conectado a Internet para ver pegatinas y videos.</string>
+  <string name="data_consumption_title">Conexión a Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extraer</string>
   <string name="decompress_destination_error">No se pueden extraer los archivos en esta ubicación</string>
@@ -224,7 +224,7 @@
   <string name="gbk_summary">Codificación predeterminada de Chino tradicional de Windows</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"No se pudo obtener información acerca de esta persona"</string>
-  <string name="get_verification_code_fail">No se pudo obtener el código de verfificación</string>
+  <string name="get_verification_code_fail">No se pudo obtener el código de verificación</string>
   <string name="gigabyteShort">GB</string>
   <string name="group_title">%2$s de %1$s</string>
   <string name="group_title_extra_backup">Copias</string>
@@ -256,7 +256,7 @@
   <string name="like_toast_2">Ver los vídeos que te gustan en tu perfil.</string>
   <string name="like_toast_3">Inicia sesión para ver los vídeos que te gustan en tu perfil.</string>
   <string name="load_more">Ver más</string>
-  <string name="load_sticker_fail">No se pudo cargar la pegatinar</string>
+  <string name="load_sticker_fail">No se pudo cargar la pegatina</string>
   <string name="loading">Cargando…</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Música</string>
@@ -316,7 +316,7 @@
   <string name="msg_notify_setting">Configuración de las notificaciones</string>
   <string name="msg_set_password">Establecer contraseña primero</string>
   <string name="name_empty">Debes ingresar un nombre.</string>
-  <string name="need_read_storage_permission">Eñ explorador necesita acceder al almacenamiento interno para trabajar como se ha diseñado.</string>
+  <string name="need_read_storage_permission">El explorador necesita acceder al almacenamiento interno para trabajar como se ha diseñado.</string>
   <string name="network_dialog_checkbox_tip">No mostrar de nuevo</string>
   <string name="network_not_available">No se pudo conectar a la red</string>
   <string name="network_spent_reminding">Abrir esta página requiere tráfico de tu plan de datos.</string>
@@ -563,7 +563,7 @@
   <string name="shared_sticker_page_no_file">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
   <string name="shared_sticker_str">Compartidos por fans de Mi</string>
   <string name="shared_sticker_suffix">Pegatina en %s</string>
-  <string name="shared_sticker_use_tip">"Puedes enviar las pegatinas que guardarste en conversaciones de chat igual que envías imágenes.
+  <string name="shared_sticker_use_tip">"Puedes enviar las pegatinas que guardaste en conversaciones de chat igual que envías imágenes.
 (Los GIFs se pueden añadir a Personalizados en las pegatinas de chat)."</string>
   <string name="shared_sticker_use_tip_title">Cómo usar pegatinas</string>
   <string name="shared_str">Compartido por %s</string>
@@ -626,14 +626,14 @@
   <string name="unbind_success">Eliminado correctamente</string>
   <string name="unlock_pattern_msg">La contraseña de privacidad también funciona para fotos y mensajes.</string>
   <string name="unlock_pattern_title">Nueva contraseña</string>
-  <string name="unlogin">Registrese primero</string>
+  <string name="unlogin">Regístrese primero</string>
   <string name="unmount_inform_text">¿Desmontar el almacenamiento USB?</string>
   <string name="unreviewed_video_cannot_share">Los videos han de ser reseñados antes de ser compartidos</string>
   <string name="update">Actualizar</string>
   <string name="update_failed">No se pudo guardar, inténtelo otra vez</string>
   <string name="update_loading">Guardando…</string>
   <string name="upload_avatar_camera">Cámara</string>
-  <string name="upload_avatar_failed">"No se puede subir, intentelo de nuevo"</string>
+  <string name="upload_avatar_failed">"No se puede subir, inténtelo de nuevo"</string>
   <string name="upload_avatar_loading">Subiendo…</string>
   <string name="upload_avatar_local">Galería</string>
   <string name="upload_external_action_hint">Pegar enlace de vídeo</string>
@@ -644,7 +644,7 @@
   <string name="upload_file_toolarge_message">Fallo al subir %1$d: no puedes subir archivos superiores a 300Mb.</string>
   <string name="upload_local_video">Compartir video clip</string>
   <string name="upload_notification_compress_progress">Comprimiendo %1$s%%</string>
-  <string name="upload_notification_compress_title">Compriminendo vídeo⤦</string>
+  <string name="upload_notification_compress_title">Comprimiendo vídeo⤦</string>
   <string name="upload_notification_failed">No se pudo subir</string>
   <string name="upload_notification_failed_content">Intentar nuevamente</string>
   <string name="upload_notification_progress">Subiendo (%1$s)%%</string>
@@ -716,8 +716,8 @@
   <string name="utf8_title">UTF-8</string>
   <string name="video_ad_download">Instalar</string>
   <string name="video_comment_hint">Seleccionar tema</string>
-  <string name="video_comment_limit">%1$s carácteres restantes</string>
-  <string name="video_comment_publish">Incribir</string>
+  <string name="video_comment_limit">%1$s caracteres restantes</string>
+  <string name="video_comment_publish">Enviar</string>
   <string name="video_comment_topic">\#Añadir tópico#</string>
   <string name="video_data_consumption_cancel">Cancelar</string>
   <string name="video_data_consumption_confirm">OK</string>
@@ -728,7 +728,7 @@
   <string name="video_encrypt_fans_text">Sólo los fans pueden ver este video</string>
   <string name="video_encrypt_follow_fail">No se puede seguir</string>
   <string name="video_encrypt_follow_success">Seguido %s</string>
-  <string name="video_encrypt_login_btn">Indentifíquese</string>
+  <string name="video_encrypt_login_btn">Identifíquese</string>
   <string name="video_encrypt_login_text">Identifíquese para reproducir este video</string>
   <string name="video_operation_need_fans">Siga a la persona que hizo el video para hacer esto</string>
   <string name="video_operation_need_login">Identifíquese para hacer esto</string>
@@ -752,7 +752,7 @@
   <string name="video_tag_search_title">Seleccionar tópico</string>
   <string name="video_topic_hint">Buscar</string>
   <string name="video_upload_btn">Siguiente</string>
-  <string name="video_upload_btn_hint">Los videos MP$ deberan tener de 3s~10min de duración</string>
+  <string name="video_upload_btn_hint">Los videos MP$ deberán tener de 3s~10min de duración</string>
   <string name="video_upload_item_more">Más (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Sube vídeos a KuaiShou para conseguir más fans.</string>
@@ -786,7 +786,7 @@
   <string name="yes">Sí</string>
   <string name="yesterday">Ayer</string>
   <string name="youliao_ad_msg">"¡Divertirse con \"Youliao\"!
-¡Unete a 170 millones de aficionados Mi!</string>
+¡Únete a 170 millones de aficionados Mi!</string>
   <string name="youliao_ad_title">¡Los vídeos populares se han actualizado!</string>
   <string name="youliao_ad_update">Actualizar</string>
   <string name="youliao_dialog_msg">"¡Vídeos populares fueron sustituidos por \"Youliao\",

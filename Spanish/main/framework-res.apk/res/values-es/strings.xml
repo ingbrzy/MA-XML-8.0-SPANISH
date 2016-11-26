@@ -335,14 +335,14 @@ con %s"</string>
   <string name="find_next">Buscar siguiente</string>
   <string name="find_on_page">Buscar en la página</string>
   <string name="find_previous">Buscar anterior</string>
-  <string name="fingerprint_acquired_imager_dirty">El lector de huellas digitales está sucio. Por favor limpielo y vuelvalo a intentar.</string>
+  <string name="fingerprint_acquired_imager_dirty">El lector de huellas digitales está sucio. Por favor límpielo y vuélvalo a intentar.</string>
   <string name="fingerprint_acquired_insufficient">"No se ha podido procesar la huella digital. Por favor inténtelo de nuevo.</string>
   <string name="fingerprint_acquired_partial">Solo se detectó parte de su huella. Por favor inténtelo de nuevo.</string>
   <string name="fingerprint_acquired_too_fast">El dedo se movió demasiado rápido. Por favor inténtelo de nuevo.</string>
   <string name="fingerprint_acquired_too_slow">El dedo se movió demasiado lento. Por favor inténtelo de nuevo.</string>
   <string name="fingerprint_error_canceled">Operación con huella cancelada.</string>
   <string name="fingerprint_error_hw_not_available">El hardware de huella digital no está disponible.</string>
-  <string name="fingerprint_error_lockout">Demasiados intentos. Intentélo de nuevo más tarde.</string>
+  <string name="fingerprint_error_lockout">Demasiados intentos. Inténtelo de nuevo más tarde.</string>
   <string name="fingerprint_error_no_space">"No se puede guardar la huella. Por favor elimine una existente."</string>
   <string name="fingerprint_error_timeout">Tiempo de espera de la huella digital alcanzado.Inténtelo de nuevo.</string>
   <string name="fingerprint_error_unable_to_process">Inténtelo de nuevo.</string>
@@ -1345,7 +1345,7 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="wifi_connect_alert_message">La aplicación %1$s quiere conectarse a la red Wi-Fi %2$s</string>
   <string name="wifi_connect_alert_title">Permitir conexión?</string>
   <string name="wifi_connect_default_application">Una aplicación</string>
-  <string name="wifi_no_internet">WLAN no tiene acceso a internet
+  <string name="wifi_no_internet">WLAN no tiene acceso a Internet
   </string>
   <string name="wifi_no_internet_detailed">Toque para ver las opciones</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Directo</string>
