@@ -325,7 +325,7 @@
   <string name="dialog_auto_sync_setting_no_open">No puede auto-recibir nuevos mensajes. La sincronización está desactivada.</string>
   <string name="dialog_change_sync_lookback">El correo recibido hace %s se eliminará automáticamente. Toque para cambiar.</string>
   <string name="dialog_gmail_proxy_server_is_error">Error en el servidor proxy de Gmail.</string>
-  <string name="dialog_insufficient_space_on_external">Imposible descargar adjunto. No hay espacio de almacenamiento externo suficiente .</string>
+  <string name="dialog_insufficient_space_on_external">Imposible descargar adjunto. No hay espacio de almacenamiento externo suficiente.</string>
   <string name="dialog_insufficient_space_on_internal">No hay espacio de almacenamiento interno suficiente.</string>
   <string name="disable_admin_warning">"ADVERTENCIA: Desactivar el permiso de la aplicación de correo electrónico para administrar su dispositivo, conducirá a que se eliminen todas las cuentas de correo y los mensajes, contactos, eventos de calendario y otros datos."</string>
   <string name="discard">Descartar</string>
@@ -869,7 +869,7 @@ Declinado:
   <string name="toast_bar_open_gmail_synchronization">Pulse para usar el servidor proxy para Gmail</string>
   <string name="too_large_to_attach_additional">El tamaño de archivo no puede exceder %1$s.</string>
   <string name="too_large_to_attach_multiple">No se adjuntaron uno a varios archivos. El tamaño no puede exceder %1$s.</string>
-  <string name="too_large_to_attach_single">No es posible adjuntar un archivo con un tamaño superior a %1$s .</string>
+  <string name="too_large_to_attach_single">No es posible adjuntar un archivo con un tamaño superior a %1$s.</string>
   <string name="topic_merge">Combinar temas</string>
   <string name="translation_loading">Un segundo…</string>
   <string name="translation_no_result">No hay resultados</string>
@@ -884,7 +884,7 @@ Declinado:
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Inicie sesión con EXCHANGE</string>
-  <string name="turn_auto_sync_on_dialog_body">"Los cambios que realice en todas las aplicaciones y cuentas, no sólo Gmail, se sincronizarán en la web, otros dispositivos y en su %1$s ."</string>
+  <string name="turn_auto_sync_on_dialog_body">"Los cambios que realice en todas las aplicaciones y cuentas, no sólo Gmail, se sincronizarán en la web, otros dispositivos y en su %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">¿Activar sincronización automática?</string>
   <string name="undo">Deshacer</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Página de inicio</string>
   <string name="abc_action_bar_up_description">Arriba</string>
@@ -246,7 +246,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="download_completed">Descargado</string>
   <string name="download_default_path_txt">Recordar esta elección</string>
   <string name="download_dialog_default_path_invalid">La ruta de descarga no es válida. Se utilizará la ruta de descarga predeterminada en su lugar.</string>
-  <string name="download_dialog_file_length_hint_txt">"Tamaño :"</string>
+  <string name="download_dialog_file_length_hint_txt">"Tamaño:"</string>
   <string name="download_dialog_file_length_lessthan1kb">menos de 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">"No se pudo descargar"</string>
   <string name="download_dialog_file_length_nolength_txt">Descargando…</string>

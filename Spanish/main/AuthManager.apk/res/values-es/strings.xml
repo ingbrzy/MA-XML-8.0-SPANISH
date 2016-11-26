@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Dashboard_App">Aplicaciones</string>
   <string name="Dashboard_HIPS_Disable_Content">MIUI no monitorizará las peticiones de permisos de las aplicaciones.</string>
@@ -287,7 +287,7 @@ Deberá actualizar primero la versión para el desarrollador de MIUI para poder 
   <string name="permission_group_title_privacy_related">Privacidad</string>
   <string name="permission_group_title_settings_related">Ajustes</string>
   <string name="permission_request_title">Solicitud de permiso</string>
-  <string name="permission_warning_template">¿Permitir %1$s a %2$s ?</string>
+  <string name="permission_warning_template">¿Permitir %1$s a %2$s?</string>
   <string name="permisson_reject_notice_toast_text2">no tiene permiso para %1$s.</string>
   <string name="screen_overlay_button">Abrir ajustes</string>
   <string name="screen_overlay_message">Para cambiar la configuración de este permiso, debe desactivar primero la superposición de pantalla en los ajustes &gt; de las aplicaciones</string>
