@@ -19,6 +19,6 @@ What's new in our repositorie?  | Últimas actualizaciones al repositorio en Esp
 https://github.com/ingbrzy/MA-XML-8.0-SPANISH/commits/master
 
 Special thanks to the active translators volunteers:
-@Infante007, @nosijf982, @rdgi, @Muchachito, @Muchachito, @tururut, @elyorch76 & @asirena
+@Infante007, @nosijf982, @rdgi, @Muchachito, @tururut, @elyorch76 & @asirena
 
 # If you want to help in translations, please contact @Infante007 or @ingbrzy for further details.
