@@ -8,7 +8,7 @@
   <string name="cit_OTG_waiting_out">Desconecte el dispositivo USB OTG ahora</string>
   <string name="cit_ac_charger_in">Carga por AC</string>
   <string name="cit_ac_charger_out">Cargador AC desconectado</string>
-  <string name="cit_accelermeter_sensor_check_summary">Mueve rápidamente el dispositivo en una dirección. Abajo se muestran valores de coordenadas X，Y，Z. (si el teléfono está en movimiento: X representa izquierda/derecha, Y representa delante y detras, Z representa arriba y abajo). Antes de calibrar el dispositivo, coloquelo sobre una superficie plana.</string>
+  <string name="cit_accelermeter_sensor_check_summary">Mueve rápidamente el dispositivo en una dirección. Abajo se muestran valores de coordenadas X，Y，Z. (si el teléfono está en movimiento: X representa izquierda/derecha, Y representa delante y detrás, Z representa arriba y abajo). Antes de calibrar el dispositivo, colóquelo sobre una superficie plana.</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerómetro</string>
   <string name="cit_aud_spkcal">Calibrar</string>
   <string name="cit_audio_cali_done">Calibrado</string>
@@ -29,11 +29,11 @@ Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"
 Sostenga el teléfono como si usted estuviera haciendo una llamada, hable por el micrófono principal, oirá la voz con eco"</string>
   <string name="cit_audio_lb_summary_phonecall">"Test de llamada simulada.
 
-Sostenga el teléfono como si hiciera una llamada y hable al microfono principal, debería oir su voz por el receptor. Haga la prueba en un ambiente silencioso"</string>
+Sostenga el teléfono como si hiciera una llamada y hable al micrófono principal, debería oir su voz por el receptor. Haga la prueba en un ambiente silencioso"</string>
   <string name="cit_audio_lb_summary_topmic_to_speaker">"Prueba de retroalimentación del micrófono posterior.
 
 Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">Prueba de retroalimentación, microfono superior</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Prueba de retroalimentación, micrófono superior</string>
   <string name="cit_audio_loopback_next">Siguiente</string>
   <string name="cit_audio_loopback_previous">Anterior</string>
   <string name="cit_battery_check_summary">Estadísticas de la batería del dispositivo</string>
@@ -62,7 +62,7 @@ Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"
   <string name="cit_calibration_pass">Calibración realizada</string>
   <string name="cit_camera_calibration_summary">Instrucciones de la prueba: 1 Pulse el botón de calibración abajo para cámara interfaz 2 Oprima atrás el botón enter para salir de la cámara interfaz 3 habrá una etiqueta de paso calibrado para indicar que la OEI ha sido calibrada</string>
   <string name="cit_camera_sdcard_error">No se puede tomar fotografía. La tarjeta SD está llena.</string>
-  <string name="cit_charger_plugin_check_summary">Cuando se conecta el cargador USB el texto \"carga via USB/AC\" debería mostrarse más abajo.</string>
+  <string name="cit_charger_plugin_check_summary">Cuando se conecta el cargador USB el texto \"carga vía USB/AC\" debería mostrarse más abajo.</string>
   <string name="cit_charger_plugin_check_title">Cargador (conectar)</string>
   <string name="cit_charger_plugout_check_summary">Cuando cargador USB se desconecta el texto \"Desconectado del cargador USB/AC\" debe ser exhibida por debajo.</string>
   <string name="cit_charger_plugout_check_title">Cargador (desconectar)</string>
@@ -210,7 +210,7 @@ Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"
   <string name="cit_tool_bluetooth_le_tx_ch19">Enter Bluetooth LE 2.440GHz Freq Test Mode</string>
   <string name="cit_tool_bluetooth_le_tx_h">Entrar en modo de baja potencia disipación (2,480 GHz) bluetooth</string>
   <string name="cit_tool_bluetooth_le_tx_l">Entrar en modo de baja potencia disipación (2,480 GHz) bluetooth</string>
-  <string name="cit_tool_bluetooth_not_on">Función BlueTooth no está ensendida!!</string>
+  <string name="cit_tool_bluetooth_not_on">¡La función BlueTooth no está encendida!</string>
   <string name="cit_tool_bluetooth_off">Desactivar Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Activar Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Introduzca bluetooth solo sonido test（2.480 GHz) modo</string>
