@@ -174,7 +174,7 @@
   <string name="fdn_check_failure">Sólo puede enviar mensajes a sus números de Marcación fija.</string>
   <string name="festival">Respuestas rápidas</string>
   <string name="festival_continue">Aceptar</string>
-  <string name="festival_networking_desc">Esta función necesita conectarse a internet para funcionar.</string>
+  <string name="festival_networking_desc">Esta función necesita conectarse a Internet para funcionar.</string>
   <string name="festival_networking_title">Aviso</string>
   <string name="festival_never_remind">No mostrar de nuevo.</string>
   <string name="festival_sms_category_count_format">%s</string>
@@ -208,7 +208,7 @@
   <string name="hint_search_sms">%d mensajes</string>
   <string name="hms_add_image_progress_message">Procesando…</string>
   <string name="hms_first_use_tips">Para recibir mensajes de servicio, usted necesita estar conectado a una red Wi-Fi</string>
-  <string name="hms_uri_param_err">La URL no puede estar vacia</string>
+  <string name="hms_uri_param_err">La URL no puede estar vacía</string>
   <string name="hold_to_talk">Mantenga presionado para hablar</string>
   <string name="hybrid_check_network">Ajustes de red</string>
   <string name="hybrid_data_error">Ocurrió un error</string>
@@ -227,7 +227,7 @@
   <string name="invalid_conversation">Conversación no válida</string>
   <string name="invalid_destination">Dirección de destino no válida.</string>
   <string name="invalid_private_contact">Contacto no válido</string>
-  <string name="invalid_recipient_message">Corregir destinatarios o no recibiran el mensaje.</string>
+  <string name="invalid_recipient_message">Corregir destinatarios o no recibirán el mensaje.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Diseño de presentación "</string>
   <string name="loading_all_messages">Un momento…</string>
@@ -288,7 +288,7 @@
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Mensaje de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
-  <string name="msglist_continue_to_pull_for_more">Desilize abajo para leer más</string>
+  <string name="msglist_continue_to_pull_for_more">Deslice abajo para leer más</string>
   <string name="msglist_more_refreshing">Actualizando…</string>
   <string name="msglist_no_more_to_refresh">Hasta la fecha</string>
   <string name="msglist_release_to_more">Acerca de versión</string>
@@ -320,9 +320,9 @@
   <string name="mx_and_voip_enable_popup_msg">Enviar mensajes y hacer llamadas a otros usuarios de MIUI sin incurrir en gastos con tu proveedor. VoIP desarrollada por Weihui. Ver Política de Privacidad de Weihui.</string>
   <string name="mx_and_voip_enable_popup_msg2">Política de Privacidad</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
-  <string name="mx_auto_resend_mms_summary">Se envia como MMS mediante conexión de datos móviles cuando no estás conectado a Wi-Fi (se aplican cargos normales por el uso de datos).</string>
+  <string name="mx_auto_resend_mms_summary">Se envía como MMS mediante conexión de datos móviles cuando no estás conectado a Wi-Fi (se aplican cargos normales por el uso de datos).</string>
   <string name="mx_auto_resend_sms">Enviar como MMS</string>
-  <string name="mx_auto_resend_sms_summary">Se envia como MMS mediante conexión de datos móviles cuando no estás conectado a Wi-Fi (se aplican cargos normales por el uso de datos).</string>
+  <string name="mx_auto_resend_sms_summary">Se envía como MMS mediante conexión de datos móviles cuando no estás conectado a Wi-Fi (se aplican cargos normales por el uso de datos).</string>
   <string name="mx_b2c_message_desc">Notificaciones de red</string>
   <string name="mx_b2c_message_resend_not_online">No se puede reenviar el mensaje. Mensajes Mi está fuera de línea.</string>
   <string name="mx_b2c_message_server">Servidor</string>
@@ -337,7 +337,7 @@
   <string name="mx_dspt_provision_ex2">Política de Privacidad</string>
   <string name="mx_enable">Mensajes Mi</string>
   <string name="mx_enable_ex">Mensajes Mi y Voz Mi</string>
-  <string name="mx_enable_popup_msg">Envia mensajes a otros usuarios de MIUI gratis.</string>
+  <string name="mx_enable_popup_msg">Envía mensajes a otros usuarios de MIUI gratis.</string>
   <string name="mx_filter_message_from_stranger">Bloquear Mensajes Mis de números desconocidos</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">Seguirás recibiendo SMS de números desconocidos. Puedes activar o desactivar esta funcionalidad en Mensajes &gt; Ajustes.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensajes Mis de números desconocidos</string>
@@ -404,7 +404,7 @@
   <string name="pref_sms_theme_title">Pantalla</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensajes WAP automáticos (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensajes por conversación</string>
-  <string name="pref_summary_delivery_reports">Mostrar el estado de entrega para cada mensaje que envias</string>
+  <string name="pref_summary_delivery_reports">Mostrar el estado de entrega para cada mensaje que envía</string>
   <string name="pref_summary_delivery_ringtone">Recibir notificaciones de sonido para los mensajes entregados.</string>
   <string name="pref_summary_hide_festival">Ocultar la pestaña \"Recomendado\" para los idiomas que no sean chino</string>
   <string name="pref_summary_manage_sim_messages">Administrar los mensajes almacenados en la tarjeta SIM</string>
@@ -525,7 +525,7 @@
   <string name="security_alert_dialog_title">Reportar</string>
   <string name="select_audio">Seleccione audio</string>
   <string name="select_bottom_text">Texto en la parte inferior</string>
-  <string name="select_copy_text">Selecionar y copiar mensaje de texto</string>
+  <string name="select_copy_text">Seleccionar y copiar mensaje de texto</string>
   <string name="select_different_media">Elija un %1$s diferente.</string>
   <string name="select_link_title">Elegir acción</string>
   <string name="select_local_audio">Seleccione audio</string>
@@ -589,7 +589,7 @@
   <string name="sp_mark_as_read">Marcar todos los mensajes como leídos?</string>
   <string name="sp_mark_as_read_menu_title">Marcar como leído</string>
   <string name="sp_mark_as_read_progress">Trabajando…</string>
-  <string name="sp_mark_as_read_title">Marcar todos como leidos</string>
+  <string name="sp_mark_as_read_title">Marcar todos como leídos</string>
   <string name="status_failed">No realizado</string>
   <string name="status_label">"Estado: "</string>
   <string name="status_pending">Pendiente</string>

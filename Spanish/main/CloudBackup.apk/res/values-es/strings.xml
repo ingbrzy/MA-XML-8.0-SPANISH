@@ -32,7 +32,7 @@
   <string name="cloud_app_restore_data">Restaurar las aplicaciones previamente instaladas</string>
   <string name="cloud_app_restore_error">No se pudo restaurar</string>
   <string name="cloud_app_restore_success">Aplicaciones restauradas</string>
-  <string name="cloud_app_restore_wifi_prompt">Para restaurar la aplicación, conectese a una red Wi-Fi.</string>
+  <string name="cloud_app_restore_wifi_prompt">Para restaurar la aplicación, conéctese a una red Wi-Fi.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Estos elementos se guardarán en Mi Cloud cuando el dispositivo esté conectado a Wi-Fi:
 *\u0009\u0009\u0009\u0009Aplicaciones, disposición de pantalla de inicio y fondos
@@ -95,7 +95,7 @@ Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</st
   <string name="open_wifi_setting">Configuración Wi-Fi</string>
   <string name="process_whole_recovery">Restaurando \"%s\"</string>
   <string name="query_restore_back_view">Copia de seguridad de Mi Cloud</string>
-  <string name="query_restore_description">Restaurar aplicaciones de pantalla de inicio y ajustes usando esta copia. Esto sobreescribirá los datos de las aplicaciones ya instaladas en el dispositivo. Las aplicaciones no incluídas en la copia se moverán a la última pantalla del escritorio.</string>
+  <string name="query_restore_description">Restaurar aplicaciones de pantalla de inicio y ajustes usando esta copia. Esto sobrescribirá los datos de las aplicaciones ya instaladas en el dispositivo. Las aplicaciones no incluidas en la copia se moverán a la última pantalla del escritorio.</string>
   <string name="query_restore_summary">Se encontró una copia en Mi Cloud para este dispositivo. ¿Restaurar aplicaciones de pantalla de inicio y ajustes o usarlo como nuevo dispositivo y borrar las copias previas de Mi Cloud?</string>
   <string name="recover_from_micloud">Restaurar de copia en Mi Cloud</string>
   <string name="recover_home_settings">Restaurar configuración de la pantalla de inicio</string>
@@ -104,7 +104,7 @@ Nota: Los datos de las aplicaciones instaladas no se copiarán en Mi Cloud."</st
   <string name="recovering">Restaurando %s</string>
   <string name="remove_task_in_process">Eliminando…</string>
   <string name="remove_task_unfinished">Eliminado no finalizado</string>
-  <string name="restore_data_summary">Esta funcionalidad requiere conexión a internet.</string>
+  <string name="restore_data_summary">Esta funcionalidad requiere conexión a Internet.</string>
   <string name="restore_from_cloud">Restaurar desde Mi Cloud</string>
   <string name="restore_from_this_device">Restaurar usando esta copia</string>
   <string name="restore_home_screen_apps">Restaurar desde copia de Mi Cloud</string>

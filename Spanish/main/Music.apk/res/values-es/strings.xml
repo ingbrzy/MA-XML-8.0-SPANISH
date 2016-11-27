@@ -162,7 +162,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="disable_auto_payment_success">Desactivar</string>
   <string name="disable_auto_payment_success_message">Se desactivó la renovación automática. Después de que finalice tu suscripción actual, tendrás que volver a suscribirte para descargar canciones.</string>
   <string name="disallow_add_to_fm">No se pueden agregar canciones a la radio FM</string>
-  <string name="disallow_add_to_personal_radio">Radio personal es sólo de lecura</string>
+  <string name="disallow_add_to_personal_radio">Radio personal es sólo de lectura</string>
   <string name="do_not_remind_again">No mostrar de nuevo</string>
   <string name="doc_filter">Documentos</string>
   <string name="done">Hecho</string>
@@ -228,7 +228,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_traffic_dialog_position_button">Descargar a la vez</string>
   <string name="download_unknown_title">&lt;Sin título&gt;</string>
   <string name="download_wait_connect">Esperando conexión</string>
-  <string name="download_when_network_connected">Descargar cuando se conecte a internet</string>
+  <string name="download_when_network_connected">Descargar cuando se conecte a Internet</string>
   <string name="download_while_playing_no_vip_summary">descargar automáticamente las canciones que transmitirá en línea (excepto los contenidos de pago)</string>
   <string name="download_while_playing_summary">Descargar automáticamente las canciones que escuche online</string>
   <string name="download_while_playing_title">Descargar mientras se reproduce</string>
@@ -432,7 +432,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="multichoice">Seleccionar</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar archivos de audio</string>
-  <string name="music_service">Servicio de musica</string>
+  <string name="music_service">Servicio de música</string>
   <string name="music_settings">Música</string>
   <string name="music_traffic">Mi Música plan de datos</string>
   <string name="music_traffic_summary">Escuchar y descargar canciones sin necesidad de utilizar los datos</string>
@@ -522,13 +522,13 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="paused_insufficient_space">Esperando</string>
   <string name="paused_queued_for_wifi">Esperando conexión</string>
   <string name="paused_unknown">Pausado</string>
-  <string name="paused_waiting_for_network">Esperando por conexion</string>
+  <string name="paused_waiting_for_network">Esperando por conexión</string>
   <string name="paused_waiting_to_retry">Esperando para reintentar</string>
   <string name="pay">Pagar:</string>
   <string name="pay_now">Servicio actual</string>
   <string name="payment_fail">Ocurrió un error en el pago</string>
   <string name="payment_success">Pago realizado</string>
-  <string name="permission_declaration_message">Permitir acceso al almacenamiento en Seguridad &gt; Permisos &gt; Permisos &gt; Almacenamientoe &gt; Música disponible para usar de manera normal</string>
+  <string name="permission_declaration_message">Permitir acceso al almacenamiento en Seguridad &gt; Permisos &gt; Permisos &gt; Almacenamiento &gt; Música para poder usar Música de manera normal</string>
   <string name="permission_declaration_negative_text">Después</string>
   <string name="permission_declaration_positive_text">Ir a Seguridad</string>
   <string name="permission_declaration_title">Permitir acceso</string>
@@ -548,7 +548,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="please_search_or_select">Buscar o seleccionar un campo</string>
   <string name="please_select_song">Seleccione una canción primero</string>
   <string name="power_save_mode_dialog_msg">El ahorro de batería está encendido. ¿Comenzar a descargar ahora mismo?</string>
-  <string name="pref_download_settings_title">Tamaño maximo de descarga</string>
+  <string name="pref_download_settings_title">Tamaño máximo de descarga</string>
   <string name="pref_summary_any_bytes_popup">Siempre espere a disponer de conexión Wi-Fi para descargar archivos</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se utiliza la conexión de datos móvil para descargar el contenido</string>
   <string name="pref_summary_max_bytes_limit_format">Espere a disponer de Wi-Fi si el tamaño del archivo excede %s</string>
@@ -582,8 +582,8 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">¿Pagar ahora?</string>
   <string name="recommend_fragment_title">Destacado</string>
-  <string name="recommended_file_size_download_in_mobile">Usar %s datos moviles para descargar este archivo?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Usa datos moviles para descargar este archivo??</string>
+  <string name="recommended_file_size_download_in_mobile">Usar %s datos móviles para descargar este archivo?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Usa datos móviles para descargar este archivo??</string>
   <string name="remaining">Restante este mes:</string>
   <string name="remove">Borrar</string>
   <string name="remove_download">Retirar</string>
@@ -635,10 +635,10 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="set_id3_not_support_format">No se puede editar este formato de archivo</string>
   <string name="set_id3_successful">Información de la canción guardada</string>
   <string name="set_lyric_successful">Letra guardada</string>
-  <string name="set_now">Ir a configuraciónes</string>
+  <string name="set_now">Ir a configuraciones</string>
   <string name="set_ringtones_failed">No se pudo establecer tono de llamada</string>
   <string name="set_ringtones_successful">%s establecido como tono de llamada</string>
-  <string name="setting_feature_setting">Caracteristica de ajustes</string>
+  <string name="setting_feature_setting">Característica de ajustes</string>
   <string name="settings">Configuraciones</string>
   <string name="settings_notification_text">Mostrar widget del reproductor en el panel de notificaciones</string>
   <string name="settings_notification_title">widget de panel de notificaciones</string>
@@ -773,7 +773,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="upgrade_force">Dejamos de dar servicio a nuestro servicio de streaming actual por problemas de copyright. Actualiza a la última versión de nuestra aplicación de Música para escuchar música de alta calidad.</string>
   <string name="upgrade_immediate">Actualizar ahora</string>
   <string name="upgrade_membership">Obtener mas espacio</string>
-  <string name="upgrade_music">Actualizar musica</string>
+  <string name="upgrade_music">Actualizar música</string>
   <string name="upgrade_music_message">El paquete está listo. Reiniciar para actualizar.</string>
   <string name="upgrade_nobeta">Suspendemos el servicio de streaming de música mientras solventamos asuntos de copyright. Disculpas por los inconvenientes :(</string>
   <string name="upgrade_remind">Actualización disponible</string>

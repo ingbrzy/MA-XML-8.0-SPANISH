@@ -2,7 +2,7 @@
 <resources>
   <string name="access_denied">Acceso denegado</string>
   <string name="account">Cuenta</string>
-  <string name="account_related">El dispositivo ya está asociado a una Cuenta Mi (%s). Conectese a la red para verificar el dispositivo.</string>
+  <string name="account_related">El dispositivo ya está asociado a una Cuenta Mi (%s). Conéctese a la red para verificar el dispositivo.</string>
   <string name="activate">Activar</string>
   <string name="activate_finddevice">Conéctese a la red para activar el dispositivo</string>
   <string name="activate_number_change_dialog_message">Seleccione un número de teléfono que será visible a otros dispositivos cuando se llama usando VoIP.</string>
@@ -121,7 +121,7 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
   <string name="header_find_device_settings">Localizar dispositivo</string>
   <string name="i_know">Aceptar</string>
   <string name="input_password_hint">Introducir contraseña</string>
-  <string name="internet_access_dspt">Esta aplicación necesita conectarse a internet para funcionar con normalidad.</string>
+  <string name="internet_access_dspt">Esta aplicación necesita conectarse a Internet para funcionar con normalidad.</string>
   <string name="license_host_unreachable">No es posible conectarse a la red. Para ver esta información ahora, vaya a %s.</string>
   <string name="loading">Solo un segundo…</string>
   <string name="loading_hint">Cargando</string>
@@ -176,7 +176,7 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_confusion_yes">Sí</string>
   <string name="micloud_detail_battery_low_message">La batería está baja. Por favor cargue el teléfono para realizar la sincronización.</string>
   <string name="micloud_detail_battery_low_title">La batería está baja</string>
-  <string name="micloud_detail_depend_wifi_message">Por favor conéctate a Wi-Fi o comprueba los ajustes de sincronización.</string>
+  <string name="micloud_detail_depend_wifi_message">Por favor, conéctese a Wi-Fi o compruebe los ajustes de sincronización.</string>
   <string name="micloud_detail_depend_wifi_title">Se necesita red Wi-Fi</string>
   <string name="micloud_detail_do_not_sync">No sincronizar</string>
   <string name="micloud_detail_download_syncing">Descargando %s</string>
@@ -201,7 +201,7 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_dspt_provision">Use Mi Cloud para sincronizar datos, localizar su dispositivo y compartir cosas con sus amigos.</string>
   <string name="micloud_find_device_finish">Listo</string>
   <string name="micloud_find_device_guide_button">Activar Encontrar dispositivo</string>
-  <string name="micloud_find_device_guide_content">"Cuando se cambia la tarjeta SIM, un mensaje és enviado automáticamente
+  <string name="micloud_find_device_guide_content">"Cuando se cambia la tarjeta SIM, un mensaje es enviado automáticamente
 para reactivar esta función."</string>
   <string name="micloud_find_device_guide_fail_reopen">Activar Encontrar dispositivo en Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Verifique su conexión de red y vuelva a intentarlo.</string>
@@ -224,7 +224,7 @@ o borrar su dispositivo."</string>
   <string name="micloud_find_device_opened_content">Encuentre su dispositivo en %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_full_influence_dspt">"Se guardará una copia de seguridad en la nube de todas sus fotos, videos, notas y aplicacioness.
+  <string name="micloud_full_influence_dspt">"Se guardará una copia de seguridad en la nube de todas sus fotos, videos, notas y aplicaciones.
 
 De esta forma, si pierde o se daña su dispositivo, sus datos seguirán a salvo.
 
@@ -281,7 +281,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
 
 %s Mi Credits"</string>
   <string name="micloud_member_buy_title">Confirmar pedido</string>
-  <string name="micloud_member_net_error_alert_message">No tiene conexión a internet.</string>
+  <string name="micloud_member_net_error_alert_message">No tiene conexión a Internet.</string>
   <string name="micloud_member_net_error_alert_title">No es posible conectarse a la red</string>
   <string name="micloud_member_pay_fail_toast">No se pudo completar el pago</string>
   <string name="micloud_member_pay_miid_error_toast">Error de cuenta</string>
@@ -385,7 +385,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="mx_dspt_provision_with_voip">Llame gratis a otros dispositivos MIUI con su conexión a Internet. Puede activar o desactivar esta característica en cualquier momento en Ajustes. Weihui proporciona el servicio VoIP. Vea la Política de Privacidad de Weihui</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidad</string>
   <string name="mx_sub_dspt_provision">Mensajes Mi</string>
-  <string name="mx_sub_dspt_provision_with_voip">Llamada por internet</string>
+  <string name="mx_sub_dspt_provision_with_voip">Llamada por Internet</string>
   <string name="mx_voip_dspt">Mi Voice</string>
   <string name="network_unconnected">"No se pudo conectar a la red"</string>
   <string name="next">Siguiente</string>
@@ -478,7 +478,7 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="sync_sub_int_dspt">Su operadora podría cobrarle por el envío de un SMS internacional para la activación de este servicio.</string>
   <string name="title_reg">Crear una Cuenta Mi</string>
   <string name="total_space_upgraded_to">Espacio total: %s</string>
-  <string name="trying_to_connect_to_network">Conectandose a la red</string>
+  <string name="trying_to_connect_to_network">Conectándose a la red</string>
   <string name="unactivated_user">Desconectado</string>
   <string name="upgrade_space">Añadir espacio</string>
   <string name="upgrade_space_gb">GB</string>

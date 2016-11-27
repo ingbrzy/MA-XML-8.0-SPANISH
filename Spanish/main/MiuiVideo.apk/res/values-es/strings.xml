@@ -56,7 +56,7 @@
   <string name="bestv">BesTv</string>
   <string name="birthday">Cumpleaños</string>
   <string name="bmp_quality_mode">Mejorar calidad de vídeo</string>
-  <string name="bmp_quality_mode_desc">Mejorar calidad de imágen del vídeo</string>
+  <string name="bmp_quality_mode_desc">Mejorar calidad de imagen del vídeo</string>
   <string name="buffering">Cargando búfer…</string>
   <string name="buffering_video_netplay_label_v5">Cargando búfer…</string>
   <string name="buy_vip">compra vip</string>
@@ -105,8 +105,8 @@
   <string name="declaration_content">1. Mediante el uso de esta aplicación incluyendo Sohu vídeo, iQIYI y el servicio a otros proveedores de contenido, usted acepta "<a href="http://www.miui.com/res/doc/eula.html">Acuerdo del Usuario</a> and <a href="http://www.miui.com/res/doc/privacy.html">Privacy Policy</a>".
 2. Para mejorar la experiencia del usuario, vamos a recoger algunos datos sobre el dispositivo y el contenido que ve. Sohu y iQIYI recibirá también el IMEI del dispositivo.
 3. Nuestro plugin de vídeo HD será instalado automáticamente.
-4. Esta característica necesita conectarse a internet para funcionar con normalidad."</string>
-  <string name="declaration_content_td_custom">Esta característica necesita conectarse a internet para funcionar normalmente.</string>
+4. Esta característica necesita conectarse a Internet para funcionar con normalidad."</string>
+  <string name="declaration_content_td_custom">Esta característica necesita conectarse a Internet para funcionar normalmente.</string>
   <string name="defaults">Por defecto</string>
   <string name="delete">Eliminar</string>
   <string name="delete_action_text">Borrar (%d)</string>
@@ -243,7 +243,7 @@
   <string name="notification_title">\"%1$s\" completar la descarga</string>
   <string name="nowifi_alert_dialog_continue">Aceptar</string>
   <string name="nowifi_alert_dialog_exit">Cancelar</string>
-  <string name="nowifi_alert_dialog_message">"Usar tu conexion de datos móviles para descargar vídeos en streaming puede incrementar el consumo de datos. Exceder el límite de tu plan de datos puede acarrear gastos extra."</string>
+  <string name="nowifi_alert_dialog_message">"Usar tu conexión de datos móviles para descargar vídeos en streaming puede incrementar el consumo de datos. Exceder el límite de tu plan de datos puede acarrear gastos extra."</string>
   <string name="nowifi_alert_dialog_title">Alerta de uso de datos</string>
   <string name="offline">Descargar</string>
   <string name="offline_add_queue_fail">Error al descargar \"%1$s\", por favor inténtelo más tarde</string>
@@ -312,16 +312,16 @@
   <string name="passport_error_email">La dirección de correo electrónico que ha introducido no es válido</string>
   <string name="passport_error_empty_captcha_code">Enter passport_captcha code</string>
   <string name="passport_error_empty_email">Ingrese su dirección de correo electrónico</string>
-  <string name="passport_error_empty_phone_num">Ingresa su número de telefóno</string>
+  <string name="passport_error_empty_phone_num">Ingresa su número de teléfono</string>
   <string name="passport_error_empty_pwd">Ingrese su contraseña</string>
   <string name="passport_error_empty_username">Ingrese el ID de la cuenta</string>
   <string name="passport_error_empty_vcode">Ingrese el código de verificación</string>
   <string name="passport_error_illegal_pwd">Contraseña invalida</string>
   <string name="passport_error_invalid_dev_id">"El ID del dispositivo no es válido."</string>
-  <string name="passport_error_invalid_phone_num">Numero de telefono invalido</string>
+  <string name="passport_error_invalid_phone_num">Numero de teléfono invalido</string>
   <string name="passport_error_login">"No se pudo iniciar sesión"</string>
   <string name="passport_error_network">"No se puede conectar a la red"</string>
-  <string name="passport_error_phone_error">Numero de telefono invalido</string>
+  <string name="passport_error_phone_error">Numero de teléfono invalido</string>
   <string name="passport_error_server">Error del Servidor</string>
   <string name="passport_error_sim_not_ready">"No se puede encontrar la tarjeta SIM"</string>
   <string name="passport_error_ssl_hand_shake">"No se pudo conectar con el servidor"</string>
@@ -341,7 +341,7 @@
   <string name="passport_input_captcha_hint">Introduzca el código</string>
   <string name="passport_input_password_for_login">Este número está asociado con una cuenta existente, ingrese su contraseña</string>
   <string name="passport_input_password_hint">Introducir la contraseña</string>
-  <string name="passport_input_phone_hint">Ingrese el número telefóno</string>
+  <string name="passport_input_phone_hint">Ingrese el número teléfono</string>
   <string name="passport_input_vcode_hint">Ingrese el código de verificación</string>
   <string name="passport_license_host_unreachable">"No se puede conectar a la red. Puede ver esta página en %s."</string>
   <string name="passport_loading">Cargando…</string>
@@ -476,10 +476,10 @@
   <string name="score_douban">Puntuación Douban %1$s</string>
   <string name="sdcard_storage">Memoria interna</string>
   <string name="search">Buscar</string>
-  <string name="search_develop_settings">Ajustes de Desarrollo;seleccionar Versión;Elegir versión;actualizar Video;Versión;Foro;modo de Rendimiento;Calidad de imagen;Plugins del reproductor</string>
+  <string name="search_develop_settings">Ajustes de Desarrollo;seleccionar Versión;Elegir versión;actualizar Vídeo;Versión;Foro;modo de Rendimiento;Calidad de imagen;Plugins del reproductor</string>
   <string name="search_hint">Buscar vídeo en línea</string>
   <string name="search_result_empty_text">"No se ha encontrado nada"</string>
-  <string name="search_settings">Ajustes de Video;Red Movil;Wifi;reproducir Video;Push;Notificación;Cache;Ajustes de desarrollo</string>
+  <string name="search_settings">Ajustes de Vídeo;Red Móvil;Wifi;reproducir Vídeo;Push;Notificación;Caché;Ajustes de desarrollo</string>
   <string name="search_snack_more">Más Información</string>
   <string name="second"> Segundo</string>
   <string name="see_all_count_comment">%d comentarios más</string>
@@ -550,7 +550,7 @@
   <string name="video">Vídeo</string>
   <string name="video_app_update">Actualizar</string>
   <string name="video_bbs">Únete al foro</string>
-  <string name="video_bbs_url">Únete a nostros y ayuda a desarrollar esta aplicación de vídeo</string>
+  <string name="video_bbs_url">Únete a nosotros y ayuda a desarrollar esta aplicación de vídeo</string>
   <string name="video_count">%d vídeos</string>
   <string name="video_info_audio_bitrate_label">Tasa de bits de audio:</string>
   <string name="video_info_audio_coding_label">Formato de codificación de audio:</string>
