@@ -53,7 +53,7 @@
   <string name="adblock_rules_not_updated_toast">"No se pudo actualizar"</string>
   <string name="adblock_rules_restore">Desbloquear</string>
   <string name="adblock_rules_updated_toast">Actualizado correctamente</string>
-  <string name="adblock_websites_settings_empyt_hint">No ha bloqueado ninún sitio.</string>
+  <string name="adblock_websites_settings_empyt_hint">No ha bloqueado ningún sitio.</string>
   <string name="adblock_websites_settings_title">Sitios bloqueados</string>
   <string name="add_bookmark_group">Agregar grupo</string>
   <string name="add_bookshelf_popup_text">Añadido a la estantería</string>
@@ -314,7 +314,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="geolocation_permissions_prompt_message">%s quiere saber su ubicación</string>
   <string name="geolocation_permissions_prompt_remember">Recordar preferencia</string>
   <string name="geolocation_permissions_prompt_share">Compartir ubicación</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Este sitio puede acceder a su ubicación. Cambia esto en las configuraciones &gt; Avanzado &gt; pantalal de datos del sitio.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Este sitio puede acceder a su ubicación. Cambia este en las configuraciones &gt; Avanzado &gt; pantalla de datos del sitio.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Este sitio no puede acceder a su ubicación</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancelar</string>
   <string name="geolocation_settings_page_dialog_message">¿Borrar el acceso a la ubicación para este sitio?</string>
@@ -419,7 +419,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuichromium_error_page_diagnose_protocol">Error de protocolo de red</string>
   <string name="miuichromium_error_page_diagnose_success">Señal de red pobre</string>
   <string name="miuichromium_error_page_diagnose_timeout">Tiempo de conexión agotado</string>
-  <string name="miuichromium_error_page_diagnose_website">El sitio está caido</string>
+  <string name="miuichromium_error_page_diagnose_website">El sitio está caído</string>
   <string name="miuichromium_error_page_diagnosing">Comprobación de la red</string>
   <string name="miuichromium_error_page_homepage">Inicio</string>
   <string name="miuichromium_error_page_mobile">Datos móviles</string>
@@ -428,7 +428,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuichromium_error_page_no_network">"No se puede conectar a la red"</string>
   <string name="miuichromium_error_page_reload">Recargar</string>
   <string name="miuichromium_error_page_safe_network">Modo seguro</string>
-  <string name="miuichromium_error_page_server_error">Estan intentando conectarse demasiados dispositivos</string>
+  <string name="miuichromium_error_page_server_error">Están intentando conectarse demasiados dispositivos</string>
   <string name="miuichromium_error_page_title">Ocurrió un error</string>
   <string name="miuichromium_error_page_unknown_error">¡Vaya!, algo salió mal</string>
   <string name="miuichromium_error_page_wlan">Encender Wi-Fi</string>
@@ -644,7 +644,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="save_button_text">Guardar</string>
   <string name="save_dialog_title">Guardar</string>
   <string name="save_file">Guardar archivos %s</string>
-  <string name="save_file_already_exist_alert_message">Ya existe un archivo con el mismo nombre, ¿quieres sobrescribirlo?</string>
+  <string name="save_file_already_exist_alert_message">Ya existe un archivo con el mismo nombre, ¿quiere sobrescribirlo?</string>
   <string name="save_file_already_exist_alert_title">¿Sobrescribir archivo?</string>
   <string name="save_form_data_confirm_message">Apagar esta característica puede afectar al uso.</string>
   <string name="save_image_failed">"No se pudo guardar la imagen"</string>
