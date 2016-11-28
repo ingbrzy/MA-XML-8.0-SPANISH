@@ -1787,8 +1787,8 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="launch_by_default">Abrir de forma predeterminada</string>
   <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
   <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
-  <string name="launcher_auto_fill_empty_title">Llenar automáticamente las celdas vacías</string>
-  <string name="launcher_title">Lanzador</string>
+  <string name="launcher_auto_fill_empty_title">Rellenar celdas vacías</string>
+  <string name="launcher_title">Pantalla de inicio</string>
   <string name="launching_cit">Ejecutando CIT</string>
   <string name="launching_pho">Enviando información del teléfono, por favor espere.</string>
   <string name="launching_rep">Notificando…</string>
@@ -1900,7 +1900,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lock_after_timeout_summary_with_exception">%1$s después de activar el modo de suspensión, salvo si %2$s mantiene el dispositivo desbloqueado</string>
   <string name="lock_immediately_summary_with_exception">Inmediatamente después de activar el modo de suspensión (salvo si %1$s mantiene el dispositivo desbloqueado)</string>
   <string name="lock_intro_message">Lock_intro_message</string>
-  <string name="lock_screen_cells_title">Bloquear celdas de pantalla</string>
+  <string name="lock_screen_cells_title">Bloquear disposición de la pantalla de inicio</string>
   <string name="lock_screen_notifications_interstitial_message">¿Cómo quieres que se muestren las notificaciones cuando esté bloqueado el dispositivo?</string>
   <string name="lock_screen_notifications_interstitial_title">Notificaciones</string>
   <string name="lock_screen_notifications_summary_disable">No mostrar notificaciones</string>
@@ -2173,7 +2173,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="miui_data_usage_menu_metered">Puntos de acceso móviles</string>
   <string name="miui_disturb_title">No molestar</string>
   <string name="miui_experience_optimization">Activar optimización MIUI</string>
-  <string name="miui_screen_config_title">Configuración de Pantalla del Lanzador de Miui</string>
+  <string name="miui_screen_config_title">Ajustes de la pantalla de inicio</string>
   <string name="miui_silent_title">Modo silencio</string>
   <string name="mms_breathing_light_color_title">Color de mensajes</string>
   <string name="mms_breathing_light_freq_title">Frecuencia del pulso de mensajes</string>
@@ -3014,6 +3014,11 @@ Seleccione su sistema operativo:"</string>
   <string name="reset_network_final_button_text">Restablecer ajustes</string>
   <string name="reset_network_final_desc">¿Quieres restablecer todos los ajustes de red? Esta acción no se puede deshacer.</string>
   <string name="reset_network_title">Restablecer ajustes de red</string>
+  <string name="reset_second_space_passwd">Restablecer contraseña de segundo espacio</string>
+  <string name="reset_second_space_passwd_cancel">Cancelar</string>
+  <string name="reset_second_space_passwd_confirm">Continuar</string>
+  <string name="reset_second_space_passwd_detail">Introduzca la contraseña de la Cuenta Mi utilizada en Primer espacio</string>
+  <string name="resetting_second_space_passwd">Restablecimiento de la contraseña del segundo espacio</string>
   <string name="resolver_settings_label">Ordenar</string>
   <string name="resource_ringtone_volume_mute">Su timbre está silenciado</string>
   <string name="restore_default_apn">Restaurando la configuración de APN predeterminada</string>
@@ -3081,7 +3086,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="screen">Pantalla</string>
   <string name="screen_button">Botones en pantalla</string>
   <string name="screen_button_tips">Deslizar hacia abajo para ocultar botones en pantalla</string>
-  <string name="screen_cells_config_title">Configuración de Celdas de Pantalla</string>
+  <string name="screen_cells_config_title">Disposición de la pantalla de inicio</string>
   <string name="screen_color_and_optimize">Colores y contraste</string>
   <string name="screen_color_and_optimize_disabled">No se pudo ajustar la temperatura del color en el modo lectura</string>
   <string name="screen_color_temperature">Colores</string>
