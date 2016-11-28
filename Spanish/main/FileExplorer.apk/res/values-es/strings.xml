@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_login_title">Cuenta</string>
+  <string name="a_week_share_rank">Clasificación semanal</string>
   <string name="action_mode_deselect_all">Deseleccionar todos</string>
   <string name="action_mode_select_all">Seleccionar todos</string>
   <string name="activity_parse_video_title">Pegar enlace de video</string>
@@ -98,6 +98,7 @@
   <string name="claim_video_success">Reclamado con éxito</string>
   <string name="claim_video_unlogin">Identifíquese para reclamar videos</string>
   <string name="clean_hint">Tocar para liberar espacio</string>
+  <string name="click_to_refresh">Pulse aquí para recargar</string>
   <string name="click_to_switch_volume">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
   <string name="click_to_switch_volume_pad">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
   <string name="comment_delete_message">El comentario será borrado permanentemente.</string>
@@ -202,7 +203,6 @@
   <string name="file_loading">Cargando…</string>
   <string name="file_name_invalid">Los nombres de archivo no pueden contener los siguientes caracteres: /\\:*?&lt;&gt;</string>
   <string name="file_not_exist">El archivo no existe</string>
-  <string name="flow_setting">Ajustes</string>
   <string name="folder_name_empty">El nombre de la carpeta no puede estar vacío</string>
   <string name="folder_name_illegal">Nombre de carpeta no válido</string>
   <string name="follow_fail">"No se pudo seguir, inténtelo de nuevo"</string>
@@ -234,11 +234,12 @@
   <string name="homepage_tab_category">Categorías</string>
   <string name="homepage_tab_file_view">Teléfono</string>
   <string name="homepage_tab_recent">Reciente</string>
-  <string name="hot_app">Aplicaciones populares</string>
   <string name="hot_comments">Comentarios populares</string>
   <string name="hot_sticker">Stickers Populares</string>
+  <string name="hot_topic_str">Temas populares</string>
   <string name="hot_video">Videos populares</string>
   <string name="hot_video_load_more">Más &gt;</string>
+  <string name="hot_video_title">Vídeos populares</string>
   <string name="hottest_sticker_str">Popular</string>
   <string name="if_cancel">¿Cancelar esta operación?</string>
   <string name="image_loading_error">No se pudo cargar la imagen</string>
@@ -272,7 +273,6 @@
   <string name="login_expired">Sesión expirada, conectarse de nuevo</string>
   <string name="login_failed_tip">No se puedo iniciar sesión, intentar de nuevo</string>
   <string name="login_success_tip">Conectado satisfactoriamente</string>
-  <string name="login_tip">Comparte videos con tópicos populares para ganar premios</string>
   <string name="make_private">Ocultar</string>
   <string name="make_private_msg_1">¿Ocultar este Archivo?</string>
   <string name="make_private_msg_2">¿Ocultar estos archivos?</string>
@@ -327,6 +327,8 @@
   <string name="no_apk">Toque para obtener aplicaciones</string>
   <string name="no_app_tags">Vacío</string>
   <string name="no_comment">No hay comentarios</string>
+  <string name="no_content">Abre el explorador otra vez para ver los vídeos populares</string>
+  <string name="no_daren_tip">Nada por aquí aún</string>
   <string name="no_downloaded_sticker_tip">No se encontraron pegatinas descargadas. Descubre las pegatinas compartidas por fans de Mi.</string>
   <string name="no_enough_storage_indication">El espacio de almacenamiento del dispositivo está lleno.</string>
   <string name="no_enough_storage_title">No hay espacio suficiente</string>
@@ -360,7 +362,6 @@
   <string name="oauth_success_tip">Autorizado con éxito</string>
   <string name="one_account_bind_needed">Añada al menos una cuenta</string>
   <string name="online_not_support">No se puede ver este archivo online por el momento.</string>
-  <string name="only_wifi">Descargar cuando se conecte a Wi-Fi</string>
   <string name="open_app">Abrir</string>
   <string name="open_private_folder">Creando una carpeta oculta</string>
   <string name="operation_add_fav">Añadiendo a favoritos…</string>
@@ -416,7 +417,6 @@
   <string name="phone_bind_skip">Saltar</string>
   <string name="phone_bind_tip">Añadir número telefónico para participar en los rankings y ganar premios</string>
   <string name="phone_bind_title">Añadir número telefónico</string>
-  <string name="phone_btn_str">Teléfono</string>
   <string name="phone_code_err">Número telefónico o código de verfificación son incorrectos</string>
   <string name="phone_code_et_hint">Entrar código de verificación</string>
   <string name="phone_get_code_tip">Demasiados intentos para obtener el código hoy</string>
@@ -471,8 +471,6 @@
   <string name="rename_failed">No se puede renombrar %1$s</string>
   <string name="repair_done">Restaurado</string>
   <string name="repair_error">No se pudo restaurar</string>
-  <string name="repair_error_no_media">No se puede restaurar, por favor seleccione al menos un fichero multimedia.</string>
-  <string name="repair_error_no_order">No se puede restaurar, por favor borre o desencripte %s e inténtelo otra vez</string>
   <string name="repair_file">Restaurar archivos encriptados</string>
   <string name="reply_success">Comentario añadido</string>
   <string name="report_abuse">Abuso</string>
@@ -541,6 +539,7 @@
   <string name="setting_account_bind">Añadir cuenta</string>
   <string name="setting_message_notify">Notificaciones</string>
   <string name="setting_shortcut">Añadir un acceso directo a la pantalla de inicio</string>
+  <string name="sticker_btn_str_explore_tab">¡Explora toneladas de cosas divertidas!</string>
   <string name="share_success">Compartido correctamente</string>
   <string name="share_tip_1">Gracias por compartir, sígueme para ver más vídeos</string>
   <string name="share_tip_2">Gracias por compartir, sígueme para ver más vídeos</string>
@@ -590,6 +589,7 @@
   <string name="tab_claim">Reclamar</string>
   <string name="tab_common_app">Aplicaciones y carpetas</string>
   <string name="tab_discover">Descubrir</string>
+  <string name="tab_explore">Descubrir</string>
   <string name="tab_follow">Siguiendo</string>
   <string name="tab_homepage">Inicio</string>
   <string name="tab_hottest_video">Popular</string>
@@ -610,6 +610,8 @@
   <string name="title_select_volume">Seleccionar volumen</string>
   <string name="toast_file_not_can_read">No se encontró ninguna aplicación para realizar esta acción.</string>
   <string name="tools">HERRAMIENTAS</string>
+  <string name="top_mark">TOP</string>
+  <string name="top_videos">Más compartidos</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Siguiendo</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
@@ -651,6 +653,7 @@
   <string name="upload_notification_success">Subido con éxito</string>
   <string name="upload_notification_success_content">Tu video debe ser reseñado antes de ser compartido con otras personas</string>
   <string name="upload_notification_title">Subiendo video</string>
+  <string name="upload_popup">Suba vídeos para ganar premios</string>
   <string name="upload_user_photo">Subir</string>
   <string name="upload_video">Compartir video</string>
   <string name="upload_video_dialog_message">El vídeo será presentado después de ser comprobado.</string>
@@ -762,7 +765,9 @@
   <string name="video_upload_title">Seleccionar video</string>
   <string name="video_upload_wechat_hint">Sube vídeos a WeChat para conseguir más fans.</string>
   <string name="video_uploaded">Subido</string>
+  <string name="view_master_rank">Ver el top de Youliao</string>
   <string name="view_more_sticker">Ver más pegatinas</string>
+  <string name="view_top_rank">Ver clasificaciones</string>
   <string name="wb_btn_bind">Weibo</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
@@ -792,5 +797,6 @@
   <string name="youliao_dialog_msg">"¡Vídeos populares fueron sustituidos por \"Youliao\",
  la cual es una aplicación dedicada a traer más diversión!"</string>
   <string name="youliao_dialog_title">¿No hay vídeos interesantes?</string>
+  <string name="youliao_master_rank">Top Youliao</string>
   <string name="zero">0</string>
 </resources>

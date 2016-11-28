@@ -132,6 +132,20 @@
   <string name="plusDesc">más</string>
   <string name="power">^</string>
   <string name="powerDesc">potencia</string>
+  <string name="preference_about_calculator">Sobre la calculadora</string>
+  <string name="preference_alert_follow_wechat">Copia y pega en WeChat para seguirnos</string>
+  <string name="preference_alert_follow_wechat_button">Copiar</string>
+  <string name="preference_check_update_title">Comprobar actualizaciones</string>
+  <string name="preference_feedback_title">Preguntas frecuentes</string>
+  <string name="preference_follow_us">Síguenos</string>
+  <string name="preference_follow_web_title">Página Web Oficial</string>
+  <string name="preference_follow_wechat_summary">MIUI</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_summary">\@MIUI</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Ajustes</string>
+  <string name="preference_use_degress_summary">Sustituir radianes por ángulos en las funciones trigonométricas</string>
+  <string name="preference_use_degress_title">Usar ángulos</string>
   <string name="rate_data_provider">Tasas de interés proporcionadas por hexun.com</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">paréntesis derecho</string>
@@ -371,4 +385,14 @@
   <string name="word_figure_unit_bai">佰</string>
   <string name="word_figure_unit_qian">仟</string>
   <string name="word_figure_unit_shi">拾</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Error al conectarse al Administrador de Descargas, compruebe el estado del Administrador de Descargas en el Administrador de Aplicaciones.</string>
+  <string name="xiaomi_external_storage_unavailable">El almacenamiento no está disponible, compruebe la tarjeta SD..</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">"Actualizando a la versión %1$s
+  Tamaño: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Actualizando a la versión %1$s
+  Tamaño restante: %2$s"</string>
+ <string name="xiaomi_update_dialog_title">%1$s actualizada!</string>
 </resources>

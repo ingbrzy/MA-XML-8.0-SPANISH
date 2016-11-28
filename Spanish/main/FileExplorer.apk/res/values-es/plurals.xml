@@ -241,17 +241,17 @@
         <item quantity="many">vídeos</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s vídeos</item>
-        <item quantity="zero">%1$s vídeos</item>
-        <item quantity="one">%1$s vídeo</item>
-        <item quantity="two">%1$s vídeos</item>
-        <item quantity="few">%1$s vídeos</item>
-        <item quantity="many">%1$s vídeos</item>
+      <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> vídeos</item>
+      <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> vídeo</item>
     </plurals>
     <plurals name="number_of_comment_flow">
          <item quantity="other">%1$s comentarios</item>
          <item quantity="one">%1$s comentario</item>
     </plurals>
+    <plurals name="follow_count">
+       <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> seguidores</item>
+       <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> seguidor</item>
+     </plurals>
     <plurals name="user_sign_limt">
          <item quantity="other">Puede introducir %d caracteres</item>
          <item quantity="one">Puede introducir %d carácter</item>
