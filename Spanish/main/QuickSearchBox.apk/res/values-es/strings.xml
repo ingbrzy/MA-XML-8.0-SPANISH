@@ -56,11 +56,25 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="permission_prompt_started_info">"Has permitido la búsqueda global"</string>
   <string name="permission_prompt_title">¿Quieres más?</string>
   <string name="recent_apps">Aplicaciones recomendadas</string>
+  <string name="recent_apps_filter">"Ocultar las aplicaciones que no utiliza"</string>
+  <string name="recent_close_content">"¿Desactivar esta función ahora?
+Puede cambiar esto en Aplicaciones de sistema &gt; Aplicaciones instaladas &gt; Buscar"</string>
+  <string name="recent_close_title">Función desactivada</string>
+  <string name="recent_delete_content">"¿Ocultar estas aplicaciones ahora?
+Puede cambiar esto en Aplicaciones de sistema &gt; Aplicaciones instaladas &gt; Buscar"</string>
+  <string name="recent_delete_negative">Cancelar</string>
+  <string name="recent_delete_positive">Aceptar</string>
+  <string name="recent_delete_title">Ocultar aplicaciones</string>
+  <string name="recent_edit">Editar</string>
+  <string name="recent_edit_done">Terminar</string>
+  <string name="recent_filter_functions">Funciones desactivadass</string>
+  <string name="recent_function">Funciones</string>
   <string name="recently_shortcut_label">Accesos directos recientes</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de búsqueda?</string>
   <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
   <string name="search_apps">Buscar aplicaciones</string>
   <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
+  <string name="search_button">Buscar</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Más</string>
   <string name="search_history">Historial</string>
@@ -94,6 +108,13 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="switch_setting">Ajustes</string>
   <string name="system_search_category_title">Teléfono</string>
   <string name="top_clicked">Elementos frecuentes</string>
+  <string name="update_check">Buscar actualizaciones</string>
+  <string name="update_right_now">Actualizar</string>
+  <string name="update_title">Actualización disponible</string>
+  <string name="update_version_alpha">Alfa</string>
+  <string name="update_version_dev">Beta</string>
+  <string name="update_version_stable">Estable</string>
+  <string name="updated_title">MIUI está actualizado</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Prueba diciendo: </string>
