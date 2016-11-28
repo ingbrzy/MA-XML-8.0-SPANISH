@@ -31,7 +31,7 @@
   <string name="auto_play_now">Encender</string>
   <string name="auto_play_recommend">Reproducir automáticamente</string>
   <string name="auto_play_recommend_tips">Empezar a reproducir vídeos automáticamente</string>
-  <string name="auto_play_toast">Los videos se reproducirán automáticamente. Usted puede cambiar esto en ajustes.</string>
+  <string name="auto_play_toast">Los vídeos se reproducirán automáticamente. Usted puede cambiar esto en ajustes.</string>
   <string name="backup_cancel">No copiar</string>
   <string name="backup_checkbox_msg">Copiar siempre y mostrar notificaciones</string>
   <string name="backup_confirm">Copiar ahora</string>
@@ -83,9 +83,9 @@
   <string name="change_sticker">Elige otra pegatina</string>
   <string name="choose_report_comment_reason">¿Por qué estás reportando este comentario?</string>
   <string name="choose_report_reason">¿Por qué estás reportando este vídeo?</string>
-  <string name="claim_no_video">No hay videos para reclamar</string>
+  <string name="claim_no_video">No hay vídeos para reclamar</string>
   <string name="claim_operation_too_frequently">¡Demasiados intentos! Inténtelo de nuevo más tarde.</string>
-  <string name="claim_remind_dialog_cancel">Ver otros videos</string>
+  <string name="claim_remind_dialog_cancel">Ver otros vídeos</string>
   <string name="claim_remind_dialog_confirm">Permanecer</string>
   <string name="claim_remind_dialog_message">Usted no será capaz de reclamar este video si vuelve</string>
   <string name="claim_remind_dialog_title">Atención</string>
@@ -96,7 +96,7 @@
   <string name="claim_video_locking">Reclamando…</string>
   <string name="claim_video_over">¡Demasiadas reclamaciones por hoy, vuelva mañana!</string>
   <string name="claim_video_success">Reclamado con éxito</string>
-  <string name="claim_video_unlogin">Identifíquese para reclamar videos</string>
+  <string name="claim_video_unlogin">Identifíquese para reclamar vídeos</string>
   <string name="clean_hint">Tocar para liberar espacio</string>
   <string name="click_to_refresh">Pulse aquí para recargar</string>
   <string name="click_to_switch_volume">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
@@ -124,7 +124,7 @@
   <string name="data_consumption_checkbox_hint">No mostrar de nuevo</string>
   <string name="data_consumption_confirm">Aceptar</string>
   <string name="data_consumption_message">Esta aplicación necesita conectarse a Internet por Wi-Fi para funcionar con normalidad.</string>
-  <string name="data_consumption_message1">El dispositivo debe estar conectado a Internet para ver pegatinas y videos.</string>
+  <string name="data_consumption_message1">El dispositivo debe estar conectado a Internet para ver pegatinas y vídeos.</string>
   <string name="data_consumption_title">Conexión a Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extraer</string>
@@ -237,7 +237,7 @@
   <string name="hot_comments">Comentarios populares</string>
   <string name="hot_sticker">Stickers Populares</string>
   <string name="hot_topic_str">Temas populares</string>
-  <string name="hot_video">Videos populares</string>
+  <string name="hot_video">Vídeos populares</string>
   <string name="hot_video_load_more">Más &gt;</string>
   <string name="hot_video_title">Vídeos populares</string>
   <string name="hottest_sticker_str">Popular</string>
@@ -248,7 +248,7 @@
   <string name="installing">Instalando…</string>
   <string name="instruction">"Introduzca la siguiente dirección en un cliente FTP: "</string>
   <string name="instruction_pre">Tocar para iniciar el servidor FTP</string>
-  <string name="interest_recommend">Videos recomendados</string>
+  <string name="interest_recommend">Vídeos recomendados</string>
   <string name="is_playing">Reproduciendo…</string>
   <string name="just_now">ahora mismo</string>
   <string name="kilobyteShort">KB</string>
@@ -261,11 +261,11 @@
   <string name="loading">Cargando…</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Música</string>
-  <string name="local_video">Videos</string>
+  <string name="local_video">Vídeos</string>
   <string name="login">Iniciar sesión</string>
   <string name="login_account_bind_qq">Cuenta QQ</string>
   <string name="login_account_bind_skip">Saltar</string>
-  <string name="login_account_bind_tip">Un buen sobrenombre y avatar harán que tus videos sean más populares</string>
+  <string name="login_account_bind_tip">Un buen sobrenombre y avatar harán que tus vídeos sean más populares</string>
   <string name="login_account_bind_title">Añadir una cuenta de terceros</string>
   <string name="login_account_bind_wb">Cuenta Weibo</string>
   <string name="login_account_bind_wx">Usar WeChat</string>
@@ -441,7 +441,7 @@
   <string name="phone_storage_other_title">Otros: </string>
   <string name="phone_storage_size_tip">El almacenamiento de la cuenta del Explorador puede diferir del almacenamiento de otras aplicaciones</string>
   <string name="phone_storage_total">Total</string>
-  <string name="phone_storage_video_title">Videos: </string>
+  <string name="phone_storage_video_title">Vídeos: </string>
   <string name="phone_storage_zip_title">Archivos: </string>
   <string name="phone_valid_code_tip">El código ha sido ingresado tantas veces, que ahora debes obtener uno nuevo</string>
   <string name="pick_file">Elegir archivos</string>
@@ -630,7 +630,7 @@
   <string name="unlock_pattern_title">Nueva contraseña</string>
   <string name="unlogin">Regístrese primero</string>
   <string name="unmount_inform_text">¿Desmontar el almacenamiento USB?</string>
-  <string name="unreviewed_video_cannot_share">Los videos han de ser reseñados antes de ser compartidos</string>
+  <string name="unreviewed_video_cannot_share">Los vídeos han de ser reseñados antes de ser compartidos</string>
   <string name="update">Actualizar</string>
   <string name="update_failed">No se pudo guardar, inténtelo otra vez</string>
   <string name="update_loading">Guardando…</string>
@@ -676,9 +676,9 @@
   <string name="user_icon">Foto de perfil</string>
   <string name="user_info_setting">Editar información</string>
   <string name="user_like_text">Gustos</string>
-  <string name="user_liked_video_title">Videos que me han gustado</string>
+  <string name="user_liked_video_title">Vídeos que me han gustado</string>
   <string name="user_login_dialog_cancle">Cancelar</string>
-  <string name="user_login_dialog_tip">Inicia sesión para subir videos, participar en el ranking, y ganar premios</string>
+  <string name="user_login_dialog_tip">Inicia sesión para subir vídeos, participar en el ranking, y ganar premios</string>
   <string name="user_login_dialog_title">Iniciar sesión</string>
   <string name="user_message_text">Mensajes</string>
   <string name="user_nickname">Nombre de usuario</string>
@@ -686,10 +686,10 @@
   <string name="user_no_fans_tip">Sin seguidores</string>
   <string name="user_no_follow_topic">"Aún no sigues ningún tema."</string>
   <string name="user_no_follow_user">"Aún no sigues a nadie."</string>
-  <string name="user_no_liked_video_tip">Los videos que te gusten aparecerán aquí.</string>
+  <string name="user_no_liked_video_tip">Los vídeos que te gusten aparecerán aquí.</string>
   <string name="user_no_net_video_tip">Conexión de red pobre, revise la configuración e intente de nuevo</string>
-  <string name="user_no_upload">Sin videos</string>
-  <string name="user_no_video_tip">No hay videos subidos aún</string>
+  <string name="user_no_upload">Sin vídeos</string>
+  <string name="user_no_video_tip">No hay vídeos subidos aún</string>
   <string name="user_not_login">Inicia sesión primero</string>
   <string name="user_not_video_btn_text">Subir primer video</string>
   <string name="user_recommend_follow">Perfiles recomendados</string>
@@ -701,11 +701,11 @@
   <string name="user_setting_hot_comment_tip">"Recibirá una notificación cuando aparecen comentarios destacados"</string>
   <string name="user_setting_logout">Cerrar sesión</string>
   <string name="user_setting_new_comment">Notificaciones sobre nuevos comentarios</string>
-  <string name="user_setting_new_comment_tip">"Se le notificará de las respuestas a sus comentarios y videos"</string>
+  <string name="user_setting_new_comment_tip">"Se le notificará de las respuestas a sus comentarios y vídeos"</string>
   <string name="user_setting_new_liked">Notificaciones sobre gustos</string>
-  <string name="user_setting_new_liked_tip">"Se le notificará cuando la gente comente sus comentarios o videos"</string>
+  <string name="user_setting_new_liked_tip">"Se le notificará cuando la gente comente sus comentarios o vídeos"</string>
   <string name="user_setting_play_num">Notificacicones sobre las visitas</string>
-  <string name="user_setting_play_num_tip">"Recibirá una notificación acerca del número de opiniones que consiguen sus videos"</string>
+  <string name="user_setting_play_num_tip">"Recibirá una notificación acerca del número de opiniones que consiguen sus vídeos"</string>
   <string name="user_setting_topic_new_msg">Notificaciones sobre los temas</string>
   <string name="user_setting_topic_new_msg_tip">"Se le notificará sobre los nuevos vídeos en los temas que sigues"</string>
   <string name="user_setting_video_has_hot_comment">Notificaciones sobre los comentarios populares</string>
@@ -714,7 +714,7 @@
   <string name="user_sign">Firma</string>
   <string name="user_topic_text">Mis temas</string>
   <string name="user_upload_text">Subir</string>
-  <string name="user_video_text">Mis videos</string>
+  <string name="user_video_text">Mis vídeos</string>
   <string name="utf8_summary">Codificación predeterminada del sistema FTP</string>
   <string name="utf8_title">UTF-8</string>
   <string name="video_ad_download">Instalar</string>
@@ -755,7 +755,7 @@
   <string name="video_tag_search_title">Seleccionar tópico</string>
   <string name="video_topic_hint">Buscar</string>
   <string name="video_upload_btn">Siguiente</string>
-  <string name="video_upload_btn_hint">Los videos MP$ deberán tener de 3s~10min de duración</string>
+  <string name="video_upload_btn_hint">Los vídeos MP$ deberán tener de 3s~10min de duración</string>
   <string name="video_upload_item_more">Más (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Sube vídeos a KuaiShou para conseguir más fans.</string>
