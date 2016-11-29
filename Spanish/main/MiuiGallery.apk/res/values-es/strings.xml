@@ -65,7 +65,8 @@
   <string name="alert_secret_album_enter">Continuar</string>
   <string name="alert_secret_album_message">Deslice hacia abajo desde la parte superior de la página de álbumes para ver el álbum oculto.</string>
   <string name="alert_secret_album_title">Cómo ver un álbum oculto</string>
-  <string name="all_items_synced">Todos los álbumes han sido respaldado en Mi Cloud</string>
+  <string name="all_faces">Todas las fotos con personas</string>
+  <string name="all_items_synced">Todos los álbumes han sido copiados a Mi Cloud</string>
   <string name="all_video_album_display_name">Todos los vídeos</string>
   <string name="already_create_baby_album">Ya existe un álbum de bebé en Mi Cloud.</string>
   <string name="app_name">Galería</string>
@@ -166,6 +167,9 @@
   <string name="confirm_download_video_message">Acabe de descargar este vídeo para empezar a verlo. La descarga continuará cuando esté disponible una red Wi-Fi.</string>
   <string name="confirm_download_video_title">Descargar vídeo</string>
   <string name="confirm_face">Confirmar</string>
+  <string name="confirm_hidden_recommend_group">Aceptar</string>
+  <string name="confirm_hidden_recommend_group_message">Cuando las recomendaciones están desactivadas, todavía puede usar \"Más personas que se parecen\" opción</string>
+  <string name="confirm_hidden_recommend_group_title">"No mostrar recomendaciones"</string>
   <string name="confirm_merge_face_albums">" "<Data> ¿Combinar este álbum con %s? </Data>" "</string>
   <string name="confirm_merge_many_face_albums">" "<Data> ¿Combinar estos álbumes con %s? </Data>" "</string>
   <string name="confirm_not_face">Sin resultados</string>
@@ -257,6 +261,8 @@
   <string name="edited_photo_bucket_name">Editado</string>
   <string name="effect">Filtros</string>
   <string name="email_picker_title">Add shared Email</string>
+  <string name="empty_recommend_button_view">Atrás</string>
+  <string name="empty_recommend_face_page_view">No más recomendaciones</string>
   <string name="enable_auto_upload_tip">Este álbum será eliminado de otros álbumes una vez lo actives.</string>
   <string name="enable_auto_upload_title">Activar la sincronización con Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Activa álbumes de Mi Cloud para ver las fotos compartidas.</string>
@@ -298,7 +304,11 @@
   <string name="face_album_use_tip">Ordenar fotos automáticamente por las personas que aparecen en ellas.</string>
   <string name="face_albumset_loading_data">Cargando datos…</string>
   <string name="face_choose_tip">Seleccionar de álbum existente</string>
+  <string name="face_confirm">Esta es la misma persona</string>
   <string name="face_move_dialog_title">Seleccionar un álbum</string>
+  <string name="face_name_edit">Editar</string>
+  <string name="face_name_input">Ingrese su nombre</string>
+  <string name="face_recommend">Recomendaciones</string>
   <string name="facelift">Brillo facial</string>
   <string name="facetan">Bronceado</string>
   <string name="fail_hint">No se pudo completar la operación</string>
@@ -430,6 +440,7 @@
   <string name="messagelist_sender_self">Yo</string>
   <string name="micloud_introduce">Respalda fotos y vídeos automáticamente (se necesitará una Cuenta Mi)</string>
   <string name="more_album_hint">, etc.</string>
+  <string name="more_face">Más personas que se parecen</string>
   <string name="more_face_album_name">Más personas</string>
   <string name="move_to_other_albums_tip">La sincronización con Mi Cloud se desactivará si mueve este álbum a otros álbumes. ¿Mover ahora?</string>
   <string name="must_pick_file">Seleccionar foto</string>
@@ -561,6 +572,7 @@
   <string name="relation_text_mother">Madre</string>
   <string name="relation_with_you">Escoge una relación</string>
   <string name="release_space_finish_format">Se liberó %s de almacenamiento local</string>
+  <string name="remind_face_recommend_confirm">Confirmar</string>
   <string name="remove_from_other_albums_tip">Active sincronizar con Mi Cloud para mover elementos de otros álbumes. ¿Mover ahora?</string>
   <string name="remove_from_secret_fail">No se pudo eliminar del álbum oculto</string>
   <string name="remove_from_secret_failed_with_reason">No se pudo eliminar del álbum oculto. %1$s.</string>
@@ -759,7 +771,6 @@
   <string name="video_editor_unsupport_audio_file">Archivo de audio no compatible</string>
   <string name="video_err">No se puede reproducir el vídeo</string>
   <string name="video_not_exist">Vídeo no encontrado</string>
-  <string name="view_baby_album">Ver álbum del bebé</string>
   <string name="view_by_gallery_tip">Galería MIUI</string>
   <string name="view_face_album">Ver álbum</string>
   <string name="view_queuing_status">Comprobar estado</string>
