@@ -30,7 +30,7 @@
   <string name="debug_cluster_port_invalid">¡Puerto no válido!</string>
   <string name="debug_compress_level_caption">Nivel de compresión</string>
   <string name="debug_custom_cluster">[custom]</string>
-  <string name="debug_custom_cluster_name">Cluster personalizado</string>
+  <string name="debug_custom_cluster_name">Clúster personalizado</string>
   <string name="debug_custom_turbo_node_name">Modo personalizado</string>
   <string name="debug_direct_apps_label">Aplicaciones directas:</string>
   <string name="debug_direct_hosts_label">Servidores directos:</string>
@@ -79,7 +79,7 @@
   <string name="one_click_open">Abrir con un click</string>
   <string name="oupeng_about_company_name">Oupeng</string>
   <string name="oupeng_about_current_version">Versión actual：</string>
-  <string name="oupeng_about_introduction">"Si tiene algún comentario o sugerencia，puede ponerse en contacto con nuestroQQgrupo（&lt;font color='#64b406'&gt;188473978&lt;/font&gt;）Danos tus impresiones！"</string>
+  <string name="oupeng_about_introduction">"Si tiene algún comentario o sugerencia，puede ponerse en contacto con nuestro grupo（&lt;font color='#64b406'&gt;188473978&lt;/font&gt;）Danos tus impresiones！"</string>
   <string name="oupeng_about_name">Flujo de Oupeng</string>
   <string name="oupeng_about_title">Quienes somos</string>
   <string name="oupeng_about_user_feedback_group">QQGrupo de Exchange：</string>
@@ -94,7 +94,7 @@
   <string name="oupeng_apn_ignore_apn_setting">Cancelar</string>
   <string name="oupeng_apn_list_title">Nombre de punto de acceso（APN）</string>
   <string name="oupeng_apn_net_name">%1$sNET red（%2$sNET）</string>
-  <string name="oupeng_apn_saving_foreshow_for_cellular">Cuando en el teléfono esten activadas redes 2/3/4G, se abrirá automáticamente el servicio de ahorro de streaming de su provincia</string>
+  <string name="oupeng_apn_saving_foreshow_for_cellular">Cuando en el teléfono estén activadas redes 2/3/4G, se abrirá automáticamente el servicio de ahorro de streaming de su provincia</string>
   <string name="oupeng_apn_saving_prompt_confirm">Acepto</string>
   <string name="oupeng_apn_saving_prompt_for_wifi">Actualmente en red Wi-Fi y no se consumen datos 2/3/4G，así que se pausa el servicio de ahorro</string>
   <string name="oupeng_apn_saving_prompt_title">Consejos</string>
@@ -146,8 +146,8 @@ Seguro que quiere salir?"</string>
   <string name="oupeng_dialog_sms_inquiry_code_title">Consultar conjunto de instrucciones SMS </string>
   <string name="oupeng_dialog_sms_report_dialog_content">SE produjo un error en el tráfico de datos，se enviará un informe de errores para proporcionar un mejor servicio.</string>
   <string name="oupeng_dialog_sms_report_dialog_submit">Enviar</string>
-  <string name="oupeng_dialog_sms_report_dialog_title">Informe de errorer enviado</string>
-  <string name="oupeng_dialog_tether_enabled">No se pueden ejecutar conexiones VPN hotspot y local simultaneamente，la conexión VPN se ha desconectado，se ha pausado el optimizador de ahorro，se recuperá la configuración una vez salga.</string>
+  <string name="oupeng_dialog_sms_report_dialog_title">Informe de errores enviado</string>
+  <string name="oupeng_dialog_tether_enabled">No se pueden ejecutar conexiones VPN hotspot y local simultáneamente，la conexión VPN se ha desconectado，se ha pausado el optimizador de ahorro，se recuperá la configuración una vez salga.</string>
   <string name="oupeng_dialog_title_notice">Consejos</string>
   <string name="oupeng_dialog_vpn_disconnect_content">La conexión VPN se ha desconectado, el monitor de flujo y ahorro han expirado.</string>
   <string name="oupeng_dialog_vpn_disconnect_title">Consejos</string>
@@ -250,7 +250,7 @@ Seguro que quiere salir?"</string>
   <string name="oupeng_sms_query_result_total">Total %1$s &gt;</string>
   <string name="oupeng_sms_query_tips">Advertencia: No se puede obtener información del tráfico de datos. Intentaremos solucionarlo lo antes posible.</string>
   <string name="oupeng_sms_query_tips_input_total_usage">Por favor introduzca el total de datos disponibles</string>
-  <string name="oupeng_sms_query_tips_inquiry_code_changed_error">Se actualizó el centro de SMS，por favor compruebelo de nuevo</string>
+  <string name="oupeng_sms_query_tips_inquiry_code_changed_error">Se actualizó el centro de SMS，por favor compruébelo de nuevo</string>
   <string name="oupeng_sms_query_tips_inquiry_code_not_found_error">No se pueden obtener datos del centro de SMS，por favor configurar manualmente</string>
   <string name="oupeng_sms_query_tips_network_error">Error de red, compruebe la conexión</string>
   <string name="oupeng_sms_query_tips_no_network">No se detectó ninguna red, compruebe la conexión</string>
@@ -290,7 +290,7 @@ Seguro que quiere salir?"</string>
   <string name="oupeng_title_data_usage">Detalles de tráfico de datos</string>
   <string name="oupeng_title_history_usage">Detalle de tráfico de datos mensual</string>
   <string name="oupeng_toast_disable_network_for_all">Ha prohibido la conexión a %1$s aplicaciones</string>
-  <string name="oupeng_toast_disable_network_for_app">Se han prihibido【%1$s】de %2$s conexiones</string>
+  <string name="oupeng_toast_disable_network_for_app">Se han prohibido【%1$s】de %2$s conexiones</string>
   <string name="oupeng_toast_enable_network_for_all">Ha permitido a las aplicaciones %1$s conexiones</string>
   <string name="oupeng_toast_enable_network_for_app">Permitió【%1$s】%2$sconexiones</string>
   <string name="oupeng_toast_tether_enabled">Abierto en caliente. Administrador de redes guardado y pausado</string>
@@ -339,7 +339,7 @@ Seguro que quiere salir?"</string>
   <string name="umeng_common_download_finish">Descarga terminada</string>
   <string name="umeng_common_download_notification_prefix">Descarga:</string>
   <string name="umeng_common_info_interrupt">Falló la descarga, compruebe su conexión.</string>
-  <string name="umeng_common_network_break_alert">Conectese a la red e inténtelo de nuevo</string>
+  <string name="umeng_common_network_break_alert">Conéctese a la red e inténtelo de nuevo</string>
   <string name="umeng_common_patch_finish">La descarga de actualización completa, haga click en instalar</string>
   <string name="umeng_common_start_download_notification">Descarga de aplicaciones</string>
   <string name="umeng_common_start_patch_notification">Actualización del paquete de instalación</string>
@@ -355,11 +355,11 @@ Seguro que quiere salir?"</string>
   <string name="umeng_fb_reply_content_hint">Comentarios</string>
   <string name="umeng_fb_send">Enviar</string>
   <string name="umeng_fb_title">Feedback</string>
-  <string name="v2_about_credits">Bao está compriendo imágenes y páginas web para ayudarle a ahorrar datos.</string>
-  <string name="v2_about_read_more">Para obtener más imformación visite la página de Google+</string>
+  <string name="v2_about_credits">Bao está comprimiendo imágenes y páginas web para ayudarle a ahorrar datos.</string>
+  <string name="v2_about_read_more">Para obtener más información visite la página de Google+</string>
   <string name="v2_about_version">Versión %1$s</string>
   <string name="v2_adjusted_usage_name">Ajustar uso</string>
-  <string name="v2_app_control_description">Se prihibió el uso de la aplicación seleccionada en redes de datos móviles. En redes Wi-Fi funcionará correctamente.</string>
+  <string name="v2_app_control_description">Se prohibió el uso de la aplicación seleccionada en redes de datos móviles. En redes Wi-Fi funcionará correctamente.</string>
   <string name="v2_app_control_list_collapse_apps">Lista de aplicaciones ocultas</string>
   <string name="v2_app_control_list_empty_blocked_apps">Esta aplicación no usa el tráfico de datos</string>
   <string name="v2_app_control_list_expand_apps">Mostrar mas aplicaciones</string>
@@ -389,7 +389,7 @@ Seguro que quiere salir?"</string>
   <string name="v2_dialog_app_blocked_dialog_button_left_text">Volver</string>
   <string name="v2_dialog_app_blocked_dialog_button_middle_text">Permitir la creación de redes</string>
   <string name="v2_dialog_app_blocked_dialog_button_right_text">Conectado a la red %1$s minutos</string>
-  <string name="v2_dialog_app_blocked_dialog_content">【%1$s】actualmente %2$s aplicaciones estan bloqueadas, Elija：</string>
+  <string name="v2_dialog_app_blocked_dialog_content">【%1$s】actualmente %2$s aplicaciones están bloqueadas, Elija：</string>
   <string name="v2_dialog_app_blocked_title">Liulang Bao le recuerda</string>
   <string name="v2_ending_used_with_divider">" / "</string>
   <string name="v2_feedback_chooser_prompt">Enviar comentarios usando</string>

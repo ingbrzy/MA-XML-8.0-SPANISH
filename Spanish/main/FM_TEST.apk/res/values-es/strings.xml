@@ -45,7 +45,7 @@
   <string name="find_af_station">Buscar</string>
   <string name="fm_cmd_failed_call_on">Operación FM errónea Audio FM no está permitido durante una llamada.</string>
   <string name="fm_cmd_failed_msg">Operación FM errónea. Si el problema persiste, por favor apague la FM y vuelva a encenderla.</string>
-  <string name="fm_cmd_failed_msg_hdmi">Operación FM errónea. FM y HDMI concurrecny no son compatibles.</string>
+  <string name="fm_cmd_failed_msg_hdmi">Operación FM errónea. El uso simultáneo de FM y HDMI no está permitido.</string>
   <string name="fm_command_failed_title">Operación FM errónea</string>
   <string name="fm_command_timeout_title">Tiempo de espera</string>
   <string name="fm_service_started">Radio FM</string>
@@ -160,7 +160,7 @@
   <string name="station_empty_text">Lista de canales vacía, busque canales.</string>
   <string name="station_exists">¡Esta frecuencia ya existe!</string>
   <string name="station_list_delete_station">Eliminar Emisora %s</string>
-  <string name="station_list_delete_station_prompt">Desea eliminiar Emisora %s ？</string>
+  <string name="station_list_delete_station_prompt">¿Desea eliminar Emisora %s?</string>
   <string name="station_move">Mover</string>
   <string name="station_name">"Emisora:"</string>
   <string name="station_name_empty">Nombre de la estación está vacía, vuelva a introducir los datos.</string>

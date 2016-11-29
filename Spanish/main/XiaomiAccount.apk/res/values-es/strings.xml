@@ -84,7 +84,7 @@
   <string name="continue_action">Continuar</string>
   <string name="cta_declaration_agree_and_continue">Aceptar</string>
   <string name="cta_declaration_exit">Salir</string>
-  <string name="cta_declaration_message">Para iniciar sesión en su Cuenta de Mi, conéctese a Internet, permita la localización del dispositvo y active Mi Cloud. Para respaldar sus datos personales, esta aplicación necesita acceder a sus contactos, mensajes MSM y MMS, historial de llamadas y grabaciones. No recogemos datos personales para uso comercial. Después de conectarse a la cuenta Mi, Mi VIP y los servicios Mi se conectarán a Internet.</string>
+  <string name="cta_declaration_message">Para iniciar sesión en su Cuenta de Mi, conéctese a Internet, permita la localización del dispositivo y active Mi Cloud. Para respaldar sus datos personales, esta aplicación necesita acceder a sus contactos, mensajes MSM y MMS, historial de llamadas y grabaciones. No recogemos datos personales para uso comercial. Después de conectarse a la cuenta Mi, Mi VIP y los servicios Mi se conectarán a Internet.</string>
   <string name="cta_declaration_title">Términos de Usuario</string>
   <string name="current_location_title">Ubicación actual</string>
   <string name="delete_action">Eliminar</string>
@@ -119,7 +119,7 @@
   <string name="find_device_bad_response_error">Imposible obtener el estado actual debido a un error con el servidor, intente más tarde</string>
   <string name="find_device_display_id">Desbloquear número: %s</string>
   <string name="find_device_error_password_not_confirmed">Imposible apagar la función Encontrar dispositivo. Ingrese la contraseña de la Cuenta Mi nuevamente.</string>
-  <string name="find_device_error_password_recently_changed">El los últimos tres días se hizo un cambio de contraseña. Por razones de securidad aún no es posible desactivar la función Encontrar dispositivo.</string>
+  <string name="find_device_error_password_recently_changed">El los últimos tres días se hizo un cambio de contraseña. Por razones de seguridad aún no es posible desactivar la función Encontrar dispositivo.</string>
   <string name="find_device_interrupted">La acción fue interrumpida, intente más tarde</string>
   <string name="find_device_io_error">Error al conectar a la red</string>
   <string name="find_device_null_credential_error">Error al obtener información sobre el dispositivo, contacte con servicio al cliente de Xiaomi</string>
@@ -145,7 +145,7 @@
   <string name="login_check_find_device">Obteniendo información de seguridad del dispositivo…</string>
   <string name="login_check_find_device_failed_title">"No se pudo comprobar la información de seguridad del dispositivo."</string>
   <string name="login_find_device_bind">Este dispositivo está asociado con una Cuenta Mi existente ID (%s).</string>
-  <string name="login_guard_prompt">Se requiere de un número de verificación cuando incia sesión en una Cuenta Mi desde una aplicación o dispositivo desconocido por primera vez.</string>
+  <string name="login_guard_prompt">Se requiere de un número de verificación cuando inicia sesión en una Cuenta Mi desde una aplicación o dispositivo desconocido por primera vez.</string>
   <string name="logout_failed">No se pudo cerrar sesión</string>
   <string name="mi_account_identity_title">Verificar la identidad</string>
   <string name="mi_insurance">Seguro Mi</string>
@@ -327,7 +327,7 @@ Para activar su cuenta, siga el
   <string name="passport_vcode_notification_title">La verificación de inicio de sesión no se pudo completar</string>
   <string name="passport_vcode_prompt_long">Introducir código de verificación</string>
   <string name="passport_vcode_sms_send_prompt">Enviar código de verificación para %s</string>
-  <string name="passport_verification_failed">Autentificación fallida</string>
+  <string name="passport_verification_failed">Autenticación fallida</string>
   <string name="passport_verify">Verificar</string>
   <string name="passport_wait_for_sms_prompt">¿Comenzar nuevamente ahora? Los mensajes de verificación pueden tardar hasta 10 minutos en recibirse cuando tu teléfono se encuentra dentro del área de servicio.</string>
   <string name="passport_wrong_captcha">El código introducido es incorrecto</string>
