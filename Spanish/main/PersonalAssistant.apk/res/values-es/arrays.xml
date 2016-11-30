@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="map_keyword">
+        <item>拥堵</item>
+        <item>公里拥堵</item>
+        <item>公里缓行</item>
+        <item>道路施工</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>错峰出行</item>
+        <item>严重拥堵</item>
+        <item>路况畅通</item>
+        <item>无明显拥堵</item>
+        <item>异常交通</item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>要</item>
+        <item>只要</item>
+    </string-array>
+    <string-array name="default_app">
+        <item>com.xiaomi.shop/com.xiaomi.shop2.plugin.PluginChildActivity</item>
+        <item>com.jingdong.app.mall/com.jd.lib.ordercenter.logistics.LogisticsOrderDetail</item>
+        <item>com.tmall.wireless/.orderlogistics.ui.TMLogisticsActivity</item>
+        <item>com.taobao.taobao/com.taobao.cainiao.logistic.LogisticDetailActivity</item>
+    </string-array>
+    <string-array name="express_watched_app">
+        <item>com.tmall.wireless.orderlogistics.ui.TMLogisticsActivity</item>
+        <item>com.taobao.cainiao.logistic.LogisticDetailActivity</item>
+        <item>com.xiaomi.shop2.plugin.PluginChildActivity</item>
+        <item>com.jd.lib.ordercenter.logistics.LogisticsOrderDetail</item>
+    </string-array>
+    <string-array name="express_watched_app_order_number_id">
+        <item>mail_no</item>
+        <item>tv_logistic_waybill_number</item>
+        <item>order_express_sn,deliver_id_tv</item>
+        <item>order_num_content</item>
+    </string-array>
+    <string-array name="express_watched_app_company_id">
+        <item>partner_name</item>
+        <item>tv_logistic_company</item>
+        <item>order_express_text,express_name_tv</item>
+        <item>order_transport_person_content</item>
+    </string-array>
+    <string-array name="express_watched_app_filter">
+        <item>承运公司:</item>
+        <item>运单编号:</item>
+        <item>信息来源：</item>
+        <item>物流信息：</item>
+    </string-array>
+</resources>
