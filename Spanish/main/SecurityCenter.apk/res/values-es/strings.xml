@@ -78,6 +78,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="antivirus_choose_engine_disable_toast">No se pueden cambiar las definiciones mientras el escaneo está en progreso</string>
   <string name="antivirus_choose_engine_settings">Ajustes de definiciones de virus</string>
   <string name="antivirus_choose_engine_title">Definiciones</string>
+  <string name="antivirus_choose_engine_update_disable_toast">"No se pueden cambiar las definiciones mientras se está realizando la actualización."</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Eliminar aplicaciones peligrosas</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Eliminar virus</string>
   <string name="antivirus_monitor_clean_tips">Elementos eliminados: %s</string>
@@ -758,6 +759,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="modifypassword">Cambiar contraseña</string>
   <string name="monitor_requests_from_pc">Administrar la instalación de las aplicaciones vía USB</string>
   <string name="month_report_month_report_switch">Mostrar informe mensual</string>
+  <string name="msg_update_error_code_success">Terminado</string>
+  <string name="msg_update_up">Ocultar</string>
   <string name="network_assistant_upgraded_body">Pulse para ver detalles.</string>
   <string name="network_assistant_upgraded_title">Actualizado</string>
   <string name="network_blocked_connected_open_wifi">Conectado a la red pública</string>
@@ -1186,6 +1189,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_title_declaration">Aviso legal importante</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificaciones flotantes</string>
   <string name="pref_title_lock_screen_memory_clean">Limpiar en pantalla de bloqueo</string>
+  <string name="pref_title_manual_check_virus_db_update">Buscar actualizaciones</string>
   <string name="pref_title_mobile_traffic">Mostrar el uso de datos mientras está bloqueado</string>
   <string name="pref_title_network_diagnostics">Comprobar la red</string>
   <string name="pref_title_over_traffic_limit_warning">Cuando se ha excedido</string>
@@ -1402,6 +1406,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sp_toast_removed_from_sign_white_list">Eliminado de excepciones. El elemento será escaneado la próxima vez.</string>
   <string name="spinner_title">%1$s - Datos móviles: %2$s</string>
   <string name="sponsored">Patrocinado</string>
+  <string name="sponsored_sec_fb">Patrocinado</string>
   <string name="st_title_mode_choose_group">Seleccionar perfil</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">Iniciando descarga: %1$s</string>
@@ -1721,7 +1726,13 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="usbsharenet_exception_title">Probar Internet compartida a través de USB</string>
   <string name="usbsharenet_pc_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe la conexión a Internet de su computadora.</string>
   <string name="use_immediately">Utilizar</string>
+  <string name="virus_already_update">Las definiciones están actualizadas</string>
+  <string name="virus_dp_update_title">Actualizaciones de definiciones</string>
   <string name="virus_scan">Búsqueda de virus</string>
+  <string name="virus_update_fail">"No se pudo actualizar"</string>
+  <string name="virus_update_success">Actualizado correctamente</string>
+  <string name="virus_update_tips_title">Conectar a Wi-Fi</string>
+  <string name="virus_wait_network_dialog_message">Las actualizaciones son grandes. Conéctese a Wi-Fi para descargarlas</string>
   <string name="wakepath_confirm_start_activity">¿Permite a %1$s abrir %2$s?</string>
   <string name="warning_open_mi_sim">Activar Mi SIM</string>
   <string name="white_list_risk_app_header">Aplicaciones peligrosas: %d</string>

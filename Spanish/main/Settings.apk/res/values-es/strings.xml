@@ -1361,7 +1361,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="enable_service_password_reason">Activar %1$s afecta al cifrado de datos, por lo que debes confirmar tu contraseña.</string>
   <string name="enable_service_pattern_reason">Activar %1$s afecta al cifrado de datos, por lo que debes confirmar tu patrón.</string>
   <string name="enable_service_pin_reason">Activar %1$s afecta al cifrado de datos, por lo que debes confirmar tu PIN.</string>
-  <string name="enable_service_title">El servicio ejecutará estas acciones:</string>
+  <string name="enable_service_title">¿Utilizar %1$s?</string>
   <string name="enable_snapshot_screenlock">Pulsación larga para realizar una foto</string>
   <string name="enable_terminal_summary">Habilitar aplicación de terminal que ofrece acceso a shell local</string>
   <string name="enable_terminal_title">Terminal local</string>
@@ -2171,6 +2171,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="miui_allow_music">Multimedia</string>
   <string name="miui_allow_vibrate">Vibraciones</string>
   <string name="miui_data_usage_menu_metered">Puntos de acceso móviles</string>
+  <string name="miui_enable_service_title">El servicio realizará estas acciones:</string>
   <string name="miui_disturb_title">No molestar</string>
   <string name="miui_experience_optimization">Activar optimización MIUI</string>
   <string name="miui_screen_config_title">Ajustes de la pantalla de inicio</string>
@@ -2812,13 +2813,20 @@ Seleccione su sistema operativo:"</string>
   <string name="privacy_mode_title">Ajustes de privacidad</string>
   <string name="privacy_notes">Notas</string>
   <string name="privacy_password">Contraseña de privacidad</string>
+  <string name="privacy_password_bind_account">Añadir Cuenta Mi</string>
+  <string name="privacy_password_bind_account_immediate">Añadir</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirme contraseña de Segundo Espacio</string>
   <string name="privacy_password_confirm_use_finger">Desbloquee con la huella dactilar</string>
+  <string name="privacy_password_enter_privacy">Introducir Contraseña de protección de privacidad</string>
   <string name="privacy_password_fingerprint_confirm_failed">No se puede verificar la huella dactilar</string>
   <string name="privacy_password_fingerprint_confirm_succes">Huella dactilar verificada</string>
   <string name="privacy_password_fingerprint_dialog_error_title">No se puede escanear la huella dactilar, inténtelo otra vez</string>
   <string name="privacy_password_fingerprint_dialog_message">Ponga su dedo en el sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Escanear su huella dactilar</string>
+  <string name="privacy_password_never_remind">"No volver a preguntar"</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Agregue su Cuenta Mi para poder restablecer su contraseña en caso de que la olvide.</string>
+  <string name="privacy_password_remind_bindaccont_message">Agregue su Cuenta Mi (%s) para poder restablecer su contraseña en caso de que la olvide.</string>
+  <string name="privacy_password_remind_bindaccount_title">Añadir Cuenta Mi</string>
   <string name="privacy_password_settings">Usar contraseña de privacidad</string>
   <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos y notas.</string>
   <string name="privacy_password_title">Contraseña de privacidad</string>
