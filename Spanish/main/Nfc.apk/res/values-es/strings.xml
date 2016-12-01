@@ -29,6 +29,10 @@
   <string name="inbound_me_profile_text">Toque para añadir a esta persona como contacto.</string>
   <string name="inbound_me_profile_title">Contacto recibido por NFC</string>
   <string name="nfcUserLabel">NFC</string>
+  <string name="nfc_enabled_dialog">"El Nfc está actualmente deshabilitado. 
+Desea habilitarlo para su servicio NFC"</string>
+  <string name="no">NO</string>
+  <string name="ok">OK</string>
   <string name="outbound_me_profile_text">Toque para transmitir a esta persona su información de contacto.</string>
   <string name="outbound_me_profile_title">Interacción NFC completa</string>
   <string name="pair_no">No</string>
@@ -36,11 +40,14 @@
   <string name="pairing_headset">Emparejar</string>
   <string name="pairing_headset_failed">No se pudo emparejar</string>
   <string name="pay_with">Pagar con</string>
+  <string name="permdesc_nfcReceiveEvent">Permite que la aplicación reciba información sobre la transacción NFC realizada</string>
+  <string name="permlab_nfcReceiveEvent">NFC Conocimiento de las transacciones</string>
   <string name="prompt_connect_to_network">¿Conectarse a la red %1$s?</string>
   <string name="status_unable_to_connect">"No se puede conectar a la red"</string>
   <string name="status_wifi_connected">Conectado</string>
   <string name="tap_again_to_complete">Toque otra vez para completar con %1$s</string>
   <string name="tap_again_to_pay">Toque otra vez para pagar con %1$s</string>
+  <string name="title_connect_to_network">Conectarse a la red</string>
   <string name="touch">Toque para transmitir</string>
   <string name="transaction_failure">"Esta transacción no pudo ser completada con %1$s."</string>
   <string name="wifi_connect">Conectar</string>
