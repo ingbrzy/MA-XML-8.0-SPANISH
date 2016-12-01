@@ -9,11 +9,13 @@
   <string name="auth_notif_message">Tipo de clave de sesión para %1$s</string>
   <string name="auth_notif_ticker">Solicitud de autenticación OBEX</string>
   <string name="auth_notif_title">Clave de sesión</string>
+  <string name="bluetooth_connected">Audio conectado Bluetooth</string>
+  <string name="bluetooth_disconnected">Audio desconectado Bluetooth</string>
   <string name="bluetooth_in_airplane_mode">Modo avión</string>
   <string name="bluetooth_map_settings_app_icon">Icono de la aplicación</string>
   <string name="bluetooth_map_settings_cancel">Cancelar</string>
   <string name="bluetooth_map_settings_count">Ranuras de la izquierda:</string>
-  <string name="bluetooth_map_settings_intro">Seleccione las cuentas que desea compartir a través de Bluetooth. Usted todavía tiene que aceptar cualquier acceso a las cuentas cuando se conecta.</string>
+  <string name="bluetooth_map_settings_intro">Seleccione las cuentas que desea compartir a través de Bluetooth. Aún tiene que aceptar cualquier acceso a las cuentas al conectar.</string>
   <string name="bluetooth_map_settings_no_account_slots_left">No se puede seleccionar la cuenta. 0 ranuras de la izquierda</string>
   <string name="bluetooth_map_settings_save">Salvar</string>
   <string name="bluetooth_map_settings_title">Ajustes para compartir mensajes Bluetooth</string>
@@ -62,6 +64,7 @@
   <string name="inbound_history_title">Transferencias entrantes</string>
   <string name="inbound_noti_title">Transferencia Bluetooth: Archivos recibidos</string>
   <string name="incoming_file_confirm_Notification_caption">¿Quieres recibir este archivo?</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s está listo para enviar %2$s</string>
   <string name="incoming_file_confirm_Notification_title">Transferencia Bluetooth: Archivo entrante</string>
   <string name="incoming_file_confirm_cancel">Declinar</string>
   <string name="incoming_file_confirm_content">¿Acepta el archivo entrante?</string>
