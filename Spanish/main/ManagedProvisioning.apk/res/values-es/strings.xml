@@ -22,12 +22,12 @@
   <string name="device_owner_cancel_message">"¿Dejar de configurar y borrar los datos de su dispositivo?"</string>
   <string name="device_owner_error_already_provisioned">Este dispositivo ya está configurado.</string>
   <string name="device_owner_error_download_failed">"No se pudo descargar la aplicación de administración."</string>
-  <string name="device_owner_error_frp">Este dispositivo está bloqueado por la protección de restablecimiento de fábrica. Póngase en contacto con su departamento de IT.</string>
-  <string name="device_owner_error_general">"No se pudo configurar su dispositivo. Póngase en contacto con su departamento de IT"</string>
-  <string name="device_owner_error_hash_mismatch">"No se pudo usar la aplicación administración debido a un error de suma de comprobación. Póngase en contacto con su departamento de IT."</string>
+  <string name="device_owner_error_frp">Este dispositivo está bloqueado por la protección de restablecimiento de fábrica. Póngase en contacto con su departamento de Informática.</string>
+  <string name="device_owner_error_general">"No se pudo configurar su dispositivo. Póngase en contacto con su departamento de Informática"</string>
+  <string name="device_owner_error_hash_mismatch">"No se pudo usar la aplicación administración debido a un error de suma de comprobación. Póngase en contacto con su departamento de Informática."</string>
   <string name="device_owner_error_installation_failed">"No se pudo instalar la aplicación de administración"</string>
   <string name="device_owner_error_ok">Aceptar</string>
-  <string name="device_owner_error_package_invalid">"No se puede usar la aplicación de administración. Faltan componentes o está dañada. Póngase en contacto con su departamento de IT."</string>
+  <string name="device_owner_error_package_invalid">"No se puede usar la aplicación de administración. Faltan componentes o está dañada. Póngase en contacto con su departamento de Informática."</string>
   <string name="device_owner_error_reset">Reiniciar</string>
   <string name="device_owner_error_wifi">"No se pudo conectar a la red Wi-Fi"</string>
   <string name="device_owner_exists">Los perfiles de trabajo no se pueden configurar en un dispositivo gestionado</string>
@@ -38,7 +38,7 @@
   <string name="frp_clear_progress_title">Borrando</string>
   <string name="learn_more_label">Botón aprenda más</string>
   <string name="learn_more_link">Aprenda más</string>
-  <string name="managed_provisioning_error_text">"No se pudo configurar su perfil de trabajo. Póngase en contacto con su departamento de IT o vuelva a intentarlo más tarde."</string>
+  <string name="managed_provisioning_error_text">"No se pudo configurar su perfil de trabajo. Póngase en contacto con su departamento de Informática o vuelva a intentarlo más tarde."</string>
   <string name="managed_provisioning_not_supported">"El dispositivo no soporta perfiles de trabajo"</string>
   <string name="managed_provisioning_not_supported_by_launcher">"Su perfil de trabajo no es compatible con este lanzador. Tendrá que cambiarlo por uno compatible."</string>
   <string name="maximum_user_limit_reached">"El perfil de trabajo no se puede crear porque ha alcanzado el número máximo de usuarios en su dispositivo. Elimine al menos un usuario y vuelva a intentarlo."</string>
@@ -48,7 +48,7 @@
   <string name="opening_paragraph_delete_profile_known_company">Este perfil de trabajo se gestiona para %s usando:</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Un perfil de trabajo ya existe y es administrado por:</string>
   <string name="pick_launcher">Aceptar</string>
-  <string name="preprovisioning_error_encryption_not_supported">Su dispositivo no admite el cifrado. Póngase en contacto con su departamento de IT.</string>
+  <string name="preprovisioning_error_encryption_not_supported">Su dispositivo no admite el cifrado. Póngase en contacto con su departamento de Informática.</string>
   <string name="profile_owner_cancel_cancel">No</string>
   <string name="profile_owner_cancel_message">¿Dejar de configurar?</string>
   <string name="profile_owner_cancel_ok">Sí</string>
