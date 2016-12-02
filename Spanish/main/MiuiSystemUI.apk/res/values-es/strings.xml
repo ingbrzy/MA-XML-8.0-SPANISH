@@ -242,11 +242,32 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="ext_media_unmountable_notification_title">Almacenamiento USB dañado</string>
   <string name="float_incall_ignore">Ignorar</string>
   <string name="float_incall_message">Mensaje</string>
+  <string name="force_allow_on_external">Permite forzar aplicaciones externas</string>
+  <string name="force_allow_on_external_summary">Hace que cualquier aplicación pueda ser escrita en un almacenamiento externo, independientemente de los valores de manifiesto</string>
+  <string name="force_hw_ui">Fuerza de procesamiento de GPU</string>
+  <string name="force_hw_ui_summary">Forzar el uso de GPU para el dibujo 2d</string>
+  <string name="force_msaa">Forzar 4x MSAA</string>
+  <string name="force_msaa_summary">Habilitar 4x MSAA en aplicaciones de OpenGL ES 2.0</string>
+  <string name="force_resizable_activities">Forzar las actividades a ser redimensionables</string>
+  <string name="force_resizable_activities_summary">Hacer todas las actividades redimensionables para multi-ventana, independientemente de los valores de manifiesto.</string>
+  <string name="force_rtl_layout_all_locales">Forzar la dirección de disposición RTL</string>
+  <string name="force_rtl_layout_all_locales_summary">Forzar dirección de diseño de pantalla a RTL para todos los locales</string>
   <string name="gps_notification_found_text">La ubicación se estableció por GPS</string>
   <string name="gps_notification_searching_text">Buscando GPS</string>
+  <string name="hdcp_checking_dialog_title">Establecer el comportamiento de comprobación de HDCP</string>
+  <string name="hdcp_checking_title">Comprobación HDCP</string>
+  <string name="help_feedback_label">Ayuda y comentarios</string>
+  <string name="home">Ajustes de inicio</string>
   <string name="hour_minute_time_format">HH:mm</string>
-  <string name="invalid_charger">"La carga por USB no está soportada.
-Use sólo el cargador provisto."</string>
+  <string name="immediately_destroy_activities">No guarde actividades</string>
+  <string name="immediately_destroy_activities_summary">Destruye todas las actividades tan pronto como el usuario la abandona</string>
+  <string name="inactive_app_active_summary">Activo. Toque para alternar.</string>
+  <string name="inactive_app_inactive_summary">Inactivo. Toque para alternar.</string>
+  <string name="inactive_apps_title">Aplicaciones inactivas</string>
+  <string name="invalid_charger">"La carga USB no es compatible.
+ Utilice sólo el cargador suministrado."</string>
+  <string name="keep_screen_on">Mantente despierto</string>
+  <string name="keep_screen_on_summary">La pantalla nunca se apagara mientras se está cargando</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Ver</string>
   <string name="list_delimeter">", "</string>
