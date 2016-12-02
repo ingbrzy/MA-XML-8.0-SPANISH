@@ -20,6 +20,8 @@
   <string name="accessibility_data_signal_full">Señal de datos completa.</string>
   <string name="accessibility_data_three_bars">Tres barras de datos.</string>
   <string name="accessibility_data_two_bars">Dos barras de datos.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Esta característica es experimental y puede afectar el rendimiento.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Corrección del color</string>
   <string name="accessibility_home">Página principal</string>
   <string name="accessibility_ime_switch_button">Cambiar la entrada del botón del sistema.</string>
   <string name="accessibility_managed_profile">Perfil de trabajo</string>
@@ -51,13 +53,32 @@
   <string name="account_info">No ha iniciado sesión</string>
   <string name="activate_usb_message">Para activar esta función, ingresa tu tarjeta SIM.</string>
   <string name="activate_usb_title">Activar USB</string>
+  <string name="adb_keys_warning_message">¿Desea revocar el acceso a la depuración USB de todos los equipos que ha autorizado anteriormente?</string>
+  <string name="adb_warning_message">La depuración USB está destinada únicamente a fines de desarrollo. Utilícelo para copiar datos entre su computadora y su dispositivo, instalar aplicaciones en su dispositivo sin notificación y leer datos de registro.</string>
+  <string name="adb_warning_title">¿Permitir la depuración USB?</string>
+  <string name="allow_mock_location">Permitir ubicaciones falsas</string>
+  <string name="allow_mock_location_summary">Permitir ubicaciones falsas</string>
   <string name="always_use_accessory">Se usa de forma predeterminada para este accesorio USB.</string>
   <string name="always_use_device">Se usa de forma predeterminada para este dispositivo USB.</string>
+  <string name="animator_duration_scale_title">Escala de duración del animador</string>
+  <string name="apn_settings_not_available">Los ajustes de Nombre del Punto de acceso no están disponibles para este usuario</string>
   <string name="app_label">IU del sistema</string>
+  <string name="app_process_limit_title">Límite de proceso en segundo plano</string>
   <string name="audio_effect_custom">Configurar</string>
   <string name="audio_effect_info">Optimizar audio</string>
   <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
   <string name="available_via_passpoint">Disponible a través de %1$s</string>
+  <string name="battery_info_status_charging">Cargando</string>
+  <string name="battery_info_status_charging_ac">Carga en AC</string>
+  <string name="battery_info_status_charging_ac_short">Cargando</string>
+  <string name="battery_info_status_charging_usb">Carga por USB</string>
+  <string name="battery_info_status_charging_usb_short">Cargando</string>
+  <string name="battery_info_status_charging_wireless">Carga inalámbrica</string>
+  <string name="battery_info_status_charging_wireless_short">Cargando</string>
+  <string name="battery_info_status_discharging">No está cargando</string>
+  <string name="battery_info_status_full">Lleno</string>
+  <string name="battery_info_status_not_charging">No está cargando</string>
+  <string name="battery_info_status_unknown">Desconocido</string>
   <string name="battery_low_percent_format">Queda un %d%%</string>
   <string name="battery_low_title">Conecte el cargador.</string>
   <string name="battery_profiles">Usar perfiles de batería</string>
@@ -74,6 +95,8 @@
   <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sin teléfono o multimedia)</string>
   <string name="bluetooth_connected_no_map">Conectado (sin acceso a los mensajes)</string>
   <string name="bluetooth_connecting">Conectando…</string>
+  <string name="bluetooth_disable_absolute_volume">Desactivar volumen</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la función de volumen del Bluetooth en caso de problemas de volumen con dispositivos remotos tales como volumen inaceptablemente alto o falta de control.</string>
   <string name="bluetooth_disconnected">Desconectado</string>
   <string name="bluetooth_disconnecting">Desconectando…</string>
   <string name="bluetooth_dun_profile_summary_connected">Conectado al servidor Dun</string>
@@ -113,6 +136,11 @@
   <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Usar para el acceso a la SIM</string>
   <string name="bluetooth_tethered">Bluetooth anclado</string>
+  <string name="bt_hci_snoop_log">Activar registro de fisgonear de Bluetooth HCI</string>
+  <string name="bt_hci_snoop_log_summary">Capture todos los paquetes de bluetooth HCI en un archivo</string>
+  <string name="bugreport_in_power">Atajo de informe de error</string>
+  <string name="bugreport_in_power_summary">Mostrar un botón en el menú de encendido para tomar un informe de error</string>
+  <string name="button_convert_fbe">Limpie y convertir…</string>
   <string name="call_status_dialing">Marcando</string>
   <string name="call_status_ringing">Sonando</string>
   <string name="camera_key_action_app_title">Abrir aplicación</string>
@@ -126,9 +154,29 @@
   <string name="camera_key_action_shortcut_title">Capturar</string>
   <string name="camera_key_action_shortcut_wake">Bloquear/desbloquear dispositivo</string>
   <string name="camera_key_action_toggle_title">Alternar controles</string>
+  <string name="category_personal">Personal</string>
+  <string name="category_work">Trabajo</string>
+  <string name="charge_length_format">Hace %1$s</string>
   <string name="chooseUsbActivity">Elige una aplicación para el dispositivo USB</string>
+  <string name="choose_profile">Elegir perfil</string>
+  <string name="clear_adb_keys">Revocar las autorizaciones de depuración USB</string>
+  <string name="confirm_enable_oem_unlock_text">ADVERTENCIA: Las funciones de protección del dispositivo no funcionarán en este dispositivo mientras este ajuste esté activado.</string>
+  <string name="confirm_enable_oem_unlock_title">¿Permitir el desbloqueo de OEM?</string>
   <string name="connected_via_passpoint">Conectado a través de %1$s</string>
   <string name="connected_via_wfa">Conectado a través del asistente Wi-Fi</string>
+  <string name="convert_to_fbe_warning">"Convertir la partición de datos en cifrado basado en archivos.
+ ¡¡Advertencia!! Esto borrará todos sus datos.
+ Esta función es alfa y puede no funcionar correctamente.
+ Pulse 'Limpiar y convertir…' para continuar."</string>
+  <string name="convert_to_file_encryption">Convertir en cifrado de archivos</string>
+  <string name="convert_to_file_encryption_done">Ya está encriptado</string>
+  <string name="convert_to_file_encryption_enabled">Convertir…</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (rojo-verde)</string>
+  <string name="daltonizer_mode_disabled">Apagado</string>
+  <string name="daltonizer_mode_monochromacy">Monochromacy</string>
+  <string name="daltonizer_mode_protanomaly">Protanomaly (rojo-verde)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomaly (azul-amarillo)</string>
+  <string name="daltonizer_type_overridden">Anulado por %1$s</string>
   <string name="data_usage_disabled_dialog">"Alcanzaste el límite de uso de datos especificado.
 
 Puede que tu operador te cobre por volver a activar datos."</string>
