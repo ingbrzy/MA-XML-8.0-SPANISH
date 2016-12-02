@@ -1,75 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">%s aplicaciones no pueden mostrar notificaciones</item>
-        <item quantity="one">1 aplicación no puede mostrar notificaciones</item>
-    </plurals>
-    <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s aplicaciones pueden mostrar notificaciones</item>
-        <item quantity="one">1 aplicación puede mostrar notificaciones</item>
-    </plurals>
-    <plurals name="show_dev_countdown">
-        <item quantity="other">Estás a %1$d pasos de ser desarrollador.</item>
-        <item quantity="one">Estás a %1$d paso de ser desarrollador.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">La contraseña debe tener al menos %d letras.</item>
-        <item quantity="one">La contraseña debe tener al menos una letra.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">La contraseña debe tener al menos %d letras minúsculas.</item>
-        <item quantity="one">La contraseña debe tener al menos una letra minúscula.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">La contraseña debe tener al menos %d letras mayúsculas.</item>
-        <item quantity="one">La contraseña debe tener al menos una letra mayúscula.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">La contraseña debe tener al menos %d dígitos numéricos.</item>
-        <item quantity="one">La contraseña debe tener al menos un dígito numérico.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">La contraseña debe tener al menos %d símbolos especiales.</item>
-        <item quantity="one">La contraseña debe tener al menos un símbolo especial.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">La contraseña debe tener al menos %d caracteres que no sean letras.</item>
-        <item quantity="one">La contraseña debe tener al menos un carácter que no sea una letra.</item>
-    </plurals>
-    <plurals name="wrong_pin_code">
-        <item quantity="other">El código PIN de la tarjeta SIM es incorrecto. Te quedan %d intentos.</item>
-        <item quantity="one">El código PIN de la tarjeta SIM es incorrecto. Te queda %d intento antes de que debas comunicarte con el proveedor para desbloquear el dispositivo.</item>
-    </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Cantidad de aplicaciones que pueden leer notificaciones: %d</item>
-        <item quantity="one">Cantidad de aplicaciones que pueden leer notificaciones: %d</item>
-    </plurals>
-    <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">Las aplicaciones %d proporcionan condiciones</item>
-        <item quantity="one">La aplicación %d proporciona condiciones</item>
-    </plurals>
-    <plurals name="connected_devices_number">
-        <item quantity="other">%d dispositivos</item>
-        <item quantity="one">%d dispositivo</item>
-    </plurals>
-    <plurals name="show_pho_countdown">
-        <item quantity="other">Estás a %1$d pasos de acceder a la info de tu dispositivo.</item>
-        <item quantity="one">Estás a %1$d paso de acceder a la info de tu dispositivo.</item>
-    </plurals>
-    <plurals name="show_cit_countdown">
-        <item quantity="other">Estás a %1$d pasos de acceder a la info cit.</item>
-        <item quantity="one">Estás a %1$d paso de acceder a la info cit.</item>
-    </plurals>
-    <plurals name="show_rep_countdown">
-        <item quantity="other">Estás a %1$d pasos de reportar errores.</item>
-        <item quantity="one">Estás a %1$d paso de reportar errores.</item>
-    </plurals>
-    <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Siempre desactivar para %d aplicaciones</item>
-        <item quantity="one">Siempre desactivar para 1 aplicación</item>
-    </plurals>
-    <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Nunca desactivar para %d aplicaciones</item>
-        <item quantity="one">Nunca desactivar para 1 aplicación</item>
-    </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="other">Retraso extremadamente corto (%1$d ms)</item>
+    <item quantity="one">Retraso extremadamente corto (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="other">Retraso largo (%1$d ms)</item>
+    <item quantity="one">Retraso largo (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="other">Retraso corto (%1$d ms)</item>
+    <item quantity="one">Retraso corto (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="other">Retraso muy largo (%1$d ms)</item>
+    <item quantity="one">Retraso muy largo (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="other">Retraso muy corto (%1$d ms)</item>
+    <item quantity="one">Retraso muy corto (%1$d ms)</item>
+  </plurals>
+  <plurals name="auto_disable_screenbuttons_disabled_header_title">
+    <item quantity="other">Nunca desactivar para %d aplicaciones</item>
+    <item quantity="one">Nunca desactivar para 1 aplicación</item>
+  </plurals>
+  <plurals name="auto_disable_screenbuttons_enabled_header_title">
+    <item quantity="other">Siempre desactivar para %d aplicaciones</item>
+    <item quantity="one">Siempre desactivar para 1 aplicación</item>
+  </plurals>
+  <plurals name="connected_devices_number">
+    <item quantity="other">%d dispositivos</item>
+    <item quantity="one">%d dispositivo</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="other">%1$d aplicaciones autorizadas a utilizar datos sin restricciones cuando el Ahorro de Datos está activado</item>
+    <item quantity="one">1 aplicación autorizada a utilizar datos sin restricciones cuando el Ahorro de Datos está activado</item>
+  </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="other">¿Eliminar los idiomas seleccionados?</item>
+    <item quantity="one">¿Eliminar el idioma seleccionado?</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="other">La contraseña debe tener al menos %d letras.</item>
+    <item quantity="one">La contraseña debe tener al menos una letra.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="other">La contraseña debe tener al menos %d letras minúsculas.</item>
+    <item quantity="one">La contraseña debe tener al menos una letra minúscula.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="other">La contraseña debe tener al menos %d caracteres que no sean letras.</item>
+    <item quantity="one">La contraseña debe tener al menos un carácter que no sea una letra.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="other">La contraseña debe tener al menos %d dígitos numéricos.</item>
+    <item quantity="one">La contraseña debe tener al menos un dígito numérico.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="other">La contraseña debe tener al menos %d símbolos especiales.</item>
+    <item quantity="one">La contraseña debe tener al menos un símbolo especial.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="other">La contraseña debe tener al menos %d letras mayúsculas.</item>
+    <item quantity="one">La contraseña debe tener al menos una letra mayúscula.</item>
+  </plurals>
+  <plurals name="manage_condition_providers_summary_nonzero">
+    <item quantity="other">Las aplicaciones %d proporcionan condiciones</item>
+    <item quantity="one">La aplicación %d proporciona condiciones</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="other">Cantidad de aplicaciones que pueden leer notificaciones: %d</item>
+    <item quantity="one">Cantidad de aplicaciones que pueden leer notificaciones: %d</item>
+  </plurals>
+  <plurals name="notification_summary">
+    <item quantity="other">Envíos bloqueados a %d aplicaciones </item>
+    <item quantity="one">Enviós bloqueados a %d aplicación</item>
+  </plurals>
+  <plurals name="print_settings_title">
+    <item quantity="other">%d trabajos de impresión</item>
+    <item quantity="one">1 trabajo de impresión</item>
+  </plurals>
+  <plurals name="show_cit_countdown">
+    <item quantity="other">Estás a %1$d pasos de acceder a la info cit.</item>
+    <item quantity="one">Estás a %1$d paso de acceder a la info cit.</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="other">Estás a %1$d pasos de ser desarrollador.</item>
+    <item quantity="one">Estás a %1$d paso de ser desarrollador.</item>
+  </plurals>
+  <plurals name="show_pho_countdown">
+    <item quantity="other">Estás a %1$d pasos de acceder a la info de tu dispositivo.</item>
+    <item quantity="one">Estás a %1$d paso de acceder a la info de tu dispositivo.</item>
+  </plurals>
+  <plurals name="show_rep_countdown">
+    <item quantity="other">Estás a %1$d pasos de reportar errores.</item>
+    <item quantity="one">Estás a %1$d paso de reportar errores.</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="other">Aceptar o eliminar certificados</item>
+    <item quantity="one">Aceptar o eliminar certificado</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="other">"%s ha instalado autoridades de certificación para su perfil de trabajo, lo que le puede permitir monitorizar su actividad de la red de trabajo, incluyendo correos, apliicaciones y sitios web seguros.
+
+Para más información sobre estos certificados, contacte con su administrador.  "</item>
+    <item quantity="one">"%s ha instalado una autoridad de certificación para su perfil de trabajo, lo que le puede permitir monitorizar su actividad de la red de trabajo, incluyendo correos, apliicaciones y sitios web seguros.
+
+Para más información sobre este certificado, contacte con su administrador.  "</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="other">"%s ha instalado autoridades de certificación en su dispositivo, lo que le puede permitir monitorizar la actividad de red del dispositivo , incluyendo correos, apliicaciones y sitios web seguros.
+
+Para más información sobre estos certificados, contacte con su administrador.  "</item>
+    <item quantity="one">"%s ha instalado una autoridad de certificación en su dispositivo, lo que le puede permitir monitorizar la actividad de red del dispositivo, incluyendo correos, apliicaciones y sitios web seguros.
+
+Para más información sobre este certificado, contacte con su administrador.  "</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="other">Comprobar certificados</item>
+    <item quantity="one">Comprobar certificado</item>
+  </plurals>
+  <plurals name="status_bar_settings_disabled_header_title">
+    <item quantity="other">%s aplicaciones no pueden mostrar notificaciones</item>
+    <item quantity="one">1 aplicación no puede mostrar notificaciones</item>
+  </plurals>
+  <plurals name="status_bar_settings_enabled_header_title">
+    <item quantity="other">%s aplicaciones pueden mostrar notificaciones</item>
+    <item quantity="one">1 aplicación puede mostrar notificaciones</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="other">%d elementos</item>
+    <item quantity="one">1 elemento</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="other">El código PIN de la tarjeta SIM es incorrecto. Te quedan %d intentos.</item>
+    <item quantity="one">El código PIN de la tarjeta SIM es incorrecto. Te queda %d intento antes de que debas comunicarte con el proveedor para desbloquear el dispositivo.</item>
+  </plurals>
 </resources>
