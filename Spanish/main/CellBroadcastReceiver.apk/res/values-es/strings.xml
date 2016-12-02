@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_channel">Agregar canal</string>
   <string name="alert_reminder_interval_title">Recordatorio de alerta</string>
   <string name="alert_sound_duration_title">Duración sonido alerta</string>
   <string name="app_label">Transmisiones móviles</string>
@@ -9,8 +10,26 @@
   <string name="category_brazil_settings_title">Ajustes para Brasil</string>
   <string name="category_dev_settings_title">Opciones de desarrollador</string>
   <string name="category_etws_settings_title">Ajustes ETWS</string>
-  <string name="cb_other_message_identifiers">Transmisiones móviles</string>
+  <string name="category_india_settings_title">Ajustes de India</string>
+  <string name="cb_channel_50_name">Canal 50</string>
+  <string name="cb_channel_dialog_channel_name">Nombre del Canal (0-10 caracteres)</string>
+  <string name="cb_channel_dialog_channel_number">Numero de canal (0-65534)</string>
+  <string name="cb_channel_dialog_channel_state">Activar el canal</string>
+  <string name="cb_channel_dialog_edit_channel">Editar canal</string>
+  <string name="cb_default_new_channel_name">Nuevo canal</string>
+  <string name="cb_error_channel_id_exist">El ID del canal existe.</string>
+  <string name="cb_error_channel_name">La longitud del nombre del canal no es correcta (1-10 caracteres).</string>
+  <string name="cb_error_channel_num">Introduzca el número de canal (0-65534).</string>
+  <string name="cb_menu_add_channel">Agregar canal</string>
+  <string name="cb_menu_channel_list">Lista de canales</string>
+  <string name="cb_menu_delete">Eliminar difusión</string>
+  <string name="cb_menu_edit">Editar</string>
+  <string name="cb_menu_tile">Funcionamiento del canal</string>
+  <string name="cb_other_message_identifiers">Difusión celular</string>
+  <string name="cell_broadcast_setting">Ajustes de difusión celular</string>
   <string name="cell_broadcast_settings_not_available">Los ajustes de transmisiones móviles no están disponibles para este usuario</string>
+  <string name="channel_list">Lista de canales</string>
+  <string name="close_dialog">Aceptar</string>
   <string name="cmas_amber_alert">Secuestro de menores (alerta Amber)</string>
   <string name="cmas_category_cbrne">Química/Biológica/Nuclear/Explosiva</string>
   <string name="cmas_category_env">Medioambiental</string>
@@ -55,9 +74,14 @@
   <string name="confirm_delete_all_broadcasts">¿Borrar todos los mensajes de transmisión recibidos?</string>
   <string name="confirm_delete_broadcast">¿Borrar esta transmisión?</string>
   <string name="delivery_time_heading">Recibido:</string>
+  <string name="disable">Desactivar</string>
+  <string name="done_text">Terminado</string>
   <string name="emergency_alert_settings_title">Ajustes de alerta de emergencia</string>
+  <string name="enable">Activar</string>
   <string name="enable_alert_speech_summary">Usar voz del sistema para leer los mensajes de alerta de emergencia</string>
   <string name="enable_alert_speech_title">Voz en mensaje de alerta</string>
+  <string name="enable_alert_tone_summary">Tono de alerta activado</string>
+  <string name="enable_alert_tone_title">Tono de alerta</string>
   <string name="enable_alert_vibrate_summary">Vibrar con alerta</string>
   <string name="enable_alert_vibrate_title">Vibrar</string>
   <string name="enable_channel_50_alerts_summary">Canal 50 usado en Brasil para actualizar informaciones de área</string>
@@ -66,6 +90,8 @@
   <string name="enable_cmas_amber_alerts_title">Mostrar alertas Amber</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Mostrar alertas para amenazas extremas de vidas y propiedades</string>
   <string name="enable_cmas_extreme_threat_alerts_title">Mostrar amenazas extremas</string>
+  <string name="enable_cmas_presidential_alerts_summary">Mostrar siempre alertas presidenciales</string>
+  <string name="enable_cmas_presidential_alerts_title">Mostrar alertas presidenciales</string>
   <string name="enable_cmas_severe_threat_alerts_summary">Mostrar alertas para amenazas severas de vidas y propiedades</string>
   <string name="enable_cmas_severe_threat_alerts_title">Mostrar amenazas severas</string>
   <string name="enable_cmas_test_alerts_summary">Mostrar pruebas de transmisiones para Commercial Mobile Alert System</string>
@@ -74,6 +100,8 @@
   <string name="enable_emergency_alerts_title">Encender notificaciones</string>
   <string name="enable_etws_test_alerts_summary">Mostrar pruebas de transmisiones para Earthquake Tsunami Warning System</string>
   <string name="enable_etws_test_alerts_title">Mostrar pruebas de transmisiones ETWS</string>
+  <string name="error_finish_dialog_title">Error en la tarjeta SIM o en la red.</string>
+  <string name="error_updating_title">Error de ajustes de llamada</string>
   <string name="etws_earthquake_and_tsunami_warning">Aviso de terremoto y tsunami</string>
   <string name="etws_earthquake_warning">Aviso de terremoto</string>
   <string name="etws_other_emergency_type">Aviso de emergencia</string>
@@ -88,8 +116,12 @@
   <string name="notification_multiple">%s alertas no leídas.</string>
   <string name="notification_multiple_title">Nuevas alertas</string>
   <string name="pws_other_message_identifiers">Alerta de emergencia</string>
+  <string name="reading_settings">Ajustes de lectura</string>
+  <string name="receive_broad_cast">Recibir difusión celular SMS</string>
   <string name="show_cmas_opt_out_summary">Mostrar diálogo de cancelación después de mostrar la primera alerta CMAS (que no sea alerta presidencial).</string>
   <string name="show_cmas_opt_out_title">Mostrar diálogo de cancelación</string>
   <string name="sms_cb_settings">Ajustes de transmisiones móviles</string>
+  <string name="updating_settings">Actualización de ajustes</string>
+  <string name="updating_title">Ajustes de llamada</string>
   <string name="view_details_title">Detalles de alerta</string>
 </resources>

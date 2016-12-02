@@ -1,5 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+        <string-array name="wifi_status">
+        <item></item>
+        <item>Escaneado…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obteniendo dirección IP…</item>
+        <item>Conectado</item>
+        <item>Suspendido</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Fracasado</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporalmente la mala conexión</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Escaneado…</item>
+        <item>Conectado a %1$s…</item>
+        <item>Autenticación con %1$s…</item>
+        <item>Obtención de la dirección IP desde %1$s…</item>
+        <item>Conectado a %1$s</item>
+        <item>Suspendido</item>
+        <item>Desconectando de %1$s…</item>
+        <item>Desconectado</item>
+        <item>Fracasado</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporalmente la mala conexión</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Never check</item>
+        <item>Check for DRM content only</item>
+        <item>Always check</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Never use HDCP checking</item>
+        <item>Use HDCP checking for DRM content only</item>
+        <item>Always use HDCP checking</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Apagado</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Apagado</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Apagado</item>
+        <item>64K por buffer de registro</item>
+        <item>256K por buffer de registro</item>
+        <item>1M por buffer de registro</item>
+        <item>4M por buffer de registro</item>
+        <item>16M por buffer de registro</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animación apagada</item>
+        <item>Escala de animación .5x</item>
+        <item>Escala de animación 1x</item>
+        <item>Escala de animación 1.5x</item>
+        <item>Escala de animación 2x</item>
+        <item>Escala de animación 5x</item>
+        <item>Escala de animación 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animación apagada</item>
+        <item>Escala de animación .5x</item>
+        <item>Escala de animación 1x</item>
+        <item>Escala de animación 1.5x</item>
+        <item>Escala de animación 2x</item>
+        <item>Escala de animación 5x</item>
+        <item>Escala de animación 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animación apagada</item>
+        <item>Escala de animación .5x</item>
+        <item>Escala de animación 1x</item>
+        <item>Escala de animación 1.5x</item>
+        <item>Escala de animación 2x</item>
+        <item>Escala de animación 5x</item>
+        <item>Escala de animación 10x</item>
+    </string-array>>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ninguna</item>
+        <item>480p</item>
+        <item>480p (seguro)</item>
+        <item>720p</item>
+        <item>720p (seguro)</item>
+        <item>1080p</item>
+        <item>1080p (seguro)</item>
+        <item>4K</item>
+        <item>4K (seguro)</item>
+        <item>4K (escalonado)</item>
+        <item>4K (escalonado, seguro)</item>
+        <item>720p, 1080p (pantalla dual)</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,seguro</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,seguro</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,seguro</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,seguro</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,seguro</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ninguna</item>
+        <item>Logcat</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>error</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Apagado</item>
+        <item>Dibuja una región de clip no rectangular en azul</item>
+        <item>Resalte los comandos de dibujo probados en verde</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>ocultar</item>
+        <item>región</item>
+        <item>realce</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Apagado</item>
+        <item>En la pantalla como barras</item>
+        <item>En adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Apagado</item>
+        <item>Mostrar las áreas de sobregiro</item>
+        <item>Mostrar zonas para Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Límite estándar</item>
+        <item>No hay procesos en segundo plano</item>
+        <item>A lo sumo 1 proceso</item>
+        <item>A lo sumo 2 procesos</item>
+        <item>A lo sumo 3 procesos</item>
+        <item>A lo sumo 4 procesos</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Cargando</item>
+        <item>MTP (Protocolo de transferencia de medios)</item>
+        <item>PTP (Protocolo de transferencia de imágenes)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Fuente de audio</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>nada</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Muy lento</item>
+        <item>Lento</item>
+        <item>Normal</item>
+        <item>Rápido</item>
+        <item>Más rápido</item>
+        <item>Muy rapido</item>
+        <item>Rápido</item>
+        <item>Muy rápido</item>
+        <item>Lo más rápido</item>
+    </string-array>
     <string-array name="aqi_title_prefix">
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>

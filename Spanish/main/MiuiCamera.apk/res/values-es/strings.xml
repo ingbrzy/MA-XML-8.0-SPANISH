@@ -84,7 +84,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="flash">Flash</string>
   <string name="height">Altura</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
-  <string name="message_snap_double_confirm">Actualmente presionado largo en la tecla de volumen es modo NFC, ¿Confirmar el reemplazo?</string>
+  <string name="message_snap_double_confirm">Con una presión prolongada del botón de volumen provoca que se active el NFC. ¿Reemplazar esta función?</string>
   <string name="location">Lugar</string>
   <string name="model">Modelo</string>
   <string name="no_storage">Inserte la tarjeta SD antes de usar cámara</string>
@@ -122,6 +122,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medición puntual</string>
   <string name="pref_camera_autoexposure_title">Ajustes de exposición automática</string>
   <string name="pref_camera_beautify_entry_auto">Automática</string>
+  <string name="pref_camera_beautify_entry_close">Apagado</string>
   <string name="pref_camera_beautify_entry_high">Alta</string>
   <string name="pref_camera_beautify_entry_low">Baja</string>
   <string name="pref_camera_beautify_entry_normal">Media</string>
@@ -133,7 +134,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_coloreffect_entry_light_tunnel">Tunel</string>
   <string name="pref_camera_coloreffect_entry_long_face">Distorsionar</string>
   <string name="pref_camera_coloreffect_entry_mirror">Espejo</string>
-  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_mono">B y N</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_sketch">Dibujo</string>
@@ -208,7 +209,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="pref_camera_long_pressing_shutter_title">Pulse y mantenga el obturador para fijar AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Espejo mágico</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
-  <string name="pref_camera_mono_mode_title">Mono</string>
+  <string name="pref_camera_mono_mode_title">B y N</string>
   <string name="pref_camera_movie_solid_title">Estabilizador de imagen</string>
   <string name="pref_camera_multilevel_entry_high">Alta</string>
   <string name="pref_camera_multilevel_entry_higher">Superior</string>
@@ -381,7 +382,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="simple_mode_button_text_hand_night">Cerrar modo noche</string>
   <string name="simple_mode_button_text_magic_mirror">Apagar espejo Mágico</string>
   <string name="simple_mode_button_text_manual">Cerrar modo manual</string>
-  <string name="simple_mode_button_text_mono">Desactivar Mono</string>
+  <string name="simple_mode_button_text_mono">Desactivar B y N</string>
   <string name="simple_mode_button_text_panorama">Cerrar modo panorámica</string>
   <string name="simple_mode_button_text_raw">Desactivar RAW</string>
   <string name="simple_mode_button_text_scene">Cerrar modo escena</string>
@@ -391,13 +392,13 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="simple_mode_button_text_tilt_shift">Cerrar efecto diorama</string>
   <string name="simple_mode_button_text_ubifocus">Cerrar modo de reenfoque</string>
   <string name="snap_cancel">Cancelar</string>
-  <string name="snap_confirmed">Confirmar</string>
+  <string name="snap_confirmed">Reemplazar</string>
   <string name="start_capture">Aceptar</string>
   <string name="tap_to_exposure">Toque para ajustar manualmente la exposición</string>
   <string name="tap_to_focus">Tocar para enfocar</string>
   <string name="time">Tiempo</string>
   <string name="time_lapse_error">No se puede usar este tamaño de vídeo en una grabación time-lapse</string>
-  <string name="title_snap_double_confirm">Por favor, confirma de nuevo</string>
+  <string name="title_snap_double_confirm">Confirmar de nuevo</string>
   <string name="title">Título</string>
   <string name="toast_burst_snap_finished_end">Fotos</string>
   <string name="toast_burst_snap_finished_start">Disparo en ráfaga terminado:</string>
