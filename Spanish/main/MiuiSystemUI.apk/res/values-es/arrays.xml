@@ -33,11 +33,6 @@
         <item>Check for DRM content only</item>
         <item>Always check</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
         <item>Use HDCP checking for DRM content only</item>
@@ -106,41 +101,16 @@
         <item>4K (escalonado, seguro)</item>
         <item>720p, 1080p (pantalla dual)</item>
     </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,seguro</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,seguro</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,seguro</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,seguro</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,seguro</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ninguna</item>
         <item>Logcat</item>
         <item>Systrace (Gráficos)</item>
         <item>Call stack on glGetError</item>
     </string-array>
-    <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>systrace</item>
-        <item>error</item>
-    </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Apagado</item>
         <item>Dibuja una región de clip no rectangular en azul</item>
         <item>Resalte los comandos de dibujo probados en verde</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>ocultar</item>
-        <item>región</item>
-        <item>realce</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Apagado</item>
@@ -167,14 +137,6 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Fuente de audio</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="usb_configuration_values">
-        <item>nada</item>
-        <item>mtp</item>
-        <item>ptp</item>
-        <item>rndis</item>
-        <item>audio_source</item>
-        <item>midi</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Muy lento</item>
