@@ -1,17 +1,39 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="app_name">MusicFX</string>
   <string name="bass_boost_strength">Refuerzo de graves</string>
   <string name="ci_extreme">Refuerzo de FX</string>
+  <string name="classical">Clásica</string>
+  <string name="combo_device">Efectos compatibles sólo con la reproducción de auriculares.</string>
+  <string name="dance">Dance</string>
+  <string name="eq_custom">Para personalizar, seleccione Personalizar</string>
   <string name="eq_dialog_title">Ecualizador</string>
+  <string name="flat">Plano</string>
+  <string name="folk">Folk</string>
   <string name="headset_plug">Estos efectos no estarán disponibles hasta que conecte los auriculares</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Jazz</string>
+  <string name="largehall">Sala Grande</string>
+  <string name="largeroom">Habitación Grande</string>
   <string name="main_toggle_effects_title">Efectos de audio</string>
+  <string name="mediumhall">Sala mediana</string>
+  <string name="mediumroom">Habitación mediana</string>
   <string name="no_effects">Efectos no disponibles</string>
+  <string name="none">Ninguno</string>
+  <string name="normal">Normal</string>
   <string name="picker_title">Panel de control de efectos de música</string>
-  <string name="pr_dialog_title">Reverb preestablecido</string>
+  <string name="plate">Plato</string>
+  <string name="pop">Pop</string>
+  <string name="power_on_prompt">Presione el botón de encendido en la parte superior derecha.</string>
+  <string name="pr_dialog_title">Reverberación preestablecida</string>
   <string name="pr_summary">Efectos adicionales de reverberación</string>
   <string name="pr_title">Reverberación:</string>
+  <string name="rock">Rock</string>
   <string name="setup">Configuración</string>
+  <string name="smallroom">Habitación pequeña</string>
+  <string name="toggle_button_off">Apagado</string>
+  <string name="toggle_button_on">Encendido</string>
   <string name="user">Usuario</string>
   <string name="virtualizer_strength">Sonido envolvente</string>
 </resources>
