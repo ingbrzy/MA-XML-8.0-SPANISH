@@ -249,9 +249,9 @@
          <item quantity="one">%1$s comentario</item>
     </plurals>
     <plurals name="follow_count">
-       <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> seguidores</item>
-       <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> seguidor</item>
-     </plurals>
+        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> seguidores</item>
+        <item quantity="one">&amp;lt;font color=#fc7050>%d&amp;lt;/font> seguidor</item>
+    </plurals>
     <plurals name="user_sign_limt">
          <item quantity="other">Puede introducir %d caracteres</item>
          <item quantity="one">Puede introducir %d carácter</item>
@@ -283,9 +283,5 @@
     <plurals name="video_publish_watchable_hint">
          <item quantity="other">Obtener %1$d seguidores más para actualizar tu estado</item>
          <item quantity="one">Obtener %1$d seguidor más para actualizar tu estado</item>
-    </plurals>
-    <plurals name="follow_count">
-        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> seguidores</item>
-        <item quantity="one">&amp;lt;font color=#fc7050>%d&amp;lt;/font> seguidor</item>
     </plurals>
 </resources>
