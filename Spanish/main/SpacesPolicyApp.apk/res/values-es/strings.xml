@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="admin_receiver_status_disable_warning">El administrador de dispositivo de Secure Spaces se re-habilitará cuando y si es necesitado más tarde.</string>
   <string name="app_name">Agente Secure Spaces</string>
@@ -6,7 +6,7 @@
   <string name="choice_yes">Sí</string>
   <string name="dialog_download_space_cancel">Cancelar</string>
   <string name="dialog_download_space_create">Aceptar</string>
-  <string name="dialog_download_space_title">¿Descargar Spaces?</string>
+  <string name="dialog_download_space_title">¿Descargar Space?</string>
   <string name="dialog_password_expired_button">Actualizar contraseña</string>
   <string name="dialog_password_expired_message">Su contraseña ha caducado o ya no es válida bajo la política actual. Por favor, actualice su contraseña.</string>
   <string name="dialog_password_expired_title">Contraseña caducada</string>
@@ -54,8 +54,8 @@
   <string name="sscm_registration_summary">Baje las notificaciones para ver detalles</string>
   <string name="title_sscm_registration">Recordatorio del Servicio Secure Spaces</string>
   <string name="toast_space_creation_failed">Error al crear space</string>
-  <string name="uri_invalid">URI o código QR no describe un Secure Spaces</string>
-  <string name="uri_invalid_server_url">La URL del servidor no es válida en el registro de URI</string>
-  <string name="uri_missing_registration_token">Registro vacío o perdida del identificador del registro URI</string>
+  <string name="uri_invalid">La URI o el código QR no describe un Secure Space</string>
+  <string name="uri_invalid_server_url">La URL del servidor no es válida en el URI de registro</string>
+  <string name="uri_missing_registration_token">Identificador de registro vacío o inexistente en el URI de registro</string>
   <string name="wifi">wifi</string>
 </resources>
