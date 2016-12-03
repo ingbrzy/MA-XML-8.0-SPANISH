@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="app_ops_labels">
+        <item>Intentando habilitar Wi-Fi</item>
+        <item>Intentando activar BT</item>
+    </string-array>
+    <string-array name="config_globalActionsList">
+        <item>energía</item>
+        <item>perfil</item>
+        <item>reiniciar</item>
+        <item>avión</item>
+        <item>silencio</item>
+    </string-array>
     <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Trabajo</item>
@@ -64,4 +75,18 @@
         <item>Otros</item>
         <item>Personalización</item>
     </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Para realizar llamadas y enviar mensajes a través de WLAN, primero pida a su operador que configure este servicio. A continuación, vuelva a activar la llamada Wi-Fi desde ajustes.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Regístrese con su operador</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Llamadas Wi-Fi</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+         <item>Inténtalo de nuevo</item>
+         <item></item>
+     </string-array>
 </resources>
