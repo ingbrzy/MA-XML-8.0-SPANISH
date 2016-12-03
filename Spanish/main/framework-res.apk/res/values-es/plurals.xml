@@ -4,8 +4,17 @@
         <item quantity="other">Te quedan %d intentos antes de que se bloquee la tarjeta SIM.</item>
         <item quantity="one">Te queda %d intento antes de que se bloquee la tarjeta SIM.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Autoridades de certificados instaladas</item>
+        <item quantity="one">Autoridad de certificado instalada</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Hacer una captura de pantalla del informe de error en %d segundos.</item>
+        <item quantity="one">Hacer una captura de pantalla del informe de error en %d segundo.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Últimos %d días</item>
+        <item quantity="one">Último %d día</item>
     </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d segundos</item>
@@ -18,6 +27,54 @@
     <plurals name="duration_hours">
         <item quantity="other">%d horas</item>
         <item quantity="one">1 hora</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">en %dm</item>
+        <item quantity="one">en %dm</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">en %dh</item>
+        <item quantity="one">en %dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">en %dd</item>
+        <item quantity="one">en %dd</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">en %dy</item>
+        <item quantity="one">en %dy</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minuto</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">Hace %d hora</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">Hace %d días</item>
+        <item quantity="one">Hace %d día</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">Hace %d años</item>
+        <item quantity="one">Hace %d año</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">en %d minutos</item>
+        <item quantity="one">en %d minuto</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">en %d horas</item>
+        <item quantity="one">en %d hora</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">en %d días</item>
+        <item quantity="one">en %d día</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">en %d años</item>
+        <item quantity="one">en %d año</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">redes disponibles de Wi-Fi</item>
