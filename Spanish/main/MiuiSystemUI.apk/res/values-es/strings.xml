@@ -559,9 +559,14 @@ Desliza hacia abajo para bloquear"</string>
   <string name="wifi_disabled_network_failure">Error en los ajustes IP</string>
   <string name="wifi_disabled_password_failure">Problema de autenticación</string>
   <string name="wifi_disabled_wifi_failure">Error de conexión Wi-Fi</string>
+  <string name="wifi_display_certification">Certificación de la pantalla inalámbrica</string>
+  <string name="wifi_display_certification_summary">Mostrar opciones para la certificación de la pantalla inalámbrica</string>
   <string name="wifi_fail_to_scan">"No se pueden buscar redes"</string>
   <string name="wifi_no_internet">"No se ha detectado acceso a Internet, no se volverá a conectar automáticamente."</string>
   <string name="wifi_not_in_range">Fuera de rango</string>
   <string name="wifi_remembered">Guardado</string>
   <string name="wifi_security_none">Ninguna</string>
+  <string name="wifi_verbose_logging">Habilitar el registro detallado Wi-Fi</string>
+  <string name="wifi_verbose_logging_summary">Aumentar el nivel de registro Wi-Fi, mostrar por SSID RSSI en Wi-Fi Picker</string>
+  <string name="window_animation_scale_title">Escala de animación de ventanas</string>
 </resources>
