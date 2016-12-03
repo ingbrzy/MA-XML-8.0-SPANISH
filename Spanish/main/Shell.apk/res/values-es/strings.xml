@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_add_details_to_zip_failed">"No se pudieron añadir los detalles del informe de error al fichero zip"</string>
+  <string name="bugreport_confirm">"Los informes de error contienen datos de los diversos ficheros de log del sistema, que pueden incluir datos que Ud. considere sensible (como uso de aplicaciones y datos de ubicación). Comparta los informes de error solamente con personas y aplicaciones en las que confíe."</string>
+  <string name="bugreport_confirm_dont_repeat">"No mostrar de nuevo"</string>
+  <string name="bugreport_finished_pending_screenshot_text">Toque para compartir su informe de error sin una captura de pantalla o espere a que finalice la captura de pantalla</string>
+  <string name="bugreport_finished_text">Toque para compartir su informe de error</string>
+  <string name="bugreport_finished_title">Informe de error #%d capturado</string>
+  <string name="bugreport_in_progress_title">El informe de error #%d se está generando</string>
+  <string name="bugreport_info_action">Detalles</string>
+  <string name="bugreport_info_description">Resumen de errores</string>
+  <string name="bugreport_info_dialog_title">Detalles del informe de error #%d</string>
+  <string name="bugreport_info_name">Nombre de fichero</string>
+  <string name="bugreport_info_title">Título del error</string>
+  <string name="bugreport_screenshot_action">Captura de pantalla</string>
+  <string name="bugreport_screenshot_failed">No se pudo tomar una captura de pantalla.</string>
+  <string name="bugreport_screenshot_taken">Captura de pantalla guardada correctamente.</string>
+  <string name="bugreport_storage_title">Informes de error</string>
+  <string name="bugreport_unnamed">sin nombre</string>
+  <string name="bugreport_unreadable_text">El fichero de informe de error no se pudo leer</string>
+  <string name="bugreport_updating_title">Añadiendo detalles al informe de error</string>
+  <string name="bugreport_updating_wait">Espere…</string>
+  <string name="save">Guardar</string>
+</resources>
