@@ -1230,7 +1230,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="debug_view_attributes">Inspección de atributos de vista</string>
   <string name="decline_remote_bugreport_action">Declinar</string>
   <string name="defalut_launcher_title">Lanzador predeterminado</string>
-  <string name="default_admin_support_msg">"Esta acción esta desactivada. Contacte con el administrador de su organización para saber más."</string>
   <string name="default_app">(Predeterminada)</string>
   <string name="default_apps_title">Aplicaciones predeterminadas</string>
   <string name="default_assist_none">Ninguno</string>
@@ -1239,12 +1238,9 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="default_browser_title_none">Sin navegador predeterminado</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_emergency_app">Aplicación Emergencia</string>
-  <string name="default_for_work">Predeterminado para el trabajo</string>
   <string name="default_input_method">Seleccione el teclado predeterminado</string>
-  <string name="default_keyboard_layout">Predeterminado</string>
   <string name="default_phone_title">Aplicación Teléfono</string>
   <string name="default_sound">Sonido predeterminado</string>
-  <string name="default_spell_checker">Corrector ortográfico predeterminado</string>
   <string name="default_usb_mode">Conexión USB</string>
   <string name="delete">Eliminar</string>
   <string name="delete_fingerprint_confirm_msg">¿Eliminar huella dactilar?</string>
@@ -2610,7 +2606,6 @@ Seleccione su sistema operativo:"</string>
   <string name="no_connected_devices">No hay dispositivos conectados</string>
   <string name="no_data_usage">No se han usado datos</string>
   <string name="no_default_apps">Ninguna aplicación predeterminada</string>
-  <string name="no_default_home">No hay un Inicio predeterminado</string>
   <string name="no_device_admins">No hay ningún administrador de dispositivos disponible.</string>
   <string name="no_internet_access_remember">No volver a preguntar por esta red</string>
   <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a Internet. ¿Permanecer conectado?</string>
@@ -2636,7 +2631,6 @@ Seleccione su sistema operativo:"</string>
   <string name="notification_breathing_light_color_title">Color de luz de notificación</string>
   <string name="notification_breathing_light_freq_title">Frecuencia del pulso de notificaciones</string>
   <string name="notification_importance_blocked">Nunca mostrar notificaciones de esta aplicación.</string>
-  <string name="notification_importance_default">No permitir interrupciones a pantalla completa ni notificaciones flotantes.</string>
   <string name="notification_importance_high">Siempre notificaciones flotantes. Nunca interrupciones a pantalla completa.</string>
   <string name="notification_importance_low">No permitir interrupciones a pantalla completa, notificaciones flotantes, sonido o vibración.</string>
   <string name="notification_importance_max">Siempre permitir notificaciones flotantes e interrupciones a pantalla completa. Mostrar al principio de la lista de notificaciones.</string>
@@ -2655,7 +2649,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="notification_log_details_ashmem">ashmem</string>
   <string name="notification_log_details_content_intent">intent</string>
   <string name="notification_log_details_content_view">custom view</string>
-  <string name="notification_log_details_default">default</string>
   <string name="notification_log_details_delete_intent">delete intent</string>
   <string name="notification_log_details_delimiter">": "</string>
   <string name="notification_log_details_explanation">explanation</string>
@@ -3533,7 +3526,6 @@ Para ello:
   <string name="screen_zoom_short_summary">Hacer elementos en pantalla más grandes o más pequeños</string>
   <string name="screen_zoom_summary">Hacer elementos en pantalla más grandes o más pequeños. Algunas aplicaciones en la pantalla pueden cambiar de posición.</string>
   <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
-  <string name="screen_zoom_summary_default">Predeterminado</string>
   <string name="screen_zoom_summary_extremely_large">Máximo</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequeño</string>
@@ -4386,7 +4378,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicaciones del sistema</string>
   <string name="system_backup_section_title">Backup</string>
-  <string name="system_default_app">(Sistema predeterminada)</string>
   <string name="system_package">Las actualizaciones del sistema no se pueden instalar en ubicaciones externas.</string>
   <string name="system_storage">Almacenamiento de sistema</string>
   <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
