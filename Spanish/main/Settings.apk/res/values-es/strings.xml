@@ -942,7 +942,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="complete_parameters">Todas las características</string>
   <string name="complete_settings">Ajustes generales</string>
   <string name="computing_size">Calculando…</string>
-  <string name="condition_airplane_summary">"La Wi-Fi, el Bluetooth y los datos móviles están desactivados. No puede hacer llamadas telefónicas ni conectarse a Internet.</string>
+  <string name="condition_airplane_summary">"La Wi-Fi, el Bluetooth y los datos móviles están desactivados. No puede hacer llamadas telefónicas ni conectarse a Internet."</string>
   <string name="condition_airplane_title">El modo avión está activado</string>
   <string name="condition_battery_summary">El rendimiento es reducido. Se han desactivado los servicios de ubicación y los datos móviles en segundo plano.</string>
   <string name="condition_battery_title">El Economizador de Batería está encendido</string>
@@ -2309,11 +2309,11 @@ Has accedido a las cuentas que se indican a continuación:
 
  "<li>Tu cuenta de Google</li>"
  "<li>Los ajustes y los datos de aplicaciones y del sistema</li>"
- "<li>Las aplicaciones descargadas</li>"</string>
-  <string name="master_clear_desc_also_erases_external">
- "<li>Fotos</li>"
- "<li>Otros datos de usuario</li>"</string>
-  <string name="master_clear_desc_erase_external_storage">
+ "<li>Las aplicaciones descargadas</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>Música</li>"
+"<li>Fotos</li>"
+"<li>Otros datos de usuario</li></string>
+  <string name="master_clear_desc_erase_external_storage">"
 
  Para eliminar música, imágenes y otros datos de los usuarios, el "<b>almacenamiento USB</b> tiene que ser borrado.</string>
   <string name="master_clear_erase_application_progress">Eliminando aplicaciones…</string>
@@ -3367,7 +3367,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
 
  "<li>Wi-Fi</li>"
  "<li>Datos del celular</li>"
- "<li>Bluetooth</li>"</string>
+ "<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">Restablecer ajustes</string>
   <string name="reset_network_final_desc">¿Quieres restablecer todos los ajustes de red? Esta acción no se puede deshacer.</string>
   <string name="reset_network_title">Restablecer ajustes de red</string>
@@ -4207,14 +4207,15 @@ También puedes olvidar el almacenamiento si el dispositivo no está disponible.
 Si lo haces, los datos del dispositivo se perderán para siempre.
 
 Puedes volver a instalar las aplicaciones más tarde, pero se perderán sus datos almacenados en este dispositivo."</string>
-  <string name="storage_internal_format_details">
-    &lt;b&gt;Copia de seguridad de fotos y de otro contenido multimedia&lt;/b&gt;
-    &lt;b&gt;Copia de seguridad de aplicaciones&lt;/b&gt;"
-Mueve tus archivos multimedia a otro espacio de almacenamiento del dispositivo o transferirlos a un ordenador con un cable USB.
+  <string name="storage_internal_format_details">"Después de formatear, podrá utilizar este ^1 en otros dispositivos.
 
-Se desinstalarán todas las aplicaciones almacenadas en tu ^1 y se borrarán sus datos. Para conservarlas, muévelas a otro espacio de almacenamiento del dispositivo. Después de formatear la unidad, puedes utilizar tu ^1 en otros dispositivos.
+Todos los datos en este ^1 serán eliminados. Considere hacer una copia de seguridad antes.
 
-Te recomendamos que hagas una copia de seguridad de los datos de tu ^1, ya que se borrarán cuando se formatee.</string>
+"<b>Copia de seguridad de fotos y de otro contenido multimedia</b>"
+Mueva sus archivos multimedia a otro espacio de almacenamiento del dispositivo o transfiéralos a un ordenador con un cable USB.
+
+"<b>Copia de seguridad de aplicaciones</b>"
+Se desinstalarán todas las aplicaciones almacenadas en su ^1 y se borrarán sus datos. Para conservarlas, muévalas a otro espacio de almacenamiento del dispositivo."</string>
   <string name="storage_internal_title">Almacenamiento del dispositivo</string>
   <string name="storage_internal_unmount_details"><b>Al extraer tu ^1, las aplicaciones almacenadas en esta unidad dejarán de funcionar y los archivos multimedia guardados en ella no estarán disponibles hasta que se vuelva a insertar.</b>"
 
@@ -4561,7 +4562,7 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">Las funciones de protección del dispositivo no funcionarán sin su PIN. Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrá desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"La funcionalidad de protección del perfil no funcionará sin su PIN.
 
-us huellas dactilares guardadas también serán eliminadas de este perfil y no podrá desbloquear el perfil, autorizar compras o identificarse en aplicaciones con ellas.</string>
+Sus huellas dactilares guardadas también serán eliminadas de este perfil y no podrá desbloquear el perfil, autorizar compras o identificarse en aplicaciones con ellas."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">La funcionalidad de protección del perfil no funcionará sin su PIN.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Las funciones de protección del dispositivo no funcionarán sin tu bloqueo de pantalla. Las huellas dactilares guardadas también se eliminarán de este dispositivo y no podrás desbloquear el teléfono, autorizar compras ni iniciar sesión en las aplicaciones con ellas.</string>
@@ -5005,7 +5006,7 @@ Añada una palabra pulsando el botón (+) añadir"</string>
 
  "<li>No recibirás actualizaciones de software hasta que te conectes a Internet.</li>"
 
- "<li>No podrás activar las funciones de protección del dispositivo en este momento.</li>"</string>
+ "<li>No podrás activar las funciones de protección del dispositivo en este momento.</li></string>
   <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
