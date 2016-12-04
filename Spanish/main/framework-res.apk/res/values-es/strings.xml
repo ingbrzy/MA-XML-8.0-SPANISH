@@ -184,8 +184,13 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
   <string name="capability_title_canRetrieveWindowContent">Recuperar el contenido de las ventanas</string>
   <string name="capital_off">No</string>
   <string name="capital_on">Sí</string>
-  <string name="car_mode_disable_notification_message">Toca para salir del modo auto.</string>
+  <string name="car_mode_disable_notification_message">Toca para salir del modo de coche.</string>
   <string name="car_mode_disable_notification_title">Modo auto habilitado</string>
+  <string name="carrier_app_dialog_button">OBTENER LA APLICACIÓN</string>
+  <string name="carrier_app_dialog_message">"Para que su nueva tarjeta SIM funcione correctamente, tendrá que instalar y abrir una aplicación de su proveedor."</string>
+  <string name="carrier_app_dialog_not_now">AHORA NO</string>
+  <string name="carrier_app_notification_text">Toca para configurarlo</string>
+  <string name="carrier_app_notification_title">Nuevo SIM insertado</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} después de {2} segundos</string>
   <string name="cfTemplateNotForwarded">{0}: no se ha remitido</string>
@@ -196,6 +201,7 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
   <string name="choose_account_label">Seleccionar una cuenta</string>
   <string name="chooser_wallpaper">Cambiar fondo de pantalla</string>
   <string name="clearDefaultHintMsg">Eliminar valores predeterminados en Configuración del sistema &gt; Aplicaciones &gt; Descargas.</string>
+  <string name="close_button_text">Cerrar</string>
   <string name="common_name">Nombre habitual:</string>
   <string name="condition_provider_service_binding_label">Proveedor de condiciones</string>
   <string name="configure_input_methods">Seleccionar teclados</string>
@@ -206,9 +212,13 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
   <string name="continue_to_enable_accessibility">Mantén presionado con dos dedos para activar la accesibilidad.</string>
   <string name="copy">Copiar</string>
   <string name="copyUrl">Copiar URL</string>
+  <string name="country_selection_title">Preferencia de región</string>
   <string name="create_contact_using">"Crear contacto
 con %s"</string>
   <string name="cut">Cortar</string>
+  <string name="data_saver_description">Para ayudar a reducir el uso de datos, el Protector de Datos impide que algunas aplicaciones envíen o reciban datos en segundo plano. Una aplicación que está utilizando actualmente puede acceder a los datos, pero puede hacerlo con menos frecuencia. Esto puede significar, por ejemplo, que las imágenes no se muestren hasta que las toque.</string>
+  <string name="data_saver_enable_button">Encender</string>
+  <string name="data_saver_enable_title">¿Activar el Protector de Datos?</string>
   <string name="data_usage_3g_limit_snoozed_title">Supera el límite de datos de 2G-3G</string>
   <string name="data_usage_3g_limit_title">Límite de datos 2G-3G alcanzado</string>
   <string name="data_usage_4g_limit_snoozed_title">Límite de datos de 4G superado</string>
@@ -217,12 +227,12 @@ con %s"</string>
   <string name="data_usage_limit_snoozed_body">Límite superado en %s</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límite de datos móviles superado</string>
   <string name="data_usage_mobile_limit_title">Límite de datos móviles alcanzado</string>
-  <string name="data_usage_restricted_body">Toca para eliminar la restricc.</string>
+  <string name="data_usage_restricted_body">Toca para eliminar la restricción.</string>
   <string name="data_usage_restricted_title">Datos de referencia restringidos</string>
-  <string name="data_usage_warning_body">Toca para ver uso y ajustes.</string>
+  <string name="data_usage_warning_body">Toca para ver el uso y los ajustes.</string>
   <string name="data_usage_warning_title">Advertencia de uso de datos</string>
   <string name="data_usage_wifi_limit_snoozed_title">Límite de datos Wi-Fi superado</string>
-  <string name="data_usage_wifi_limit_title">Límite de datos Wi-Fi alcanzado</string>
+  <string name="data_usage_wifi_limit_title">Los datos Wi-Fi están desactivados</string>
   <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Reducir día</string>
   <string name="date_picker_decrement_month_button">Reducir mes</string>
@@ -238,6 +248,7 @@ con %s"</string>
   <string name="day">día</string>
   <string name="days">días</string>
   <string name="decline">Rechazar</string>
+  <string name="decline_remote_bugreport_action">RECHAZAR</string>
   <string name="defaultVoiceMailAlphaTag">Correo de voz</string>
   <string name="default_audio_route_category_name">Sistema</string>
   <string name="default_audio_route_name">Dispositivo</string>
@@ -247,6 +258,7 @@ con %s"</string>
   <string name="deleteText">Eliminar</string>
   <string name="deleted_key">%1$s borrado</string>
   <string name="deny">Rechazar</string>
+  <string name="deny_button">Rechazar</string>
   <string name="description_target_unlock_tablet">Desliza el dedo para desbloquear.</string>
   <string name="dial_number_using">"Marcar número
 con %s"</string>
@@ -262,7 +274,7 @@ con %s"</string>
   <string name="done_label">Listo</string>
   <string name="double_tap_toast">Consejo: Toca dos veces para acercar y alejar la imagen.</string>
   <string name="dump_heap_notification">%1$s excedió el límite de memoria</string>
-  <string name="dump_heap_notification_detail">Se ha creado un informe; pulse para compartir</string>
+  <string name="dump_heap_notification_detail">Se ha creado un informe; toque para compartir</string>
   <string name="dump_heap_text">El proceso %1$s ha superado su límite de memoria de proceso %2$s. Un informe está disponible para que usted comparta con su creador. Tenga cuidado: este informe puede contener información personal a la que la aplicación tiene acceso.</string>
   <string name="dump_heap_title">Compartir informe?</string>
   <string name="durationDayHour">%1$d día %2$d h</string>
@@ -298,6 +310,8 @@ con %s"</string>
   <string name="eventTypeBirthday">Cumpleaños</string>
   <string name="eventTypeCustom">Personalizado</string>
   <string name="eventTypeOther">Otro</string>
+  <string name="expand_action_accessibility">cambiar la expansión</string>
+  <string name="expand_button_content_description">Botón de expansión</string>
   <string name="expires_on">Expira el:</string>
   <string name="ext_media_badremoval_notification_message">Desactivar el almacenamiento USB antes de extraerlo para evitar la pérdida de datos.</string>
   <string name="ext_media_badremoval_notification_title">Almacenamiento USB extraído inesperadamente</string>
@@ -329,12 +343,13 @@ con %s"</string>
   <string name="ext_media_status_unmounted">Expulsado</string>
   <string name="ext_media_status_unsupported">No soportado</string>
   <string name="ext_media_unmount_action">Expulsar</string>
-  <string name="ext_media_unmountable_notification_message">El almacenamiento USB está dañado. Intenta formatearlo de nuevo.</string>
-  <string name="ext_media_unmountable_notification_title">Almacenamiento USB dañado</string>
+  <string name="ext_media_unmountable_notification_message">%s está dañado. Toque para arreglar.</string>
+  <string name="ext_media_unmountable_notification_title">%s dañado</string>
   <string name="ext_media_unmounting_notification_message">"No la retire"</string>
   <string name="ext_media_unmounting_notification_title">Expulsando %s…</string>
   <string name="ext_media_unsupported_notification_message">Este dispositivo no es compatible con %s. Toque para configurarlo en un formato soportado.</string>
   <string name="ext_media_unsupported_notification_title">No soportada %s</string>
+  <string name="extract_edit_menu_button">Editar</string>
   <string name="faceunlock_multiple_failures">Se superó el máximo de intentos permitido para el desbloqueo facial del dispositivo.</string>
   <string name="factory_reset_message">La aplicación de administración no cuenta con algunos componentes o está dañada, de modo que no puede usarse. Se borrarán los datos del dispositivo. Para obtener asistencia, comunícate con el administrador.</string>
   <string name="factory_reset_warning">Se borrarán los datos del dispositivo</string>
