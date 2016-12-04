@@ -409,7 +409,7 @@
   <string name="match_count_frame">Emparejar %1$d/%2$d remoto</string>
   <string name="match_count_tip_frame">Probar botones (%1$d/%2$d)</string>
   <string name="match_data">Información de emparejamiento</string>
-  <string name="match_data_error_tips">No se pudo obtener información
+  <string name="match_data_error_tips">"No se pudo obtener información
 Vuelva atrás para continuar"</string>
   <string name="match_direction_default">¿Funcionan los botones de dirección?</string>
   <string name="match_dvd_intro_pause">Suelte cuando la reproducción del DVD se ponga en pausa</string>
@@ -427,7 +427,7 @@ Vuelva atrás para continuar"</string>
   <string name="match_guide_sub_frame">Emparejados %1$d botones</string>
   <string name="match_intro_power">Suelte cuando el dispositivo se encienda</string>
   <string name="match_is_respond">¿Responde el dispositivo?</string>
-  <string name="match_main_tip_frame">Apunte el control remoto a %1$s y pulse el botón
+  <string name="match_main_tip_frame">"Apunte el control remoto a %1$s y pulse el botón
 Suelte el botón cuando %1$s responda"</string>
   <string name="match_main_tip_frame_click">Apunte el control remoto hacia %1$s y pulse el botón.
 Asegúrese que %1$s responde</string>
@@ -617,7 +617,7 @@ link enviado a su correo electrónico.</string>
   <string name="passport_get_verify_code">Obteniendo código</string>
   <string name="passport_getting_verify_code">Obteniendo</string>
   <string name="passport_identitfication_expired">Código de verificación caducado, comience de nuevo</string>
-  <string name="passport_imei_permission_denied_message">Estamos solicitando permiso para obtener el IMEI de su dispositivo. Cuenta Mi utiliza el IMEI para identificar el dispositivo en el que se registra, para ayudar a mantener su Cuenta Mi segura."</string>
+  <string name="passport_imei_permission_denied_message">"Estamos solicitando permiso para obtener el IMEI de su dispositivo. Cuenta Mi utiliza el IMEI para identificar el dispositivo en el que se registra, para ayudar a mantener su Cuenta Mi segura."</string>
   <string name="passport_imei_permission_denied_title">Solicitud de permiso de IMEI</string>
   <string name="passport_input_captcha_hint">Introduzca el código</string>
   <string name="passport_input_password_for_login">Este número está asociado con una cuenta existente, introduzca su contraseña</string>
