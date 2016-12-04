@@ -1,8 +1,209 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="cellcular2wifi_entries">
+        <item>Conectarse automáticamente</item>
+        <item>Conecte manualmente</item>
+        <item>Pregunta siempre</item>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Preferido Wi-Fi</item>
+        <item>Preferido Móvil</item>
+        <item>Solo Wi-Fi</item>
+    </string-array>
+    </string-array>
+        <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Preferido Wi-Fi</item>
+        <item>Preferido Móvil</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nunca comprobar</item>
+        <item>Compruebe solo el contenido de DRM</item>
+        <item>Compruebe siempre</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>nunca</item>
+        <item>solamente-drm</item>
+        <item>siempre</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nunca utilice la comprobación de HDCP</item>
+        <item>Utilice HDCP para comprobar solo el contenido DRM</item>
+        <item>Utilice siempre la comprobación de HDCP</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Apagado</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Apagado</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Apagado</item>
+        <item>64K por buffer de registro</item>
+        <item>256K por buffer de registro</item>
+        <item>1M por buffer de registro</item>
+        <item>4M por buffer de registro</item>
+        <item>16M por buffer de registro</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animación apagado</item>
+        <item>Escala de animación .5x</item>
+        <item>Escala de animación 1x</item>
+        <item>Escala de animación 1.5x</item>
+        <item>Escala de animación 2x</item>
+        <item>Escala de animación 5x</item>
+        <item>Escala de animación 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animación apagado</item>
+        <item>Escala de animación .5x</item>
+        <item>Escala de animación 1x</item>
+        <item>Escala de animación 1.5x</item>
+        <item>Escala de animación 2x</item>
+        <item>Escala de animación 5x</item>
+        <item>Escala de animación 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animación apagado</item>
+        <item>Escala de animación .5x</item>
+        <item>Escala de animación 1x</item>
+        <item>Escala de animación 1.5x</item>
+        <item>Escala de animación 2x</item>
+        <item>Escala de animación 5x</item>
+        <item>Escala de animación 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ninguna</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (seguro)</item>
+        <item>1080p</item>
+        <item>1080p (seguro)</item>
+        <item>4K</item>
+        <item>4K (seguro)</item>
+        <item>4K (escalonado)</item>
+        <item>4K (escalonado, seguro)</item>
+        <item>720p, 1080p (pantalla dual)</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,seguroe</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,seguro</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,seguro</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,seguro</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,seguro</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nunguno</item>
+        <item>Logcat</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Apagado</item>
+        <item>Dibuja una región de clip no rectangular en azul</item>
+        <item>Resalte los comandos de dibujo probados en verde</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>hide</item>
+        <item>region</item>
+        <item>highlight</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="track_frame_time_values">
+        <item>false</item>
+        <item>visual_bars</item>
+        <item>true</item>
+     </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_values">
+        <item>false</item>
+        <item>show</item>
+        <item>show_deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standard limit</item>
+        <item>No background processes</item>
+        <item>At most 1 process</item>
+        <item>At most 2 processes</item>
+        <item>At most 3 processes</item>
+        <item>At most 4 processes</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Charging</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </string-array>
     <string-array name="status_bar_style_entries">
         <item>Combinar</item>
         <item>Separar</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Small</item>
+        <item>Default</item>
+        <item>Large</item>
+        <item>Largest</item>
+    </string-array>
+    <string-array name="entryvalues_font_size">
+        <item>small</item>
+        <item>normal</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>huge</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
@@ -204,128 +405,137 @@
         <item>Device</item>
      </string-array>
     <string-array name="app_ops_summaries">
-        <item>ubicación aproximada</item>
-        <item>ubicación precisa</item>
+    <string-array name="app_ops_summaries">
+        <item>coarse location</item>
+        <item>fine location</item>
         <item>GPS</item>
-        <item>vibrar</item>
-        <item>leer contactos</item>
-        <item>modificar contactos</item>
-        <item>leer registro de llamadas</item>
-        <item>modificar registro de llamadas</item>
-        <item>leer calendario</item>
-        <item>modificar calendario</item>
-        <item>búsqueda de Wi-Fi</item>
-        <item>notificación</item>
-        <item>búsqueda de dispositivo</item>
-        <item>llamar a un teléfono</item>
-        <item>leer SMS</item>
-        <item>redactar SMS</item>
-        <item>recibir SMS</item>
-        <item>recibir SMS de emergencia</item>
-        <item>recibir MMS</item>
-        <item>recibir push de WAP</item>
-        <item>enviar SMS</item>
-        <item>leer ICC SMS</item>
-        <item>redactar ICC SMS</item>
-        <item>modificar configuración</item>
-        <item>dibujar en la parte superior</item>
-        <item>acceder a las notificaciones</item>
-        <item>cámara</item>
-        <item>grabar audio</item>
-        <item>reproducir audio</item>
-        <item>leer portapapeles</item>
-        <item>modificar portapapeles</item>
-        <item>botones de medios</item>
-        <item>enfoque de audio</item>
-        <item>volumen principal</item>
-        <item>volumen de voz</item>
-        <item>volumen de tono</item>
-        <item>volumen de medios</item>
-        <item>volumen de alarma</item>
-        <item>volumen de notificación</item>
-        <item>volumen de bluetooth</item>
-        <item>mantener en funcionamiento</item>
-        <item>controlar ubicación</item>
-        <item>supervisar ubicación de alta potencia</item>
-        <item>obtener estadísticas de uso</item>
-        <item>silenciar/dejar de silenciar micrófono</item>
-        <item>proyectar contenido multimedia</item>
-        <item>activar VPN</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>wi-fi scan</item>
+        <item>notification</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>draw on top</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>get usage stats</item>
+        <item>mute/unmute microphone</item>
+        <item>show toast</item>
+        <item>project media</item>
         <item>activate VPN</item>
-        <item>Cambio Wi-Fi</item>
-        <item>bluetooth change</item>
-        <item>send MMS</item>
-        <item>read MMS</item>
-        <item>write MMS</item>
-        <item>auto start</item>
-        <item>nfc change</item>
-        <item>delete SMS</item>
-        <item>delete MMS</item>
-        <item>delete contacts</item>
-        <item>delete call log</item>
-        <item>data change</item>
+        <item>write wallpaper</item>
+        <item>assist structure</item>
+        <item>assist screenshot</item>
+        <item>read phone state</item>
+        <item>add voicemail</item>
+        <item>use sip</item>
+        <item>process outgoing call</item>
+        <item>fingerprint</item>
+        <item>body sensors</item>
+        <item>read cell broadcasts</item>
+        <item>mock location</item>
+        <item>read storage</item>
+        <item>write storage</item>
+        <item>turn on screen</item>
+        <item>get accounts</item>
+        <item>run in background</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Ubicación</item>
-        <item>Ubicación</item>
-        <item>Ubicación</item>
-        <item>Vibrar</item>
-        <item>Leer contactos</item>
-        <item>Modificar contactos</item>
-        <item>Leer registro de llamadas</item>
-        <item>Modificar registro de llamadas</item>
-        <item>Leer calendario</item>
-        <item>Modificar calendario</item>
-        <item>Ubicación</item>
-        <item>Publicar notificación</item>
-        <item>Ubicación</item>
-        <item>Llamar a un teléfono</item>
-        <item>Leer SMS o MMS</item>
-        <item>Escribir SMS o MMS</item>
-        <item>Recibir SMS/MMS</item>
-        <item>Recibir SMS/MMS</item>
-        <item>Recibir SMS/MMS</item>
-        <item>Recibir SMS/MMS</item>
-        <item>Enviar SMS/MMS</item>
-        <item>Leer SMS o MMS</item>
-        <item>Escribir SMS o MMS</item>
-        <item>Modificar configuración</item>
-        <item>Dibujar en la parte superior</item>
-        <item>Acceder a las notificaciones</item>
-        <item>Cámara</item>
-        <item>Grabar audio</item>
-        <item>Reproducir audio</item>
-        <item>Leer portapapeles</item>
-        <item>Modificar portapapeles</item>
-        <item>Botones de medios</item>
-        <item>Enfoque de audio</item>
-        <item>Volumen principal</item>
-        <item>Volumen de voz</item>
-        <item>Volumen de tono</item>
-        <item>Volumen de medios</item>
-        <item>Volumen de alarma</item>
-        <item>Volumen de notificación</item>
-        <item>Volumen de Bluetooth</item>
-        <item>Mantener en funcionamiento</item>
-        <item>Ubicación</item>
-        <item>Ubicación</item>
-        <item>Obtener estadísticas de uso</item>
-        <item>Silenciar/dejar de silenciar micrófono</item>
-        <item>Proyectar contenido multimedia</item>
-        <item>Activar VPN</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Vibrate</item>
+        <item>Read contacts</item>
+        <item>Modify contacts</item>
+        <item>Read call log</item>
+        <item>Modify call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>Location</item>
+        <item>Post notification</item>
+        <item>Location</item>
+        <item>Call phone</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Send SMS/MMS</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS/MMS</item>
+        <item>Modify settings</item>
+        <item>Draw on top</item>
+        <item>Access notifications</item>
+        <item>Camera</item>
+        <item>Record audio</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Get usage stats</item>
+        <item>Mute/unmute microphone</item>
+        <item>Show toast</item>
+        <item>Project media</item>
         <item>Activate VPN</item>
-        <item>Cambio Wi-Fi</item>
-        <item>Bluetooth change</item>
-        <item>Send MMS</item>
-        <item>Read MMS</item>
-        <item>Write MMS</item>
-        <item>Auto start</item>
-        <item>Nfc change</item>
-        <item>Delete SMS</item>
-        <item>Delete MMS</item>
-        <item>Delete contacts</item>
-        <item>Delete call log</item>
-        <item>Data change</item>
+        <item>Write wallpaper</item>
+        <item>Assist structure</item>
+        <item>Assist screenshot</item>
+        <item>Read phone state</item>
+        <item>Add voicemail</item>
+        <item>Use sip</item>
+        <item>Process outgoing call</item>
+        <item>Fingerprint</item>
+        <item>Body sensors</item>
+        <item>Read cell broadcasts</item>
+        <item>Mock location</item>
+        <item>Read storage</item>
+        <item>Write storage</item>
+        <item>Turn on screen</item>
+        <item>Get accounts</item>
+        <item>Run in background</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Corto</item>
@@ -622,13 +832,13 @@
         <item>Reinstalar Mi Phone Manager.</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Herramienta de instalación: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Crear directorio: mkdir /media/mtp</item>
         <item>Confirme los permisos de grupo de usuario en el actual grupo de usuario de fuse</item>
         <item>Iniciar sesión de nuevo</item>
-        <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
-        <item>"Uninstall device: fusermount -u /media/mtp
-Note: Only for Ubuntu 8.04!"</item>
+        <item>Dispositivo montado en el acceso: mtpfs /media/mtp via file explorer; same as local directory</item>
+        <item>"Desinstalar el dispositivo: fusermount -u /media/mtp
+Nota: Sólo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Cálido</item>
@@ -698,11 +908,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Almacenamiento externo</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Muy lento</item>
+        <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
+        <item>Rápido</item>
+        <item>Muy rápido</item>
     </string-array>
     <string-array name="whetstone_level_entries">
         <item>Apagado</item>
