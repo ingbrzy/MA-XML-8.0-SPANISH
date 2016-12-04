@@ -13,12 +13,7 @@
         <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Preferido Wi-Fi</item>
         <item>Preferido Móvil</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Nunca comprobar</item>
-        <item>Compruebe solo el contenido de DRM</item>
-        <item>Compruebe siempre</item>
-    </string-array>
+    </string-array>>
     <string-array name="hdcp_checking_summaries">
         <item>Nunca utilice la comprobación de HDCP</item>
         <item>Utilice HDCP para comprobar solo el contenido DRM</item>
@@ -530,25 +525,6 @@
         <item>Amarillo sobre negro</item>
         <item>Amarillo sobre azul</item>
         <item>Personalizado</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-        <item>4 M</item>
-        <item>16 M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>64 K/búfer registro</item>
-        <item>256 K/búfer registro</item>
-        <item>1 M/búfer registro</item>
-        <item>4 M/búfer registro</item>
-        <item>16 M/búfer registro</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nunca comprobar</item>
