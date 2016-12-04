@@ -19,11 +19,6 @@
         <item>Compruebe solo el contenido de DRM</item>
         <item>Compruebe siempre</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>nunca</item>
-        <item>solamente-drm</item>
-        <item>siempre</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nunca utilice la comprobación de HDCP</item>
         <item>Utilice HDCP para comprobar solo el contenido DRM</item>
@@ -92,20 +87,6 @@
         <item>4K (escalonado, seguro)</item>
         <item>720p, 1080p (pantalla dual)</item>
     </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,seguroe</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,seguro</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,seguro</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,seguro</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,seguro</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nunguno</item>
         <item>Logcat</item>
@@ -117,30 +98,15 @@
         <item>Dibuja una región de clip no rectangular en azul</item>
         <item>Resalte los comandos de dibujo probados en verde</item>
     </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
-    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Off</item>
         <item>On screen as bars</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>true</item>
-     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_values">
-        <item>false</item>
-        <item>show</item>
-        <item>show_deuteranomaly</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standard limit</item>
@@ -157,14 +123,6 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Audio Source</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="usb_configuration_values">
-        <item>none</item>
-        <item>mtp</item>
-        <item>ptp</item>
-        <item>rndis</item>
-        <item>audio_source</item>
-        <item>midi</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
@@ -196,14 +154,6 @@
         <item>Default</item>
         <item>Large</item>
         <item>Largest</item>
-    </string-array>
-    <string-array name="entryvalues_font_size">
-        <item>small</item>
-        <item>normal</item>
-        <item>medium</item>
-        <item>large</item>
-        <item>huge</item>
-        <item>godzilla</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
