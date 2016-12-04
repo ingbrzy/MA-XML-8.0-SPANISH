@@ -112,11 +112,11 @@
         <item>Máximo 4 procesos</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Charging</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Cargando</item>
+        <item>MTP (Protocolo de transferencia de medios)</item>
+        <item>PTP (Protocolo de transferencia de imágenes)</item>
+        <item>RNDIS (Ethernet USB)</item>
+        <item>Fuente de audio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
@@ -131,24 +131,24 @@
         <item>A velocidad máxima</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
+        <item>Vibrante (por defecto)</item>
         <item>Natural</item>
-        <item>Standard</item>
+        <item>Estándar</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Colores mejorados</item>
+        <item>Colores naturales vistos por el ojo</item>
+        <item>Colores optimizados para contenido digital</item>
     </string-array>
     <string-array name="status_bar_style_entries">
         <item>Combinar</item>
         <item>Separar</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Default</item>
-        <item>Large</item>
-        <item>Largest</item>
+        <item>Pequeña</item>
+        <item>Por defecto</item>
+        <item>Grande</item>
+        <item>Muy grande</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
@@ -188,23 +188,6 @@
         <item>5 minutos</item>
         <item>10 minutos</item>
         <item>30 minutos</item>
-    </string-array>
-     <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
-     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Muy lento</item>
-        <item>Lento</item>
-        <item>Normal</item>
-        <item>Rápido</item>
-        <item>A mayor velocidad</item>
-        <item>A velocidad muy alta</item>
-        <item>Veloz</item>
-        <item>Muy rápido</item>
-        <item>A velocidad máxima</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Muy bajo</item>
@@ -343,14 +326,14 @@
         <item>Dejar que el sistema decida</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Location</item>
+        <item>Ubicación</item>
         <item>Personal</item>
-        <item>Messaging</item>
-        <item>Media</item>
-        <item>Device</item>
+        <item>Mensajería</item>
+        <item>Multimedia</item>
+        <item>Dispositivo</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>coarse location</item>
+        <item>ubicación aproximada</item>
         <item>fine location</item>
         <item>GPS</item>
         <item>vibrate</item>
