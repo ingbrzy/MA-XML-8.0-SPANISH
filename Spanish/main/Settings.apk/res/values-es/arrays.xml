@@ -88,7 +88,7 @@
         <item>720p, 1080p (pantalla dual)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Nunguno</item>
+        <item>Ninguno</item>
         <item>Logcat</item>
         <item>Systrace (Gráficos)</item>
         <item>Call stack on glGetError</item>
@@ -99,22 +99,22 @@
         <item>Resalte los comandos de dibujo probados en verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>Apagado</item>
+        <item>En pantalla como barras</item>
+        <item>En adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Apagado</item>
+        <item>Mostrar áreas superpuestas</item>
+        <item>Mostrar áreas para deuteranomalía</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Límite estándar</item>
+        <item>Ningún proceso en 2do plano</item>
+        <item>Máximo 1 proceso</item>
+        <item>Máximo 2 procesos</item>
+        <item>Máximo 3 procesos</item>
+        <item>Máximo 4 procesos</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Charging</item>
@@ -125,15 +125,15 @@
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Muy lento</item>
+        <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Rápido</item>
+        <item>A mayor velocidad</item>
+        <item>A velocidad muy alta</item>
+        <item>Veloz</item>
+        <item>Muy rápido</item>
+        <item>A velocidad máxima</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrant (default)</item>
@@ -347,14 +347,13 @@
         <item>Tarjeta SD desmontable</item>
         <item>Dejar que el sistema decida</item>
     </string-array>
-     <string-array name="app_ops_categories">
+    <string-array name="app_ops_categories">
         <item>Location</item>
         <item>Personal</item>
         <item>Messaging</item>
         <item>Media</item>
         <item>Device</item>
-     </string-array>
-    <string-array name="app_ops_summaries">
+    </string-array>
     <string-array name="app_ops_summaries">
         <item>coarse location</item>
         <item>fine location</item>
@@ -556,11 +555,6 @@
         <item>Comprobar contenido DRM solamente</item>
         <item>Siempre comprobar</item>
     </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Nunca utilizar comprobación HDCP</item>
-        <item>Usar comprobación HDCP para contenido DRM solamente</item>
-        <item>Siempre utilizar comprobación HDCP</item>
-    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animación desactivada</item>
         <item>Escala de animación .5x</item>
@@ -608,14 +602,6 @@
         <item>Desactivado</item>
         <item>Mostrar áreas superpuestas</item>
         <item>Mostrar áreas para deuteranomalía</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Límite estándar</item>
-        <item>Ningún proceso en 2do plano</item>
-        <item>Máximo 1 proceso</item>
-        <item>Máximo 2 procesos</item>
-        <item>Máximo 3 procesos</item>
-        <item>Máximo 4 procesos</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>VPN PPTP</item>
