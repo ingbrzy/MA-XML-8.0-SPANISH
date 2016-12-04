@@ -414,7 +414,7 @@ con %s"</string>
   <string name="granularity_label_line">Línea</string>
   <string name="granularity_label_link">Vínculo</string>
   <string name="granularity_label_word">Palabra</string>
-  <string name="hardware">Hardware</string>
+  <string name="hardware">Mostrar teclado virtual</string>
   <string name="heavy_weight_notification">%1$s en ejecución</string>
   <string name="heavy_weight_notification_detail">Toca para cambiar a la aplicación</string>
   <string name="heavy_weight_switcher_text">Ya se está ejecutando una aplicación que debe detenerse antes de iniciar una nueva.</string>
@@ -464,6 +464,8 @@ con %s"</string>
   <string name="immersive_cling_description">Para salir, deslice desde arriba.</string>
   <string name="immersive_cling_positive">Entendido</string>
   <string name="immersive_cling_title">Ver en pantalla completa</string>
+  <string name="importance_from_person">Esto es importante debido a las personas involucradas.</string>
+  <string name="importance_from_user">Establece la importancia de estas notificaciones.</string>
   <string name="inputMethod">Método de entrada</string>
   <string name="input_method_binding_label">Método de entrada</string>
   <string name="invalidPin">Escribir un PIN que contenga entre 4 y 8 números.</string>
@@ -519,10 +521,10 @@ con %s"</string>
   <string name="keyguard_password_entry_touch_hint"><font size="17">Toca para ingresar la contraseña</font></string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto</string>
   <string name="kg_enter_confirm_pin_hint">Confirma el código PIN</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Dibujaste incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos más, se te solicitará que desbloquees tu dispositivo mediante el uso de una cuenta de correo.
+  <string name="kg_failed_attempts_almost_at_login">"Dibujaste incorrectamente tu patrón de desbloqueo %1$d veces. Luego de %2$d intentos incorrectos más, se te solicitará que desbloquees tu dispositivo mediante el uso de una cuenta de correo.
 
- Vuelve a intentarlo en %d segundos."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Puedes intentarlo %d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos del usuario.</string>
+ Vuelve a intentarlo en %3$d segundos."</string>
+  <string name="kg_failed_attempts_almost_at_wipe">Intentaste desbloquear el dispositivo %1$d veces, pero no lo lograste. Puedes intentarlo %2$d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos del usuario.</string>
   <string name="kg_failed_attempts_now_wiping">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Se restablecerán los valores predeterminados de fábrica del dispositivo.</string>
   <string name="kg_forgot_pattern_button_text">¿Olvidaste el patrón?</string>
   <string name="kg_invalid_confirm_pin_hint">Los códigos PIN no coinciden.</string>
@@ -549,27 +551,30 @@ Accede a \"<b>google.com/accounts/recovery</b>."</string>
   <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">Vuelve a intentarlo en %1$d segundos.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Escribiste incorrectamente tu contraseña %d veces.
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Escribiste incorrectamente tu contraseña %1$d veces.
 
-Vuelve a intentarlo en %d segundos."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Dibujaste incorrectamente tu patrón de desbloqueo %d veces.
+Vuelve a intentarlo en %2$d segundos."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Dibujaste incorrectamente tu patrón de desbloqueo %1$d veces.
 
-Vuelve a intentarlo en %d segundos."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Escribiste incorrectamente tu PIN %d veces.
+Vuelve a intentarlo en %2$d segundos."</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Escribiste incorrectamente tu PIN %1$d veces.
 
-Vuelve a intentarlo en %d segundos."</string>
+Vuelve a intentarlo en %2$d segundos."</string>
   <string name="kg_wrong_password">Contraseña incorrecta</string>
   <string name="kg_wrong_pattern">Patrón incorrecto</string>
   <string name="kg_wrong_pin">PIN incorrecto</string>
   <string name="kilobyteShort">KB</string>
+  <string name="language_picker_section_all">Todos los idiomas</string>
+  <string name="language_picker_section_suggested">Sugerido</string>
+  <string name="language_selection_title">Añadir un idioma</string>
   <string name="last_month">Último mes</string>
   <string name="launchBrowserDefault">¿Deseas iniciar el navegador?</string>
   <string name="launch_warning_original">%1$s se inició originalmente.</string>
   <string name="launch_warning_replace">%1$s se está ejecutando ahora.</string>
   <string name="launch_warning_title">Aplicación redireccionada</string>
-  <string name="list_delimeter">", "</string>
   <string name="loading">Cargando…</string>
-  <string name="lock_pattern_view_aspect">square</string>
+  <string name="locale_search_menu">Buscar</string>
+  <string name="lock_pattern_view_aspect">cuadrado</string>
   <string name="lock_to_app_description">"Fijación de pantalla bloquea para mostrar en una sola vista.
 
 Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendido/Apagado al mismo tiempo."</string>
@@ -592,10 +597,10 @@ Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendid
   <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
   <string name="lockscreen_carrier_default">Sin servicio</string>
   <string name="lockscreen_emergency_call">Emergencia</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Puedes intentarlo %d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos de usuario.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has establecido incorrectamente tu patrón de desbloqueo %d veces. Luego de %d intentos incorrectos, se te solicitará que desbloquees tu dispositivo mediante el uso de tu información de acceso de Google.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Intentaste desbloquear el dispositivo %1$d veces, pero no lo lograste. Puedes intentarlo %2$d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos de usuario.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Has establecido incorrectamente tu patrón de desbloqueo %1$d veces. Luego de %2$d intentos incorrectos, se te solicitará que desbloquees tu dispositivo mediante el uso de tu información de acceso de Google.
 
- Vuelve a intentarlo en %d segundos."</string>
+ Vuelve a intentarlo en 3$d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Intentaste desbloquear el dispositivo %d veces, pero no lo lograste. Se restablecerán los valores predeterminados de fábrica del dispositivo.</string>
   <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"\"¿Olvidaste tu nombre de usuario o contraseña?
@@ -631,15 +636,15 @@ Accede a \"<b>google.com/accounts/recovery</b>."</string>
   <string name="lockscreen_sound_off_label">Sonido desactivado</string>
   <string name="lockscreen_sound_on_label">Sonido activado</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Vuelve a intentarlo en %d segundos.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Estableciste incorrectamente tu patrón de desbloqueo %d veces.
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Estableciste incorrectamente tu patrón de desbloqueo %1$d veces.
 
-Vuelve a intentarlo en %d segundos."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Escribiste incorrectamente tu contraseña %d veces.
+Vuelve a intentarlo en %2$d segundos."</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Escribiste incorrectamente tu contraseña %1$d veces.
 
-Vuelve a intentarlo en %d segundos."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Escribiste incorrectamente tu PIN %d veces.
+Vuelve a intentarlo en %2$d segundos."</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Escribiste incorrectamente tu PIN %1$d veces.
 
-Vuelve a intentarlo en %d segundos."</string>
+Vuelve a intentarlo en %2$d segundos."</string>
   <string name="lockscreen_transport_ffw_description">Avanzar</string>
   <string name="lockscreen_transport_next_description">Siguiente pista</string>
   <string name="lockscreen_transport_pause_description">Pausar</string>
@@ -652,8 +657,9 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="low_internal_storage_view_text_no_boot">No hay espacio suficiente para el sistema. Asegúrate de que haya 250 MB libres y reinicia el dispositivo.</string>
   <string name="low_internal_storage_view_title">Queda poco espacio de almacenamiento</string>
   <string name="low_memory">Se ha agotado el espacio de almacenamiento del dispositivo. Elimina algunos archivos para liberar espacio.</string>
-  <string name="managed_profile_label">Trabajo</string>
+  <string name="managed_profile_label">Cambiar al trabajo</string>
   <string name="managed_profile_label_badge">%1$s de trabajo</string>
+  <string name="maximize_button_text">Maximizar</string>
   <string name="me">Yo</string>
   <string name="media_route_button_content_description">Transmitir</string>
   <string name="media_route_chooser_extended_settings">Ajustes</string>
@@ -770,6 +776,8 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">Inicio %1$s</string>
   <string name="new_app_description">Interrumpe la aplicación anterior sin guardar los cambios.</string>
+  <string name="new_sms_notification_content">Abrir la aplicación de SMS para ver</string>
+  <string name="new_sms_notification_title">Tienes nuevos mensajes</string>
   <string name="next_button_label">Siguiente</string>
   <string name="no">Cancelar</string>
   <string name="noApplications">Ninguna aplicación puede realizar esta acción.</string>
@@ -778,13 +786,17 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="no_permissions">No se requieren permisos</string>
   <string name="no_recent_tasks">No hay aplicaciones recientes.</string>
   <string name="noon">mediodía</string>
+  <string name="notification_hidden_by_policy_text">Contenido oculto por la política</string>
+  <string name="notification_hidden_text">Contenido oculto</string>
   <string name="notification_listener_binding_label">Agente de escucha de notificaciones</string>
+  <string name="notification_ranker_binding_label">Servicio de clasificación de notificaciones</string>
   <string name="notification_title">Error de acceso de %1$s</string>
   <string name="notification_work_profile_content_description">Perfil de trabajo</string>
+  <string name="now_string_shortest">ahora</string>
   <string name="number_picker_decrement_button">Reducir</string>
   <string name="number_picker_increment_button">Aumentar</string>
   <string name="number_picker_increment_scroll_action">Desliza el dedo hacia arriba para aumentar los valores y hacia abajo para reducirlos.</string>
-  <string name="number_picker_increment_scroll_mode">Mantén presionado %s.</string>
+  <string name="number_picker_increment_scroll_mode">Toque y mantenga %s.</string>
   <string name="ok">Aceptar</string>
   <string name="old_app_action">Regresar a %1$s</string>
   <string name="old_app_description">No iniciar la nueva aplicación.</string>
@@ -796,6 +808,7 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="orgTypeWork">Trabajo</string>
   <string name="org_name">Organización:</string>
   <string name="org_unit">Unidad organizativa:</string>
+  <string name="other_permissions">otros permisos</string>
   <string name="owner_name">Propietario</string>
   <string name="package_deleted_device_owner">Eliminado por el administrador</string>
   <string name="package_installed_device_owner">Instalado por el administrador</string>
@@ -805,6 +818,7 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Pegar</string>
+  <string name="paste_as_plain_text">Pegar como texto sin formato</string>
   <string name="peerTtyModeFull">El dispositivo del mismo nivel solicitó el modo TTY FULL.</string>
   <string name="peerTtyModeHco">El dispositivo del mismo nivel solicitó el modo TTY HCO.</string>
   <string name="peerTtyModeOff">El dispositivo del mismo nivel solicitó el modo TTY OFF.</string>
@@ -884,8 +898,8 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permdesc_reorderTasks">Permite que la aplicación mueva tareas a segundo o a primer plano. La aplicación puede utilizar este permiso para realizar estos movimientos sin indicártelo.</string>
   <string name="permdesc_requestInstallPackages">Permite que la aplicación solicitar la instalación de nuevos paquetes.</string>
   <string name="permdesc_route_media_output">Permite que la aplicación dirija salidas de medios a otros dispositivos externos.</string>
-  <string name="permdesc_sdcardRead">Permite leer contenido de USB.</string>
-  <string name="permdesc_sdcardWrite">Permite que la aplicación escriba en el almacenamiento USB.</string>
+  <string name="permdesc_sdcardRead">Permite que la aplicación lea el contenido de su almacenamiento interno.</string>
+  <string name="permdesc_sdcardWrite">Permite que la aplicación escriba en el almacenamiento interno.</string>
   <string name="permdesc_sendSms">Permite que la aplicación envíe mensajes SMS, lo que puede generar cargos inesperados. Las aplicaciones malintencionadas pueden causarte gastos imprevistos al enviar mensajes sin tu confirmación.</string>
   <string name="permdesc_setAlarm">Permite que la aplicación establezca una alarma en una aplicación de alarma instalada. Es posible que algunas aplicaciones de alarma no incluyan esta función.</string>
   <string name="permdesc_setInputCalibration">Permite que la aplicación modifique los parámetros de calibración de la pantalla táctil. Las aplicaciones normales no deberían necesitar este permiso.</string>
@@ -929,12 +943,14 @@ Vuelve a intentarlo en %d segundos."</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Espacio de almacenamiento</string>
   <string name="permission">Permisos</string>
+  <string name="permission_remember_choice">Recordar</string>
   <string name="permission_request_notification_title">Permiso solicitado</string>
   <string name="permission_request_notification_with_subtitle">"Permiso solicitado
 para la cuenta %s"</string>
-  <string name="permlab_accessCoarseLocation">ubicación aproximada (según la red)</string>
+  <string name="permission_title">Permiso</string>
+  <string name="permlab_accessCoarseLocation">acceso ubicación aproximada (basado en red)</string>
   <string name="permlab_accessDrmCertificates">Acceder a certificados DRM</string>
-  <string name="permlab_accessFineLocation">ubicación precisa (según el GPS y la red)</string>
+  <string name="permlab_accessFineLocation">acceso a la ubicación precisa (GPS)</string>
   <string name="permlab_accessImsCallService">Acceso a servicio de llamadas IMS</string>
   <string name="permlab_accessLocationExtraCommands">acceder a comandos adicionales del proveedor del lugar</string>
   <string name="permlab_accessNetworkConditions">Detectar cambios en el estado de la red</string>
@@ -952,19 +968,19 @@ para la cuenta %s"</string>
   <string name="permlab_bind_connection_service">interaccionar con servicios de telefonía</string>
   <string name="permlab_bind_incall_service">interactuar con la pantalla de llamada</string>
   <string name="permlab_bluetooth">vincular con dispositivos Bluetooth</string>
-  <string name="permlab_bluetoothAdmin">acceder a la configuración de Bluetooth</string>
-  <string name="permlab_bodySensors">sensores corporales (frec. card)</string>
+  <string name="permlab_bluetoothAdmin">Activar Bluetooth</string>
+  <string name="permlab_bodySensors">Acceso a sensores del cuerpo (Como monitores de frecuencia cardíaca)</string>
   <string name="permlab_broadcastSticky">enviar emisiones pegajosas</string>
-  <string name="permlab_callPhone">llamar directamente a números de teléfono</string>
+  <string name="permlab_callPhone">llamada telefónica</string>
   <string name="permlab_camera">tomar fotografías y grabar vídeos</string>
   <string name="permlab_changeNetworkState">cambiar la conectividad de la red</string>
   <string name="permlab_changeTetherState">cambiar la conectividad de anclaje a red</string>
   <string name="permlab_changeWifiMulticastState">permitir recepción de multidifusión Wi-Fi</string>
   <string name="permlab_changeWifiState">conectarse y desconectarse de la red Wi-Fi</string>
-  <string name="permlab_changeWimaxState">Cambiar el estado de WiMAX</string>
+  <string name="permlab_changeWimaxState">cambiar el estado de WiMAX</string>
   <string name="permlab_connection_manager">administrar conexiones de telecomunicaciones</string>
   <string name="permlab_control_incall_experience">ofrecer una experiencia de usuario de llamada</string>
-  <string name="permlab_createNetworkSockets">acceso completo a la red</string>
+  <string name="permlab_createNetworkSockets">tener acceso completo a la red</string>
   <string name="permlab_disableKeyguard">desactivar el bloqueo de pantalla</string>
   <string name="permlab_enableCarMode">activar el modo de auto</string>
   <string name="permlab_expandStatusBar">expandir o reducir la barra de estado</string>
@@ -972,13 +988,13 @@ para la cuenta %s"</string>
   <string name="permlab_getAccounts">buscar cuentas en el dispositivo</string>
   <string name="permlab_getPackageSize">medir el espacio de almacenamiento de la aplicación</string>
   <string name="permlab_getTasks">recuperar aplicaciones en ejecución</string>
-  <string name="permlab_handoverStatus">Recibir estado de transferencias de Android Beam</string>
+  <string name="permlab_handoverStatus">recibir estado de transferencias de Android Beam</string>
   <string name="permlab_install_shortcut">crear accesos directos</string>
   <string name="permlab_invokeCarrierSetup">ejecutar la aplicación de configuración proporcionada por el proveedor</string>
   <string name="permlab_killBackgroundProcesses">cerrar otras aplicaciones</string>
   <string name="permlab_manageFingerprint">gestionar hardware de huellas dactilares</string>
   <string name="permlab_manageNetworkPolicy">gestionar la política de la red</string>
-  <string name="permlab_manageProfileAndDeviceOwners">Administrar perfil y propietarios del dispositivo</string>
+  <string name="permlab_manageProfileAndDeviceOwners">administrar perfil y propietarios del dispositivo</string>
   <string name="permlab_modifyAudioSettings">cambiar tu configuración de audio</string>
   <string name="permlab_modifyNetworkAccounting">Modificar la administración del uso de redes</string>
   <string name="permlab_nfc">controlar el NFC</string>
@@ -989,10 +1005,10 @@ para la cuenta %s"</string>
   <string name="permlab_readCellBroadcasts">Leer mensajes de difusión móvil</string>
   <string name="permlab_readContacts">leer tus contactos</string>
   <string name="permlab_readHistoryBookmarks">leer tus marcadores web y el historial</string>
-  <string name="permlab_readInstallSessions">Leer sesiones de instalación</string>
+  <string name="permlab_readInstallSessions">leer sesiones de instalación</string>
   <string name="permlab_readNetworkUsageHistory">leer uso histórico de la red</string>
   <string name="permlab_readPhoneState">leer la identidad y el estado del dispositivo</string>
-  <string name="permlab_readSms">leer tus mensajes de texto (SMS o MMS)</string>
+  <string name="permlab_readSms">leer tus mensajes de texto (SMS/MMS)</string>
   <string name="permlab_readSyncSettings">leer la configuración de sincronización</string>
   <string name="permlab_readSyncStats">leer estadística de sincronización</string>
   <string name="permlab_receiveBootCompleted">ejecutarse al inicio</string>
@@ -1004,19 +1020,19 @@ para la cuenta %s"</string>
   <string name="permlab_register_sim_subscription">Registrar nuevas conexiones SIM de telecomunicaciones</string>
   <string name="permlab_removeDrmCertificates">eliminar certificados DRM</string>
   <string name="permlab_reorderTasks">reorganizar aplicaciones en ejecución</string>
-  <string name="permlab_requestInstallPackages">Solicitar instalar paquetes</string>
-  <string name="permlab_route_media_output">Dirigir salida de medios</string>
-  <string name="permlab_sdcardRead">leer contenido dispositivo USB</string>
-  <string name="permlab_sdcardWrite">modificar/borrar contenido USB</string>
+  <string name="permlab_requestInstallPackages">solicitar instalar paquetes</string>
+  <string name="permlab_route_media_output">dirigir salida de medios</string>
+  <string name="permlab_sdcardRead">leer el contenido de su almacenamiento interno</string>
+  <string name="permlab_sdcardWrite">escribir/borrar almacenamiento interno</string>
   <string name="permlab_sendSms">enviar mensajes SMS</string>
   <string name="permlab_setAlarm">programar una alarma</string>
   <string name="permlab_setInputCalibration">cambiar la calibración del dispositivo de entrada</string>
   <string name="permlab_setTimeZone">establecer zona horaria</string>
   <string name="permlab_setWallpaper">establecer fondo de pantalla</string>
   <string name="permlab_setWallpaperHints">ajustar el tamaño del fondo de pantalla</string>
-  <string name="permlab_sim_communication">Comunicación con tarjeta SIM</string>
+  <string name="permlab_sim_communication">enviar comandos a la tarjeta SIM</string>
   <string name="permlab_statusBar">desactivar o modificar la barra de estado</string>
-  <string name="permlab_statusBarService">barra de estado</string>
+  <string name="permlab_statusBarService">ser la barra de estado</string>
   <string name="permlab_subscribedFeedsRead">leer canales suscritos</string>
   <string name="permlab_systemAlertWindow">mostrar sobre otras aplicaciones</string>
   <string name="permlab_transmitIr">Transmitir por infrarrojos</string>
@@ -1026,8 +1042,8 @@ para la cuenta %s"</string>
   <string name="permlab_vibrate">controlar la vibración</string>
   <string name="permlab_wakeLock">evitar que el dispositivo entre en estado de inactividad</string>
   <string name="permlab_writeCalendar">Agregar o modificar los eventos de calendario y enviar un correo a los invitados sin que los propietarios lo sepan</string>
-  <string name="permlab_writeCallLog">escribir en el registro de llamadas</string>
-  <string name="permlab_writeContacts">modificar tus contactos</string>
+  <string name="permlab_writeCallLog">escribir/borrar registro de llamadas</string>
+  <string name="permlab_writeContacts">modificar/eliminar tus contactos</string>
   <string name="permlab_writeGeolocationPermissions">Modificar los permisos de ubicación geográfica del navegador</string>
   <string name="permlab_writeHistoryBookmarks">escribir marcadores web e historial</string>
   <string name="permlab_writeSettings">modificar la configuración del sistema</string>
@@ -1091,6 +1107,8 @@ para la cuenta %s"</string>
   <string name="preposition_for_year">en %s</string>
   <string name="print_service_installed_message">Presionar para habilitar</string>
   <string name="print_service_installed_title">Servicio de %s instalado</string>
+  <string name="profile_encrypted_detail">Perfil de trabajo bloqueado</string>
+  <string name="profile_encrypted_message">Toque para desbloquear el perfil de trabajo</string>
   <string name="progress_erasing">Borrando almacenamiento USB…</string>
   <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
   <string name="quick_contacts_not_available">No se encontró ninguna aplicación para ver este contacto.</string>
