@@ -238,8 +238,6 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="keep_screen_on">Pantalla activa</string>
   <string name="keep_screen_on_summary">La pantalla nunca entrará en modo de suspensión si el dispositivo se está cargando</string>
   <string name="launch">Abrir</string>
-  <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
-  <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
   <string name="lb_control_display_rewind_multiplier">%1$dX</string>
   <string name="lb_guidedaction_continue_title">Continuar</string>
   <string name="lb_guidedaction_finish_title">Terminar</string>
@@ -380,7 +378,6 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="screen_overlay_message">Para cambiar esta configuración del permiso, primero tiene que desactivar la pantalla superpuesta en Ajustes &gt; Aplicaciones</string>
   <string name="screen_overlay_title">Detectada pantalla superpuesta</string>
   <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
-  <string name="screen_zoom_summary_default">Defecto</string>
   <string name="screen_zoom_summary_extremely_large">Máximo</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequeño</string>
@@ -417,13 +414,6 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="title_convert_fbe">Convertir a basado en ficheros cifrados</string>
   <string name="track_frame_time">Perfil de renderización de GPU</string>
   <string name="transition_animation_scale_title">Escala de transición-animación</string>
-  <string name="tts_default_lang_summary">Establecer la voz del idioma específico para el texto hablado</string>
-  <string name="tts_default_lang_title">Idioma</string>
-  <string name="tts_default_pitch_summary">Afecta al tono del sintetizador de voz.</string>
-  <string name="tts_default_pitch_title">Tono</string>
-  <string name="tts_default_rate_summary">Velocidad a la que se lee el texto</string>
-  <string name="tts_default_rate_title">Velocidad de la voz</string>
-  <string name="tts_default_sample_string">Este es un ejemplo de síntesis de voz</string>
   <string name="tts_engine_network_required">Este idioma requiere una conexión de red activa para la salida de síntesis de voz.</string>
   <string name="tts_engine_preference_section_title">Motor preferido</string>
   <string name="tts_engine_security_warning">Es posible que este motor de síntesis de voz recopile todo el texto hablado, incluidos datos personales, como contraseñas y números de tarjeta de crédito. Procede del motor %s. ¿Quieres habilitar el uso de este motor de síntesis de voz?</string>
