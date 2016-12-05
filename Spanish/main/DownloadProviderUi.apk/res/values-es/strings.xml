@@ -5,7 +5,7 @@
   <string name="action_settings">Ajustes</string>
   <string name="ad_mark">Anuncio</string>
   <string name="ad_title">La gente también descargó esto con %1$s </string>
-  <string name="ad_title_other">Las personas que han descargado esta imagen también descargaron</string>
+  <string name="ad_title_other">Con esta imagen la gente también descarga</string>
   <string name="add_flow_fail_haveget_msg">El periodo de prueba ha terminado.</string>
   <string name="add_flow_fail_vip_msg">El acelerador de descargas Xunlei está activado</string>
   <string name="add_flow_success_msg">%s añadidos este mes</string>
@@ -18,17 +18,19 @@
   <string name="app_label">Descargas</string>
   <string name="auth_activity_title">Cuenta Xunlei</string>
   <string name="auth_fail">No se pudo obtener la autorización</string>
-  <string name="bind_xunlei_account">Añadir cuenta Xunlei</string>
+  <string name="bind_xunlei_account">Cuenta añadida de Xunlei %1$s</string>
   <string name="bt_download">Descargar</string>
   <string name="bt_path_not_exit">"Esta ruta no existe"</string>
   <string name="bt_restart_dialog_message">Reiniciar todas las descargas el la carpeta BT</string>
   <string name="bt_restart_dialog_title">Reiniciar todas las descargas</string>
   <string name="bt_xunlei_open_info">¿Usar motor Xunlei para abrir estos enlaces?</string>
+  <string name="btn_change">Cambiar</string>
   <string name="button_sort_by_date">Ordenar por fecha</string>
   <string name="button_sort_by_size">Ordenar por tamaño</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_running_download">Cancelar</string>
   <string name="cancle">Cancelar</string>
+  <string name="choose_open_picture">Seleccionar acción</string>
   <string name="choose_open_time">Seleccione cuándo quiere comenzar</string>
   <string name="clear_data">Limpiar</string>
   <string name="complete_time">Completado:</string>
@@ -47,6 +49,8 @@
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="deselect_subfile_all">Deseleccionar todo</string>
   <string name="determine">Aceptar</string>
+  <string name="dialog_btn_cancel">Cancelar</string>
+  <string name="dialog_btn_ok">Aceptar</string>
   <string name="dialog_btn_ok_disabled_net">Ajustes de la red</string>
   <string name="dialog_cannot_resume">Descarga interrumpida. No puede reanudarse.</string>
   <string name="dialog_confirm_delete_checkbox_message">Eliminar también archivos locales</string>
@@ -59,11 +63,13 @@
   <string name="dialog_insufficient_space_on_cache">No se puede finalizar la descarga. No hay suficiente espacio en el almacenamiento interno de descarga.</string>
   <string name="dialog_insufficient_space_on_external">No se puede finalizar la descarga. No hay suficiente espacio en el almacenamiento externo.</string>
   <string name="dialog_media_not_found">No se puede descargar. El almacenamiento externo no está disponible.</string>
-  <string name="dialog_msg_disabled_net">%1$s descargas restringidas en la red actual. Toca Ajustes de red para ir a la aplicación de Seguridad.</string>
+  <string name="dialog_msg_disabled_net">%1$s descargas están restringidas para la red actual. Pulse ajustes de red para ir a la aplicación de seguridad.</string>
+  <string name="dialog_msg_recommend">"No podrá ver las fuentes recomendadas después de desactivar. Usted puedes elegir \"Cargar cuando se conecta a Wi-Fi\" para reducir los datos móviles."</string>
   <string name="dialog_queued_body">Este archivo se pone en cola para descargar más tarde</string>
   <string name="dialog_title_disabled_net">Acceso a Internet</string>
   <string name="dialog_title_not_available">Descarga fallida</string>
   <string name="dialog_title_queued_body">El archivo todavía no está disponible</string>
+  <string name="dialog_title_recommend">Desactivar las fuentes recomendadas</string>
   <string name="disable">Desactivar</string>
   <string name="display_expire_netiv1">Este mes</string>
   <string name="do_not_support_url">Este tipo de URL no está soportado</string>
@@ -138,10 +144,14 @@
   <string name="expire_notification_msg">La cuenta Xunlei expira pronto.</string>
   <string name="expire_today_notification_msg">La cuenta Xunlei expira hoy.</string>
   <string name="extend">Más</string>
+  <string name="extra_ad_title">También le puede interesar</string>
   <string name="extract_file">Extrayendo fichero…</string>
   <string name="file_exist_hint">Este fichero ya existe</string>
   <string name="file_picker">Elige una ubicación</string>
   <string name="file_size">Tamaño:</string>
+  <string name="force_touch_newdownload">Nueva descarga/string>
+  <string name="force_touch_rank">Clasificaciones</string>
+  <string name="force_touch_search">Busca en la web</string>
   <string name="free_high_speed_channel">Acelerador Xunlei (gratis)</string>
   <string name="free_speedup_exp">Pruebe gratis el acelerador de descargas Xunlei</string>
   <string name="get_account_dialog_msg">Obteniendo información de la cuenta…</string>
@@ -157,6 +167,7 @@
   <string name="high_speed_tryout_speedup_confirm">Preparándose para aumentar velocidad…</string>
   <string name="high_speed_tryout_time">Tiempo de prueba restante: %1$s. Conviértase en un miembro de Xunlei.</string>
   <string name="hint">Atención</string>
+  <string name="home_page_new_download_guide">Nuevas descargas aquí/string>
   <string name="immediately_a_renewal">Renueve su suscripción ahora</string>
   <string name="info_flow_only_load_wifi">Cargar fuentes recomendada cuando está conectado a Wi-Fi</string>
   <string name="info_flow_setting">Ajustes</string>
@@ -199,6 +210,9 @@
   <string name="no_vip_show_info">"Acelera las descargas
  a través de todos tus dispositivos con Xunlei"</string>
   <string name="notify_disabled_net_by_app">Acceso a Internet restringido</string>
+  <string name="notify_install_guide_forward_text">Abrir</string>
+  <string name="notify_install_guide_msg">Instalado correctamente</string>
+  <string name="notify_install_guide_title">Instalado %s correctamente</string>
   <string name="notify_not_support">"Notificaciones no soportadas, actualice ahora"</string>
   <string name="notify_only_wifi_download">Esperando a Wi-Fi</string>
   <string name="one_month">1 mes</string>
@@ -221,10 +235,11 @@
   <string name="paused_unknown">En pausa</string>
   <string name="paused_waiting_for_network">A la espera de red</string>
   <string name="paused_waiting_to_retry">Esperando para reintentar</string>
+  <string name="percent_title">%1$s personas lo descargaron</string>
   <string name="period_of_validity">Validez:</string>
-  <string name="pref_download_revert_default">Defecto</string>
-  <string name="pref_download_settings_title">Límite de tamaño de descarga</string>
-  <string name="pref_download_storage_path">Crear una nueva carpeta para descargas</string>
+  <string name="pref_download_revert_default">Guardar en la ubicación predeterminada</string>
+  <string name="pref_download_settings_title">La descarga de datos móviles está restringida</string>
+  <string name="pref_download_storage_path">Guardar en una ubicación personalizada</string>
   <string name="pref_sniff_shortcut">Crear acceso directo</string>
   <string name="pref_summary_any_bytes_popup">Esperar siempre conexión Wi-Fi para descargar archivos</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificación emergente cuando se usen datos móviles para descargar contenido</string>
@@ -273,7 +288,7 @@
   <string name="search_history_today">Hoy</string>
   <string name="search_history_year">dd/MM/yyyy</string>
   <string name="search_history_yesterday">Ayer</string>
-  <string name="search_home_download_popup">Volver a Descargas</string>
+  <string name="search_home_download_popup">Volver a descargas</string>
   <string name="search_home_vif_show_more">Más</string>
   <string name="search_hot_anime">Dibujos animados</string>
   <string name="search_hot_movie">Películas</string>
@@ -339,7 +354,7 @@
   <string name="sniff_terms_check_text">Acepte las Condiciones del Servicio</string>
   <string name="sniff_terms_msg">Debería aceptar las \"Condiciones de Uso\" para empezar a usar un buscador de terceros</string>
   <string name="sniff_terms_msg_a">Esta funcionalidad de búsqueda está proporcionada por un desarrollador externo. Es necesario que acepte las Condiciones del Servicio antes de usarlo.</string>
-  <string name="sniff_terms_msg_b">Esta característica de búsqueda está proporcionada por un tercero. Necesitas aceptar los Términos de Servicio antes de poder usarlo. Si está de acuerdo, marque la casilla de abajo.</string>
+  <string name="sniff_terms_msg_b">Esta característica de búsqueda está proporcionada por un tercero. Necesitas aceptar los Términos de Servicio antes de poder usarlo. Si acepta los Términos, toque la marca de verificación que aparece a continuación.</string>
   <string name="sniff_terms_msg_bold">Condiciones de Uso</string>
   <string name="sniff_terms_msg_bold_new">Condiciones de Uso</string>
   <string name="sniff_terms_reject">Declinar</string>
@@ -361,7 +376,7 @@
   <string name="subfile_list">Ficheros</string>
   <string name="task_detail">Tareas</string>
   <string name="task_detail_notfound_confirm">Aceptar</string>
-  <string name="task_fail">Ha fallado</string>
+  <string name="task_fail">"No se pudo completar la operación"</string>
   <string name="text_showmore_infoflow">Ver más fuentes</string>
   <string name="third_web_cancel">Cancelar</string>
   <string name="third_web_confirm">Aceptar</string>
@@ -374,6 +389,7 @@
   <string name="title_tips">Atención</string>
   <string name="title_unbind_xunlei">Quitar tu cuenta Xunlei</string>
   <string name="toast_only_wifi_download">Conectar a Wi-Fi para descargar este elemento</string>
+  <string name="toast_update_data_limit_fail">"No se pudo establecer"</string>
   <string name="toast_xunlei_engine_open">Se ha activado el acelerador de descargas Xunlei</string>
   <string name="torrent_file_error">No se pudo parsear el fichero torrent</string>
   <string name="torrent_no_subfile">Este torrent no tiene subficheros</string>
