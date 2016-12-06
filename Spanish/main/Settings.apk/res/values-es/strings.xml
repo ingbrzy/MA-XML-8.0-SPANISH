@@ -526,6 +526,16 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="biometric_weak_liveliness_summary">Solicitar parpadeo durante desbloqueo</string>
   <string name="biometric_weak_liveliness_title">Reconocimiento facial</string>
   <string name="ble_scan_notify_text">Para mejorar la precisión de la ubicación, los servicios y las aplicaciones del sistema pueden detectar dispositivos Bluetooth aunque esté desactivada la conexión Bluetooth. Puedes cambiar esta opción en los LINK_BEGINajustes de búsquedaLINK_END.</string>
+  <string name="block_list_connected_devices">Dispositivos conectados</string>
+  <string name="block_list_diaglog_cancle">Cancelar</string>
+  <string name="block_list_diaglog_ok">Aceptar</string>
+  <string name="block_list_dialog_content">Esta acción desconectará a “%s” desde este dispositivo y lo agregara a la lista de bloqueo</string>
+  <string name="block_list_dialog_title">¿Desconectar ahora?</string>
+  <string name="block_list_no_device">No hay dispositivos conectados en la lista de bloqueo</string>
+  <string name="block_list_remove_dialog_content">Este dispositivo “%s” será capaz de conectarse a este punto de acceso</string>
+  <string name="block_list_remove_dialog_title">Eliminar a “%s” de la lista de bloqueo</string>
+  <string name="block_list_summary">Ver dispositivos que no están autorizados a conectarse a este punto de acceso</string>
+  <string name="block_list_title">Lista de bloqueo</string>
   <string name="bluetooth">Ajustes de Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Conectado al audio del medio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para audio de medio</string>
@@ -4396,6 +4406,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="testing_wifi_info">Información Wi-Fi</string>
   <string name="tether_and_hotspot_title">Anclaje de red y zona Wi-Fi</string>
   <string name="tether_devices_management_title">Administrar dispositivos</string>
+  <string name="tether_devices_max_number">Límite de dispositivos conectados</string>
   <string name="tether_settings_disabled">El punto de acceso personal está desactivado</string>
   <string name="tether_settings_disabled_on_data_saver">No se puede utilizar el anclaje o el punto de acceso Wi-Fi mientras está activado el Economizador de Datos</string>
   <string name="tether_settings_launch_title">Punto de acceso Wi-Fi móvil</string>
