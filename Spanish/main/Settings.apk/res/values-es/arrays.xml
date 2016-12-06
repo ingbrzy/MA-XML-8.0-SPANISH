@@ -10,7 +10,7 @@
         <item>Preferir Móvil</item>
         <item>Solo Wi-Fi</item>
     </string-array>
-        <string-array name="wifi_calling_mode_choices_without_wifi_only">
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Preferir Wi-Fi</item>
         <item>Preferir Móvil</item>
     </string-array>
@@ -490,10 +490,10 @@
         <item>Disminuido</item>
     </string-array>
     <string-array name="captioning_opacity_selector_titles">
-        <item>25 %</item>
-        <item>50 %</item>
-        <item>75 %</item>
-        <item>100 %</item>
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Usar predeterminados de aplicación</item>
@@ -529,13 +529,13 @@
         <item>Tiempo de espera agotado</item>
         <item>Incorrecta</item>
     </string-array>
-     <string-array name="ram_states">
+    <string-array name="ram_states">
         <item>Normal</item>
-        <item>Moderate</item>
-        <item>Low</item>
-        <item>Critical</item>
+        <item>Moderado</item>
+        <item>Bajo</item>
+        <item>Critico</item>
         <item>\?</item>
-     </string-array>
+    </string-array>
     <string-array name="entries_zen_mode">
         <item>Desactivado</item>
         <item>Interrupciones limitadas</item>
@@ -683,8 +683,7 @@
         <item>Confirme los permisos de grupo de usuario en el actual grupo de usuario de fuse</item>
         <item>Iniciar sesión de nuevo</item>
         <item>Dispositivo montado en el acceso: mtpfs /media/mtp via file explorer; same as local directory</item>
-        <item>"Desinstalar el dispositivo: fusermount -u /media/mtp
-Nota: Sólo para Ubuntu 8.04!"</item>
+        <item>"Desinstalar el dispositivo: fusermount -u /media/mtp Nota: Sólo para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Cálido</item>
@@ -819,7 +818,7 @@ Nota: Sólo para Ubuntu 8.04!"</item>
         <item>Bloqueo de aplicaciones</item>
         <item>Segundo espacio</item>
     </string-array>
-        <string-array name="anr_record_interval_entries">
+    <string-array name="anr_record_interval_entries">
         <item>10 segundos</item>
         <item>20 segundos</item>
         <item>30 segundos</item>
