@@ -21,6 +21,8 @@
   <string name="activity_weathermain_locationg_error">No se pudo ubicar</string>
   <string name="add_city">Añadir</string>
   <string name="alert_warning">Alertas meteorológicas</string>
+  <string name="already_voted">Ha votado</string>
+  <string name="already_voted_toast">Ya ha seleccionado hoy</string>
   <string name="app_name">Clima</string>
   <string name="aqi_data_source">Información del clima por Caiyun</string>
   <string name="aqi_desc">Indicador de calidad del aíre</string>
@@ -69,10 +71,11 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s más tarde.</string>
   <string name="daily_forcast_whirl_wind">Torbellino</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+  <string name="daily_forecast_detail">Detalle del pronóstico</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Administrar alertas</string>
-  <string name="edit_city">Editar</string>
+  <string name="edit_city">Editar ciudad</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Para obtener la información del tiempo, es necesario conectarse a Internet.</string>
   <string name="first_start_network_title">Alerta de conexión</string>
@@ -122,6 +125,8 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="network_not_available">No se puede conectar a la red.</string>
   <string name="network_unavailable">No se puede conectar a la red.</string>
   <string name="no_network_btn">Intentar de nuevo</string>
+   <string name="no_vote_num">%1$sgente | </string>
+  <string name="no_vote_ratio">contras %1$s%%</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir en navegador</string>
   <string name="realtime_aqi_title">Indicador de Calidad del Aire</string>
@@ -148,6 +153,7 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="sunrise">Amanecer</string>
   <string name="sunset">Puesta de sol</string>
   <string name="title_share_link">Compartir URL</string>
+  <string name="total_voted_num_text">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; la gente ha votado"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Pasado mañana: %1$s</string>
   <string name="traffic_control_today_numbers">Hoy: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Mañana: %1$s</string>
@@ -159,4 +165,6 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="view_indexes_item_today">Hoy</string>
   <string name="view_indexes_item_tommorrow">Mañana</string>
   <string name="weather_alert">Alertas meteorológicas</string>
+  <string name="yes_vote_num"> | %1$sgente</string>
+  <string name="yes_vote_ratio">pros %1$s%%</string>
 </resources>
