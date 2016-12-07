@@ -134,8 +134,9 @@
   <string name="fraud_call_waring">Comprueba siempre la identidad del contacto por teléfono o vídeo antes de responder a cualquier mensaje que incluya su información personal.</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">Llamada internet</string>
-  <string name="incall_error_supp_service_conference">Incapaz de realizar llamadas de conferencia.</string>
-  <string name="incall_error_supp_service_hangup">No se puede(n) liberar la(s) llamada(s).</string>
+  <string name="incall_error_supp_service_conference">"Incapaz de realizar llamadas de conferencia."</string>
+  <string name="incall_error_supp_service_hangup">"No puedo colgar la llamada."</string>
+  <string name="incall_error_supp_service_hold">No puede retener llamadas."</string>
   <string name="incall_error_supp_service_reject">No se puede rechazar la llamada.</string>
   <string name="incall_error_supp_service_separate">No se puede separar la llamada.</string>
   <string name="incall_error_supp_service_switch">No se puede alternar entre llamadas.</string>
