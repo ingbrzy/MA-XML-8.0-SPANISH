@@ -14,10 +14,14 @@
   <string name="activate_feature_register_xiaomi_account">Configuración de Cuenta Mi</string>
   <string name="activate_feature_remote_assist">Asistente Remoto</string>
   <string name="activate_feature_verify_mx_token">Verificación de Cuenta Mi</string>
+  <string name="activate_history_cancelled">Cancelado</string>
   <string name="activate_history_canceled_overview">La activación de la tarjeta SIM fue cancelada. La activación es desencadenada por \"%1$s\".</string>
+  <string name="activate_history_multisim_overview">Activación del la tarjeta SIM %3$d %1$s. Es activada por \"%2$s\".</string>
   <string name="activate_history_multisim_canceled_overview">La activación de la tarjeta SIM %2$d fue cancelada. La activación es desencadenada por \"%1$s\".</string>
   <string name="activate_history_multisim_success_overview">Activación de la tarjeta SIM %2$d con éxito. La activación es desencadenada por \"%1$s\".</string>
+  <string name="activate_history_overview">Activación del la tarjeta SIM %1$s. Es activada por \"%2$s\".</string>
   <string name="activate_history_sms">Se envió un SMS durante la activación.</string>
+  <string name="activate_history_success">Exitoso</string>
   <string name="activate_history_success_overview">Activación de la tarjeta SIM con éxito. La activación es desencadenada por \"%1$s\".</string>
   <string name="activate_history_title">Activación de la tarjeta SIM</string>
   <string name="activate_phone_cancel_notif_title">Activación de la tarjeta SIM cancelada</string>
