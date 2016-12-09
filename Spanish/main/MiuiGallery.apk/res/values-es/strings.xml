@@ -436,7 +436,7 @@
   <string name="menu_item_sort_size">Tamaño</string>
   <string name="menu_view_contact">Ver contacto</string>
   <string name="merge_album">Combinar</string>
-  <string name="merge_album_title">Combinar álbumes</string>
+  <string name="merge_album_title">Combinar con una presona</string>
   <string name="messagelist_sender_self">Yo</string>
   <string name="micloud_introduce">Respalda fotos y vídeos automáticamente (se necesitará una Cuenta Mi)</string>
   <string name="more_album_hint">, etc.</string>
@@ -483,6 +483,7 @@
   <string name="operation_move_to_other_albums">Mover a otros álbumes</string>
   <string name="operation_not_show_in_photos_tab">No mostrar en la pestaña de Fotos</string>
   <string name="operation_projection">Proyectar</string>
+  <string name="operation_remove_face">Eliminar</string>
   <string name="operation_remove_from_face_album">Quitar del álbum</string>
   <string name="operation_remove_from_other_albums">Mover desde otros álbumes</string>
   <string name="operation_remove_secret">Mostrar</string>
@@ -573,11 +574,16 @@
   <string name="relation_with_you">Escoge una relación</string>
   <string name="release_space_finish_format">Se liberó %s de almacenamiento local</string>
   <string name="remind_face_recommend_confirm">Confirmar</string>
+  <string name="remove_from_album_message">Esta foto ya no se mostrará aquí</string>
+  <string name="remove_from_album_title">Eliminar de este álbum</string>
+  <string name="remove_from_current_album">Eliminar de este álbum</string>
   <string name="remove_from_other_albums_tip">Active sincronizar con Mi Cloud para mover elementos de otros álbumes. ¿Mover ahora?</string>
   <string name="remove_from_secret_fail">No se pudo eliminar del álbum oculto</string>
   <string name="remove_from_secret_failed_with_reason">No se pudo eliminar del álbum oculto. %1$s.</string>
   <string name="remove_from_secret_failed_with_reason_and_count">%2$s elementos no pueden ser eliminados del álbum oculto. %1$s.</string>
   <string name="remove_from_secret_successful">Eliminado del álbum oculto</string>
+  <string name="remove_to_album_title">Combinar con</string>
+  <string name="remove_to_other_album">Combinar con una persona diferente</string>
   <string name="rename_face_album">Cambiar nombre</string>
   <string name="rename_fail_msg">No se ha podido cambiar nombre</string>
   <string name="rename_from_contact">Nombre desde los contactos</string>
@@ -608,10 +614,10 @@
   <string name="secret_album_password_first_use_msg">Se utilizará la contraseña de privacidad. Funciona para aplicaciones, fotos, notas, carpetas ocultas, etc.</string>
   <string name="secret_album_password_first_use_title">Contraseña de privacidad</string>
   <string name="secret_album_password_update_dialog_cancel">Cancelar</string>
-  <string name="secret_album_password_update_dialog_msg">La contraseña de privacidad funciona para, fotos, notas, carpetas ocultas, etc.</string>
+  <string name="secret_album_password_update_dialog_msg">La contraseña de privacidad funciona para fotos, notas, carpetas ocultas, etc.</string>
   <string name="secret_album_password_update_dialog_ok">OK</string>
   <string name="secret_album_password_update_dialog_title">Actualización de contraseña</string>
-  <string name="secret_album_password_update_first_user_dialog_msg">La contraseña de privacidad funciona para, fotos, notas, carpetas ocultas, etc.</string>
+  <string name="secret_album_password_update_first_user_dialog_msg">La contraseña de privacidad funciona para fotos, notas, carpetas ocultas, etc.</string>
   <string name="secret_album_password_update_first_user_dialog_title">Actualización de contraseña</string>
   <string name="secret_album_set_pc_password_dialog_msg">Se utilizará la contraseña de privacidad. Funciona para aplicaciones, fotos, notas, carpetas ocultas, etc.</string>
   <string name="secret_album_set_pc_password_dialog_ok">Establecer una nueva contraseña</string>
