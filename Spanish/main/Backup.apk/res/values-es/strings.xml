@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abort_backup_confirm">"La copia de seguridad no ha terminado aún. ¿Deseas detener el proceso?"</string>
   <string name="abort_restore_confirm">"No se ha terminado de restaurar aún. ¿Deseas detener el proceso?"</string>
@@ -157,9 +157,9 @@
   <string name="notif_restore_content">Restableciendo datos de usuario</string>
   <string name="notif_restore_title">Restableciendo datos</string>
   <string name="notif_trans_receiving_completed">Datos recibidos con éxito</string>
-  <string name="notif_trans_receiving_failed">Error al recibir los datos</string>
+  <string name="notif_trans_receiving_failed">No se pudieron recibir los datos</string>
   <string name="notif_trans_sending_completed">Datos enviados con éxito</string>
-  <string name="notif_trans_sending_failed">Error al enviar los datos</string>
+  <string name="notif_trans_sending_failed">No se pudieron enviar los datos</string>
   <string name="page_loading">Un momento…</string>
   <string name="progress_backup_hint">Haciendo copia de seguridad…</string>
   <string name="progress_restore_hint">Restaurando…</string>

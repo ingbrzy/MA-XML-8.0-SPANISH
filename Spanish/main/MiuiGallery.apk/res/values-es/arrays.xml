@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="baby_sexy">
+  <string-array name="baby_sexy">
         <item>Chico</item>
         <item>Chica</item>
     </string-array>
-    <string-array name="owner_relation">
+  <string-array name="editing_mode_entries">
+	    <item>Temas</item>
+		<item>Widgets</item>
+		<item>Fondos</item>
+		<item>Efectos</item>
+		<item>Celdas de pantalla</item>
+	</string-array>
+  <string-array name="owner_relation">
         <item>Padre</item>
         <item>Madre</item>
         <item>Abuelo paterno</item>
@@ -12,20 +19,13 @@
         <item>Abuelo materno</item>
         <item>Abuela materna</item>
     </string-array>
-    <string-array name="relation_with_me">
+  <string-array name="relation_with_me">
         <item>Yo</item>
-        <item>Niño</item>
+        <item>Hijo</item>
         <item>Familia</item>
         <item>Compañeros</item>
-        <item>Compañero de clase</item>
+        <item>Compañeros de clase</item>
         <item>Amigos</item>
         <item>Desconocido</item>
     </string-array>
-	<string-array name="editing_mode_entries">
-	    <item>Temas</item>
-		<item>Widgets</item>
-		<item>Fondos</item>
-		<item>Efectos</item>
-		<item>Celdas de pantalla</item>
-	</string-array>
 </resources>
