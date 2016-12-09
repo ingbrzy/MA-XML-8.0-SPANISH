@@ -74,6 +74,9 @@
   <string name="clear_search_history">Limpiar historial de búsqueda</string>
   <string name="click_star_rate">Haga click en la valoración por estrellas</string>
   <string name="click_to_login">Toca para iniciar sesión</string>
+  <string name="clubber">clubber</string>
+  <string name="clubber_center">Centro clubber</string>
+  <string name="clubber_info">Información del clubber</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Comentarios</string>
   <string name="comment_count_less_tip">Los comentarios deben tener al menos %1$s caracteres</string>
@@ -81,7 +84,7 @@
   <string name="comment_edit_et_hint">300 caracteres como máximo</string>
   <string name="comment_edit_start_hint">Toca las estrellas para calificar</string>
   <string name="connect_error">Error de conexión</string>
-  <string name="connecting">Conectando</string>
+  <string name="connecting">Conectando…</string>
   <string name="count_comment">%d calificaciones</string>
   <string name="count_comment_wan">%.2f0 calificaciones</string>
   <string name="count_ge">%d elementos</string>
@@ -232,7 +235,7 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Para enviar comentarios, inicia sesión con tu cuenta de Mi</string>
   <string name="no_longer_tips">"No mostrar de nuevo"</string>
-  <string name="no_pay_record">sin registro de pago</string>
+  <string name="no_pay_record">sin registro del pago</string>
   <string name="no_sdcard_no_download">No hay suficiente espacio, error al solicitar la descarga.</string>
   <string name="no_vip_product">no soporta servicios vip</string>
   <string name="not_buy_vip">no vip</string>
@@ -432,7 +435,7 @@
   <string name="path_develop_settings">Video/Ajustes/Ajustes de Desarrollo</string>
   <string name="path_settings">Video/Ajustes</string>
   <string name="pause">Pausar</string>
-  <string name="pay_record">registro de pago</string>
+  <string name="pay_record">registro del pago</string>
   <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Mejorar rendimiento del reproductor</string>
   <string name="performance_mode_desc">Maximizar rendimiento del reproductor de vídeo</string>
@@ -443,7 +446,7 @@
   <string name="play_fail">Error al reproducir, por favor inténtelo de nuevo más tarde.</string>
   <string name="play_his_empty_title">Vacío</string>
   <string name="play_history">Reproducido recientemente</string>
-  <string name="play_source_fetching">Conectando</string>
+  <string name="play_source_fetching">Conectando…</string>
   <string name="player_plugin_des">Ver plugins de vídeo disponibles</string>
   <string name="player_plugin_title">Plugins de vídeo</string>
   <string name="positive_comment">Positivo</string>
