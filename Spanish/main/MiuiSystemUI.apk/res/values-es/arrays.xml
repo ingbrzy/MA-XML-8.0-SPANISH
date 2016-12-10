@@ -29,14 +29,14 @@
         <item>Evitar temporalmente la mala conexión</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>Nunca comprobar</item>
+        <item>Comprobar solo el contenido con DRM</item>
+        <item>Siempre comprobar</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>Nunca utilizar la comprobación HDCP</item>
+        <item>Utilizar la comprobación HDCP solo para contenido con DRM</item>
+        <item>Siempre utilizar la comprobación HDCP</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Apagado</item>
@@ -105,7 +105,7 @@
         <item>Ninguna</item>
         <item>Logcat</item>
         <item>Systrace (Gráficos)</item>
-        <item>Call stack on glGetError</item>
+        <item>Volcado de pila para glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Apagado</item>
@@ -120,7 +120,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>Apagado</item>
         <item>Mostrar las áreas de sobregiro</item>
-        <item>Mostrar zonas para Deuteranomaly</item>
+        <item>Mostrar zonas para deuteranomalía</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Límite estándar</item>
@@ -144,7 +144,7 @@
         <item>Normal</item>
         <item>Rápido</item>
         <item>Más rápido</item>
-        <item>Muy rapido</item>
+        <item>Muy rápido</item>
         <item>Rápido</item>
         <item>Muy rápido</item>
         <item>Lo más rápido</item>

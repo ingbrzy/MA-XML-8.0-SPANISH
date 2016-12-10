@@ -30,7 +30,7 @@
   <string name="accessibility_wifi_three_bars">Wifi tres barras.</string>
   <string name="accessibility_wifi_two_bars">Wifi dos barras.</string>
   <string name="adb_keys_warning_message">¿Revocar acceso a la depuración USB desde todos los ordenadores que usted ha autorizado anteriormente?</string>
-  <string name="adb_warning_message">La depuración USB está destinada sólo para propósitos de desarrollo. Úsela para copiar datos su ordenador y su dispositivo, instalar aplicaciones en su dispositivo sin notificacion, y leer datos de log.</string>
+  <string name="adb_warning_message">La depuración USB está destinada sólo para propósitos de desarrollo. Úsela para copiar datos su ordenador y su dispositivo, instalar aplicaciones en su dispositivo sin notificación, y leer datos de log.</string>
   <string name="adb_warning_title">¿Permitir depuración USB?</string>
   <string name="additional_permissions">Permisos adicionales</string>
   <string name="allPerms">Todos</string>
@@ -168,7 +168,7 @@
   <string name="disable_overlays">Deshabilitar superposiciones HW</string>
   <string name="disable_overlays_summary">Usar siempre la GPU para combinar pantallas</string>
   <string name="disabled_by_admin">Deshabilitado por el administrador</string>
-  <string name="disabled_by_admin_summary_text">Controlado por admin</string>
+  <string name="disabled_by_admin_summary_text">Controlado por el adminstrador</string>
   <string name="dlg_app_replacement_statement">"La aplicación que está instalando reemplazará a otra aplicación.
 
 Se guardarán todos los datos anteriores."</string>
@@ -222,7 +222,7 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="install_done">Aplicación instalada</string>
   <string name="install_failed">Aplicación no instalada</string>
   <string name="install_failed_blocked">La instalación del paquete fue bloqueada.</string>
-  <string name="install_failed_conflict">El paquete entra en conflito con un paquete existente con el mismo nombre.</string>
+  <string name="install_failed_conflict">El paquete entra en conflicto con un paquete existente con el mismo nombre.</string>
   <string name="install_failed_cpu_abi_incompatible">Esta aplicación no es compatible con la CPU de este teléfono.</string>
   <string name="install_failed_file_not_found">El paquete especificado fue borrado antes de que la instalación pudiera ser completada.</string>
   <string name="install_failed_incompatible">Esta aplicación no es compatible con su teléfono</string>
@@ -306,7 +306,7 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="newPerms">Nuevo</string>
   <string name="new_permissions_category">Nuevos permisos</string>
   <string name="next">Siguiente</string>
-  <string name="no_application">Noda</string>
+  <string name="no_application">Nada</string>
   <string name="no_apps">No hay aplicaciones</string>
   <string name="no_new_perms">Esta actualización no requiere permisos nuevos.</string>
   <string name="no_permissions">Sin permisos</string>
@@ -314,7 +314,7 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="oem_unlock_enable_summary">Permitir desbloquear el bootloader</string>
   <string name="ok">Aceptar</string>
   <string name="old_sdk_deny_warning">Esta aplicación está diseñada para una versión anterior de Android. Si se le deniega el permiso, puede dejar de funcionar de la forma prevista.</string>
-  <string name="orb_search_action">Accíón de búsqueda</string>
+  <string name="orb_search_action">Acción de búsqueda</string>
   <string name="other_permissions">Otras capacidades de la aplicación</string>
   <string name="other_relative">Otros</string>
   <string name="out_of_space_dlg_text">No hay suficiente espacio de almacenamiento en el dispositivo para instalar %1$s</string>
@@ -392,13 +392,13 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="select_webview_provider_title">Implementación WebView</string>
   <string name="select_webview_provider_toast_text">Esta opción ya no es válida. Inténtelo otra vez.</string>
   <string name="settings">Ajustes</string>
-  <string name="show_all_anrs">Mostar todos los Aplicación No Responde</string>
+  <string name="show_all_anrs">Mostrar todos los Aplicación No Responde</string>
   <string name="show_all_anrs_summary">Mostrar diálogo Aplicación No Responde para aplicaciones en segundo plano</string>
   <string name="show_cpu_usage_summary">Superponer el uso de la CPU en la pantalla</string>
   <string name="show_hw_layers_updates_summary">Iluminar capas de hardware en verde al actualizarse</string>
   <string name="show_hw_screen_updates">Mostrar actualizaciones de la vista hechas por GPU</string>
   <string name="show_hw_screen_updates_summary">Iluminar vistas dentro de las ventanas cuando sean pintadas con la GPU</string>
-  <string name="show_screen_updates">Mostar cambios de superficie</string>
+  <string name="show_screen_updates">Mostrar cambios de superficie</string>
   <string name="show_screen_updates_summary">Iluminar superficies enteras de ventana al actualizarse</string>
   <string name="show_touches_summary">Mostrar la ubicación de las pulsaciones en la pantalla</string>
   <string name="simulate_color_space">Simular espacio de color</string>
@@ -444,13 +444,13 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="uninstall_application_text_all_users">¿Quiere desinstalar esta aplicación para &lt;b&gt;todos&lt;/b&gt; los usuarios? La aplicación y sus datos serán eliminados de &lt;b&gt;todos&lt;/b&gt; los usuarios en el dispositivo.</string>
   <string name="uninstall_application_text_user">¿Quiere desinstalar esta aplicación para el usuario %1$s?</string>
   <string name="uninstall_application_title">Desinstalar aplicación</string>
-  <string name="uninstall_blocked_device_owner">Esta aplicación es requerida por el administrador del dispositov y no puede ser desinstalada.</string>
-  <string name="uninstall_blocked_profile_owner">Esta aplicación es necesaria para su perfill y no puede ser desinstalada.</string>
+  <string name="uninstall_blocked_device_owner">Esta aplicación es requerida por el administrador del dispositivo y no puede ser desinstalada.</string>
+  <string name="uninstall_blocked_profile_owner">Esta aplicación es necesaria para su perfil y no puede ser desinstalada.</string>
   <string name="uninstall_confirm_question">¿Desea desinstalar esta aplicación?</string>
   <string name="uninstall_done">Desinstalación completada</string>
   <string name="uninstall_failed">No se pudo desinstalar esta aplicación</string>
   <string name="uninstall_failed_device_policy_manager">No se puede desinstalar este paquete, es administrador de dispositivo activo.</string>
-  <string name="uninstall_failed_device_policy_manager_of_user">No se puede desinstalar porque este paquete es un administrador activo del dispositovo para el usuario %1$s.</string>
+  <string name="uninstall_failed_device_policy_manager_of_user">No se puede desinstalar porque este paquete es un administrador activo del dispositivo para el usuario %1$s.</string>
   <string name="uninstall_failed_msg">%1$s no pudo ser desinstalado</string>
   <string name="uninstall_failed_retained_app_msg">Esta aplicación ha sido modificada y no puede ser desinstalada en su forma actual.</string>
   <string name="uninstall_update_text">La aplicación será reemplazada con la versión original.</string>
@@ -478,7 +478,7 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="virus_scan_is_risk">Esta aplicación supone un riesgo para la seguridad de su dispositivo.</string>
   <string name="virus_scan_is_virus">Esta aplicación contiene un virus.</string>
   <string name="vpn_settings_not_available">Los ajustes VPN no están disponibles para este usuario</string>
-  <string name="wait_for_debugger">Espeando al depurador</string>
+  <string name="wait_for_debugger">Esperando al depurador</string>
   <string name="wait_for_debugger_summary">Aplicación de depuración espera al depurador al que unirse antes de ejecutarse</string>
   <string name="waiting_tip">Esto puede tomar un tiempo, pero vale la pena</string>
   <string name="wear_not_allowed_dlg_text">Acciones Instalar/Desinstalar no están soportadas en Wear.</string>
@@ -501,6 +501,6 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="wifi_security_none">Ninguna</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_verbose_logging">Habilitar registro detallado de la Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Incrementar nivel de registro de la Wi-Fi, mostar por SSID RSSI en el selector Wi‑Fi</string>
+  <string name="wifi_verbose_logging_summary">Incrementar nivel de registro de la Wi-Fi, mostrar RSSI por SSID en el selector Wi‑Fi</string>
   <string name="window_animation_scale_title">Escala de animación de ventana</string>
 </resources>

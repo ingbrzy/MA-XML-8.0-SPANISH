@@ -586,7 +586,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_device_searchable">Detección</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
   <string name="bluetooth_disable_absolute_volume">Desactivar volumen absoluto</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funcionalidad de volumen absoluto de Bluetooh en caso de que haya problemas de volumen con dispositivos remotos como volumen inaceptablemente alto o pérdida de control</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funcionalidad de volumen absoluto de Bluetooth en caso de que haya problemas de volumen con dispositivos remotos como volumen inaceptablemente alto o pérdida de control</string>
   <string name="bluetooth_disable_profile_message">Se inhabilitará&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;de&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="bluetooth_disable_profile_title">¿Inhabilitar perfil?</string>
   <string name="bluetooth_disabled">Desactivado</string>
@@ -877,7 +877,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="cellular_data_summary">Permitir uso de datos en redes móviles</string>
   <string name="cellular_data_title">Datos móviles</string>
   <string name="cellular_data_usage">Uso de datos móviles</string>
-  <string name="cellular_to_wlan_hint_summary">Permitir pista al escoger manualment o siempre preguntar para Datos Móviles-&gt;Wi-Fi</string>
+  <string name="cellular_to_wlan_hint_summary">Permitir pista al escoger manualmente o siempre preguntar para Datos Móviles-&gt;Wi-Fi</string>
   <string name="cellular_to_wlan_hint_title">Pista Datos móviles-&gt;Wi-Fi</string>
   <string name="cellular_to_wlan_hint_toast">La conexión Datos móviles-&gt;Wi-Fi puede resultar afectada</string>
   <string name="cellular_to_wlan_title">Datos móviles-&gt;Wi-Fi</string>
@@ -1690,7 +1690,7 @@ Los transeúntes eran numerosos, tanto hombres como mujeres y niños, y todos ve
 
 Parecía no haber caballos ni animales de ninguna clase. En cambio, los hombres trasladaban objetos en pequeñas carretillas verdes que empujaban ante sí. Todos parecían felices, satisfechos y prósperos."</string>
   <string name="font_size_preview_text_headline">Texto de ejemplo</string>
-  <string name="font_size_preview_text_subtitle">Capítulo 11: La Maravillosa Ciudas Esmeralda de Oz</string>
+  <string name="font_size_preview_text_subtitle">Capítulo 11: La Maravillosa Ciudad Esmeralda de Oz</string>
   <string name="font_size_preview_text_title">El Mago de Oz</string>
   <string name="font_size_save">Aceptar</string>
   <string name="font_size_small">Más pequeño</string>
@@ -1707,7 +1707,7 @@ Parecía no haber caballos ni animales de ninguna clase. En cambio, los hombres 
   <string name="force_msaa">Forzar MSAA 4x</string>
   <string name="force_msaa_summary">Habilitar MSAA 4x en aplicaciones de OpenGL ES 2.0</string>
   <string name="force_resizable_activities">Hacer a las actividades redimensionables</string>
-  <string name="force_resizable_activities_summary">Hacer a todas las activdades redimensionables para multiventana, independientemente de los valores del manifiesto</string>
+  <string name="force_resizable_activities_summary">Hacer a todas las actividades redimensionables para multiventana, independientemente de los valores del manifiesto</string>
   <string name="force_rtl_layout_all_locales">Forzar dirección diseño RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Forzar dirección (RTL) para todas configuraciones</string>
   <string name="force_stop">Forzar detención</string>
@@ -2130,12 +2130,12 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lock_screen_notifications_interstitial_title">Notificaciones</string>
   <string name="lock_screen_notifications_interstitial_title_profile">Notificaciones del perfil</string>
   <string name="lock_screen_notifications_summary_disable">No mostrar notificaciones</string>
-  <string name="lock_screen_notifications_summary_disable_profile">No mostrar notificaiones de trabajo nunca</string>
+  <string name="lock_screen_notifications_summary_disable_profile">No mostrar notificaciones de trabajo nunca</string>
   <string name="lock_screen_notifications_summary_hide">Ocultar notificaciones sensibles</string>
   <string name="lock_screen_notifications_summary_hide_profile">Ocultar contenido de notificaciones de trabajo sensibles</string>
   <string name="lock_screen_notifications_summary_show">Mostrar contenido de notificaciones</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostrar todo el contenido de las notificaciones de trabajo</string>
-  <string name="lock_screen_notifications_title">En la pantall de bloqueo</string>
+  <string name="lock_screen_notifications_title">En la pantalla de bloqueo</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Contraseña requerida inmediatamente.</string>
   <string name="lock_screen_secure_after_timeout_summary">Contraseña requerida en %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Contraseña requerida</string>
@@ -2152,7 +2152,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lock_settings_picker_title_profile">Escoja bloqueo de trabajo</string>
   <string name="lock_settings_profile_screen_lock_title">Pantalla de bloqueo del perfil de trabajo</string>
   <string name="lock_settings_profile_title">Seguridad del perfil de trabajo</string>
-  <string name="lock_settings_profile_unification_dialog_body">Puede utilizar el bloqueo del perfil de trabajo también para el bloqueo de pantalla. Si lo hace, las políticas del bloqueo de trabajo se aplicarán también a la pantall de bloqueo del dispositivo.</string>
+  <string name="lock_settings_profile_unification_dialog_body">Puede utilizar el bloqueo del perfil de trabajo también para el bloqueo de pantalla. Si lo hace, las políticas del bloqueo de trabajo se aplicarán también a la pantalla de bloqueo del dispositivo.</string>
   <string name="lock_settings_profile_unification_dialog_confirm">Cambiar bloqueo del dispositivo</string>
   <string name="lock_settings_profile_unification_dialog_title">¿Utilizar el mismo bloqueo?</string>
   <string name="lock_settings_profile_unification_dialog_uncompliant_body">"Su bloqueo del perfil de trabajo no cumple los requisitos de seguridad de su organización.
@@ -5035,7 +5035,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_assistant_setup">CONFIGURAR</string>
   <string name="wifi_assistant_title">Asistente de Wi‑Fi</string>
   <string name="wifi_assistant_title_message">El Asistente de Wi-FI de Google le conecta automáticamente a la mejor red Wi-Fi disponible</string>
-  <string name="wifi_assistant_vpn_message">Para ayudarle a proteger su datos, el Asistente de Wi-Fi de Google pue proporcionar una conexión VPN segura a través de los servidores de Google.</string>
+  <string name="wifi_assistant_vpn_message">Para ayudarle a proteger su datos, el Asistente de Wi-Fi de Google puede proporcionar una conexión VPN segura a través de los servidores de Google.</string>
   <string name="wifi_auto_connect">Conectar automáticamente</string>
   <string name="wifi_auto_connect_type_summary">Especifique el tipo de conexión de red</string>
   <string name="wifi_auto_connect_type_title">Tipo de autoconexión</string>
@@ -5257,7 +5257,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_select_assistant_dialog_title">Elige un asistente</string>
   <string name="wifi_select_network">Seleccione una red Wi-Fi</string>
-  <string name="wifi_set_priority_settings_summary">Pulse para selccionar la prioridad de cada punto de acceso</string>
+  <string name="wifi_set_priority_settings_summary">Pulse para seleccionar la prioridad de cada punto de acceso</string>
   <string name="wifi_set_priority_settings_title">Ajustes de prioridad del punto de acceso</string>
   <string name="wifi_setting_category">Redes disponibles</string>
   <string name="wifi_setting_connect_type_error">Hubo un problema estableciendo el tipo de conexión.</string>
@@ -5422,7 +5422,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifiap_settings_indication_step1">1. Activar la Wi-Fi en el PC/dispositivo móvil</string>
   <string name="wifiap_settings_indication_step2">2. Localizar “%s” in la lista de redes Wi-Fi.</string>
   <string name="wifiap_title">Punto de acceso Wi-Fi móvil</string>
-  <string name="wifiap_turn_on_hint">Para utilizar el punto de acceso Wi-Fí móvil, actívelo.</string>
+  <string name="wifiap_turn_on_hint">Para utilizar el punto de acceso Wi-Fi móvil, actívelo.</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Escala de animación de ventana</string>
   <string name="wireless_networks_settings_title">Conexiones inalámbricas y redes</string>

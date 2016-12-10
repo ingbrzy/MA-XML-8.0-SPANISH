@@ -200,7 +200,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="debug_layout_summary">Mostrar límites de clip, márgenes, etc.</string>
   <string name="debug_monitoring_category">Supervisión</string>
   <string name="debug_networking_category">Redes</string>
-  <string name="debug_view_attributes">Activarr inspección de atributos de vista</string>
+  <string name="debug_view_attributes">Activar inspección de atributos de vista</string>
   <string name="description_direction_left">Desliza a la izquierda para %s.</string>
   <string name="description_direction_up">Deslizar arriba para %s.</string>
   <string name="description_target_search">Buscar</string>
@@ -388,7 +388,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="screen_pinning_positive">Entendido</string>
   <string name="screen_pinning_title">Pantalla anclada</string>
   <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
-  <string name="screen_zoom_summary_extremely_large">Super grande</string>
+  <string name="screen_zoom_summary_extremely_large">Supergrande</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequeña</string>
   <string name="screen_zoom_summary_very_large">Más grande</string>
@@ -420,8 +420,8 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="settings_toggle_position_divider_page">%1$d accesos activos encima de la barra de tareas</string>
   <string name="settings_toggle_position_reset">Resetear accesos</string>
   <string name="share">Compartir</string>
-  <string name="show_all_anrs">Mostrar todos ANRs</string>
-  <string name="show_all_anrs_summary">Mostrar la aplicación no responde de diálogo para aplicaciones en segundo plano</string>
+  <string name="show_all_anrs">Mostrar todos los ANR</string>
+  <string name="show_all_anrs_summary">Mostrar el diálogo de Aplicación No Responde para aplicaciones en segundo plano</string>
   <string name="show_cpu_usage">Mostrar uso de la CPU</string>
   <string name="show_cpu_usage_summary">Superposición de pantalla que muestra el uso actual de la CPU</string>
   <string name="show_hw_layers_updates">Mostrar las actualizaciones de las capas de hardware</string>
@@ -468,10 +468,10 @@ Desliza hacia abajo para bloquear"</string>
   <string name="strict_mode">Modo estricto activado</string>
   <string name="strict_mode_summary">Pantalla Flash cuando las aplicaciones realizan operaciones largas en el hilo principal</string>
   <string name="task_access_locked_app_msg">Bloqueo de aplicación activado</string>
-  <string name="tether_settings_title_all">Tethering y; zona Wi-Fi</string>
+  <string name="tether_settings_title_all">Anclado y zona Wi-Fi</string>
   <string name="tether_settings_title_bluetooth">Conexión Bluetooth</string>
   <string name="tether_settings_title_usb">Conexión USB</string>
-  <string name="tether_settings_title_usb_bluetooth">Tethering</string>
+  <string name="tether_settings_title_usb_bluetooth">Anclado</string>
   <string name="tether_settings_title_wifi">Zona Wi-Fi</string>
   <string name="tethering_settings_not_available">Los ajustes de conexión no están disponibles para este usuario</string>
   <string name="title_convert_fbe">Conversión a cifrado basado en archivos</string>
@@ -550,8 +550,8 @@ Desliza hacia abajo para bloquear"</string>
   <string name="wait_for_debugger_summary">La aplicación depurada espera que el depurador se adjunte antes de ejecutar</string>
   <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Actualizado %1$s</string>
-  <string name="wifi_aggressive_handover">Wi-fi agresivo a la entrega movil</string>
-  <string name="wifi_aggressive_handover_summary">Cuando está activado, el Wi-Fi será más agresivo en la entrega de la conexión de datos a movil, cuando la señal Wi-Fi es baja</string>
+  <string name="wifi_aggressive_handover">Wi-fi agresivo a la entrega móvil</string>
+  <string name="wifi_aggressive_handover_summary">Cuando está activado, el Wi-Fi será más agresivo en la entrega de la conexión de datos a móvil, cuando la señal Wi-Fi es baja</string>
   <string name="wifi_allow_scan_with_traffic">Permitir siempre los escaneos Wi-fi con señal baja</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/inhabilitar exploraciones de itinerancia Wi-Fi basadas en la cantidad de tráfico de datos presente en la interfaz</string>
   <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
@@ -567,6 +567,6 @@ Desliza hacia abajo para bloquear"</string>
   <string name="wifi_remembered">Guardado</string>
   <string name="wifi_security_none">Ninguna</string>
   <string name="wifi_verbose_logging">Habilitar el registro detallado Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Aumentar el nivel de registro Wi-Fi, mostrar por SSID RSSI en Wi-Fi Picker</string>
+  <string name="wifi_verbose_logging_summary">Aumentar el nivel de registro Wi-Fi, mostrar el RSSI por SSID en el selector de Wi-Fi</string>
   <string name="window_animation_scale_title">Escala de animación de ventanas</string>
 </resources>
