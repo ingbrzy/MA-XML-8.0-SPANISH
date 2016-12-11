@@ -5,41 +5,10 @@
         <item>Conecte manualmente</item>
         <item>Pregunta siempre</item>
     </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>Preferir Wi-Fi</item>
-        <item>Preferir Móvil</item>
-        <item>Solo Wi-Fi</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>Preferir Wi-Fi</item>
-        <item>Preferir Móvil</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nunca utilice la comprobación de HDCP</item>
         <item>Utilice HDCP para comprobar solo el contenido DRM</item>
         <item>Utilice siempre la comprobación de HDCP</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Apagado</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Apagado</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Apagado</item>
-        <item>64K por buffer de registro</item>
-        <item>256K por buffer de registro</item>
-        <item>1M por buffer de registro</item>
-        <item>4M por buffer de registro</item>
-        <item>16M por buffer de registro</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animación apagado</item>
