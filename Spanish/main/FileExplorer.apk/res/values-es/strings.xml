@@ -119,6 +119,7 @@
   <string name="copy_failed">No se pudo copiar, parece que el almacenamiento está lleno</string>
   <string name="copy_text">Copiar texto</string>
   <string name="copy_to">Copiar a…</string>
+  <string name="count_down">Cuenta atrás: %1$s</string>
   <string name="create_shortcut_success">Acceso directo creado correctamente</string>
   <string name="data_consumption_cancel">Salir</string>
   <string name="data_consumption_checkbox_hint">No mostrar de nuevo</string>
@@ -137,10 +138,11 @@
   <string name="decompress_title">Extraer</string>
   <string name="decompress_to">Extraer archivos en…</string>
   <string name="decompress_to_here">Extraer aquí</string>
-  <string name="decrypt">Quitar</string>
+  <string name="decrypt">Mostrar</string>
   <string name="decrypt_error">No se pudo descifrar</string>
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">Desencriptando…</string>
+  <string name="default_prize_text">¡Eso va directamente a mi tesoro!</string>
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_error">Fallo al borrar archivos, trate de nuevo</string>
   <string name="delete_file">¿Eliminar este archivo?</string>
@@ -221,6 +223,7 @@
   <string name="ftp_transfer_secure">Seguridad</string>
   <string name="ftp_username_and_passworld">Iniciar sesión</string>
   <string name="ftp_username_hint">Nombre de usuario</string>
+  <string name="full_gems">Intercambia tus gemas</string>
   <string name="gbk_summary">Codificación predeterminada de Chino tradicional de Windows</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"No se pudo obtener información acerca de esta persona"</string>
@@ -363,6 +366,8 @@
   <string name="one_account_bind_needed">Añada al menos una cuenta</string>
   <string name="online_not_support">No se puede ver este archivo online por el momento.</string>
   <string name="open_app">Abrir</string>
+  <string name="open_chest">Abrir para conseguir un regalo</string>
+  <string name="open_chest_failed">No se pudo abrir, compruebe sus ajustes de red e inténtelo otra vez</string>
   <string name="open_private_folder">Creando una carpeta oculta</string>
   <string name="operation_add_fav">Añadiendo a favoritos…</string>
   <string name="operation_cancel">Cancelar</string>
@@ -455,6 +460,8 @@
   <string name="private_folder_update">Actualizando archivos ocultos…</string>
   <string name="private_toast_hint2">Para ocultar un archivo, pulsa y mantén, después añádelo a una carpeta oculta.</string>
   <string name="private_toast_hint3">Deslice para abrir las carpetas ocultas</string>
+  <string name="prize_result_tip">Intercambiar</string>
+  <string name="prize_result_tip2">Las gemas van a su tesoro</string>
   <string name="promot_enctypt_password">Introduzca la contraseña utilizada para desbloquear tu dispositivo o apagar el Modo niño</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>

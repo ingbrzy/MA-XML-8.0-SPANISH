@@ -284,4 +284,16 @@
          <item quantity="other">Obtener %1$d seguidores más para actualizar tu estado</item>
          <item quantity="one">Obtener %1$d seguidor más para actualizar tu estado</item>
     </plurals>
+    <plurals name="video_like_num">
+        <item quantity="other">%1$s me gusta</item>
+        <item quantity="one">%1$s me gusta</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s gemas</item>
+        <item quantity="one">%1$s gema</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Coleccione &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> gemas más para participar el el sorteo</item>
+        <item quantity="one">Coleccione &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> gema más para participar en el sorteo</item>
+    </plurals>
 </resources>
