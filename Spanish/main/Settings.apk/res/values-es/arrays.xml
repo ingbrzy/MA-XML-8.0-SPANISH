@@ -601,8 +601,15 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Ninguno</item>
-        <item>Modo de movimiento rápido(seleccionar en la cámara)</item>
+        <item>Modo de movimiento rápido(Tomar foto)</item>
+        <item>Modo de movimiento rápido (Tomar pelicula)</item>
         <item>Atajos de transporte público</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action_value">
+        <item>ninguno</item>
+        <item>Street-snap-picture</item>
+        <item>Street-snap-movie</item>
+        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
