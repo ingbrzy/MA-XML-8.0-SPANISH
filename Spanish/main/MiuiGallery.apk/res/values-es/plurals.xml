@@ -81,16 +81,16 @@
         <item quantity="one">Se ha omitido una foto que no se ha podido mostrar.</item>
     </plurals>
   <plurals name="local_space_full">
-        <item quantity="other">"No se puede copiar %1$d elementos"</item>
-        <item quantity="one">"No se puede copiar %1$d elemento"</item>
+        <item quantity="other">Almacenamiento local insuficiente. %1$d elementos están a la espera de una copia de seguridad.</item>
+        <item quantity="one">Almacenamiento local insuficiente. %1$d elemento está a la espera de una copia de seguridad.</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Error de red. %1$d elementos esperando a ser respaldados</item>
-        <item quantity="one">Error de red. %1$d elemento esperando a ser respaldado</item>
+        <item quantity="other">Error de red. %1$d elementos esperando a ser respaldados.</item>
+        <item quantity="one">Error de red. %1$d elemento esperando a ser respaldado.</item>
     </plurals>
   <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d elementos a la espera de ser respaldados</item>
-        <item quantity="one">1 elemento a la espera de ser respaldado</item>
+        <item quantity="other">%1$d elementos que esperan una copia de seguridad</item>
+        <item quantity="one">1 elemento que espera una copia de seguridad</item>
     </plurals>
   <plurals name="number_of_images_synced">
          <item quantity="other">%1$d fotos</item>
@@ -161,7 +161,7 @@
         <item quantity="one">Total %d foto</item>
     </plurals>
   <plurals name="sync_off">
-        <item quantity="other">Sincronización desactivada. %1$d elementos esperando a ser respaldados</item>
-        <item quantity="one">Sincronización desactivada. %1$d elemento esperando a ser respaldado</item>
+        <item quantity="other">Sincronización desactivada. %1$d elementos esperando a ser respaldados.</item>
+        <item quantity="one">Sincronización desactivada. %1$d elemento esperando a ser respaldado.</item>
     </plurals>
 </resources>
