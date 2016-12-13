@@ -1398,7 +1398,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="sp_settings_check_item_title_virus_exception">Excepciones de virus</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Sin elementos</string>
-  <string name="sp_settings_group_title_check_item">Comprobar múltiples ajustes</string>
+  <string name="sp_settings_group_title_check_item">Múltiples elementos</string>
   <string name="sp_settings_group_title_ime">Configuración de IME seguras</string>
   <string name="sp_settings_group_title_omit">Elementos omitidos</string>
   <string name="sp_settings_info_input_method">Utilizando el método de entrada del sistema en aplicaciones de pago</string>
@@ -1615,8 +1615,8 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_virus_update_yes">Actualización de definiciones de virus activada</string>
   <string name="title_virus_yes">No se encontraron virus</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
-  <string name="toast_add_virus_white_list_no_need_repeat">!La excepción de virus ya existe!</string>
-  <string name="toast_add_virus_white_list_success">Añadido a excepciones. Ver los elementos en ajustes.</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">Esta excepción ya existe</string>
+  <string name="toast_add_virus_white_list_success">Añadido a excepciones. Ver los elementos ajustes de seguridad.</string>
   <string name="toast_auto_traffic_correct">El uso de datos se ajustara automáticamente</string>
   <string name="toast_cleaner_cloudscan">El limpiador usará definiciones en línea</string>
   <string name="toast_default_app">%1$s establecen como sistema predeterminado %2$s</string>
@@ -1736,7 +1736,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="virus_update_fail">"No se pudo actualizar"</string>
   <string name="virus_update_success">Actualizado correctamente</string>
   <string name="virus_update_tips_title">Conectar a Wi-Fi</string>
-  <string name="virus_wait_network_dialog_message">Las actualizaciones son grandes. Conéctese a Wi-Fi para descargarlas</string>
+  <string name="virus_wait_network_dialog_message">Las actualizaciones son grandes. Conéctese a Wi-Fi para descargarlas.</string>
   <string name="wakepath_confirm_start_activity">¿Permite a %1$s abrir %2$s?</string>
   <string name="warning_open_mi_sim">Activar Mi SIM</string>
   <string name="white_list_risk_app_header">Aplicaciones peligrosas: %d</string>
