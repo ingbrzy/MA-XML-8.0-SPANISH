@@ -529,9 +529,10 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="block_list_connected_devices">Dispositivos conectados</string>
   <string name="block_list_diaglog_cancle">Cancelar</string>
   <string name="block_list_diaglog_ok">Aceptar</string>
-  <string name="block_list_dialog_content">Esta acción desconectará a “%s” desde este dispositivo y lo agregara a la lista de bloqueo</string>
   <string name="block_list_dialog_title">¿Desconectar ahora?</string>
+  <string name="block_list_mtk_dialog_content">Esta acción desconectará a “%s” desde este dispositivo </string>
   <string name="block_list_no_device">No hay dispositivos conectados en la lista de bloqueo</string>
+  <string name="block_list_qcom_dialog_content">Esta acción desconectará a “%s” desde este dispositivo y lo agregara a la lista de bloqueo</string>
   <string name="block_list_remove_dialog_content">Este dispositivo “%s” será capaz de conectarse a este punto de acceso</string>
   <string name="block_list_remove_dialog_title">Eliminar a “%s” de la lista de bloqueo</string>
   <string name="block_list_summary">Ver dispositivos que no están autorizados a conectarse a este punto de acceso</string>
