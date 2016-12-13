@@ -217,6 +217,9 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="disabled_by_admin">Deshabilitado por el administrador</string>
   <string name="disabled_by_admin_summary_text">Controlado por administrador</string>
   <string name="dismount_storage">No</string>
+  <string name="divider_menu_close">cerrar</string>
+  <string name="divider_menu_select_apps">seleccionar</string> 
+  <string name="divider_menu_swap_task">intercambiar</string> 
   <string name="dlg_confirm_kill_storage_users_text">Si activa el almacenamiento USB, algunas apps que estás usando se detendrán y quedarán como no disponibles hasta que desactives el almacenamiento USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar almacenamiento USB</string>
   <string name="dlg_error_title">Acción de USB fallida</string>
@@ -311,9 +314,11 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="nav_guide_ok">Establecer</string>
   <string name="nav_guide_title">Ocultar botones programables</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">No hay soporte para varias ventanas</string> 
   <string name="no_application">Nada</string>
   <string name="no_notification_tips">No hay notificaciones.</string>
   <string name="no_weather_description">Obtener información del clima &gt;</string>
+  <string name="not_support_multi_window">"La aplicación actual no admite ventanas múltiples"</string> 
   <string name="notification_header_title">Notificaciones</string>
   <string name="notification_hidden_text">Contenido oculto</string>
   <string name="notification_manager">Administrar notificaciones</string>
