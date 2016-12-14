@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_action_divider_bottom_full">Fondo de pantalla completa</string>
+  <string name="accessibility_action_divider_left_30">Izquierda 30%</string>
+  <string name="accessibility_action_divider_left_50">Izquierda 50%</string>
+  <string name="accessibility_action_divider_left_70">Izquierda 70%</string>
+  <string name="accessibility_action_divider_left_full">Pantalla completa a la izquierda</string>
+  <string name="accessibility_action_divider_right_full">Pantalla completa a la derecha</string>
+  <string name="accessibility_action_divider_top_30">Arriba 30%</string>
+  <string name="accessibility_action_divider_top_50">Arriba 50%</string>
+  <string name="accessibility_action_divider_top_70">Arriba 70%</string>
+  <string name="accessibility_action_divider_top_full">Pantalla completa arriba</string>
   <string name="accessibility_airplane_mode">Modo avión</string>
   <string name="accessibility_assistant">Asistente táctil</string>
   <string name="accessibility_back">Atrás</string>
@@ -217,13 +227,15 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="disabled_by_admin">Deshabilitado por el administrador</string>
   <string name="disabled_by_admin_summary_text">Controlado por administrador</string>
   <string name="dismount_storage">No</string>
-  <string name="divider_menu_close">cerrar</string>
-  <string name="divider_menu_select_apps">seleccionar</string> 
-  <string name="divider_menu_swap_task">intercambiar</string> 
+  <string name="divider_menu_close">Cerrar</string>
+  <string name="divider_menu_select_apps">Seleccionar</string> 
+  <string name="divider_menu_swap_task">Intercambiar</string> 
   <string name="dlg_confirm_kill_storage_users_text">Si activa el almacenamiento USB, algunas apps que estás usando se detendrán y quedarán como no disponibles hasta que desactives el almacenamiento USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar almacenamiento USB</string>
   <string name="dlg_error_title">Acción de USB fallida</string>
   <string name="dlg_ok">Aceptar</string>
+  <string name="dock_forced_resizable">La aplicación no puede funcionar con pantalla dividida.</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">La aplicación no es compatible con la pantalla dividida.</string>
   <string name="drive_mode_tip">Está en modo Automóvil</string>
   <string name="enable_power_save_mode">Activar el ahorro de batería</string>
   <string name="expanded_confirm_disable_notification">Ocultar</string>
@@ -313,12 +325,12 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="nav_guide_message">Usa gestos para ocultar/mostrar botones de función.</string>
   <string name="nav_guide_ok">Establecer</string>
   <string name="nav_guide_title">Ocultar botones programables</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">No hay soporte para varias ventanas</string> 
+  <string name="network_speed_suffix">%1$s%2$s</string> 
   <string name="no_application">Nada</string>
+  <string name="no_multi_window_app">Todavía no hay aplicaciones que pueden trabajar en el modo de pantalla dividida</string>
   <string name="no_notification_tips">No hay notificaciones.</string>
   <string name="no_weather_description">Obtener información del clima &gt;</string>
-  <string name="not_support_multi_window">"La aplicación actual no admite ventanas múltiples"</string> 
+  <string name="not_support_multi_window">"La aplicación actual no admite modo de pantalla dividida"</string> 
   <string name="notification_header_title">Notificaciones</string>
   <string name="notification_hidden_text">Contenido oculto</string>
   <string name="notification_manager">Administrar notificaciones</string>
@@ -377,6 +389,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="recent_task_app_info_text">Info.</string>
   <string name="recent_task_lock_text">Bloq.</string>
   <string name="recent_task_unlock_text">Desb.</string>
+  <string name="recents_launch_error_message">%s no se pudo iniciar.</string>
   <string name="reject_call">Rechazando llamada</string>
   <string name="remaining_length_format">%1$s restante</string>
   <string name="return_to_incall_screen">Volver a la llamada</string>
