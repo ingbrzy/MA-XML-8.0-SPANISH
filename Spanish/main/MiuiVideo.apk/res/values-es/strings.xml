@@ -601,7 +601,6 @@
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Pantalla completa</string>
   <string name="vp_function">Ajustes</string>
-  <string name="vp_get_url_error">"No se puede encontrar URL para este vídeo."</string>
   <string name="vp_hide_media_info">Ocultar información de vídeo</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Atención</string>
@@ -655,15 +654,17 @@
   <string name="vp_select_video_source">Seleccionar fuente</string>
   <string name="vp_skip">Saltar introducción y créditos</string>
   <string name="vp_standard_definition">SD</string>
+  <string name="vp_start_error_msg">"Esto no puede reproducir el video"</string>
   <string name="vp_super_definition">Súper</string>
   <string name="vp_toast_downloadapk">Descargando…</string>
   <string name="vp_unknown_source">Fuente desconocida</string>
   <string name="vp_using_16_9">Forzar 16:9</string>
   <string name="vp_using_4_3">Forzar 4:3</string>
   <string name="vp_video_bad_network_condition">Mala conectividad de red, inténtelo más tarde</string>
+  <string name="vp_video_create_video_error_info">Error de inicio del reproductor de vídeo, Por favor, intente de nuevo más tarde.</string>
   <string name="vp_video_invalid_cp_info">Información inválida del proveedor de video, por favor reinicie la aplicación</string>
-  <string name="vp_video_loading"><CDATA>Cargando...</CDATA></string>
-  <string name="vp_video_plugin_installation">Instalando plugin %1$s para una mejor calidad de imagen...</string>
+  <string name="vp_video_loading"><CDATA>Cargando…</CDATA></string>
+  <string name="vp_video_plugin_installation">Instalando plugin %1$s para una mejor calidad de imagen…</string>
   <string name="waiting_to_download">Esperando</string>
   <string name="wasu">Wasu</string>
   <string name="write_comment">Añadir comentario</string>
