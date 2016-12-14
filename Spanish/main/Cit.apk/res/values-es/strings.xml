@@ -36,6 +36,11 @@ Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"
   <string name="cit_audio_lb_topmic_to_speaker_title">Prueba de retroalimentación, micrófono superior</string>
   <string name="cit_audio_loopback_next">Siguiente</string>
   <string name="cit_audio_loopback_previous">Anterior</string>
+  <string name="cit_audio_right_caldata">"Datos Calibrados del PA:
+ "</string>
+  <string name="cit_audio_right_calfail">¡No se ha podido calibrar el PA!</string>
+  <string name="cit_battery_check_summary">Estadísticas de la batería del dispositivo</string>
+  <string name="cit_battery_check_title">Información de la batería</string>
   <string name="cit_battery_temp_fail">Temperatura de la batería no es normal (valor = %d)</string>
   <string name="cit_battery_temp_pass">Temperatura de la batería es normal</string>
   <string name="cit_batterylight_blue">Azul</string>
@@ -72,6 +77,9 @@ Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"
   <string name="cit_exit_test_summary">Cuando sale, se borrarán todos los datos de texto relacionado.</string>
   <string name="cit_exit_test_title">Salir de la prueba</string>
   <string name="cit_fail">Falló</string>
+  <string name="cit_finger_check_title">Prueba de huellas dactilares(FPC)</string>
+  <string name="cit_flash_life_check_summary">Estimación del tiempo de vida del flash del dispositivo</string>
++  <string name="cit_flash_life_check_title">Vida de flash/string>
   <string name="cit_fm_audio_path">Configurar ruta de audio</string>
   <string name="cit_fm_audio_path_headset">Auriculares</string>
   <string name="cit_fm_audio_path_speaker">Altavoz</string>
