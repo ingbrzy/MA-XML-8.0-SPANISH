@@ -19,11 +19,15 @@
   <string name="cit_audio_cali_title">Prueba de calibración del altavoz PA</string>
   <string name="cit_audio_calibrating">Calibración en curso...</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Prueba de retroalimentación del micrófono posterior</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Prueba de retroalimentación del micrófono delantero</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Prueba de retroalimentación del micrófono principal</string>
   <string name="cit_audio_lb_phonecall_title">Simulación llamada de prueba</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Prueba de retroalimentación del micrófono posterior.
 
 Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Prueba de retroalimentación del micrófono frontal. 
+
+Hablar con el micrófono delantero, debería escuchar la voz en el altavoz"</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prueba de retroalimentación del micrófono principal.
 
 Sostenga el teléfono como si usted estuviera haciendo una llamada, hable por el micrófono principal, oirá la voz con eco"</string>
@@ -87,10 +91,14 @@ Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"
   <string name="cit_fm_check_title">Radio FM</string>
   <string name="cit_fm_close">Cerrar FM</string>
   <string name="cit_fm_not_supported">Este dispositivo no admite FM</string>
-  <string name="cit_fm_open_1">Start FM - 88.2</string>
+  <string name="cit_fm_open_1">Inicio FM - 88.2</string>
   <string name="cit_fm_open_2">Inicio FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Abriendo Bluetooth…</string>
   <string name="cit_fm_start_service">Iniciar audio</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="cit_fpc_selftest">AUTOTEST</string>
+  <string name="cit_fpc_sensor_check_summary">Prueba del sensor FPC, presione el botón y espere a que la información del pase resaltada en verde sea correcta.</string>
+  <string name="cit_fpc_sensor_check_title">Sensor de huellas dactilares FPC</string>
   <string name="cit_front_camera_check_summary">"Instrucciones de la prueba:
  \u0009\u0009
 1.Toca el botón de cámara de abajo para entrar en la interfaz de cámara frontal.
