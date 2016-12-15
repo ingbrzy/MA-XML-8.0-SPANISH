@@ -951,7 +951,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_btn_analyze">Analizar el uso de la batería</string>
   <string name="power_button_delete">Borrar</string>
   <string name="power_cell">Antena activada</string>
-  <string name="power_center_auto_shutdown">Calendario de encendido/apagado</string>
+  <string name="power_center_auto_shutdown">Programar encendido/apagado</string>
   <string name="power_center_battery_full">"Batería cargada "</string>
   <string name="power_center_charge_time">%1$s para terminar</string>
   <string name="power_center_consume_rank">Consumo de batería</string>
@@ -961,13 +961,13 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_center_low_battery_title">Ahorro de batería</string>
   <string name="power_center_on_time_summary_dynamic">%1$s - %2$s cambiar a %3$s</string>
   <string name="power_center_on_time_title">Programar cambio de perfil</string>
-  <string name="power_center_ontime_boot">Activación programada</string>
-  <string name="power_center_ontime_shutdown">Apagado programado</string>
+  <string name="power_center_ontime_boot">Tiempo de encendido</string>
+  <string name="power_center_ontime_shutdown">Tiempo de apagado</string>
   <string name="power_center_repeat">Repetir</string>
   <string name="power_center_state_off">Apagado</string>
   <string name="power_center_state_on">Encendido</string>
-  <string name="power_center_time_to_boot">Activación programada</string>
-  <string name="power_center_time_to_shutdown">Apagado programado</string>
+  <string name="power_center_time_to_boot">Tiempo de encendido</string>
+  <string name="power_center_time_to_shutdown">Tiempo de apagado</string>
   <string name="power_center_title">Gestión de la batería</string>
   <string name="power_chooser_check_box_summary">Seleccionar un perfil para mejorar la duración de la batería</string>
   <string name="power_chooser_check_box_title">Seleccionar perfil</string>
