@@ -58,9 +58,9 @@ Sostenga el teléfono como si hiciera una llamada y hable al micrófono principa
 
 Gire el teléfono, hable al micrófono, debería escuchar su voz por el altavoz"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Prueba de retroalimentación, micrófono superior</string>
-  <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
+  <string name="cit_audio_left_caldata">"Datos calibrados PA izquierdo:
 "</string>
-  <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
+  <string name="cit_audio_left_calfail">¡La PA izquierda calibrada falló!</string>
   <string name="cit_audio_loopback_check_one_title">Prueba de retroalimentación micrófono principal auricular</string>
   <string name="cit_audio_loopback_check_summary_first">"Prueba de retroalimentación micrófono principal auricular
 
@@ -99,8 +99,8 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_bluetooth_scanning_bluetooth_done">Hecho. No buscar dispositivos Bluetooth cercanos.</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Se ha producido un error mientras se buscaban dispositivos Bluetooth.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Abriendo dispositivo Bluetooth…</string>
-  <string name="cit_build_finger_failed">build fingerprint FAILED</string>
-  <string name="cit_build_finger_passed">build fingerprint PASSED</string>
+  <string name="cit_build_finger_failed">construir huella digital FALLIDA</string>
+  <string name="cit_build_finger_passed">construir huella digital Pasó</string>
   <string name="cit_button_light_off">Luz de los botones apagada</string>
   <string name="cit_button_light_on">Luz de los botones encendida</string>
   <string name="cit_calibration_fail">Error de calibración</string>
@@ -119,7 +119,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_exit_test_summary">Cuando sale, se borrarán todos los datos de texto relacionado.</string>
   <string name="cit_exit_test_title">Salir de la prueba</string>
   <string name="cit_fail">Falló</string>
-  <string name="cit_finger_check_title">Prueba de huellas dactilares(FPC)</string>
+  <string name="cit_finger_check_title">Prueba de huellas dactilares (FPC)</string>
   <string name="cit_flash_life_check_summary">Estimación del tiempo de vida del flash del dispositivo</string>
   <string name="cit_flash_life_check_title">Vida del flash</string>
   <string name="cit_fm_audio_path">Configurar ruta de audio</string>
@@ -133,7 +133,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_fm_open_2">Inicio FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Abriendo Bluetooth…</string>
   <string name="cit_fm_start_service">Iniciar audio</string>
-  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="cit_fpc_checkerboard_test">PRUEBA de Tablero de control</string>
   <string name="cit_fpc_selftest">AUTOTEST</string>
   <string name="cit_fpc_sensor_check_summary">Prueba del sensor FPC, presione el botón y espere a que la información del pase resaltada en verde sea correcta.</string>
   <string name="cit_fpc_sensor_check_title">Sensor de huellas dactilares FPC</string>
@@ -144,7 +144,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
 3.Toca el icono de Prueba. El sistema guardará la foto automáticamente.
 4.La foto que tomaste debería mostrarse debajo. Toca Eliminar para completar la prueba."</string>
   <string name="cit_front_camera_check_title">Cámara frontal</string>
-  <string name="cit_get_signature_failed">get signature FAILED</string>
+  <string name="cit_get_signature_failed">obtener firma FALLIDA</string>
   <string name="cit_gps_check_summary">La correspondiente información GPS debe ser exhibida por debajo.</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">GPS no se ha iniciado toque la pantalla para iniciar el GPS…</string>
@@ -224,8 +224,8 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_proximity_sensor_check_title">Sensor de proximidad</string>
   <string name="cit_rear_dual_camera_check_title">Cámara dual posterior</string>
   <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
-  <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
-  <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
+  <string name="cit_recovery_signature_failed">firma de recuperación FALLO</string>
+  <string name="cit_recovery_signature_passed">firma de recuperación PASÓ</string>
   <string name="cit_reset_check_summary">Esta prueba reiniciará el dispositivo. Se perderán todos los datos de prueba anterior.</string>
   <string name="cit_reset_check_title">Prueba de reiniciar</string>
   <string name="cit_reset_test">Prueba</string>
@@ -273,7 +273,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_tool_bluetooth_tx_l">Entrar en test（2.402GHz）mode sonido único bluetooth</string>
   <string name="cit_tool_cal_camera">Herramienta de calibración de cámara</string>
   <string name="cit_tool_enable_3A_log">Activar registro 3A interruptor</string>
-  <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>
+  <string name="cit_tool_enable_display_3A_log">Habilitar registro de 3A de visualización</string>
   <string name="cit_tool_log">Obtener registros</string>
   <string name="cit_tool_log_bugreport">Informe de fallo</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -359,34 +359,34 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_wifi_address_check_title">Dirección Wi-Fi</string>
   <string name="cit_wifi_address_error">No pudo recibir una dirección Wi-Fi. Asegúrese de que está activada la señal Wi-Fi.</string>
   <string name="cit_wifi_ap_scan_check_summary">Abajo se encuentra la información de los dispositivos en el área que se detectaron la AP Wi-Fi. Confirmar que es correcta la información resaltada en verde.</string>
-  <string name="cit_wifi_ap_scan_check_title">Wi-Fi AP Scan</string>
+  <string name="cit_wifi_ap_scan_check_title">Escaneo de AP de Wi-Fi</string>
   <string name="cit_wifi_ap_scan_retry">Escaneando otra vez…</string>
   <string name="cit_wifi_ap_scanning">Escaneando…</string>
   <string name="cit_wifi_fail_to_scan">No se podía buscar redes</string>
   <string name="cit_wifi_state_refresh">Actualizar</string>
-  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
-  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Prueba de retroalimentación del altavoz del micrófono delantero</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Prueba de retroalimentación del micrófono frontal.
 
-Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+Gire el teléfono, hable al micrófono en la posición del receptor, usted debe oír la voz en el altavoz"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Prueba de retroalimentación de micrófono a altavoz.
 
-Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+Gire el teléfono, hable al micrófono superior, usted debe oír la voz en el altavoz"</string>
   <string name="cit_yellow_torch_on">Encender luz de flash amarilla</string>
   <string name="error_app_internal">Internal application error</string>
   <string name="error_app_unsupported">Formato no soportado</string>
-  <string name="error_sdcard_access">Unable to access system space!</string>
-  <string name="keyboard">KEY</string>
-  <string name="lcminfo">LCM information</string>
+  <string name="error_sdcard_access">¡No se puede acceder al espacio del sistema!</string>
+  <string name="keyboard">TECLA</string>
+  <string name="lcminfo">Información de LCM</string>
   <string name="magnetic_info_hint">Por favor, rotar el dispositivo haciendo la forma de un ocho</string>
-  <string name="mic1_spk_loop">Mic speak Loop</string>
+  <string name="mic1_spk_loop">Micrófono</string>
   <string name="mic1test">MIC1</string>
-  <string name="micphone_test">MIC＆ SPK</string>
+  <string name="micphone_test">MIC Y SPK</string>
   <string name="remove_headset_and_starttest">Por favor quite los auriculares y presione empezar para probar</string>
-  <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
+  <string name="speak_from_mic">Hablando con el MIC, la reproducción del altavoz. Juzga si hay sonido.</string>
   <string name="start">Empezar</string>
-  <string name="testagain">You can Press key HOME to test again</string>
-  <string name="testing">AutoTest Running...</string>
-  <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
+  <string name="testagain">Puede Pulsar la tecla HOME para volver a probar</string>
+  <string name="testing">Ejecución automática de prueba...</string>
+  <string name="touch_auto">Prueba automática del panel táctil en curso, espere....</string>
   <string name="tp_color">TP Color:</string>
   <string name="tp_version">TP Version:</string>
   <string name="waiting">Esperando durante 4s.</string>
