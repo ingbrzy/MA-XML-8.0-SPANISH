@@ -39,7 +39,7 @@
   <string name="allow_mock_location_summary">Permitir localizaciones simuladas</string>
   <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
 
-¿Quieres permitirlo ahora y en el futuro?"</string>
+¿Quiere permitirlo ahora y en el futuro?"</string>
   <string name="allow_source_dlg_title">Nueva fuente de aplicaciones</string>
   <string name="animator_duration_scale_title">Escala duración animador</string>
   <string name="apn_settings_not_available">Los ajustes de Nombre de Punto de Acceso (APN) no están disponibles para este usuario</string>
@@ -199,7 +199,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="force_resizable_activities_summary">Hacer a todas las actividades redimensionables para multiventana, independientemente de los valores del manifiesto</string>
   <string name="force_rtl_layout_all_locales">Forzar dirección diseño RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Forzar dirección diseño en pantalla a RTL para todas las configuraciones</string>
-  <string name="grant_confirm_question">¿Quieres conceder los siguientes permisos? Podrá acceder a:</string>
+  <string name="grant_confirm_question">¿Quiere conceder los siguientes permisos? Podrá acceder a:</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_deny">Rechazar</string>
   <string name="grant_dialog_button_deny_anyway">Denegar de todos modos</string>
@@ -213,12 +213,12 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="inactive_app_inactive_summary">Inactivo. Toque para conmutar.</string>
   <string name="inactive_apps_title">Aplicaciones inactivas</string>
   <string name="install">Instalar</string>
-  <string name="install_confirm_question">¿Quieres instalar esta aplicación? Tendrá los siguientes permisos:</string>
-  <string name="install_confirm_question_no_perms">¿Quieres instalar esta aplicación? No requiere accesos especiales.</string>
-  <string name="install_confirm_question_update">¿Quieres instalar una actualización de la aplicación? Tus datos no se perderán. La aplicación actualizada podrá acceder a:</string>
-  <string name="install_confirm_question_update_no_perms">¿Quieres instalar una actualización de esta aplicación? Tus datos no se perderán. No requiere ningún acceso especial.</string>
-  <string name="install_confirm_question_update_system">¿Quieres instalar una actualización de esta aplicación integrada? Tus datos no se perderán. La aplicación actualizada podrá acceder a:</string>
-  <string name="install_confirm_question_update_system_no_perms">¿Quieres instalar una actualización de esta aplicación integrada? Tus datos no se perderán. No requiere ningún acceso especial.</string>
+  <string name="install_confirm_question">¿Quiere instalar esta aplicación? Tendrá los siguientes permisos:</string>
+  <string name="install_confirm_question_no_perms">¿Quiere instalar esta aplicación? No requiere accesos especiales.</string>
+  <string name="install_confirm_question_update">¿Quiere instalar una actualización de la aplicación? Tus datos no se perderán. La aplicación actualizada podrá acceder a:</string>
+  <string name="install_confirm_question_update_no_perms">¿Quiere instalar una actualización de esta aplicación? Tus datos no se perderán. No requiere ningún acceso especial.</string>
+  <string name="install_confirm_question_update_system">¿Quiere instalar una actualización de esta aplicación integrada? Tus datos no se perderán. La aplicación actualizada podrá acceder a:</string>
+  <string name="install_confirm_question_update_system_no_perms">¿Quiere instalar una actualización de esta aplicación integrada? Tus datos no se perderán. No requiere ningún acceso especial.</string>
   <string name="install_done">Aplicación instalada</string>
   <string name="install_failed">Aplicación no instalada</string>
   <string name="install_failed_blocked">La instalación del paquete fue bloqueada.</string>
@@ -291,7 +291,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="media_category">Multimedia</string>
   <string name="menu_hide_system">Ocultar aplicaciones del sistema</string>
   <string name="menu_show_system">Mostrar aplicaciones del sistema</string>
-  <string name="message_appstore_verify_has_new_version">Una nueva versión de esta aplicación está disponible en nuestra App Store. ¿Quieres instalarla?</string>
+  <string name="message_appstore_verify_has_new_version">Una nueva versión de esta aplicación está disponible en nuestra App Store. ¿Quiere instalarla?</string>
   <string name="message_appstore_verify_inconsistent">La firma de esta aplicación es diferente a la de nuestra App Store, será más seguro instalarla desde allí.</string>
   <string name="message_appstore_verify_ok">La versión de esta aplicación en nuestra App Store ha pasado nuestros tests de seguridad, te recomendamos que la instales desde allí.</string>
   <string name="message_full_scanning">Escaneo completo…</string>
@@ -416,7 +416,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="transition_animation_scale_title">Escala de transición-animación</string>
   <string name="tts_engine_network_required">Este idioma requiere una conexión de red activa para la salida de síntesis de voz.</string>
   <string name="tts_engine_preference_section_title">Motor preferido</string>
-  <string name="tts_engine_security_warning">Es posible que este motor de síntesis de voz recopile todo el texto hablado, incluidos datos personales, como contraseñas y números de tarjeta de crédito. Procede del motor %s. ¿Quieres habilitar el uso de este motor de síntesis de voz?</string>
+  <string name="tts_engine_security_warning">Es posible que este motor de síntesis de voz recopile todo el texto hablado, incluidos datos personales, como contraseñas y números de tarjeta de crédito. Procede del motor %s. ¿Quiere habilitar el uso de este motor de síntesis de voz?</string>
   <string name="tts_engine_settings_button">Iniciar configuración de motor</string>
   <string name="tts_engine_settings_section">Configuración del motor</string>
   <string name="tts_engine_settings_title">Ajustes de %s</string>
@@ -440,9 +440,9 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="tts_status_title">Estado del idioma predeterminado</string>
   <string name="uninstall_activity_text">%1$s forma parte de esta aplicación:</string>
   <string name="uninstall_all_blocked_profile_owner">Esta aplicación es requerida por algunos usuarios o perfiles y fue desinstalada por otros</string>
-  <string name="uninstall_application_text">¿Quieres desinstalar esta aplicación?</string>
-  <string name="uninstall_application_text_all_users">¿Quieres desinstalar esta aplicación para &amp;ltb&amp;gttodos&amp;lt/b&amp;gt los usuarios? La aplicaci&amp;#243;n y sus datos se eliminar&amp;#225;n de &amp;ltb&amp;gttodos&amp;lt/b&amp;gt los usuarios del dispositivo.</string>
-  <string name="uninstall_application_text_user">¿Quieres desinstalar esta aplicación para el usuario %1$s?</string>
+  <string name="uninstall_application_text">¿Quiere desinstalar esta aplicación?</string>
+  <string name="uninstall_application_text_all_users">¿Quiere desinstalar esta aplicación para &amp;ltb&amp;gttodos&amp;lt/b&amp;gt los usuarios? La aplicaci&amp;#243;n y sus datos se eliminar&amp;#225;n de &amp;ltb&amp;gttodos&amp;lt/b&amp;gt los usuarios del dispositivo.</string>
+  <string name="uninstall_application_text_user">¿Quiere desinstalar esta aplicación para el usuario %1$s?</string>
   <string name="uninstall_application_title">Desinstalar aplicación</string>
   <string name="uninstall_blocked_device_owner">Esta aplicación es necesaria para el administrador de tu dispositivo y no se puede desinstalar.</string>
   <string name="uninstall_blocked_profile_owner">Esta aplicación es necesaria para tu perfil de trabajo y no se puede desinstalar.</string>
@@ -453,7 +453,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="uninstall_failed_device_policy_manager_of_user">No se puede instalar porque este paquete es un administrador de dispositivos activos para el usuario %1$s.</string>
   <string name="uninstall_failed_msg">No se ha podido desinstalar %1$s.</string>
   <string name="uninstall_failed_retained_app_msg">Esta aplicación ha sido modificada y no puede ser desinstalada en su forma actual.</string>
-  <string name="uninstall_update_text">¿Quieres sustituir esta aplicación con la versión de fábrica?</string>
+  <string name="uninstall_update_text">¿Quiere sustituir esta aplicación con la versión de fábrica?</string>
   <string name="uninstall_update_text_multiuser">¿Reemplazar esta aplicación con la versión de fábrica? Todos los datos se borrarán. Esto afecta a todos los usuarios de este dispositivo, incluidos aquellos con perfiles de trabajo.</string>
   <string name="uninstall_update_title">Desinstalar actualización</string>
   <string name="uninstalling">Desinstalando…</string>
