@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="Parse_error_dlg_text">Hubo un problema al analizar el paquete.</string>
+  <string name="Parse_error_dlg_text">Se ha producido un error al analizar el paquete.</string>
   <string name="Parse_error_dlg_title">Error de análisis</string>
-  <string name="abc_action_bar_home_description">Ir a inicio</string>
+  <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
-  <string name="abc_action_menu_overflow_description">Mas opciones</string>
+  <string name="abc_action_menu_overflow_description">Más opciones</string>
   <string name="abc_action_mode_done">Listo</string>
   <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-  <string name="abc_activitychooserview_choose_application">Elija una aplicación</string>
+  <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
   <string name="abc_capital_off">APAGADO</string>
   <string name="abc_capital_on">ENCENDIDO</string>
-  <string name="abc_search_hint">Buscando…</string>
+  <string name="abc_search_hint">Buscar…</string>
   <string name="abc_searchview_description_clear">Borrar consulta</string>
   <string name="abc_searchview_description_query">Consulta</string>
   <string name="abc_searchview_description_search">Buscar</string>
@@ -39,11 +39,11 @@
   <string name="allow_mock_location_summary">Permitir localizaciones simuladas</string>
   <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
 
-¿Permitir ahora y en adelante?"</string>
-  <string name="allow_source_dlg_title">Nueva fuente para las aplicaciones</string>
+¿Quieres permitirlo ahora y en el futuro?"</string>
+  <string name="allow_source_dlg_title">Nueva fuente de aplicaciones</string>
   <string name="animator_duration_scale_title">Escala duración animador</string>
   <string name="apn_settings_not_available">Los ajustes de Nombre de Punto de Acceso (APN) no están disponibles para este usuario</string>
-  <string name="app_name">Instalador de Paquetes</string>
+  <string name="app_name">Instalador de paquetes</string>
   <string name="app_name_unknown">Desconocida</string>
   <string name="app_not_found_dlg_text">No se ha encontrado la aplicación en la lista de aplicaciones instaladas.</string>
   <string name="app_not_found_dlg_title">Aplicación no encontrada</string>
@@ -169,22 +169,22 @@
   <string name="disable_overlays_summary">Usar siempre la GPU para combinar pantallas</string>
   <string name="disabled_by_admin">Deshabilitado por el administrador</string>
   <string name="disabled_by_admin_summary_text">Controlado por el adminstrador</string>
-  <string name="dlg_app_replacement_statement">"La aplicación que está instalando reemplazará a otra aplicación.
+  <string name="dlg_app_replacement_statement">"La aplicación que estás instalando sustituirá a otra aplicación.
 
-Se guardarán todos los datos anteriores."</string>
+Se guardarán todos los datos de usuario anteriores."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) reemplazará la versión instalada (%3$s). Se guardarán todos los datos de las aplicaciones existentes.</string>
-  <string name="dlg_app_replacement_title">¿Reemplazar la aplicación existente?</string>
+  <string name="dlg_app_replacement_title">¿Sustituir aplicación?</string>
   <string name="dlg_appstore_notice">Obtener esta aplicación de sitios oficiales &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="dlg_ok">Aceptar</string>
-  <string name="dlg_sys_app_replacement_statement">"Esta es una aplicación de sistema. ¿Seguro que quiere reemplazarla?
+  <string name="dlg_sys_app_replacement_statement">"Es una aplicación del sistema.
 
-Se guardarán todos los datos de usuario existentes."</string>
+Se guardarán todos los datos de usuario anteriores."</string>
   <string name="done">Listo</string>
   <string name="enable_adb">Depuración USB</string>
   <string name="enable_adb_summary">Modo depuración cuando USB esté conectado</string>
   <string name="enable_freeform_support">Activar ventanas libres</string>
   <string name="enable_freeform_support_summary">Activar funcionalidad experimental de ventanas libres</string>
-  <string name="enable_opengl_traces_title" >Habilitar seguimiento OpenGL</string>
+  <string name="enable_opengl_traces_title">Habilitar seguimiento OpenGL</string>
   <string name="enable_terminal_summary">Habilitar aplicación de terminal que ofrece acceso a shell local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_webview_multiprocess">WebView multiproceso</string>
@@ -199,9 +199,9 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="force_resizable_activities_summary">Hacer a todas las actividades redimensionables para multiventana, independientemente de los valores del manifiesto</string>
   <string name="force_rtl_layout_all_locales">Forzar dirección diseño RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Forzar dirección diseño en pantalla a RTL para todas las configuraciones</string>
-  <string name="grant_confirm_question">¿Quiere conceder los siguientes permisos? Tendrá acceso a:</string>
+  <string name="grant_confirm_question">¿Quieres conceder los siguientes permisos? Podrá acceder a:</string>
   <string name="grant_dialog_button_allow">Permitir</string>
-  <string name="grant_dialog_button_deny">Denegar</string>
+  <string name="grant_dialog_button_deny">Rechazar</string>
   <string name="grant_dialog_button_deny_anyway">Denegar de todos modos</string>
   <string name="hdcp_checking_dialog_title">Establecer comportamiento comprobación HDCP</string>
   <string name="hdcp_checking_title">Comprobación de HDCP</string>
@@ -213,26 +213,26 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="inactive_app_inactive_summary">Inactivo. Toque para conmutar.</string>
   <string name="inactive_apps_title">Aplicaciones inactivas</string>
   <string name="install">Instalar</string>
-  <string name="install_confirm_question">¿Quiere instalar esta aplicación? obtendrá permiso para:</string>
-  <string name="install_confirm_question_no_perms">¿Quieres instalar esta aplicación? No requiere ningún permiso especial.</string>
-  <string name="install_confirm_question_update">¿Quieres instalar una actualización de esta aplicación? no se perderá sus datos. La aplicación actualizada tendrá permisos para:</string>
-  <string name="install_confirm_question_update_no_perms">¿Quieres instalar una actualización de esta aplicación? no se perderá sus datos. No requiere ningún permiso especial.</string>
-  <string name="install_confirm_question_update_system">¿Quieres instalar una actualización de esta aplicación? no se perderá sus datos. La aplicación actualizada tendrá permisos para:</string>
-  <string name="install_confirm_question_update_system_no_perms">¿Quieres instalar una actualización de esta aplicación? no se perderá sus datos. No requiere ningún permiso especial.</string>
+  <string name="install_confirm_question">¿Quieres instalar esta aplicación? Tendrá los siguientes permisos:</string>
+  <string name="install_confirm_question_no_perms">¿Quieres instalar esta aplicación? No requiere accesos especiales.</string>
+  <string name="install_confirm_question_update">¿Quieres instalar una actualización de la aplicación? Tus datos no se perderán. La aplicación actualizada podrá acceder a:</string>
+  <string name="install_confirm_question_update_no_perms">¿Quieres instalar una actualización de esta aplicación? Tus datos no se perderán. No requiere ningún acceso especial.</string>
+  <string name="install_confirm_question_update_system">¿Quieres instalar una actualización de esta aplicación integrada? Tus datos no se perderán. La aplicación actualizada podrá acceder a:</string>
+  <string name="install_confirm_question_update_system_no_perms">¿Quieres instalar una actualización de esta aplicación integrada? Tus datos no se perderán. No requiere ningún acceso especial.</string>
   <string name="install_done">Aplicación instalada</string>
   <string name="install_failed">Aplicación no instalada</string>
   <string name="install_failed_blocked">La instalación del paquete fue bloqueada.</string>
   <string name="install_failed_conflict">El paquete entra en conflicto con un paquete existente con el mismo nombre.</string>
-  <string name="install_failed_cpu_abi_incompatible">Esta aplicación no es compatible con la CPU de este teléfono.</string>
-  <string name="install_failed_file_not_found">El paquete especificado fue borrado antes de que la instalación pudiera ser completada.</string>
+  <string name="install_failed_cpu_abi_incompatible">Esta aplicación no es compatible con el teléfono.</string>
+  <string name="install_failed_file_not_found">El paquete especificado se ha eliminado antes de que se completara la instalación.</string>
   <string name="install_failed_incompatible">Esta aplicación no es compatible con su teléfono</string>
-  <string name="install_failed_inconsistent_certificates">Un paquete existente con el mismo nombre y firma conflictiva está ya instalado.</string>
-  <string name="install_failed_invalid_apk">El paquete parece estar dañado.</string>
-  <string name="install_failed_msg">%1$s no pudo ser instalado en este teléfono.</string>
-  <string name="install_failed_older_sdk">El paquete sólo funciona en versiones más modernas de Android.</string>
+  <string name="install_failed_inconsistent_certificates">Ya se ha instalado un paquete con el mismo nombre con una firma en conflicto.</string>
+  <string name="install_failed_invalid_apk">Parece que el paquete está dañado.</string>
+  <string name="install_failed_msg">No se ha podido instalar %1$s en el teléfono.</string>
+  <string name="install_failed_older_sdk">Este paquete solo funciona en las versiones más recientes de Android.</string>
   <string name="install_failed_system_incompatible">Esta aplicación no es compatible con MIUI</string>
-  <string name="install_failed_verify_failed">El paquete no pasó la verificación y no se puede instalar.</string>
-  <string name="install_failed_verify_timeout">El tiempo de espera se agotó durante la verificación de este paquete. Intente instalarlo de nuevo más tarde.</string>
+  <string name="install_failed_verify_failed">El paquete no ha superado el proceso de verificación y no se puede instalar.</string>
+  <string name="install_failed_verify_timeout">Se ha agotado el tiempo de espera al intentar verificar este paquete. Prueba a instalarlo más tarde.</string>
   <string name="install_from_appstore_hint">Te recomendamos que instales la aplicación desde &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Instalando…</string>
   <string name="keep_screen_on">Pantalla activa</string>
@@ -282,10 +282,10 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="local_backup_password_toast_success">Establecida nueva contraseña de copia de seguridad</string>
   <string name="local_backup_password_toast_validation_failure">Fallo estableciendo contraseña de copia de seguridad</string>
   <string name="location_settings">Ajustes de ubicación</string>
-  <string name="location_warning">%1$s es un proveedor de servicios de localización para este dispositivo. El acceso a la ubicación se puede modificar en los ajustes de ubicación.</string>
+  <string name="location_warning">%1$s es un proveedor de servicios de ubicación de este dispositivo. El acceso a la ubicación se puede modificar en los ajustes de ubicación.</string>
   <string name="low_risk_perms">Permisos de bajo riesgo</string>
-  <string name="manage_applications">Gestionar aplicaciones</string>
-  <string name="manage_device_administrators">Gestionar administradores de dispositivo</string>
+  <string name="manage_applications">Administrar aplicaciones</string>
+  <string name="manage_device_administrators">Gestionar administradores de dispositivos</string>
   <string name="manage_users">Gestionar usuarios</string>
   <string name="managed_user_title">Todas las aplicaciones de trabajo</string>
   <string name="media_category">Multimedia</string>
@@ -314,11 +314,11 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="oem_unlock_enable_summary">Permitir desbloquear el bootloader</string>
   <string name="ok">Aceptar</string>
   <string name="old_sdk_deny_warning">Esta aplicación está diseñada para una versión anterior de Android. Si se le deniega el permiso, puede dejar de funcionar de la forma prevista.</string>
-  <string name="orb_search_action">Acción de búsqueda</string>
-  <string name="other_permissions">Otras capacidades de la aplicación</string>
+  <string name="orb_search_action">Buscar…</string>
+  <string name="other_permissions">Otras funciones de la aplicación</string>
   <string name="other_relative">Otros</string>
-  <string name="out_of_space_dlg_text">No hay suficiente espacio de almacenamiento en el dispositivo para instalar %1$s</string>
-  <string name="out_of_space_dlg_title">No hay espacio suficiente</string>
+  <string name="out_of_space_dlg_text">No se ha podido instalar la aplicación %1$s. Libera espacio y vuelve a intentarlo.</string>
+  <string name="out_of_space_dlg_title">Sin espacio</string>
   <string name="overlay_display_devices_title">Simular pantallas secundarias</string>
   <string name="package_delete_confirm_step_1">¿Eliminar %s?</string>
   <string name="package_delete_confirm_step_2">Eliminar esta aplicación puede hacer que el sistema se vuelva inestable.</string>
@@ -343,14 +343,14 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="permission_group_title_others">Otros</string>
   <string name="permission_group_title_privacy_related">Privacidad</string>
   <string name="permission_group_title_settings_related">Ajustes</string>
-  <string name="permission_request_title">Petición de permiso</string>
+  <string name="permission_request_title">Solicitud de permiso</string>
   <string name="permission_review_title_template_install">Elija qué permite acceder a %1$s</string>
   <string name="permission_review_title_template_update">%1$s ha sido actualizada. Elija qué permite acceder a esta aplicación.</string>
   <string name="permission_review_warning_title_template_update">%1$s ha sido actualizada. ¿Permite acceder a %1$s a lo siguiente?</string>
   <string name="permission_send_sms_descx">La aplicación podrá enviar SMS y MMS</string>
-  <string name="permission_summary_enforced_by_policy">Forzado por política</string>
+  <string name="permission_summary_enforced_by_policy">Aplicado por política</string>
   <string name="permission_title">Permisos: %1$s</string>
-  <string name="permission_warning_template">¿Permitir a %1$s %2$s?</string>
+  <string name="permission_warning_template">¿Permitir que %1$s pueda %2$s?</string>
   <string name="permlab_togglePermissions">alternar permisos</string>
   <string name="picture_color_mode">Modo de color de imagen</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
@@ -375,8 +375,8 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="safe_relative">Seguridad</string>
   <string name="saved_network">Guardado por %1$s</string>
   <string name="screen_overlay_button">Abrir ajustes</string>
-  <string name="screen_overlay_message">Para cambiar esta configuración del permiso, primero tiene que desactivar la pantalla superpuesta en Ajustes &gt; Aplicaciones</string>
-  <string name="screen_overlay_title">Detectada pantalla superpuesta</string>
+  <string name="screen_overlay_message">Para cambiar la configuración de este permiso, desactiva la superposición de pantalla en Ajustes &amp;gt Aplicaciones</string>
+  <string name="screen_overlay_title">Superposición de pantalla detectada</string>
   <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
   <string name="screen_zoom_summary_extremely_large">Máximo</string>
   <string name="screen_zoom_summary_large">Grande</string>
@@ -402,10 +402,10 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="show_screen_updates_summary">Iluminar superficies enteras de ventana al actualizarse</string>
   <string name="show_touches_summary">Mostrar la ubicación de las pulsaciones en la pantalla</string>
   <string name="simulate_color_space">Simular espacio de color</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="strict_mode">Mode estricto habilitado</string>
   <string name="strict_mode_summary">Parpadear cuando las aplicaciones hacen operaciones largas en el hilo principal</string>
-  <string name="system_warning">Si deniega este permiso, las características básicas de su dispositivo pueda que no funcionen correctamente.</string>
+  <string name="system_warning">Si deniegas este permiso, es posible que algunas funciones básicas de tu dispositivo dejen de funcionar correctamente.</string>
   <string name="tether_settings_title_all">Anclaje de red y zona Wi-Fi</string>
   <string name="tether_settings_title_bluetooth">Compartir por Bluetooth</string>
   <string name="tether_settings_title_usb">Compartir por USB</string>
@@ -433,33 +433,33 @@ Se guardarán todos los datos de usuario existentes."</string>
   <string name="tts_reset_speech_pitch_title">Restablecer el tono de voz</string>
   <string name="tts_settings">Ajustes Texto-a-voz</string>
   <string name="tts_settings_title">Salida Texto-a-voz</string>
-  <string name="tts_status_checking">Comprobando...</string>
+  <string name="tts_status_checking">Comprobando…</string>
   <string name="tts_status_not_supported">%1$s no está soportado</string>
   <string name="tts_status_ok">%1$s está soportado completamente</string>
   <string name="tts_status_requires_network">%1$s requiere conexión a la red</string>
   <string name="tts_status_title">Estado del idioma predeterminado</string>
-  <string name="uninstall_activity_text">%1$s es parte de las siguientes aplicaciones:</string>
+  <string name="uninstall_activity_text">%1$s forma parte de esta aplicación:</string>
   <string name="uninstall_all_blocked_profile_owner">Esta aplicación es requerida por algunos usuarios o perfiles y fue desinstalada por otros</string>
-  <string name="uninstall_application_text">Esta aplicación será desinstalada.</string>
-  <string name="uninstall_application_text_all_users">¿Quiere desinstalar esta aplicación para &lt;b&gt;todos&lt;/b&gt; los usuarios? La aplicación y sus datos serán eliminados de &lt;b&gt;todos&lt;/b&gt; los usuarios en el dispositivo.</string>
-  <string name="uninstall_application_text_user">¿Quiere desinstalar esta aplicación para el usuario %1$s?</string>
+  <string name="uninstall_application_text">¿Quieres desinstalar esta aplicación?</string>
+  <string name="uninstall_application_text_all_users">¿Quieres desinstalar esta aplicación para &amp;ltb&amp;gttodos&amp;lt/b&amp;gt los usuarios? La aplicaci&amp;#243;n y sus datos se eliminar&amp;#225;n de &amp;ltb&amp;gttodos&amp;lt/b&amp;gt los usuarios del dispositivo.</string>
+  <string name="uninstall_application_text_user">¿Quieres desinstalar esta aplicación para el usuario %1$s?</string>
   <string name="uninstall_application_title">Desinstalar aplicación</string>
-  <string name="uninstall_blocked_device_owner">Esta aplicación es requerida por el administrador del dispositivo y no puede ser desinstalada.</string>
-  <string name="uninstall_blocked_profile_owner">Esta aplicación es necesaria para su perfil y no puede ser desinstalada.</string>
+  <string name="uninstall_blocked_device_owner">Esta aplicación es necesaria para el administrador de tu dispositivo y no se puede desinstalar.</string>
+  <string name="uninstall_blocked_profile_owner">Esta aplicación es necesaria para tu perfil de trabajo y no se puede desinstalar.</string>
   <string name="uninstall_confirm_question">¿Desea desinstalar esta aplicación?</string>
   <string name="uninstall_done">Desinstalación completada</string>
-  <string name="uninstall_failed">No se pudo desinstalar esta aplicación</string>
-  <string name="uninstall_failed_device_policy_manager">No se puede desinstalar este paquete, es administrador de dispositivo activo.</string>
-  <string name="uninstall_failed_device_policy_manager_of_user">No se puede desinstalar porque este paquete es un administrador activo del dispositivo para el usuario %1$s.</string>
-  <string name="uninstall_failed_msg">%1$s no pudo ser desinstalado</string>
+  <string name="uninstall_failed">Desinstalación correcta</string>
+  <string name="uninstall_failed_device_policy_manager">No se puede desinstalar porque este paquete es un administrador de dispositivos activo.</string>
+  <string name="uninstall_failed_device_policy_manager_of_user">No se puede instalar porque este paquete es un administrador de dispositivos activos para el usuario %1$s.</string>
+  <string name="uninstall_failed_msg">No se ha podido desinstalar %1$s.</string>
   <string name="uninstall_failed_retained_app_msg">Esta aplicación ha sido modificada y no puede ser desinstalada en su forma actual.</string>
-  <string name="uninstall_update_text">La aplicación será reemplazada con la versión original.</string>
+  <string name="uninstall_update_text">¿Quieres sustituir esta aplicación con la versión de fábrica?</string>
   <string name="uninstall_update_text_multiuser">¿Reemplazar esta aplicación con la versión de fábrica? Todos los datos se borrarán. Esto afecta a todos los usuarios de este dispositivo, incluidos aquellos con perfiles de trabajo.</string>
-  <string name="uninstall_update_title">¿Desinstalar la actualización?</string>
+  <string name="uninstall_update_title">Desinstalar actualización</string>
   <string name="uninstalling">Desinstalando…</string>
-  <string name="unknown">Desconocido</string>
-  <string name="unknown_apps_admin_dlg_text">"El administrador no permite la instalación de aplicaciones de fuentes desconocidas."</string>
-  <string name="unknown_apps_dlg_text">El teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas. Puede desactivar esta función en Ajustes.</string>
+  <string name="unknown">Desconocida</string>
+  <string name="unknown_apps_admin_dlg_text">Tu administrador no permite la instalación de aplicaciones obtenidas de fuentes desconocidas.</string>
+  <string name="unknown_apps_dlg_text">Por seguridad, el teléfono se ha configurado para bloquear aplicaciones de orígenes desconocidos.</string>
   <string name="unknown_apps_dlg_text1">"El teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas. Puede desactivar esta función en "</string>
   <string name="unknown_apps_dlg_text2">\"Ajustes\"</string>
   <string name="unknown_apps_dlg_text3">.</string>
