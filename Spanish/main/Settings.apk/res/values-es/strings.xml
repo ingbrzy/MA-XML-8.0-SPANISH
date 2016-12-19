@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Accounts_settings_title">Cuentas</string>
-  <string name="aaid_info">"
-El identificador de publicidad es único y permanente para su dispositivo. Los vendedores lo usan para seleccionar contenido publicitario que será más útil para usted."</string>
+  <string name="about_ad_service_instructions">Acerca de los servicios de publicidad y la privacidad</string>
   <string name="abc_action_bar_home_description">Ir al inicio</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -2140,8 +2139,8 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lock_screen_secure_after_timeout_immediately_summary">Contraseña requerida inmediatamente.</string>
   <string name="lock_screen_secure_after_timeout_summary">Contraseña requerida en %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Contraseña requerida</string>
-  <string name="lock_screen_signature_summary">La firma se mostrará en la pantalla de bloqueo</string>
-  <string name="lock_screen_signature_title">Firma de la pantalla de bloqueo</string>
+  <string name="lock_screen_signature_summary">Este mensaje se mostrará en la Pantalla de bloqueo</string>
+  <string name="lock_screen_signature_title">Información del propietario en la Pantalla de bloqueo</string>
   <string name="lock_screen_unlock_show">Ocultar pantalla de bloqueo</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente a la pantalla de inicio o introducción de la contraseña al activar</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Toca para cambiar</string>
@@ -2758,7 +2757,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="owner_info_settings_edit_text_hint">p. ej., Android de Juan</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ninguno</string>
-  <string name="owner_info_settings_title">Firma de la pantalla de bloqueo</string>
+  <string name="owner_info_settings_title">Información del propietario en la Pantalla de bloqueo</string>
   <string name="packages_subtitle">Paquetes incluidos</string>
   <string name="page_layout_1">Domingo, 16 Agosto</string>
   <string name="page_layout_10">Configuración</string>
@@ -2911,9 +2910,9 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="path_oldman_mode">Ajustes/Modo simple</string>
   <string name="path_onekey_migrate">Ajustes/Ajustes adicionales/Transferencia</string>
   <string name="path_other_advanced_settings">Ajustes/Ajustes adicionales</string>
-  <string name="path_owner_info_settings">Ajustes/Pantalla de bloqueo y contraseña/Información del propietario</string>
+  <string name="path_owner_info_settings">Ajustes/Pantalla de bloqueo y contraseña/Información del propietario en la Pantalla de bloqueo</string>
   <string name="path_page_layout_settings">Ajustes/Pantalla/Tamaño del texto</string>
-  <string name="path_permission_settings_title">Ajustes/Permisos/Permisos de la aplicación</string>
+  <string name="path_permission_settings_title">Ajustes/Permisos/Permisos</string>
   <string name="path_pn_settings">Ajustes/Redes móviles/Nombres de los puntos de acceso</string>
   <string name="path_pointer_speed">Ajustes/Ajustes adicionales/Teclado e idioma/Velocidad del puntero</string>
   <string name="path_power_checker">Ajustes/Ajustes adicionales/Funciones Beta/Control de energía</string>
@@ -3684,7 +3683,7 @@ Para ello:
   <string name="search_oldman_mode">Modo simple;Modo edad avanzada;Modo simple</string>
   <string name="search_onekey_migrate">Transferir;Transferencia Mi</string>
   <string name="search_other_advanced_settings">Ajustes adicionales;Más ajustes</string>
-  <string name="search_owner_info_settings">Información del propietario</string>
+  <string name="search_owner_info_settings">Información del propietario en la Pantalla de bloqueo;Información del propietario;Firma;Firma de la pantalla de bloqueo;Propietario</string>
   <string name="search_page_layout_settings">Tamaño de texto;Tamaño de fuente;Pequeño;Grande;Mediano;XXL;Enorme;Tamaños de fuente</string>
   <string name="search_permission_settings_title">Permisos de la aplicación</string>
   <string name="search_pointer_speed">Velocidad del puntero</string>
@@ -3888,6 +3887,8 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="set_password_message">Establezca una contraseña para desactivar el modo niño y desbloquear el dispositivo.</string>
   <string name="set_password_title">Establecer contraseña</string>
   <string name="setting_privacy_password">Establecer contraseña de privacidad</string>
+  <string name="settings_ad_loading">Cargando…</string>
+  <string name="settings_ad_loading_unavailable">Hay un problema al cargar.</string>
   <string name="settings_backup">Hacer copia de seguridad de configuración</string>
   <string name="settings_backup_summary">Hacer copia de seguridad de mi configuración</string>
   <string name="settings_button">Ajustes</string>
@@ -3944,7 +3945,7 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="show_ime_summary">Mantenerlo en pantalla mientras el teclado físico está activo</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
   <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
-  <string name="show_owner_info_on_lockscreen_label">Mostrar firma en la Pantalla de bloqueo</string>
+  <string name="show_owner_info_on_lockscreen_label">Mostrar información del propietario en la Pantalla de bloqueo</string>
   <string name="show_password">Mostrar las contraseñas</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar información de perfil en pantalla bloqueo</string>
   <string name="show_rounded_corners">Mostrar esquinas redondeadas</string>
@@ -4721,9 +4722,7 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="use_default_tts_settings_title">Utilizar siempre mi configuración</string>
   <string name="use_location_summary">Permitir que Google use tu ubicación para mejorar los resultados de búsqueda y otros servicios</string>
   <string name="use_location_title">Ubicación en búsquedas</string>
-  <string name="use_nuplayer">Usar NuPlayer (experim.)</string>
-  <string name="use_nuplayer_summary">Usar NuPlayer en lugar de AwesomePlayer</string>
-  <string name="use_personalized_ad_service">Publicidad personalizada</string>
+  <string name="use_personalized_ad_service">Utilizar el identificador de publicidad</string>
   <string name="use_privacy_password_immediate">Usar</string>
   <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas del sistema</string>
   <string name="use_this_wlan">Permanecer conectado</string>
