@@ -7,6 +7,7 @@
   <string name="SD_SDCard_mounted">Detectar Tarjeta SD</string>
   <string name="SD_SDCard_total_size">Tamaño total</string>
   <string name="SD_SDCard_unmounted">Tarjeta SD no disponible</string>
+  <string name="button_cancel">Cancelar</string>
   <string name="button_ok">OK</string>
   <string name="camerainfo">Información de la cámara</string>
   <string name="cit_OTG_plugin_check_summary">Cuando se conecta el dispositivo OTG, debe mostrarse el texto \"Dispositivo USB OTG detectado\" más abajo.</string>
@@ -260,6 +261,8 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_sim_state_unkown">Desconocido</string>
   <string name="cit_start_calibration">Calibrar</string>
   <string name="cit_stop_calibration">Detener calibración</string>
+  <string name="cit_tfcard_support_summary">Compruebe si TFCard es compatible con este dispositivo</string>
+  <string name="cit_tfcard_support_title">Soporte TFCard</string>
   <string name="cit_tool">Herramientas adicionales</string>
   <string name="cit_tool_bluetooth">Herramienta de prueba de Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Entrar en modo de prueba de bluetooth</string>
@@ -288,6 +291,11 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_tool_log_toast_generate_bugreport">Crear informe de fallo. (Esto tarda aproximadamente 1 minuto)</string>
   <string name="cit_tool_modem">Herramientas de pruebas de módem</string>
   <string name="cit_tool_modem_bugreport">Fuerza módem P.e.</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Desactivar CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Desactivar VoLTE CU, reiniciar para tener efecto.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Habilitar CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Habilitar VoLTE CU, reiniciar para tener efecto.</string>
   <string name="cit_tool_modem_exit_ftm">Salir del modo de FTM</string>
   <string name="cit_tool_modem_mbn">Cambiar Configuración de Modem</string>
   <string name="cit_tool_modem_offline_log">Abrir/cerrar registro Offline</string>
@@ -306,7 +314,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
   <string name="cit_tool_wifi_rx_count_error">El valor de salida no es un número.</string>
   <string name="cit_tool_wifi_rx_error">Error al ejecutar el programa.</string>
-  <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
+  <string name="cit_tool_wifi_rx_exit">Rx:salida</string>
   <string name="cit_tool_wifi_rx_run">Ejecutar</string>
   <string name="cit_tool_wifi_rx_stop">Parar</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
