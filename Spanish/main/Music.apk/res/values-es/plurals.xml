@@ -65,12 +65,12 @@
     <item quantity="one">¿Quitar %d canción?</item>
   </plurals>
   <plurals name="download_finished">
-    <item quantity="other">&lt;font color=\"red\"&gt;%d canciones&lt;/font&gt; descargadas</item>
-    <item quantity="one">&lt;font color==\"red\"&gt;%d canción&lt;/font&gt; descargada</item>
+    <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> descargadas</item>
+    <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> descargada</item>
   </plurals>
   <plurals name="download_running">
-    <item quantity="other">&lt;font color=\"red\"&gt;%d canciones&lt;/font&gt; descargándose</item>
-    <item quantity="one">&lt;font color==\"red\"&gt;%d canción&lt;/font&gt; descargándose</item>
+    <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> descargándose</item>
+    <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> descargándose</item>
   </plurals>
   <plurals name="folder_songs_count">
     <item quantity="other">%d canciones</item>
