@@ -133,6 +133,10 @@
         <item quantity="other">%d riesgos encontrados, arreglar ahora</item>
         <item quantity="one">%d riesgo encontrado, arreglar ahora</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Todo se ve bien</item>
+        <item quantity="one">Todo se ve bien</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
         <item quantity="one">%d aplicación tiene riesgo de privacidad</item>
