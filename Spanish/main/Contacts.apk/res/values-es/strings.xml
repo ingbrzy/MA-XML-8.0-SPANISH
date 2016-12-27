@@ -337,7 +337,6 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="details_list_group_header_other">OTRO</string>
   <string name="device_bluetooth_title">Transferir contactos</string>
-  <string name="device_brand_title">Elegir una marca</string>
   <string name="device_import_account_dialog_title">Elegir una cuenta</string>
   <string name="device_import_account_dialog_title_suffix">"
 (encontrados %1$s contactos)"</string>
@@ -350,15 +349,30 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="device_import_progress_toast">%1$d contactos importados</string>
   <string name="device_import_title">Importar</string>
   <string name="device_list_title">Elegir un teléfono</string>
-  <string name="device_other_guide">Si su teléfono no aparece, siga los siguientes pasos</string>
-  <string name="device_other_title">Otro teléfono</string>
+  <string name="device_other_guide">¿Otro teléfono es compatible con bluetooth?</string>
+  <string name="device_other_title">Importar desde otros teléfonos</string>
   <string name="device_paired_dialog_message">Combinando contactos…</string>
   <string name="device_paired_dialog_title">Combinando contactos…</string>
   <string name="device_pairing_dialog_message">Emparejando…</string>
   <string name="device_pairing_dialog_title">Dispositivos emparejados</string>
-  <string name="device_version_header_bluetooth">Asegúrese de que el Bluetooth está activado</string>
-  <string name="device_version_header_no_bluetooth">Importar contactos utilizando la tarjeta SIM</string>
-  <string name="device_version_title">Elegir un modelo</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Por favor, active la función de \"Bluetooth\" encendido;
+        
+
+- Los dispositivos Android suelen encontrar el \"Bluetooth\" bajo la sección de red
+        
+- Los dispositivos iOS deben buscar \"Bluetooth\" dentro de Ajustes
+        
+
+2. Los dispositivos Android también deben estar \"Visible\" optión activo;
+        
+
+3. Hacer clic \"Siguiente\", y permite a los contactos acceder a permiso en el siguiente paso."</string>
+  <string name="device_transfer_by_sim_message">"1. Guardar los contactos del otro dispositivo en la tarjeta SIM;
+        
+
+2. Ir \"Ajustes de contactos\" -- \"Importar/Exportar contactos\" -- \"Importar desde la tarjeta SIM\", presione cualquier contacto SIM, elija los contactos que desea importar y haga clic en \"Importar\" opción."</string>
+  <string name="device_version_header_bluetooth">Importar a través de Bluetooth</string>
+  <string name="device_version_header_no_bluetooth">Importar a través de la tarjeta SIM</string>
   <string name="dial">Marcar</string>
   <string name="dialerDialpadHintText">Marcar para agregar una llamada</string>
   <string name="dialerIconLabel">Recientes</string>
@@ -715,8 +729,8 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="multi_number_title">Conferencia</string>
   <string name="multipleContactDeleteConfirmation">Eliminar este contacto eliminará la información en varias cuentas.</string>
   <string name="multipleContactDeleteConfirmationDetail">Al eliminar \"%s\" sera eliminado de varias cuentas.</string>
-  <string name="my_phone_not_provider_bluetooth">Mi teléfono no tiene Bluetooth</string>
-  <string name="my_phone_provider_bluetooth">Mi teléfono tiene Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">No</string>
+  <string name="my_phone_provider_bluetooth">Si</string>
   <string name="nameLabelsGroup">Nombre</string>
   <string name="name_family">Apellido</string>
   <string name="name_given">Nombre</string>
