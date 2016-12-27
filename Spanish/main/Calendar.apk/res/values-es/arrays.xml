@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Notificación</item>
-        <item>Email</item>
-        <item>Mensaje de texto</item>
-        <item>Alarma</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Por defecto</item>
         <item>Sábado</item>
@@ -98,16 +92,6 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-    <string-array name="availability">
-        <item>Ocupado</item>
-        <item>Disponible</item>
-        <item>Tentativa</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>Por defecto</item>
-        <item>Privado</item>
-        <item>Público</item>
-    </string-array>
     <string-array name="ordinal_labels">
         <item>primer</item>
         <item>segundo</item>
@@ -130,12 +114,6 @@
         <item>Sólo este evento</item>
         <item>Todos los eventos de la serie</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Me retrasaré un par de minutos.</item>
-        <item>Estoy allí en 10 minutos.</item>
-        <item>Empieza sin mí.</item>
-        <item>Lo siento, no puedo ir. Tendremos que aplazar la cita.</item>
-    </string-array>
      <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Siempre</item>
         <item>Sólo cuando se silencia el timbre</item>
@@ -145,20 +123,7 @@
         <item>Transparente</item>
         <item>Fondo blanco</item>
     </string-array>
-    <string-array name="miui_reminder_minutes_labels">
-        <item>Sin recordatorio</item>
-        <item>En el momento del evento</item>
-        <item>5 minutos antes</item>
-        <item>10 minutos antes</item>
-        <item>15 minutos antes</item>
-        <item>30 minutos antes</item>
-        <item>1 hora antes</item>
-        <item>1 día antes</item>
-        <item>2 días antes</item>
-        <item>1 semana antes</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>Sin recordatorio</item>
+    <string-array name="default_reminder_labels">
         <item>En el momento del evento</item>
         <item>5 minutos antes</item>
         <item>10 minutos antes</item>

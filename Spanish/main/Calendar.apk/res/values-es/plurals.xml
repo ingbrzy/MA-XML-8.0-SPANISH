@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d minutos</item>
-        <item quantity="one">1 minuto</item>
-    </plurals>
-    <plurals name="Nmins">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">1 min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d horas</item>
-        <item quantity="one">1 hora</item>
+        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">Hace 1 hora</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d días</item>
-        <item quantity="one">1 día</item>
+        <item quantity="other">Hace %d días</item>
+        <item quantity="one">Hace 1 día</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">SEMANA %d</item>
+        <item quantity="other">%d SEMANA</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
@@ -30,5 +26,17 @@
     <plurals name="N_remaining_events">
         <item quantity="other">+%d eventos</item>
         <item quantity="one">+1 evento</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">Hace %1$d días en %2$s</item>
+        <item quantity="one">Hace %1$d día en %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">Después de %1$d días en %2$s</item>
+        <item quantity="one">Después de %1$d día en %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">Hace %d semanas</item>
+        <item quantity="one">Hace 1 semana</item>
     </plurals>
 </resources>
