@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="app_loaction">Buscar en la pantalla de inicio</string>
   <string name="app_name">Búsqueda</string>
   <string name="application_desc">Aplicación</string>
   <string name="application_search_label">Apps</string>
@@ -48,6 +49,8 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
   <string name="loading">Un momento…</string>
+  <string name="local_app">Aplicaciones</string>
+  <string name="local_setting">Ajustes</string>
   <string name="menu_help">Ayuda</string>
   <string name="menu_settings">Ajustes de búsqueda</string>
   <string name="network_unavailable">No se pudo conectar a la red</string>
