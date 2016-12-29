@@ -225,8 +225,6 @@
   <string name="inactive_apps_title">Inactive apps</string>
   <string name="keep_screen_on">Stay awake</string>
   <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
-  <string name="launch_defaults_none">No defaults set</string>
-  <string name="launch_defaults_some">Some defaults set</string>
   <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
@@ -292,7 +290,6 @@
   <string name="runningservices_settings_title">Running services</string>
   <string name="saved_network">Saved by %1$s</string>
   <string name="screen_zoom_summary_custom">Custom (%d)</string>
-  <string name="screen_zoom_summary_default">Default</string>
   <string name="screen_zoom_summary_extremely_large">Largest</string>
   <string name="screen_zoom_summary_large">Large</string>
   <string name="screen_zoom_summary_small">Small</string>
@@ -334,13 +331,6 @@
   <string name="title_convert_fbe">Converting to file based encryption</string>
   <string name="track_frame_time">Profile GPU rendering</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
-  <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
-  <string name="tts_default_lang_title">Language</string>
-  <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
-  <string name="tts_default_pitch_title">Pitch</string>
-  <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
-  <string name="tts_default_rate_title">Speech rate</string>
-  <string name="tts_default_sample_string">This is an example of speech synthesis</string>
   <string name="tts_engine_network_required">This language requires a working network connection for text-to-speech output.</string>
   <string name="tts_engine_preference_section_title">Preferred engine</string>
   <string name="tts_engine_security_warning">This speech synthesis engine may be able to collect all the text that will be spoken, including personal data like passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?</string>
@@ -407,9 +397,7 @@
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">None</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
