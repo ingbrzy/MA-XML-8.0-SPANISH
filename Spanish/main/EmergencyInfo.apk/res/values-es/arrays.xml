@@ -2,49 +2,44 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Escaneado…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obteniendo dirección IP…</item>
+        <item>Conectado</item>
+        <item>Suspendido</item>
+        <item>Desconectando…</item>
+        <item>Desconectado</item>
+        <item>Fracasado</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporalmente la mala conexión</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+      <item></item>
+      <item>Escaneado…</item>
+      <item>Conectado a %1$s…</item>
+      <item>Autenticación con %1$s…</item>
+      <item>Obtención de la dirección IP desde %1$s…</item>
+      <item>Conectado a %1$s</item>
+      <item>Suspendido</item>
+      <item>Desconectando de %1$s…</item>
+      <item>Desconectado</item>
+      <item>Fracasado</item>
+      <item>Bloqueado</item>
+      <item>Evitar temporalmente la mala conexión</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
-    </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
+      <item>Nunca comprobar</item>
+      <item>Comprobar solo para contenido con DRM</item>
+      <item>Siempre comprobar</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+      <item>Nunca utilizar la comprobación HDCP</item>
+      <item>Utilizar la comprobación HDCP solo para contenido con DRM</item>
+      <item>Siempre utilizar la comprobación HDCP</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>Apagado</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -52,293 +47,120 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>Apagado</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
-    <string-array name="select_logd_size_values">
-        <item>32768</item>
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>16777216</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>Apagado</item>
+        <item>64K por buffer de registro</item>
+        <item>256K por buffer de registro</item>
+        <item>1M por buffer de registro</item>
+        <item>4M por buffer de registro</item>
+        <item>16M por buffer de registro</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
-    </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
+      <item>Animación apagada</item>
+      <item>Escala de animación .5x</item>
+      <item>Escala de animación 1x</item>
+      <item>Escala de animación 1.5x</item>
+      <item>Escala de animación 2x</item>
+      <item>Escala de animación 5x</item>
+      <item>Escala de animación 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
+      <item>Animación apagada</item>
+      <item>Escala de animación .5x</item>
+      <item>Escala de animación 1x</item>
+      <item>Escala de animación 1.5x</item>
+      <item>Escala de animación 2x</item>
+      <item>Escala de animación 5x</item>
+      <item>Escala de animación 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
+      <item>Animación apagada</item>
+      <item>Escala de animación .5x</item>
+      <item>Escala de animación 1x</item>
+      <item>Escala de animación 1.5x</item>
+      <item>Escala de animación 2x</item>
+      <item>Escala de animación 5x</item>
+      <item>Escala de animación 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>480p</item>
-        <item>480p (secure)</item>
-        <item>720p</item>
-        <item>720p (secure)</item>
-        <item>1080p</item>
-        <item>1080p (secure)</item>
-        <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
-    </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,secure</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,secure</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,secure</item>
-        <item>1280x720/213;1920x1080/320</item>
+      <item>Ninguna</item>
+      <item>480p</item>
+      <item>480p (seguro)</item>
+      <item>720p</item>
+      <item>720p (seguro)</item>
+      <item>1080p</item>
+      <item>1080p (seguro)</item>
+      <item>4K</item>
+      <item>4K (seguro)</item>
+      <item>4K (escalonado)</item>
+      <item>4K (escalonado, seguro)</item>
+      <item>720p, 1080p (pantalla dual)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
-        <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>systrace</item>
-        <item>error</item>
+      <item>Ninguna</item>
+      <item>Logcat</item>
+      <item>Systrace (Gráficos)</item>
+      <item>Volcado de pila para glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
+        <item>Apagado</item>
+        <item>Dibuja una región de clip no rectangular en azul</item>
+        <item>Resalte los comandos de dibujo probados en verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>true</item>
+        <item>Apagado</item>
+        <item>En la pantalla como barras</item>
+        <item>En adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_values">
-        <item>false</item>
-        <item>show</item>
-        <item>show_deuteranomaly</item>
+        <item>Apagado</item>
+        <item>Mostrar las áreas de sobregiro</item>
+        <item>Mostrar zonas para Deuteranomalía</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
-    </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
+        <item>Límite estándar</item>
+        <item>Ningún proceso en 2do plano</item>
+        <item>Máximo 1 proceso</item>
+        <item>Máximo 2 procesos</item>
+        <item>Máximo 3 procesos</item>
+        <item>Máximo 4 procesos</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Charging</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
+        <item>Cargando</item>
+        <item>MTP (Protocolo de transferencia de medios)</item>
+        <item>PTP (Protocolo de transferencia de imágenes)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Fuente de audio</item>
         <item>MIDI</item>
     </string-array>
-    <string-array name="usb_configuration_values">
-        <item>none</item>
-        <item>mtp</item>
-        <item>ptp</item>
-        <item>rndis</item>
-        <item>audio_source</item>
-        <item>midi</item>
-    </string-array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
-    <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
-    </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Muy lento</item>
+        <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
+        <item>Rápido</item>
+        <item>Más rápido</item>
+        <item>Muy rápido</item>
+        <item>Rápido</item>
+        <item>Muy rápido</item>
+        <item>Lo más rápido</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
+        <item>Vibrante (por defecto)</item>
         <item>Natural</item>
-        <item>Standard</item>
+        <item>Estándar</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
-    <string-array name="blood_type_entries">
-        <item>@string/oplus</item>
-        <item>@string/ominus</item>
-        <item>@string/aplus</item>
-        <item>@string/aminus</item>
-        <item>@string/bplus</item>
-        <item>@string/bminus</item>
-        <item>@string/abplus</item>
-        <item>@string/abminus</item>
-        <item>@string/hh</item>
-        <item>@string/unknown_blood_type</item>
-    </string-array>
-    <string-array name="blood_type_values">
-        <item>0+</item>
-        <item>O-</item>
-        <item>A+</item>
-        <item>A-</item>
-        <item>B+</item>
-        <item>B-</item>
-        <item>AB+</item>
-        <item>AB-</item>
-        <item>H/H</item>
-        <item></item>
-    </string-array>
-    <string-array name="blood_type_content_description">
-        <item>@string/o_positive</item>
-        <item>@string/o_negative</item>
-        <item>@string/a_positive</item>
-        <item>@string/a_negative</item>
-        <item>@string/b_positive</item>
-        <item>@string/b_negative</item>
-        <item>@string/ab_positive</item>
-        <item>@string/ab_negative</item>
-        <item>@string/h_h</item>
-        <item>@string/unknown_blood_type</item>
-    </string-array>
-    <string-array name="organ_donor_entries">
-        <item>@string/yes</item>
-        <item>@string/no</item>
-        <item>@string/unknown_organ_donor</item>
+        <item>Colores mejorados</item>
+        <item>Colores naturales vistos por el ojo</item>
+        <item>Colores optimizados para contenido digital</item>
     </string-array>
     <string-array name="organ_donor_values">
-        <item>Yes</item>
+        <item>Sí</item>
         <item>No</item>
         <item></item>
     </string-array>
