@@ -15,6 +15,7 @@
   <string name="accessibility_repeats">Repetir</string>
   <string name="accessibility_sync_cal">Sincronizar calendario</string>
   <string name="account_and_calendar">Cuentas</string>
+  <string name="account_and_calendar_to_display">Eventos en el calendario</string>
   <string name="accounts">Cuentas y sincronización</string>
   <string name="acct_not_synced">Esta cuenta no se ha sincronizado por lo que puede que sus calendarios no estén al día.</string>
   <string name="acessibility_cal_notification">Notificación de calendario</string>
@@ -164,12 +165,14 @@
   <string name="event_info_organizer">Organizador:</string>
   <string name="event_info_reminders_label">Recordatorios</string>
   <string name="event_info_reminders_label_1">Recordatorio</string>
+  <string name="event_info_reminders_label_more">Recordatorio %d</string>
   <string name="event_info_repeat">Repetir</string>
   <string name="event_info_title">Detalles del evento</string>
   <string name="event_info_title_invite">Invitación a reunión</string>
   <string name="event_info_when">Cuándo</string>
   <string name="event_info_where">Dónde</string>
   <string name="event_lunar_month">Mes</string>
+  <string name="event_show_more">Mas opciones</string>
   <string name="event_reminder_allday_day_zero">%2$s ese día</string>
   <string name="event_reminders_to_max">Este evento solo admite %d recordatorios</string>
   <string name="event_title">Título</string>
@@ -277,6 +280,8 @@
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">La semana comienza en</string>
   <string name="preferences_week_start_day_title">La semana comienza en</string>
+  <string name="presence_label">Estado</string>
+  <string name="privacy_label">Privacidad</string>
   <string name="refresh">Actualizar</string>
   <string name="reminders_label">Añadir recordatorio</string>
   <string name="repeat_activity_label">Repetir</string>
@@ -326,8 +331,10 @@
   <string name="setting_features_title">Ajustes de las características</string>
   <string name="setting_chinese_almanac">Ver almanaque</string>
   <string name="setting_chinese_holiday">Ver días festivos</string>
+  <string name="setting_homepage">Ajustes de la página de inicio</string>
   <string name="setting_holiday">Festivos</string>
   <string name="setting_holiday_display_desc">Las tarjetas de días festivos se encuentran debajo de la agenda en la página de inicio</string>
+  <string name="setting_holiday_display_title">Mostrar fiestas</string>
   <string name="setting_holiday_reminder">Recordatorio de festivos</string>
   <string name="setting_others">Otros</string>
   <string name="setting_sms_import">Importar eventos por SMS</string>
