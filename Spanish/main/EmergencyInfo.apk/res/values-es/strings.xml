@@ -209,8 +209,6 @@
   <string name="inactive_apps_title">Aplicaciones inactivas</string>
   <string name="keep_screen_on">Pantalla activa</string>
   <string name="keep_screen_on_summary">La pantalla nunca entra en modo de suspensión si el dispositivo se está cargando</string>
-  <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
-  <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
   <string name="legacy_dhcp_client_summary">Utiliza el cliente DHCP de Lollipop en lugar del nuevo cliente DHCP de Android.</string>
   <string name="local_backup_password_summary_change">Tocar para cambiar o quitar la contraseña para las copias de seguridad completas de ordenador</string>
   <string name="local_backup_password_summary_none">Las copias de seguridad completas de ordenador no están protegidas</string>
@@ -271,7 +269,6 @@
   <string name="runningservices_settings_title">Running services</string>
   <string name="saved_network">Saved by %1$s</string>
   <string name="screen_zoom_summary_custom">Custom (%d)</string>
-  <string name="screen_zoom_summary_default">Default</string>
   <string name="screen_zoom_summary_extremely_large">Largest</string>
   <string name="screen_zoom_summary_large">Large</string>
   <string name="screen_zoom_summary_small">Small</string>
@@ -313,13 +310,6 @@
   <string name="title_convert_fbe">Converting to file based encryption</string>
   <string name="track_frame_time">Profile GPU rendering</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
-  <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
-  <string name="tts_default_lang_title">Language</string>
-  <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
-  <string name="tts_default_pitch_title">Pitch</string>
-  <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
-  <string name="tts_default_rate_title">Speech rate</string>
-  <string name="tts_default_sample_string">This is an example of speech synthesis</string>
   <string name="tts_engine_network_required">This language requires a working network connection for text-to-speech output.</string>
   <string name="tts_engine_preference_section_title">Preferred engine</string>
   <string name="tts_engine_security_warning">This speech synthesis engine may be able to collect all the text that will be spoken, including personal data like passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?</string>
