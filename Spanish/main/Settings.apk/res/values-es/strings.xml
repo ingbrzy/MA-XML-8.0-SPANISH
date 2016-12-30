@@ -3690,7 +3690,7 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="select_application">Selecciona una aplicación</string>
   <string name="select_device_admin_msg">Administradores de dispositivos</string>
   <string name="select_logd_size_dialog_title">Elige el tamaño del Logger por búfer</string>
-  <string name="select_logd_size_title">Tamaños del búfer de Logger</string>
+  <string name="select_logd_size_title">Tamaños del búfer del registrador</string>
   <string name="select_sim_card">Seleccione tarjeta SIM</string>
   <string name="select_sim_for_calls">Llamar con</string>
   <string name="select_sim_for_data">Selecciona una SIM de datos</string>
@@ -4169,7 +4169,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
   <string name="storageuse_settings_summary">Ver almacenamiento usado por aplicaciones</string>
   <string name="storageuse_settings_title">Uso de almacenamiento</string>
   <string name="strict_mode">Modo estricto</string>
-  <string name="strict_mode_summary">Parpadear si las aplicaciones tardan mucho en el thread principal</string>
+  <string name="strict_mode_summary">Parpadear cuando las aplicaciones hacen operaciones largas en el hilo principal</string>
   <string name="sub_activate_failed">La Activación Falló.</string>
   <string name="sub_activate_not_supported">Desactivación no soportada</string>
   <string name="sub_activate_success">Activada sin Errores.</string>
