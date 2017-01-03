@@ -2,6 +2,8 @@
 <resources>
   <string name="admin_receiver_status_disable_warning">El administrador de dispositivo de Secure Spaces se re-habilitará cuando y si es necesitado más tarde.</string>
   <string name="app_name">Agente Secure Spaces</string>
+  <string name="btn_title_cancel">Cancelar</string>
+  <string name="btn_title_force">Forzar</string>
   <string name="choice_no">No</string>
   <string name="choice_yes">Sí</string>
   <string name="dialog_download_space_cancel">Cancelar</string>
@@ -31,8 +33,10 @@
   <string name="pref_desc_last_applied_policy">Última política aplicada al dispositivo.</string>
   <string name="pref_desc_policy_delay">Retraso aplicado a cada elemento de la política.</string>
   <string name="pref_desc_sscm_address">Dirección del Servidor SSCM</string>
+  <string name="pref_desc_sscm_force_connection">Activar el websocket de SCCM para volver a conectarse</string>
   <string name="pref_desc_sscm_mailbox">ID Buzón en SSCM</string>
   <string name="pref_desc_sss_address">Dirección del servidor SSM</string>
+  <string name="pref_title_sscm_force_connection">Forzar la conexión SCCM</string>
   <string name="pref_title_in_progress_policy">Política en Progreso</string>
   <string name="pref_title_last_applied_policy">Última Política Aplicada</string>
   <string name="pref_title_policy_delay">Retardo en la Política</string>
