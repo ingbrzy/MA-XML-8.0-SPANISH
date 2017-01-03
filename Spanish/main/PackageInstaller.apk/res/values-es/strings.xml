@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Parse_error_dlg_text">Se ha producido un error al analizar el paquete.</string>
   <string name="Parse_error_dlg_title">Error de análisis</string>
@@ -53,8 +53,8 @@
   <string name="app_process_limit_title">Límite de procesos en segundo plano</string>
   <string name="app_store_install_hint">Instalar ahora</string>
   <string name="app_store_installing_message">Instalando…</string>
-  <string name="app_store_missing_message">"Parece que no has instalado nuestra App Store oficial. ¿Instalarlo ahora?"</string>
-  <string name="app_store_missing_title">"La App Store no está instalada"</string>
+  <string name="app_store_missing_message">Parece que no has instalado nuestra App Store oficial. ¿Instalarlo ahora?</string>
+  <string name="app_store_missing_title">La App Store no está instalada</string>
   <string name="auto_startup_dialog_msg">Esta aplicación puede comenzar sin su permiso.</string>
   <string name="auto_startup_dialog_msg">Esta aplicación puede empezar sin su permiso.</string>
   <string name="available_via_passpoint">Disponible a través de %1$s</string>
