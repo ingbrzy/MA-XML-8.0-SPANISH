@@ -24,7 +24,7 @@
   <string name="already_voted">Votado</string>
   <string name="already_voted_toast">Ya ha votado hoy</string>
   <string name="app_name">Clima</string>
-  <string name="aqi_data_source">Información del clima por Caiyun</string>
+  <string name="aqi_data_source">Información del clima de Colorful Clouds</string>
   <string name="aqi_desc">Indicador de calidad del aíre</string>
   <string name="aqi_detail_24_hours">Pronóstico por Hora</string>
   <string name="aqi_detail_5_days">Pronóstico Diario</string>
@@ -65,8 +65,7 @@
   <string name="common_loading_text">Un momento…</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Pronóstico para %1$s días</string>
-  <string name="daily_forcast_no_stable_direction">Sin viento</string>
-  <string name="daily_forcast_no_wind">Sin viento</string>
+  <string name="daily_forcast_no_stable_direction">Brisa</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s más tarde.</string>
   <string name="daily_forcast_whirl_wind">Torbellino</string>
@@ -103,6 +102,7 @@
   <string name="indices_title_sport">Deporte</string>
   <string name="indices_title_uv">Índice UV</string>
   <string name="indices_title_visibility">Visibilidad</string>
+  <string name="information_manager_extension">Extensión del tiempo</string>
   <string name="information_manager_information">Información meteorológica</string>
   <string name="information_manager_wlan">Cargar cuando se conecte a Wifi</string>
   <string name="information_set">Iniciar los ajustes de la página</string>
@@ -129,11 +129,14 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="no_vote_ratio">En contra %1$s%%</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir en navegador</string>
+  <string name="other">Otro</string>
   <string name="realtime_aqi_title">Indicador de Calidad del Aire</string>
   <string name="realtime_humidity_title">Humedad relativa</string>
   <string name="realtime_wind_default_title">Viento</string>
   <string name="refresh_fail">"No se pudo conectar a la red"</string>
   <string name="retry">Inténtalo de nuevo</string>
+  <string name="search_weather">Tiempo</string>
+  <string name="search_weather_keywords">Temperatura;Pronóstico del tiempo;Tiempo;Calidad del aire;Grado de contaminación;Humedad</string>
   <string name="set">Ajustes</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>

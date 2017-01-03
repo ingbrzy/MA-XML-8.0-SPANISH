@@ -8,6 +8,14 @@
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>
     </string-array>
+    <string-array name="aqi_detail_title">
+        <item>Bueno</item>
+        <item>Moderado</item>
+        <item>Insalubre para grupos sensibles</item>
+        <item>Insalubre</item>
+        <item>Muy Insalubre</item>
+        <item>Peligroso</item>
+     </string-array>
     <string-array name="weather_type">
         <item>Despejado</item>
         <item>Nuboso</item>
@@ -51,6 +59,16 @@
         <item>Inadecuado</item>
     </string-array>
     <string-array name="wind_direction">
+        <item>Norte</item>
+        <item>Nordeste</item>
+        <item>Este</item>
+        <item>Sudeste</item>
+        <item>Sur</item>
+        <item>Suroeste</item>
+        <item>Oeste</item>
+        <item>Noroeste</item>
+      </string-array>
+     <string-array name="wind_direction_simple">
         <item>N</item>
         <item>NE</item>
         <item>E</item>
@@ -60,19 +78,32 @@
         <item>O</item>
         <item>NO</item>
     </string-array>
-    <string-array name="wind_power">
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
+    <string-array name="wind_unit_simple">
+        <item>Escala de Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;fuerza 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Escala de Beaufort</item>
+        <item>Kilómetros por hora (km/h)</item>
+        <item>Metros por segundo (m/s)</item>
+        <item>Millas por hora (mph)</item>
+        <item>Nudos (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>fuerza %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
     </string-array>
 </resources>
