@@ -411,7 +411,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="permission_send_sms_descx">La aplicación podrá enviar SMS y MMS</string>
   <string name="permission_summary_enforced_by_policy">Aplicado por política</string>
   <string name="permission_title">Permisos: %1$s</string>
-  <string name="permission_warning_template">¿Permitir que %1$s pueda %2$s?</string>
+  <string name="permission_warning_template">¿Permitir que &lt;b&gt;%1$s&lt;/b&gt; pueda %2$s?</string>
   <string name="permlab_togglePermissions">alternar permisos</string>
   <string name="picture_color_mode">Modo de color de imagen</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
@@ -509,7 +509,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="uninstall_application_text_user">¿Quiere desinstalar esta aplicación para el usuario %1$s?</string>
   <string name="uninstall_application_title">Desinstalar aplicación</string>
   <string name="uninstall_blocked_device_owner">Esta aplicación es necesaria para el administrador de tu dispositivo y no se puede desinstalar.</string>
-  <string name="uninstall_blocked_profile_owner">Esta aplicación es necesaria para tu perfil de trabajo y no se puede desinstalar.</string>
+  <string name="uninstall_blocked_profile_owner">"Esta aplicación es necesaria para tu perfil y no se puede desinstalar."</string>
   <string name="uninstall_confirm_question">¿Desea desinstalar esta aplicación?</string>
   <string name="uninstall_done">Desinstalación completada</string>
   <string name="uninstall_failed">Desinstalación correcta</string>
