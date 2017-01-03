@@ -329,7 +329,11 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="miui_failed_newer_sdk">La versión de SDK ya no está soportada</string>
   <string name="miui_failed_older_sdk">La versión de SDK es demasiado antigua</string>
   <string name="miui_failed_other">Otro</string>
+  <string name="miui_failed_parse">No se pudo analizar el paquete de instalación</string>
+  <string name="miui_failed_permission_model_downgrade">No se puede degradar permisos</string>
+  <string name="miui_failed_system_incompatible">Paquete de instalación incompatible</string>
   <string name="miui_failed_update_incompatible">Conficlto en firmas de aplicaciones</string>
+  <string name="miui_failed_version_downgrade">No se puede volver a una versión anterior de la aplicación</string>
   <string name="miui_failed_version_downgrade_space">Hay un versión más reciente de esta aplicación en Segundo espacio. Desinstálela en Segundo espacio, y luego instálela aquí.</string>
   <string name="miui_help_feedback_label">Ayuda y comentarios</string>
   <string name="miui_install_confirm_question">¿Instalar esta aplicación?</string>
