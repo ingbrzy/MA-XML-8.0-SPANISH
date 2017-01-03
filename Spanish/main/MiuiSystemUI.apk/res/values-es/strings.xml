@@ -121,7 +121,7 @@
   <string name="bluetooth_headset_profile_summary_use_for">Usar para el audio del teléfono</string>
   <string name="bluetooth_hid_profile_summary_connected">Conectado para dispositivo de entrada</string>
   <string name="bluetooth_hid_profile_summary_use_for">Usar como entrada</string>
-  <string name="bluetooth_map_profile_summary_connected">Conectado para mapa</string>
+  <string name="bluetooth_map_profile_summary_connected">Conectado para MAP</string>
   <string name="bluetooth_map_profile_summary_use_for">Usar para el mapa</string>
   <string name="bluetooth_opp_profile_summary_connected">Conectado para la transferencia de archivos</string>
   <string name="bluetooth_opp_profile_summary_not_connected">No conectado al servidor de transferencia de archivos</string>
@@ -339,6 +339,10 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="not_support_multi_window">"La aplicación actual no admite modo de pantalla dividida"</string> 
   <string name="notification_header_title">Notificaciones</string>
   <string name="notification_hidden_text">Contenido oculto</string>
+  <string name="notification_low_battery_action_btn">Activar</string>
+  <string name="notification_low_battery_need_charge">La batería está baja. Cargue su dispositivo.</string>
+  <string name="notification_low_battery_open_save_mode">Activar el Ahorro de batería</string>
+  <string name="notification_low_battery_title">Batería baja: %d%%</string>
   <string name="notification_manager">Administrar notificaciones</string>
   <string name="notification_manager_des">Filtrar y administrar notificaciones</string>
   <string name="notification_otg_gamestick_in">Control de juego conectado</string>
