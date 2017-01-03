@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Calculadora</string>
+  <string name="app_name_danfa">Calculadora Mi</string>
   <string name="cal_convert_to_word_figure">Convertir a los caracteres financieros</string>
   <string name="cal_copy">Copiar</string>
   <string name="cal_edit_mode">Modo de edición</string>
@@ -25,7 +26,7 @@
   <string name="convertion_unit_weight">Conversor de pesos</string>
   <string name="cos">cos</string>
   <string name="cosDesc">coseno</string>
-  <string name="currency_update_time_format">Actualizado %s</string>
+  <string name="currency_update_time_format">Los tipos de cambio son proporcionados por webull (%s)</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">día</string>
   <string name="del">BOR</string>
@@ -133,10 +134,14 @@
   <string name="power">^</string>
   <string name="powerDesc">potencia</string>
   <string name="preference_about_calculator">Sobre la calculadora</string>
+  <string name="preference_alert_follow_qq_group">Copia y pega en QQ para comentarios</string>
   <string name="preference_alert_follow_wechat">Copia y pega en WeChat para seguirnos</string>
   <string name="preference_alert_follow_wechat_button">Copiar</string>
+  <string name="preference_check_update_summary_current_version">Versión actual：%s</string>
+  <string name="preference_check_update_summary_new_version">Tiene nueva versión：%s</string>
   <string name="preference_check_update_title">Comprobar actualizaciones</string>
   <string name="preference_feedback_title">Preguntas frecuentes</string>
+  <string name="preference_follow_qq_group">Grupo QQ:523274279</string>
   <string name="preference_follow_us">Síguenos</string>
   <string name="preference_follow_web_title">Página Web Oficial</string>
   <string name="preference_follow_wechat_summary">MIUI</string>
