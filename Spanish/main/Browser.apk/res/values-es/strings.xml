@@ -309,6 +309,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="find_on_page_next">Siguiente</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Buscar anterior</string>
+  <string name="fling_on_border_gesture_hint">Puede elegir la función de este gesto en Ajustes</string>
   <string name="force_quick_search_title">Buscar</string>
   <string name="force_touch_bookmark_history_title">Marcadores e historial</string>
   <string name="force_touch_infoflow_title">Noticias</string>
@@ -329,6 +330,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="gold_medals">Medallas de oro</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Puesto en la pantalla de inicio</string>
+  <string name="hint">Pista</string>
   <string name="history_saved_webpage">Guardar página</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Borrar</string>
@@ -413,6 +415,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Desactivar el modo avión para conectar</string>
   <string name="miuichromium_error_page_btn_close">Cerrar</string>
   <string name="miuichromium_error_page_btn_refresh">Refrescar</string>
+  <string name="miuichromium_error_page_btn_report_issue">Informar problema</string>
   <string name="miuichromium_error_page_diagnose">Diagnóstico de la red</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnóstico de la red</string>
   <string name="miuichromium_error_page_diagnose_certificate">No se pudo verificar el protocolo de red</string>
@@ -533,8 +536,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_file_download_default_path_prefix">Ruta de acceso predeterminada: %s</string>
   <string name="pref_file_download_save_modify_default_path">Ruta de acceso de las descargas</string>
   <string name="pref_file_download_save_title">Descargas</string>
-  <string name="pref_fling_on_border_enabled">Deslizar desde el borde</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Deslice desde el borde derecho o izquierdo de la pantalla para cambiar entre las pestañas</string>
+  <string name="pref_fling_on_border">Deslizar desde el borde</string>
+  <string name="pref_fling_on_border_title_summary">Deslizar desde el borde izquierdo o derecho de la pantalla</string>
   <string name="pref_font_size_category">Tamaño de letra</string>
   <string name="pref_force_userscalable">Forzar zoom</string>
   <string name="pref_force_userscalable_summary">"Anular la solicitud del sitio para controlar el comportamiento del zoom"</string>
