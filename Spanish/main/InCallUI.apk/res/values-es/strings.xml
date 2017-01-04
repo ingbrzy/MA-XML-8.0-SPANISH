@@ -32,7 +32,9 @@
   <string name="callFailed_unobtainable_number">Número no válido</string>
   <string name="callFailed_userBusy">Línea ocupada</string>
   <string name="callUnanswered_forwarded">Llamada no respondida y desviada</string>
+  <string name="call_button_conference_manager_text">Gerente de la conferencia</string>
   <string name="call_button_dialer_text">Teclado</string>
+  <string name="call_button_mute_text">Silencio</string>
   <string name="call_button_tools_text">Características</string>
   <string name="call_contacts_deny_permission_msg">"Has denegado la lectura de contactos, no se puede mostrar su información."</string>
   <string name="call_description_recording">Grabando…</string>
@@ -64,6 +66,7 @@
   <string name="card_title_hanging_up">"Colgando "</string>
   <string name="card_title_in_call">En llamada</string>
   <string name="card_title_in_call_short">En llamada</string>
+  <string name="card_title_in_video">Vídeo </string>
   <string name="card_title_incoming_call">Llamada entrante</string>
   <string name="card_title_incoming_conference_call">Conferencia entrante</string>
   <string name="card_title_on_hold">"En espera "</string>
@@ -74,6 +77,8 @@
   <string name="card_title_upgrade_video_call_timed_out">"No se pudo actualizar video"</string>
   <string name="card_title_video_call">Video llamada</string>
   <string name="card_title_video_call_paused">Video pausado</string>
+  <string name="card_title_video_conf_call">Videoconferencia</string>
+  <string name="card_video_hold_swap">Cambiar</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s personas</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
@@ -244,6 +249,7 @@
   <string name="unknown">Desconocido</string>
   <string name="upgrade_vt_prompt">¿Quieres cambiar la llamada a llamada de vídeo?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Desactiva primero modo TTY</string>
+  <string name="video_conference_caller_info_name">"%1$s(s) videoconferencia"</string>
   <string name="video_switch_to_voice_call_prompt">Cambiar a llamada de voz</string>
   <string name="voicemail">Buzón de Voz</string>
   <string name="wait_prompt_str">"¿Enviar los siguientes tonos?
