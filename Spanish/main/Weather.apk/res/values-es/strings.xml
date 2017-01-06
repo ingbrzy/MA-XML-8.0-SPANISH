@@ -89,7 +89,7 @@
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Humedad %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
-  <string name="indices_desc_pressure">%1$s hPa</string>
+  <string name="indices_desc_pressure">%1$shPa</string>
   <string name="indices_desc_visibility">%1$skm</string>
   <string name="indices_no_restriction">Ninguna</string>
   <string name="indices_title">Actividades recomendadas</string>
@@ -130,6 +130,7 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir en navegador</string>
   <string name="other">Otro</string>
+  <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Indicador de Calidad del Aire</string>
   <string name="realtime_humidity_title">Humedad relativa</string>
   <string name="realtime_wind_default_title">Viento</string>
