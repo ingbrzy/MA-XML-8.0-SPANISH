@@ -3,6 +3,8 @@
   <string name="SMTP_independent_verification_text">Verificación independiente de SMTP</string>
   <string name="SMTP_password_text">Contraseña</string>
   <string name="SMTP_username_text">Nombre de usuario</string>
+  <string name="accessibility_guide_first">En la siguiente pantalla, seleccione \"Servicios\" para activar el ajuste automático del buzón 139</string>
+  <string name="accessibility_guide_second">Luego haga clic en el interruptor en la esquina superior derecha, haga clic en \"Confirmar\" y continuar.</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_name_toast">Ya existe una cuenta con el mismo nombre</string>
@@ -138,7 +140,7 @@
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Guardar durante</string>
   <string name="account_setup_options_title">Configuración de la cuenta</string>
   <string name="account_setup_outgoing_port_label">Puerto</string>
-  <string name="account_setup_outgoing_require_login_label">Requerir inicio de sesión</string>
+  <string name="account_setup_outgoing_require_login_label">Necesitas iniciar sesión</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
   <string name="account_setup_security_policies_required_fmt">"El servidor %s requiere que le permita controlar remotamente algunas funciones de seguridad de su dispositivo Android. ¿Desea finalizar la configuración de esta cuenta?"</string>
   <string name="account_setup_security_required_title">Administración de seguridad remota</string>
@@ -201,6 +203,14 @@
   <string name="auto_advance_help_title">Después de eliminar un mensaje, ver…</string>
   <string name="auto_advance_label">Eliminar flujo de mensajes</string>
   <string name="auto_advance_summary">Elegir a qué mensaje desplazarse tras eliminar otro mensaje</string>
+  <string name="auto_mail_describe">Servicio de correo electrónico de ajuste automático le puede ayudar a rellenar la información de inicio de sesión en el buzón de correo 139. ¿Desea activar esta función?</string>
+  <string name="auto_mail_disable_txt">Desactivar</string>
+  <string name="auto_mail_enable_txt">Iniciar ajustes</string>
+  <string name="auto_mail_go_email">Buzón</string>
+  <string name="auto_mail_name">AutoMail</string>
+  <string name="auto_mail_title_note">Encuentra la opción \"Configuración automático del buzón 139\", haga clic en él para iniciar.</string>
+  <string name="auto_mail_window_description">Servicio de correo electrónico de ajuste automático 139</string>
+  <string name="auto_mail_window_label">Ajuste automático del buzón 139</string>
   <string name="auto_sync_off">La sincronización automática está desactivada.</string>
   <string name="battery_saver">Ahorro de batería</string>
   <string name="battery_saver_keywords">Ahorro de batería;batería de correo</string>
@@ -236,6 +246,7 @@
   <string name="clear_display_images_whitelist_title">Limpiar aprobaciones de fotos</string>
   <string name="click_download_all_content">[ Pulse para descargar contenido ]</string>
   <string name="click_to_reload">Toque la pantalla para actualizar</string>
+  <string name="close">Apagar</string>
   <string name="collapse_recipient_details">Contraer detalles del destinatario</string>
   <string name="colon">:</string>
   <string name="compose">Crear</string>
@@ -243,6 +254,9 @@
   <string name="compose_paste_address_oob">Demasiados caracteres</string>
   <string name="compose_picturesexceedlimits">No se puede exceder de 5 imágenes por línea en el mensaje</string>
   <string name="compose_send">Enviar</string>
+  <string name="config">Ajustes del número de teléfono del buzón 139</string>
+  <string name="config_cancel">Cancelar</string>
+  <string name="config_retry">Reintentar</string>
   <string name="compose_sent">Correo enviado</string>
   <string name="confirm">Ok</string>
   <string name="confirm_before_delete">Confirmar antes de eliminar</string>
@@ -295,7 +309,7 @@
   <string name="conversation_item_mark_unread">No leído</string>
   <string name="conversation_photo_welcome_text">Pulse en la imagen de un remitente para seleccionar la conversación.</string>
   <string name="conversation_quick_button_approve">Aceptar</string>
-  <string name="conversation_quick_button_disapprove">Rechazar</string>
+  <string name="conversation_quick_button_disapprove">Cancelar</string>
   <string name="conversation_quick_button_received">Recibido</string>
   <string name="conversation_view">Vista de la conversación</string>
   <string name="conversation_view_keywords">vista de la conversación;conversación del correo</string>
@@ -357,6 +371,7 @@
   <string name="drawer_open">Abrir el panel de navegación</string>
   <string name="edit_quick_response_dialog">Respuesta rápida</string>
   <string name="elided_padding_token"> </string>
+  <string name="email_address">Dirección de correo electrónico</string>
   <string name="email_netease">Correo NetEase</string>
   <string name="email_qq">Correo QQ</string>
   <string name="email_setting">Correo</string>
@@ -370,6 +385,7 @@
   <string name="empty_trash_dialog_title">¿Vaciar papelera?</string>
   <string name="enable_sync_in_account_settings">Actívela en %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
+  <string name="error">error</string>
   <string name="exception_cancel">"
         Este evento se ha cancelado
         por:
@@ -394,6 +410,10 @@
   <string name="file_not_found_redownload">No se pudo encontrar el archivo</string>
   <string name="file_rar_not_support">No es posible abrir archivos rar cifrados</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
+  <string name="first_quick_default_reply">Pulse en el botón para enviar \"%s\" a todas las personas en la conversación</string>
+  <string name="float_window_content">Detecta que está utilizando el buzón, haga clic en Confirmar para que llene automáticamente la Cuenta de correo electrónico y contraseña de 139.</string>
+  <string name="float_window_info">"Al hacer ajustes en el buzón de correo 139, no utilice el teléfono, puede tener de fallos en ajustes."</string>
+  <string name="float_window_title">Ajustando………</string>
   <string name="folder_list_display_all">Mostrar todas las carpetas</string>
   <string name="folder_list_display_only_import">Solo mostrar carpetas importantes</string>
   <string name="folder_picker_title">Seleccionar carpetas</string>
@@ -430,6 +450,7 @@
   <string name="header_category_other">Comentarios</string>
   <string name="header_label_general_preferences">General</string>
   <string name="help_and_info">Ayuda</string>
+  <string name="help_config">Autoajustes</string>
   <string name="hide_atts_remaining">Ocultar %1$d adjuntos</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hint_quick_reply_all">Responder a todos</string>
@@ -453,6 +474,7 @@
   <string name="local_search">Búsqueda local</string>
   <string name="local_search_result">%s resultados en mensajes sincronizados</string>
   <string name="login">Iniciar sesión</string>
+  <string name="login139">Iniciar sesión con una tecla CMCC</string>
   <string name="login_failed_ticker">Fallo al iniciar sesión en %s.</string>
   <string name="login_failed_title">No es posible iniciar sesión</string>
   <string name="long_press_to_select_tip">Pulse y mantenga pulsado para seleccionar una conversación; a continuación, pulse para seleccionar más.</string>
@@ -569,6 +591,7 @@ Declinado:
   <string name="mute">Silenciar</string>
   <string name="network_error">Sin conexión</string>
   <string name="network_not_available">No se puede conectar a la red</string>
+  <string name="network_tip">Error de autenticación, compruebe la conexión de red</string>
   <string name="network_try_again">Compruebe la conexión de red e inténtelo de nuevo</string>
   <string name="network_unavailable">La red no está disponible</string>
   <string name="new_incoming_messages_one">Nuevo mensaje de %s. Mostrar.</string>
@@ -582,8 +605,11 @@ Declinado:
   <string name="no_conversations">Sin mensajes</string>
   <string name="no_mails">No hay correo.</string>
   <string name="no_matched_attachment">Sin resultados.</string>
+  <string name="no_remind">No recordar</string>
   <string name="not_subject">(Sin asunto)</string>
   <string name="not_synced_title">Cuenta no sincronizada</string>
+  <string name="note_text">Posible a través de la red de China Mobile o verificación de SMS, puede generar costes adicionales para el flujo o SMS.</string>
+  <string name="note_title">Ajuste automático de correo electrónico 139</string>
   <string name="notification_action_archive">Archivo</string>
   <string name="notification_action_delete">Eliminar</string>
   <string name="notification_action_remove_label">Eliminar etiqueta</string>
@@ -596,6 +622,7 @@ Declinado:
   <string name="oauth_error_description">No se pudo autenticar</string>
   <string name="oauth_gmail_login_notify">Introduzca su usuario y contraseña de su cuenta de Google en la siguiente pantalla de inicio de sesión.</string>
   <string name="oauth_login_continue">Continuar</string>
+  <string name="oauth_login_continue_qq">Obtener código de autorización para iniciar sesión &gt;</string>
   <string name="ok">Ok</string>
   <string name="okay_action">Ok</string>
   <string name="outbox_alert_button_no_resend">No enviar</string>
@@ -619,6 +646,10 @@ Declinado:
   <string name="outbox_alert_select_operation">Elija una acción</string>
   <string name="outbox_alert_title_sent_failed">No se ha podido enviar el correo</string>
   <string name="outbox_no_mails">Vacío</string>
+  <string name="overlays_fail_tip">Lo siento mucho de que su buzón no tenga los ajustes correctamente, abra los permisos flotantes de Windows e inténtelo de nuevo</string>
+  <string name="overlays_ok">Abrir permisos</string>
+  <string name="overlays_tip">Abra los permisos flotantes de Windows y disfrute inmediatamente del buzón 139 para ajustar automáticamente la experiencia extrema.</string>
+  <string name="overlays_title">Abrir permisos de Windows flotantes</string>
   <string name="parase_setup_data">Obteniendo datos…</string>
   <string name="password_expire_warning_content_title">Contraseña de de bloqueo de pantalla caducada</string>
   <string name="password_expire_warning_dialog_content_fmt">Debe cambiar su contraseña o PIN de bloqueo pronto, o la información de %s será eliminada. ¿Quiere cambiarla ahora?</string>
@@ -647,6 +678,7 @@ Declinado:
   <string name="permission_access_provider_label">Acceder a los datos de usuario</string>
   <string name="permission_read_attachment_desc">Permite a la aplicación leer los adjuntos de sus correos</string>
   <string name="permission_read_attachment_label">Leer archivos adjuntos</string>
+  <string name="permission_tip">Los ajustes fallaron, por favor permita llamadas y mensajes de texto durante los permisos de ajustes</string>
   <string name="phone">teléfono</string>
   <string name="photo_load_failed">No se puede cargar la imagen</string>
   <string name="photo_view_count" formatted="false">%d de %d</string>
@@ -703,6 +735,17 @@ Declinado:
   <string name="push_wps_confirm_message">Pruebe a utilizar WPS Office para abrir este adjunto.</string>
   <string name="push_wps_confirm_title">Probar WPS Office</string>
   <string name="push_wps_no_response_app">No se encontró una aplicación para llevar a cabo esta acción</string>
+  <string name="qq_bar_open_imap">Habilitar</string>
+  <string name="qq_bar_send_message">Enviar SMS</string>
+  <string name="qq_login_basecode">Inicio de sesión QQ Correo electrónico a través de la página web. Por favor, introduzca su contraseña independiente.</string>
+  <string name="qq_login_get_auth">¿No se pudo enviar un SMS de verificación? Por favor autentique a través de las preguntas de protección de contraseña</string>
+  <string name="qq_login_open_imap">Hacer clic \"Habilitar\" para permitir \"IMAP/SMTP\"</string>
+  <string name="qq_login_origin_setting">Introduzca el nombre de usuario y la contraseña para iniciar sesión &gt;</string>
+  <string name="qq_login_send_message">Hacer clic \"Enviar SMS\" para obtener un código de autorización</string>
+  <string name="qq_login_webview">Inicio de sesión QQ Correo electrónico a través de la página web. Por favor, introduzca su contraseña.</string>
+  <string name="qq_next_generation_auth_toast">Complete la solicitud de protección de contraseña de segunda generación a través del navegador</string>
+  <string name="qq_uthentication_failed">Se ha producido un error en la autenticación, inicia sesión de nuevo.</string>
+  <string name="qq_webview_loading">Saltando ahora, por favor espere...</string>
   <string name="questionnair_body_invisibility">No se mostrarán los mensajes</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
   <string name="questionnair_instability">Falla con frecuencia</string>
@@ -803,7 +846,7 @@ Declinado:
   <string name="senders_split_token">, </string>
   <string name="sending">Enviando…</string>
   <string name="sending_message">Enviando mensaje…</string>
-  <string name="sending_quick_reply">Enviando correo \"%s\"</string>
+  <string name="sending_quick_reply">Enviando \"%s\"</string>
   <string name="sent_folder_selection_title">Seleccione la carpeta de elementos enviados para %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"No se pudo validar el certificado del servidor
 \u0009 (Asegúrese de que la 'Hora de sincronización automática' esté activada en Ajustes)"</string>
@@ -833,6 +876,7 @@ Declinado:
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="sms_tip">La autenticación falla, compruebe si el software antivirus bloquea los SMS</string>
   <string name="smtp_password_error">La contraseña del servidor de correo saliente es incorrecta</string>
   <string name="sort_attachment">Ordenar por</string>
   <string name="special_text_1">Escribió:</string>
@@ -908,6 +952,13 @@ Declinado:
   <string name="wait_for_manual_sync_body">"Esta cuenta no esta configurada para sincronizarse automáticamente.
 Pulse "<b>Sincronizar ahora</b> para sincronizar el correo una vez, o <b>Cambiar ajustes de sincronización</b> para sincronizar el correo de esta cuenta automáticamente.</string>
   <string name="wait_for_sync_title">Esperando sincronización</string>
+  <string name="wait_help_context">espere</string>
+  <string name="webview_logout">¿Realmente quieres dejar de ingresar? ¡Venga y vuelva a intentarlo!</string>
+  <string name="webview_logout_cancel">"No volveré a probar más"</string>
+  <string name="webview_logout_sure">Intentar una vez más</string>
+  <string name="webview_sslerror_handle_cancel">Cancelar</string>
+  <string name="webview_sslerror_handle_continue">Continuar</string>
+  <string name="webview_sslerror_handle_hitmessage">¡Error de certificado! ¿Vaya a este sitio web (no recomendado)?</string>
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Otros</string>
