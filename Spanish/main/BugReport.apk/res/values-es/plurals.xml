@@ -2,7 +2,7 @@
 <resources>
     <plurals name="time_in_hour">
         <item quantity="other">Hace %1$d horas</item>
-        <item quantity="one">"Hace %1$d hora "</item>
+        <item quantity="one">Hace %1$d hora</item>
     </plurals>
     <plurals name="time_in_minute">
         <item quantity="other">Hace %1$d minutos</item>
