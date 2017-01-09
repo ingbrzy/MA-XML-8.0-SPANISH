@@ -92,7 +92,7 @@
   <string name="call_telex">Llamada télex</string>
   <string name="call_tty_tdd">Llamada TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
-  <string name="call_unit">USD</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">Llamar al trabajo</string>
   <string name="call_work_mobile">Llamada de trabajo móvil</string>
   <string name="call_work_pager">Localizador de trabajo llamada</string>
@@ -396,6 +396,10 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="dialog_voicemail_airplane_mode_message">Para llamar al correo de voz, primero desactivar el modo avión.</string>
   <string name="dialog_voicemail_not_ready_message">Para configurar el correo de voz, vaya a Menú &gt; configuración.</string>
   <string name="directory_search_label">Agenda</string>
+  <string name="disclaimer_text">"Las páginas amarillas obtienen información sobre su saldo enviando un SMS. Su operadora puede actualizar esta información con un retraso, por lo que los números que obtenga pueden no ser exactos. Si ve un error, puede reportar el SMS de la consulta para ayudarnos a mejorar este servicio. 
+
+Para evitar consultas frecuentes, actualizamos la información del saldo una vez al día."</string>
+  <string name="disclaimer_title">Renuncia</string>
   <string name="display_all_contacts">Todos los contactos</string>
   <string name="display_more_groups">Más grupos…</string>
   <string name="display_only_phones">Ocultar números incompletos</string>
@@ -1026,6 +1030,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="remove_duplicate">"MIUI te ayudará a encontrar y combinar contactos duplicados.
 
   Para empezar, toque el icono de fusión en la parte inferior de la pantalla."</string>
+  <string name="report_inquiry_mms">Informe de SMS</string>
   <string name="restore_nickname">Restaurar</string>
   <string name="ret_sign">"
 "</string>
