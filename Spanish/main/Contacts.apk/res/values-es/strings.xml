@@ -57,7 +57,7 @@
   <string name="callAgain">Llamar de nuevo</string>
   <string name="callBack">Devolver la llamada</string>
   <string name="callDetailTitle">Detalles de la llamada</string>
-  <string formatted="false" name="callDetailsDurationFormat">%s min %s seg</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s min %s seg</string>
   <string name="callShortcutActivityTitle">Elija un número para llamar</string>
   <string name="call_assistant">Llamar %s</string>
   <string name="call_callback">Devolución de llamada</string>
@@ -450,13 +450,13 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="exporting_contact_failed_message">Error al exportar datos del contacto. Motivo: \"%s\"</string>
   <string name="exporting_contact_failed_title">No se puede exportar</string>
   <string name="exporting_contact_list_message">Exportando a %s.</string>
-  <string formatted="false" name="exporting_contact_list_progress">%s de %s contactos</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
   <string name="exporting_contact_list_title">Exportar datos de contacto</string>
   <string name="exporting_vcard_canceled_title">Exportación de %s cancelado.</string>
   <string name="exporting_vcard_finished_title">Exportación %s terminada.</string>
   <string name="external_profile_title">Mi perfil de %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">No se puede comenzar el exportador: \"%s\".</string>
-  <string formatted="false" name="fail_reason_could_not_open_file">No pudo abrir \"%s\": %s.</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">No pudo abrir \"%s\": %s.</string>
   <string name="fail_reason_error_occurred_during_export">Se ha producido un error durante la exportación: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">No pudo recoger información meta de los archivos vCard.</string>
   <string name="fail_reason_failed_to_read_files">Uno o más archivos no pudieron ser importados (%s).</string>
@@ -1172,7 +1172,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="simContacts_title">Contactos de la tarjeta SIM</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Ver la capacidad de la tarjeta SIM</string>
-  <string formatted="false" name="sim_capacity_content">Capacidad total %d | Usada %d</string>
+  <string name="sim_capacity_content" formatted="false">Capacidad total %d | Usada %d</string>
   <string name="sim_card_no_free_space_message">No hay espacio suficiente</string>
   <string name="sim_card_no_free_space_title">Tarjeta SIM llena</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleccionar todo</string>
