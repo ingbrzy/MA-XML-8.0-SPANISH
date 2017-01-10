@@ -8,4 +8,13 @@
         <item quantity="other">"No se han añadido %d juegos"</item>
         <item quantity="one">"No se ha añadido %d juego"</item>
     </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d aplicaciones encontradas</item>
+        <item quantity="zero">0 aplicaciones encontradas</item>
+        <item quantity="one">%d aplicación encontrada</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Buscar entre %d aplicaciones</item>
+        <item quantity="one">Buscar entre %d aplicación</item>
+    </plurals>
 </resources>
