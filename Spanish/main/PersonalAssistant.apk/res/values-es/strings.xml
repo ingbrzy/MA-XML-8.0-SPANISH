@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_title">Asistente inteligente</string>
   <string name="accordingto_position">Reconocer lugares frecuentes usando GPS</string>
@@ -44,6 +44,8 @@
   <string name="data_error">Se ha producido un error. Espere unos minutos y vuelva a intentarlo.</string>
   <string name="data_error_show">"El pedido se ha completado, no se puede ver detalles"</string>
   <string name="drive">Manejar</string>
+  <string name="duokan_open">Abrir más cartas de lectura</string>
+  <string name="duokan_reading">leer más</string>
   <string name="duokan_setting_brief">Sigue leyendo desde el lugar que lo dejó.</string>
   <string name="entrance">Atajos de tarjeta</string>
   <string name="exercise_setting_brief">Ver sus estadísticas de actividad.</string>
@@ -69,6 +71,7 @@
   <string name="home">Casa</string>
   <string name="home_and_company">Casa y trabajo</string>
   <string name="immediate_recommendation">Recomendaciones</string>
+  <string name="keyword_recommend">Recomendado</string>
   <string name="launch_app">Recomendaciones de la aplicación</string>
   <string name="launch_change_order">Cambiar orden</string>
   <string name="launch_enable">Mostrar tarjetas de acceso rápido</string>
@@ -86,6 +89,14 @@
   <string name="locating_fail">"No se pudo obtener la ubicación"</string>
   <string name="locations">Lugares frecuentes</string>
   <string name="locations_preferences">Lugares frecuentes y preferencias</string>
+  <string name="map_msg_smooth">Todas las rutas actuales</string>
+  <string name="map_msg_sufix">, detalles</string>
+  <string name="map_title_baidu_middle">sobre</string>
+  <string name="map_title_blocked">congestionamientos</string>
+  <string name="map_title_blocked_last">a kilómetros</string>
+  <string name="map_title_congestion">congestión de carretera</string>
+  <string name="map_title_congestion_last">congestión en kilómetros</string>
+  <string name="map_title_smooth">Flujo general</string>
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sport_go_install">Descargar</string>
   <string name="mi_sport_not_installed">"Esta aplicación no está instalada en tu teléfono. No se puede usar esta tarjeta ahora."</string>
@@ -99,6 +110,7 @@
   <string name="navigation_network_location_not_enabled_title">Activar los servicios de ubicación</string>
   <string name="navigation_search_automatically_positioned_city">Obtener información sobre la ciudad utilizando la ubicación actual</string>
   <string name="navigation_search_current_city">Ciudad actual:</string>
+  <string name="navigation_search_default_hint">Buscar elemento aquí</string>
   <string name="navigation_search_no_city_list">No hay ciudades</string>
   <string name="navigation_search_positioning">Obtener información de ubicación…</string>
   <string name="navigation_search_positioning_failed">"No se pudo obtener la ubicación, selecciona la ciudad manualmente"</string>
