@@ -66,4 +66,14 @@
         <item>Clean Master</item>
         <item>Tencent</item>
     </string-array>
+    <string-array name="wechat_menu_delete">
+        <item>Limpiar</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+        <item>Limpiar</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Limpiar</item>
+        <item>Ver</item>
+    </string-array>
 </resources>
