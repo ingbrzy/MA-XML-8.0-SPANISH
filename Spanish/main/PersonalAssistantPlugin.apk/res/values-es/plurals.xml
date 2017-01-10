@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">hace %1$dmin</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">hace %1$dhr</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">hace %1$dd</item>
+    </plurals>
+</resources>

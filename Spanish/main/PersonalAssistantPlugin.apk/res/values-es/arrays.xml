@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="express_status_detail">
+        <item>En camino</item>
+        <item>Despachado</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>En camino</item>
+        <item>Despachado</item>
+        <item>Enviado</item>
+        <item>Piezas dificultosas</item>
+        <item>Ha sido entregado</item>
+        <item>Firmado</item>
+        <item>Regreso</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Media noche</item>
+        <item>Antes del amanecer</item>
+        <item>Mañana</item>
+        <item>Medio día</item>
+        <item>Al atardecer</item>
+        <item>Tarde</item>
+        <item>En la noche</item>
+    </string-array>
+    <string-array name="icon_pkg">
+        <item>música</item>
+        <item>mapa</item>
+        <item>taxiuber</item>
+    </string-array>
+</resources>
