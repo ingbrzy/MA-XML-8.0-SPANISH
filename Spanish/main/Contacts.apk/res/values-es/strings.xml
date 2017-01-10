@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="accessibility_calllog_detail">Detalles de registro la llamada</string>
   <string name="account_container_title">Importado de</string>
@@ -57,7 +57,7 @@
   <string name="callAgain">Llamar de nuevo</string>
   <string name="callBack">Devolver la llamada</string>
   <string name="callDetailTitle">Detalles de la llamada</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s min %s seg</string>
+  <string formatted="false" name="callDetailsDurationFormat">%s min %s seg</string>
   <string name="callShortcutActivityTitle">Elija un número para llamar</string>
   <string name="call_assistant">Llamar %s</string>
   <string name="call_callback">Devolución de llamada</string>
@@ -356,19 +356,19 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="device_pairing_dialog_message">Emparejando…</string>
   <string name="device_pairing_dialog_title">Dispositivos emparejados</string>
   <string name="device_transfer_by_bluetooth_message">"1. Por favor, active la función de \"Bluetooth\" encendido;
-        
+
 
 - Los dispositivos Android suelen encontrar el \"Bluetooth\" bajo la sección de red
-        
+
 - Los dispositivos iOS deben buscar \"Bluetooth\" dentro de Ajustes
-        
+
 
 2. Los dispositivos Android también deben estar \"Visible\" optión activo;
-        
+
 
 3. Hacer clic \"Siguiente\", y permite a los contactos acceder a permiso en el siguiente paso."</string>
   <string name="device_transfer_by_sim_message">"1. Guardar los contactos del otro dispositivo en la tarjeta SIM;
-        
+
 
 2. Ir \"Ajustes de contactos\" -- \"Importar/Exportar contactos\" -- \"Importar desde la tarjeta SIM\", presione cualquier contacto SIM, elija los contactos que desea importar y haga clic en \"Importar\" opción."</string>
   <string name="device_version_header_bluetooth">Importar a través de Bluetooth</string>
@@ -387,6 +387,9 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="dialer_menu_title">Opciones de menú</string>
   <string name="dialer_returnToInCallScreen">Retornar a la llamada en progreso</string>
   <string name="dialer_useDtmfDialpad">Usar el teclado de marcación por tonos</string>
+  <string name="dialog_device_info_hardware_version">Versión de Hardware: %s</string>
+  <string name="dialog_device_info_miui_version">Versión MIUI: %s</string>
+  <string name="dialog_device_info_title">Información de versión</string>
   <string name="dialog_import">Importar contactos</string>
   <string name="dialog_import_export">Importar/exportar contactos</string>
   <string name="dialog_new_contact_account">Crear contacto bajo una cuenta</string>
@@ -396,7 +399,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="dialog_voicemail_airplane_mode_message">Para llamar al correo de voz, primero desactivar el modo avión.</string>
   <string name="dialog_voicemail_not_ready_message">Para configurar el correo de voz, vaya a Menú &gt; configuración.</string>
   <string name="directory_search_label">Agenda</string>
-  <string name="disclaimer_text">"Las páginas amarillas obtienen información sobre su saldo enviando un SMS. Su operadora puede actualizar esta información con un retraso, por lo que los números que obtenga pueden no ser exactos. Si ve un error, puede reportar el SMS de la consulta para ayudarnos a mejorar este servicio. 
+  <string name="disclaimer_text">"Las páginas amarillas obtienen información sobre su saldo enviando un SMS. Su operadora puede actualizar esta información con un retraso, por lo que los números que obtenga pueden no ser exactos. Si ve un error, puede reportar el SMS de la consulta para ayudarnos a mejorar este servicio.
 
 Para evitar consultas frecuentes, actualizamos la información del saldo una vez al día."</string>
   <string name="disclaimer_title">Renuncia</string>
@@ -447,13 +450,13 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="exporting_contact_failed_message">Error al exportar datos del contacto. Motivo: \"%s\"</string>
   <string name="exporting_contact_failed_title">No se puede exportar</string>
   <string name="exporting_contact_list_message">Exportando a %s.</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
+  <string formatted="false" name="exporting_contact_list_progress">%s de %s contactos</string>
   <string name="exporting_contact_list_title">Exportar datos de contacto</string>
   <string name="exporting_vcard_canceled_title">Exportación de %s cancelado.</string>
   <string name="exporting_vcard_finished_title">Exportación %s terminada.</string>
   <string name="external_profile_title">Mi perfil de %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">No se puede comenzar el exportador: \"%s\".</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">No pudo abrir \"%s\": %s.</string>
+  <string formatted="false" name="fail_reason_could_not_open_file">No pudo abrir \"%s\": %s.</string>
   <string name="fail_reason_error_occurred_during_export">Se ha producido un error durante la exportación: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">No pudo recoger información meta de los archivos vCard.</string>
   <string name="fail_reason_failed_to_read_files">Uno o más archivos no pudieron ser importados (%s).</string>
@@ -757,52 +760,117 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="noContacts">No hay contactos</string>
   <string name="noContactsHelpText">"No tiene ningún contacto que mostrar.
 
-Para añadir contactos, vaya a "<b><font fgcolor="#ffffffff">Menú</font></b>", Luego vaya a:
+Para añadir contactos, vaya a "<b>
+      <font fgcolor="#ffffffff">Menú</font>
+    </b>", Luego vaya a:
 
-"<b><font fgcolor="#ffffffff"><li>"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Nuevo contacto para crear un contacto desde cero
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Importar/Exportar para importar contactos desde su tarjeta SIM o desde la tarjeta de memoria
-"</li></font></b></string>
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Nuevo contacto para crear un contacto desde cero
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Importar/Exportar para importar contactos desde su tarjeta SIM o desde la tarjeta de memoria
+"</li>
+      </font>
+    </b>
+  </string>
   <string name="noContactsHelpTextForCreateShortcut">No tiene ningún contacto para mostrar.</string>
   <string name="noContactsHelpTextWithSync">"No tiene ningún contacto para mostrar. (Si acaba de agregar alguna cuenta, se sincronizará en pocos minutos).
 
-Para agregar contactos, vaya a "<b><font fgcolor="#ffffffff">Menú</font></b>", Luego vaya a:
+Para agregar contactos, vaya a "<b>
+      <font fgcolor="#ffffffff">Menú</font>
+    </b>", Luego vaya a:
 
-"<b><font fgcolor="#ffffffff"><li>"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Opciones de visualización para cambiar qué contactos se van a mostrar
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Nuevo contacto para crear un contacto desde cero
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Importar/Exportar para importar contactos desde la tarjeta SIM o desde la tarjeta de memoria
-"</li></font></b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Opciones de visualización para cambiar qué contactos se van a mostrar
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Nuevo contacto para crear un contacto desde cero
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Importar/Exportar para importar contactos desde la tarjeta SIM o desde la tarjeta de memoria
+"</li>
+      </font>
+    </b>"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"No tiene ningún contacto para mostrar.(Si acaba de agregar alguna cuenta, ésta se sincronizará en pocos minutos)."</string>
   <string name="noContactsNoSimHelpText">"No tiene contactos para mostrar.
 
-Para agregar contactos, vaya a "<b><font fgcolor="#ffffffff">Menú</font></b>", Luego vaya a:
+Para agregar contactos, vaya a "<b>
+      <font fgcolor="#ffffffff">Menú</font>
+    </b>", Luego vaya a:
 
-"<b><font fgcolor="#ffffffff"><li>"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Nuevo contacto para crear un nuevo contacto desde cero
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Importar/Exportar para importar tus contactos desde la tarjeta SIM o la tarjeta de memoria
-"</li></font></b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Nuevo contacto para crear un nuevo contacto desde cero
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Importar/Exportar para importar tus contactos desde la tarjeta SIM o la tarjeta de memoria
+"</li>
+      </font>
+    </b>"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"No tienes ningún contacto para mostrar.(Si acaba de agregar alguna cuenta, ésta se sincronizará en pocos minutos).
 
-Para agregar contactos, ve a "<b><font fgcolor="#ffffffff">Menú</font></b>", Luego ve a:
+Para agregar contactos, ve a "<b>
+      <font fgcolor="#ffffffff">Menú</font>
+    </b>", Luego ve a:
 
-"<b><font fgcolor="#ffffffff"><li>"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Opciones de visualización para cambiar que contactos se van a mostrar
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Nuevo contacto para crear un contacto desde cero
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Importar/Exportar para importar contactos desde la tarjeta SIM o desde la tarjeta de memoria
-"</li></font></b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Cuentas para agregar o configurar una cuenta con contactos para poderlos sincronizar en el teléfono
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Opciones de visualización para cambiar que contactos se van a mostrar
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Nuevo contacto para crear un contacto desde cero
+"</li>
+      </font>
+    </b>"
+"<b>
+      <font fgcolor="#ffffffff">
+        <li>"Importar/Exportar para importar contactos desde la tarjeta SIM o desde la tarjeta de memoria
+"</li>
+      </font>
+    </b>"
 "</string>
   <string name="noContactsWithPhoneNumbers">No hay contactos con números de teléfono</string>
   <string name="noFavoritesHelpText">"No tiene ningún favorito.
@@ -1104,7 +1172,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="simContacts_title">Contactos de la tarjeta SIM</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Ver la capacidad de la tarjeta SIM</string>
-  <string name="sim_capacity_content" formatted="false">Capacidad total %d | Usada %d</string>
+  <string formatted="false" name="sim_capacity_content">Capacidad total %d | Usada %d</string>
   <string name="sim_card_no_free_space_message">No hay espacio suficiente</string>
   <string name="sim_card_no_free_space_title">Tarjeta SIM llena</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleccionar todo</string>
