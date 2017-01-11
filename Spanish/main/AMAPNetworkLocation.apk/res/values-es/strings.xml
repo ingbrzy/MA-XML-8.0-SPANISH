@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Localización de Red</string>
+    <string name="location_warning_title">Consentimiento de localización</string>
+    <string name="location_warning_message">"Permitir que AutoNavi's location service pueda recolectar datos de localización. Algunos datos de almacenarán en tu dispositivo, y dicha recolección se hará cuando no hayan aplicaciones ejecutándose."</string>
+    <string name="agree">De acuerdo</string>
+    <string name="disagree">Cancelar</string>
+    <string name="location_warning_do_not_show_again">"No mostrar de nuevo"</string>
+    <string name="persmission_notification_title">La Localización de Red requiere de algunos permisos</string>
+    <string name="persmission_notification_text">Toque para permitir</string>
+    <string name="persmission_message">Para funcionar de manera adecuada, éste servicio requiere permisos adicionales. Por favor acceda a la petición de permiso cuando le sea preguntada.</string>
+    <string name="persmission_message2">Para funcionar de manera adecuada, éste servicio necesita acceso a tu almacenamiento. Por favor acceda a la petición de permiso cuando le sea preguntada.</string>
+    <string name="persmission_message3">Para funcionar de manera adecuada, éste servicio necesita acceso a tu localización. Por favor acceda a la petición de permiso cuando le sea preguntada.</string>
+    <string name="persmission_message4">Para funcionar de manera adecuada, éste servicio necesita acceso a tu Teléfono. Por favor acceda a la petición de permiso cuando le sea preguntada.</string>
+    <string name="persmission_message5">"Para funcionar de manera adecuada, éste servicio requiere permisos adicionales. Puedes administrar los permisos de Localización de Red en Ajustes "</string>
+    <string name="persmission_message6">"Para funcionar de manera adecuada, éste servicio necesita acceso a tu Localización. Puedes administrar los permisos de Localización de Red en Ajustes ."</string>
+    <string name="persmission_message7">"Para funcionar de manera adecuada, éste servicio necesita acceso a tu Teléfono. Puedes administrar los permisos de Localización de Red en Ajustes ."</string>
+    <string name="persmission_message8">"Para funcionar de manera adecuada, éste servicio necesita acceso a tu almacenamiento. Puedes administrar los permisos de Localización de Red en Ajustes ."</string>
+    <string name="persmission_ok">OK</string>
+    <string name="persmission_close">CERRAR</string>
+    <string name="persmission_settings">AJUSTES</string>
+</resources>
