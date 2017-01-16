@@ -2,6 +2,7 @@
 <resources>
   <string name="action_bar_delete">Eliminar</string>
   <string name="action_settings">Ajustes</string>
+  <string name="action_title_optimize">Optimiza ahora</string>
   <string name="activity_title_poweranalyze">Test de batería</string>
   <string name="activity_title_powerconfigure">Ajustes de la batería</string>
   <string name="activity_title_poweroptimize">Ahorro de batería</string>
@@ -64,6 +65,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="no_applications">Vacío</string>
   <string name="none">No hay procesos</string>
   <string name="normal">Modo predeterminado</string>
+  <string name="notify_app_consume_abnormal_title">está drenando la batería</string>
   <string name="operation_create_group">Nombre</string>
   <string name="operation_create_group_message">Introduzca nuevo nombre de grupo</string>
   <string name="power_checker_recent_btn_title">Ajustes de energía</string>
