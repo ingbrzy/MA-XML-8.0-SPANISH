@@ -39,6 +39,9 @@
   <string name="error_sdcard_unmounted">Inserte una tarjeta SD</string>
   <string name="export_to_note">Exportar a Notas</string>
   <string name="invalid_argument">Argumento inválido</string>
+  <string name="keywords_search_call_record">Grabar llamadas;Grabar llamada;Grabación de llamadas;Grabaciones de llamadas</string>
+  <string name="keywords_search_record">Nueva grabación, Añadir grabación, Grabación, Grabaciones, Transcripción</string>
+  <string name="keywords_search_record_list">Grabadora;Transcripción;Transcripción;Grabación;Compartir grabación;Compartir grabaciones;Grabación;Grabaciones</string>
   <string name="low_battery_error">"Queda menos del 5% de batería. Detener y guardar la grabación para asegurarse de que no se pierde."</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Batería baja</string>
@@ -82,6 +85,7 @@
   <string name="recognition_error_internal">Error interno</string>
   <string name="recognition_error_stopped">El reconocimiento se detuvo</string>
   <string name="recognition_status_downloading">Descargando</string>
+  <string name="record">Grabar</string>
   <string name="record_back_pressed_hint">Para detener la grabación, pulse Atrás de nuevo</string>
   <string name="record_download">Descargar desde Mi Cloud</string>
   <string name="record_download_complete">Descargada</string>
