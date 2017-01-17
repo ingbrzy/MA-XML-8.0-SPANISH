@@ -15,16 +15,20 @@
         <item quantity="other">%1$d vídeos eliminados con éxito.</item>
         <item quantity="one">%1$d vídeo eliminado con éxito.</item>
     </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">¿Borrar %1$d vídeos?</item>
+        <item quantity="one">¿Borrar %1$d vídeo?</item>
+    </plurals>
     <plurals name="video_history_clear_info">
         <item quantity="other">%1$d elementos eliminados del historial.</item>
         <item quantity="one">%1$d elemento eliminado del historial.</item>
     </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d coincidencias</item>
-        <item quantity="one">%d coincidencia</item>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">¿Borrar %1$d elementos de la historia?</item>
+        <item quantity="one">¿Borrar %1$d elemento de la historia?</item>
     </plurals>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d elementos bloqueados</item>
-        <item quantity="one">%d elementos bloqueados</item>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">%d minutos restantes</item>
+        <item quantity="one">1 minuto restante</item>
     </plurals>
 </resources>
