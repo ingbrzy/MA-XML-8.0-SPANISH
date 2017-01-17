@@ -40,17 +40,17 @@
         <item quantity="other">%1$d foto de %2$s se añadirán</item>
         <item quantity="one">%1$d foto de %2$s se añadirá</item>
     </plurals>
-  <plurals name="backup_waiting">
-        <item quantity="other">%1$d elementos esperando a ser respaldados</item>
+  <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d fotos y videos | %2$s</item>
         <item quantity="one">%1$d elemento esperando a ser respaldado</item>
     </plurals>
-  <plurals name="backuped">
-        <item quantity="other">%1$d elementos respaldados</item>
-        <item quantity="one">%1$d elemento respaldado</item>
+  <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d fotos y videos</item>
+        <item quantity="one">%1$d foto o video | %2$s</item>
     </plurals>
-  <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud lleno. %1$d elementos esperando a ser respaldados</item>
-        <item quantity="one">Mi Cloud lleno. %1$d elemento esperando a ser respaldado</item>
+  <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
     </plurals>
   <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
@@ -80,17 +80,17 @@
         <item quantity="other">Se han omitido %1$d fotos que no se han podido mostrar.</item>
         <item quantity="one">Se ha omitido una foto que no se ha podido mostrar.</item>
     </plurals>
-  <plurals name="local_space_full">
-        <item quantity="other">Almacenamiento local insuficiente. %1$d elementos están a la espera de una copia de seguridad.</item>
-        <item quantity="one">Almacenamiento local insuficiente. %1$d elemento está a la espera de una copia de seguridad.</item>
+  <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d videos.</item>
+        <item quantity="one">%d video.</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Error de red. %1$d elementos esperando a ser respaldados.</item>
-        <item quantity="one">Error de red. %1$d elemento esperando a ser respaldado.</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">No se han respaldado %d fotos y videos.</item>
+        <item quantity="one">No se ha respaldado %d foto o video.</item>
     </plurals>
   <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d elementos que esperan una copia de seguridad</item>
-        <item quantity="one">1 elemento que espera una copia de seguridad</item>
+        <item quantity="other">%1$d elementos en espera para ser respaldados</item>
+        <item quantity="one">1 elemento en espera para ser respaldado</item>
     </plurals>
   <plurals name="number_of_images_synced">
          <item quantity="other">%1$d fotos</item>
@@ -160,8 +160,16 @@
         <item quantity="other">Total %d fotos</item>
         <item quantity="one">Total %d foto</item>
     </plurals>
-  <plurals name="sync_off">
-        <item quantity="other">Sincronización desactivada. %1$d elementos esperando a ser respaldados.</item>
-        <item quantity="one">Sincronización desactivada. %1$d elemento esperando a ser respaldado.</item>
+  <plurals name="sync_total_count">
+        <item quantity="other">%1$d elementos.</item>
+        <item quantity="one">%1$d elemento.</item>
     </plurals>
+  <plurals name="file_count_format">
+          <item quantity="other">%1$d elementos en total</item>
+          <item quantity="one">%1$d elemento en total</item>
+    </plurals>
+  <plurals name="quickly_discovery_message_format">
+          <item quantity="other">Encontradas %1$d nuevas fotos</item>
+          <item quantity="one">Encontrada una nueva foto</item>
+    </plurals>  
 </resources>

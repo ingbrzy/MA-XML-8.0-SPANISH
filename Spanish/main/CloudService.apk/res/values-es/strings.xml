@@ -373,15 +373,15 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="mx_dspt_provision">"Mensajes Mi le permite enviar mensajes a otros dispositivos MIUI sin gastos cuando se conecte a una red Wi-Fi.
 
 Puede activar o desactivar esta característica en cualquier momento en Ajustes."</string>
-  <string name="mx_dspt_provision_privacy">"Este servicio puede requerir su número de teléfono. Su operador puede cobrar un mensaje SMS para activar esta función.
+  <string name="mx_dspt_provision_privacy">"Este servicio puede requerir su número de teléfono. Un SMS puede ser requerido para activar este servicio. Tu operador te cobrará por este mensaje.
 
-Esta función encripta y sube la ID de sus dispositivos a los servidores de Mi."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Este servicio puede requerir su número de teléfono. Su operador puede cobrar un mensaje SMS para activar esta función.
+Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Este servicio puede requerir su número de teléfono. Dos SMS podrían ser requeridos para activar este servicio. Tu operador te cobrará por estos mensajes.
 
-Esta función encripta y sube la ID de sus dispositivos a los servidores de Mi."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Esta función puede requerir su número de teléfono. Su operador le puede cobrar un SMS utilizado para activar esta función cuando se detecta la tarjeta SIM.
+Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Esta función puede requerir su número de teléfono. When SIM card is detected, an outgoing SMS message may be required to activate this service. Tu operador te cobrará por este mensaje.
 
-Esta función encripta y envía el ID del dispositivo a los servidores de MI."</string>
+Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi."</string>
   <string name="mx_dspt_provision_with_voip">Llame gratis a otros dispositivos MIUI con su conexión a Internet. Puede activar o desactivar esta característica en cualquier momento en Ajustes. Weihui proporciona el servicio VoIP. Vea la Política de Privacidad de Weihui</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidad</string>
   <string name="mx_sub_dspt_provision">Mensajes Mi</string>
@@ -467,15 +467,15 @@ Esta función encripta y envía el ID del dispositivo a los servidores de MI."</
   <string name="sync_item_title">Sincronizado elementos</string>
   <string name="sync_off">Desactivado</string>
   <string name="sync_on">Activado</string>
-  <string name="sync_resend_sms_dspt_provision">" Si cambia las tarjetas SIM, su operador podría cobrarle un mensaje SMS que se usa para reactivar este servicio."</string>
-  <string name="sync_sub_1_intl_sms">Su operadora podría cobrarle por el envío de un SMS internacional necesario para activar este servicio.</string>
+  <string name="sync_resend_sms_dspt_provision">" Si cambia las tarjetas SIM, su operador le cobrará un mensaje SMS en caso que sea necesario para reactivar este servicio."</string>
+  <string name="sync_sub_1_intl_sms">Su operadora podría cobrarle por el envío de un SMS internacional necesario para activar este servicio. Tu operador te cobrará por este servicio.</string>
   <string name="sync_sub_1_sms">Su operadora podría cobrarle por el envío de un SMS para la activación de este servicio.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Su operadora podría cobrarle por el envío de un SMS nacional y un otro SMS internacional necesarios para activar este servicio.</string>
-  <string name="sync_sub_2_intl_sms">Su operadora podría cobrarle por el envío de dos SMS internacionales usados para activar este servicio.</string>
-  <string name="sync_sub_2_sms">Su operadora podría cobrarle por el envío de dos SMS usados para activar este servicio.</string>
-  <string name="sync_sub_dspt">Su operadora podría cobrarle por el envío de un SMS para la activación de este servicio.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Su operadora podría cobrarle por el envío de un SMS nacional y un otro SMS internacional necesarios para activar este servicio. Tu operador te cobrará por este servicio.</string>
+  <string name="sync_sub_2_intl_sms">Su operadora podría cobrarle por el envío de dos SMS internacionales usados para activar este servicio. Tu operador te cobrará por este servicio.</string>
+  <string name="sync_sub_2_sms">Su operadora podría cobrarle por el envío de dos SMS usados para activar este servicio. Tu operador te cobrará por este servicio.</string>
+  <string name="sync_sub_dspt">Su operadora podría cobrarle por el envío de un SMS para la activación de este servicio. Tu operador te cobrará por este servicio.</string>
   <string name="sync_sub_dspt_provision">Sincronizar fotos, contactos, música, apps y más a través de todos sus dispositivos</string>
-  <string name="sync_sub_int_dspt">Su operadora podría cobrarle por el envío de un SMS internacional para la activación de este servicio.</string>
+  <string name="sync_sub_int_dspt">Su operadora podría cobrarle por el envío de un SMS internacional para la activación de este servicio. Tu operador te cobrará por este servicio.</string>
   <string name="title_reg">Crear una Cuenta Mi</string>
   <string name="total_space_upgraded_to">Espacio total: %s</string>
   <string name="trying_to_connect_to_network">Conectándose a la red</string>
