@@ -63,6 +63,7 @@
   <string name="change_alert">Compruebe su conexión de red y vuelve a intentarlo</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Un momento…</string>
+  <string name="connect_fail">La conexión a la red no es estable. Por favor inténtelo más tarde.</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Pronóstico para %1$s días</string>
   <string name="daily_forcast_no_stable_direction">Brisa</string>
@@ -72,6 +73,7 @@
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
   <string name="daily_forecast_detail">Detalle del pronóstico</string>
   <string name="daily_forecast_detail_date">d/M</string>
+  <string name="daily_forecast_no_data">"No se pudo obtener los datos manualmente, deslice hacia abajo para actualizar o compruebe la configuración de red."</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Administrar alertas</string>
   <string name="edit_city">Editar ciudad</string>
@@ -132,7 +134,9 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="other">Otro</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Indicador de Calidad del Aire</string>
+  <string name="realtime_cityname_default">Ubicación de la ciudad</string>
   <string name="realtime_humidity_title">Humedad relativa</string>
+  <string name="realtime_temperature_no_data">N/D</string>
   <string name="realtime_wind_default_title">Viento</string>
   <string name="refresh_fail">"No se pudo conectar a la red"</string>
   <string name="retry">Inténtalo de nuevo</string>
@@ -169,6 +173,7 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="view_indexes_item_today">Hoy</string>
   <string name="view_indexes_item_tommorrow">Mañana</string>
   <string name="weather_alert">Alertas meteorológicas</string>
+  <string name="wind_direction_no_data">Viento</string>
   <string name="yes_vote_num"> | %1$s personas</string>
   <string name="yes_vote_ratio">A favor %1$s%%</string>
 </resources>
