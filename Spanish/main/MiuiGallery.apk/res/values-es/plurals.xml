@@ -37,16 +37,16 @@
         <item quantity="one">%1$d foto de %2$s se añadirá</item>
     </plurals>
   <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d foto de %2$s se añadirán</item>
+        <item quantity="other">%1$d fotos de %2$s se añadirán</item>
         <item quantity="one">%1$d foto de %2$s se añadirá</item>
     </plurals>
   <plurals name="backuping_desc_gprs">
-        <item quantity="other">%1$d fotos y videos | %2$s</item>
-        <item quantity="one">%1$d elemento esperando a ser respaldado</item>
+        <item quantity="other">%1$d fotos y vídeos | %2$s</item>
+        <item quantity="one">%1$d foto y vídeo | %2$s</item>
     </plurals>
   <plurals name="backuping_desc_normal">
-        <item quantity="other">%1$d fotos y videos</item>
-        <item quantity="one">%1$d foto o video | %2$s</item>
+        <item quantity="other">%1$d fotos y vídeos</item>
+        <item quantity="one">%1$d foto o vídeo</item>
     </plurals>
   <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d fotos</item>
@@ -81,12 +81,12 @@
         <item quantity="one">Se ha omitido una foto que no se ha podido mostrar.</item>
     </plurals>
   <plurals name="cloud_storage_video_num">
-        <item quantity="other">%d videos.</item>
-        <item quantity="one">%d video.</item>
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">No se han respaldado %d fotos y videos.</item>
-        <item quantity="one">No se ha respaldado %d foto o video.</item>
+        <item quantity="other">No se han respaldado %d fotos y vídeos.</item>
+        <item quantity="one">No se ha respaldado %d foto o vídeo.</item>
     </plurals>
   <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d elementos en espera para ser respaldados</item>
@@ -161,8 +161,8 @@
         <item quantity="one">Total %d foto</item>
     </plurals>
   <plurals name="sync_total_count">
-        <item quantity="other">%1$d elementos.</item>
-        <item quantity="one">%1$d elemento.</item>
+        <item quantity="other">%d elementos</item>
+        <item quantity="one">%d elemento</item>
     </plurals>
   <plurals name="file_count_format">
           <item quantity="other">%1$d elementos en total</item>
