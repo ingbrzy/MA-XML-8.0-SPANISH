@@ -127,13 +127,14 @@
   <string name="downloading_wallpaper">Descargando imagen</string>
   <string name="dropdown_delete_button_desc">Quitar %s de destinatarios</string>
   <string name="edit_event_all_day_label">Todo el día</string>
-  <string name="edit_event_birthday_3_days_before">Tres días antes,</string>
+  <string name="edit_event_birthday_3_days_before">Y recordar 3 días antes</string>
+  <string name="edit_event_birthday_reminder_summary">El día %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">Tres días antes, el día %1$s</string>
   <string name="edit_event_birthday_import_from_contact">Importar cumpleaños de los contactos</string>
   <string name="edit_event_birthday_name_empty_hint">Ingrese un nombre</string>
   <string name="edit_event_birthday_name_hint">Nombre</string>
   <string name="edit_event_birthday_reminder_3_days_before">Y recordar 3 días antes</string>
   <string name="edit_event_birthday_reminder_time">Tiempo de aviso</string>
-  <string name="edit_event_birthday_the_day">el día</string>
   <string name="edit_event_calendar_label">Calendario</string>
   <string name="edit_event_choose_date">elegir fecha</string>
   <string name="edit_event_confirm_message">¿Descartar cambios?</string>
@@ -141,6 +142,8 @@
   <string name="edit_event_input_year">Introducir año</string>
   <string name="edit_event_label">Detalles</string>
   <string name="edit_event_no_reminder_value">Sin recordatorio</string>
+  <string name="edit_event_reminder_text">%1$s el día %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s el día %3$s</string>
   <string name="edit_event_show_all">Mostrar todo</string>
   <string name="edit_event_tab_anniversary">aniversario</string>
   <string name="edit_event_tab_birthday">cumpleaños</string>
