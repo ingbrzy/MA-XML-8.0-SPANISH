@@ -6,12 +6,6 @@
         <item>Mensaje de texto</item>
         <item>Alarma</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Por defecto</item>
-        <item>Sábado</item>
-        <item>Domingo</item>
-        <item>Lunes</item>
-    </string-array>
     <string-array name="timezone_labels">
         <item>Islas Marshall</item>
         <item>Islas Midway</item>
@@ -130,7 +124,13 @@
         <item>Sólo este evento</item>
         <item>Todos los eventos de la serie</item>
     </string-array>
-     <string-array name="prefEntries_alerts_vibrateWhen">
+        <string-array name="preferences_week_start_day_labels">
+        <item>Por defecto</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+        <item>Lunes</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Siempre</item>
         <item>Sólo cuando se silencia el timbre</item>
         <item>Nunca</item>
