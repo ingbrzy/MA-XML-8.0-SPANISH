@@ -20,11 +20,17 @@
         <item>HD</item>
     </string-array>
     <string-array name="record_scenes_summaries">
-        <item>Graba usando 2 canales, escucha el sonido estéreo en los auriculares</item>
-        <item>"Mueve el micrófono cerca de la fuente de sonido para obtener mejor calidad"</item>
-        <item>Sitúa el teléfono entre dos personas para grabarlas claramente a ambas</item>
-        <item>La alta tecnología del rango dinámico permite que la captura de sonido del micrófono sea más detallada</item>
-        </string-array>
+        <item>Grabar música con mejor calidad</item>
+        <item>Mueva el micrófono más cerca de la fuente del sonido para obtener una mejor calidad</item>
+        <item>Coloque el teléfono entre 2 personas para grabar su conversación claramente</item>
+        <item>La tecnología de alto rango dinámico permite al micrófono capturar un sonido más detallado</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Grabar a través de 2 canales, escuchar el sonido estéreo en los auriculares</item>
+        <item>Mueva el micrófono más cerca de la fuente del sonido para obtener una mejor calidad</item>
+        <item>Coloque el teléfono entre 2 personas para grabar su conversación claramente</item>
+        <item>La tecnología de alto rango dinámico permite al micrófono capturar un sonido más detallado</item>
+    </string-array>
     <string-array name="record_quality_entries">
         <item>Alta</item>
         <item>Estándar</item>
