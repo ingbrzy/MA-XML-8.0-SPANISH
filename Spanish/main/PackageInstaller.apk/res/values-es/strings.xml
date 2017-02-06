@@ -237,11 +237,8 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="install_confirm_question_update_system_no_perms">¿Quiere instalar una actualización de esta aplicación integrada? Tus datos no se perderán. No requiere ningún acceso especial.</string>
   <string name="install_done">Aplicación instalada</string>
   <string name="install_failed">Aplicación no instalada</string>
-  <string name="install_failed_blocked">La instalación del paquete fue bloqueada.</string>
-  <string name="install_failed_conflict">El paquete entra en conflicto con un paquete existente con el mismo nombre.</string>
   <string name="install_failed_cpu_abi_incompatible">Esta aplicación no es compatible con el teléfono.</string>
   <string name="install_failed_file_not_found">El paquete especificado se ha eliminado antes de que se completara la instalación.</string>
-  <string name="install_failed_incompatible">Esta aplicación no es compatible con su teléfono</string>
   <string name="install_failed_inconsistent_certificates">Ya se ha instalado un paquete con el mismo nombre con una firma en conflicto.</string>
   <string name="install_failed_invalid_apk">Parece que el paquete está dañado.</string>
   <string name="install_failed_msg">No se ha podido instalar %1$s en el teléfono.</string>
@@ -513,7 +510,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="uninstall_application_text_user">¿Quiere desinstalar esta aplicación para el usuario %1$s?</string>
   <string name="uninstall_application_title">Desinstalar aplicación</string>
   <string name="uninstall_blocked_device_owner">Esta aplicación es necesaria para el administrador de tu dispositivo y no se puede desinstalar.</string>
-  <string name="uninstall_blocked_profile_owner">"Esta aplicación es necesaria para tu perfil y no se puede desinstalar."</string>
+  <string name="uninstall_blocked_profile_owner">"Esta aplicación es necesaria para tu perfil de trabajo y no se puede desinstalar."</string>
   <string name="uninstall_confirm_question">¿Desea desinstalar esta aplicación?</string>
   <string name="uninstall_done">Desinstalación completada</string>
   <string name="uninstall_failed">Desinstalación correcta</string>
