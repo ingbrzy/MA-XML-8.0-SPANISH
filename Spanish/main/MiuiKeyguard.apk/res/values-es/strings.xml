@@ -64,6 +64,14 @@ Inténtelo de nuevo en %d segundos."</string>
   <string name="open_camera_hint_text">Deslizar a la izquierda para abrir %s</string>
   <string name="open_remote_center_hint_text">Deslizar a la derecha para abrir %s</string>
   <string name="open_wifi_settings">Conexión a red abierta</string>
+  <string name="phone_locked_foget_password">¿Olvidó su contraseña?</string>
+  <string name="phone_locked_foget_password_content">"Puede iniciar sesión en i.mi.com utilizando la Cuenta Mi que está asociada con este dispositivo y borrar todos los datos. Esto borrará todos los datos personales almacenados en este dispositivo. Después de esto, puede reiniciar el dispositivo y restaurar contactos, mensajes, fotos y otros elementos de Mi Cloud. 
+
+No podrás hacer esto a menos que hayas iniciado sesión en Cuenta Mi en este dispositivo. De lo contrario, tendrás que volver a encender el dispositivo."</string>
+  <string name="phone_locked_foget_password_footer">"Pasos:
+Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositivo y presione limpiar dispositivo "Wipe device"."</string>
+  <string name="phone_locked_foget_password_header">¿Qué debo hacer si olvido mi contraseña?</string>
+  <string name="phone_locked_foget_password_ok">Entendido</string>
   <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %s minuto(s)</string>
   <string name="phone_locked_timeout_seconds_string">Inténtelo de nuevo en %s segundo(s)</string>
