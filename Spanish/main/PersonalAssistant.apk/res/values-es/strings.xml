@@ -44,8 +44,9 @@
   <string name="data_error">Se ha producido un error. Espere unos minutos y vuelva a intentarlo.</string>
   <string name="data_error_show">"El pedido se ha completado, no se puede ver detalles"</string>
   <string name="drive">Manejar</string>
-  <string name="duokan_open">Abrir más cartas de lectura</string>
-  <string name="duokan_reading">leer más</string>
+  <string name="duokan_not_installed">"Esta aplicación no está instalada en tu teléfono. No puedes usar esta tarjeta ahora."</string>
+  <string name="duokan_open">Añadir tarjeta Duokan</string>
+  <string name="duokan_reading">Duokan</string>
   <string name="duokan_setting_brief">Sigue leyendo desde el lugar que lo dejó.</string>
   <string name="entrance">Atajos de tarjeta</string>
   <string name="exercise_setting_brief">Ver sus estadísticas de actividad.</string>
@@ -63,6 +64,7 @@
   <string name="focus">Sigue el estado</string>
   <string name="focus_on_dynamic">Sigue el estado</string>
   <string name="go_to_school">Para y desde el trabajo o la escuela</string>
+  <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
   <string name="groupon">Entradas y cupones</string>
   <string name="groupon_open">Mostrar boletos y tarjeta de cupones</string>
   <string name="groupon_setting_brief">Mostrar información sobre tickets y cupones comprados.</string>
@@ -70,6 +72,8 @@
   <string name="hold_down_adjustment_order">Mantenga pulsado el icono de la derecha para arrastrar elementos</string>
   <string name="home">Casa</string>
   <string name="home_and_company">Casa y trabajo</string>
+  <string name="hour12_format_en">hh:mm</string>
+  <string name="hour24_format_en">HH:mm</string>
   <string name="immediate_recommendation">Recomendaciones</string>
   <string name="keyword_recommend">Recomendado</string>
   <string name="launch_app">Recomendaciones de la aplicación</string>
@@ -172,6 +176,9 @@
   <string name="walk">Caminar</string>
   <string name="weibo_name">Nueva publicación</string>
   <string name="which_transport">¿Cómo se llega normalmente a su destino?</string>
+  <string name="widget_fav">Favorito</string>
+  <string name="widget_fav_open">Mostrar tarjeta favorita</string>
+  <string name="widget_fav_setting_brief">Ver tus datos favoritos.</string>
   <string name="wx_aa">Repartir el gasto</string>
   <string name="wx_collectioncode">Recibir pago</string>
   <string name="wx_name">Mi tarjeta</string>
@@ -179,4 +186,5 @@
   <string name="wx_paycode">Pago</string>
   <string name="wx_scan">Escáner</string>
   <string name="wx_timeline">Momentos</string>
+  <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>

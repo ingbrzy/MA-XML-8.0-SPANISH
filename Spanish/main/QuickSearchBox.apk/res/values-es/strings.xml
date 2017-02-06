@@ -2,6 +2,8 @@
 <resources>
   <string name="app_loaction">Buscar en la pantalla de inicio</string>
   <string name="app_name">Búsqueda</string>
+  <string name="appindex_description">Funciones de apliaciones instaladas</string>
+  <string name="appindex_search_label">Funciones de apliaciones</string>
   <string name="application_desc">Aplicación</string>
   <string name="application_search_label">Apps</string>
   <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
@@ -58,6 +60,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="permission_prompt_start">Permitir</string>
   <string name="permission_prompt_started_info">"Has permitido la búsqueda global"</string>
   <string name="permission_prompt_title">¿Quieres más?</string>
+  <string name="pull_to_input">Tira para mostrar la barra de búsqueda</string>
   <string name="recent_apps">Aplicaciones recientes</string>
   <string name="recent_apps_filter">"Ocultar las aplicaciones que no utiliza"</string>
   <string name="recent_close_content">"¿Desactivar esta función ahora?
@@ -73,6 +76,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="recent_edit_done">Terminar</string>
   <string name="recent_function">Funciones</string>
   <string name="recently_shortcut_label">Accesos directos recientes</string>
+  <string name="release_to_input">Suelta para mostrar la barra de búsqueda</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de búsqueda?</string>
   <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
   <string name="search_apps">Buscar aplicaciones</string>
