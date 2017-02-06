@@ -170,6 +170,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="auto_task_notify_task_cancel_count_down">La acción automatizada será cancelada en 5 segundos</string>
   <string name="auto_task_notify_task_cancel_do">Cancelar la acción</string>
   <string name="auto_task_notify_task_canceled_summary">Puede hacer y recibir llamadas</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Parece que estás jugando a un juego ahora"</string>
   <string name="auto_task_notify_task_canceled_title">Se cancela la acción</string>
   <string name="auto_task_notify_task_continue_do">Iniciar acciones</string>
   <string name="auto_task_notify_task_count_down">La acción programada será cancelada en 5 segundos</string>
@@ -1362,6 +1363,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="showpattern">Mostrar patrón</string>
   <string name="shutdown_cancel_reminder">No se apagó</string>
   <string name="shutdown_cancel_reminder_detail">El dispositivo no se apagó porque estaba en mitad de una llamada</string>
+  <string name="shutdown_cancel_reminder_detail2">"Parece que estás jugando a un juego. Se ha cancelado el apagado programado"</string>
   <string name="shutdown_time">Apagar: %1$s</string>
   <string name="shutdown_time_day">Apagar: %2$s %1$dd</string>
   <string name="shutdown_time_day_tomorrow">Apagar: %1$s</string>
