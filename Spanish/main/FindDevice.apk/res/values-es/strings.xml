@@ -44,6 +44,8 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
   <string name="passport_verify">Verificar</string>
   <string name="password">Contraseña</string>
   <string name="phone_locked">Este dispositivo puede estar asociado con una Cuenta Mi existente (%s). Inicie sesión para activar este dispositivo.</string>
+  <string name="phone_locked_account_email">, correo electrónico asociado: %s</string>
+  <string name="phone_locked_account_phone">, número de teléfono asociado: %s</string>
   <string name="stop_on_empty_captcha">Captcha no puede estar en blanco</string>
   <string name="stop_on_empty_password">La contraseña no puede estar en blanco</string>
   <string name="time_correction_failure">No se pudo corregir la hora. %s</string>
