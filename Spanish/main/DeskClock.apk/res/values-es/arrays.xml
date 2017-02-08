@@ -34,6 +34,24 @@
         <item>Lunes a Viernes</item>
         <item>Personalizar</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Buena</item>
+        <item>Satisfactoria</item>
+        <item>Contaminado moderadamente</item>
+        <item>Malo</item>
+        <item>Muy malo</item>
+        <item>Grave</item>
+    </string-array> 
+    <string-array name="weather_tips_value">
+        <item>Reduzca las actividades en el exterior</item>
+        <item>Preste atención a los resbalones</item>
+        <item>Tormentas eléctricas, viaje con seguridad</item>
+        <item>Tiempo de neblina, lleve máscara</item>
+        <item>Coja un paraguas cuando salga</item>
+        <item>Preste atención en la carretera</item>
+        <item>Tormenta de polvo, lleve máscara</item>
+        <item>Le deseo un día maravilloso</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>La alarma sonará en menos de 1 minuto.</item>
         <item>La alarma sonará en %1$s.</item>
