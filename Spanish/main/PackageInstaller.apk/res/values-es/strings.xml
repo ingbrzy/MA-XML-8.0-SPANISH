@@ -37,9 +37,6 @@
   <string name="all_permissions">Todos los permisos</string>
   <string name="allow_mock_location">Permitir localizaciones simuladas</string>
   <string name="allow_mock_location_summary">Permitir localizaciones simuladas</string>
-  <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
-
-¿Quiere permitirlo ahora y en el futuro?"</string>
   <string name="allow_source_dlg_title">Nueva fuente de aplicaciones</string>
   <string name="animator_duration_scale_title">Escala duración animador</string>
   <string name="apn_settings_not_available">Los ajustes de Nombre de Punto de Acceso (APN) no están disponibles para este usuario</string>
@@ -237,9 +234,9 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="install_confirm_question_update_system_no_perms">¿Quiere instalar una actualización de esta aplicación integrada? Tus datos no se perderán. No requiere ningún acceso especial.</string>
   <string name="install_done">Aplicación instalada</string>
   <string name="install_failed">Aplicación no instalada</string>
-  <string name="install_failed_cpu_abi_incompatible">Esta aplicación no es compatible con el teléfono.</string>
-  <string name="install_failed_file_not_found">El paquete especificado se ha eliminado antes de que se completara la instalación.</string>
-  <string name="install_failed_inconsistent_certificates">Ya se ha instalado un paquete con el mismo nombre con una firma en conflicto.</string>
+  <string name="install_failed_blocked">El paquete no se ha instalado.</string>
+  <string name="install_failed_conflict">El paquete está en conflicto con un paquete existente con el mismo nombre.</string>
+  <string name="install_failed_incompatible">"Esta aplicación no es compatible con tu teléfono".</string>
   <string name="install_failed_invalid_apk">Parece que el paquete está dañado.</string>
   <string name="install_failed_msg">No se ha podido instalar %1$s en el teléfono.</string>
   <string name="install_failed_older_sdk">Este paquete solo funciona en las versiones más recientes de Android.</string>
@@ -412,7 +409,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="permission_send_sms_descx">La aplicación podrá enviar SMS y MMS</string>
   <string name="permission_summary_enforced_by_policy">Aplicado por política</string>
   <string name="permission_title">Permisos: %1$s</string>
-  <string name="permission_warning_template">¿Permitir que %1$s pueda tener %2$s?</string>
+  <string name="permission_warning_template">¿Permitir que &lt;b&gt;%1$s&lt;/b&gt; pueda tener %2$s?</string>
   <string name="permlab_togglePermissions">alternar permisos</string>
   <string name="picture_color_mode">Modo de color de imagen</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
@@ -509,7 +506,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="uninstall_application_text_all_users">¿Quiere desinstalar esta aplicación para &amp;ltb&amp;gttodos&amp;lt/b&amp;gt los usuarios? La aplicaci&amp;#243;n y sus datos se eliminar&amp;#225;n de &amp;ltb&amp;gttodos&amp;lt/b&amp;gt los usuarios del dispositivo.</string>
   <string name="uninstall_application_text_user">¿Quiere desinstalar esta aplicación para el usuario %1$s?</string>
   <string name="uninstall_application_title">Desinstalar aplicación</string>
-  <string name="uninstall_blocked_device_owner">Esta aplicación es necesaria para el administrador de tu dispositivo y no se puede desinstalar.</string>
+  <string name="uninstall_blocked_device_owner">"Esta aplicación es necesaria para tu perfil y no se puede desinstalar."</string>
   <string name="uninstall_blocked_profile_owner">"Esta aplicación es necesaria para tu perfil de trabajo y no se puede desinstalar."</string>
   <string name="uninstall_confirm_question">¿Desea desinstalar esta aplicación?</string>
   <string name="uninstall_done">Desinstalación completada</string>
@@ -528,7 +525,6 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="unknown_apps_dlg_text1">"El teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas. Puede desactivar esta función en "</string>
   <string name="unknown_apps_dlg_text2">\"Ajustes\"</string>
   <string name="unknown_apps_dlg_text3">.</string>
-  <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
   <string name="unknown_installer">Herramientas de PC no identificadas</string>
   <string name="usb_audio_disable_routing">Sin enrutamiento audio USB</string>
   <string name="usb_audio_disable_routing_summary">Inhabilitar el enrutamiento automático a periféricos de audio USB</string>
