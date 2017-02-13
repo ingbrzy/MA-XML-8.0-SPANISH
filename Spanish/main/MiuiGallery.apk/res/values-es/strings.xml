@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="abandon">Cancelar</string>
   <string name="accept">Aceptar</string>
@@ -138,8 +138,6 @@
   <string name="backup_no_wifi_title">Toque para conectarse a Wi-Fi</string>
   <string name="backup_only_in_wifi">Realizar copias de seguridad de las fotos y vídeos solo a través de Wi-Fi</string>
   <string name="backup_only_in_wifi_summary">Nunca usar datos móviles para realizar copias de seguridad de las fotos o vídeos</string>
-  <string name="backup_waiting_button_text">Crear copia de seguridad ahora</string>
-  <string name="backuping">Respaldando %1$d/%2$d</string>
   <string name="backup_pause">Pausar copia de seguridad</string>
   <string name="backup_pending">Se hará una copia de seguridad automáticamente</string>
   <string name="backup_stop">Detener copia de seguridad</string>
@@ -149,11 +147,13 @@
   <string name="backup_sync_off_btn_text">Activar</string>
   <string name="backup_sync_off_desc">Activar la sincronización con Mi Cloud para realizar copias de seguridad de fotos y vídeos</string>
   <string name="backup_sync_off_title">La sincronización con Mi Cloud está desactivada</string>
+  <string name="backup_waiting_button_text">Crear copia de seguridad ahora</string>
   <string name="backup_with_gprs_dialog_btn">Copia de seguridad</string>
   <string name="backup_with_gprs_dialog_message">%s de datos son necesarios para la copia de seguridad de los elementos. ¿Copia ahora?</string>
   <string name="backup_with_gprs_dialog_title">Copia de seguridad con datos móviles</string>
   <string name="backuped_desc">Fotos y videos son respaldados por Mi Cloud</string>
   <string name="backuped_title">Copia de seguridad con éxito</string>
+  <string name="backuping">Respaldando %1$d/%2$d</string>
   <string name="backuping_title_gprs">Copia de seguridad con datos móviles…</string>
   <string name="backuping_title_normal">Copia de seguridad</string>
   <string name="begin_share">Álbum del bebé \"%s\" creado, usted ahora puede compartirlo</string>
@@ -295,8 +295,8 @@
   <string name="doodle_pencil">Lápiz</string>
   <string name="doodle_small_size">Pequeño</string>
   <string name="doodle_super_big_size">Enorme</string>
-  <string name="double_tap_to_higher_definition">Toca dos veces de nuevo para la vista previa en HD</string>
   <string name="doodle_tooltip">Toque para garabatear</string>
+  <string name="double_tap_to_higher_definition">Toca dos veces de nuevo para la vista previa en HD</string>
   <string name="download_canceled">Descarga cancelada</string>
   <string name="download_retry_message">No se pudo descargar los archivos, comprueba la conexión de red y vuelve a intentarlo</string>
   <string name="download_retry_text">Volver a intentar</string>
@@ -773,6 +773,13 @@
   <string name="system_album">Álbum del sistema</string>
   <string name="temperature">Calidez</string>
   <string name="terabyteShort">TB</string>
+  <string name="text_append">Texto</string>
+  <string name="text_append_color">Color</string>
+  <string name="text_append_font">Fuente</string>
+  <string name="text_append_font_example">Aa</string>
+  <string name="text_append_hint">Introduzca texto</string>
+  <string name="text_append_style">Burbuja</string>
+  <string name="text_append_transparent">Opacidad</string>
   <string name="tint">Tinte</string>
   <string name="tip_capture_location">Ubicación:</string>
   <string name="tip_capture_params">Datos EXIF:</string>

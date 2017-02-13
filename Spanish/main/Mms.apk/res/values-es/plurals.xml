@@ -24,4 +24,8 @@
         <item quantity="other">%1$s mensajes</item>
         <item quantity="one">%1$s mensaje</item>
     </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d seleccionados</item>
+        <item quantity="zero">Seleccione elementos</item>
+    </plurals>
 </resources>
