@@ -615,7 +615,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="keywords_powercenter">Ahorro de batería;Calentamiento;Encendido;Apagado;Batería;Drenaje;Batería:Problemas de batería;Energía;Drenaje;Calentamiento;Ahorro de batería;Ahorro de energía;Ahorrar energía;Ahorrar batería</string>
   <string name="keywords_powercenter_powerrank">Uso de la batería</string>
   <string name="keywords_securitycenter">Seguridad;Comprobar;Escanear</string>
-  <string name="keywords_securitycenter_settings">ROOT;usodelabatería;Permisos;Blocklist;Usodedatos;Calibrarplandedatos;reddeprueba;bloqueodeaplicaciones;ahorrarbatería;deahorrodebatería;Calefacción;Encienda;Desactivarlabatería;drenante;autoarranque;RAÍZ;contactosdeacceso;;LugarBloque;listadebloquesinteligente;;FraudeVentas;teleoperador;Agentes;datos;tráfico;Calibrar;Conexión;Internet;prueba;contraseña;deprivacidad;acceso;lista;Protección</string>
+  <string name="keywords_securitycenter_settings">Uso de la batería;Administrar el arranque automático;Instalar a través de USB;Permisos de aplicación;Comprar datos móviles;Lista de bloqueo;Uso de datos;Plan de datos de calibración;Red de prueba;Ahorrar batería;Calefacción;Encender;Apagar;Batería;Drenaje;Problemas de batería;Energía;Ahorro de batería;Ahorro de energía;Ahorro de energía;Ahorro de batería;Autostart;Permisos;Inicio automático;Autostart de MIUI;Autostart de la aplicación;Inicio automático de la cadena;arranque encadenado;arranque desencadenado;USB instalar;instalar desde el ordenador;ADB instalar;Ubicación;Contactos de acceso;Datos;datos móviles;datos de compra;Recargar datos;plan de datos;Bloquear;lista negra;Lista de bloqueo inteligente;Fraude;Ventas;Agentes;Lista de bloqueo de llamadas;Lista de bloqueo de mensajes;Lista de bloqueo de mensajes;Lista de bloqueos de mensajes;Lista negra;Lista bloqueada;Lista bloqueada;Tráfico;Calibrar;Conexión;Internet;Prueba;Uso de la batería</string>
+  <string name="keywords_usb_install">Instalación USB;instalación desde el ordenador;instalación del ADB</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">Kb/s</string>
   <string name="label_mi_stats">Análisis Mi</string>
@@ -909,6 +910,9 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="path_antispam">Aplicaciones del sistema/Seguridad/Lista de bloqueo</string>
   <string name="path_antivirus">Aplicaciones del sistema/Seguridad de exploración/Virus</string>
   <string name="path_cleanmaster">Aplicaciones del sistema/Seguridad/Limpiador</string>
+  <string name="path_app_permissions">Aplicaciones de sistema/Seguridad/Permisos/Permisos de aplicación</string>
+  <string name="path_auto_restart">Aplicaciones del sistema/Seguridad/Permisos/Administrar inicio automático</string>
+  <string name="path_buy_flow">Aplicaciones del sistema/Seguridad/Uso de datos/Comprar datos móviles</string>
   <string name="path_networkassistant_1">Aplicaciones del sistema/Seguridad/Uso de datos</string>
   <string name="path_networkassistant_2">Aplicaciones del sistema/Seguridad/Uso de datos</string>
   <string name="path_networkassistant_4">Aplicaciones del sistema/Seguridad/Uso de datos/Test de la red</string>
