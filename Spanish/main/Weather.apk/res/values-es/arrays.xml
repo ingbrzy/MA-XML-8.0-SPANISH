@@ -86,7 +86,7 @@
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;fuerza 2</item>
+        <item>&lt;Escala de Beaufort 2</item>
         <item>&lt;6.0km/h</item>
         <item>&lt;1.7m/s</item>
         <item>&lt;3.7mph</item>
@@ -100,7 +100,7 @@
         <item>Nudos (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>fuerza %1$s</item>
+        <item>Número de Beaufort %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
