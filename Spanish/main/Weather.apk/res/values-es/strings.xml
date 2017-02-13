@@ -26,8 +26,8 @@
   <string name="app_name">Clima</string>
   <string name="aqi_data_source">Información del clima de Colorful Clouds</string>
   <string name="aqi_desc">Indicador de calidad del aíre</string>
-  <string name="aqi_detail_24_hours">Pronóstico por Hora</string>
-  <string name="aqi_detail_5_days">Pronóstico Diario</string>
+  <string name="aqi_detail_24_hours">Pronóstico por %1$s-hour</string>
+  <string name="aqi_detail_5_days">Pronóstico 5-día</string>
   <string name="aqi_detail_sub_title">Detalles ICA</string>
   <string name="aqi_detail_subtitle">ICA %1$s</string>
   <string name="aqi_detail_title">Índice de Calidad del Aire</string>
@@ -71,9 +71,10 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s más tarde.</string>
   <string name="daily_forcast_whirl_wind">Torbellino</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
-  <string name="daily_forecast_detail">Detalle del pronóstico</string>
+  <string name="daily_forecast_detail">Detalles del pronóstico</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="daily_forecast_no_data">"No se pudo obtener los datos manualmente, deslice hacia abajo para actualizar o compruebe la configuración de red."</string>
+  <string name="daily_forecast_no_data">"No se pudo obtener información meteorológica
+  Tire hacia abajo para actualizar o comprobar la configuración de red"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Administrar alertas</string>
   <string name="edit_city">Editar ciudad</string>
