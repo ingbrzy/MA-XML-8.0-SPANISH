@@ -122,6 +122,8 @@
   <string name="find_device_error_password_recently_changed">El los últimos tres días se hizo un cambio de contraseña. Por razones de seguridad aún no es posible desactivar la función Encontrar dispositivo.</string>
   <string name="find_device_interrupted">La acción fue interrumpida, intente más tarde</string>
   <string name="find_device_io_error">Error al conectar a la red</string>
+  <string name="find_device_locked_account_email" formatted="false">%s,correo electrónico asociado:%s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s,número teléfonico asociado:%s</string>
   <string name="find_device_null_credential_error">Error al obtener información sobre el dispositivo, contacte con servicio al cliente de Xiaomi</string>
   <string name="find_device_operation_failed_error">Ha ocurrido un error</string>
   <string name="find_device_operation_failed_error_unknown">Ha ocurrido un error, intente más tarde</string>
@@ -154,8 +156,6 @@
   <string name="micloud_space_info">%s disponible</string>
   <string name="mili_center">Créditos Mi</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="miui_provision_find_status_text">"Este dispositivo está asociado con una Cuenta Mi existente (%1$s), introduzca la contraseña para verificar el dispositivo.
-+(Desbloquear número: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Parece que usted está utilizando su cuenta de Primer espacio.</string>
   <string name="multi_user_not_show_sync_activity_message_2">Por esta razón, todos los datos se sincronizarán con el segundo espacio. Para evitar esto, no activar la sincronización con Mi Cloud.</string>
   <string name="multi_user_not_show_sync_activity_title">No activar la sincronización con Mi Cloud</string>
