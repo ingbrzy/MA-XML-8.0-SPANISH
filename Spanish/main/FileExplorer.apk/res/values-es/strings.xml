@@ -7,6 +7,7 @@
   <string name="activity_rule">Reglas</string>
   <string name="ad_download">Descargas</string>
   <string name="ad_downloading">Un momento…</string>
+  <string name="add_follow">Seguir</string>
   <string name="add_one">+1</string>
   <string name="add_private">Ocultar archivos ahora</string>
   <string name="add_private_files">Añadir archivos</string>
@@ -99,9 +100,12 @@
   <string name="claim_video_success">Reclamado con éxito</string>
   <string name="claim_video_unlogin">Identifíquese para reclamar vídeos</string>
   <string name="clean_hint">Tocar para liberar espacio</string>
+  <string name="click_login_str">Registrarse</string>
   <string name="click_to_refresh">Pulse aquí para recargar</string>
   <string name="click_to_switch_volume">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
   <string name="click_to_switch_volume_pad">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
+  <string name="comment_added">Agregado exitosamente</string>
+  <string name="comment_added_tip">"Estás agregando muchos comentarios. ¿Seguir a esta persona?"</string>
   <string name="comment_delete_message">El comentario será borrado permanentemente.</string>
   <string name="comment_delete_title">Borrar comentario</string>
   <string name="comment_hint">Añadir comentario</string>
@@ -143,6 +147,8 @@
   <string name="decrypt_error">No se pudo descifrar</string>
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">Desencriptando…</string>
+  <string name="default_prize_text">¡Eso va directamente a mi tesoro!</string>
+  <string name="default_user_desc">"Esta persona no ha añadido descripción todavía"</string>
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_error">Fallo al borrar archivos, trate de nuevo</string>
   <string name="delete_file">¿Eliminar este archivo?</string>
@@ -205,9 +211,11 @@
   <string name="file_loading">Cargando…</string>
   <string name="file_name_invalid">Los nombres de archivo no pueden contener los siguientes caracteres: /\\:*?&lt;&gt;</string>
   <string name="file_not_exist">El archivo no existe</string>
+  <string name="finish_str">Hecho</string>
   <string name="folder_name_empty">El nombre de la carpeta no puede estar vacío</string>
   <string name="folder_name_illegal">Nombre de carpeta no válido</string>
   <string name="follow_fail">"No se pudo seguir, inténtelo de nuevo"</string>
+  <string name="follow_success_tip">Seguido con éxito</string>
   <string name="follow_tip_1">Sígueme para ver más vídeos</string>
   <string name="follow_tip_2">Sígueme para ver más vídeos</string>
   <string name="force_touch_clean">Limpiar</string>
@@ -321,7 +329,10 @@
   <string name="move_icon_to_desktop_success">Acceso directo añadido a la pantalla de inicio.</string>
   <string name="move_to">Mover a…</string>
   <string name="msg_notify_setting">Configuración de las notificaciones</string>
+  <string name="msg_page_video_default_title">He subido un video, ¡eche un vistazo!</string>
   <string name="msg_set_password">Establecer contraseña primero</string>
+  <string name="my_follows">Mi feed</string>
+  <string name="need_login">Entra primero</string>
   <string name="name_empty">Debes ingresar un nombre.</string>
   <string name="need_read_storage_permission">El explorador necesita acceder al almacenamiento interno para trabajar como se ha diseñado.</string>
   <string name="network_dialog_checkbox_tip">No mostrar de nuevo</string>
@@ -330,6 +341,7 @@
   <string name="network_spent_reminding_title">Notificación de uso de datos</string>
   <string name="new_comments">Nuevos comentarios</string>
   <string name="new_folder_name">Carpeta sin nombre</string>
+  <string name="next_time">Ahora no</string>
   <string name="no">No</string>
   <string name="no_apk">Toque para obtener aplicaciones</string>
   <string name="no_app_tags">Vacío</string>
@@ -346,6 +358,7 @@
   <string name="no_new_content_tip">Todos los artículos están actualizados</string>
   <string name="no_recent_files">Sin archivos recientes</string>
   <string name="no_topic">No hay temas</string>
+  <string name="no_videos">Nada aquí. ¡Eche un vistazo a los siguientes!</string>
   <string name="no_wifi">No hay ninguna red detectada</string>
   <string name="no_wifi_hint">No hay conexión</string>
   <string name="not_installed_documentsui">DocumentsUI sin instalar aún</string>
@@ -404,6 +417,7 @@
   <string name="operation_show_sys">Mostrar archivos ocultos</string>
   <string name="operation_unfavorite">No favorito</string>
   <string name="origin_name">%1$s: </string>
+  <string name="original_user_desc">Sube vídeos originales regularmente para obtener el estado de Creador.</string>
   <string name="original_user_qq_group">Únete al grupo QQ del equipo de Talentos</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se ha unido a la comunidad</string>
   <string name="original_user_signal">Equipo de Talentos</string>
@@ -480,6 +494,7 @@
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Reciente</string>
   <string name="recommend">Recomendado</string>
+  <string name="recommend_popup_title">Recomendaciones</string>
   <string name="recommend_topic">Temas recomendados</string>
   <string name="recommend_user">Perfiles recomendados</string>
   <string name="remote_video_report_success">¡Gracias por la retroalimentación! Estaremos prestos a ello muy pronto.</string>
@@ -542,6 +557,8 @@
   <string name="search_title_hint">Buscar</string>
   <string name="select_dest_folder">Seleccionar carpeta</string>
   <string name="select_image">Elegir fotos</string>
+  <string name="select_interest_str">Seleccione los temas que quieras</string>
+  <string name="select_interest_tip">¡Hay mucho que descubrir!</string>
   <string name="select_music">Elegir canciones</string>
   <string name="select_video">Elegir vídeos</string>
   <string name="select_volume">Seleccione el volumen</string>
@@ -576,6 +593,8 @@
   <string name="share_title_09">%s He compartido un vídeo, ¡Echale un vistazo!</string>
   <string name="share_title_1">¡Encontrado nuevo paquete de pegatinas!</string>
   <string name="share_to">Compartir a…</string>
+  <string name="share_topic_desc">Subir videos para obtener premios</string>
+  <string name="share_topic_title">"Estoy viendo #%1$s#, ¡echar un vistazo!"</string>
   <string name="share_youliao1">Actualizar para ver más episodios.</string>
   <string name="share_youliao2">Actualizar para ver más episodios.</string>
   <string name="share_youliao3">Actualizar para ver más episodios.</string>
@@ -619,6 +638,7 @@
   <string name="tab_local">Local</string>
   <string name="tab_mine">Perfil</string>
   <string name="tab_more">Más</string>
+  <string name="tab_msg">Mensajes</string>
   <string name="tab_newest_video">Nuevo</string>
   <string name="tab_ranking_list">Lista de clasificación</string>
   <string name="tab_source">Aplicaciones</string>
@@ -692,6 +712,7 @@
   <string name="used">Usado</string>
   <string name="user_cancel">Cancelado</string>
   <string name="user_center_title">Inicio</string>
+  <string name="user_desc_default_tip">Inicia sesión para recoger puntos y ganar premios.</string>
   <string name="user_follow_me_title">Mis seguidores</string>
   <string name="user_follow_title">Personas que sigo</string>
   <string name="user_guide_continue_use">Aceptar</string>
@@ -769,6 +790,7 @@
   <string name="video_publish_hint2">Descripción</string>
   <string name="video_publish_origin_tag">Etiqueta original</string>
   <string name="video_publish_watchable_tag">Sígueme para ver este video</string>
+  <string name="video_publish_watchable_limit">Usted puede hacer esto dos veces al día</string>
   <string name="video_recommend_upload">Recomendado</string>
   <string name="video_status_reject">Rechazado</string>
   <string name="video_status_review">Siendo reseñado</string>
@@ -813,6 +835,12 @@
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ayer</string>
+  <string name="you_liao_god_desc">Sube videos regularmente y amplía tu base de fans para ganar el estado de Caballero</string>
+  <string name="you_liao_god_str">Caballero</string>
+  <string name="you_liao_goddess_desc">Sube videos regularmente y amplía tu base de fans para obtener el estado de Señora</string>
+  <string name="you_liao_goddess_str">Señora</string>
+  <string name="you_liao_xunlei_desc">Firmar un contrato con nosotros para obtener el estado de Anfitrión</string>
+  <string name="you_liao_xunlei_str">Xunlei Anfitrión</string>
   <string name="youliao_ad_msg">"¡Diviértase con \"Youliao\"!
 ¡Únase a 170 millones de aficionados Mi!"</string>
   <string name="youliao_ad_title">¡Los vídeos populares se han actualizado!</string>
