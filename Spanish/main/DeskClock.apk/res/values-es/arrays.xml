@@ -34,24 +34,6 @@
         <item>Lunes a Viernes</item>
         <item>Personalizar</item>
     </string-array>
-	<string-array name="aqi_value">
-        <item>Buena</item>
-        <item>Satisfactoria</item>
-        <item>Contaminado moderadamente</item>
-        <item>Mala</item>
-        <item>Muy mala</item>
-        <item>Grave</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>Reduzca las actividades en el exterior</item>
-        <item>Las carreteras están resbaladizas</item>
-        <item>El tiempo es tormentoso, tenga cuidado</item>
-        <item>El aire está contaminado, lleve máscara</item>
-        <item>Coja un paraguas cuando salga</item>
-        <item>Preste atención en la carretera</item>
-        <item>Se avecina una tormenta de polvo, lleve máscara</item>
-        <item>¡Tenga un buen día!</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>La alarma sonará en menos de 1 minuto.</item>
         <item>La alarma sonará en %1$s.</item>
