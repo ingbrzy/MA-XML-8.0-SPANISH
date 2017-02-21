@@ -49,7 +49,16 @@
   <string name="app_label">Descargas</string>
   <string name="artist">Artistas</string>
   <string name="artist_album">Álbumes</string>
+  <string name="artist_area_all">Todas</string>
+  <string name="artist_area_china">China</string>
+  <string name="artist_area_europe_usa">Europa/USA</string>
+  <string name="artist_area_japan">Japón</string>
+  <string name="artist_area_korea">Corea</string>
   <string name="artist_favor">Destacado</string>
+  <string name="artist_gender_all">Todas</string>
+  <string name="artist_gender_female">Femenino</string>
+  <string name="artist_gender_group">Grupo</string>
+  <string name="artist_gender_male">Masculino</string>
   <string name="artist_is_empty">El nombre del artista no puede estar vacío.</string>
   <string name="artist_name">Artista</string>
   <string name="artist_news">Noticias</string>
@@ -69,6 +78,7 @@
   <string name="auto_payment">Renovar automáticamente</string>
   <string name="auto_payment_date">Próximo pago: %s</string>
   <string name="auto_restart_under_wifi">El archivo se descargará cuando el dispositivo esté conectado a WI-FI</string>
+  <string name="auto_upgrade">Actualización automática</string>
   <string name="avail_services">Servicios disponibles</string>
   <string name="available_playlist_name_format">Nueva lista de reproducción %d</string>
   <string name="avoid_to_use_traffic_summary">No usar datos móviles para escuchar música por streaming</string>
@@ -323,6 +333,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="favorite_singer">Artistas favoritos</string>
   <string name="favorite_succeed">Añadida a favoritas</string>
   <string name="favorite_tracks">Favoritas</string>
+  <string name="favorites">Favoritos</string>
   <string name="favourite_music_left_half">Para añadir canciones a esta lista de reproducción, pulse el</string>
   <string name="favourite_music_right_half">Icono de favorito a la derecha del título de la canción</string>
   <string name="female_artist">Artistas femeninas</string>
@@ -432,6 +443,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="local_page_artist">Seguir artistas</string>
   <string name="local_page_custom_subtitle">Nuevas canciones todos los días</string>
   <string name="local_page_custom_title">Para ti</string>
+  <string name="local_page_playlist">Mis listas de reproducción</string>
   <string name="local_page_song_all">Todas las canciones</string>
   <string name="local_page_song_download">Canciones locales</string>
   <string name="local_page_song_favorite">Canciones favoritas</string>
@@ -544,6 +556,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="no_local_source_find">No se pudo encontrar la canción\"</string>
   <string name="no_online_song_selected">No hay canciones seleccionadas</string>
   <string name="no_results_return">No hay resultados de búsqueda</string>
+  <string name="no_scanned_songs">Vacío</string>
   <string name="no_song">No hay canciones</string>
   <string name="no_song_downloaded">No se pudo conectar al servidor</string>
   <string name="normal_quality">Buena</string>
@@ -614,6 +627,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="play_next">Siguiente…</string>
   <string name="playback_failed_no_title_by_bad_file">El formato no es compatible o el archivo no existe.</string>
   <string name="playlist_deleted_message">Lista de reproducción eliminada</string>
+  <string name="playlist_empty">No se han encontrado listas de reproducción.</string>
   <string name="playlist_renamed_message">Lista de reproducción renombrada</string>
   <string name="playlist_type_album">Álbumes</string>
   <string name="playlist_type_artist">Artista</string>
@@ -659,6 +673,8 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="radar_searching_state">La búsqueda está en proceso</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">¿Pagar ahora?</string>
+  <string name="recently_played">Recientemente escuchado</string>
+  <string name="recently_played_songs">Recientemente escuchado/string>
   <string name="recommend_fragment_title">Destacado</string>
   <string name="recommended_file_size_download_in_mobile">Usar %s datos móviles para descargar este archivo?</string>
   <string name="recommended_no_file_size_download_in_mobile">Usa datos móviles para descargar este archivo??</string>
