@@ -17,7 +17,7 @@
   <string name="add_redpackage">Paquete Rojo</string>
   <string name="add_slide">Agregar diapositiva (después)</string>
   <string name="add_slide_before">Agregar diapositiva de introducción</string>
-  <string name="add_slide_hint">Toque para crear nueva diapositiva</string>
+  <string name="add_slide_hint">Toque para crear una nueva diapositiva</string>
   <string name="add_smiley">Emoticono</string>
   <string name="add_timing">Temporizado</string>
   <string name="add_to_browser_favorite_failed">No se pudo añadir</string>
@@ -201,9 +201,9 @@
   <string name="group_message">Mensaje de grupo</string>
   <string name="group_message_failed_title">No se puede enviar a %d contactos</string>
   <string name="group_resend_message">Reenviar (%d)</string>
-  <string name="guild_add_attachments">Toque para agregar Emoticonos y otros contenidos</string>
-  <string name="guild_add_recipients">Toque para agregar destinatarios de la libreta de direcciones</string>
-  <string name="guild_msim_switcher">Toca para intercambiar las tarjetas SIM</string>
+  <string name="guild_add_attachments">Toque para agregar emoticones y otros elementos</string>
+  <string name="guild_add_recipients">Toque para añadir destinatarios de los contactos</string>
+  <string name="guild_msim_switcher">Toque para intercambiar las tarjetas SIM</string>
   <string name="has_invalid_recipient">Destinatarios no válidos: &lt; %1$s &gt;</string>
   <string name="hidden_sender_address">Remitente oculto</string>
   <string name="hint_search_sms">%d mensajes</string>
@@ -261,7 +261,7 @@
   <string name="message_download_failed_title">Mensaje no descargado</string>
   <string name="message_expired">Caducado</string>
   <string name="message_failed">Error</string>
-  <string name="message_failed_body">Toque para revisar el mensaje e inténtelo de nuevo.</string>
+  <string name="message_failed_body">Toque para revisar el mensaje e inténtelo de nuevo</string>
   <string name="message_number">Número de teléfono:</string>
   <string name="message_pending">Enviando</string>
   <string name="message_queued">Ahora no puedes enviar tu mensaje. Se enviará cuando servicio este disponible.</string>
@@ -350,7 +350,7 @@
   <string name="mx_on_sim_2">Mensaje Mi con la SIM de la ranura 2</string>
   <string name="mx_online">En línea</string>
   <string name="mx_reactivate">Reactivar mensajes Mi</string>
-  <string name="mx_recommend_msg">Toque para activar Mensajes Mi.</string>
+  <string name="mx_recommend_msg">Toque para activar Mensajes Mi</string>
   <string name="mx_stranger_recommend_msg">Toque para bloquear Mensajes Mi de números desconocidos</string>
   <string name="mx_type_guide">Enviar y recibir mensajes sin coste con personas que usan esta característica</string>
   <string name="need_download">Sincronizando…</string>
@@ -570,8 +570,8 @@
   <string name="sim_full_title">Tarjeta SIM llena</string>
   <string name="sim_manage_messages_title">Mensajes de texto en la tarjeta SIM</string>
   <string name="sim_view">Ver</string>
-  <string name="slide_number">Diapositiva %s</string>
-  <string name="slide_show_part">Parte %1$s/%2$s</string>
+  <string name="slide_number">Diapositiva %d</string>
+  <string name="slide_show_part">Parte %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Deslice hacia arriba para cancelar</string>
   <string name="slideshow_activity">Presentación</string>
   <string name="sms_card_partner_label">"Asociado a la tarjeta SMS: "</string>
