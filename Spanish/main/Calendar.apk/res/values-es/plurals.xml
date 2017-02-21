@@ -27,11 +27,11 @@
         <item quantity="other">+%d eventos</item>
         <item quantity="one">+1 evento</item>
     </plurals>
-    <plurals name="Ndays_ago">
+    <plurals name="Ndays_ago_at">
         <item quantity="other">Hace %1$d días en %2$s</item>
         <item quantity="one">Hace %1$d día en %2$s</item>
     </plurals>
-    <plurals name="Ndays_after">
+    <plurals name="Ndays_after_at">
         <item quantity="other">En %1$d días en %2$s</item>
         <item quantity="one">En %1$d día en %2$s</item>
     </plurals>
@@ -39,4 +39,25 @@
         <item quantity="other">Hace %d semanas</item>
         <item quantity="one">Hace 1 semana</item>
     </plurals>
+	<plurals name="anniversary_notify_title">
+        <item quantity="other">[Aniversario]%2$d años de  %1$s</item>
+        <item quantity="one">[Aniversario]%2$d año de %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">[Aniversario]%2$d años de %1$s en 3 días</item>
+        <item quantity="one">[Aniversario]%2$d año de %1$s en 3 días</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">años</item>
+        <item quantity="one">año</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">días</item>
+        <item quantity="one">día</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">días tarde</item>
+        <item quantity="one">día tarde</item>
+    </plurals>
+
 </resources>

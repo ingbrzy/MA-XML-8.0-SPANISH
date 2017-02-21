@@ -42,6 +42,8 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Expirada</string>
   <string name="alert_title">Notificaciones de calendario</string>
+  <string name="anniversary_card_title">Aniversario</string>
+  <string name="anniversary_event_title">[Aniversario]%1$s</string>
   <string name="app_label">Calendario</string>
   <string name="attendees_label">Invitados</string>
   <string name="birthday_calendar_display_name">Recordatorio de cumpleaños</string>
@@ -51,6 +53,8 @@
   <string name="birthday_event_description_a_week_later">Dentro de una semana</string>
   <string name="birthday_event_description_day_after_tomorrow">Pasado mañana</string>
   <string name="birthday_event_description_day_before_yesterday">Anteayer</string>
+  <string name="birthday_event_description_days_ago">%1$d días desde</string>
+  <string name="birthday_event_description_days_later">%1$d días hasta</string>
   <string name="birthday_event_description_days_ago">Hace %1$s días</string>
   <string name="birthday_event_description_days_later">Dentro de %1$s días</string>
   <string name="birthday_event_description_default">%1$s de %2$s %3$s %4$s</string>
@@ -115,6 +119,8 @@
   <string name="delete_this_event_title">¿Eliminar este evento?</string>
   <string name="deleting_calendar">Darse de baja en</string>
   <string name="departure">Salida</string>
+  <string name="description_calendar">Aplicaciones del Sistema/Calendario</string>
+  <string name="description_calendar_edit_event">Aplicaciones del Sistema/Calendario/Agenda</string>  
   <string name="description_label">Descripción</string>
   <string name="directory_searching_fmt">Buscando %s…</string>
   <string name="discard_label">Cancelar</string>
@@ -127,6 +133,8 @@
   <string name="downloading_wallpaper">Descargando imagen</string>
   <string name="dropdown_delete_button_desc">Quitar %s de destinatarios</string>
   <string name="edit_event_all_day_label">Todo el día</string>
+  <string name="edit_event_anniversary_name_empty_hint">Por favor inserte el aniversario</string>
+  <string name="edit_event_anniversary_name_hint">Contenido</string>
   <string name="edit_event_birthday_3_days_before">Y recordar 3 días antes</string>
   <string name="edit_event_birthday_reminder_summary">Ese día en %1$s</string>
   <string name="edit_event_birthday_reminder_summary_3_days_before">Recordar 3 días antes y ese día en %1$s</string>
@@ -138,11 +146,17 @@
   <string name="edit_event_calendar_label">Calendario</string>
   <string name="edit_event_choose_date">Elegir fecha</string>
   <string name="edit_event_confirm_message">¿Descartar cambios?</string>
+  <string name="edit_event_countdown_name_empty_hint">Ingrese el contenido de la cuenta regresiva</string>
+  <string name="edit_event_countdown_name_hint">Contenido</string>
   <string name="edit_event_from_label">Desde</string>
   <string name="edit_event_input_year">Introduzca el año</string>
   <string name="edit_event_label">Detalles</string>
   <string name="edit_event_no_reminder_value">"No recordar"</string>
+  <string name="edit_event_reminder_3_days_before">Recuerdemlo con 3 días de antelación</string>
+  <string name="edit_event_reminder_summary">En ese día a las %1$s</string>
+  <string name="edit_event_reminder_summary_3_days_before">3 días de antelación, y en ese día a las %1$s</string>
   <string name="edit_event_reminder_text">En %1$s a %2$s</string>
+  <string name="edit_event_reminder_time">Tiempo de recordatorio</string>
   <string name="edit_event_reminder_with_another_day_text">En %1$s, %2$s a %3$s</string>
   <string name="edit_event_show_all">Mostrar todo</string>
   <string name="edit_event_tab_anniversary">Aniversario</string>
@@ -196,6 +210,7 @@
   <string name="hint_what">Nombre del evento</string>
   <string name="hint_where">Ubicación</string>
   <string name="holiday_card_title">Festivo</string>
+  <string name="path_calendar_settings">Aplicaciones del Sistema/Calendario/Ajustes</string>
   <string name="holiday_label">Festivales chinos</string>
   <string name="horoscope_card_comprehensive">Integral：</string>
   <string name="horoscope_card_financial">Financiero：</string>
@@ -323,6 +338,9 @@
   <string name="saving_event">Evento guardado</string>
   <string name="saving_event_with_guest">Las actualizaciones serán enviadas</string>
   <string name="search">Búsqueda</string>
+  <string name="search_calendar">"Fecha;Almanaque;Fortuna;Agenda;Cita;Recordatorio;Vacación;Festivo;Cumpleaños;2016;2017;Año nuevo"</string>
+  <string name="search_calendar_edit_event">Cita;Recordatorio;Agenda</string>
+  <string name="search_calendar_settings">Calendario;Agenda;Recordatorio</string>
   <string name="search_calendar">Calendario;Agenda;Recordatorios</string>
   <string name="search_title">Buscar mis calendarios</string>
   <string name="select_date">Seleccionar fecha</string>
