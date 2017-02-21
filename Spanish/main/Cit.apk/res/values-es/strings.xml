@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="SDCard">SD Card</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Detectar tarjeta SD interna</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Tarjeta SD interna no disponible</string>
+  <string name="SD_SDCard_available_szie">Tamaño disponible</string>
+  <string name="SD_SDCard_mounted">Detectar SDCard</string>
+  <string name="SD_SDCard_total_size">Tamaño total</string>
+  <string name="SD_SDCard_unmounted">SDCard no disponible</string>
+  <string name="button_cancel">Cancelar</string>
+  <string name="button_ok">Aceptar</string>
   <string name="camerainfo">Información de la cámara</string>
   <string name="cit_OTG_plugin_check_summary">Cuando se conecta el dispositivo OTG, debe mostrarse el texto \"Dispositivo USB OTG detectado\" más abajo.</string>
   <string name="cit_OTG_plugin_check_title">OTG (detección)</string>
@@ -70,6 +79,8 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_audio_right_caldata">"Datos Calibrados del PA:
  "</string>
   <string name="cit_audio_right_calfail">¡No se ha podido calibrar el PA!</string>
+  <string name="cit_battery_check_summary">Estadísticas de la batería del dispositivo</string>
+  <string name="cit_battery_check_title">Información sobre la batería</string>
   <string name="cit_battery_temp_fail">Temperatura de la batería no es normal (valor = %d)</string>
   <string name="cit_battery_temp_pass">Temperatura de la batería es normal</string>
   <string name="cit_batterylight_blue">Azul</string>
@@ -110,6 +121,8 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_exit_test_title">Salir de la prueba</string>
   <string name="cit_fail">Falló</string>
   <string name="cit_finger_check_title">Prueba de huellas dactilares (FPC)</string>
+  <string name="cit_flash_life_check_summary">Estimación del tiempo de vida del flash del dispositivo</string>
+  <string name="cit_flash_life_check_title">Vida de flash</string>
   <string name="cit_fm_audio_path">Configurar ruta de audio</string>
   <string name="cit_fm_audio_path_headset">Auriculares</string>
   <string name="cit_fm_audio_path_speaker">Altavoz</string>
@@ -210,8 +223,10 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_pressure_sensor_check_title">Sensor de presión</string>
   <string name="cit_proximity_sensor_check_summary">Cubrir el sensor de proximidad (ubicado en la parte superior del teléfono cerca del receptor) con la mano, luego mueve la mano lejos. Debe aumentar el valor de 0,0 cuando te mueves tu mano más lejos el dispositivo. Durante la calibración, asegúrese de que no hay nada entre el sensor y la mano (e.g. protector de pantalla o guantes).</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidad</string>
-  <string name="cit_ramdump_crash">Forzar el bloqueo del sistema cuando se bloquea el módem</string>
-  <string name="cit_ramdump_dload">Forzar el modo de descarga</string>
+  <string name="cit_proximity_us_sensitivity">Sensibilidad:</string>
+  <string name="cit_proximity_us_summary">Calibración Ultrasónica del Sensor de Proximidad</string>
+  <string name="cit_rear_dual_camera_check_title">Cámara dual trasera</string>
+  <string name="cit_rear_sub_camera_check_title">Sub-cámara trasera</string>
   <string name="cit_recovery_signature_failed">firma de recuperación FALLO</string>
   <string name="cit_recovery_signature_passed">firma de recuperación PASÓ</string>
   <string name="cit_reset_check_summary">Esta prueba reiniciará el dispositivo. Se perderán todos los datos de prueba anterior.</string>
@@ -248,6 +263,8 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_sim_state_unkown">Desconocido</string>
   <string name="cit_start_calibration">Calibrar</string>
   <string name="cit_stop_calibration">Detener calibración</string>
+  <string name="cit_tfcard_support_summary">Compruebe si TFCard es compatible con este dispositivo</string>
+  <string name="cit_tfcard_support_title">Soporte TFCard</string>
   <string name="cit_tool">Herramientas adicionales</string>
   <string name="cit_tool_bluetooth">Herramienta de prueba de Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Entrar en modo de prueba de bluetooth</string>
@@ -261,6 +278,7 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_tool_bluetooth_tx_l">Entrar en test（2.402GHz）mode sonido único bluetooth</string>
   <string name="cit_tool_cal_camera">Herramienta de calibración de cámara</string>
   <string name="cit_tool_enable_3A_log">Activar registro 3A interruptor</string>
+  <string name="cit_tool_enable_display_3A_log">Habilitar registro de visualización 3A</string>
   <string name="cit_tool_log">Obtener registros</string>
   <string name="cit_tool_log_bugreport">Informe de fallo</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -275,15 +293,29 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_tool_log_toast_generate_bugreport">Crear informe de fallo. (Esto tarda aproximadamente 1 minuto)</string>
   <string name="cit_tool_modem">Herramientas de pruebas de módem</string>
   <string name="cit_tool_modem_bugreport">Fuerza módem P.e.</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Desactivar CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Desactivar CU VoLTE, reiniciar para tener efecto.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Habilitar CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Habilitar VoLTE CU, reiniciar para tener efecto.</string>
   <string name="cit_tool_modem_exit_ftm">Salir del modo de FTM</string>
   <string name="cit_tool_modem_mbn">Cambiar Configuración de Modem</string>
   <string name="cit_tool_modem_offline_log">Abrir/cerrar registro Offline</string>
   <string name="cit_tool_nfc">Herramientas de pruebas de NFC</string>
+  <string name="cit_tool_nfc_ce_disable">Deshabilitar Ce</string>
+  <string name="cit_tool_nfc_ce_enable">Habilitar Ce</string>
+  <string name="cit_tool_nfc_ce_status">Estado de Ce:</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
   <string name="cit_tool_nfc_st_run">Ejecutar</string>
   <string name="cit_tool_nfc_st_stop">Parar</string>
-  <string name="cit_tool_ramdump">Ajustes Ramdump</string>
+  <string name="cit_tool_prx_drx">PRx+DRx</string>
+  <string name="cit_tool_prx_drx_select_mode">Seleccionar Modo:</string>
+  <string name="cit_tool_prx_drx_select_rat">Seleccionar RAT:</string>
+  <string name="cit_tool_prx_drx_start_test">Empezar Test</string>
+  <string name="cit_tool_prx_drx_stop_test">Detener Test</string>
+  <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_rf_ant">RF/Herramientas de antena</string>
   <string name="cit_tool_wifi">Herramienta de prueba de Wi-Fi</string>
   <string name="cit_tool_wifi_exit">Salida</string>
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
@@ -349,6 +381,22 @@ Coja el teléfono como si estuviera respondiendo una llamada, hable al micrófon
   <string name="cit_wifi_ap_scanning">Escaneando…</string>
   <string name="cit_wifi_fail_to_scan">No se podía buscar redes</string>
   <string name="cit_wifi_state_refresh">Actualizar</string>
+  <string name="cit_yellow_torch_on">Activar la luz amarilla del flash</string>
+  <string name="error_app_internal">Error interno de la aplicación</string>
+  <string name="error_app_unsupported">Formato no compatible</string>
+  <string name="error_sdcard_access">¡No se puede acceder al espacio del sistema!</string>
+  <string name="keyboard">KEY</string>
+  <string name="lcminfo">Información de LCM</string>
+  <string name="magnetic_info_hint">Por favor, girar el dispositivo en forma de 8</string>
+  <string name="mic1_spk_loop">Micrófono</string>
+  <string name="mic1test">MIC1</string>
+  <string name="micphone_test">MIC＆ SPK</string>
+  <string name="remove_headset_and_starttest">Quite el auricular y presione Inicio para probar</string>
+  <string name="speak_from_mic">Hablando con el MIC, la reproducción del altavoz. Juzga si hay sonido.</string>
+  <string name="start">Empezar</string>
+  <string name="testagain">Puede pulsar la tecla HOME para volver a probar</string>
+  <string name="testing">Ejecución automática de prueba...</string>
+  <string name="touch_auto">Prueba automática del panel táctil en curso, espere....</string>
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Prueba de retroalimentación del altavoz del micrófono delantero</string>
   <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Prueba de retroalimentación del micrófono frontal.
 
@@ -361,4 +409,5 @@ Gire el teléfono, hable al micrófono superior, usted debe oír la voz en el al
   <string name="testing">Ejecución automática de prueba...</string>
   <string name="tp_color">TP Color:</string>
   <string name="tp_version">TP Version:</string>
+  <string name="waiting">Esperando 4s.</string>
 </resources>
