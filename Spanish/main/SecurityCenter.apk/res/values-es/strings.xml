@@ -30,7 +30,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="activity_title_auto_start_manager">Inicio automático</string>
   <string name="activity_title_create_shortcut">Gestionar accesos directos</string>
   <string name="activity_title_deep_clean">Limpieza profunda</string>
-  <string name="activity_title_default_apps_manager">Aplicaciones predeterminadas</string>
   <string name="activity_title_garbage_cleanup">Limpiador</string>
   <string name="activity_title_license_manager">Permisos</string>
   <string name="activity_title_memory">Memoria</string>
@@ -121,7 +120,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="apps_item_sign_dialog_content">"\"%s's La firma es diferente de la versión en la App Store. ¿Eliminar esta aplicación e instalar la versión oficial? Nota: la instalación de una aplicación con una firma en conflicto puede conducir a la pérdida de datos de la aplicación."</string>
   <string name="apps_item_sign_dialog_title">Instalar aplicación oficial</string>
   <string name="apps_item_sign_install_button_text">Reemplazar</string>
-  <string name="apps_item_sms_default_set_success">Establecido con éxito</string>
   <string name="apps_item_sms_reset_button_text">Restaurar los valores predeterminados</string>
   <string name="apps_item_sms_title">Configuración de mensajería por defecto</string>
   <string name="apps_item_summary_sms">%s tiene acceso a sus mensajes, puede causar problemas de seguridad</string>
@@ -578,7 +576,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Descripción:</string>
-  <string name="hints_virus_lib_update_default_summary">Hora de última actualización: desconocida</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Esta app supone un gran riesgo para la seguridad de tu teléfono.</string>
   <string name="history_details_title">Historial de detalles</string>
@@ -628,7 +625,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="last_check_date_yesterday">"Analizado ayer "</string>
   <string name="last_check_never_checked">Analizar ahora</string>
   <string name="last_checked_date2">Analizado hace %d días</string>
-  <string name="last_checked_default">Analizado hace %s días</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Día laborable</string>
   <string name="legal_workday_invalidate">Lun-Vie (información de día laborable caducada)</string>
@@ -647,7 +643,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="lock_screen_warning_category">Notificaciones en la pantalla de bloqueo</string>
   <string name="lock_screen_warning_switch_summary">Mostrar advertencia en la pantalla de bloqueo cuando el uso de datos excede una cierta cantidad</string>
   <string name="lock_screen_warning_switch_title">Mostrar advertencias en la pantalla de bloqueo</string>
-  <string name="lock_screen_warning_value">Advertencia de uso de datos</string>
   <string name="lock_settings_title">Pantalla de bloqueo y contraseña</string>
   <string name="lockpassword_confirm_your_password_header">Confirmar contraseña</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmar patrón</string>
@@ -886,10 +881,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="optimize_result_button_to_set">Conjunto</string>
   <string name="optimize_result_button_update_now">Actualizar</string>
   <string name="optimize_result_summary_sucurity_risk">Algunas características de seguridad están desactivadas. Activar estas características para hacer al dispositivo más seguro:</string>
-  <string name="optimize_result_summary_system_default_settings">"El uso de aplicaciones MIUI aumenta el nivel de estabilidad y seguridad del sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Riesgos de seguridad encontrados</string>
-  <string name="optimize_result_title_system_default_settings">Los ajustes predeterminados se han cambiado</string>
-  <string name="optimize_result_toast_system_default_settings">Restaurar la configuración predeterminada</string>
   <string name="optimize_result_toast_system_no_item_selected">No hay elementos seleccionados</string>
   <string name="optmizingbar_optimize_done">Optimizado</string>
   <string name="optmizingbar_ready">Optimizando…</string>
@@ -1118,7 +1110,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_save_mode_start_time">Comienzo</string>
   <string name="power_save_mode_summary" formatted="false">Supervisar los procesos en segundo plano, y desactivar la sincronización.El economizador de batería se apagará automáticamente cuando la batería este entre el 60% y el 100% de la carga.</string>
   <string name="power_save_on_time_auto_save_title">Programar cambio de perfil</string>
-  <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Terminar</string>
   <string name="power_save_on_time_end_time_summary_na">A</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -1215,7 +1206,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="pref_title_virus_white_list">Excepciones</string>
   <string name="pref_traffic_manage_title">Uso de datos</string>
   <string name="pref_version">Versión %s</string>
-  <string name="pref_warning_values">Nivel de advertencia del uso de datos</string>
   <string name="pref_whitelist_setting">Excepciones en el roaming de datos</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Cámara</string>
@@ -1250,8 +1240,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="quick_optimize_sub_summary_text">La batería durará %s más</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">El teléfono está drenando la batería, solucionarlo</string>
   <string name="quick_optimize_suggest_battery_over_heat">El teléfono está sobrecalentándose, solucionarlo</string>
-  <string name="reach_daily_limit_value_body">Reducir el uso de datos móviles.</string>
-  <string name="reach_daily_limit_value_title">Límite diario de datos alcanzada</string>
   <string name="recently_reject_message">Instalación de %1$s y %2$d otras aplicaciones rechazadas</string>
   <string name="recently_reject_message_one">%1$s solicitudes de instalación rechazadas</string>
   <string name="recommend_app">Aplicaciones recomendadas</string>
@@ -1316,7 +1304,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="safe_result_item_info_app_sign">Ninguna aplicación no oficial</string>
   <string name="safe_result_item_info_app_virus">Ningún virus o aplicación de riesgo</string>
   <string name="safe_result_item_info_sms_auth">Restringir el acceso de aplicaciones de terceros para códigos de verificación</string>
-  <string name="safe_result_item_info_sms_default">Cambiar a los valores predeterminados la aplicación de mensajería</string>
   <string name="safe_result_item_info_sms_url">Protección contra URL maliciosas vía SMS</string>
   <string name="safe_result_item_info_system_antivirus">Protección contra virus de phishing</string>
   <string name="safe_result_item_info_system_root">Seguro root</string>
@@ -1449,7 +1436,6 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="summary_cmcc_app_check">Algunas aplicaciones no pudieron verificarse</string>
   <string name="summary_consume_power">Se encontraron problemas de calentamiento, pueden afectar la duración de la batería</string>
   <string name="summary_data_flow">Controlar el uso de datos móviles para evitar cargos adicionales</string>
-  <string name="summary_default_app">%s no se ha establecido como una aplicación del sistema por defecto</string>
   <string name="summary_dev">Evitar el malware y proteger los datos personales</string>
   <string name="summary_find_device">Localizar y bloquear el dispositivo desde cualquier lugar</string>
   <string name="summary_flow_notification">Mostrar la estadísticas de uso de datos mensuales en el panel de notificación</string>
@@ -1530,7 +1516,6 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_upload_success">¡Gracias por su comentario!</string>
   <string name="tc_sms_report_direction">Código de consulta SMS</string>
   <string name="tc_sms_report_do_report">Enviar</string>
-  <string name="tc_sms_report_get_default">No se le cobrarán gastos por los mensajes SMS usados para obtener el saldo de uso de datos por parte de su operador.</string>
   <string name="tc_sms_report_get_sms">Obtener SMS</string>
   <string name="tc_sms_report_get_sms2">Obtener SMS</string>
   <string name="tc_sms_report_get_sms_again">Actualizar SMS</string>
@@ -1594,7 +1579,6 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_consume_power">Se encontraron problemas con la batería</string>
   <string name="title_consume_power_rank">Uso de la batería</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
-  <string name="title_default_app">MIUI %s no se establece como predeterminado</string>
   <string name="title_dev_no">Opciones de desarrollo activadas</string>
   <string name="title_dev_yes">Opciones de desarrollo desactivadas</string>
   <string name="title_find_device">Encontrar dispositivo</string>
@@ -1639,7 +1623,6 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="toast_add_virus_white_list_success">Añadido a excepciones. Ver los elementos ajustes de seguridad.</string>
   <string name="toast_auto_traffic_correct">El uso de datos se ajustara automáticamente</string>
   <string name="toast_cleaner_cloudscan">El limpiador usará definiciones en línea</string>
-  <string name="toast_default_app">%1$s establecen como sistema predeterminado %2$s</string>
   <string name="toast_flow_notification">Notificaciones de uso de datos activas</string>
   <string name="toast_garbage_lib">Actualizaciones automáticas para el Limpiador activadas</string>
   <string name="toast_lockscreen_glogin_empty_password">Contraseña requerida</string>

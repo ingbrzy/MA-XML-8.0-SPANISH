@@ -118,7 +118,6 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Aceptar todos los certificados)</string>
   <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_username_label">Nombre de usuario</string>
-  <string name="account_setup_incoming_username_label_default_hint">Puede incluir el dominio</string>
   <string name="account_setup_need_password_verification">Su cuenta posee autenticación por contraseña secundaria. Se requiere autenticación.</string>
   <string name="account_setup_options_mail_check_frequency_10min">Cada 10 minutos</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Cada 12 horas</string>
@@ -135,7 +134,6 @@
   <string name="account_setup_options_mail_window_3days">Últimos tres días</string>
   <string name="account_setup_options_mail_window_all">Todo</string>
   <string name="account_setup_options_mail_window_auto">Automático</string>
-  <string name="account_setup_options_mail_window_default">Usar cuenta predeterminada</string>
   <string name="account_setup_options_mail_window_label">Sincronizar email de</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Guardar durante</string>
   <string name="account_setup_options_title">Configuración de la cuenta</string>
@@ -280,7 +278,6 @@
   <string name="contact_edit_title_phone_contact">Lista de contactos del teléfono</string>
   <string name="contact_in_filter_title">Remitente</string>
   <string name="contact_info_string">Mostrar información de contacto de %1$s</string>
-  <string name="contact_info_string_default">Mostrar información de contacto</string>
   <string name="contact_list_add_btn">Añadir</string>
   <string name="contact_list_search_hint">Buscar contactos</string>
   <string name="contact_list_title">Contactos</string>
@@ -321,9 +318,6 @@
   <string name="date_heading">"Fecha: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoy, %1$s</string>
-  <string name="default_">POR DEFECTO</string>
-  <string name="default_setup">AJUSTES POR DEFECTO</string>
-  <string name="default_signature">Enviado desde mi teléfono Mi</string>
   <string name="del_account_questionnair_hint">¿Podría decirnos por qué está eliminando esta cuenta?</string>
   <string name="delete">Eliminar</string>
   <string name="delete_message_flow">Eliminar el flujo de mensajes</string>
@@ -410,7 +404,6 @@
   <string name="file_not_found_redownload">No se pudo encontrar el archivo</string>
   <string name="file_rar_not_support">No es posible abrir archivos rar cifrados</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
-  <string name="first_quick_default_reply">Pulse en el botón para enviar \"%s\" a todas las personas en la conversación</string>
   <string name="float_window_content">Detecta que está utilizando el buzón, haga clic en Confirmar para que llene automáticamente la Cuenta de correo electrónico y contraseña de 139.</string>
   <string name="float_window_info">"Al hacer ajustes en el buzón de correo 139, no utilice el teléfono, puede tener de fallos en ajustes."</string>
   <string name="float_window_title">Ajustando………</string>
@@ -546,7 +539,6 @@ Declinado:
 %s "</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Adjuntos</string>
-  <string name="menu_att_mgr_order_default">Visto recientemente</string>
   <string name="menu_att_mgr_order_mime">Ordenar por formato</string>
   <string name="menu_att_mgr_order_name">Ordenar por nombre</string>
   <string name="menu_att_mgr_order_rev_date">Mostrar por fecha de recepción</string>

@@ -246,8 +246,6 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="download_btn_select_none">Deseleccionar todo</string>
   <string name="download_complete">Descargado con éxito</string>
   <string name="download_completed">Descargado</string>
-  <string name="download_default_path_txt">Recordar esta elección</string>
-  <string name="download_dialog_default_path_invalid">La ruta de descarga no es válida. Se utilizará la ruta de descarga predeterminada en su lugar.</string>
   <string name="download_dialog_file_length_hint_txt">"Tamaño:"</string>
   <string name="download_dialog_file_length_lessthan1kb">menos de 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">"No se pudo descargar"</string>
@@ -526,17 +524,9 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_enable_news">Noticias</string>
   <string name="pref_enable_novels">Libros</string>
   <string name="pref_enable_videos">Vídeos</string>
-  <string name="pref_extras_reset_default">Restablecer a valores por defecto</string>
-  <string name="pref_extras_reset_default_dlg">¿Regresar ajustes a los valores predeterminados?</string>
-  <string name="pref_extras_reset_default_summary">Restaurar valores predeterminados</string>
-  <string name="pref_extras_reset_default_title">Otros</string>
   <string name="pref_extras_send_feedback">Enviar comentarios</string>
   <string name="pref_extras_title">Avanzado</string>
   <string name="pref_extras_title_version">Versión</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">Restaurar valores predeterminados</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Restaurar valores predeterminados</string>
-  <string name="pref_file_download_default_path_prefix">Ruta de acceso predeterminada: %s</string>
-  <string name="pref_file_download_save_modify_default_path">Ruta de acceso de las descargas</string>
   <string name="pref_file_download_save_title">Descargas</string>
   <string name="pref_fling_on_border">Deslizar desde el borde</string>
   <string name="pref_fling_on_border_title_summary">Deslizar desde el borde izquierdo o derecho de la pantalla</string>
@@ -611,7 +601,6 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="quicklink_saved_before">Ya se ha agregado este sitio</string>
   <string name="quicklink_user_define_webpage_title">Nombre</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
-  <string name="quicklinks_group_default_subtitle">Vacío</string>
   <string name="quicklinks_management">Popular</string>
   <string name="quicklinks_most_visited">Agregar a la página de inicio</string>
   <string name="quicklinks_most_visited_subtitle">Mostrar los sitios recientemente visitados en una nueva pestaña</string>
@@ -774,7 +763,6 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="v5_edit_mode_title_empty">0 seleccionados</string>
   <string name="v5_select_all">Seleccionar todo</string>
   <string name="version_check_button_checking">Comprobando…</string>
-  <string name="version_check_button_default">Buscando actualizaciones</string>
   <string name="version_check_button_download_failed">Continuar descarga</string>
   <string name="version_check_button_downloading">Descargando…</string>
   <string name="version_check_button_install">Instalar</string>

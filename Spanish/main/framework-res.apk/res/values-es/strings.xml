@@ -48,7 +48,6 @@
   <string name="action_bar_up_description">Desplazarse hacia arriba</string>
   <string name="action_menu_overflow_description">Más opciones</string>
   <string name="action_mode_done">Listo</string>
-  <string name="activity_chooser_view_dialog_title_default">Seleccionar actividad</string>
   <string name="activity_chooser_view_see_all">Ver todas</string>
   <string name="activity_list_empty">No se encontraron actividades coincidentes.</string>
   <string name="activity_resolver_use_always">Siempre</string>
@@ -249,11 +248,6 @@ con %s"</string>
   <string name="days">días</string>
   <string name="decline">Rechazar</string>
   <string name="decline_remote_bugreport_action">RECHAZAR</string>
-  <string name="defaultVoiceMailAlphaTag">Correo de voz</string>
-  <string name="default_audio_route_category_name">Sistema</string>
-  <string name="default_audio_route_name">Dispositivo</string>
-  <string name="default_audio_route_name_dock_speakers">Altavoces del conector</string>
-  <string name="default_audio_route_name_headphones">Auriculares</string>
   <string name="delete">Eliminar</string>
   <string name="deleteText">Eliminar</string>
   <string name="deleted_key">%1$s borrado</string>
@@ -453,7 +447,6 @@ con %s"</string>
   <string name="imTypeHome">Casa</string>
   <string name="imTypeOther">Otro</string>
   <string name="imTypeWork">Trabajo</string>
-  <string name="ime_action_default">Ejecutar</string>
   <string name="ime_action_done">Listo</string>
   <string name="ime_action_go">Ir</string>
   <string name="ime_action_next">Siguiente</string>
@@ -480,7 +473,6 @@ con %s"</string>
   <string name="js_dialog_before_unload_positive_button">Abandonar esta página</string>
   <string name="js_dialog_before_unload_title">Confirmar navegación</string>
   <string name="js_dialog_title">La página \"%s\" dice:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Conecta un auricular para escuchar las contraseñas.</string>
   <string name="keyboard_password_character_no_headset">Punto</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -595,7 +587,6 @@ Para no fijar, pulse y mantenga presionado el botón Inicio y el botón Encendid
   <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
   <string name="lockscreen_access_pattern_detected">Patrón completado</string>
   <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
-  <string name="lockscreen_carrier_default">Sin servicio</string>
   <string name="lockscreen_emergency_call">Emergencia</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe">Intentaste desbloquear el dispositivo %1$d veces, pero no lo lograste. Puedes intentarlo %2$d veces más antes de que se restablezcan los valores predeterminados de fábrica del dispositivo y se pierdan todos los datos de usuario.</string>
   <string name="lockscreen_failed_attempts_almost_glogin">"Has establecido incorrectamente tu patrón de desbloqueo %1$d veces. Luego de %2$d intentos incorrectos, se te solicitará que desbloquees tu dispositivo mediante el uso de tu información de acceso de Google.
@@ -1156,8 +1147,6 @@ para la cuenta %s"</string>
   <string name="restr_pin_incorrect">Incorrecto</string>
   <string name="restr_pin_try_later">Vuelve a intentar más tarde.</string>
   <string name="revoke">Revocar</string>
-  <string name="ringtone_default">Tono de llamada predeterminado</string>
-  <string name="ringtone_default_with_actual">Tono de llamada predeterminado (%1$s)</string>
   <string name="ringtone_picker_title">Tonos de llamada</string>
   <string name="ringtone_silent">Ninguno</string>
   <string name="ringtone_unknown">Tono de llamada desconocido</string>
@@ -1443,7 +1432,6 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="wifi_calling_off_summary">Apagado</string>
   <string name="wifi_connect_alert_message">La aplicación %1$s quiere conectarse a la red Wi-Fi %2$s</string>
   <string name="wifi_connect_alert_title">Permitir conexión?</string>
-  <string name="wifi_connect_default_application">Una aplicación</string>
   <string name="wifi_no_internet">Wi-Fi no tiene acceso a Internet</string>
   <string name="wifi_no_internet_detailed">Toque para ver opciones</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Directo</string>
@@ -1458,7 +1446,6 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Para:</string>
   <string name="wifi_p2p_turnon_message">Iniciar Wi-Fi Directo. Se desactivará el funcionamiento de la zona o del cliente Wi-Fi.</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">No se pudo conectar a la red Wi-Fi.</string>
   <string name="wifi_watchdog_network_disabled_detailed">" tiene una mala conexión a Internet."</string>
   <string name="wireless_display_route_description">Pantalla inalámbrica</string>
@@ -1475,9 +1462,6 @@ Escuchar a un alto volumen durante largos períodos puede dañar tu audición."<
   <string name="years">años</string>
   <string name="yes">Aceptar</string>
   <string name="zen_mode_alarm">Hasta las %1$s (siguiente alarma)</string>
-  <string name="zen_mode_default_events_name">Evento</string>
-  <string name="zen_mode_default_weekends_name">Fin de semana</string>
-  <string name="zen_mode_default_weeknights_name">Por las noches</string>
   <string name="zen_mode_downtime_feature_name">Tiempo de inactividad</string>
   <string name="zen_mode_feature_name">No molestar</string>
   <string name="zen_mode_forever">Indefinidamente</string>

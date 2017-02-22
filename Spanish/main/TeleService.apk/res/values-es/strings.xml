@@ -118,7 +118,6 @@
   <string name="callFailed_userBusy">Línea ocupada</string>
   <string name="callUnanswered_forwarded">Llamada perdida y reenviada</string>
   <string name="call_advanced_setting_title">Ajustes avanzados</string>
-  <string name="call_background_default">Imagen por defecto</string>
   <string name="call_background_lock_wallpaper">Fondo de pantalla de bloqueo</string>
   <string name="call_background_setting">Llamada en segundo plano</string>
   <string name="call_barring">Restricción de llamadas</string>
@@ -229,22 +228,18 @@
   <string name="cfnry_title">Desviar cuando no se responda la llamada</string>
   <string name="cfu_title">Desviar siempre las llamadas</string>
   <string name="change_data_preference_4g_only_prompt">Parece que tienes una SIM que sólo soporta 4G. ¿Establecer por defecto para datos móviles?</string>
-  <string name="change_default_data_card">SIM por defecto para datos móviles</string>
-  <string name="change_default_data_card_summary">Parece que cambió las tarjetas SIM. ¿Desea establecer esta tarjeta SIM como predeterminada para su conexión de datos móviles?</string>
   <string name="change_num">Actualizar</string>
   <string name="change_password">Cambiar contraseña de restricción</string>
   <string name="change_pin">Cambiar PIN de tarjeta SIM</string>
   <string name="change_pin2">Cambiar PIN2</string>
   <string name="china_mobile">China Mobile</string>
   <string name="clir_choices_hide_number">Ocultar número</string>
-  <string name="clir_choices_network_default">Red predeterminada</string>
   <string name="clir_choices_show_number">Mostrar número</string>
   <string name="close_dialog">Aceptar</string>
   <string name="close_profile">Cerrar</string>
   <string name="cloud_antispam_title">Identificar números desconocidos</string>
   <string name="cmcc_ut_data_enable_prompt">Este servicio requiere una conexión de datos móviles. Encenderlo para continuar.</string>
   <string name="command_error_fdn_failure">Primero debe deshabilitar FDN</string>
-  <string name="config_default_data_sim">Ajustes</string>
   <string name="confirmPin2Label">Confirmar nuevo PIN2</string>
   <string name="confirmPinLabel">Confirmar nuevo PIN</string>
   <string name="confirm_password_label">Confirme la nueva contraseña</string>
@@ -256,7 +251,6 @@
   <string name="connect_disconnect_vibrate_title">Vibrar cuando se contesta la llamada</string>
   <string name="connect_disconnect_vibrate_weak">Suave</string>
   <string name="connect_later">No se puede conectar a la red en este momento. Inténtalo de nuevo más tarde.</string>
-  <string name="connection_service_default_label">Servicio de conexión integrado</string>
   <string name="contactAddFailed">No se pudo agregar el contacto a la SIM.</string>
   <string name="contactAddSuccess">Contacto añadido a SIM.</string>
   <string name="contactPhoto">Foto de contacto</string>
@@ -271,8 +265,6 @@
   <string name="data_enable_summary">Permitir a este dispositivo utilizar datos móviles</string>
   <string name="data_enabled">Datos móviles</string>
   <string name="deactivate_all">Cancelar todo</string>
-  <string name="default_notification_description">Sonido predeterminado (%1$s)</string>
-  <string name="default_preference_summary">&lt;Sin definir&gt;</string>
   <string name="delete">Eliminar</string>
   <string name="deleteAllSimEntries">Eliminar todos los contactos de SIM</string>
   <string name="deleteSimContacts">Borrando…</string>
@@ -608,10 +600,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="mobile_network_settings_not_available">La configuración de las redes móviles no se encuentra disponible para este usuario</string>
   <string name="mobile_networks">Configuración de red móvil</string>
   <string name="msim_apn_not_set">No configurado</string>
-  <string name="msim_default_setting">Configuración predeterminada</string>
   <string name="msim_disable_sim_card_btn_text">Aceptar</string>
-  <string name="msim_disable_sim_card_summary_default_card">Esta tarjeta está actualmente establecida como SIM predeterminada. Si deja de usarla, no podrá realizar llamadas ni utilizar su conexión de datos móviles. Puede detener esta tarjeta SIM después de establecer otra SIM como tarjeta predeterminada.</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">Es posible que no pueda realizar llamadas o utilizar su conexión de datos móviles. ¿Dejar de usar %s la tarjeta SIM?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"No restrinjas la retrollamada de tu SIM secundaria en caso de emergencia."</string>
   <string name="msim_disable_sim_card_title">Dejar de usar la tarjeta SIM</string>
   <string name="msim_enable_sim">Activar</string>
@@ -857,7 +846,6 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
   <string name="preference_category_ringtone">Tono y vibración</string>
   <string name="preference_data_usage_summary">Establecer el plan de datos para controlar el uso de datos móviles</string>
   <string name="preference_data_usage_title">Ajustes de uso de datos</string>
-  <string name="preference_dial_pad_touch_tone_default">Predeterminado</string>
   <string name="preference_dial_pad_touch_tone_off">Apagado</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Tonos del teclado de llamada</string>
@@ -994,7 +982,6 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="respond_via_sms_cannot_empty">Rechazar mensajes no puede estar vacío</string>
   <string name="respond_via_sms_confirmation_format">Mensaje enviado a %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Respuesta rápida</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Restablecer valores predeterminados</string>
   <string name="respond_via_sms_setting_summary">Editar respuestas de texto predeterminadas</string>
   <string name="respond_via_sms_setting_title">Respuestas rápidas</string>
   <string name="response_error">Respuesta inesperada de la red.</string>
@@ -1053,7 +1040,6 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">Nombre</string>
   <string name="sim_contact_number">Número</string>
-  <string name="sim_description_default">Tarjeta SIM %s</string>
   <string name="sim_description_emergency_calls">Sólo llamadas de emergencia</string>
   <string name="sim_label_emergency_calls">Llamadas de emergencia</string>
   <string name="sim_ndp_dismiss_text">Descartar</string>
@@ -1110,7 +1096,6 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="sum_cfu_enabled_no_number">Número no disponible</string>
   <string name="sum_cw_disabled">Notificarme de las llamadas entrantes durante las llamadas</string>
   <string name="sum_cw_enabled">Notificarme de llamadas entrantes durante una llamada</string>
-  <string name="sum_default_caller_id">Utilizar la configuración de operador predeterminada para mostrar mi número en las llamadas salientes</string>
   <string name="sum_fdn">Configurar números de marcación fija</string>
   <string name="sum_fdn_change_pin">Cambiar PIN para acceso de FDN</string>
   <string name="sum_fdn_manage_list">Administrar lista de números de teléfono</string>
@@ -1210,7 +1195,6 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="voice_report_unknown_num">Número desconocido</string>
   <string name="voicemail">Buzón de voz</string>
   <string name="voicemail_abbreviated">Buzón de voz:</string>
-  <string name="voicemail_default">Mi operador</string>
   <string name="voicemail_notification_ringtone_title">Sonido</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrar</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrar</string>

@@ -88,7 +88,6 @@ Si hay varios usuarios en el dispositivo, usar este acceso directo en la pantall
 
  Nota: Puede tocar tres veces la pantalla para ampliar el contenido en cualquier parte, excepto en el teclado y en la barra de navegación."</string>
   <string name="accessibility_screen_magnification_title">Gesto de lupa</string>
-  <string name="accessibility_service_default_description">No se ha especificado ninguna descripción.</string>
   <string name="accessibility_services_title">Servicios</string>
   <string name="accessibility_settings">Accesibilidad</string>
   <string name="accessibility_settings_title">Ajustes de accesibilidad</string>
@@ -266,7 +265,6 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="app_launch_domain_links_title">Enlaces de aplicaciones</string>
   <string name="app_launch_open_domain_urls_summary">Se abren sin preguntar</string>
   <string name="app_launch_open_domain_urls_title">Abrir enlaces compatibles</string>
-  <string name="app_launch_other_defaults_title">Otros ajustes predeterminados</string>
   <string name="app_launch_supported_domain_urls_title">Enlaces compatibles</string>
   <string name="app_link_open_always">Abrir en esta aplicación</string>
   <string name="app_link_open_ask">Preguntar siempre</string>
@@ -395,7 +393,6 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="background_data_summary">Las aplicaciones pueden sincronizar datos, enviarlos y recibirlos.</string>
   <string name="background_process_stop_description">Es un proceso de una aplicación anterior que aún está en ejecución por si se necesita de nuevo. Por lo general, no hay motivos para detenerlo.</string>
   <string name="backtouch_enable_title">Ajustar volumen en la tapa posterior</string>
-  <string name="backup_configure_account_default_summary">Ninguna cuenta está almacenando datos con copia de seguridad en estos momentos.</string>
   <string name="backup_configure_account_title">Cuenta de copia de seguridad</string>
   <string name="backup_data_summary">Crear backup de datos, contraseñas Wi-Fi y otros ajustes a los servidores de Google</string>
   <string name="backup_data_title">Copiar mis datos</string>
@@ -669,8 +666,6 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_pb_remember_choice">No volver a preguntar</string>
   <string name="bluetooth_permission_request">Solicitud de permiso de Bluetooth</string>
   <string name="bluetooth_phonebook_request">Solicitud de acceso a agenda telefónica</string>
-  <string name="bluetooth_pin_values_hint">Normalmente: 0000 o 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">Debe tener 16 dígitos</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
   <string name="bluetooth_preference_device_settings">Ajustes del dispositivo</string>
   <string name="bluetooth_preference_found_devices">Dispositivos disponibles</string>
@@ -1243,18 +1238,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="debug_view_attributes">Inspección de atributos de vista</string>
   <string name="decline_remote_bugreport_action">Declinar</string>
   <string name="defalut_launcher_title">Lanzador predeterminado</string>
-  <string name="default_app">(Predeterminada)</string>
-  <string name="default_apps_title">Aplicaciones predeterminadas</string>
-  <string name="default_assist_none">Ninguno</string>
-  <string name="default_assist_title">Aplicación de asistencia</string>
-  <string name="default_browser_title">Aplicación Navegador</string>
-  <string name="default_browser_title_none">Sin navegador predeterminado</string>
-  <string name="default_date_format">MM/dd/yyyy</string>
-  <string name="default_emergency_app">Aplicación Emergencia</string>
-  <string name="default_input_method">Seleccione el teclado predeterminado</string>
-  <string name="default_phone_title">Aplicación Teléfono</string>
-  <string name="default_sound">Sonido predeterminado</string>
-  <string name="default_usb_mode">Conexión USB</string>
   <string name="delete">Eliminar</string>
   <string name="delete_fingerprint_confirm_msg">¿Eliminar huella dactilar?</string>
   <string name="delete_fingerprint_text">Eliminar huella dactilar</string>
@@ -1295,7 +1278,6 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_display_layout_title">Características</string>
   <string name="device_edit_title">Renombrar teléfono</string>
   <string name="device_feedback">Dar tu opinión sobre el dispositivo</string>
-  <string name="device_info_default">Desconocido</string>
   <string name="device_info_label">Información del dispositivo</string>
   <string name="device_info_not_available">No disponible</string>
   <string name="device_info_settings">Estado del teléfono</string>
@@ -1916,7 +1898,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="internal_storage">Almacenamiento interno</string>
   <string name="internal_storage_sentence">almacenamiento interno</string>
   <string name="invalid_location">La ubicación de instalación no es válida.</string>
-  <string name="invalid_size_value">No se ha podido calcular el tamaño del paquete.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s y %2$s</string>
@@ -1931,7 +1912,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="key_settings_title">Botones</string>
   <string name="keyboard_and_input_methods_category">Teclado y métodos de entrada</string>
   <string name="keyboard_assistance_category">Asistencia de teclado</string>
-  <string name="keyboard_layout_default_label">Predeterminado</string>
   <string name="keyboard_layout_dialog_setup_button">Configurar diseños de teclado</string>
   <string name="keyboard_layout_dialog_switch_hint">Para cambiar, pulsa Ctrl+espacio.</string>
   <string name="keyboard_layout_dialog_title">Elige un tipo de teclado</string>
@@ -1957,8 +1937,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keywords_color_mode">vibrante, RGB, sRGB, color, natural, estándar</string>
   <string name="keywords_color_temperature">color temperatura D65 D73 blanco amarillo azul cálido frío</string>
   <string name="keywords_date_and_time">reloj, militar</string>
-  <string name="keywords_default_apps">aplicaciones, predeterminadas</string>
-  <string name="keywords_default_phone_app">teléfono, marcador, predeterminado</string>
   <string name="keywords_display">pantalla, táctil</string>
   <string name="keywords_display_auto_brightness">atenuar, pantalla, pantalla táctil, batería</string>
   <string name="keywords_display_brightness_level">atenuar, pantalla, pantalla táctil, batería</string>
@@ -1974,7 +1952,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keywords_location">ubicación cercana, informes de ubicación</string>
   <string name="keywords_location_mode">precisión</string>
   <string name="keywords_lockscreen">deslizar, contraseña, patrón, pin</string>
-  <string name="keywords_more_default_sms_app">mensaje texto, mensajes texto, mensajes</string>
   <string name="keywords_more_mobile_networks">celular, móvil, conexión inalámbrica, datos, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_name_display">Mostrar nombre del operador</string>
   <string name="keywords_network_reset">restablecer, datos, fábrica</string>
@@ -2005,9 +1982,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="last_time_used_label">Último uso</string>
   <string name="later">MÁS TARDE</string>
   <string name="lattice_smartcover_title">Tapa frontal de celosía</string>
-  <string name="launch_by_default">Abrir de forma predeterminada</string>
-  <string name="launch_defaults_none">No se han establecido valores predeterminados</string>
-  <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
   <string name="launcher_auto_fill_empty_title">Rellenar celdas vacías</string>
   <string name="launcher_title">Pantalla de inicio</string>
   <string name="launching_cit">Ejecutando CIT</string>
@@ -2054,7 +2028,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="local_backup_password_toast_validation_failure">Error al establecer la contraseña de seguridad</string>
   <string name="local_backup_section_summary">Crear backup de los ajustes, información de cuenta y aplicaciones</string>
   <string name="local_backup_section_title">Backups locales</string>
-  <string name="locale_default">Predeterminado</string>
   <string name="locale_not_translated">Puede no estar disponible en algunas aplicaciones</string>
   <string name="locale_remove_menu">Eliminar</string>
   <string name="locale_settings">Región</string>
@@ -2599,9 +2572,6 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_how_it_works_title">Pago en terminal</string>
   <string name="nfc_more_title">Más...</string>
   <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
-  <string name="nfc_payment_default">Aplicación de pago predeterminada</string>
-  <string name="nfc_payment_default_not_set">No definida</string>
-  <string name="nfc_payment_favor_default">Siempre</string>
   <string name="nfc_payment_favor_foreground">Favorecer aplicación en primer plano</string>
   <string name="nfc_payment_favor_open">Excepto si hay otra aplicación de pago abierta</string>
   <string name="nfc_payment_how_it_works">Cómo funciona</string>
@@ -2609,11 +2579,7 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_payment_menu_item_add_service">Buscar aplicaciones</string>
   <string name="nfc_payment_no_apps">Paga en las tiendas con tu teléfono</string>
   <string name="nfc_payment_pay_with">En un terminal Tocar y pagar, paga con:</string>
-  <string name="nfc_payment_set_default">¿Utilizar siempre %1$s con la función Tocar y pagar?</string>
-  <string name="nfc_payment_set_default_instead_of">¿Utilizar siempre %1$s en lugar de %2$s con la función Tocar y pagar?</string>
-  <string name="nfc_payment_set_default_label">¿Establecer como preferencia?</string>
   <string name="nfc_payment_settings_title">Tocar y pagar</string>
-  <string name="nfc_payment_use_default">Usar aplicación predeterminada</string>
   <string name="nfc_quick_toggle_summary">Permitir el intercambio de datos cuando el teléfono toque otro dispositivo</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Posición de elemento seguro</string>
@@ -2631,7 +2597,6 @@ Seleccione su sistema operativo:"</string>
   <string name="no_condition_providers">No hay ningún proveedor de condiciones instalado.</string>
   <string name="no_connected_devices">No hay dispositivos conectados</string>
   <string name="no_data_usage">No se han usado datos</string>
-  <string name="no_default_apps">Ninguna aplicación predeterminada</string>
   <string name="no_device_admins">No hay ningún administrador de dispositivos disponible.</string>
   <string name="no_internet_access_remember">No volver a preguntar por esta red</string>
   <string name="no_internet_access_text">La red Wi-Fi %1$s no tiene acceso a Internet. ¿Permanecer conectado?</string>
@@ -2926,7 +2891,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="pref_volume_wake_title">Encender con botones de volumen</string>
   <string name="preference_change_password_title">Cambiar contraseña</string>
   <string name="preferred_app_settings">Predeterminados</string>
-  <string name="preferred_app_settings_default">Predeterminado</string>
   <string name="preferred_app_settings_not_selected">No seleccionada</string>
   <string name="preferred_app_settings_reset">Restablecer valores predeterminados</string>
   <string name="preferred_app_settings_reset_button">Restablecer</string>
@@ -3066,7 +3030,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="provision_skip">Omitir</string>
   <string name="proxy_action_text">Aceptar</string>
   <string name="proxy_clear_text">Borrar</string>
-  <string name="proxy_defaultView_text">Restaurar valores predeterminados</string>
   <string name="proxy_error">Atención</string>
   <string name="proxy_error_dismiss">Aceptar</string>
   <string name="proxy_error_empty_host_set_port">El campo de puerto debe estar vacío si el campo de host también lo está.</string>
@@ -3230,8 +3193,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="resetting_second_space_passwd">Restablecimiento de la contraseña del segundo espacio</string>
   <string name="resolver_settings_label">Ordenar</string>
   <string name="resource_ringtone_volume_mute">Su timbre está silenciado</string>
-  <string name="restore_default_apn">Restaurando la configuración de APN predeterminada</string>
-  <string name="restore_default_apn_completed">Se ha restablecido la configuración predeterminada de APN.</string>
   <string name="restr_pin_enter_admin_pin">Introduzca el PIN del administrador</string>
   <string name="restrict_background_blacklisted">Los datos en segundo plano están desactivados</string>
   <string name="restriction_bluetooth_config_summary">Permitir modificar los ajustes y las vinculaciones de Bluetooth</string>
@@ -3903,9 +3864,6 @@ Es posible que el PIN no sea correcto."</string>
   <string name="smartcover_sensitive_summary">Bloquee o desbloquee el teléfono automáticamente usando la Smart Cover</string>
   <string name="smartcover_sensitive_title">Modo Smartcover</string>
   <string name="sms_application_title">Aplicación SMS</string>
-  <string name="sms_change_default_dialog_text">¿Usar %1$s en lugar de %2$s como aplicación de SMS?</string>
-  <string name="sms_change_default_dialog_title">¿Cambiar aplicación de SMS?</string>
-  <string name="sms_change_default_no_previous_dialog_text">¿Usar %s como aplicación de SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Elegir tono de mensaje entregado</string>
   <string name="sms_delivered_sound_title">Mensaje entregado</string>
   <string name="sms_messages_title">Mensajes SMS</string>
@@ -4340,16 +4298,6 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="trusted_credentials_user_tab">Usuario</string>
   <string name="try_again">Inténtalo de nuevo.</string>
   <string name="tts_data_installed_summary">Las voces necesarias para la síntesis de voz ya están instaladas correctamente.</string>
-  <string name="tts_default_lang_summary">Establecer la voz del idioma específico para el texto hablado</string>
-  <string name="tts_default_lang_title">Idioma</string>
-  <string name="tts_default_pitch_summary">Afecta al tono del sintetizador de voz.</string>
-  <string name="tts_default_pitch_title">Tono</string>
-  <string name="tts_default_rate_summary">Velocidad a la que se lee el texto</string>
-  <string name="tts_default_rate_title">Velocidad de la voz</string>
-  <string name="tts_default_sample_string">Este es un ejemplo de síntesis de voz</string>
-  <string name="tts_default_settings_section">Ajustes predeterminados</string>
-  <string name="tts_default_synth_summary">Establece el motor de síntesis de voz para que lo utilice el texto hablado</string>
-  <string name="tts_default_synth_title">Motor predeterminado</string>
   <string name="tts_engine_error">El motor seleccionado no se puede ejecutar.</string>
   <string name="tts_engine_error_config">Configurar</string>
   <string name="tts_engine_error_reselect">Seleccionar otro motor</string>
@@ -4563,8 +4511,6 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="usb_use_photo_transfers_desc">Transferir fotos o ficheros si no se admite MTP (PTP)</string>
   <string name="usb_use_power_only">Proporcionar corriente eléctrica</string>
   <string name="usb_use_power_only_desc">Proporcionar corriente eléctrica al otro dispositivo conectado</string>
-  <string name="use_default_tts_settings_summary">La configuración predeterminada anula la de la aplicación.</string>
-  <string name="use_default_tts_settings_title">Utilizar siempre mi configuración</string>
   <string name="use_location_summary">Permitir que Google use tu ubicación para mejorar los resultados de búsqueda y otros servicios</string>
   <string name="use_location_title">Ubicación en búsquedas</string>
   <string name="use_personalized_ad_service">Utilizar el identificador de publicidad</string>
@@ -5215,7 +5161,6 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_switch_to_gsm_title">¿Usar GSM?</string>
   <string name="wifi_tether_checkbox_text">Punto de acceso móvil</string>
   <string name="wifi_tether_configure_ap_text">Configurar punto de acceso móvil</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s punto de acceso móvil</string>
   <string name="wifi_tether_enabled_subtext">Zona Wi-Fi portátil %1$s activa</string>
   <string name="wifi_tether_failed_subtext">Error de punto de acceso móvil</string>
@@ -5335,7 +5280,6 @@ Asistente de Wi‑Fi"</string>
   <string name="zen_mode_calls">Llamadas</string>
   <string name="zen_mode_choose_rule_type">Escoja el tipo de regla</string>
   <string name="zen_mode_configure_rule">Configurar regla</string>
-  <string name="zen_mode_default_option">Hasta que lo desactives</string>
   <string name="zen_mode_delete_rule">Eliminar regla</string>
   <string name="zen_mode_delete_rule_button">Eliminar</string>
   <string name="zen_mode_delete_rule_confirmation">¿Quieres eliminar la regla \"%1$s\"?</string>

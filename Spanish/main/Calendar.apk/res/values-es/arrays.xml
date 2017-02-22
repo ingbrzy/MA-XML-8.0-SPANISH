@@ -140,35 +140,6 @@
         <item>2 días antes</item>
         <item>1 semana antes</item>
     </string-array>
-    <string-array name="default_reminder_labels">
-        <item>En el momento del evento</item>
-        <item>5 minutos antes</item>
-        <item>10 minutos antes</item>
-        <item>15 minutos antes</item>
-        <item>30 minutos antes</item>
-        <item>1 hora antes</item>
-        <item>1 día antes</item>
-        <item>2 días antes</item>
-        <item>1 semana antes</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>Sin recordatorio</item>
-        <item>En el momento del evento</item>
-        <item>5 minutos antes</item>
-        <item>10 minutos antes</item>
-        <item>15 minutos antes</item>
-        <item>30 minutos antes</item>
-        <item>1 hora antes</item>
-        <item>1 día antes</item>
-        <item>2 días antes</item>
-        <item>1 semana antes</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Me retrasaré un par de minutos.</item>
-        <item>Estoy allí en 10 minutos.</item>
-        <item>Empieza sin mí.</item>
-        <item>Lo siento, no puedo ir. Tendremos que aplazar la cita.</item>
-    </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 horas</item>
         <item>4 horas</item>
@@ -229,18 +200,6 @@
         <item>Contar</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Sin aviso</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>1 día</item>
-        <item>2 días</item>
-        <item>1 semana</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
         <item>Sin aviso</item>
         <item>0 minutos</item>
         <item>5 minutos</item>

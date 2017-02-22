@@ -55,7 +55,6 @@
   <string name="birthday_event_description_day_before_yesterday">Anteayer</string>
   <string name="birthday_event_description_days_ago">Hace %1$s días</string>
   <string name="birthday_event_description_days_later">Dentro de %1$s días</string>
-  <string name="birthday_event_description_default">%1$s de %2$s %3$s %4$s</string>
   <string name="birthday_event_description_special">%1$s %3$s %4$s %5$s de %2$s</string>
   <string name="birthday_event_description_today">Hoy es</string>
   <string name="birthday_event_description_tomorrow">Mañana es</string>
@@ -111,7 +110,6 @@
   <string name="date_pattern_mm_dd">ddíaMMes</string>
   <string name="day_view">Día</string>
   <string name="day_view_new_event_hint">Nuevo evento</string>
-  <string name="default_reminder_mode">Recordatorios</string>
   <string name="delete_calendar">Anular suscripción</string>
   <string name="delete_recurring_event_title">¿Eliminar %s?</string>
   <string name="delete_this_event_title">¿Eliminar este evento?</string>
@@ -149,7 +147,6 @@
   <string name="edit_event_from_label">Desde</string>
   <string name="edit_event_input_year">Introduzca el año</string>
   <string name="edit_event_label">Detalles</string>
-  <string name="edit_event_no_reminder_value">"No recordar"</string>
   <string name="edit_event_reminder_3_days_before">Recuerdemlo con 3 días de antelación</string>
   <string name="edit_event_reminder_summary">En ese día a las %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">3 días de antelación, y en ese día a las %1$s</string>
@@ -189,7 +186,6 @@
   <string name="event_info_where">Dónde</string>
   <string name="event_lunar_month">Mes</string>
   <string name="event_reminder_allday_day_zero">En ese día a las %2$s</string>
-  <string name="event_reminder_value_zero">Antes del evento</string>
   <string name="event_reminders_to_max">Puede configurar %d recordatorios</string>
   <string name="event_show_more">Más opciones</string>
   <string name="event_title">Título</string>
@@ -287,17 +283,12 @@
   <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
   <string name="preferences_alerts_vibrate_title">Vibración y tonos</string>
   <string name="preferences_build_version">Versión</string>
-  <string name="preferences_default_allday_reminder_title">Hora predeterminada de recordatorio para todo el día</string>
-  <string name="preferences_default_reminder_dialog">Hora predeterminada de recordatorio</string>
-  <string name="preferences_default_reminder_title">Hora predeterminada de recordatorio</string>
-  <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Zona horaria propia</string>
   <string name="preferences_import_credit_repayment">Pagos con tarjeta de crédito</string>
   <string name="preferences_notification_ringtone_title">Sonido</string>
   <string name="preferences_title">Calendario</string>
   <string name="preferences_use_home_tz_descrip">Mostrar calendarios y horarios del evento en tu zona horaria propia cuando viajes</string>
   <string name="preferences_use_home_tz_title">Usar zona horaria propia</string>
-  <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">La semana comienza en</string>
   <string name="preferences_week_start_day_title">La semana comienza en</string>
   <string name="presence_label">Estado</string>
