@@ -35,6 +35,10 @@
   <string name="additional_permissions">Permisos adicionales</string>
   <string name="allPerms">Todos</string>
   <string name="all_permissions">Todos los permisos</string>
+  <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
+
+¿Permitir esto ahora y en el futuro?"</string>
+  <string name="allow_source_dlg_title">Nueva fuente para aplicaciones</string>
   <string name="allow_mock_location">Permitir localizaciones simuladas</string>
   <string name="allow_mock_location_summary">Permitir localizaciones simuladas</string>
   <string name="allow_source_dlg_title">Nueva fuente de aplicaciones</string>
@@ -232,17 +236,18 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="install_confirm_question_update_system">¿Quiere instalar una actualización de esta aplicación integrada? Tus datos no se perderán. La aplicación actualizada podrá acceder a:</string>
   <string name="install_confirm_question_update_system_no_perms">¿Quiere instalar una actualización de esta aplicación integrada? Tus datos no se perderán. No requiere ningún acceso especial.</string>
   <string name="install_done">Aplicación instalada</string>
-  <string name="install_failed">No se pudo instalar la aplicación</string>
-  <string name="install_failed_blocked">El paquete no se ha instalado.</string>
-  <string name="install_failed_conflict">El paquete está en conflicto con un paquete existente con el mismo nombre.</string>
-  <string name="install_failed_incompatible">"Esta aplicación no es compatible con tu teléfono".</string>
+  <string name="install_failed">La aplicación no está instalada.</string>
+  <string name="install_failed_cpu_abi_incompatible">"Esta aplicación no es compatible con tu teléfono".</string>
+  <string name="install_failed_file_not_found">El paquete especificado se eliminó antes de poder completar la instalación..</string>
+  <string name="install_failed_inconsistent_certificates">Ya está instalado un paquete existente con el mismo nombre con una firma en conflicto.</string>
   <string name="install_failed_invalid_apk">Parece que el paquete está dañado.</string>
   <string name="install_failed_msg">No se ha podido instalar %1$s en el teléfono.</string>
   <string name="install_failed_older_sdk">Este paquete solo funciona en las versiones más recientes de Android.</string>
-  <string name="install_failed_system_incompatible">Esta aplicación no es compatible con MIUI</string>
+  <string name="install_failed_older_sdk">El paquete sólo funciona en las versiones más recientes de Android.</string>
+  <string name="install_failed_verify_failed">El paquete no pasó la verificación y no se puede instalar.</string>
+  <string name="install_failed_verify_timeout">Se ha producido un tiempo de espera al intentar verificar este paquete. Intente instalarlo de nuevo más tarde.</string>
   <string name="install_failed_verify_failed">El paquete no ha superado el proceso de verificación y no se puede instalar.</string>
   <string name="install_failed_verify_timeout">Se ha agotado el tiempo de espera al intentar verificar este paquete. Prueba a instalarlo más tarde.</string>
-  <string name="install_from_appstore_hint">Te recomendamos que instales la aplicación desde &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Instalando…</string>
   <string name="keep_screen_on">Pantalla activa</string>
   <string name="keep_screen_on_summary">La pantalla nunca entrará en modo de suspensión si el dispositivo se está cargando</string>
@@ -508,13 +513,13 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="uninstall_blocked_device_owner">"Esta aplicación es necesaria para tu perfil y no se puede desinstalar."</string>
   <string name="uninstall_blocked_profile_owner">"Esta aplicación es necesaria para tu perfil de trabajo y no se puede desinstalar."</string>
   <string name="uninstall_confirm_question">¿Desea desinstalar esta aplicación?</string>
-  <string name="uninstall_done">Desinstalación exitosa</string>
+  <string name="uninstall_done">La desinstalación terminó.</string>
   <string name="uninstall_failed">No se pudo desinstalar</string>
   <string name="uninstall_failed_device_policy_manager">No se puede desinstalar porque este paquete es un administrador de dispositivos activo.</string>
   <string name="uninstall_failed_device_policy_manager_of_user">No se puede instalar porque este paquete es un administrador de dispositivos activos para el usuario %1$s.</string>
   <string name="uninstall_failed_msg">No se ha podido desinstalar %1$s.</string>
   <string name="uninstall_failed_retained_app_msg">Esta aplicación ha sido modificada y no puede ser desinstalada en su forma actual.</string>
-  <string name="uninstall_update_text">¿Quiere sustituir esta aplicación con la versión de fábrica?</string>
+  <string name="uninstall_update_text">¿Desea reemplazar esta aplicación con la versión de fábrica?</string>
   <string name="uninstall_update_text_multiuser">¿Reemplazar esta aplicación con la versión de fábrica? Todos los datos se borrarán. Esto afecta a todos los usuarios de este dispositivo, incluidos aquellos con perfiles de trabajo.</string>
   <string name="uninstall_update_title">Desinstalar actualización</string>
   <string name="uninstalling">Desinstalando…</string>
@@ -524,7 +529,7 @@ Se guardarán todos los datos de usuario anteriores."</string>
   <string name="unknown_apps_dlg_text1">"El teléfono está configurado para bloquear la instalación de aplicaciones de fuentes desconocidas. Puede desactivar esta función en "</string>
   <string name="unknown_apps_dlg_text2">\"Ajustes\"</string>
   <string name="unknown_apps_dlg_text3">.</string>
-  <string name="unknown_installer">Herramientas de PC no identificadas</string>
+  <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
   <string name="usb_audio_disable_routing">Sin enrutamiento audio USB</string>
   <string name="usb_audio_disable_routing_summary">Inhabilitar el enrutamiento automático a periféricos de audio USB</string>
   <string name="user_guest">Invitado</string>
