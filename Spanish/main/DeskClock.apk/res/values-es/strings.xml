@@ -36,7 +36,7 @@
   <string name="control_set_alarm_with_existing">Ajuste de la alarma: %s</string>
   <string name="day">1 día</string>
   <string name="day_concat">", "</string>
-  <string name="days">%s días</string>
+  <string name="days">%d días</string>
   <string name="default_alarm_alert">Sonido de alarma predeterminado</string>
   <string name="default_alarm_title">Tono de alarma por defecto</string>
   <string name="default_label">Alarma</string>
@@ -57,7 +57,7 @@
   <string name="full_wday_month_day_no_year">EEEE, d \'de\' MMMM</string>
   <string name="hour">1 hora</string>
   <string name="hour_unit">Hr +</string>
-  <string name="hours">%s horas</string>
+  <string name="hours">%d horas</string>
   <string name="keep_screen_on">Mantener la pantalla encendida</string>
   <string name="label">Etiquetar</string>
   <string name="label_pref_summary">Nombre</string>
@@ -89,7 +89,7 @@
   <string name="menu_item_sort_by_gmt_offset">Ordenar por hora</string>
   <string name="menu_item_sort_by_name">Ordenar por nombre</string>
   <string name="minute">1 minuto</string>
-  <string name="minutes">%s minutos</string>
+  <string name="minutes">%d minutos</string>
   <string name="more_settings">Ajustes</string>
   <string name="never">Una vez</string>
   <string name="oneshot_alarm">Eliminar después de apagar la alarma</string>
