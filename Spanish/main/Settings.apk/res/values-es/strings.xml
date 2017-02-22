@@ -1503,6 +1503,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="edge_mode_photo_summary">En la aplicación Cámara, toque el borde de su teléfono para activar el obturador; toque de nuevo para hacer una foto</string>
   <string name="edge_mode_screenshot">Captura de pantalla</string>
   <string name="edge_mode_screenshot_summary">Toque dos veces en ambos bordes para hacer una captura de pantalla</string>
+  <string name="edge_touch_volume">Ajuste el volumen tocando el borde</string>
   <string name="emergency_info_title">Información de emergencia</string>
   <string name="emergency_tone_alert">Alerta</string>
   <string name="emergency_tone_silent">Silencio</string>
@@ -3354,7 +3355,13 @@ Para ello:
   <string name="screen_resolution_confirm">Reiniciar</string>
   <string name="screen_resolution_summary">Bajar la resolución de pantalla podría aumentar la duración de la batería y la velocidad del sistema. Sin embargo, las imágenes en pantalla podrían ser menos nítidas. El dispositivo debe reiniciarse para aplicar este cambio.</string>
   <string name="screen_resolution_switch">Cambiar resolución</string>
+  <string name="screen_resolution_dialog_title">Resolución del interruptor</string>
+  <string name="screen_resolution_high_format">Alta (%1$s)</string>
+  <string name="screen_resolution_normal_format">Normal (%1$s)</string>
+  <string name="screen_resolution_summary">"Bajar la resolución de la pantalla puede aumentar la duración de la batería y la velocidad del sistema, pero las imágenes en la pantalla pueden ser menos claras."</string>
+  <string name="screen_resolution_switch">Aplicar</string>
   <string name="screen_resolution_title">Resolución de pantalla</string>
+  <string name="screen_resolution_ultrahigh_format">Ultra alta (%1$s)</string>
   <string name="screen_saturation">Saturación</string>
   <string name="screen_timeout">Suspender después de</string>
   <string name="screen_timeout_summary">%1$s de inactividad</string>
