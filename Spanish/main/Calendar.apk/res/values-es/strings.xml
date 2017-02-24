@@ -147,7 +147,7 @@
   <string name="edit_event_from_label">Desde</string>
   <string name="edit_event_input_year">Introduzca el año</string>
   <string name="edit_event_label">Detalles</string>
-  <string name="edit_event_reminder_3_days_before">Recuerdemlo con 3 días de antelación</string>
+  <string name="edit_event_reminder_3_days_before">Recordármelo con 3 días de antelación</string>
   <string name="edit_event_reminder_summary">En ese día a las %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">3 días de antelación, y en ese día a las %1$s</string>
   <string name="edit_event_reminder_text">En %1$s a %2$s</string>
@@ -186,6 +186,7 @@
   <string name="event_info_where">Dónde</string>
   <string name="event_lunar_month">Mes</string>
   <string name="event_reminder_allday_day_zero">En ese día a las %2$s</string>
+  <string name="event_reminder_value_zero">Antes del evento</string>
   <string name="event_reminders_to_max">Puede configurar %d recordatorios</string>
   <string name="event_show_more">Más opciones</string>
   <string name="event_title">Título</string>
@@ -235,6 +236,7 @@
   <string name="menu_about_preferences">Acerca de Calendario</string>
   <string name="menu_general_preferences">Configuración general</string>
   <string name="menu_preferences">Ajustes</string>
+  <string name="menu_reminder_preferences">Recordatorios</string>
   <string name="menu_reminder_preferences">Ajustes de los recordatorios</string>
   <string name="menu_select_visible_calendars">Calendarios a mostrar</string>
   <string name="missing_name">(Sin nombre)</string>
@@ -282,6 +284,9 @@
   <string name="preferences_alerts_ringtone_title">Sonido</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
   <string name="preferences_alerts_vibrate_title">Vibración y tonos</string>
+  <string name="preferences_default_allday_reminder_title">Tiempo de recordatorio de todo el día predeterminado</string>
+  <string name="preferences_default_reminder_dialog">Tiempo de recordatorio predeterminado</string>
+  <string name="preferences_default_reminder_title">Tiempo de recordatorio predeterminado</string>
   <string name="preferences_build_version">Versión</string>
   <string name="preferences_home_tz_title">Zona horaria propia</string>
   <string name="preferences_import_credit_repayment">Pagos con tarjeta de crédito</string>
