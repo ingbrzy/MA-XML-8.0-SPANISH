@@ -237,4 +237,15 @@
 	<item>Mensualmente</item>
 	<item>Anualmente</item>
    </string-array>
+    <string-array name="default_reminder_labels">		
+        <item>En el momento del evento</item>		
+        <item>5 minutos antes</item>		
+        <item>10 minutos antes</item>		
+        <item>15 minutos antes</item>		
+        <item>30 minutos antes</item>		
+        <item>1 hora antes</item>		
+        <item>1 día antes</item>		
+        <item>2 días antes</item>		
+        <item>1 semana antes</item>		
+    </string-array>	
  </resources>
