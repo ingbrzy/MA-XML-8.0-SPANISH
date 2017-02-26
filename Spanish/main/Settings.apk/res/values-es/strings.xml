@@ -1239,6 +1239,11 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="debug_view_attributes">Inspección de atributos de vista</string>
   <string name="decline_remote_bugreport_action">Declinar</string>
   <string name="defalut_launcher_title">Lanzador predeterminado</string>
+  <string name="default_admin_support_msg">"Esta acción está desactivada. Póngase en contacto con el administrador de su organización para obtener más información."</string>
+  <string name="default_app">(Predeterminado)</string>
+  <string name="default_apps_title">Predeterminado</string>
+  <string name="default_assist_none">Ninguna</string>
+  <string name="default_keyboard_layout">Predeterminado</string>
   <string name="delete">Eliminar</string>
   <string name="delete_fingerprint_confirm_msg">¿Eliminar huella dactilar?</string>
   <string name="delete_fingerprint_text">Eliminar huella dactilar</string>
@@ -1913,6 +1918,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="key_settings_title">Botones</string>
   <string name="keyboard_and_input_methods_category">Teclado y métodos de entrada</string>
   <string name="keyboard_assistance_category">Asistencia de teclado</string>
+  <string name="keyboard_layout_default_label">Predeterminada</string>
   <string name="keyboard_layout_dialog_setup_button">Configurar diseños de teclado</string>
   <string name="keyboard_layout_dialog_switch_hint">Para cambiar, pulsa Ctrl+espacio.</string>
   <string name="keyboard_layout_dialog_title">Elige un tipo de teclado</string>
@@ -2029,6 +2035,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="local_backup_password_toast_validation_failure">Error al establecer la contraseña de seguridad</string>
   <string name="local_backup_section_summary">Crear backup de los ajustes, información de cuenta y aplicaciones</string>
   <string name="local_backup_section_title">Backups locales</string>
+  <string name="locale_default">Predeterminada</string>
   <string name="locale_not_translated">Puede no estar disponible en algunas aplicaciones</string>
   <string name="locale_remove_menu">Eliminar</string>
   <string name="locale_settings">Región</string>
@@ -2573,6 +2580,9 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_how_it_works_title">Pago en terminal</string>
   <string name="nfc_more_title">Más...</string>
   <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
+  <string name="nfc_payment_default">Pago predeterminado</string>
+  <string name="nfc_payment_default_not_set">No establecido</string>
+  <string name="nfc_payment_favor_default">Siempre</string>
   <string name="nfc_payment_favor_foreground">Favorecer aplicación en primer plano</string>
   <string name="nfc_payment_favor_open">Excepto si hay otra aplicación de pago abierta</string>
   <string name="nfc_payment_how_it_works">Cómo funciona</string>
@@ -2580,7 +2590,10 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_payment_menu_item_add_service">Buscar aplicaciones</string>
   <string name="nfc_payment_no_apps">Paga en las tiendas con tu teléfono</string>
   <string name="nfc_payment_pay_with">En un terminal Tocar y pagar, paga con:</string>
+  <string name="nfc_payment_set_default_instead_of">¿Siempre use %1$s en lugar de %2$s cuando tocas y pagas?</string>
+  <string name="nfc_payment_set_default_label">¿Establecer como su preferencia?</string>
   <string name="nfc_payment_settings_title">Tocar y pagar</string>
+  <string name="nfc_payment_use_default">Usar predeterminado</string>
   <string name="nfc_quick_toggle_summary">Permitir el intercambio de datos cuando el teléfono toque otro dispositivo</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Posición de elemento seguro</string>
@@ -2637,11 +2650,12 @@ Seleccione su sistema operativo:"</string>
 
 Esto también dará a la aplicación la capacidad de activar y desactivar No Molestar y de cambiar los ajustes relacionados."</string>
   <string name="notification_listener_security_warning_title">¿Permitir el acceso de %1$s a las notificaciones?</string>
-  <string name="notification_log_details_actions">actions</string>
+  <string name="notification_log_details_actions">acciones</string>
   <string name="notification_log_details_ashmem">ashmem</string>
   <string name="notification_log_details_content_intent">intent</string>
   <string name="notification_log_details_content_view">custom view</string>
-  <string name="notification_log_details_delete_intent">delete intent</string>
+  <string name="notification_log_details_default">^Predeterminado</string>
+  <string name="notification_log_details_delete_intent">eliminar intención</string>
   <string name="notification_log_details_delimiter">": "</string>
   <string name="notification_log_details_explanation">explanation</string>
   <string name="notification_log_details_extras">extras</string>
@@ -2892,6 +2906,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="pref_volume_wake_title">Encender con botones de volumen</string>
   <string name="preference_change_password_title">Cambiar contraseña</string>
   <string name="preferred_app_settings">Predeterminados</string>
+  <string name="preferred_app_settings_default">Predeterminado</string>
   <string name="preferred_app_settings_not_selected">No seleccionada</string>
   <string name="preferred_app_settings_reset">Restablecer valores predeterminados</string>
   <string name="preferred_app_settings_reset_button">Restablecer</string>
