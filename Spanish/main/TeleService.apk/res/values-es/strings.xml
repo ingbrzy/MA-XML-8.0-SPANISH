@@ -234,6 +234,7 @@
   <string name="change_pin2">Cambiar PIN2</string>
   <string name="china_mobile">China Mobile</string>
   <string name="clir_choices_hide_number">Ocultar número</string>
+  <string name="clir_choices_network_default">Predeterminada de la red</string>
   <string name="clir_choices_show_number">Mostrar número</string>
   <string name="close_dialog">Aceptar</string>
   <string name="close_profile">Cerrar</string>
@@ -264,6 +265,7 @@
   <string name="cursorError">Error de cursor</string>
   <string name="data_enable_summary">Permitir a este dispositivo utilizar datos móviles</string>
   <string name="data_enabled">Datos móviles</string>
+  <string name="default_preference_summary">&lt;No configurado&gt;</string>
   <string name="deactivate_all">Cancelar todo</string>
   <string name="delete">Eliminar</string>
   <string name="deleteAllSimEntries">Eliminar todos los contactos de SIM</string>
@@ -600,6 +602,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="mobile_network_settings_not_available">La configuración de las redes móviles no se encuentra disponible para este usuario</string>
   <string name="mobile_networks">Configuración de red móvil</string>
   <string name="msim_apn_not_set">No configurado</string>
+  <string name="msim_default_setting">Ajustes predeterminados</string>
   <string name="msim_disable_sim_card_btn_text">Aceptar</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"No restrinjas la retrollamada de tu SIM secundaria en caso de emergencia."</string>
   <string name="msim_disable_sim_card_title">Dejar de usar la tarjeta SIM</string>
@@ -1096,6 +1099,7 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="sum_cfu_enabled_no_number">Número no disponible</string>
   <string name="sum_cw_disabled">Notificarme de las llamadas entrantes durante las llamadas</string>
   <string name="sum_cw_enabled">Notificarme de llamadas entrantes durante una llamada</string>
+  <string name="sum_default_caller_id">Usar la configuración predeterminada del operador para mostrar mi número en las llamadas salientes</string>
   <string name="sum_fdn">Configurar números de marcación fija</string>
   <string name="sum_fdn_change_pin">Cambiar PIN para acceso de FDN</string>
   <string name="sum_fdn_manage_list">Administrar lista de números de teléfono</string>
@@ -1198,7 +1202,7 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="voicemail_notification_ringtone_title">Sonido</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrar</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
-  <string name="voicemail_number_not_set">&lt;No definido&gt;</string>
+  <string name="voicemail_number_not_set">&lt;No configurado&gt;</string>
   <string name="voicemail_provider">Servicio de buzón de voz</string>
   <string name="voicemail_provider_summary">Seleccione un servicio de buzón de voz</string>
   <string name="voicemail_settings">Ajustes del buzón de voz</string>
