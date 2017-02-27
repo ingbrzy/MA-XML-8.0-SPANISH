@@ -116,6 +116,7 @@
   <string name="backup_automatically_title">Copia de seguridad automática</string>
   <string name="backup_battery_low_desc">Todavía puede optar por continuar copiando elementos</string>
   <string name="backup_battery_low_title">Copia de seguridad detenida debido a batería baja</string>
+  <string name="backup_close">Cerrar copia de seguridad</string>
   <string name="backup_cloud_space_low_btn_text">Obtener más</string>
   <string name="backup_cloud_space_low_desc">%1$s en Mi Cloud | Disponible %2$s</string>
   <string name="backup_cloud_space_low_title">No hay suficiente almacenamiento en Mi Cloud</string>
@@ -139,6 +140,7 @@
   <string name="backup_only_in_wifi">Realizar copias de seguridad de las fotos y vídeos solo a través de Wi-Fi</string>
   <string name="backup_only_in_wifi_summary">Nunca usar datos móviles para realizar copias de seguridad de las fotos o vídeos</string>
   <string name="backup_pause">Pausar copia de seguridad</string>
+  <string name="backup_pause_title">Copia de seguiridad en %s</string>
   <string name="backup_pending">Se hará una copia de seguridad automáticamente</string>
   <string name="backup_stop">Detener copia de seguridad</string>
   <string name="backup_sync_error_btn_text">Inténtalo de nuevo</string>
@@ -252,6 +254,9 @@
   <string name="custom_select_title_quickly_share">Compartir</string>
   <string name="custom_select_title_select_all">Seleccionar todos</string>
   <string name="custom_select_title_select_item">Seleccionar elementos</string>
+  <string name="default_album_name">Nuevo álbum</string>
+  <string name="default_relation_name">Nuevo grupo</string>
+  <string name="define_by_user">Personalizado</string>
   <string name="debugging_tip">Generando datos de la depuración</string>
   <string name="delete">Eliminar</string>
   <string name="delete_album_failed">No se pudo eliminar el archivo</string>
@@ -313,6 +318,7 @@
   <string name="empty_query_text_msg">"No sé qué buscar…"</string>
   <string name="empty_recommend_back">Atrás</string>
   <string name="empty_recommend_face_page_view">No más recomendaciones</string>
+  <string name="empty_relation">"El nombre del grupo no puede estar en blanco"</string>
   <string name="enable_auto_upload_tip">Este álbum será eliminado de otros álbumes una vez lo actives.</string>
   <string name="enable_auto_upload_title">Activar la sincronización con Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Activa álbumes de Mi Cloud para ver las fotos compartidas.</string>
@@ -443,6 +449,7 @@
   <string name="input_baby_nick_name">Escriba el alias</string>
   <string name="input_nickname_toast">Introducir nombre del bebé</string>
   <string name="input_or_select_a_name">Introduzca o seleccione un nombre</string>
+  <string name="input_relation_name">Introduce un nombre de grupo</string>
   <string name="invalid_invition_url">URL de invitación no válida</string>
   <string name="invalid_recipient_message">Corrija el nombre del destinatario(s)</string>
   <string name="invite_sharer_confirm_button_text">Invitar</string>
@@ -459,6 +466,7 @@
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">La altura debe ser &gt; 0</string>
   <string name="limit_width">El ancho debe ser &gt; 0</string>
+  <string name="load_relations">Un momento…</string>
   <string name="loading_dual_tip">Cargando doble foto…</string>
   <string name="loading_fail">No se pudo descargar</string>
   <string name="loading_fail_sync_off">Active la sincronización con Mi Cloud para descargar</string>
@@ -505,6 +513,9 @@
   <string name="new_album_invalid_char">Los nombres no pueden contener \"%s\", introduzca una letra o número.</string>
   <string name="new_album_invalid_name">\"%s\" es un álbum del sistema, por favor renómbrelo.</string>
   <string name="new_album_invalid_prefix">No use \".\" o \"_\" como inicio del nombre del álbum.</string>
+  <string name="new_relation_invalid_char">"Los nombres de grupo no pueden contener \"%s\", introduzca una letras o números o cáracteres."</string>
+  <string name="new_relation_invalid_name">“%s” el grupo ya existe, renombre este grupo.</string>
+ <string name="new_relation_invalid_prefix">"Los nombres de grupo no pueden empezar por “.” o “_”"</string>
   <string name="next">Siguiente</string>
   <string name="no">No</string>
   <string name="no_map_app">No se ha encontrado ninguna aplicación para esta acción</string>
@@ -527,6 +538,7 @@
   <string name="operation_do_delete_local_thumnail">Eliminar del dispositivo</string>
   <string name="operation_download">Descarga original (%s)</string>
   <string name="operation_edit">Editar</string>
+  <string name="operation_edit_video">Editar</string>
   <string name="operation_enable_auto_upload">Activar la sincronización con Mi Cloud</string>
   <string name="operation_enter_delete_local">Eliminar las copias de las fotos y vídeos de este dispositivo</string>
   <string name="operation_failed">No se pudo completar la operación</string>
@@ -540,6 +552,7 @@
   <string name="operation_remove_from_face_album">Quitar del álbum</string>
   <string name="operation_remove_from_other_albums">Mover desde otros álbumes</string>
   <string name="operation_remove_secret">Mostrar</string>
+  <string name="operation_rename">Renombrar</string>
   <string name="operation_save">Guardar</string>
   <string name="operation_send">Enviar</string>
   <string name="operation_set_contact_photo">Establecer como foto de contacto</string>
@@ -637,6 +650,9 @@
   <string name="remove_from_secret_successful">Eliminado del álbum oculto</string>
   <string name="remove_to_album_title">Combinar con</string>
   <string name="remove_to_other_album">Combinar con una persona diferente</string>
+  <string name="rename_album">Renombrar album</string>
+  <string name="rename_album_failed">"No se pudo renombrar"</string>
+  <string name="rename_album_succeeded">Renombrado correctamente</string>
   <string name="rename_face_album">Cambiar nombre</string>
   <string name="rename_fail_msg">No se ha podido cambiar nombre</string>
   <string name="rename_from_contact">Nombre desde los contactos</string>
@@ -762,9 +778,11 @@
   <string name="sync_battery_low">Batería baja</string>
   <string name="sync_cloud_space_full">No hay espacio suficiente en Mi Cloud</string>
   <string name="sync_diabled_toast">La sincronización está desactivada</string>
+  <string name="sync_metatata_wait_title">Esperando para sincronizar con Mi Cloud</string>
   <string name="sync_off_button_text">Activar sincronización</string>
   <string name="sync_off_title">Activar la sincronización con Mi Cloud para realizar copias de seguridad de fotos y vídeos automáticamente</string>
   <string name="sync_pending_title">Se sincronizará automáticamente</string>
+  <string name="sync_state_unknow">Obteniendo información</string>
   <string name="synced_title">Copia de seguridad de fotos y vídeos correctamente</string>
   <string name="syncing_gprs_title">Uso de datos móviles para realizar copias de seguridad de elementos</string>
   <string name="syncing_metadata_title">Sincronización de datos de Mi Cloud</string>

@@ -81,6 +81,9 @@
   <string name="launch_enable">Mostrar tarjetas de acceso rápido</string>
   <string name="launch_function">Seleccionar características</string>
   <string name="launch_label">Acceso rápido</string>
+  <string name="launch_no_dapp_dialog_content">Se ha eliminado la aplicación duplicada responsable de esta tarjeta. Puede reemplazar esta tarjeta por una diferente.</string>
+  <string name="launch_no_dapp_dialog_reset">Configuración de las aplicaciones duplicadas</string>
+  <string name="launch_no_dapp_dialog_title">La aplicación duplicado se eliminó</string>
   <string name="launch_noapp_dialog_cancel">Cancelar</string>
   <string name="launch_noapp_dialog_content">Se eliminó la aplicación responsable de esta tarjeta. Puede reemplazar esta tarjeta por una diferente.</string>
   <string name="launch_noapp_dialog_redownload">Descargar de nuevo</string>
@@ -186,5 +189,6 @@
   <string name="wx_paycode">Pago</string>
   <string name="wx_scan">Escáner</string>
   <string name="wx_timeline">Momentos</string>
+  <string name="xspace_resolver_activity_title">Seleccionar aplicación</string>
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>

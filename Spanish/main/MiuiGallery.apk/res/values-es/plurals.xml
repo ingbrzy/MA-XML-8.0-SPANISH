@@ -52,6 +52,10 @@
         <item quantity="other">%d fotos</item>
         <item quantity="one">%d foto</item>
     </plurals>
+  <plurals name="download_retry_message">
+        <item quantity="other">"No se pudo descargar %1$d archivos, compruebe la conexión y inténtelo de nuevo"</item>
+        <item quantity="one">"No se pudo descargar %1$d archivo, compruebe la conexión y inténtelo de nuevo"</item>
+   </plurals>
   <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elementos seleccionados</item>
         <item quantity="one">%d elemento seleccionado</item>
@@ -83,6 +87,14 @@
   <plurals name="cloud_storage_video_num">
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Reanudar la copia de seguridad en %d horas</item>
+        <item quantity="one">Reanudar la copia de seguridad en %d hora</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d fotos y vídeos | Pausado</item>
+        <item quantity="one">%d foto o vídeo | Pausado</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">No se han respaldado %d fotos y vídeos.</item>
