@@ -262,6 +262,8 @@
   <string name="contactdeleteSuccess">Contacto eliminado de la SIM.</string>
   <string name="corporate_unlock_failed">Solicitud de desbloqueo de SIM corporativo no realizada.</string>
   <string name="corporate_unlock_success">Desbloqueo de la SIM corporativa correcto.</string>
+  <string name="crescendo_ringer_summary">El tono de llamada aumentará progresivamente hasta el nivel que ajustes</string>
+  <string name="crescendo_ringer_title">Aumentar el volumen del tono de llamada</string>
   <string name="cursorError">Error de cursor</string>
   <string name="data_enable_summary">Permitir a este dispositivo utilizar datos móviles</string>
   <string name="data_enabled">Datos móviles</string>
@@ -328,6 +330,7 @@
   <string name="disable_fdn_ok">Activar FDN</string>
   <string name="disable_pin_ok">PIN de SIM desactivado.</string>
   <string name="disable_sim_pin">Desactivar PIN de SIM</string>
+  <string name="disabled_by_admin">Desactivado por el administrador</string>
   <string name="display_name_summary">&lt;Igual que el nombre de usuario&gt;</string>
   <string name="display_name_title">Nombre para mostrar</string>
   <string name="domain_address_title">Servidor</string>
@@ -387,7 +390,8 @@
   <string name="enable_video_calling_dialog_close">Cerrar</string>
   <string name="enable_video_calling_dialog_msg">Para activar la video llamada, deberá habilitar el Modo 4G LTE mejorado en la configuración de red.</string>
   <string name="enable_video_calling_dialog_settings">Configuración de red</string>
-  <string name="enable_video_calling_title">Activar las video llamadas</string>
+  <string name="enable_video_calling_title">Activar las vídeo llamadas</string>
+  <string name="enabled_by_admin">Activado por el administrador</string>
   <string name="enhanced_4g_lte_mode_off_failed">No se pudo desactivar VoLTE.</string>
   <string name="enhanced_4g_lte_mode_on_failed">No se pudo activar VoLTE.</string>
   <string name="enhanced_4g_lte_mode_summary">Utilice los servicios de LTE para mejorar la voz y otras comunicaciones (recomendado)</string>
@@ -777,6 +781,7 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
   <string name="path_caller_id_title">Aplicaciones del Sistema/Teléfono/Ajustes Avanzados/Identificación de llamada</string>
   <string name="path_cloud_antispam_title">Aplicaciones del Sistema/Teléfono/Identificar números desconocidos</string>
   <string name="path_connect_disconnect_vibrate_title">Aplicaciones del Sistema/Teléfono/Ajustes Avanzados/Vibrar cuando tu llamada es contestada</string>
+  <string name="path_crescendo_ringer_title">Aplicaciones del Sistem/Teléfono/Ajustes de llamada entrante/Aumentar tono de llamada</string>
   <string name="path_dtmf_tones_title">Aplicaciones del Sistema/Teléfono/Ajustes Avanzados/Tonos DTMF</string>
   <string name="path_enable_antispam_strange_title">Aplicaciones del sistema/Ajustes de llamada entrante/Silenciar el primer tono</string>
   <string name="path_enable_proximity_title">Aplicaciones del Sistema/Teléfono/Ajustes de llamada entrante/Sensor de Proximidad</string>
