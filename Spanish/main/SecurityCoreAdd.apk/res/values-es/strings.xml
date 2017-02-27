@@ -7,6 +7,8 @@ Los mensajes sólo aparecerán en el Segundo espacio."</string>
   <string name="PrivacyContactDes2">"Si usa los mensajes privados en el Primer espacio,
 esta característica se añadirá al Segundo espacio de forma automática."</string>
   <string name="add_finger_print">Añadir huella dactilar</string>
+  <string name="air_space_created">Creado espacio de trabajo con éxito</string>
+  <string name="air_space_deleted">Espacio de trabajo eliminado con éxito</string>
   <string name="appData">Aplicaciones instaladas</string>
   <string name="app_name">Security Core</string>
   <string name="back">Atrás</string>
@@ -32,6 +34,7 @@ esta característica se añadirá al Segundo espacio de forma automática."</str
   <string name="confirmCloseSpaceDes">Usted no será capaz de entrar en el Segundo Espacio después de eliminarlo. Todos los datos serán movidos o eliminados.</string>
   <string name="confirmDelete">Eliminar</string>
   <string name="confirmSecondSpacePassword">Confirmar la contraseña del Segundo espacio</string>
+  <string name="confirm_airspace_password">Confirmar contraseña de espacio de trabajo</string>
   <string name="confirm_main_space_password">Confirmar la contraseña del Primer espacio</string>
   <string name="confirm_restore">No mostrar</string>
   <string name="contactData">Contactos</string>
@@ -44,6 +47,7 @@ para poder verlos en cualquier momento"</string>
   <string name="create_app_icon_failed">No se pudo crear el icono</string>
   <string name="create_app_icon_success">Icono creado con éxito</string>
   <string name="create_space_loading">Creando Segundo espacio…</string>
+  <string name="create_work_space">Crear espacio de trabajo</string>
   <string name="creating_app_icon">Creando icono…</string>
   <string name="dataSafe">Usar el Segundo espacio es como tener dos dispositivos.</string>
   <string name="declare_dialog_title">Acerca de las aplicaciones duplicadas</string>
@@ -58,7 +62,9 @@ para poder verlos en cualquier momento"</string>
   <string name="dir_switch_out_all_photos">Galería del Segundo espacio</string>
   <string name="disable">Apagar</string>
   <string name="dont_import">Ahora no</string>
+  <string name="downloading_space">Descargando…</string>
   <string name="enable">Activar</string>
+  <string name="enter_air_space">Ir a espacio de trabajo</string>
   <string name="err_copy_contacts">Error al copiar los contactos</string>
   <string name="err_copy_files">Error al copiar los archivos</string>
   <string name="err_copy_photos">Error al copiar las fotos</string>
@@ -96,6 +102,9 @@ También puede importarlas por separado."</string>
   <string name="import_file_suc">Los elementos importados a las carpetas</string>
   <string name="import_now">Importar</string>
   <string name="import_photo">Importar fotos</string>
+  <string name="invalid_qr_code">Código QR no válido</string>
+  <string name="keywords_sspace">Segundo espacio;Dos espacios;2 espacios;Ocultar aplicaciones;Ocultar archivos;Ocultar fotos;Bloquear pantalla;Bloquear contraseña de pantalla;Privacidad;Modo de privacidado;Modo privado;Privado;Modo de invitado;Sesión de invitado;Acceso de invitado;Cuenta de invitado;Invitado</string>
+  <string name="keywords_xspace">Aplicación doble;Aplicaciones dobles;Doble aplicación;Dobles aplicaciones;Aplicación de clonar;Aplicaciones de clonar;Clon de aplicación;Clones de aplicación;Dos cuentas;2 cuentas</string>
   <string name="import_photo_desc">Ver los elementos compartidos en el Segundo espacio</string>
   <string name="import_photo_suc">Fotos importadas</string>
   <string name="list_empty_text">Vacío</string>
@@ -107,6 +116,8 @@ También puede importarlas por separado."</string>
   <string name="msg_switch_file">¿Eliminar estos archivos del Primer espacio después de haberlos movidos?</string>
   <string name="msg_switch_photo">¿Eliminar estas fotos del Primer espacio después de haberlos movidos?</string>
   <string name="needSetKeyguardFirst">Establecer contraseña del Primer espacio</string>
+  <string name="need_network_when_create">Conectar a la red antes de crear espacio de trabajo</string>
+  <string name="need_reset_passwd">Restablecer Contraseña del espacio de trabajo antes de entrar en el espacio de trabajo</string>
   <string name="needSetKeyguardFirstDes">Establezca una contraseña al Primer espacio antes que la contraseña del Segundo espacio</string>
   <string name="need_set_second_space_desc">Añadir contraseña al Segundo espacio antes de registrar una huella dactilar al Segundo espacio</string>
   <string name="need_set_second_space_pwd_first">Establezca la contraseña del Segundo espacio primero</string>
@@ -129,6 +140,8 @@ También puede importarlas por separado."</string>
   <string name="otherSettings">Otros ajustes</string>
   <string name="passWordGuardSummary">Ingresar al Segundo espacio desde la Pantalla de bloqueo mediante una contraseña</string>
   <string name="passwordProtect">Contraseña</string>
+  <string name="path_sspace">Ajustes/Segundo espacio</string>
+  <string name="path_xspace">Ajustes/Aplicaciones duales</string>
   <string name="please_diff_finger_print">"Asegúrese de establecer huellas diferentes para cada espacio.
 De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de bloqueo."</string>
   <string name="privacyContactsSummary">Mostrar elementos privados en el Segundo espacio</string>
@@ -141,6 +154,9 @@ De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de
   <string name="remove_second_space_msg">Todos los datos de las aplicaciones en el segundo espacio se perderán después de eliminar segundo espacio. ¿Eliminar segundo espacio ahora?</string>
   <string name="removingSpace">Eliminando…</string>
   <string name="repeat_scanner_fingerprint">Añadir nuevo</string>
+  <string name="reset_passwd_success">La contraseña se restableció correctamente.</string>
+  <string name="resource_sspace">Segundo espacio</string>
+  <string name="resource_xspace">Aplicaciones dobles</string>
   <string name="restore_normal_show">No mostrar mensajes privados</string>
   <string name="restore_show_desc">No mostrar mensajes privados en el Segundo espacio. Seguirán estando disponibles en el Primer espacio.</string>
   <string name="restore_show_toast">No mostrar mensajes privados</string>
@@ -186,6 +202,8 @@ para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="show_private_msg">Mostrar mensajes privados</string>
   <string name="show_private_msg_summary">Mostrar mensajes privados en el Segundo espacio</string>
   <string name="spaceSetting">Ajustes</string>
+  <string name="space_des_default">Espacio aislado con datos cifrados</string>
+  <string name="space_name_default">Espacio de trabajo</string>
   <string name="startSet">Configurar</string>
   <string name="startTransfer">Transferir</string>
   <string name="start_input_finger_print">Añadir huella dactilar</string>
@@ -199,6 +217,7 @@ al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="switch_apps_settings">Ajustes de la aplicación</string>
   <string name="switch_data_app">Mover elementos al Segundo espacio</string>
   <string name="switch_data_settings">Mover datos</string>
+  <string name="switch_download_space">Cambiar espacio de trabajo</string>
   <string name="switch_failed">Error al mover</string>
   <string name="switch_file_success">Archivos movidos correctamente</string>
   <string name="switch_in_contacts">Importar contactos</string>
@@ -233,9 +252,12 @@ al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="transferMessage">Los mensajes del Segundo espacio se trasladarán al Primer espacio</string>
   <string name="tryNow">Probar ahora</string>
   <string name="wating">Un segundo…</string>
+  <string name="xpsace_guide_button">Crear</string>
   <string name="xspace_chocie">Soporta duplicado de aplicación</string>
   <string name="xspace_creating">Duplicando aplicación…</string>
   <string name="xspace_description">Duplica aplicaciones para usarlas por separado. Las aplicaciones duplicadas tendrán iconos específicos en la pantalla de inicio.</string>
+  <string name="xspace_guide_des">Usar 2 cuentas sin cambiar</string>
+  <string name="xspace_guide_title">Crear una aplicación Dual para %s</string>
   <string name="xspace_header">Aplicaciones duplicadas</string>
   <string name="xspace_install_completed">Icono añadido a la Pantalla de inicio</string>
   <string name="xspace_install_failed">No se pudo crear</string>
