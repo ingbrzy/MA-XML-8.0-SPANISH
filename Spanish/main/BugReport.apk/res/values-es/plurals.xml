@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="time_in_day">
+        <item quantity="other">Hace %1$d días</item>
+        <item quantity="one">Hace %1$d día</item>
+    </plurals>
     <plurals name="time_in_hour">
         <item quantity="other">Hace %1$d horas</item>
         <item quantity="one">Hace %1$d hora</item>
