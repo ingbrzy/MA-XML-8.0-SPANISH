@@ -1,22 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_info">Grabando, toca para parar</string>
+  <string name="app_info">Grabando, toque para parar</string>
   <string name="app_name">Grabación de Pantalla</string>
   <string name="app_notification_title">Grabando Pantalla</string>
   <string name="auto_stop_title">Video guardado con éxito</string>
   <string name="battery_not_allowed">No se puede grabar la pantalla mientras quede menos de un 3% de batería, es recomendado cargarlo mas de un ２０％.</string>
   <string name="bit_rate">Calidad de video</string>
   <string name="bit_rate_summary">Mas calidad implica mas tamaño</string>
-  <string name="bubble_text">Toca para empezar a grabar</string>
-  <string name="button_back"Volver</string>
+  <string name="bubble_text">Toque para empezar a grabar</string>
+  <string name="button_back">Volver</string>
   <string name="button_clear_storage">Liberar espacio</string>
   <string name="button_confirm">Ok</string>
   <string name="button_goon_recorder">Continuar</string>
   <string name="cancel_edit">Cancelar</string>
-  <string name="cannot_change_parames">"No se pudieron cambiar los parametros mientras se grababa"</string>
-  <string name="date_day"/>
-  <string name="date_month">-</string>
-  <string name="date_year">,</string>
+  <string name="cannot_change_parames">"No se pudieron cambiar los parámetros durante la grabación"</string>
   <string name="delete_confirm_text">¿Borrar esta grabación de pantalla?</string>
   <string name="delete_confirm_text_multi1">Borrar</string>
   <string name="delete_confirm_text_multi2">¿Grabación de pantalla?</string>
@@ -33,16 +30,16 @@
   <string name="hint_volume_up">Volumen arriba</string>
   <string name="home_title_none">Seleccionar elementos</string>
   <string name="loopback_sound">Sonido de retorno</string>
-  <string name="low_battery">Carga tu teléfono antes de comenzar la grabación</string>
+  <string name="low_battery">Cargue su teléfono antes de comenzar a grabar</string>
   <string name="low_battery_title">Batería baja</string>
   <string name="low_battery_warning">Batería muy baja. Se paró la grabación y se guardó el video.</string>
-  <string name="low_memory">Tienes menos de 200MB disponibles. Puedes grabar hasta 5 minutos desde ahora.</string>
+  <string name="low_memory">Tiene menos de 200MB disponibles. Puedes grabar hasta 5 minutos desde ahora.</string>
   <string name="low_memory_title">Sin espacio suficiente</string>
   <string name="low_momery_warning">Sin espacio suficiente. Se paró la grabación y se guardó el video.</string>
-  <string name="memory_not_allowed">El espacio es insuficiente para grabar la pantalla. Por favor, libera espacio y vuelve a intentarlo.</string>
+  <string name="memory_not_allowed">El espacio es insuficiente para grabar la pantalla. Por favor, libere espacio y vuelve a intentarlo.</string>
   <string name="mic_sound">Sonido del micrófono</string>
   <string name="no_recorder_info">Sin videos</string>
-  <string name="no_recorder_info2">Toca en el + para añadir a grabación de pantalla.​</string>
+  <string name="no_recorder_info2">Toque en el + para agregar una grabación de pantalla.</string>
   <string name="no_sound">Sin sonido</string>
   <string name="operation_delete">Borrar</string>
   <string name="operation_send">Enviar</string>
@@ -58,7 +55,7 @@
   <string name="show_hard_key_summary">Mostrar las indicaciones al pulsar los botones Inicio, Menú y Atrás</string>
   <string name="show_screen_touch">Mostrar gestos en pantalla</string>
   <string name="show_screen_touch_summary">Visualizar gestos con un punto blanco</string>
-  <string name="sound_source">Origen del sounido</string>
+  <string name="sound_source">Origen del sonido</string>
   <string name="sound_source_summary">Sonidos del sistema o micrófono</string>
   <string name="start">Comenzar</string>
   <string name="stop_by_second_space">Cambiar de usuario parará la grabación en pantalla</string>
