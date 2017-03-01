@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_package_delete_confirm_title">Advertencia Importante</string>
+  <string name="activity_package_delete_confirm_title">Atención</string>
   <string name="add_frequent_phrases">Añadir frases frecuentes</string>
   <string name="all_call_livetalk_enable">Usar paquetes de recarga para llamadas nacionales e internacionales</string>
   <string name="all_call_livetalk_remain_mins">Minutos restantes: %1$s nacional o %2$s internacional</string>
@@ -140,7 +140,7 @@
   <string name="status_bar_toggle_wifi_ap">Zona Wi-Fi</string>
   <string name="translation_more">Más</string>
   <string name="translation_query_error">No se encontraron resultados</string>
-  <string name="translation_query_error_network">No se pudo conectar a la red. Compruebe la configuración y vuelva a intentarlo</string>
+  <string name="translation_query_error_network">No se pudo obtener información, comprobar la conexión de red y volver a intentarlo</string>
   <string name="turn_off">Desactivar</string>
   <string name="unknown_caller">Número desconocido</string>
   <string name="user_switching_dialog_text">Cambiando…</string>
