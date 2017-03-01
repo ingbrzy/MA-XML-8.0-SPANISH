@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Active">Activar</string>
   <string name="PassWordGuard">Contraseña para el Segundo espacio</string>
-  <string name="PrivacyContactDes1">"Los contactos permanecerán privados. 
+  <string name="PrivacyContactDes1">"Los contactos permanecerán privados.
 Los mensajes sólo aparecerán en el Segundo espacio."</string>
   <string name="PrivacyContactDes2">"Si usa los mensajes privados en el Primer espacio,
 esta característica se añadirá al Segundo espacio de forma automática."</string>
   <string name="add_finger_print">Añadir huella dactilar</string>
   <string name="air_space_created">Creado espacio de trabajo con éxito</string>
   <string name="air_space_deleted">Espacio de trabajo eliminado con éxito</string>
+  <string name="air_space_exit">Salir de espacio</string>
+  <string name="air_space_setting">Ajustes de espacio</string>
+  <string name="airspace_users_full">No se pudo crear más espacio de Trabajo</string>
   <string name="appData">Aplicaciones instaladas</string>
   <string name="app_name">Security Core</string>
   <string name="back">Atrás</string>
@@ -41,6 +44,7 @@ esta característica se añadirá al Segundo espacio de forma automática."</str
   <string name="contact_sub_titile_text">Los mensajes serán compartidos entre los dos espacios</string>
   <string name="contact_titile_text">"Mostrar los mensajes privados en el Segundo espacio
 para poder verlos en cualquier momento"</string>
+  <string name="contact_us">Contáctenos</string>
   <string name="continueButton">Continuar</string>
   <string name="createANewSpace">Cree un espacio separado en su teléfono.</string>
   <string name="createUserFail">Error al crear</string>
@@ -88,7 +92,7 @@ Los mensajes sólo aparecerán en el Segundo espacio."</string>
   <string name="guide_contact_suc_sub_title_desc">Sólo se mostrarán los contactos privados y los mensajes en el Segundo espacio</string>
   <string name="guide_contact_suc_title_desc">Establecido con éxito</string>
   <string name="guide_contact_title_desc">¿Quiere ver los elementos privados en el Segundo espacio?</string>
-  <string name="guide_pwd_detail_title">"Proteja sus datos 
+  <string name="guide_pwd_detail_title">"Proteja sus datos
 Ingrese al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="guide_setting_guide_title">Administrar Segundo espacio</string>
   <string name="hidden_app">Segundo espacio</string>
@@ -102,12 +106,13 @@ También puede importarlas por separado."</string>
   <string name="import_file_suc">Los elementos importados a las carpetas</string>
   <string name="import_now">Importar</string>
   <string name="import_photo">Importar fotos</string>
+  <string name="import_photo_desc">Ver los elementos compartidos en el Segundo espacio</string>
+  <string name="import_photo_suc">Fotos importadas</string>
   <string name="invalid_qr_code">Código QR no válido</string>
   <string name="keywords_sspace">Segundo espacio;Dos espacios;2 espacios;Ocultar aplicaciones;Ocultar archivos;Ocultar fotos;Bloquear pantalla;Bloquear contraseña de pantalla;Privacidad;Modo de privacidado;Modo privado;Privado;Modo de invitado;Sesión de invitado;Acceso de invitado;Cuenta de invitado;Invitado</string>
   <string name="keywords_xspace">Aplicación doble;Aplicaciones dobles;Doble aplicación;Dobles aplicaciones;Aplicación de clonar;Aplicaciones de clonar;Clon de aplicación;Clones de aplicación;Dos cuentas;2 cuentas</string>
-  <string name="import_photo_desc">Ver los elementos compartidos en el Segundo espacio</string>
-  <string name="import_photo_suc">Fotos importadas</string>
   <string name="list_empty_text">Vacío</string>
+  <string name="loading">Justo un segundo…</string>
   <string name="loading_apps">Cargando aplicaciones…</string>
   <string name="loading_space">Un segundo…</string>
   <string name="loading_success">Cargado correctamente</string>
@@ -116,15 +121,16 @@ También puede importarlas por separado."</string>
   <string name="msg_switch_file">¿Eliminar estos archivos del Primer espacio después de haberlos movidos?</string>
   <string name="msg_switch_photo">¿Eliminar estas fotos del Primer espacio después de haberlos movidos?</string>
   <string name="needSetKeyguardFirst">Establecer contraseña del Primer espacio</string>
+  <string name="needSetKeyguardFirstDes">Establezca una contraseña al Primer espacio antes que la contraseña del Segundo espacio</string>
   <string name="need_network_when_create">Conectar a la red antes de crear espacio de trabajo</string>
   <string name="need_reset_passwd">Restablecer Contraseña del espacio de trabajo antes de entrar en el espacio de trabajo</string>
-  <string name="needSetKeyguardFirstDes">Establezca una contraseña al Primer espacio antes que la contraseña del Segundo espacio</string>
   <string name="need_set_second_space_desc">Añadir contraseña al Segundo espacio antes de registrar una huella dactilar al Segundo espacio</string>
   <string name="need_set_second_space_pwd_first">Establezca la contraseña del Segundo espacio primero</string>
   <string name="newSecondSpace">Activar Segundo Espacio</string>
   <string name="next_setp">Siguiente</string>
   <string name="no_match_repate_scanner">Imposible hallar huellas compatibles, escanee de nuevo</string>
   <string name="normal_app">Espacio primero</string>
+  <string name="not_support_air_space">Esta característica no está soportada en su teléfono</string>
   <string name="not_support_multiple_users">Múltiples espacios no están soportados aún</string>
   <string name="notificationSetPassword">Establecer contraseña</string>
   <string name="notificationSetPasswordDes">Proteger los datos del Segundo espacio</string>
@@ -137,6 +143,7 @@ También puede importarlas por separado."</string>
   <string name="openPasswordGuard">Establecer contraseña del Segundo espacio</string>
   <string name="openSuccess">Activar</string>
   <string name="opened">Activado</string>
+  <string name="other">Otro</string>
   <string name="otherSettings">Otros ajustes</string>
   <string name="passWordGuardSummary">Ingresar al Segundo espacio desde la Pantalla de bloqueo mediante una contraseña</string>
   <string name="passwordProtect">Contraseña</string>
@@ -162,8 +169,12 @@ De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de
   <string name="restore_show_toast">No mostrar mensajes privados</string>
   <string name="retain_src_file">Mantener los archivos</string>
   <string name="retain_src_photo">Mantener las fotos</string>
+  <string name="same_qr_code_create_space">Crear otro más</string>
+  <string name="same_qr_code_des">Parece que este espacio de Trabajo ya existe. Puede usar la pantalla de Inicio y los accesos del área de Notificación para ir allí. ¿Ir ahora?</string>
+  <string name="same_qr_code_enter_space">Ir a espacio de Trabajo</string>
+  <string name="same_qr_code_title">%s ya existe</string>
   <string name="scanner_fingerprint">Escaneando la huella dactilar…</string>
-  <string name="scanner_fingerprint_enter_second">"Escanee la huella del Segundo espacio 
+  <string name="scanner_fingerprint_enter_second">"Escanee la huella del Segundo espacio
 para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="scanner_fingerprint_error_tips_desc">Imposible hallar huellas compatibles. Añadir nueva huella para el Segundo espacio</string>
   <string name="scanner_fingerprint_error_tips_title">Imposible hallar huellas compatibles.</string>
