@@ -105,12 +105,12 @@
     <item quantity="one">Copia de seguridad de %1$d canción (%2$.1fMB)</item>
    </plurals>
    <plurals name="Nbackup_songs">
-    <item quantity="other">Copia de seguridad de las canciones, %1$d canción restante (%2$.1fMB)</item>
-    <item quantity="one">Copia de seguridad de la canción, %1$d canción restante (%2$.1fMB)</item>
+    <item quantity="other">Copia de seguridad de las canciones, %1$d canciones restantes (%2$.1fMB)</item>
+    <item quantity="one">Copia de seguridad de las canciones, %1$d canción restante (%2$.1fMB)</item>
    </plurals>
    <plurals name="Nstop_backup_songs_message">
-    <item quantity="other">"%d canciones no han sido respaldadas a mi Cloud. ¿Parar ahora?"</item>
-    <item quantity="one">"%d canción no han sido respaldadas a mi Cloud. ¿Parar ahora?"</item>
+    <item quantity="other">"%d canciones no han sido respaldadas a Mi Cloud. ¿Parar ahora?"</item>
+    <item quantity="one">"%d canción no han sido respaldadas a Mi Cloud. ¿Parar ahora?"</item>
   </plurals>
   <plurals name="Nsong_group_detail_subtitle">
     <item quantity="other">Creado en %1$s | total %2$d canciones</item>  
