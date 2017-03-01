@@ -3,6 +3,8 @@
   <string name="account_info">Cuenta Mi</string>
   <string name="account_name_not_login">Iniciar sesión</string>
   <string name="account_unactivated">Cuenta no activada</string>
+  <string name="ad_app_download_start">Iniciando descarga…</string>
+  <string name="ad_app_is_downloading">Descargando…</string>
   <string name="add_resource_detail_fail">"No se puede agregar un recurso"</string>
   <string name="all_resources">Todo</string>
   <string name="app_name">Temas</string>
@@ -400,6 +402,7 @@
   <string name="title_system_audio_resource">Tonos de llamada del sistema</string>
   <string name="title_system_wallpaper_resource">Fondos de pantalla del sistema</string>
   <string name="to_activate_the_account">Activar su Cuenta Mi ahora</string>
+  <string name="wallpaper_auto_change_title">Bloquear pantalla</string>
   <string name="wallpaper_crop">Recortar</string>
   <string name="wallpaper_decoded_error">No se puede cargar el fondo de pantalla</string>
   <string name="wallpaper_scroll_type_tips">Fondo de pantalla de desplazamiento</string>
@@ -407,4 +410,8 @@
   <string name="wallpaper_set_as_destop">Establecer como fondo de pantalla</string>
   <string name="wallpaper_set_as_lockscreen">Establecer como Pantalla de bloqueo</string>
   <string name="wallpaper_settings">Configuración de fondo de pantalla</string>
+  <string name="wallpaper_settings_change_wallpaper">Cambiar</string>
+  <string name="wallpaper_settings_desktop_text">Pantalla de inicio</string>
+  <string name="wallpaper_settings_lockscreen_text">Bloquear pantalla</string>
+  <string name="wallpaper_settings_page_title">fondos de escritorior</string>
 </resources>
