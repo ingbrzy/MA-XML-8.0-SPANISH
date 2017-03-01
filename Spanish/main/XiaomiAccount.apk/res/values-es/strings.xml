@@ -344,9 +344,10 @@ Para activar su cuenta, siga el
   <string name="phone_unactivated">Sin activar</string>
   <string name="phone_unknown">Desconocido</string>
   <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
-  <string name="push_notification_content">Haga clic y obtenga el código de verificación</string>
-  <string name="push_notification_title">Inicia sesión en Cuenta Mi en un dispositivo desconocido</string>
-  <string name="push_notify_dialog_title">Verificación de seguridad de inicio de sesión</string>
+  <string name="push_notification_content">Obtener código de verificación</string>
+  <string name="push_notification_title">Has iniciado sesión en Mi Cuenta en un dispositivo desconocido</string>
+  <string name="push_notify_dialog_message">"Se utiliza un dispositivo desconocido para iniciar sesión en su Cuenta Mi. Introduzca este código de verificación en el dispositivo. Si ese no era usted, cambie su contraseña de la Cuenta Mi de inmediato. No divulgue el código de verificación a otras personas."</string>
+  <string name="push_notify_dialog_title">Verificación de la cuenta</string>
   <string name="qq">QQ</string>
   <string name="remove_device_success_notice">Si eliminas este dispositivo de tus dispositivos de confianza, necesitarás volver a realizar el proceso de verificación cuando vuelvas a iniciar sesión.</string>
   <string name="remove_trust_btn">Desvincular de los dispositivos de confianza</string>
