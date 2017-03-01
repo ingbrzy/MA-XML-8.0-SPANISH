@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="accessibility_title">Asistente inteligente</string>
   <string name="accordingto_position">Reconocer lugares frecuentes usando GPS</string>
   <string name="account_address">Dirección</string>
   <string name="address_name_spell">Ingrese la dirección</string>
   <string name="adjustment_order">Cambiar orden</string>
+  <string name="agenda">Recordatorios</string>
+  <string name="agenda_open">Activar recordatorios de la agenda</string>
+  <string name="agenda_setting_brief">Obtener recordatorios sobre eventos programados</string>
   <string name="alipay_scan">Escáner</string>
   <string name="app_label">Asistente inteligente</string>
   <string name="apps">Sugerencias de aplicaciones</string>
@@ -26,6 +29,9 @@
   <string name="choose_city">Seleccionar ciudad</string>
   <string name="choose_upload">Seleccionar archivos para subir</string>
   <string name="city_name_spell">Introduzca la ciudad</string>
+  <string name="cleanup_garbage">Limpiador</string>
+  <string name="cleanup_memory">Limpiar caché</string>
+  <string name="cleanup_power">Limpieza profunda</string>
   <string name="clear">Limpiar</string>
   <string name="closed">Apagado</string>
   <string name="commute">Mapa sugerencias</string>
@@ -41,6 +47,7 @@
   <string name="cta_dialog_text4">\"Política de Privacidad\".</string>
   <string name="cta_dialog_text5">El servicio también requiere conexión a Internet y acceso a los servicios de localización. ¿Aceptar?</string>
   <string name="cta_dialog_title">Términos y Condiciones</string>
+  <string name="daily_greeting">Felicitaciones del día</string>
   <string name="data_error">Se ha producido un error. Espere unos minutos y vuelva a intentarlo.</string>
   <string name="data_error_show">"El pedido se ha completado, no se puede ver detalles"</string>
   <string name="drive">Manejar</string>
@@ -59,12 +66,22 @@
   <string name="express_support_app">Aplicaciones compatibles</string>
   <string name="express_taobao">Taobao</string>
   <string name="express_tmall">Tmall</string>
+  <string name="favorite">Favoritos</string>
+  <string name="favorite_main">Historial</string>
   <string name="flow_open">Mostrar tarjeta de datos móvil</string>
   <string name="flow_setting_brief">Ver su información de datos móvil (Agregue su plan de datos en Seguridad &gt; y Uso de datos).</string>
   <string name="focus">Sigue el estado</string>
   <string name="focus_on_dynamic">Sigue el estado</string>
   <string name="go_to_school">Para y desde el trabajo o la escuela</string>
+  <string name="greeting_open">Activar felicitaciones del día</string>
+  <string name="greeting_setting_brief">Obtener información del tiempo y recordatorios sobre eventos programados, alarmas, y cumpleaños cada mañana y tarde</string>
+  <string name="greeting_setting_brief_notice">Puede cambiar la ciudad en la aplicación del Tiempo</string>
   <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
+  <string name="greeting_weather_desc_from_to">%1$s a %2$s</string>
+  <string name="greeting_weather_prefix_moring">Hoy</string>
+  <string name="greeting_weather_prefix_night">Mañana</string>
+  <string name="greeting_weather_prefix_saturday">Sábado</string>
+  <string name="greeting_weather_prefix_sunday">Domingo</string>
   <string name="groupon">Entradas y cupones</string>
   <string name="groupon_open">Mostrar boletos y tarjeta de cupones</string>
   <string name="groupon_setting_brief">Mostrar información sobre tickets y cupones comprados.</string>
@@ -107,6 +124,7 @@
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sport_go_install">Descargar</string>
   <string name="mi_sport_not_installed">"Esta aplicación no está instalada en tu teléfono. No se puede usar esta tarjeta ahora."</string>
+  <string name="mi_wallet">Mi Wallet</string>
   <string name="music">Música y radio</string>
   <string name="music_open">Ver música y tarjeta de radio</string>
   <string name="music_setting_brief">Conecte auriculares para seguir escuchando música o radio desde el lugar que lo dejó.</string>
@@ -117,6 +135,7 @@
   <string name="navigation_network_location_not_enabled_title">Activar los servicios de ubicación</string>
   <string name="navigation_search_automatically_positioned_city">Obtener información sobre la ciudad utilizando la ubicación actual</string>
   <string name="navigation_search_current_city">Ciudad actual:</string>
+  <string name="navigation_search_default_hint">Buscar elementos aquí</string>
   <string name="navigation_search_no_city_list">No hay ciudades</string>
   <string name="navigation_search_positioning">Obtener información de ubicación…</string>
   <string name="navigation_search_positioning_failed">"No se pudo obtener la ubicación, selecciona la ciudad manualmente"</string>
@@ -136,10 +155,13 @@
   <string name="notification_express_content">Rastrear pedidos usando el Asistente Inteligente</string>
   <string name="notification_express_title">Activar las tarjetas de las aplicaciones de compras</string>
   <string name="opened">On</string>
+  <string name="pay_card_pack">Mi Pay</string>
+  <string name="paycode_parent">Alipay</string>
   <string name="place_label">Lugares frecuentes</string>
   <string name="preferences">Preferencias</string>
   <string name="preferences_label">Preferencias</string>
   <string name="qq_new">Nuevo estado</string>
+  <string name="qq_qzone">Qzone</string>
   <string name="quickstart_label">Características</string>
   <string name="record_name">Iniciar la grabación</string>
   <string name="record_parent">Grabadora</string>
@@ -154,6 +176,7 @@
   <string name="scan_exercise">Estudio</string>
   <string name="scan_parent">Escáner</string>
   <string name="scan_trans">Traducir</string>
+  <string name="security">Seguridad</string>
   <string name="service_unavailiable">Compruebe la conexión a red y vuelva a intentarlo</string>
   <string name="setting_address">Añadir lugares frecuentes</string>
   <string name="setting_dialog_cancel">Cancelar</string>
@@ -172,12 +195,18 @@
   <string name="taxi">Taxi</string>
   <string name="taxi_open">Mostrar tarjeta de taxi</string>
   <string name="taxi_setting_brief">Obtener un taxi en un solo toque.</string>
+  <string name="trans_card">Abono transporte</string>
   <string name="transit_subway">Transporte público</string>
   <string name="try_again">Inténtalo de nuevo</string>
   <string name="understandassistant">Acerca de Asistente Inteligente</string>
+  <string name="unusual_weather">Alertas del tiempo</string>
+  <string name="unusual_weather_open">Activar alertas del tiempo</string>
+  <string name="unusual_weather_setting_brief">Recibir alertas en caso de condiciones metereológicas peligrosas acercándose a su ubicación.</string>
+  <string name="unusual_weather_setting_tip">Las ciudades usadas para publicar alertas pueden ser cambiadas en la aplicación del Tiempo.</string>
   <string name="uploads_disabled">"No se pueden subir archivos"</string>
   <string name="walk">Caminar</string>
   <string name="weibo_name">Nueva publicación</string>
+  <string name="weibo_parent">Weibo</string>
   <string name="which_transport">¿Cómo se llega normalmente a su destino?</string>
   <string name="widget_fav">Favorito</string>
   <string name="widget_fav_open">Mostrar tarjeta favorita</string>
