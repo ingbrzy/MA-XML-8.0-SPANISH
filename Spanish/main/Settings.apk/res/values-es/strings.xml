@@ -520,7 +520,6 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="bind_xiaomi_account_confirm">Añadir</string>
   <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir la Cuenta Mi %s. Si olvida su contraseña, puede usar esta cuenta para restablecerla."</string>
   <string name="bind_xiaomi_account_success">Cuenta Mi añadida correctamente</string>
-  <string name="binded_xiaomi_summary">Cuenta actual: %s</string>
   <string name="biometric_weak_improve_matching_title">Mejorar el reconocimiento facial</string>
   <string name="biometric_weak_liveliness_summary">Solicitar parpadeo durante desbloqueo</string>
   <string name="biometric_weak_liveliness_title">Reconocimiento facial</string>
@@ -918,6 +917,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="clear_user_data_text">Borrar datos</string>
   <string name="close_dialog">Aceptar</string>
   <string name="close_gesture">Cerrar usando gesto</string>
+  <string name="close_install_and_connect">No, gracias</string>
   <string name="close_miui_optimization_title">Desactivar optimización MIUI</string>
   <string name="close_miui_optimization_warning_message">Su dispositivo se reiniciará para aplicar este cambio. Nota: desactivar esta función supondrá cambios importantes en el diseño y otros elementos de la interfaz de usuario.</string>
   <string name="cloud_backup_section_title">Backup en Mi Cloud</string>
@@ -990,6 +990,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="confirm_erase">Borrar</string>
   <string name="confirm_fingerprint_icon_content_description">Utilice su huella dactilar para continuar.</string>
   <string name="confirm_fingerprint_msg">Coloque su dedo en el sensor</string>
+  <string name="confirm_install_and_connect">Instalar y conectar</string>
   <string name="confirm_new_backup_pw_prompt">Vuelve a escribir aquí la nueva contraseña de la copia de seguridad completa.</string>
   <string name="confirm_privacy_password">Introduzca contraseña de privacidad</string>
   <string name="confirm_privacy_password_fingerprint">Escanee su huella o introduzca contraseña de privacidad</string>
@@ -1340,6 +1341,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="disable_service_message">Si toca Aceptar, se detendrá %1$s.</string>
   <string name="disable_service_title">¿Detener %1$s?</string>
   <string name="disable_text">Inhabilitar</string>
+  <string name="disable_wifi_master_key_service">Apagar</string>
   <string name="disabled">Inhabilitada</string>
   <string name="disabled_because_no_backup_security">Para usarlo, debes establecer una pantalla de bloqueo</string>
   <string name="disabled_by_admin">Desactivado por el administrador</string>
@@ -1536,6 +1538,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="enable_webview_multiprocess">WebView multiproceso</string>
   <string name="enable_webview_multiprocess_desc">Ejecutar renderizadores de WebView separados</string>
   <string name="enable_wifi_display">Pantalla inalámbrica</string>
+  <string name="enable_wifi_master_key_service">Activar la clave maestra Wi-Fi</string>
   <string name="enabled_by_admin">Activado por el administrador</string>
   <string name="enalbe_identify_iPhone">Identificación AP</string>
   <string name="encrypt_dont_require_password">No, gracias</string>
@@ -1885,6 +1888,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="install_all_warning">El teléfono y los datos personales son más vulnerables a los ataques de aplicaciones de origen desconocido. El usuario acepta ser el único responsable de cualquier daño en el teléfono o pérdida de datos que se pueda derivar del uso de estas aplicaciones.</string>
   <string name="install_applications">Orígenes desconocidos</string>
   <string name="install_applications_title">Permitir todas las fuentes</string>
+  <string name="install_master_key_and_connect">Puede conectarse a esta red utilizando la clave maestra Wi-Fi. ¿Instalar esta herramienta?</string>
   <string name="install_no_market_app_summary">Escanear aplicaciones de terceros antes de instalar</string>
   <string name="install_no_market_app_title">Escanear aplicaciones de terceros</string>
   <string name="install_preinstall_app">Cargando aplicaciones…</string>
@@ -2450,6 +2454,7 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="menu_stats_total">Total de consumo</string>
   <string name="menu_stats_unplugged">%1$s desde que se desenchufó</string>
   <string name="menu_use_uss">Usar USS</string>
+  <string name="mi_shopping_mall">Mi Tienda</string>
   <string name="mi_shopping_mall">Mi centro comercial</string>
   <string name="misc_files">Archivos variados</string>
   <string name="misc_files_selected_count">Has seleccionado %1$d de %2$d.</string>
@@ -3005,19 +3010,25 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="privacy_mode_title">Ajustes de privacidad</string>
   <string name="privacy_notes">Notas</string>
   <string name="privacy_password">Contraseña de privacidad</string>
+  <string name="privacy_password_add_account">Añadir</string>
+  <string name="privacy_password_add_account_info">Añadir Mi Cuenta para poder restablecer tu contraseña en caso de que la olvides</string>
+  <string name="privacy_password_add_account_setting">Cuenta y privacidad</string>
   <string name="privacy_password_bind_account">Añadir Cuenta Mi</string>
   <string name="privacy_password_bind_account_immediate">Añadir</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirme contraseña de Segundo Espacio</string>
   <string name="privacy_password_confirm_use_finger">Desbloquee con la huella dactilar</string>
   <string name="privacy_password_enter_privacy">Introducir Contraseña de protección de privacidad</string>
+  <string name="privacy_password_exit_account_info">La cuenta se eliminará automáticamente cuando se desconecte</string>
   <string name="privacy_password_fingerprint_confirm_failed">No se puede verificar la huella dactilar</string>
   <string name="privacy_password_fingerprint_confirm_succes">Huella dactilar verificada</string>
   <string name="privacy_password_fingerprint_dialog_error_title">No se puede escanear la huella dactilar, inténtelo otra vez</string>
   <string name="privacy_password_fingerprint_dialog_message">Ponga su dedo en el sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Escanear su huella dactilar</string>
+  <string name="privacy_password_login_and_add_account">Inicia sesión y añadir</string>
   <string name="privacy_password_never_remind">"No volver a preguntar"</string>
+  <string name="privacy_password_not_add_account">Ahora no</string>
+  <string name="privacy_password_not_login_account">"No has iniciado sesión"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Agregue su Cuenta Mi para poder restablecer su contraseña en caso de que la olvide.</string>
-  <string name="privacy_password_remind_bindaccont_message">Agregue su Cuenta Mi (%s) para poder restablecer su contraseña en caso de que la olvide.</string>
   <string name="privacy_password_remind_bindaccount_title">Añadir Cuenta Mi</string>
   <string name="privacy_password_settings">Usar contraseña de privacidad</string>
   <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos y notas.</string>
@@ -3810,6 +3821,8 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="show_touches">Mostrar pulsaciones</string>
   <string name="show_touches_summary">Mostrar la ubicación de las pulsaciones en la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar la información del usuario en la pantalla de bloqueo</string>
+  <string name="show_wifi_master_key_summary">Conectarse a redes Wi-Fi compartidas mediante llave maestra Wi-Fi</string>
+  <string name="show_wifi_master_key_title">Detectar redes Wi_Fi compartidas</string>
   <string name="shut_down_find_device_failure_confirm">Aceptar</string>
   <string name="shut_down_find_device_network_failure_content">No se pudo desactivar localizar el dispositivo. Asegúrese de que su dispositivo tiene una conexión a Internet.</string>
   <string name="shut_down_find_device_network_failure_title">No se puede conectar a la red</string>
@@ -4250,6 +4263,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="system_and_device_section_title">Sistema y dispositivo</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicaciones del sistema</string>
+  <string name="system_apps_updater">Actualizador de aplicaciones de sistema</string>
   <string name="system_backup_section_title">Backup</string>
   <string name="system_package">Las actualizaciones del sistema no se pueden instalar en ubicaciones externas.</string>
   <string name="system_storage">Almacenamiento de sistema</string>
@@ -4401,6 +4415,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="uninstall_dlg_msg">Al desinstalar borrará todos los datos de las aplicaciones.</string>
   <string name="uninstall_dlg_title">¿Desinstalar ahora?</string>
   <string name="uninstall_text">Desinstalar</string>
+  <string name="uninstall_wifi_master_key">Desinstalar clave maestra Wi-Fi</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duplicadas correspondientes se eliminarán junto a los datos de la aplicación.</string>
   <string name="uninstall_xspace_app_dlg_msg">Al desinstalar una aplicación duplicada se eliminarán todos los datos de la aplicación.</string>
   <string name="uninstall_xspace_app_dlg_title">¿Desinstalar aplicación duplicada?</string>
@@ -4569,6 +4584,7 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="use_privacy_password_immediate">Usar</string>
   <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas del sistema</string>
   <string name="use_this_wlan">Permanecer conectado</string>
+  <string name="use_wifi_master_key_summary">Conectar usando la clave maestra Wi-Fi</string>
   <string name="user_account_title">Cuenta para contenido</string>
   <string name="user_add_max_count">Puedes añadir hasta %1$d usuarios</string>
   <string name="user_add_on_lockscreen_menu">Añadir usuarios</string>
@@ -5007,6 +5023,12 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_ip_settings_menu_cancel">Cancelar</string>
   <string name="wifi_ip_settings_menu_save">Guardar</string>
   <string name="wifi_limit_optimizations_summary">Limitar batería usada por Wi‑Fi</string>
+  <string name="wifi_master_key_dialog_content_master_key">Llave maestra Wi-Fi</string>
+  <string name="wifi_master_key_dialog_content_password">Contraseña</string>
+  <string name="wifi_master_key_dialog_title">Conectarse usando</string>
+  <string name="wifi_master_key_name">Llave maestra Wi-Fi</string>
+  <string name="wifi_master_key_service_dialog_content">"Llave maestra Wi-Fi es un servicio gratuito que proporciona contraseñas para redes Wi-Fi compartidas. Llave maestra Wi-Fi no compartirá la contraseña de su red."</string>
+  <string name="wifi_master_key_service_dialog_title">Redes Wi-Fi compartidas</string>
   <string name="wifi_menu_advanced">Ajustes avanzados</string>
   <string name="wifi_menu_configure">Configurar</string>
   <string name="wifi_menu_connect">Conectarse a la red</string>
@@ -5288,6 +5310,9 @@ Asistente de Wi‑Fi"</string>
   <string name="work_profile_confirm_remove_title">¿Eliminar perfil de trabajo?</string>
   <string name="work_profile_usage_access_warning">Al desactivar el acceso de uso de esta aplicación, no evitarás que el administrador realice un seguimiento del uso de datos de las aplicaciones en tu perfil de trabajo.</string>
   <string name="work_sim_title">SIM de trabajo</string>
+  <string name="work_space_delete">Eliminar espacio de trabajo</string>
+  <string name="work_space_delete_confirm">Confirmar borrado</string>
+  <string name="work_space_delete_description">"No podrá entrar en el espacio de trabajo después de borrarlo. Todos los datos se moverán o borrarán."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Asegúrate de que el router inalámbrico es compatible con WPS</string>
   <string name="wps_connect_title">Conectar usando WPS</string>
