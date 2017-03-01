@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="a_week_share_rank">Clasificación semanal</string>
   <string name="action_mode_deselect_all">Deseleccionar todos</string>
@@ -147,6 +147,8 @@
   <string name="decrypt_error">No se pudo descifrar</string>
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">Desencriptando…</string>
+  <string name="default_prize_text" traducir="a currar">That goes right into my treasury!</string>
+  <string name="default_user_desc" traducir="a currar">"This person hasn't added description yet"</string>
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_error">Fallo al borrar archivos, trate de nuevo</string>
   <string name="delete_file">¿Eliminar este archivo?</string>
@@ -327,10 +329,11 @@
   <string name="move_icon_to_desktop_success">Acceso directo añadido a la pantalla de inicio.</string>
   <string name="move_to">Mover a…</string>
   <string name="msg_notify_setting">Configuración de las notificaciones</string>
+  <string name="msg_page_video_default_title" traducir="a currar">I uploaded a video, take a look!</string>
   <string name="msg_set_password">Establecer contraseña primero</string>
   <string name="my_follows">Mi feed</string>
-  <string name="need_login">Entra primero</string>
   <string name="name_empty">Debes ingresar un nombre.</string>
+  <string name="need_login">Entra primero</string>
   <string name="need_read_storage_permission">El explorador necesita acceder al almacenamiento interno para trabajar como se ha diseñado.</string>
   <string name="network_dialog_checkbox_tip">No mostrar de nuevo</string>
   <string name="network_not_available">No se pudo conectar a la red</string>
@@ -494,9 +497,10 @@
   <string name="recommend_popup_title">Recomendaciones</string>
   <string name="recommend_topic">Temas recomendados</string>
   <string name="recommend_user">Perfiles recomendados</string>
+  <string name="recommend_users" traducir="a currar">%1$s+</string>
   <string name="remote_video_report_success">¡Gracias por la retroalimentación! Estaremos prestos a ello muy pronto.</string>
   <string name="rename_alert">Si cambias la extensión de este archivo, puede que no lo consigas abrir.</string>
-  <string name="rename_alert2">El archivo estará oculto.</string> 
+  <string name="rename_alert2">El archivo estará oculto.</string>
   <string name="rename_failed">No se puede renombrar %1$s</string>
   <string name="repair_done">Restaurado</string>
   <string name="repair_error">No se pudo restaurar</string>
@@ -575,6 +579,7 @@
   <string name="setting_account_bind">Añadir cuenta</string>
   <string name="setting_message_notify">Notificaciones</string>
   <string name="setting_shortcut">Añadir un acceso directo a la pantalla de inicio</string>
+  <string name="share_from_youliao" traducir="a currar">(From #有料# @有料Video)|</string>
   <string name="share_rank_card_tip">Más compartidos</string>
   <string name="share_success">Compartido correctamente</string>
   <string name="share_tip_1">Gracias por compartir, sígueme para ver más vídeos</string>
@@ -709,11 +714,13 @@
   <string name="used">Usado</string>
   <string name="user_cancel">Cancelado</string>
   <string name="user_center_title">Inicio</string>
+  <string name="user_desc_default_tip" traducir="a currar">Sign in to collect points and win prizes.</string>
   <string name="user_follow_me_title">Mis seguidores</string>
   <string name="user_follow_title">Personas que sigo</string>
   <string name="user_guide_continue_use">Aceptar</string>
   <string name="user_guide_more_login">Otras maneras de iniciar sesión</string>
   <string name="user_icon">Foto de perfil</string>
+  <string name="user_id_tip" traducir="a currar">ID: </string>
   <string name="user_info_setting">Editar información</string>
   <string name="user_like_text">Gustos</string>
   <string name="user_liked_video_title">Vídeos que me han gustado</string>
@@ -785,8 +792,8 @@
   <string name="video_publish_hint">Una buena descripción ayudará a que otras personas encuentren tu video</string>
   <string name="video_publish_hint2">Descripción</string>
   <string name="video_publish_origin_tag">Etiqueta original</string>
-  <string name="video_publish_watchable_tag">Sígueme para ver este video</string>
   <string name="video_publish_watchable_limit">Usted puede hacer esto dos veces al día</string>
+  <string name="video_publish_watchable_tag">Sígueme para ver este video</string>
   <string name="video_recommend_upload">Recomendado</string>
   <string name="video_status_reject">Rechazado</string>
   <string name="video_status_review">Siendo reseñado</string>
