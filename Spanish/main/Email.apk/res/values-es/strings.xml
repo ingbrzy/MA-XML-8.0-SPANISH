@@ -409,7 +409,6 @@
   <string name="email_setting">Correo</string>
   <string name="email_setting_keywords">cuentas;Añadir cuenta;cuentas de correo;añadir cuenta de correo;confirmar antes de eliminar;confirmación de eliminación;confirmar antes de enviar;confirmación;eliminar el flujo de mensajes;eliminar redireccionamiento;vista de la conversación;conversación de correo;ahorro de batería;batería del correo;enviar feedback;subir reporte</string>
   <string name="email_sina">Correo Sina</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">No se pudo encontrar la cuenta</string>
   <string name="empty_email_tip">No se puede enviar un mensaje vacío</string>
   <string name="empty_spam">Vaciar Spam</string>
@@ -569,14 +568,6 @@
   <string name="mailbox_name_display_starred">Destacados</string>
   <string name="mailbox_name_display_trash">Papelera</string>
   <string name="mailbox_name_display_unread">No leídos</string>
-  <string name="mailbox_name_server_all_unread">Sin Leer</string>
-  <string name="mailbox_name_server_drafts">Borradores</string>
-  <string name="mailbox_name_server_inbox">Entrada</string>
-  <string name="mailbox_name_server_junk">Correo Basura</string>
-  <string name="mailbox_name_server_outbox">Bandeja de Salida</string>
-  <string name="mailbox_name_server_sent">Enviados</string>
-  <string name="mailbox_name_server_starred">Favoritos</string>
-  <string name="mailbox_name_server_trash">Basura</string>
   <string name="mailbox_settings_activity_title">Ajustes de sincronización</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Ajustes de sincronización (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sincronizar email de</string>
@@ -1083,7 +1074,6 @@ Pulse "<b>Sincronizar ahora</b> para sincronizar el correo una vez, o <b>Cambiar
   <string name="widget_all_mail">Todo el correo</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Otros</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wipe_account_fail_description">Permitir</string>
   <string name="wipe_account_fail_title">"Error al eliminar la información personal"</string>
   <string name="wrong_password">La contraseña introducida no es correcta</string>
