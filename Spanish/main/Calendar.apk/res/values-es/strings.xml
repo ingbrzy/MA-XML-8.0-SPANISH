@@ -43,7 +43,7 @@
   <string name="alert_reminder_expired">Expirada</string>
   <string name="alert_title">Notificaciones de calendario</string>
   <string name="anniversary_card_title">Aniversario</string>
-  <string name="anniversary_event_title">[Aniversario]%1$s</string>
+  <string name="anniversary_event_title">Aniversario: %1$s</string>
   <string name="app_label">Calendario</string>
   <string name="attendees_label">Invitados</string>
   <string name="birthday_calendar_display_name">Recordatorio de cumpleaños</string>
@@ -74,7 +74,7 @@
   <string name="button_week">Sem.</string>
   <string name="calendar_network_error">Error de red</string>
   <string name="calendar_refresh">Actualizar</string>
-  <string name="can_not_create_long_event">El contenido del evento es demasiado largo</string>
+  <string name="can_not_create_long_event">El nombre del evento es demasiado largo</string>
   <string name="can_not_modify_allday_event">Los eventos de todo el día no se pueden modificar</string>
   <string name="can_not_modify_event">No se puede modificar</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Los eventos periódicos no se pueden modificar</string>
@@ -88,6 +88,11 @@
   <string name="chongsha">chongsha</string>
   <string name="copy_email">Copiar la dirección de email</string>
   <string name="copy_number">Copiar el numero de teléfono</string>
+  <string name="countdown_card_title">Cuenta atrás/string>
+  <string name="countdown_event_title">Cuenta atrás: %1$s</string>
+  <string name="countdown_notify_before_3_day_title">Cuenta atrás: %1$s en 3 días</string>
+  <string name="countdown_notify_title">Cuenta atrás: %1$s</string>
+   <string name="countdown_today">Hoy</string>
   <string name="create_an_account_desc">"El calendario funciona mejor con una Cuenta Mi.
 
 • Acceso desde cualquier navegador
@@ -130,8 +135,8 @@
   <string name="downloading_wallpaper">Descargando imagen</string>
   <string name="dropdown_delete_button_desc">Quitar %s de destinatarios</string>
   <string name="edit_event_all_day_label">Todo el día</string>
-  <string name="edit_event_anniversary_name_empty_hint">Por favor inserte el aniversario</string>
-  <string name="edit_event_anniversary_name_hint">Contenido</string>
+  <string name="edit_event_anniversary_name_empty_hint">Introduzca el nombre del evento</string>
+  <string name="edit_event_anniversary_name_hint">Evento</string>
   <string name="edit_event_birthday_3_days_before">Y recordar 3 días antes</string>
   <string name="edit_event_birthday_reminder_summary">Ese día en %1$s</string>
   <string name="edit_event_birthday_reminder_summary_3_days_before">Recordar 3 días antes y ese día en %1$s</string>
@@ -143,8 +148,8 @@
   <string name="edit_event_calendar_label">Calendario</string>
   <string name="edit_event_choose_date">Elegir fecha</string>
   <string name="edit_event_confirm_message">¿Descartar cambios?</string>
-  <string name="edit_event_countdown_name_empty_hint">Ingrese el contenido de la cuenta regresiva</string>
-  <string name="edit_event_countdown_name_hint">Contenido</string>
+  <string name="edit_event_countdown_name_empty_hint">Introduzca el nombre del evento</string>
+  <string name="edit_event_countdown_name_hint">Evento</string>
   <string name="edit_event_from_label">Desde</string>
   <string name="edit_event_input_year">Introduzca el año</string>
   <string name="edit_event_label">Detalles</string>
