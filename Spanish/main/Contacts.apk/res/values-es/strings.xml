@@ -117,9 +117,9 @@
   <string name="callrecordview_menu_delete_called">Limpiar Llamadas salientes</string>
   <string name="callrecordview_menu_delete_confirm">¿%s?</string>
   <string name="callrecordview_menu_delete_missed">limpiar llamadas perdidas</string>
-  <string name="callrecordview_menu_delete_new">Borrar registros de llamada de nuevos contactos</string>
+  <string name="callrecordview_menu_delete_new">Borrar el historial de llamadas para nuevos contactos</string>
   <string name="callrecordview_menu_delete_one">Eliminar del registro de llamadas</string>
-  <string name="callrecordview_menu_delete_sim">Registros de llamadas %s clara</string>
+  <string name="callrecordview_menu_delete_sim">Borrar registros del historial de llamadas %s</string>
   <string name="callrecordview_menu_delete_stranger">Claras números desconocidos</string>
   <string name="callrecordview_menu_edit_call_note">Editar nota de llamada</string>
   <string name="callrecordview_menu_ip">IP de marcación automática</string>
@@ -201,7 +201,7 @@
   <string name="contact_detail_action_item_calllog">Historial de llamadas</string>
   <string name="contact_detail_action_item_nocalllog">No hay historial</string>
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
-  <string name="contact_detail_calllog_call_record_tips">Grabar llamada</string>
+  <string name="contact_detail_calllog_call_record_tips">Llamada grabada</string>
   <string name="contact_detail_calllog_empty">No hay historial</string>
   <string name="contact_detail_menu_delete_miprofile">Borrar tarjeta</string>
   <string name="contact_detail_miprofile_accept">Intercambiar tarjetas de contacto</string>
@@ -368,7 +368,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="device_transfer_by_sim_message">"1. Guardar los contactos del otro dispositivo en la tarjeta SIM;
 
 
-2. Ir \"Ajustes de contactos\" -- \"Importar/Exportar contactos\" -- \"Importar desde la tarjeta SIM\", presione cualquier contacto SIM, elija los contactos que desea importar y haga clic en \"Importar\" opción."</string>
+2. Abre la configuración en la aplicación Contactos y, a continuación \"Importar / Exportar contactos\" -- \"Importar de la tarjeta SIM\", Mantenga pulsado cualquier contacto SIM para seleccionarlo, seleccione todos los contactos necesarios y toque \"Importar\"."</string>
   <string name="device_version_header_bluetooth">Importar a través de Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Importar a través de la tarjeta SIM</string>
   <string name="dial">Marcar</string>
@@ -580,11 +580,11 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="list_filter_customize">Personalizar</string>
   <string name="list_filter_phones">Todos los contactos con números de teléfono</string>
   <string name="list_filter_single">Contacto</string>
-  <string name="live_talk_switch_on_toast">Charla en vivo ha sido habilitada</string>
-  <string name="livetalk_charge">Cargar</string>
-  <string name="livetalk_left">Charla en vivo restante</string>
+  <string name="live_talk_switch_on_toast">Activado el paquete de recarga con éxito</string>
+  <string name="livetalk_charge">Completar</string>
+  <string name="livetalk_left">Restante</string>
   <string name="livetalk_switch_on">Encender</string>
-  <string name="livetalk_title">Charla en vivo</string>
+  <string name="livetalk_title">Paquete de recarga</string>
   <string name="loading_accounts">Solo un segundo…</string>
   <string name="loading_group_members">Cargando a los miembros del grupo…</string>
   <string name="loading_groups">Cargando grupos…</string>
