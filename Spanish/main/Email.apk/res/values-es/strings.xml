@@ -5,7 +5,6 @@
   <string name="SMTP_username_text">Nombre de usuario</string>
   <string name="accessibility_guide_first">En la siguiente pantalla, seleccione \"Servicios\" para activar el ajuste automático del buzón 139</string>
   <string name="accessibility_guide_second">Luego haga clic en el interruptor en la esquina superior derecha, haga clic en \"Confirmar\" y continuar.</string>
-  <string name="account_cache_provider">Proveedor de caché de cuenta</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -323,7 +322,6 @@
   <string name="contextmenu_send_mail">Enviar correo</string>
   <string name="contextmenu_sharelink">Compartir enlace</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Proveedor de contenido de conversación</string>
   <string name="conversation_folder_moved">Movido a %1$s</string>
   <string name="conversation_item_mark_read">Leído</string>
   <string name="conversation_item_mark_unread">No leído</string>
@@ -491,7 +489,6 @@
   <string name="forward_attribution_no_headers">---------- Mensaje reenviado ----------</string>
   <string name="forward_download_failed_ticker">No se pudieron reenviar uno o más archivos adjuntos.</string>
   <string name="forward_download_failed_title">Adjunto no reenviado</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="free_period_text">Interest-free period</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
@@ -802,7 +799,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="policy_screen_timeout">Tiempo antes de que el dispositivo se bloquee</string>
   <string name="policy_text_truncation">Restringir el tamaño del texto del correo</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">Lista</string>
   <string name="preference_eas_tips">Pulse Activar para configurar el servidor de correo.</string>
   <string name="preference_pop_tips">En POP3, los adjuntos se descargarán automáticamente con el correo. Esto podría aumentar su gasto de datos móviles.</string>
   <string name="preference_sender_image_description">Mostrar fotos de perfil junto al nombre del remitente en su bandeja de entrada</string>
@@ -903,12 +899,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="reply_add_bodycontent">¿Añadir texto de respuesta rápida para el contenido del mensaje?</string>
   <string name="reply_all">Responder a todos</string>
   <string formatted="false" name="reply_attribution">El %s, %s escribió:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Notificar phishing</string>
-  <string name="report_rendering_improvement">Todo bien</string>
-  <string name="report_rendering_improvement_desc">Este mensaje parece bueno.</string>
-  <string name="report_rendering_problem">Parece malo</string>
-  <string name="report_rendering_problem_desc">Este mensaje parece malo.</string>
   <string name="report_spam">Notificar spam</string>
   <string name="request_entity_large">El archivo es demasiado grande</string>
   <string name="request_permission_activity">Solicitud de permiso</string>
@@ -1064,7 +1055,6 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="wait_for_manual_sync_body">"Esta cuenta no esta configurada para sincronizarse automáticamente.
 Pulse "<b>Sincronizar ahora</b> para sincronizar el correo una vez, o <b>Cambiar ajustes de sincronización</b> para sincronizar el correo de esta cuenta automáticamente.</string>
   <string name="wait_for_sync_title">Esperando sincronización</string>
-  <string name="wait_help_context">espera</string>
   <string name="webview_logout">¿Realmente quieres dejar de ingresar? ¡Venga y vuelva a intentarlo!</string>
   <string name="webview_logout_cancel">"No volveré a probar más"</string>
   <string name="webview_logout_sure">Intentar una vez más</string>
