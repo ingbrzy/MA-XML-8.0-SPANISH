@@ -40,12 +40,12 @@
         <item quantity="one">1 semana antes</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
-        <item quantity="other">[Aniversario]%2$d años de  %1$s</item>
-        <item quantity="one">[Aniversario]%2$d año de %1$s</item>
+        <item quantity="other">Aniversario: %2$d años desde %1$s</item>
+        <item quantity="one">Aniversario: %2$d año desde %1$s</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">[Aniversario]%2$d años de %1$s en 3 días</item>
-        <item quantity="one">[Aniversario]%2$d año de %1$s en 3 días</item>
+        <item quantity="other">Aniversario: %2$d años desde %1$s en 3 días</item>
+        <item quantity="one">Aniversario: %2$d año desde %1$s en 3 días</item>
     </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">años</item>
