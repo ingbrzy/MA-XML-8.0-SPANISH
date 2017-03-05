@@ -264,7 +264,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="btn_text_goto_setup">Ir a la configuración</string>
   <string name="btn_text_network_speed_detail">Conexión</string>
   <string name="btn_text_open_now">Activar</string>
-  <string name="btn_text_optimize_extend_battery_time">Añadido %s</string>
+  <string name="btn_text_optimize_extend_battery_time">Añadir %s</string>
   <string name="btn_text_optimize_manually">Optimizar manualmente</string>
   <string name="btn_text_optimize_now">Optimizar</string>
   <string name="btn_text_power_cleanup">Limpieza a fondo</string>
@@ -383,8 +383,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="current_network_state_not_need_diagnose">La conexión a Internet es normal.</string>
   <string name="daily_limit_and_lock_screen">Límite de datos y notificaciones</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
-  <string name="daily_limit_over_message">Ha superado el límite diario de datos.</string>
-  <string name="daily_pkg_traffic">Límite de datos pico</string>
+  <string name="daily_limit_over_message">" Ha superado el límite diario de datos."</string>
+  <string name="daily_pkg_traffic">Límite de datos máximo</string>
   <string name="data_network_blocked_notification_title">Sin conexión a Internet</string>
   <string name="data_usage_correction_timeout_body">Pulse para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Tiempo agotado de sincronización de uso de datos</string>
@@ -393,7 +393,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="data_usage_leisure_warning_body">Pulse para ver los detalles de uso de datos.</string>
   <string name="data_usage_leisure_warning_title">Límite de uso de datos fuera de pico</string>
   <string name="data_usage_limit_body">Pulse para activar los datos móviles.</string>
-  <string name="data_usage_limit_snoozed_body">Se superó el limite de datos para este mes.</string>
+  <string name="data_usage_limit_snoozed_body">Se superó el límite de datos para este mes.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Uso de datos excedido</string>
   <string name="data_usage_mobile_limit_title">" Límite de datos móviles alcanzado"</string>
   <string name="data_usage_no_total_package_body">Pulse para establecer el límite de datos</string>
@@ -692,7 +692,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Límite de datos excedido</string>
   <string name="main_primary_message_traffic_cur_normal_warning">Alerta de uso de datos</string>
   <string name="main_primary_message_traffic_enough">Por debajo del límite de uso de datos</string>
-  <string name="main_primary_message_traffic_overlimit">Se superó el limite de datos</string>
+  <string name="main_primary_message_traffic_overlimit">Se superó el límite de datos</string>
   <string name="main_primary_message_traffic_overlimit_purchase">Necesita recargar</string>
   <string name="main_primary_message_traffic_purchase">Necesita recargar</string>
   <string name="main_primary_message_traffic_warning">Aproximándose al límite de datos</string>
