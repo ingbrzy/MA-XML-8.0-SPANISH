@@ -6,7 +6,7 @@
   <string name="click_to_authorize">Autorizar</string>
   <string name="finger_image">Imagen del dedo</string>
   <string name="fingerprint_matched">¡No Coinciden!</string>
-  <string name="fingerprint_mismatched">¡No Coinciden! Por favor, prueba otra vez.</string>
+  <string name="fingerprint_mismatched">¡No Coinciden! Por favor, vuelva a intentarlo.</string>
   <string name="hello_world">Hello world!</string>
   <string name="manage_hint">"¡Ninguna huella registrada!
 Por favor, vaya a Ajustes para registrar su huella digital y vuelva a registrarse."</string>
@@ -18,9 +18,9 @@ Por favor, vaya a Ajustes para registrar su huella digital y vuelva a registrars
   <string name="select_user_title">Seleccionar Usuario</string>
   <string name="timeout">Se acabó el tiempo</string>
   <string name="title_activity_main">MainActivity</string>
-  <string name="toomanyattempts">"¡Lo has intentado muchas veces!
-Por favor, intentalo de nuevo mas tarde."</string>
-  <string name="touch_finger_hint">Por favor, apoya tu dedo</string>
+  <string name="toomanyattempts">"¡Lo ha intentado muchas veces!
+Por favor, inténtelo de nuevo más tarde."</string>
+  <string name="touch_finger_hint">Por favor, apoye tu dedo</string>
   <string name="transaction_confirmation">Confirmación de la transacción</string>
   <string name="unknown_error">!Error desconocido!</string>
 </resources>
