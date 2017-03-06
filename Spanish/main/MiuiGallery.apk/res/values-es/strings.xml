@@ -133,7 +133,7 @@
   <string name="backup_need_sync_desc">Haga clic en el botón para continuar la copia de seguridad</string>
   <string name="backup_need_sync_title">Copia de seguridad detenida</string>
   <string name="backup_no_network_btn_text">Ajustes de red</string>
-  <string name="backup_no_network_desc">Conectarse a la red para continuar copiando elemnetos</string>
+  <string name="backup_no_network_desc">Toque para continuar con la copia de seguridad</string>
   <string name="backup_no_network_title">"No se puede conectar a Mi Cloud"</string>
   <string name="backup_no_wifi_btn_text">Utilizar datos</string>
   <string name="backup_no_wifi_desc">También puede realizar copias de seguridad de elementos mediante datos móviles</string>
@@ -158,7 +158,7 @@
   <string name="backuped_title">Copia de seguridad con éxito</string>
   <string name="backuping">Respaldando %1$d/%2$d</string>
   <string name="backuping_title_gprs">Copia de seguridad con datos móviles…</string>
-  <string name="backuping_title_normal">Copia de seguridad</string>
+  <string name="backuping_title_normal">Copia de seguridad…</string>
   <string name="begin_share">Álbum del bebé \"%s\" creado, usted ahora puede compartirlo</string>
   <string name="begin_share_toast">Crear un álbum independiente para este niño antes de compartir?</string>
   <string name="black_white">B/N plano</string>
@@ -437,7 +437,7 @@
   <string name="ignore_alert_title">¿No mostrar este álbum?</string>
   <string name="ignore_face">Ignorar a esta persona</string>
   <string name="image_decode_failed">No se puede decodificar la imagen</string>
-  <string name="image_download_item_title">Descargar foto (%s)</string>
+  <string name="image_download_item_title">Descargar archivo original (%s)</string>
   <string name="image_invalid_path">Ruta inválida</string>
   <string name="image_not_found">No se puede encontrar la imagen</string>
   <string name="image_quota_fulfiled">Demasiadas imágenes. Borre alguna imagen y vuelva a intentarlo.</string>
