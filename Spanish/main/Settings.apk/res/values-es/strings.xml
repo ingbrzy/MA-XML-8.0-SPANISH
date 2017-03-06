@@ -1090,6 +1090,7 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
   <string name="current_use_ese_wallet">Está usando Mi Wallet. Le permite usar Mi Pay y tarjeta de transporte NFC.</string>
   <string name="current_use_hce_wallet">Está usando HCE Wallet</string>
   <string name="current_use_uicc_se">Usando elemento seguro en la SIM</string>
+  <string name="current_use_uicc_wallet">"Usted está utilizando SIM%1$s Wallet"</string> 
   <string name="daltonizer_mode_deuteranomaly">Deuteronomalía (rojo-verde)</string>
   <string name="daltonizer_mode_disabled">Inhabilitado</string>
   <string name="daltonizer_mode_monochromacy">Acromatopsia</string>
@@ -1677,8 +1678,6 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="firmware_version">Versión de Android</string>
   <string name="floating_window_switch_label">Activar ventanas flotantes</string>
   <string name="floating_window_switch_label_disable">Desactivar ventanas flotantes</string>
-  <string name="fluency_mode">Animaciones del sistema</string>
-  <string name="fluency_mode_confirm_and_reboot">Reiniciar ahora</string>
   <string name="font_size_exhuge">Extra enorme</string>
   <string name="font_size_huge">Enorme</string>
   <string name="font_size_large">Más grande</string>
@@ -2531,7 +2530,7 @@ Seleccione su sistema operativo:"</string>
   <string name="music_dirac_mode_general_inear">Normales In-Ear</string>
   <string name="music_dirac_mode_headset">Auriculares Mi</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Auriculares (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac desactivado</string>
   <string name="music_dirac_mode_piston">Mi Piston 0</string>
@@ -3452,6 +3451,7 @@ Para ello:
   <string name="se_route_uicc">Elemento seguro en la SIM</string>
   <string name="se_wallet_ese">Mi Pay y tarjeta de transporte NFC</string>
   <string name="se_wallet_hce">Usar cartera HCE</string>
+  <string name="se_wallet_uicc">Utilizar SIM%1$s Wallet</string> 
   <string name="search_about_settings">Acerca del teléfono;Número de modelo;Versión de Android;Versión de MIUI;CPU;RAM;Memoria interna;Versión de la banda base;Versión del Kernel;Número de compilación</string>
   <string name="search_accelerometer_title">Autorrotar pantalla;Rotar pantalla;Orientación;Retrato;Paisaje</string>
   <string name="search_access_control">Ajustes de Privacidad;Seguridad de Privacidad;Invitado;Modo invitado</string>
@@ -4991,7 +4991,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_empty_list_wifi_off">Para ver redes disponibles, active la conexión Wi-Fi</string>
   <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Cambiar entre datos y Wi-Fi</string>
+  <string name="wifi_enable_data_and_wifi_roam">Asistente de Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Mantener datos y Wi-Fi activados, para cambiar a datos cuando la conexión a Wi-Fi sea deficiente.</string>
   <string name="wifi_enable_hs2_title">Passpoint Activado</string>
   <string name="wifi_enable_watchdog_service_summary">Omitir conexiones deficientes</string>
