@@ -116,21 +116,21 @@
   <string name="find_device_access_denied">Imposible obtener el estado actual, acceso denegado</string>
   <string name="find_device_account_error">Imposible obtener el estado actual debido a un error en la cuenta</string>
   <string name="find_device_activate_account">Activar cuenta</string>
-  <string name="find_device_bad_response_error">Imposible obtener el estado actual debido a un error con el servidor, intente más tarde</string>
+  <string name="find_device_bad_response_error">Se produjo un error en el servidor, espere unos minutos y vuelva a intentarlo</string>
   <string name="find_device_display_id">Desbloquear número: %s</string>
   <string name="find_device_error_password_not_confirmed">Imposible apagar la función Encontrar dispositivo. Ingrese la contraseña de la Cuenta Mi nuevamente.</string>
   <string name="find_device_error_password_recently_changed">El los últimos tres días se hizo un cambio de contraseña. Por razones de seguridad aún no es posible desactivar la función Encontrar dispositivo.</string>
-  <string name="find_device_interrupted">La acción fue interrumpida, intente más tarde</string>
+  <string name="find_device_interrupted">Se interrumpió la acción, espere un minuto o dos y vuelva a intentarlo</string>
   <string name="find_device_io_error">Error al conectar a la red</string>
   <string name="find_device_locked_account_email" formatted="false">%s,correo electrónico asociado:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s,número teléfonico asociado:%s</string>
   <string name="find_device_null_credential_error">Error al obtener información sobre el dispositivo, contacte con servicio al cliente de Xiaomi</string>
-  <string name="find_device_operation_failed_error">Se ha producido un error en el servidor, vuelve a intentarlo más tarde</string>
+  <string name="find_device_operation_failed_error">Se produjo un error en el servidor, espere unos minutos y vuelva a intentarlo</string>
   <string name="find_device_operation_failed_error_unknown">Ha ocurrido un error, intente más tarde</string>
   <string name="find_device_remote_exception">Error RPC</string>
-  <string name="find_device_request_error">No se puede solicitar información sobre el estado de error del servidor, vuelve a intentarlo más tarde</string>
+  <string name="find_device_request_error">Se produjo un error en el servidor, espere unos minutos y vuelva a intentarlo</string>
   <string name="find_device_request_prepare_error">Imposible obtener el estado actual, intente más tarde</string>
-  <string name="find_device_unknown_error">Imposible obtener el estado actual, intente más tarde</string>
+  <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo, espere un minuto o dos y vuelva a intentarlo"</string>
   <string name="first_login_time">Primer intento de inicio: %s</string>
   <string name="forward_to_bind">Añadir</string>
   <string name="get_device_list_failed">No se pudieron encontrar dispositivos</string>
