@@ -340,15 +340,15 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="file_not_found">El archivo no existe</string>
   <string name="filter_by_duration">Por duración</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">5 min</string>
-  <string name="filter_by_duration_min">0 seg</string>
+  <string name="filter_by_duration_max">%d min</string>
+  <string name="filter_by_duration_min">%d seg</string>
   <string name="filter_by_duration_prefix">"Ocultar archivos más cortos que "</string>
   <string name="filter_by_duration_summary">Ocultar archivos de audio cortos</string>
   <string name="filter_by_folder">Por carpeta</string>
   <string name="filter_by_folder_summary">Elegir carpetas a mostrar</string>
   <string name="filter_by_size">Por tamaño</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">%dMB</string>
+  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Ocultar archivos más pequeños que "</string>
   <string name="filter_by_size_summary">Ocultar archivos de audio pequeños</string>
   <string name="find_music">Descubrir canciones</string>
@@ -456,7 +456,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="lyric_setting">Ajustes de letras</string>
   <string name="male_artist">Artistas masculinos</string>
   <string name="manager_cloud_space">Administrar espacio de Mi Cloud</string>
-  <string name="max_sleep_time">90</string>
+  <string name="max_sleep_time">%d</string>
   <string name="media_filter">Media</string>
   <string name="menu_all_task_pause">Pausar todo</string>
   <string name="menu_all_task_start">Iniciar todo</string>
@@ -479,7 +479,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="metered_serious_alert_msg_with_data">Sólo quedan %s de datos móviles. ¿Usar datos móviles para reproducir canciones?</string>
   <string name="metered_serious_allow">Reproducir de todas formas</string>
   <string name="milink_unavaliable_please_update">Milink función no está disponible. Necesita actualizar el sistema de MIUI.</string>
-  <string name="min_sleep_time">1</string>
+  <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Desconocido&gt;</string>
   <string name="miui_music">Mi Music</string>
   <string name="miuishare_account_activate_confirmation">Activación requerida</string>
