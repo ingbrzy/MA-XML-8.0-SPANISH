@@ -70,7 +70,8 @@
   <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
   <string name="maml_component_customization_title">Ajustes</string>
   <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
-  <string name="memory_clear_result">%1$s eliminado | %2$s disponible</string>
+  <string name="memory_clear_result">>%1$sB eliminado | %2$sB disponible</string>
+  <string name="miui_upgrading_notification_title">Actualización del sistema, algunas características pueden estar limitadas</string>
   <string name="package_delete_confirm_step_1">¿Eliminar %s?</string>
   <string name="package_delete_confirm_step_2">Al eliminar esta aplicación, el sistema puede volverse inestable.</string>
   <string name="package_delete_confirm_step_3">"No podrás abrir esta aplicación después de eliminarla."</string>

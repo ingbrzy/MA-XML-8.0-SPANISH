@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Configuración del limpiador</string>
   <string name="Settings_title_network_assistants">Configuración de uso de datos</string>
   <string name="Settings_title_power_center">Ajustes de la batería</string>
+  <string name="about_autostart">Acerca de autoencendido</string>
   <string name="ac_enable_title">Activar bloqueo de Aplicaciones</string>
   <string name="ac_enter_applock">Ingrese bloqueo de Aplicaciones</string>
   <string name="ac_firstUseApplock_subTitle">Usar herramientas mejoradas de seguridad</string>
@@ -451,6 +452,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="disable_air_mode">Primero desactive el modo avión</string>
   <string name="dns_exception_summary">Compruebe los ajustes del DNS del router</string>
   <string name="dns_exception_title">Compruebe los ajustes de DNS</string>
+  <string name="domestic_roaming_setting">Roaming nacional</string>
   <string name="download">Descargar</string>
   <string name="downloading">Descargando</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -533,6 +535,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="hide_mode_app_background_setting_text">Ahorrar batería en las aplicaciones</string>
   <string name="hide_mode_summary_text">Administrar aplicaciones en segundo plano para ahorrar batería</string>
   <string name="hide_mode_title_text">Modo Oculto</string>
+  <string name="hide_system_app">Ocultar aplicaciones del sistema</string>
   <string name="hints_auto_start_warning_info">Si restringes el inicio automático, algunas aplicaciones y servicios no podrán recibir notificaciones.</string>
   <string name="hints_cleanning_done">Escaneado correctamente</string>
   <string name="hints_cleanning_text">Limpiando…</string>
@@ -832,6 +835,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="notification_exit_power_save_mode">Apagado el ahorro de batería</string>
   <string name="notification_exit_power_save_mode_subtitle">Batería %s cargada.</string>
   <string name="notification_item">Protege las aplicaciones seleccionadas con el bloqueo de Aplicaciones</string>
+  <string name="notification_mask_summary">"No mostrar contenido para notificaciones en la pantalla Bloquear y en la pantalla Notificación"</string>
+  <string name="notification_mask_title">Ocultar contenido</string>
   <string name="notification_quick_charging_title">Carga rápida</string>
   <string name="notification_subtitle">Toca para activar</string>
   <string name="notification_summary_cmcc_app_check">Pulsa para ver detalles.</string>
@@ -994,8 +999,8 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Aplicaciones</string>
   <string name="power_consume_rank_title">Uso de la batería</string>
-  <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-  <string name="power_consume_total_software">Aplicaciones: %1$d%%</string>
+  <string name="power_consume_total_hardware">Hardware: %s</string>
+  <string name="power_consume_total_software">Aplicaciones: %s</string>
   <string name="power_customize_giveup_change">¿Descartar cambios?</string>
   <string name="power_customizer_cancel">Cancelar</string>
   <string name="power_customizer_delete">Eliminar</string>
@@ -1361,6 +1366,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="settings_title_payment_security">Ajustes de seguridad para los pagos</string>
   <string name="settings_title_permission">Ajustes de permisos</string>
   <string name="share">Compartir</string>
+  <string name="show_system_app">Mostrar aplicaciones del sistema</string>
   <string name="show_traffic_dialog_message">Su información de uso de datos será mostrada en el panel de notificaciones. Puede desactivar esta característica en cualquier momento en Uso de datos &gt; Ajustes</string>
   <string name="show_traffic_dialog_title">Mostrar uso en el panel de notificaciones</string>
   <string name="showpattern">Mostrar patrón</string>
