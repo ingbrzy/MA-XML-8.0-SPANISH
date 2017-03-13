@@ -1300,6 +1300,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_name">Nombre de dispositivo</string>
   <string name="device_name_input_error">No se pudo guardar el nombre del dispositivo</string>
   <string name="device_name_input_hint">Introducir nombre</string>
+  <string name="device_name_input_overlength">Más allá del límite de palabras</string>
   <string name="device_name_usage_point">Otros dispositivos cercanos pueden ver este nombre.</string>
   <string name="device_picker">Seleccionar dispositivo Bluetooth</string>
   <string name="device_rear_camera">Cámara trasera</string>
@@ -1343,6 +1344,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="disable_service_title">¿Detener %1$s?</string>
   <string name="disable_text">Inhabilitar</string>
   <string name="disable_wifi_master_key_service">Apagar</string>
+  <string name="disable_wifi_master_key_service_first">Apagar</string>
   <string name="disabled">Inhabilitada</string>
   <string name="disabled_because_no_backup_security">Para usarlo, debes establecer una pantalla de bloqueo</string>
   <string name="disabled_by_admin">Desactivado por el administrador</string>
@@ -1540,6 +1542,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="enable_webview_multiprocess_desc">Ejecutar renderizadores de WebView separados</string>
   <string name="enable_wifi_display">Pantalla inalámbrica</string>
   <string name="enable_wifi_master_key_service">Activar la clave maestra Wi-Fi</string>
+  <string name="enable_wifi_master_key_service_first">Activar</string>
   <string name="enabled_by_admin">Activado por el administrador</string>
   <string name="enalbe_identify_iPhone">Identificación AP</string>
   <string name="encrypt_dont_require_password">No, gracias</string>
@@ -1678,6 +1681,8 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="firmware_version">Versión de Android</string>
   <string name="floating_window_switch_label">Activar ventanas flotantes</string>
   <string name="floating_window_switch_label_disable">Desactivar ventanas flotantes</string>
+  <string name="fluency_mode">Animaciones del sistema</string>
+  <string name="fluency_mode_confirm_and_reboot">Reinicie ahora</string>
   <string name="font_size_exhuge">Extra enorme</string>
   <string name="font_size_huge">Enorme</string>
   <string name="font_size_large">Más grande</string>
