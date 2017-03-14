@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">Está a %1$d pasos de cambiar al modo extremo</item>
+        <item quantity="one">Está a %1$d paso de cambiar al modo extremo</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">Está a %1$d pasos de desactivar el modo extremo</item>
+        <item quantity="one">Está a %1$d paso de desactivar el modo extremo</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Finalizado %1$d pasos para desbloquear todos los elementos</item>
+        <item quantity="one">Finalizado %1$d paso para desbloquear todos los elementos</item>
+    </plurals>
+</resources>
