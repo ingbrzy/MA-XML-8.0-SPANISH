@@ -27,7 +27,7 @@
   <string name="activity_stb_list_title">Elegir decodificador</string>
   <string name="actor_intro_title_text">Emitir</string>
   <string name="add">Añadir</string>
-  <string name="add_control">Añadir control remoto</string>
+  <string name="add_control">Remoto IR</string>
   <string name="add_control_frame">Añadir control remoto %1$s</string>
   <string name="add_device">Añadir dispositivo</string>
   <string name="add_device_match_desc_bottom">    3. Seleccione %1$s para verificar la conexión</string>
@@ -54,7 +54,7 @@
   <string name="apk_file_list_view_header">Un total de %d paquetes</string>
   <string name="apk_files_list_title">Paquete de instalación local</string>
   <string name="app_clear">Limpiar datos</string>
-  <string name="app_detail_comments">Reseñas</string>
+  <string name="app_detail_comments">Comentarios</string>
   <string name="app_detail_content_hidemore_text">Colapso</string>
   <string name="app_detail_content_showmore_text">Expandir</string>
   <string name="app_detail_content_title_text">Título</string>
@@ -245,7 +245,7 @@
   <string name="epg_load_more_latest_comment">Cargar más comentarios</string>
   <string name="epg_loading_hint">Cambie los canales en su decodificador utilizando el teléfono</string>
   <string name="epg_more_comment_list_title">Más comentarios destacados (%1$d)</string>
-  <string name="epg_name">Programas de televisión</string>
+  <string name="epg_name">TV en vivo</string>
   <string name="epg_no_booking_data">No hay información de programación</string>
   <string name="epg_no_more_latest_comment">No hay más comentarios</string>
   <string name="epg_no_program_data">Sin información</string>
@@ -290,6 +290,7 @@
   <string name="fan_speed">Velocidad</string>
   <string name="faq">Preguntas frecuentes</string>
   <string name="fav">Destacar</string>
+  <string name="favorite_channel">Canales recientes</string>
   <string name="feedback">Comentarios</string>
   <string name="feedback_error">Notificar error</string>
   <string name="feedback_error_success_tip">Enviado con éxito</string>
@@ -338,7 +339,7 @@
   <string name="input_speech_button">Presione y sostenga, después diga su orden</string>
   <string name="install">Instalar</string> 
   <string name="input_tip">El código expira después de 15 minutos</string>
-  <string name="install_peel_content">Para activar la función de guía de televisión, instale Peel para Mi remoto.</string>
+  <string name="install_peel_content">Instale Peel Mi Remote para usar la guía de TV.</string>
   <string name="install_peel_title">Instalar Peel Mi Remote</string> 
   <string name="install_failed">No se pudo instalar %s</string>
   <string name="install_succed">%s instalado correctamente</string>
@@ -514,6 +515,7 @@ espere un momento después de la tarea."</string>
   <string name="my_room">Mi habitación</string>
   <string name="my_room_underline"><u>Mi habitación</u></string>
   <string name="my_setting">Ajustes</string>
+  <string name="nearby">Cercanos</string>
   <string name="network_diagnosis">Prueba de red</string>
   <string name="network_no_connection">No se pudo conectar a la red. Compruebe su conexión de datos y vuelva a intentarlo.</string>
   <string name="network_ok">No hay problemas detectados</string>
@@ -761,7 +763,7 @@ link enviado a su correo electrónico.</string>
   <string name="rc_add_distance">%1$d m</string>
   <string name="rc_add_distance_far">&gt; 1000 km</string>
   <string name="rc_add_distance_km">%1$s km</string>
-  <string name="rc_name">Control remoto</string>
+  <string name="rc_name">Mi remoto</string>
   <string name="recover">Restaurar desde Mi Cloud</string>
   <string name="recovering">Restaurando…</string>
   <string name="refreshing">Refrescando…</string>
@@ -776,6 +778,7 @@ link enviado a su correo electrónico.</string>
   <string name="repeat_diagnosis">Pruebe otra vez</string>
   <string name="report_problem">Notifique un problema</string>
   <string name="require_login">Por favor inicie sesión primero</string>
+  <string name="rescan">Escanee de nuevo</string>
   <string name="reset">Reiniciar</string>
   <string name="respond">Funciona</string>
   <string name="retry_for_more">Toque para ver más</string>
@@ -840,6 +843,7 @@ link enviado a su correo electrónico.</string>
   <string name="select_dvb_carrier">Elegir proveedor de servicios</string>
   <string name="select_screenshot_topic">Elegir tema</string>
   <string name="select_stb">Seleccionar decodificador</string>
+  <string name="select_stb_tips">Conjunto de descodificadores</string>
   <string name="service_info">Información sobre el servicio</string>
   <string name="set_timeing_time_tip">Su AA se establecerá en %1$s %2$s</string>
   <string name="setting_airkan">PANTALLA INALÁMBRICA</string>
@@ -888,7 +892,7 @@ link enviado a su correo electrónico.</string>
   <string name="share_popup_single_desc">Utilice el controles remotos compartidos para controlar %1$s a su alrededor</string>
   <string name="share_popup_single_title">%1$s: un control remoto compartido para %2$s está disponible</string>
   <string name="share_popup_title">%1$s: un nuevo control remoto compartido está disponible</string>
-  <string name="share_rc_list_title">Ver controles remotos compartidos alrededor</string>
+  <string name="share_rc_list_title">Remotos IR cercanos</string>
   <string name="share_rc_not_found">No hay controles remotos compartidos alrededor</string>
   <string name="share_rc_state_share">Compartiendo…</string>
   <string name="share_rc_title">Compartir control remoto</string>
