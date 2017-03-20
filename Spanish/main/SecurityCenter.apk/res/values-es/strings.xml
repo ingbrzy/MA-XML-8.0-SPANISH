@@ -170,6 +170,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="auto_task_notify_task_cancel_do">Cancelar la acción</string>
   <string name="auto_task_notify_task_canceled_summary">Puede hacer y recibir llamadas</string>
   <string name="auto_task_notify_task_canceled_summary2">"Parece que estás jugando a un juego ahora"</string>
+  <string name="auto_task_notify_task_canceled_summary3">Cancelado por el Segundo espacio</string>
+  <string name="auto_task_notify_task_canceled_summary4">Cancelado por el Primer espacio</string>
   <string name="auto_task_notify_task_canceled_title">Se cancela la acción</string>
   <string name="auto_task_notify_task_continue_do">Iniciar acciones</string>
   <string name="auto_task_notify_task_count_down">La acción programada será cancelada en 5 segundos</string>
@@ -761,6 +763,7 @@ Pico: %1$s%2$s | %3$s usado"</string>
   <string name="menu_text_power_manager">Uso de batería</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Batería %s</string>
+  <string name="menu_text_power_percent_title_default">Bateria</string>
   <string name="mi_service_app_detail">Detalles del uso de datos</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Detalles del Framework</string>
