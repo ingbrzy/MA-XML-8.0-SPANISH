@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Dashboard_App">Aplicaciones</string>
   <string name="Dashboard_HIPS_Disable_Content">MIUI no monitorizará las peticiones de permisos de las aplicaciones.</string>
@@ -222,6 +222,8 @@ Deberá actualizar primero la versión para el desarrollador de MIUI para poder 
   <string name="HIPS_Perm_background_start_activity_Desc">Iniciar en segundo plano</string>
   <string name="HIPS_Perm_get_accounts">Cuentas de acceso en el dispositivo</string>
   <string name="HIPS_Perm_get_accounts_Desc">accede a todas las cuentas almacenadas en el dispositivo</string>
+  <string name="HIPS_Perm_get_installed_apps">Obtener información sobre las aplicaciones instaladas</string>
+  <string name="HIPS_Perm_get_installed_apps_Desc">Obtener información sobre las aplicaciones instaladas en este dispositivo</string>
   <string name="HIPS_Perm_get_tasks">Obtener tareas</string>
   <string name="HIPS_Perm_get_tasks_Desc">nuevas tareas</string>
   <string name="HIPS_Perm_install_shortcut">Accesos directos en la pantalla de inicio</string>
@@ -275,6 +277,7 @@ Deberá actualizar primero la versión para el desarrollador de MIUI para poder 
   <string name="SysOpt_Boost_Receiver">Segundo plano</string>
   <string name="app_name">Administrador de permisos</string>
   <string name="current_permission_template">%1$s de %2$s</string>
+  <string name="default_permission_description">Realizar una acción desconocida</string>
   <string name="grant_confirm_question">¿Desea conceder los siguientes permisos? Se tendrá acceso a:</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_deny">Denegar</string>
