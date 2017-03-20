@@ -211,6 +211,8 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="another_migration_already_in_progress">Hay otra migración en curso.</string>
   <string name="anr_record_interval_title">Grabar intervalos entre ANR</string>
   <string name="anti_spam">Lista de bloqueo</string>
+  <string name="aod_mode_summary">Mostrar siempre la hora, la fecha y los mensajes cuando la pantalla está apagada.</string>
+  <string name="aod_mode_title">Modo siempre encendido</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticación</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -2332,10 +2334,8 @@ Puede configurar un nuevo bloqueo de pantalla común para su dispositivo y su pe
 Has accedido a las cuentas que se indican a continuación:
 "</string>
   <string name="master_clear_all">¿Borrar todos los datos de la memoria interna de su teléfono? ¡Esta acción no podrá deshacerse!</string>
-  <string name="master_clear_apply_step_1">
-    <b>El restablecimiento de ajustes de fábrica borrará todos los datos en su teléfono</b>, incluyendo fotos, canciones, notas y otros datos personales. Asegúrese de pasar todos los datos importantes a su ordenador.</string>
-  <string name="master_clear_apply_step_2">Asegúrese de que todos los elementos importantes han sido copiados a su ordenador. Todos los datos de este dispositivo serán borrados durante el restablecimiento. <b>No podrá recuperar los elementos que no haya guardado.</b>
-  </string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Restablecer datos de fábrica&amp;#8221; borrará todos los datos en su teléfono&lt;/b&gt;, Incluyendo fotos, canciones, notas y otros datos personales. Asegúrese de realizar una copia de seguridad de todos los elementos importantes en su equipo.</string>
+  <string name="master_clear_apply_step_2">Asegúrese de que todos los elementos importantes están respaldados en su ordenador. Todos los datos sobre este dispositivo se borrarán durante el reinicio. &lt;b&gt;Usted no será capaz de restaurar los elementos que no ha respaldado.&lt;/b&gt;</string>
   <string name="master_clear_apply_title">Atención</string>
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
