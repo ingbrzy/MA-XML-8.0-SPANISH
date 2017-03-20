@@ -773,6 +773,7 @@
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>15 minutos</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultra alta (2K)</item>
@@ -821,5 +822,10 @@
         <item>2</item>
         <item>1</item>
         <item>Ilimitado</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Menor retraso</item>
+        <item>Estandard</item>
+        <item>Mejor Calidad</item>
     </string-array>
 </resources>
