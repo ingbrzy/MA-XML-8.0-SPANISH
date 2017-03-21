@@ -355,13 +355,13 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="card_main_xspace_title">Aplicaciones duplicadas</string>
   <string name="card_sms_report">Informar vía SMS</string>
   <string name="card_tc_failed">No se pudo calibrar</string>
-  <string name="card_tc_failed_content" traducir="a currar">"Possible reasons:
- 1. Carriers respond slower at the beginning and at the end of a month. Try again in a couple of days.
- 2. A network request template is required when you calibrate for the first time. Connect to the network and try again.
- 3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
- 4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
- 5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
-  <string name="charging_text_battery_full_time">"Última carga "</string>
+  <string name="card_tc_failed_content">Posibles razones:
+ 1. Las operadoras responden más lento al principio y al final de un mes. Inténtelo otra vez en un par de días.
+ 2. Se requiere una petición de plantilla de red cuando calibra por primera vez. Conecte a la red e inténtelo otra vez.
+ 3. Su operadora no soporta el envío de mensajes de texto con datos restantes y saldo del teléfono. Contacte con su operadora para aprender más.
+ 4. Podría haber un error en los datos de la operadora. Intente diagnósticos de la operadora para resolver esto.
+ 5. ¿Nada parece ayudar? Toca \"Informar vía SMS\" para enviar tus comentarios a Xiaomi en un mensaje de texto.</string>
+  <string name="charging_text_battery_full_time">Última carga </string>
   <string name="charging_text_battery_nearly_full">Casi totalmente cargada</string>
   <string name="charging_text_battery_perfect">Completamente cargada</string>
   <string name="charging_text_time_calculating">Calculando tiempo de carga…</string>
@@ -396,7 +396,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="cta_dialog_title">Avisos y términos de privacidad</string>
   <string name="cta_settings">Permitir conexión de la red</string>
   <string name="current_network_state_not_need_diagnose">La conexión a Internet es normal.</string>
-  <string name="customize_limit_pkg" traducir="a currar">%s (custom)</string>
+  <string name="customize_limit_pkg">%s (a medida)</string>
   <string name="daily_limit_and_lock_screen">Límite de datos y notificaciones</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">" Ha superado el límite diario de datos."</string>
@@ -514,7 +514,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="firewall_fragment_sys_listempty">No hay archivos</string>
   <string name="firewall_fragment_tab_title_nonsys">Instalados</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
-  <string name="firewall_network_allow" traducir="a currar">Allowed %1$s to use %2$s connection</string>
+  <string name="firewall_network_allow">%1$s con permiso para usar conexión %2$s</string>
   <string name="firewall_network_restrict_notify_message">Pulse para cambiar los ajustes.</string>
   <string name="firewall_network_restrict_notify_mobile">datos móviles</string>
   <string name="firewall_network_restrict_notify_title">%1$s no puede usar la red</string>
@@ -544,12 +544,12 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="go_to">Proceder</string>
   <string name="go_to_setting_fingerprint">Ajustes</string>
   <string name="goto_set">Establecer</string>
-  <string name="guide_get_operator_error" traducir="a currar">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Wrong carrier?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Operadora incorrecta?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">Su operadora actual: </string>
   <string name="guide_primary_text">Encienda Asistente de red
 para gestionar el uso de datos móviles</string>
   <string name="guide_quck_open">Encender</string>
-  <string name="guide_second_text" traducir="a currar">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
+  <string name="guide_second_text">Después de establecer su operadora, MIUI monitorizará su uso diario de datos móviles mediante el envío de SMS de operadora gratuitos. Cuando MIUI detecte que usted está superando su límite de datos, se desconectará de la red y se lo notificará.</string>
   <string name="guide_wait_setting">No ahora</string>
   <string name="handle_bar_summary_wifi_unknown">Desconocido</string>
   <string name="handle_bar_title_apps">Aplicaciones</string>
@@ -665,10 +665,10 @@ para gestionar el uso de datos móviles</string>
   <string name="legal_workday_invalidate">Lun-Vie (información de día laborable caducada)</string>
   <string name="legal_workday_invalidate_message">Pulsa para actualizar la información de los días laborables.</string>
   <string name="legal_workday_message">(Saltar días festivos)</string>
-  <string name="leisure_usage_dialog_message" traducir="a currar">"You've reached your off-peak data limit.
+  <string name="leisure_usage_dialog_message">Ha alcanzado el límite de datos en horario reducido.
 
-Carrier may charge you additional fees if you use mobile data connection again."</string>
-  <string name="leisure_usage_dialog_title" traducir="a currar">You went over your off-peak data limit, data connection is off</string>
+Su operadora podría cargarle costos adicionales si usa la conexión de datos móviles otra vez.</string>
+  <string name="leisure_usage_dialog_title">Ha excedido el límite de datos en horario reducido, la conexión de datos está apagada</string>
   <string name="list_empty_text">Vacío</string>
   <string name="load_fail">No se pudo cargar</string>
   <string name="load_only_under_wlan">Cargar usando sólo Wi-Fi</string>
@@ -718,40 +718,24 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_alert_message_no_imsi">No se detectó ninguna SIM</string>
   <string name="main_alert_message_no_mobile_package">Establecer límite de datos</string>
   <string name="main_alert_message_open_traffic_ctrl">Le recomendamos la restricción del uso de datos</string>
-  <string name="main_bill_remained" traducir="a currar">Phone balance</string>
+  <string name="main_bill_remained">Saldo del teléfono</string>
   <string name="main_button_usage_adjust">Sincronizar uso de datos móviles</string>
   <string name="main_button_usage_adjust_manual">Establecer límite de uso de datos</string>
   <string name="main_button_usage_adjusting">Cambiando…</string>
   <string name="main_button_usage_package_setting">Establecer límite de uso de datos</string>
-  <string name="main_leisure_remained" traducir="a currar">Off-peak data remaining</string>
+  <string name="main_leisure_remained">Datos restantes en horario reducido</string>
   <string name="main_month_total_used">Usado este mes</string>
   <string name="main_month_used">Usado este mes</string>
   <string name="main_no_info">Sin datos</string>
   <string name="main_normal_data_usage">Datos móviles usados</string>
   <string name="main_open_traffic_ctrl_button">Restringir el uso de datos</string>
-  <string name="main_primary_message_leisure_alert" traducir="a currar">Off-peak data warning</string>
-  <string name="main_primary_message_leisure_overlimit" traducir="a currar">Went over off-peak data limit</string>
-  <string name="main_primary_message_leisure_remain" traducir="a currar">Off-peak data</string>
-  <string name="main_primary_message_traffic_cur_leisure">Uso de datos por debajo del Pico</string>
-  <string name="main_primary_message_traffic_cur_normal">Por debajo del límite de datos pico</string>
-  <string name="main_primary_message_traffic_cur_normal_overlimit">Límite de datos excedido</string>
-  <string name="main_primary_message_traffic_cur_normal_warning">Alerta de uso de datos</string>
-  <string name="main_primary_message_traffic_enough">Por debajo del límite de uso de datos</string>
+  <string name="main_primary_message_leisure_alert">Aviso de datos en horario reducido</string>
+  <string name="main_primary_message_leisure_overlimit">Se excedió el límite de datos en horario reducido</string>
+  <string name="main_primary_message_leisure_remain">Datos en horario reducido</string>
   <string name="main_primary_message_traffic_overlimit">Se superó el límite de datos</string>
-  <string name="main_primary_message_traffic_overlimit_purchase">Necesita recargar</string>
-  <string name="main_primary_message_traffic_purchase">Necesita recargar</string>
   <string name="main_primary_message_traffic_remain">Datos móviles</string>
-  <string name="main_primary_message_traffic_warning">Aproximándose al límite de datos</string>
+  <string name="main_primary_message_traffic_warning">Aviso de datos móviles</string>
   <string name="main_purchase_tips">Promoción</string>
-  <string name="main_secondary_message_traffic_detail_leisure">"
-Bajo pico: %1$s | %2$s usado"</string>
-  <string name="main_secondary_message_traffic_detail_normal">"
-Pico: %1$s%2$s | %3$s usado"</string>
-  <string name="main_secondary_message_traffic_over">"sobre "</string>
-  <string name="main_secondary_message_traffic_remain">"restante "</string>
-  <string name="main_secondary_message_traffic_used_leisure">%s datos usados por debajo del Pico</string>
-  <string name="main_secondary_message_traffic_used_noleisure">%s datos usados de pico \"|\" no quedan datos bajo pico restantes</string>
-  <string name="main_secondary_message_traffic_used_normal">%s datos usados en el Pico</string>
   <string name="main_tc_over">Calibrado con éxito</string>
   <string name="main_tc_send_sms">Enviar SMS
 para calibrar</string>
@@ -935,9 +919,9 @@ responda</string>
   <string name="optimize_result_button_to_set">Conjunto</string>
   <string name="optimize_result_button_update_now">Actualizar</string>
   <string name="optimize_result_summary_sucurity_risk">Algunas características de seguridad están desactivadas. Activar estas características para hacer al dispositivo más seguro:</string>
-  <string name="optimize_result_summary_system_default_settings" traducir="a currar">"Using default MIUI apps increases the level of the system's stability and security."</string>
+  <string name="optimize_result_summary_system_default_settings">El uso de las aplicaciones MIUI por defecto incrementa el nivel de estabilidad y seguridad del sistema.</string>
   <string name="optimize_result_title_sucurity_risk">Riesgos de seguridad encontrados</string>
-  <string name="optimize_result_title_system_default_settings" traducir="a currar">Default settings have been changed</string>
+  <string name="optimize_result_title_system_default_settings">Los ajustes por defecto han sido cambiados</string>
   <string name="optimize_result_toast_system_default_settings">Restaurados los ajustes predeterminados</string>
   <string name="optimize_result_toast_system_no_item_selected">No hay elementos seleccionados</string>
   <string name="optmizingbar_optimize_done">Optimizado</string>
@@ -1198,7 +1182,7 @@ responda</string>
   <string name="pref_about_traffic_title">Ajustes de uso de datos</string>
   <string name="pref_add_traffic_pkg">Datos adquiridos adicionalmente</string>
   <string name="pref_adjust_data_usage">Plantilla de mensaje de la compañía operadora</string>
-  <string name="pref_adjust_data_usage_summary" traducir="a currar">After you changed the calibration template, MIUI will use it to get data usage stats from your carrier</string>
+  <string name="pref_adjust_data_usage_summary">Después de que cambie la plantilla de calibración, MIUI los usará para obtener estadísticas de uso de datos de su operador</string>
   <string name="pref_adjust_data_usage_value">Cambiado</string>
   <string name="pref_adjust_traffic_data">Establecer uso de datos</string>
   <string name="pref_allow_connect_network_title">Datos de roaming</string>
@@ -1209,8 +1193,8 @@ responda</string>
   <string name="pref_automatic_adjust">Sincronización del uso de datos del operador</string>
   <string name="pref_avaible_traffic">Plan de datos</string>
   <string name="pref_category_daily_package_tile">Plan de datos diario</string>
-  <string name="pref_category_extra_package_tile" traducir="a currar">Top-up package</string>
-  <string name="pref_category_half_year_package_tile" traducir="a currar">Half-year data package</string>
+  <string name="pref_category_extra_package_tile">Paquete de recarga</string>
+  <string name="pref_category_half_year_package_tile">Paquete de datos de medio año</string>
   <string name="pref_category_title_lock_screen_memory_clean">Limpiar en pantalla de bloqueo</string>
   <string name="pref_category_title_module_settings">Ajustes de funciones</string>
   <string name="pref_category_title_other">Ajustes avanzados</string>
@@ -1219,16 +1203,16 @@ responda</string>
   <string name="pref_category_title_virus_lib_auto_update">Actualizar las definiciones automáticamente</string>
   <string name="pref_category_title_virus_white_list">Excepciones</string>
   <string name="pref_check_network_diagnostics">Probar la conexión a Internet del dispositivo</string>
-  <string name="pref_confirm_operator_setting" traducir="a currar">Make sure the info you entered is correct</string>
+  <string name="pref_confirm_operator_setting">Asegúrese de que la información introducida es correcta</string>
   <string name="pref_connect_settings_enable_background">Permitir datos en segundo plano</string>
   <string name="pref_connect_settings_enable_background_hint">Permitir a las aplicaciones utilizar datos móviles cuando no las utilice</string>
   <string name="pref_connect_settings_exceed_limit">Restringir el uso máximo de datos</string>
   <string name="pref_connect_settings_exceed_limit_hint">Desactive la conexión de datos cuando el uso de datos máximo alcanza el límite</string>
   <string name="pref_content_virus_white_list_none">No hay elementos</string>
-  <string name="pref_correction_setting" traducir="a currar">Calibration template settings</string>
-  <string name="pref_correction_setting_switch" traducir="a currar">Use custom calibration template</string>
-  <string name="pref_correction_sms_content" traducir="a currar">Calibration template</string>
-  <string name="pref_correction_sms_number" traducir="a currar">Send calibration SMS to</string>
+  <string name="pref_correction_setting">Ajustes de plantilla de calibración</string>
+  <string name="pref_correction_setting_switch">Usar plantilla de calibración a medida</string>
+  <string name="pref_correction_sms_content">Plantilla de calibración</string>
+  <string name="pref_correction_sms_number">Enviar SMS de calibración a</string>
   <string name="pref_daily_adjust">Establecer uso de datos máximo</string>
   <string name="pref_daily_traffic">Límite de datos pico</string>
   <string name="pref_data_usage_ignore_settings">Ignorar el uso de datos</string>
@@ -1240,11 +1224,11 @@ responda</string>
   <string name="pref_free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
   <string name="pref_key_daily_package_switch">Plan de datos diarios</string>
   <string name="pref_key_daily_package_value">Plan de datos diarios</string>
-  <string name="pref_key_direction_traffic" traducir="a currar">Designated mobile data</string>
-  <string name="pref_key_extra_package_switch" traducir="a currar">Monthly top-up package</string>
+  <string name="pref_key_direction_traffic">Datos móviles designados</string>
+  <string name="pref_key_extra_package_switch">Paquete de recarga mensual</string>
   <string name="pref_key_extra_package_value">Tamaño de paquete</string>
-  <string name="pref_key_half_year_package_start" traducir="a currar">Starting date</string>
-  <string name="pref_key_half_year_package_switch" traducir="a currar">Half-year data package</string>
+  <string name="pref_key_half_year_package_start">Día de comienzo</string>
+  <string name="pref_key_half_year_package_switch">Paquete de datos de medio año</string>
   <string name="pref_key_half_year_package_value">Tamaño de paquete</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
@@ -1257,8 +1241,8 @@ responda</string>
   <string name="pref_more_traffic_settings">Ajustes avanzados</string>
   <string name="pref_new_installed_preconfig_title">Pre-configuración de aplicaciones</string>
   <string name="pref_open_adjust_traffic">Actualice el uso de datos todos los días usando las estadísticas de su compañía</string>
-  <string name="pref_operator_not_set" traducir="a currar">"Carrier isn't set"</string>
-  <string name="pref_operator_setting" traducir="a currar">%1$s%2$s</string>
+  <string name="pref_operator_not_set">Operadora no establecida</string>
+  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_package_traffic_leisure">%1$s
 Fuera de pico: %2$s</string>
   <string name="pref_package_traffic_normal">Pico: %s</string>
@@ -1270,7 +1254,7 @@ Fuera de pico: %2$s</string>
   <string name="pref_roaming_setting_gategory">Ajustes</string>
   <string name="pref_setting_operators_message">Editar el mensaje que su dispositivo enviará a su compañía para sincronizar las estadísticas de uso de datos</string>
   <string name="pref_show_mobile_traffic">Mostrar las estadísticas de uso de datos durante el desbloqueo después de que el dispositivo está bloqueado durante más de 5 minutos</string>
-  <string name="pref_special_package_setting" traducir="a currar">Custom data plan</string>
+  <string name="pref_special_package_setting">Plan de datos a medida</string>
   <string name="pref_special_traffic_exceed_limit">Avisarme cuando los datos alcancen el límite</string>
   <string name="pref_special_traffic_limit_warn">Establecer alerta de uso de datos</string>
   <string name="pref_specified_adjust">Establezca límite de datos personalizados</string>
@@ -1292,54 +1276,6 @@ Fuera de pico: %2$s</string>
   <string name="pref_version">Versión %s</string>
   <string name="pref_warning_values">Nivel de advertencia de uso de datos</string>
   <string name="pref_whitelist_setting">Excepciones en el roaming de datos</string>
-  <string name="preference_category_information_setting" traducir="a currar">category_information_setting</string>
-  <string name="preference_category_key_reference_settings" traducir="a currar">key_reference_settings</string>
-  <string name="preference_category_key_virus_lib_auto_update" traducir="a currar">key_category_virus_lib_auto_update</string>
-  <string name="preference_category_key_virus_white_list" traducir="a currar">key_category_virus_white_list</string>
-  <string name="preference_key_about_version" traducir="a currar">key_about_version</string>
-  <string name="preference_key_antivirus_choose_engine" traducir="a currar">key_antivirus_choose_engine</string>
-  <string name="preference_key_app_permission_control" traducir="a currar">key_app_permission_control</string>
-  <string name="preference_key_auto_start_manager" traducir="a currar">key_auto_start_manager</string>
-  <string name="preference_key_category_title_module_feature_settings" traducir="a currar">key_category_title_module_feature_settings</string>
-  <string name="preference_key_category_title_module_settings" traducir="a currar">key_category_title_module_settings</string>
-  <string name="preference_key_create_permanent_notification" traducir="a currar">key_create_permanent_notification</string>
-  <string name="preference_key_create_shortcut" traducir="a currar">key_create_shortcut</string>
-  <string name="preference_key_cta_settings" traducir="a currar">key_cta_settings</string>
-  <string name="preference_key_database_auto_update_enabled" traducir="a currar">key_database_auto_update_enabled_%s</string>
-  <string name="preference_key_database_auto_update_time" traducir="a currar">key_database_auto_update_time_%s</string>
-  <string name="preference_key_default_apps_manager" traducir="a currar">key_default_apps_manager</string>
-  <string name="preference_key_information_setting_close" traducir="a currar">key_information_setting_close</string>
-  <string name="preference_key_information_setting_wlan" traducir="a currar">key_information_setting_wlan</string>
-  <string name="preference_key_lock_screen_memory_clean" traducir="a currar">lock_screen_memory_clean</string>
-  <string name="preference_key_manual_update_virus_db" traducir="a currar">key_manual_update_virus_db</string>
-  <string name="preference_key_module_antipam" traducir="a currar">module_antipam</string>
-  <string name="preference_key_module_antivirus" traducir="a currar">key_module_antivirus</string>
-  <string name="preference_key_module_garbage_cleanup" traducir="a currar">key_garbage_cleanup</string>
-  <string name="preference_key_module_network_assistant" traducir="a currar">key_network_assistant</string>
-  <string name="preference_key_module_permissions" traducir="a currar">key_module_permissions</string>
-  <string name="preference_key_module_power_center" traducir="a currar">module_power_center</string>
-  <string name="preference_key_month_report_switch" traducir="a currar">key_month_report_switch</string>
-  <string name="preference_key_notification_bar_manager" traducir="a currar">key_notification_bar_manager</string>
-  <string name="preference_key_open_virus_cloud_scan" traducir="a currar">key_open_virus_cloud_scan</string>
-  <string name="preference_key_open_virus_install_monitor" traducir="a currar">key_open_virus_install_monitor</string>
-  <string name="preference_key_payment_security" traducir="a currar">key_module_payment_security</string>
-  <string name="preference_key_permcenter_install_intercept_enabled" traducir="a currar">key_permcenter_install_intercept_enabled</string>
-  <string name="preference_key_permission_manager" traducir="a currar">key_permission_manager</string>
-  <string name="preference_key_power_usage_details_title" traducir="a currar">key_power_usage_details_title</string>
-  <string name="preference_key_root_manager" traducir="a currar">key_root_manager</string>
-  <string name="preference_key_shortcut_antispam" traducir="a currar">key_shortcut_antispam</string>
-  <string name="preference_key_shortcut_network_assistant" traducir="a currar">key_shortcut_network_assistant</string>
-  <string name="preference_key_shortcut_network_speed_detail" traducir="a currar">key_shortcut_network_speed_detail</string>
-  <string name="preference_key_shortcut_optimize_center" traducir="a currar">_key_shortcut_optimize_center</string>
-  <string name="preference_key_shortcut_perm_center" traducir="a currar">key_shortcut_perm_center</string>
-  <string name="preference_key_shortcut_power_center" traducir="a currar">key_shortcut_power_center</string>
-  <string name="preference_key_shortcut_quick_cleanup" traducir="a currar">key_shortcut_quick_cleanup</string>
-  <string name="preference_key_shortcut_safepay" traducir="a currar">key_shortcut_safepay</string>
-  <string name="preference_key_shortcut_virus_center" traducir="a currar">key_shortcut_virus_center</string>
-  <string name="preference_key_virus_lib_auto_update" traducir="a currar">key_virus_lib_auto_update</string>
-  <string name="preference_key_virus_white_list" traducir="a currar">key_virus_white_list</string>
-  <string name="preference_screen_key_antivirus_setting" traducir="a currar">key_screen_key_antivirus_setting</string>
-  <string name="preference_screen_key_virus_settings" traducir="a currar">key_screen_virus_settings</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Cámara</string>
   <string name="preferred_app_entries_dial">Marcar</string>
@@ -1377,8 +1313,8 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="quick_optimize_sub_summary_text">La batería durará %s más</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">El teléfono está drenando la batería, solucionarlo</string>
   <string name="quick_optimize_suggest_battery_over_heat">El teléfono está sobrecalentándose, solucionarlo</string>
-  <string name="reach_daily_limit_value_body" traducir="a currar">Reduce your mobile data usage.</string>
-  <string name="reach_daily_limit_value_title" traducir="a currar">Daily data limit reached</string>
+  <string name="reach_daily_limit_value_body">Reduzca su uso de datos móviles.</string>
+  <string name="reach_daily_limit_value_title">Límite de datos diario alcanzado</string>
   <string name="recently_reject_message">Instalación de %1$s y %2$d otras aplicaciones rechazadas</string>
   <string name="recently_reject_message_one">%1$s solicitudes de instalación rechazadas</string>
   <string name="recommend_app">Aplicaciones recomendadas</string>
@@ -1443,7 +1379,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="safe_result_item_info_app_sign">Ninguna aplicación no oficial</string>
   <string name="safe_result_item_info_app_virus">Ningún virus o aplicación de riesgo</string>
   <string name="safe_result_item_info_sms_auth">Restringir el acceso de aplicaciones de terceros para códigos de verificación</string>
-  <string name="safe_result_item_info_sms_default" traducir="a currar">Switch to default messaging app</string>
+  <string name="safe_result_item_info_sms_default">Cambiar a la apalicación de mensajería predeterminada</string>
   <string name="safe_result_item_info_sms_url">Protección contra URL maliciosas vía SMS</string>
   <string name="safe_result_item_info_system_antivirus">Protección contra virus de phishing</string>
   <string name="safe_result_item_info_system_root">Seguro root</string>
@@ -1577,7 +1513,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="summary_cmcc_app_check">Algunas aplicaciones no pudieron verificarse</string>
   <string name="summary_consume_power">Se encontraron problemas de calentamiento, pueden afectar la duración de la batería</string>
   <string name="summary_data_flow">Controlar el uso de datos móviles para evitar cargos adicionales</string>
-  <string name="summary_default_app" traducir="a currar">"%s isn't set as a default system app"</string>
+  <string name="summary_default_app">%s no está establecidad como aplicación por defecto del sistema </string>
   <string name="summary_dev">Evitar el malware y proteger los datos personales</string>
   <string name="summary_find_device">Localizar y bloquear el dispositivo desde cualquier lugar</string>
   <string name="summary_flow_notification">Mostrar la estadísticas de uso de datos mensuales en el panel de notificación</string>
@@ -1626,7 +1562,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_brand_error_notification_title">Tipo de red incorrecta</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Marca del operador errónea&lt;br/&gt;&lt;br/&gt;Establecer marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Aceptar</string>
-  <string name="tc_diagnostic_fragment_default" traducir="a currar">Acerca de diagnósticos
+  <string name="tc_diagnostic_fragment_default">Acerca de diagnósticos
 1. El dispositivo se conectará a la la red
         de la operadora, enviará un mensaje gratis, y esperará a la respuesta de la operadora. Esto puede costar hasta 5 minutos.
 2. Usted puede
@@ -1663,8 +1599,8 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_upload_success">¡Gracias por su comentario!</string>
   <string name="tc_sms_report_direction">Código de consulta SMS</string>
   <string name="tc_sms_report_do_report">Enviar</string>
-  <string name="tc_sms_report_get_default" traducir="a currar">"You won't incur charges for SMS messages used to get your data usage
-        balance from your carrier."</string>
+  <string name="tc_sms_report_get_default">Usted no incurrirá en gastos por los mensajes SMS para obtener el balance de
+        uso de datos de su operadora.</string>
   <string name="tc_sms_report_get_sms">Obtener SMS</string>
   <string name="tc_sms_report_get_sms2">Obtener SMS</string>
   <string name="tc_sms_report_get_sms_again">Actualizar SMS</string>
@@ -1700,7 +1636,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_sms_report_toast_text">Obteniendo información…</string>
   <string name="tc_sms_report_upload_success">SMS de informe de uso de datos enviado. ¡Vamos a trabajar en ello!</string>
   <string name="tc_sms_report_upload_when_net">¡Gracias por sus comentarios!</string>
-  <string name="temperature_formatted_text" traducir="a currar">%s℃</string>
+  <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% de los datos mensuales)</string>
   <string name="text_button">Ok</string>
   <string name="text_lock_info">Dibuje un patrón de desbloqueo</string>
@@ -1733,7 +1669,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_consume_power">Se encontraron problemas con la batería</string>
   <string name="title_consume_power_rank">Uso de la batería</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
-  <string name="title_default_app" traducir="a currar">"MIUI %s isn't set as default"</string>
+  <string name="title_default_app">MIUI %s no esta establecido como por defecto</string>
   <string name="title_dev_no">Opciones de desarrollo activadas</string>
   <string name="title_dev_yes">Opciones de desarrollo desactivadas</string>
   <string name="title_find_device">Encontrar dispositivo</string>
@@ -1778,7 +1714,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="toast_add_virus_white_list_success">Añadido a excepciones. Ver los elementos ajustes de seguridad.</string>
   <string name="toast_auto_traffic_correct">El uso de datos se ajustara automáticamente</string>
   <string name="toast_cleaner_cloudscan">El limpiador usará definiciones en línea</string>
-  <string name="toast_default_app" traducir="a currar">"%1$s set as system's default %2$s"</string>
+  <string name="toast_default_app">%1$s establecida como %2$s por defecto del sistema</string>
   <string name="toast_flow_notification">Notificaciones de uso de datos activas</string>
   <string name="toast_garbage_lib">Actualizaciones automáticas para el Limpiador activadas</string>
   <string name="toast_lockscreen_glogin_empty_password">Contraseña requerida</string>
@@ -1845,7 +1781,6 @@ Los datos restantes incluyen datos transferidos desde
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancelar</string>
   <string name="traffic_setting_fragment_button2_text">Guardar</string>
-  <string name="traffic_setting_fragment_find_brand" traducir="a currar">"&lt;font color='#33b4ff'&gt;&lt;U&gt;不清楚品牌？&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">No se pudo conectar a la red. Compruebe su conexión de datos y vuelva a intentarlo.</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">No mostrar de nuevo</string>
   <string name="traffic_setting_fragment_loading_text">Obteniendo información de la red…</string>
@@ -1860,7 +1795,7 @@ Los datos restantes incluyen datos transferidos desde
   <string name="traffic_setting_fragment_title">Consulta del uso de datos</string>
   <string name="traffic_warning_purchase_title">Aviso de uso de datos móviles</string>
   <string name="try_recommended_function">Proteja su dispositivo con las nuevas funciones de seguridad</string>
-  <string name="txv_dnd_start_time" traducir="a currar">0:00</string>
+  <string name="txv_dnd_start_time">0:00</string>
   <string name="unable_connect_internet">Sin conexión a Internet</string>
   <string name="uninstall_app_dialog_msg">Desinstalar borrará todos los datos de la aplicación.</string>
   <string name="uninstall_app_dialog_title">¿Desinstalar ahora?</string>
