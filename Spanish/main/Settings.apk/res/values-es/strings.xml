@@ -4436,8 +4436,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="tts_status_title">Estado del idioma predeterminado</string>
   <string name="turn_off_common_password_confirm_msg">También se desactivará el bloqueo de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
-  <string name="turn_off_keyguard_password_confirm_msg">¿Desactivar la contraseña de la pantalla de bloqueo?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podrá desbloquear el dispositivo con su huella dactilar después de desactivar la contraseña de bloqueo de pantalla"</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Las funciones de protección del dispositivo no funcionarán sin el patrón.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podrá desbloquear el dispositivo con su huella digital después de desactivar la contraseña."</string>
   <string name="turn_off_radio">Desactivar señal móvil</string>
   <string name="turn_off_security_lock">Desactivar bloqueo</string>
   <string name="turn_on_keyguard_password">Activar la contraseña de la pantalla de bloqueo</string>
