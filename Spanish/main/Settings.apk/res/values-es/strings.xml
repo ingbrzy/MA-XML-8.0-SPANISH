@@ -211,6 +211,8 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="another_migration_already_in_progress">Hay otra migración en curso.</string>
   <string name="anr_record_interval_title">Grabar intervalos entre ANR</string>
   <string name="anti_spam">Lista de bloqueo</string>
+  <string name="aod_mode_summary">Mostrar siempre la hora, la fecha y los mensajes cuando la pantalla está apagada.</string>
+  <string name="aod_mode_title">Modo siempre encendido</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticación</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -1090,6 +1092,7 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
   <string name="current_use_ese_wallet">Está usando Mi Wallet. Le permite usar Mi Pay y tarjeta de transporte NFC.</string>
   <string name="current_use_hce_wallet">Está usando HCE Wallet</string>
   <string name="current_use_uicc_se">Usando elemento seguro en la SIM</string>
+  <string name="current_use_uicc_wallet">"Usted está utilizando SIM%1$s Wallet"</string> 
   <string name="daltonizer_mode_deuteranomaly">Deuteronomalía (rojo-verde)</string>
   <string name="daltonizer_mode_disabled">Inhabilitado</string>
   <string name="daltonizer_mode_monochromacy">Acromatopsia</string>
@@ -1299,6 +1302,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_name">Nombre de dispositivo</string>
   <string name="device_name_input_error">No se pudo guardar el nombre del dispositivo</string>
   <string name="device_name_input_hint">Introducir nombre</string>
+  <string name="device_name_input_overlength">Más allá del límite de palabras</string>
   <string name="device_name_usage_point">Otros dispositivos cercanos pueden ver este nombre.</string>
   <string name="device_picker">Seleccionar dispositivo Bluetooth</string>
   <string name="device_rear_camera">Cámara trasera</string>
@@ -1342,6 +1346,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="disable_service_title">¿Detener %1$s?</string>
   <string name="disable_text">Inhabilitar</string>
   <string name="disable_wifi_master_key_service">Apagar</string>
+  <string name="disable_wifi_master_key_service_first">Apagar</string>
   <string name="disabled">Inhabilitada</string>
   <string name="disabled_because_no_backup_security">Para usarlo, debes establecer una pantalla de bloqueo</string>
   <string name="disabled_by_admin">Desactivado por el administrador</string>
@@ -1539,6 +1544,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="enable_webview_multiprocess_desc">Ejecutar renderizadores de WebView separados</string>
   <string name="enable_wifi_display">Pantalla inalámbrica</string>
   <string name="enable_wifi_master_key_service">Activar la clave maestra Wi-Fi</string>
+  <string name="enable_wifi_master_key_service_first">Activar</string>
   <string name="enabled_by_admin">Activado por el administrador</string>
   <string name="enalbe_identify_iPhone">Identificación AP</string>
   <string name="encrypt_dont_require_password">No, gracias</string>
@@ -1678,7 +1684,7 @@ Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores l
   <string name="floating_window_switch_label">Activar ventanas flotantes</string>
   <string name="floating_window_switch_label_disable">Desactivar ventanas flotantes</string>
   <string name="fluency_mode">Animaciones del sistema</string>
-  <string name="fluency_mode_confirm_and_reboot">Reiniciar ahora</string>
+  <string name="fluency_mode_confirm_and_reboot">Reinicie ahora</string>
   <string name="font_size_exhuge">Extra enorme</string>
   <string name="font_size_huge">Enorme</string>
   <string name="font_size_large">Más grande</string>
@@ -1949,19 +1955,19 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keyguard_shortcut_summary">Establecer acceso directo para 2 aplicaciones en la pantalla de bloqueo</string>
   <string name="keyguard_shortcut_title">Accesos directos en la pantalla de bloqueo</string>
   <string name="keywords_accounts">cuenta</string>
-  <string name="keywords_airplane">飞行模式;FeiXing;Avión;Volar</string>
+  <string name="keywords_airplane">Avión;Modo de avión;Vuelo;Modo de vuelo</string>
   <string name="keywords_all_apps">aplicación, descargar, aplicaciones, sistema</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">aplicaciones, permisos, seguridad</string>
-  <string name="keywords_auto_rotate">方向;旋转;重力;FangXiang;XuanZhuan;ZhongLi;Dirección</string>
+  <string name="keywords_auto_rotate">La rotación;Girar la pantalla;Orientación;Orientación de la pantalla;Modo de retrato;Modo horizontal;Vertical;Horizontales</string>
   <string name="keywords_battery">carga, consumo, energía</string>
-  <string name="keywords_bluetooth">蓝牙;LanYa;开启蓝牙;KaiQILanYa;Bluetooth</string>
-  <string name="keywords_data">流量;数据;4G;3G;LiuLiang;ShuJu;Datos</string>
+  <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
+  <string name="keywords_data">4G;3G;Data;Datos móviles;Datos móviles;Tráfico;Internet móvil</string>
   <string name="keywords_color_mode">vibrante, RGB, sRGB, color, natural, estándar</string>
   <string name="keywords_color_temperature">color temperatura D65 D73 blanco amarillo azul cálido frío</string>
   <string name="keywords_date_and_time">reloj, militar</string>
   <string name="keywords_display">pantalla, táctil</string>
-  <string name="keywords_do_not_disturb">勿扰;睡眠;睡觉;WuRao;ShuiMian;ShuiJiao;Dormir;DNDM;Sin interferencias</string>
+  <string name="keywords_do_not_disturb">DND:Modo DND;No molestar;Dormir;Noche;Ocupado</string>
   <string name="keywords_display_auto_brightness">atenuar, pantalla, pantalla táctil, batería</string>
   <string name="keywords_display_brightness_level">atenuar, pantalla, pantalla táctil, batería</string>
   <string name="keywords_display_cast_screen">proyectar, enviar</string>
@@ -1970,7 +1976,9 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keywords_display_wallpaper">fondo, personalizar pantalla</string>
   <string name="keywords_emergency_app">aplicación, predeterminada, caso, emergencia</string>
   <string name="keywords_factory_data_reset">borrar, eliminar, restaurar, limpiar, quitar</string>
+  <string name="keywords_gps">GPS;Ubicación;Servicios de localización;Satélite</string>
   <string name="keywords_home">lanzador</string>
+  <string name="keywords_hotspot">Punto de acceso;Tether;Tethering;Punto de acceso personal;Zona Wi-Fi</string>
   <string name="keywords_ignore_optimizations">ignorar optimizaciones, doze, aplicación en espera</string>
   <string name="keywords_keyboard_and_ime">corrección texto, corregir, sonido, vibración automática, idioma, gesto, sugerencia, tema, palabra ofensiva, escribir, emoji, internacional</string>
   <string name="keywords_location">ubicación cercana, informes de ubicación</string>
@@ -1979,27 +1987,26 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="keywords_more_mobile_networks">celular, móvil, conexión inalámbrica, datos, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_name_display">Mostrar nombre del operador</string>
   <string name="keywords_network_reset">restablecer, datos, fábrica</string>
-  <string name="keywords_paper_mode">护眼;蓝光;阅读;HuYan;LanGuang;YueDu;Protección para los ojos</string>
+  <string name="keywords_paper_mode">Flujo;Leer;Modo de lectura;Luz azul;Proteger los ojos</string>
   <string name="keywords_printing">impresora</string>
-  <string name="keywords_quick_ball">悬浮球;XuanFuQiu;Pelota</string>
+  <string name="keywords_quick_ball">Asistente táctil;Atajo;Atajos;Toggles;Toggle</string>
   <string name="keywords_profile_challenge">desafío de trabajo, trabajo, perfil</string>
   <string name="keywords_reset_apps">restablecer, preferencias, predeterminadas</string>
-  <string name="keywords_silent">静音;JingYin;开会;KaiHui;Silencio</string>
+  <string name="keywords_silent">Silencio;Apagar el sonido</string>
   <string name="keywords_sounds">pitido del altavoz</string>
   <string name="keywords_sounds_and_notifications">sonido del altavoz</string>
   <string name="keywords_sounds_and_notifications_interruptions">no molestar, interrumpir, interrupción, descanso</string>
   <string name="keywords_spell_checker">ortografía, diccionarios, corrector ortográfico, corrección automática</string>
   <string name="keywords_storage">espacio, disco, disco duro, dispositivo, uso</string>
-  <string name="keywords_sync">同步;TongBu;Sincronizar</string>
+  <string name="keywords_sync">Sincronización;cloud</string>
   <string name="keywords_system_alert_window">sistema, alerta, ventana, cuadro de diálogo, escribir sobre otras aplicaciones</string>
   <string name="keywords_text_to_speech_output">valorar, idioma, habla predeterminada, hablar, síntesis de voz, accesibilidad, lector de pantalla, deficiencias visuales, ciego</string>
-  <string name="keywords_torch">手电;照明;闪光灯;ShouDian;ZhaoMing;ShanGuangDeng;Linterna;Antorcha</string>
   <string name="keywords_unification">perfil de trabajo, perfil gestionado, unificar, unificación, trabajo, perfil</string>
   <string name="keywords_users">restricción, restringir, restringido</string>
-  <string name="keywords_vibrate">振动;震动;ZhenDong;Vibración;Choque</string>
+  <string name="keywords_vibrate">Vibrar;Vibración</string>
   <string name="keywords_voice_input">herramienta de reconocimiento, entrada, voz, hablar, idioma, manos libres, reconocimiento, palabra ofensiva, historial de audio, auriculares bluetooth</string>
   <string name="keywords_vr_listener">vr, realidad virtual, estéreo</string>
-  <string name="keywords_wifi">wifi;wi-fi;无线;WuXian;开启WLAN;KaiQiWi-Fi;Wi-Fi</string>
+  <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WIFI;WiFi:WI-FI</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, llamada, llamar</string>
   <string name="keywords_write_settings">escribir, modificar, ajustes del sistema</string>
   <string name="label_global_roaming_settings">Ajustes de itinerancia</string>
@@ -2327,10 +2334,8 @@ Puede configurar un nuevo bloqueo de pantalla común para su dispositivo y su pe
 Has accedido a las cuentas que se indican a continuación:
 "</string>
   <string name="master_clear_all">¿Borrar todos los datos de la memoria interna de su teléfono? ¡Esta acción no podrá deshacerse!</string>
-  <string name="master_clear_apply_step_1">
-    <b>El restablecimiento de ajustes de fábrica borrará todos los datos en su teléfono</b>, incluyendo fotos, canciones, notas y otros datos personales. Asegúrese de pasar todos los datos importantes a su ordenador.</string>
-  <string name="master_clear_apply_step_2">Asegúrese de que todos los elementos importantes han sido copiados a su ordenador. Todos los datos de este dispositivo serán borrados durante el restablecimiento. <b>No podrá recuperar los elementos que no haya guardado.</b>
-  </string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Restablecer datos de fábrica&amp;#8221; borrará todos los datos en su teléfono&lt;/b&gt;, Incluyendo fotos, canciones, notas y otros datos personales. Asegúrese de realizar una copia de seguridad de todos los elementos importantes en su equipo.</string>
+  <string name="master_clear_apply_step_2">Asegúrese de que todos los elementos importantes están respaldados en su ordenador. Todos los datos sobre este dispositivo se borrarán durante el reinicio. &lt;b&gt;Usted no será capaz de restaurar los elementos que no ha respaldado.&lt;/b&gt;</string>
   <string name="master_clear_apply_title">Atención</string>
   <string name="master_clear_button_text">Restablecer teléfono</string>
   <string name="master_clear_confirm_title">¿Restablecer?</string>
@@ -2455,6 +2460,35 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="menu_stats_unplugged">%1$s desde que se desenchufó</string>
   <string name="menu_use_uss">Usar USS</string>
   <string name="mi_shopping_mall">Mi Tienda</string>
+  <string name="miracast_PC2THOR_streaming_on">Miracast no está disponible porque un PC está transmitiendo a este dispositivo</string>
+  <string name="miracast_cancelconnect_dialog">Cancelar conexión</string>
+  <string name="miracast_connection_failed_generic">"No se puede conectar a la pantalla"</string>
+  <string name="miracast_dialog_title">%1$s</string>
+  <string name="miracast_disable_dhcp">Deshabilitar HDCP</string>
+  <string name="miracast_display_category">Pantallas</string>
+  <string name="miracast_enable_dhcp">Habilitar HDCP</string>
+  <string name="miracast_error_already_streaming">Ya se está transmitiendo a otra pantalla</string>
+  <string name="miracast_error_cancelconnect">La conexión está ocupada</string>
+  <string name="miracast_error_connection_in_progress">Conectando…</string>
+  <string name="miracast_menu_connect">Iniciar transmisión</string>
+  <string name="miracast_menu_disconnect">Detener la transmisión</string>
+  <string name="miracast_menu_forget">Olvidar la pantalla</string>
+  <string name="miracast_menu_rename">Cambiar el nombre de la pantalla</string>
+  <string name="miracast_menu_search">Buscar</string>
+  <string name="miracast_menu_searching">Buscando</string>
+  <string name="miracast_menu_teardown">Demoler</string>
+  <string name="miracast_nickname">Introduzca un nombre nuevo:</string>
+  <string name="miracast_no_sinks_found">No hay pantallas disponibles</string>
+  <string name="miracast_search_for_displays">Búsqueda de pantallas inalámbricas…</string>
+  <string name="miracast_settings_category">Configuración de la pantalla Wi-Fi</string>
+  <string name="miracast_setup_cancel">Cancelar</string>
+  <string name="miracast_setup_save">Guardar</string>
+  <string name="miracast_sink_busy">Ocupado</string>
+  <string name="miracast_sink_connected">Conectado</string>
+  <string name="miracast_sink_connecting">Conectando…</string>
+  <string name="miracast_sink_not_available">No disponible</string>
+  <string name="miracast_sink_ready_to_connect">Listo para conectarse</string>
+  <string name="miracast_wifi_off">Para usar Miracast, activ el Wi-Fi</string>
   <string name="misc_files">Archivos variados</string>
   <string name="misc_files_selected_count">Has seleccionado %1$d de %2$d.</string>
   <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
@@ -2531,7 +2565,7 @@ Seleccione su sistema operativo:"</string>
   <string name="music_dirac_mode_general_inear">Normales In-Ear</string>
   <string name="music_dirac_mode_headset">Auriculares Mi</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Auriculares (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac desactivado</string>
   <string name="music_dirac_mode_piston">Mi Piston 0</string>
@@ -2575,6 +2609,7 @@ Seleccione su sistema operativo:"</string>
   <string name="mvno_match_data">Valor de OMV</string>
   <string name="mvno_type">Tipo de OMV</string>
   <string name="my_device">Mi dispositivo</string>
+  <string name="my_device_disclaimer">Nota: La información sobre el hardware, incluida la CPU, la capacidad de la batería, el tamaño, la resolución de la pantalla y la cámara, es proporcionada por los laboratorios, diseñadores y proveedores de Xiaomi.</string>
   <string name="n_cacrts">%d certificados de Autoridades de Certificación</string>
   <string name="nearby_wifi">Redes disponibles</string>
   <string name="need_reboot_now">Reinicie para instalar la actualización.</string>
@@ -2622,7 +2657,7 @@ Seleccione su sistema operativo:"</string>
   <string name="nfc_payment_set_default_instead_of">¿Siempre use %1$s en lugar de %2$s cuando toque y pagues?</string>
   <string name="nfc_payment_set_default_label">¿Establecer como su preferencia?</string>
   <string name="nfc_payment_settings_title">Tocar y pagar</string>
-  <string name="nfc_payment_use_default">Usar predeterminado</string>
+  <string name="nfc_payment_use_default">Uso predeterminado</string>
   <string name="nfc_quick_toggle_summary">Permitir el intercambio de datos cuando el teléfono toque otro dispositivo</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Posición de elemento seguro</string>
@@ -3302,7 +3337,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">No se han solicitado permisos</string>
   <string name="save">Guardar</string>
   <string name="saved_network">Guardadas por %1$s</string>
-  <string name="saved_wifi">Administrador de red guardada</string>
+  <string name="saved_wifi">Administrar redes guardadas</string>
   <string name="saved_wifi_delete">Borrar</string>
   <string name="scan_list_label">Resultados del escaneo:</string>
   <string name="screen">Pantalla</string>
@@ -3327,7 +3362,7 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="screen_monochrome_mode_apps_title">Usar el modo Monocromo</string>
   <string name="screen_monochrome_mode_global_summary">Usar el modo Monocromo para todas las aplicaciones</string>
   <string name="screen_monochrome_mode_global_title">Todas las aplicaciones</string>
-  <string name="screen_monochrome_mode_local_summary">Utilice el modo Monocromo para las aplicaciones que seleccione</string>
+  <string name="screen_monochrome_mode_local_summary">Utilice el modo Monocromo para las aplicaciones seleccionadas</string>
   <string name="screen_monochrome_mode_local_title">Aplicaciones seleccionadas</string>
   <string name="screen_monochrome_mode_off_apps_title">"No utilice el modo Monocromo"</string>
   <string name="screen_monochrome_mode_set_apps_title">Aplicaciones en modo monocromo</string>
@@ -3404,6 +3439,7 @@ Para ello:
   <string name="screen_zoom_short_summary">Hacer elementos en pantalla más grandes o más pequeños</string>
   <string name="screen_zoom_summary">Hacer elementos en pantalla más grandes o más pequeños. Algunas aplicaciones en la pantalla pueden cambiar de posición.</string>
   <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
+  <string name="screen_zoom_summary_default">Predeterminado</string>
   <string name="screen_zoom_summary_extremely_large">Máximo</string>
   <string name="screen_zoom_summary_large">Grande</string>
   <string name="screen_zoom_summary_small">Pequeño</string>
@@ -3451,6 +3487,7 @@ Para ello:
   <string name="se_route_uicc">Elemento seguro en la SIM</string>
   <string name="se_wallet_ese">Mi Pay y tarjeta de transporte NFC</string>
   <string name="se_wallet_hce">Usar cartera HCE</string>
+  <string name="se_wallet_uicc">Utilizar SIM%1$s Wallet</string> 
   <string name="search_about_settings">Acerca del teléfono;Número de modelo;Versión de Android;Versión de MIUI;CPU;RAM;Memoria interna;Versión de la banda base;Versión del Kernel;Número de compilación</string>
   <string name="search_accelerometer_title">Autorrotar pantalla;Rotar pantalla;Orientación;Retrato;Paisaje</string>
   <string name="search_access_control">Ajustes de Privacidad;Seguridad de Privacidad;Invitado;Modo invitado</string>
@@ -4399,8 +4436,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="tts_status_title">Estado del idioma predeterminado</string>
   <string name="turn_off_common_password_confirm_msg">También se desactivará el bloqueo de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
-  <string name="turn_off_keyguard_password_confirm_msg">¿Desactivar la contraseña de la pantalla de bloqueo?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podrá desbloquear el dispositivo con su huella dactilar después de desactivar la contraseña de bloqueo de pantalla"</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Las funciones de protección del dispositivo no funcionarán sin el patrón.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podrá desbloquear el dispositivo con su huella digital después de desactivar la contraseña."</string>
   <string name="turn_off_radio">Desactivar señal móvil</string>
   <string name="turn_off_security_lock">Desactivar bloqueo</string>
   <string name="turn_on_keyguard_password">Activar la contraseña de la pantalla de bloqueo</string>
@@ -4820,6 +4857,8 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="vpn_save_login">Guardar información de la cuenta</string>
   <string name="vpn_search_domains">Dominios de búsqueda de DNS</string>
   <string name="vpn_server">Dirección del servidor</string>
+  <string name="vpn_set_screen_lock_content">Establecer una contraseña de pantalla de bloqueo para guardar los ajustes de VPN</string>
+  <string name="vpn_set_screen_lock_title">Establecer la contraseña de la pantalla de bloqueo</string>
   <string name="vpn_settings_not_available">Los ajustes de VPN no están disponibles para este usuario</string>
   <string name="vpn_settings_password">Contraseña de la VPN</string>
   <string name="vpn_settings_summary">Proteger ajustes de VPN con la contraseña de su Pantalla de bloqueo</string>
@@ -4990,7 +5029,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_empty_list_wifi_off">Para ver redes disponibles, active la conexión Wi-Fi</string>
   <string name="wifi_empty_list_wifi_on">Buscando redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Cambiar entre datos y Wi-Fi</string>
+  <string name="wifi_enable_data_and_wifi_roam">Asistente de Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Mantener datos y Wi-Fi activados, para cambiar a datos cuando la conexión a Wi-Fi sea deficiente.</string>
   <string name="wifi_enable_hs2_title">Passpoint Activado</string>
   <string name="wifi_enable_watchdog_service_summary">Omitir conexiones deficientes</string>
@@ -5026,7 +5065,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_master_key_dialog_content_password">Contraseña</string>
   <string name="wifi_master_key_dialog_title">Conectarse usando</string>
   <string name="wifi_master_key_name">Llave maestra Wi-Fi</string>
-  <string name="wifi_master_key_service_dialog_content">"Llave maestra Wi-Fi es un servicio gratuito que proporciona contraseñas para redes Wi-Fi compartidas. Llave maestra Wi-Fi no compartirá la contraseña de su red."</string>
+  <string name="wifi_master_key_service_dialog_content">"Llave maestra Wi-Fi es un servicio gratuito que proporciona contraseñas para redes Wi-Fi compartidas. Llave maestra Wi-Fi no compartirá la contraseña de su red. También puede %1$s."</string>
   <string name="wifi_master_key_service_dialog_title">Redes Wi-Fi compartidas</string>
   <string name="wifi_menu_advanced">Ajustes avanzados</string>
   <string name="wifi_menu_configure">Configurar</string>

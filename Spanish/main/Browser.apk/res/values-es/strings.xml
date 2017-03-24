@@ -316,7 +316,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="geolocation_permissions_prompt_message">%s quiere saber su ubicación</string>
   <string name="geolocation_permissions_prompt_remember">Recordar preferencia</string>
   <string name="geolocation_permissions_prompt_share">Compartir ubicación</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Este sitio puede acceder a su ubicación. Cambia este en las configuraciones &gt; Avanzado &gt; pantalla de datos del sitio.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Este sitio puede acceder a su ubicación. Puede cambiar esto en Ajustes.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Este sitio no puede acceder a su ubicación</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancelar</string>
   <string name="geolocation_settings_page_dialog_message">¿Borrar el acceso a la ubicación para este sitio?</string>
@@ -330,7 +330,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Puesto en la pantalla de inicio</string>
   <string name="hint">Pista</string>
-  <string name="history_saved_webpage">Guardar página</string>
+  <string name="history_saved_webpage">Páginas guardadas</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Borrar</string>
   <string name="homepage_get_location">Obtener localización</string>
@@ -529,7 +529,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_extras_title_version">Versión</string>
   <string name="pref_file_download_save_title">Descargas</string>
   <string name="pref_fling_on_border">Deslizar desde el borde</string>
-  <string name="pref_fling_on_border_title_summary">Deslizar desde el borde izquierdo o derecho de la pantalla</string>
+  <string name="pref_fling_on_border_title_summary">Deslizar desde el borde izquierdo o derecho</string>
   <string name="pref_font_size_category">Tamaño de letra</string>
   <string name="pref_force_userscalable">Forzar zoom</string>
   <string name="pref_force_userscalable_summary">"Anular la solicitud del sitio para controlar el comportamiento del zoom"</string>

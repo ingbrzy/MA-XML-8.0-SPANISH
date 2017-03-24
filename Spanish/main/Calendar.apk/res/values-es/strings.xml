@@ -116,6 +116,7 @@
   <string name="date_pattern_mm_dd">ddíaMMes</string>
   <string name="day_view">Día</string>
   <string name="day_view_new_event_hint">Nuevo evento</string>
+  <string name="default_reminder_mode">Recordatorios</string>
   <string name="delete_calendar">Anular suscripción</string>
   <string name="delete_recurring_event_title">¿Eliminar %s?</string>
   <string name="delete_this_event_title">¿Eliminar este evento?</string>
@@ -155,9 +156,9 @@
   <string name="edit_event_label">Detalles</string>
   <string name="edit_event_reminder_3_days_before">Recordármelo con 3 días de antelación</string>
   <string name="edit_event_reminder_summary">En ese día a las %1$s</string>
-  <string name="edit_event_reminder_summary_3_days_before">3 días de antelación, y en ese día a las %1$s</string>
+  <string name="edit_event_reminder_summary_3_days_before">Con 3 días de antelación, y ese día a las %1$s</string>
   <string name="edit_event_reminder_text">En %1$s a %2$s</string>
-  <string name="edit_event_reminder_time">Tiempo de recordatorio</string>
+  <string name="edit_event_reminder_time">Hora de recordatorio</string>
   <string name="edit_event_reminder_with_another_day_text">En %1$s, %2$s a %3$s</string>
   <string name="edit_event_show_all">Mostrar todo</string>
   <string name="edit_event_tab_anniversary">Aniversario</string>
@@ -280,7 +281,7 @@
   <string name="path_calendar">Aplicaciones del sistema/Calendario/Ajustes</string>
   <string name="pengzu">pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
-  <string name="pref_error_no_ringtone_select">Tono de llamada por defecto</string>
+  <string name="pref_error_no_ringtone_select">Tono de llamada predeterminado</string>
   <string name="pref_reminder_time">Tiempo de recordatorio</string>
   <string name="pref_title_alarm_remind">Recordatorio de alarma</string>
   <string name="pref_title_no_remind">Ningún recordatorio</string>
@@ -289,9 +290,9 @@
   <string name="preferences_alerts_ringtone_title">Sonido</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
   <string name="preferences_alerts_vibrate_title">Vibración y tonos</string>
-  <string name="preferences_default_allday_reminder_title">Hora predeterminada de recordatorio para todo el día</string>
-  <string name="preferences_default_reminder_dialog">Hora predeterminada de recordatorio</string>
-  <string name="preferences_default_reminder_title">Hora predeterminada de recordatorio</string>
+  <string name="preferences_default_allday_reminder_title">Tiempo de recordatorio de todo el día predeterminado</string>
+  <string name="preferences_default_reminder_dialog">Tiempo de recordatorio predeterminado</string>
+  <string name="preferences_default_reminder_title">Tiempo de recordatorio predeterminado</string>
   <string name="preferences_build_version">Versión</string>
   <string name="preferences_home_tz_title">Zona horaria propia</string>
   <string name="preferences_import_credit_repayment">Pagos con tarjeta de crédito</string>

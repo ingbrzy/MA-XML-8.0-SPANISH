@@ -95,7 +95,7 @@
         <item>A velocidad máxima</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrante (por defecto)</item>
+        <item>Vibrante (predeterminado)</item>
         <item>Natural</item>
         <item>Estándar</item>
     </string-array>
@@ -110,7 +110,7 @@
     </string-array>
     <string-array name="entries_font_size">
         <item>Pequeña</item>
-        <item>Por defecto</item>
+        <item>Predeterminado</item>
         <item>Grande</item>
         <item>Muy grande</item>
     </string-array>
@@ -152,6 +152,18 @@
         <item>5 minutos</item>
         <item>10 minutos</item>
         <item>30 minutos</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Ocultar animaciones del sistema</item>
+        <item>Mostrar animaciones del sistema</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Acelera el rendimiento del dispositivo"</item>
+        <item>"Puede ralentizar el rendimiento del dispositivo"</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>¿Reiniciar el dispositivo para aplicar estos ajustes?</item>
+        <item>¿Reiniciar el dispositivo para aplicar estos ajustes?</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Muy bajo</item>
@@ -501,6 +513,7 @@
     <string-array name="edge_touch_volume_action">
         <item>Haga clic en ajustar - Doble clic en el disparador</item>
         <item>Ajuste deslizante - Disparador deslizante</item>
+        <item>Haga clic en ajustar - Haga clic en el disparador</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normal</item>
@@ -548,7 +561,7 @@
         <item>Suave</item>
     </string-array>
     <string-array name="ap_identify">
-        <item>por defecto</item>
+        <item>predeterminado</item>
         <item>iPhone</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
@@ -761,18 +774,7 @@
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>15 minutos</item>
-    </string-array>
-    <string-array name="fluency_mode_entries">
-        <item>Ocultar animaciones del sistema</item>
-        <item>Mostrar animaciones del sistema</item>
-    </string-array>
-    <string-array name="fluency_mode_summaries">
-        <item>"Acelera el rendimiento del dispositivo"</item>
-        <item>"Puede ralentizar el rendimiento del dispositivo"</item>
-    </string-array>
-    <string-array name="fluency_mode_confirms">
-        <item>¿Reiniciar el dispositivo para aplicar este ajuste?</item>
-        <item>¿Reiniciar el dispositivo para aplicar este ajuste?</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultra alta (2K)</item>
@@ -821,5 +823,10 @@
         <item>2</item>
         <item>1</item>
         <item>Ilimitado</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Menor retraso</item>
+        <item>Estandard</item>
+        <item>Mejor Calidad</item>
     </string-array>
 </resources>

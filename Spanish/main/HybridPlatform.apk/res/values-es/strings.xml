@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Volver al inicio</string>
+  <string name="abc_action_bar_up_description">Subir un nivel</string>
+  <string name="abc_action_menu_overflow_description">Mas opciones</string>
+  <string name="abc_action_mode_done">Terminado</string>
+  <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+  <string name="abc_activitychooserview_choose_application">Elija una aplicación</string>
+  <string name="abc_capital_off">APAGADO</string>
+  <string name="abc_capital_on">ENCENDIDO</string>
+  <string name="abc_search_hint">Buscar…</string>
+  <string name="abc_searchview_description_clear">Limpiar busqueda</string>
+  <string name="abc_searchview_description_query">Buscar consulta</string>
+  <string name="abc_searchview_description_search">Buscar</string>
+  <string name="abc_searchview_description_submit">Lanzar consulta</string>
+  <string name="abc_searchview_description_voice">Busqueda por voz</string>
+  <string name="abc_shareactionprovider_share_with">Compartir con</string>
+  <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+  <string name="abc_toolbar_collapse_description">Encoger</string>
+  <string name="app_name">hibrido</string>
+  <string name="dlg_shortcut_cancel">No</string>
+  <string name="dlg_shortcut_message">Desea crear un acceso directo para %1$s?</string>
+  <string name="dlg_shortcut_ok">Si</string>
+  <string name="dlg_shortcut_silent">"No recordar de nuevo"</string>
+  <string name="dlg_shortcut_title">Crear acceso directo</string>
+  <string name="fail_message">No puede descargar la aplicación, compruebe el estado de la red</string>
+  <string name="js_exception_button_continue">Continuar</string>
+  <string name="js_exception_button_quit">Quitar</string>
+  <string name="js_exception_title">JS Excepción</string>
+  <string name="loading_message">La aplicación se está cargando</string>
+  <string name="loading_slogan">No instalar | Menos uso de datos | Servicio Directo</string>
+  <string name="permission_dialog_allow">PERMITIR</string>
+  <string name="permission_dialog_block">BLOQUEAR</string>
+  <string name="permission_dialog_message">%1$s quiere a %2$s.</string>
+  <string name="permission_location_desc">"usar la localización de tu dispositivo"</string>
+  <string name="permission_record_audio_desc">grabar audio</string>
+  <string name="pick_name">Elegir</string>
+  <string name="search_menu_title">Buscar</string>
+  <string name="title_activity_main">ActividadPrincipal</string>
+  <string name="webview_loading">Cargando…</string>
+</resources>

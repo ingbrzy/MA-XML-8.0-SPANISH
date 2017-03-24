@@ -139,7 +139,7 @@
   <string name="account_setup_options_mail_window_3days">Últimos tres días</string>
   <string name="account_setup_options_mail_window_all">Todo</string>
   <string name="account_setup_options_mail_window_auto">Automático</string>
-  <string name="account_setup_options_mail_window_default">Usar cuenta por defecto</string>
+  <string name="account_setup_options_mail_window_default">Usar cuenta predeterminada</string>
   <string name="account_setup_options_mail_window_label">Sincronizar email de</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Guardar durante</string>
   <string name="account_setup_options_title">Configuración de la cuenta</string>
@@ -341,11 +341,11 @@
   <string name="date_heading">"Fecha: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoy, %1$s</string>
-  <string name="default_">POR DEFECTO</string>
+  <string name="default_">PREDETERMINADA</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
-  <string name="default_setup">AJUSTES POR DEFECTO</string>
+  <string name="default_setup">AJUSTES PREDETERMINADOS</string>
   <string name="default_signature">Enviar desde Mi telefono</string>
   <string name="del_account_questionnair_hint">¿Podría decirnos por qué está eliminando esta cuenta?</string>
   <string name="delete">Eliminar</string>

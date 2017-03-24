@@ -39,10 +39,10 @@
   <string name="fm_record_smaple_prefix_miui">Grabación FM</string>
   <string name="force_exit_message">Cierre forzado %1$s</string>
   <string name="force_exit_skip_message">No se puede cerrar %1$s porque lo requiere el sistema.</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Puede volver al escritorio tocando suavemente el botón de Inicio. Vaya a Ajustes &gt; Ajustes adicionales &gt; Botones y active Pulse para acceder al escritorio.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Puede volver a la pantalla de inicio tocando ligeramente el botón Inicio. Puede activar esta función y desactivar en Ajustes &gt; Ajustes adicionales &gt; Botones &gt; Toque el botón Inicio para volver a la pantalla de inicio.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ahora no</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ir a Ajustes</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Toque rápidamente en la pantalla de inicio</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activar</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Activar el toque rápido</string>
   <string name="frequent_phrases">Frases frecuentes</string>
   <string name="global_actions_airplane_mode">Modo avión</string>
   <string name="global_actions_reboot">Reiniciar</string>
@@ -70,7 +70,8 @@
   <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
   <string name="maml_component_customization_title">Ajustes</string>
   <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
-  <string name="memory_clear_result">%1$s eliminado | %2$s disponible</string>
+  <string name="memory_clear_result">%1$sB eliminado | %2$sB disponible</string>
+  <string name="miui_upgrading_notification_title">Actualización del sistema, algunas características pueden estar limitadas</string>
   <string name="package_delete_confirm_step_1">¿Eliminar %s?</string>
   <string name="package_delete_confirm_step_2">Al eliminar esta aplicación, el sistema puede volverse inestable.</string>
   <string name="package_delete_confirm_step_3">"No podrás abrir esta aplicación después de eliminarla."</string>
@@ -81,7 +82,7 @@
   <string name="permlab_manageLocationPolicy">Acceso a ubicación</string>
   <string name="reboot_confirm_title">¿Reiniciar el dispositivo ahora?</string>
   <string name="reboot_info_auto_boot">El dispositivo está programado para encenderse a las %s</string>
-  <string name="reboot_info_shutdown_alarm">La alarma sonará: %s</string>
+  <string name="reboot_info_shutdown_alarm">Siguiente alarma: %s</string>
   <string name="reboot_progress">Reinicializando…</string>
   <string name="replace">Reemplazar</string>
   <string name="resource_select">Seleccionar</string>

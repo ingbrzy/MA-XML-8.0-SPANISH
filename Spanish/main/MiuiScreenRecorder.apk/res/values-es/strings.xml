@@ -4,7 +4,7 @@
   <string name="app_name">Grabación de Pantalla</string>
   <string name="app_notification_title">Grabando Pantalla</string>
   <string name="auto_stop_title">Video guardado con éxito</string>
-  <string name="battery_not_allowed">"No se puede grabar cuando la batería está por debajo del 3%%. Asegúrese de que la batería esté al menos 20%% cargada".</string>
+  <string name="battery_not_allowed" formatted="false">"No se puede grabar cuando la batería está por debajo del 3%. Asegúrese de que la batería esté al menos 20% cargada".</string>
   <string name="bit_rate">Calidad de video</string>
   <string name="bit_rate_summary">Mas calidad implica mas tamaño</string>
   <string name="bubble_text">Toque para empezar a grabar</string>
@@ -14,9 +14,7 @@
   <string name="button_goon_recorder">Continuar</string>
   <string name="cancel_edit">Cancelar</string>
   <string name="cannot_change_parames">"No se pudieron cambiar los parámetros durante la grabación"</string>
-  <string name="delete_confirm_text">¿Borrar esta grabación de pantalla?</string>
-  <string name="delete_confirm_text_multi1">Borrar</string>
-  <string name="delete_confirm_text_multi2">¿Grabación de pantalla?</string>
+  <string name="cannot_record">"No se pudo grabar. Vuelve a intentarlo más tarde."</string>
   <string name="deselect_all">Deseleccionar todo</string>
   <string name="error_open_file_failed_no_app_found">"No se pudo encontrar una aplicacación con que abrir este fichero"</string>
   <string name="frames">Fotogramas por segundo</string>
@@ -39,7 +37,7 @@
   <string name="memory_not_allowed">No hay almacenamiento disponible. Libere un poco de almacenamiento para grabar.</string>
   <string name="mic_sound">Micrófono</string>
   <string name="no_recorder_info">Sin videos</string>
-  <string name="no_recorder_info2">Toque en el + para agregar una grabación de pantalla.</string>
+  <string name="no_recorder_info2">Toque el botón para agregar una grabación de pantalla</string>
   <string name="no_sound">Mute</string>
   <string name="operation_delete">Borrar</string>
   <string name="operation_send">Enviar</string>
@@ -58,7 +56,7 @@
   <string name="sound_source">Origen del sonido</string>
   <string name="sound_source_summary">Sonidos del sistema o micrófono</string>
   <string name="start">Comenzar</string>
-  <string name="stop_by_second_space">Cambiar de usuario parará la grabación en pantalla</string>
+  <string name="stop_by_second_space">Cambiar espacios detendrá la grabación</string>
   <string name="stop_record_while_locking">Bloquea la pantalla para finalizar</string>
   <string name="stop_record_while_locking_summary">Parar la grabación y guardar el video cuando la pantalla esté bloqueada</string>
   <string name="timer_format">%s</string>

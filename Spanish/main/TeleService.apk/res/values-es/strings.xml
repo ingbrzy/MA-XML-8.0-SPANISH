@@ -87,7 +87,8 @@
   <string name="badPin2">Antiguo PIN2 incorrecto. Inténtelo de nuevo.</string>
   <string name="badPuk2">PUK2 incorrecto. Inténtelo de nuevo.</string>
   <string name="bad_pin">El PIN introducido es incorrecto.</string>
-  <string name="bad_pin2">El antiguo PIN2 introducido es incorrecto.</string>
+  <string name="bad_pin2">El PIN2 que ingresó es incorrecto.</string>
+  <string name="bad_pin2_old">El antiguo PIN2 introducido es incorrecto.</string> 
   <string name="bad_puk">El PUK introducido es incorrecto.</string>
   <string name="bad_puk2">El PUK2 introducido es incorrecto.</string>
   <string name="bf_news_settings">Noticias financieras y comerciales</string>
@@ -170,7 +171,7 @@
   <string name="callind_multi_sim">Ajustes SUBS</string>
   <string name="calling_via_template">Llamando vía %s</string>
   <string name="callwait_open_hint">La función de llamada en espera la facilita su operador. Si recibe un aviso de error, contacte con su operador para asegurarse de que admita esta función.</string>
-  <string name="can_not_use_for_not_data_sim">(No se puede utilizar: Se debe establecer como datos SIM por defecto)</string>
+  <string name="can_not_use_for_not_data_sim">(No se puede utilizar: Se debe establecer como datos SIM predeterminado)</string>
   <string name="cancel">Cancelar</string>
   <string name="card_title_MOcall_forwarding">Llamada saliente desviada</string>
   <string name="card_title_MTcall_forwarding">La llamada entrante está desviada</string>
@@ -205,7 +206,7 @@
   <string name="cb_sms_settings">Configuración de SMS de difusión móvil</string>
   <string name="cdma_activate_device">Activar dispositivo</string>
   <string name="cdma_alert_message">Si seleccionas otra tarjeta como predeterminada para los datos móviles, no podrás utilizar tu tarjeta de China Telecom UIM (excepto en roaming).</string>
-  <string name="cdma_alert_title">Tarjeta UIM debe estar por defecto</string>
+  <string name="cdma_alert_title">Tarjeta UIM debe estar predeterminada</string>
   <string name="cdma_display_precise_call_state_message">Si su proveedor de red no admite esta función, el estado de la llamada puede ser inexacto.</string>
   <string name="cdma_display_precise_call_state_summary">Confirme que su proveedor de red admite esta función</string>
   <string name="cdma_display_precise_call_state_title">Mostrar estado de llamada</string>
@@ -1073,10 +1074,10 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="sip_menu_add">Añadir</string>
   <string name="sip_menu_discard">Descartar</string>
   <string name="sip_menu_save">Guardar</string>
-  <string name="sip_profile_create_error">no se puede crear un nuevo perfil SIP</string>
+  <string name="sip_profile_create_error">"No se pudo crear un nuevo perfil SIP"</string>
   <string name="sip_receive_calls">Recibir llamadas entrantes</string>
   <string name="sip_receive_calls_summary">Reduce la duración de la batería</string>
-  <string name="sip_save_register_error">no se puede guardar y registrar un nuevo perfil SIP</string>
+  <string name="sip_save_register_error">"No se pudo registrar y guardar un nuevo perfil SIP"</string>
   <string name="sip_settings">Llamada por Internet</string>
   <string name="sip_system_decide">Automática</string>
   <string name="sp_unlock_failed">Solicitud de desbloqueo del proveedor de servicios SIM no realizada.</string>

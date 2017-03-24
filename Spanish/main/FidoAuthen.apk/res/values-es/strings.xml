@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Ajustes</string>
+  <string name="app_name">asmsdk</string>
+  <string name="cancel">Cancelar</string>
+  <string name="click_to_authorize">Autorizar</string>
+  <string name="finger_image">Imagen del dedo</string>
+  <string name="fingerprint_matched">¡No Coinciden!</string>
+  <string name="fingerprint_mismatched">¡No Coinciden! Por favor, vuelva a intentarlo.</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="manage_hint">"¡Ninguna huella registrada!
+Por favor, vaya a Ajustes para registrar su huella digital y vuelva a registrarse."</string>
+  <string name="manage_ok">Ir a Ajustes</string>
+  <string name="my_app_name">FIDO UAF1.0 ASM</string>
+  <string name="my_description">"Puede configurar FIDO UAF1.0 AUTHENTICATOR en su dispositivo Android para iniciar sesión en la app. Es seguro y más conveniente que iniciar sesión con tu nombre de usuario y contraseña."</string>
+  <string name="my_title_ecdsa">FIDO UAF1.0 AUTHENTICATOR (ECDSA)</string>
+  <string name="my_title_sm2">FIDO UAF1.0 AUTHENTICATOR (SM2)</string>
+  <string name="select_user_title">Seleccionar Usuario</string>
+  <string name="timeout">Se acabó el tiempo</string>
+  <string name="title_activity_main">MainActivity</string>
+  <string name="toomanyattempts">"¡Lo ha intentado muchas veces!
+Por favor, inténtelo de nuevo más tarde."</string>
+  <string name="touch_finger_hint">Por favor, apoye tu dedo</string>
+  <string name="transaction_confirmation">Confirmación de la transacción</string>
+  <string name="unknown_error">!Error desconocido!</string>
+</resources>

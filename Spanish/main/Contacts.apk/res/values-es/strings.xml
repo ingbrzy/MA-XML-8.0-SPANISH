@@ -2,6 +2,7 @@
 <resources>
   <string name="accessibility_calllog_detail">Detalles de registro la llamada</string>
   <string name="account_container_title">Importado de</string>
+  <string name="account_default">Teléfono</string>
   <string name="account_phone">Sólo teléfono, desincronizado</string>
   <string name="account_sim">Tarjeta SIM</string>
   <string name="account_sim2">Tarjeta SIM %d</string>
@@ -56,7 +57,7 @@
   <string name="callAgain">Llamar de nuevo</string>
   <string name="callBack">Devolver la llamada</string>
   <string name="callDetailTitle">Detalles de la llamada</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s min %s seg</string>
+  <string formatted="false" name="callDetailsDurationFormat">%s min %s seg</string>
   <string name="callShortcutActivityTitle">Elija un número para llamar</string>
   <string name="call_assistant">Llamar %s</string>
   <string name="call_callback">Devolución de llamada</string>
@@ -88,6 +89,7 @@
   <string name="call_settings">Ajustes</string>
   <string name="call_sim1_menu_title">Marcar en SIM 1</string>
   <string name="call_sim2_menu_title">Marcar en SIM 2</string>
+  <string name="call_sim_menu_title_suffix">(Primario)</string>
   <string name="call_telex">Llamada télex</string>
   <string name="call_tty_tdd">Llamada TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
@@ -124,6 +126,7 @@
   <string name="callrecordview_menu_edit_call_note">Editar nota de llamada</string>
   <string name="callrecordview_menu_ip">IP de marcación automática</string>
   <string name="callrecordview_menu_livetalk">Paquete de recarga</string>
+  <string name="callrecordview_menu_misim">Mi SIM</string>
   <string name="callrecordview_menu_mobiledata">Datos de compra</string>
   <string name="callrecordview_menu_paste">Pegar</string>
   <string name="callrecordview_menu_recharge">Completar</string>
@@ -164,6 +167,7 @@
   <string name="clearFrequentsConfirmation_title">¿Borrar la lista de contactos frecuentes?</string>
   <string name="clearFrequentsProgress_title">Borrando contactos frecuentes…</string>
   <string name="clear_copy_number_description">Borrado número copiado</string>
+  <string name="clear_default">Borrar predeterminado</string>
   <string name="clear_digits">Borrar numero telefónico</string>
   <string name="click_close">Tocar para cerrar</string>
   <string name="clip_dialog_title">¿Marcar número copiado?</string>
@@ -273,7 +277,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="date_picker_label">Recuérdame 3 días antes y otra vez en el día de</string>
   <string name="date_time_set">Fijar</string>
   <string name="date_year_toggle">Proporcionar un año</string>
-  <string name="default_ringtone">Tono de llamada por defecto</string>
+  <string name="default_ringtone">Tono de llamada predeterminada</string>
   <string name="deleteConfirmation">Este contacto se eliminará.</string>
   <string name="deleteConfirmationDetail">¿Eliminar \"%s\"?</string>
   <string name="deleteConfirmation_title">¿Eliminar este contacto?</string>
@@ -445,13 +449,13 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="exporting_contact_failed_message">Error al exportar datos del contacto. Motivo: \"%s\"</string>
   <string name="exporting_contact_failed_title">No se puede exportar</string>
   <string name="exporting_contact_list_message">Exportando a %s.</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
+  <string formatted="false" name="exporting_contact_list_progress">%s de %s contactos</string>
   <string name="exporting_contact_list_title">Exportar datos de contacto</string>
   <string name="exporting_vcard_canceled_title">Exportación de %s cancelado.</string>
   <string name="exporting_vcard_finished_title">Exportación %s terminada.</string>
   <string name="external_profile_title">Mi perfil de %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">No se puede comenzar el exportador: \"%s\".</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">No pudo abrir \"%s\": %s.</string>
+  <string formatted="false" name="fail_reason_could_not_open_file">No pudo abrir \"%s\": %s.</string>
   <string name="fail_reason_error_occurred_during_export">Se ha producido un error durante la exportación: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">No pudo recoger información meta de los archivos vCard.</string>
   <string name="fail_reason_failed_to_read_files">Uno o más archivos no pudieron ser importados (%s).</string>
@@ -1000,6 +1004,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="preference_contacts_display">Preferencias de visualización</string>
   <string name="preference_contacts_filter">Configurar listas de contactos</string>
   <string name="preference_contacts_more">Organizar contactos</string>
+  <string name="preference_dial_pad_touch_tone_default">Predeterminado</string>
   <string name="preference_dial_pad_touch_tone_human">Voz</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas piano</string>
   <string name="preference_dial_pad_touch_tone_switch">Tonos de teclado</string>
@@ -1149,6 +1154,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="service_provider">Agenda</string>
   <string name="service_provider_detail">Detalles de la guía</string>
   <string name="set_data_package">Establece el plan de datos primero</string>
+  <string name="set_default">Establecer defecto</string>
   <string name="set_photo_failed_msg">No se pudo asignar una imagen.</string>
   <string name="share_error">Este contacto no se puede compartir</string>
   <string name="share_over_limit">Por encima del límite, no puede compartir</string>
@@ -1165,7 +1171,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="simContacts_title">Contactos de la tarjeta SIM</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Ver la capacidad de la tarjeta SIM</string>
-  <string name="sim_capacity_content" formatted="false">Capacidad total %d | Usada %d</string>
+  <string formatted="false" name="sim_capacity_content">Capacidad total %d | Usada %d</string>
   <string name="sim_card_no_free_space_message">No hay espacio suficiente</string>
   <string name="sim_card_no_free_space_title">Tarjeta SIM llena</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleccionar todo</string>
@@ -1186,6 +1192,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="sim_export_loading">Leyendo tarjeta SIM…</string>
   <string name="sim_indexed_contact_not_exist">La posición %1$d en la tarjeta SIM no es válida. Esta posición debe estar entre %2$d y %3$d.</string>
   <string name="sim_no_contact">No hay contactos en la tarjeta SIM</string>
+  <string name="sim_unloaded">Tarjeta SIM está descargada</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">No hay miembros en el grupo</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
@@ -1289,6 +1296,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="vcard_import_failed">No se pudo importar %s vCard.</string>
   <string name="vcard_import_request_rejected_message">Exportación de vCard fue rechazada. Inténtalo más tarde.</string>
   <string name="vcard_import_will_start_message">%s se importarán pronto.</string>
+  <string name="vcard_import_will_start_message_with_default_name">El archivo se importará en breve.</string>
   <string name="vcard_info_send_error">"No se puede enviar debido a un error en la vCard"</string>
   <string name="vcard_unknown_filename">Contacto</string>
   <string name="video_call">Videollamada</string>

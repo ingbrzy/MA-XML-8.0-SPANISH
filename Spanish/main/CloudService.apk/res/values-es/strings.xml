@@ -14,7 +14,7 @@
   <string name="antispam_sync">Ajustes del modo no molestar</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
-  <string name="apple_cloud">Servicio Apple Cloud</string>
+  <string name="apple_cloud">iCloud</string>
   <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">Cerca de 72 RMB por año</string>
   <string name="bad_authentication">Contraseña o nombre de usuario incorrecto</string>
@@ -185,7 +185,7 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_force_sync">sincronizar ahora</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
   <string name="micloud_detail_lastest_with_off">Sincronizado</string>
-  <string name="micloud_detail_need_charge">Conecte el cargador para reanudar la sincronización</string>
+  <string name="micloud_detail_need_charge">Conectar el cargador para reanudar la sincronización</string>
   <string name="micloud_detail_not_sync">%d esperando para sincronizar</string>
   <string name="micloud_detail_not_synced">No sincronizado</string>
   <string name="micloud_detail_ok">Aceptar</string>
@@ -286,7 +286,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_wlan_sync_data_count">Elementos esperando a sincronizar: %d</string>
   <string name="micloud_member">Afiliación a Mi Cloud</string>
   <string name="micloud_member_advantage">Conseguir más espacio de almacenamiento.</string>
-  <string name="micloud_member_buy_content" formatted="false">"Válido para %s-%s-%s
+  <string name="micloud_member_buy_content" formatted="false">"Válido hasta %s-%s-%s
 
 %s Mi Credits"</string>
   <string name="micloud_member_buy_title">Confirmar pedido</string>
@@ -303,14 +303,16 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_notif_content_battery_low">Batería demasiado baja.</string>
   <string name="micloud_notif_content_clipboard_push">Puede pegarlo en cualquier lugar.</string>
   <string name="micloud_notif_content_depend_wifi">Conectar a Wi-Fi para la sincronización.</string>
+  <string name="micloud_notif_content_dirty_data">Detalles</string>
   <string name="micloud_notif_content_master_depend_wifi">Primero conéctese a la red Wi-Fi.</string>
   <string name="micloud_notif_content_memory_low">No hay suficiente espacio de almacenamiento.</string>
   <string name="micloud_notif_content_multi_user_error">Usted iniciado sesión con la misma cuenta que en el primer espacio.</string>
   <string name="micloud_notif_content_sync_finish">Cuenta</string>
-  <string name="micloud_notif_content_sync_not_finish">Detalle</string>
+  <string name="micloud_notif_content_sync_not_finish">Detalles</string>
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar su dispositivo ahora.</string>
   <string name="micloud_notif_title_battery_low">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_clipboard_push">Contenido copiado al portapapeles</string>
+  <string name="micloud_notif_title_dirty_data">Elementos no sincronizados</string>
   <string name="micloud_notif_title_master_depend_wifi">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_memory_low">No se pudo sincronizar con MI Cloud</string>
   <string name="micloud_notif_title_multi_user_error">"No se puede sincronizar con Mi Cloud"</string>
@@ -360,7 +362,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_upgrade_member">Obtener más espacio de almacenamiento</string>
   <string name="micloud_upgrade_space">Obtener más espacio de almacenamiento</string>
   <string name="micloud_user_space_title">Espacio de almacenamiento</string>
-  <string name="micloud_user_space_usage">Espacio de almacenamiento</string>
+  <string name="micloud_user_space_usage">Consigue almacenamiento</string>
   <string name="micloud_warn_full_sum">No se sincronizarán nuevos archivos con Mi Cloud.</string>
   <string name="micloud_warn_full_title">No queda espacio</string>
   <string name="micloud_warn_low_sum">Su Mi Cloud ocupa un 90% de su capacidad.</string>

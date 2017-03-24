@@ -96,7 +96,7 @@
   <string name="confirm_restore_checkbox">Restaurar mensajes bloqueados</string>
   <string name="confirm_restore_message">¿Restaurar mensajes seleccionados?</string>
   <string name="confirm_restore_positive">Restaurar</string>
-  <string name="confirm_restore_title">¿Restaurar los mensajes seleccionados?</string>
+  <string name="confirm_restore_title">Restaurar mensajes</string>
   <string name="confirm_send_mms">Uno de sus destinatarios incluye una dirección de email. Este mensaje será enviado como un MMS, que puede generar cargos adicionales de su operador.</string>
   <string name="context_menu_add_calendar">Agregar al Calendario</string>
   <string name="context_menu_add_contact">Agregar a contactos</string>
@@ -418,10 +418,11 @@
   <string name="pref_summary_notification_body_enabled">Mostrar previsualización de mensajes en pantalla de bloqueo y barra de estado</string>
   <string name="pref_summary_notification_body_enabled_when_secure">No puedes previsualizar mensajes en modo invitado</string>
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicación de terceros para enviar y recibir MMS</string>
-  <string name="pref_summary_on_system_mms_priority">Establecer app de mensajería de MIUI como la app para enviar y recibir MMS por defecto</string>
+  <string name="pref_summary_on_system_mms_priority">Establecer app de mensajería de MIUI como la app para enviar y recibir MMS predeterminado</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensaje de confirmación de entrega al remitente cuando reciba un mensaje multimedia</string>
   <string name="pref_summary_show_recent_contacts">Mostrar contactos recientes al redactar un nuevo mensaje</string>
   <string name="pref_summary_wake_up_screen">Activar la pantalla cada vez que se recibe un nuevo mensaje</string>
+  <string name="pref_switch_sdk_setting">Cambiar al motor inteligente SMS</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">No está soportado en el tamaño de fuente actual</string>
   <string name="pref_time_auto_group_summary">Agrupar mensajes recibidos en menos de un minuto dentro del mismo hilo</string>
@@ -437,7 +438,7 @@
   <string name="pref_title_miui_card">Enviar a través de tarjeta</string>
   <string name="pref_title_mms_auto_retrieval">Auto-recuperación MMS</string>
   <string name="pref_title_mms_delete">Límite de mensaje multimedia</string>
-  <string name="pref_title_mms_read_reports">Leer informes</string>
+  <string name="pref_title_mms_read_reports">MMS confirmaciones de lectura</string>
   <string name="pref_title_mms_retrieval_during_roaming">Auto-recuperación de itinerancia</string>
   <string name="pref_title_mms_validity_period">Periodo de validez del MMS</string>
   <string name="pref_title_notification_body_enabled">Mostrar mensajes en la pantalla de bloqueo</string>

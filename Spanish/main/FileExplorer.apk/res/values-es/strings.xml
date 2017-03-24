@@ -4,7 +4,6 @@
   <string name="action_mode_deselect_all">Deseleccionar todos</string>
   <string name="action_mode_select_all">Seleccionar todos</string>
   <string name="activity_parse_video_title">Pegar enlace de video</string>
-  <string name="activity_rule">Reglas</string>
   <string name="ad_download">Descargas</string>
   <string name="ad_downloading">Un momento…</string>
   <string name="add_follow">Seguir</string>
@@ -108,6 +107,10 @@
   <string name="comment_added_tip">"Estás agregando muchos comentarios. ¿Seguir a esta persona?"</string>
   <string name="comment_delete_message">El comentario será borrado permanentemente.</string>
   <string name="comment_delete_title">Borrar comentario</string>
+  <string name="comment_fail">"No se pudo publicar el comentario, inténtelo de nuevo"</string>
+  <string name="comment_fail_banned_forever">"Usted ha sido expulsado de forma permanente por comentarios inapropiados. Póngase en contacto con nuestro grupo QQ (374463568) para obtener más información."</string>
+  <string name="comment_fail_banned_forever_positive">Entendido</string>
+  <string name="comment_fail_banned_temporary">"Usted ha sido bloqueado temporalmente por comentarios inapropiados."</string>
   <string name="comment_hint">Añadir comentario</string>
   <string name="comment_reply">Responder %1$s: </string>
   <string name="compress_fail">No se pudo comprimir. Ya existe un archivo con el mismo nombre.</string>
@@ -314,7 +317,6 @@
   <string name="message_praise_video">" le ha gustado este vídeo"</string>
   <string name="message_reply_prefix">Responder</string>
   <string name="message_reply_suffix">": "</string>
-  <string name="message_title">Mis mensajes</string>
   <string name="mi_router_label">Mi Router</string>
   <string name="midrop_msg_1">Encender Mi Drop en el otro dispositivo</string>
   <string name="midrop_msg_2">Cuando Mi Drop esté activo, puedes buscar dispositivos cercanos y enviar archivos</string>
@@ -423,14 +425,10 @@
   <string name="original_user_signal">Equipo de Talentos</string>
   <string name="original_user_title">¡Enhorabuena por llegar a ser un miembro del equipo de Talentos!</string>
   <string name="original_user_verify">• ¡Gracias por quedarte!</string>
-  <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Siguiendo</string>
   <string name="other_user_liked_topic_tip">No hay temas</string>
-  <string name="other_user_liked_video_tab">Favoritos</string>
   <string name="other_user_no_follow_tip">"Aún no has seguido a nadie."</string>
   <string name="other_user_no_liked_video_tip">Ningún vídeo te gusta.</string>
-  <string name="other_user_topic_tab">Temas</string>
-  <string name="other_user_video_tab">Subidos</string>
   <string name="partial_cancel_successful">No se pudieron quitar algunos archivos. El resto fueron movidos a %s.</string>
   <string name="partial_delete_failure">No se pudieron eliminar algunos archivos, intenta de nuevo</string>
   <string name="partial_encrypt_success">No se pudieron ocultar algunos archivos, intenta de nuevo</string>
@@ -564,7 +562,6 @@
   <string name="select_video">Elegir vídeos</string>
   <string name="select_volume">Seleccione el volumen</string>
   <string name="send_comment">Enviar</string>
-  <string name="send_error">"No se puede añadir el comentario"</string>
   <string name="send_sticker">Send sticker</string>
   <string name="send_to_qq">Enviar a QQ</string>
   <string name="send_to_weixin">Enviar a WeChat</string>
@@ -597,10 +594,6 @@
   <string name="share_to">Compartir a…</string>
   <string name="share_topic_desc">Subir videos para obtener premios</string>
   <string name="share_topic_title">"Estoy viendo #%1$s#, ¡echar un vistazo!"</string>
-  <string name="share_youliao1">Actualizar para ver más episodios.</string>
-  <string name="share_youliao2">Actualizar para ver más episodios.</string>
-  <string name="share_youliao3">Actualizar para ver más episodios.</string>
-  <string name="share_youliao4">Actualizar para ver más episodios.</string>
   <string name="shared_sticker_network_permission_tip">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
   <string name="shared_sticker_page_no_file">No se pudo conectar a la red. Comprueba tu conexión y vuelve a intentarlo.</string>
   <string name="shared_sticker_str">Compartidos por fans de Mi</string>
@@ -660,7 +653,6 @@
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Siguiendo</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
-  <string name="topic_winners">Ganadores previos</string>
   <string name="transfer_done">Archivos movidos correctamente.</string>
   <string name="transfer_private_data">Moviendo carpetas ocultas de la tarjeta SD…</string>
   <string name="type_not_support">Este formato de archivo no está soportado. Revise su extensión o descomprima y vuelve a intentarlo.</string>
@@ -676,7 +668,6 @@
   <string name="unlogin">Regístrese primero</string>
   <string name="unmount_inform_text">¿Desmontar el almacenamiento USB?</string>
   <string name="unreviewed_video_cannot_share">Los vídeos han de ser reseñados antes de ser compartidos</string>
-  <string name="update">Actualizar</string>
   <string name="update_failed">No se pudo guardar, inténtelo otra vez</string>
   <string name="update_loading">Guardando…</string>
   <string name="upload_avatar_camera">Cámara</string>
@@ -722,12 +713,10 @@
   <string name="user_icon">Foto de perfil</string>
   <string name="user_id_tip">ID: </string>
   <string name="user_info_setting">Editar información</string>
-  <string name="user_like_text">Gustos</string>
   <string name="user_liked_video_title">Vídeos que me han gustado</string>
   <string name="user_login_dialog_cancle">Cancelar</string>
   <string name="user_login_dialog_tip">Inicia sesión para subir vídeos, participar en el ranking, y ganar premios</string>
   <string name="user_login_dialog_title">Iniciar sesión</string>
-  <string name="user_message_text">Mensajes</string>
   <string name="user_nickname">Nombre de usuario</string>
   <string name="user_nickname_limit">El nombre de usuario debe tener 4–20 caracteres</string>
   <string name="user_no_fans_tip">Sin seguidores</string>
@@ -760,7 +749,6 @@
   <string name="user_sex">Sexo</string>
   <string name="user_sign">Firma</string>
   <string name="user_topic_text">Mis temas</string>
-  <string name="user_upload_text">Subir</string>
   <string name="user_video_text">Mis vídeos</string>
   <string name="utf8_summary">Codificación predeterminada del sistema FTP</string>
   <string name="utf8_title">UTF-8</string>
@@ -827,9 +815,6 @@
   <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">WeChat no está instalado</string>
   <string name="weixin_sticker_tag_str">Pegatinas de WeChat</string>
-  <string name="welcome_to_my_page">Bienvenido a mi página de inicio</string>
-  <string name="welcome_to_my_page_1">¡Sígueme!</string>
-  <string name="welcome_to_my_page_2">¡Sígueme!</string>
   <string name="wifi_state">Red Wi-Fi</string>
   <string name="wxcircle_platform">Momentos</string>
   <string name="xiaomi_btn_bind">Cuenta Mi</string>
@@ -848,9 +833,6 @@
 ¡Únase a 170 millones de aficionados Mi!"</string>
   <string name="youliao_ad_title">¡Los vídeos populares se han actualizado!</string>
   <string name="youliao_ad_update">Actualizar</string>
-  <string name="youliao_dialog_msg">"¡Vídeos populares fueron sustituidos por \"Youliao\",
- la cual es una aplicación dedicada a traer más diversión!"</string>
   <string name="youliao_dialog_title">¿No hay vídeos interesantes?</string>
   <string name="youliao_master_rank">Top Youliao</string>
-  <string name="zero">0</string>
 </resources>

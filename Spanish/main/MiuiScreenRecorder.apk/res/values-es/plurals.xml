@@ -4,4 +4,8 @@
         <item quantity="other">Seleccionados %1$d elementos</item>
         <item quantity="one">Seleccionado %1$d elemento</item>
     </plurals>
+    <plurals name="delete_confirm_text">
+        <item quantity="other">¿Eliminar %1$d grabaciones de pantalla?</item>
+        <item quantity="one">¿Eliminar esta grabación de pantalla?</item>  
+    </plurals> 
 </resources>

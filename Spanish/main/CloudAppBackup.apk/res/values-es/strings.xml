@@ -27,7 +27,7 @@
   <string name="cloud_app_backup_pending">Esperando…</string>
   <string name="cloud_app_backup_progress">Realizando copia de seguridad…</string>
   <string name="cloud_app_backup_size">Tamaño:</string>
-  <string name="cloud_app_backup_success">Copia de seguridad de las aplicaciones terminada</string>
+  <string name="cloud_app_backup_success">Aplicaciones respaldadas correctamente</string>
   <string name="cloud_app_backup_summary">Automáticamente hacer copia de seguridad de aplicaciones y datos del usuario cuando el teléfono está conectado a Wi-Fi y en carga</string>
   <string name="cloud_app_backup_title">Copia de seguridad en Mi Cloud</string>
   <string name="cloud_app_check_data">Obteniendo datos de Mi Cloud…</string>
@@ -111,8 +111,6 @@
   <string name="self_phone">Este teléfono</string>
   <string name="start_backup_to_micloud">Realizar copia de seguridad de aplicaciones a Mi Cloud</string>
   <string name="start_recover">Recuperar %s</string>
-  <string name="stop_backup">Parar</string>
-  <string name="v5_data">datos V5</string>
-  <string name="v5_delete">Borrar datos V5</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="success_open_cloudbackup">Se activaron las copias de seguridad de las aplicaciones de la pantalla de inicio</string>
+  <string name="wait_icon_download">Descargar iconos de aplicaciones</string>
 </resources>
