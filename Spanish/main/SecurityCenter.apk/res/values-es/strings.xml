@@ -534,8 +534,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="forget_pattern">¿Olvidó el patrón de desbloqueo?</string>
   <string name="free_time_traffic">Límite de datos fuera de hora punta</string>
   <string name="free_time_traffic_hint">Ingrese el límite de datos fuera de pico</string>
-  <string name="free_time_traffic_settings">Límite de datos fuera de pico</string>
-  <string name="free_time_traffic_title">Ingrese el límite de datos fuera de pico</string>
+  <string name="free_time_traffic_settings">Límite de datos pasado el máximo</string>
+  <string name="free_time_traffic_title">Ingrese el límite de datos pasado el máximo</string>
   <string name="free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
   <string name="garbage_clean_detail">Detalles</string>
   <string name="gateway_exception_summary">Compruebe el router y vuelva a intentarlo.</string>
@@ -1214,11 +1214,11 @@ responda</string>
   <string name="pref_correction_sms_content">Plantilla de calibración</string>
   <string name="pref_correction_sms_number">Enviar SMS de calibración a</string>
   <string name="pref_daily_adjust">Establecer uso de datos máximo</string>
-  <string name="pref_daily_traffic">Límite de datos pico</string>
+  <string name="pref_daily_traffic">Límite de datos máximo</string>
   <string name="pref_data_usage_ignore_settings">Ignorar el uso de datos</string>
   <string name="pref_data_usage_ignore_settings_summary">No llevar la cuenta de datos de determinadas aplicaciones</string>
   <string name="pref_data_usage_not_set">Plan de datos desconocido</string>
-  <string name="pref_free_adjust">Establecer uso de datos fuera de pico</string>
+  <string name="pref_free_adjust">Establecer uso de datos pasado el máximo</string>
   <string name="pref_free_traffic_exceed_limit">Notificarme cuando el uso de datos alcanza el límite</string>
   <string name="pref_free_traffic_limit_warn">Aviso de uso de datos fuera de hora punta</string>
   <string name="pref_free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
@@ -1241,8 +1241,8 @@ responda</string>
   <string name="pref_operator_not_set">Operadora no establecida</string>
   <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_package_traffic_leisure">%1$s
-Fuera de pico: %2$s</string>
-  <string name="pref_package_traffic_normal">Pico: %s</string>
+Pasado el máximo: %2$s</string>
+  <string name="pref_package_traffic_normal">Máximo: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Adicional: %2$s</string>
   <string name="pref_package_traffic_settings">Límite de datos móviles</string>
   <string name="pref_pkg_begin_date">Fecha de reinicio de uso</string>
