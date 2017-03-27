@@ -32,14 +32,6 @@
         <item quantity="few">%1$d seleccionados</item>
         <item quantity="many">%1$d seleccionados</item>
     </plurals>
-    <plurals name="items_file">
-        <item quantity="other">" (%1$d elementos)"</item>
-        <item quantity="zero">" (%1$d elementos)"</item>
-        <item quantity="one">" (%1$d elemento)"</item>
-        <item quantity="two">" (%1$d elementos)"</item>
-        <item quantity="few">" (%1$d elementos)"</item>
-        <item quantity="many">" (%1$d elementos)"</item>
-    </plurals>
     <plurals name="items_picture">
         <item quantity="other">" (%1$d elementos)"</item>
         <item quantity="zero">" (%1$d elementos)"</item>
@@ -216,22 +208,6 @@
         <item quantity="few">%1$s vistas</item>
         <item quantity="many">%1$s vistas</item>
     </plurals>
-    <plurals name="video_num">
-        <item quantity="other">%1$s vídeos</item>
-        <item quantity="zero">%1$s vídeos</item>
-        <item quantity="one">%1$s vídeo</item>
-        <item quantity="two">%1$s vídeos</item>
-        <item quantity="few">%1$s vídeos</item>
-        <item quantity="many">%1$s vídeos</item>
-    </plurals>
-    <plurals name="follower_num">
-        <item quantity="other">seguidores</item>
-        <item quantity="zero">seguidores</item>
-        <item quantity="one">seguidor</item>
-        <item quantity="two">seguidores</item>
-        <item quantity="few">seguidores</item>
-        <item quantity="many">seguidores</item>
-    </plurals>
     <plurals name="video_count">
          <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> vídeos</item>
          <item quantity="one">&amp;lt;font color=#fc7050>%d&amp;lt;/font> vídeo</item>
@@ -287,5 +263,25 @@
     <plurals name="more_gems">
         <item quantity="other">Coleccione &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> más gemas para participar en el sorteo</item>
         <item quantity="one">Coleccione &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> una gema para participar en el sorteo</item>
+    </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">Día %1$s</item>
+        <item quantity="one">Día %1$s</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">Usted tiene &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> puntos</item>
+        <item quantity="one">Usted tiene &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> punto</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Comprobado %1$s días consecutivos, ¡sigue adelante!</item>
+        <item quantity="one">Comprobado %1$s día consecutivo, ¡sigue adelante!</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s temas</item>
+        <item quantity="one">%1$s tema</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s gente</item>
+        <item quantity="one">%1$s persona</item>
     </plurals>
 </resources>
