@@ -103,6 +103,9 @@
   <string name="click_to_refresh">Pulse aquí para recargar</string>
   <string name="click_to_switch_volume">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
   <string name="click_to_switch_volume_pad">Pulse para cambiar entre el almacenamiento interno y la tarjeta SD</string>
+  <string name="clockin_failed">"No se pudo registrar, vuelva a intentarlo"</string>
+  <string name="clockin_success">Se registró correctamente</string>
+  <string name="clockin_use">Obtén un premio</string>
   <string name="comment_added">Agregado exitosamente</string>
   <string name="comment_added_tip">"Estás agregando muchos comentarios. ¿Seguir a esta persona?"</string>
   <string name="comment_delete_message">El comentario será borrado permanentemente.</string>
@@ -123,12 +126,14 @@
   <string name="connect_network_setting_des">Avisar cuando se conecte a Internet</string>
   <string name="connecting">Conectando…</string>
   <string name="connection_error">No se pudo conectar</string>
+  <string name="contain_sensitive_words">Eliminar palabras inapropiadas e intentarlo de nuevo</string>
   <string name="copied">Copiado</string>
   <string name="copy_failed">No se pudo copiar, parece que el almacenamiento está lleno</string>
   <string name="copy_text">Copiar texto</string>
   <string name="copy_to">Copiar a…</string>
   <string name="count_down">Cuenta atrás: %1$s</string>
   <string name="create_shortcut_success">Acceso directo creado correctamente</string>
+  <string name="daily_clockin">Registrarse</string>
   <string name="data_consumption_cancel">Salir</string>
   <string name="data_consumption_checkbox_hint">No mostrar de nuevo</string>
   <string name="data_consumption_confirm">Aceptar</string>
@@ -359,6 +364,7 @@
   <string name="no_message">No hay mensajes</string>
   <string name="no_new_content_tip">Todos los artículos están actualizados</string>
   <string name="no_recent_files">Sin archivos recientes</string>
+  <string name="no_search_content">"No se encontraron resultados"</string>
   <string name="no_topic">No hay temas</string>
   <string name="no_videos">Nada aquí. ¡Eche un vistazo a los siguientes!</string>
   <string name="no_wifi">No hay ninguna red detectada</string>
@@ -521,6 +527,11 @@
   <string name="rlv_refreshing">Escaneando archivos…</string>
   <string name="rlv_release_to_close">Suelte para cerrar</string>
   <string name="rlv_release_to_refresh">Suelte para recargar</string>
+  <string name="save">Guardar</string>
+  <string name="save_desc_success">Cambiado correctamente</string>
+  <string name="save_failed">"No se pudo guardar, vuelva a intentarlo"</string>
+  <string name="save_failed_for_length">La firma es demasiado larga, intente una más corta</string>
+  <string name="save_name_success">Cambiado correctamente</string>
   <string name="save_to_local">Descargar</string>
   <string name="sd_card_available">Disponible: %1$s</string>
   <string name="sd_card_size">Tarjeta SD: %1$s</string>
@@ -544,6 +555,7 @@
   <string name="search_hot_video">Vídeos populares;Subir videos;Subir video;Vídeo corto;Vídeos cortos;Vídeo pequeño;Vídeos pequeños</string>
   <string name="search_keyword">Etiquetas</string>
   <string name="search_kuai_chuan">Mi Drop;Transferencia</string>
+  <string name="search_popup_tip">Puede buscar personas y temas</string>
   <string name="search_recent_file">Explorador de archivos;Explorador;Archivo;Archivos;Administrar archivos;Administrador de archivos</string>
   <string name="search_result">Resultados</string>
   <string name="search_result_more">Más</string>
@@ -554,6 +566,10 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Buscar</string>
   <string name="search_title_hint">Buscar</string>
+  <string name="search_topic">Búsqueda por temas</string>
+  <string name="search_user">Búsqueda de personas</string>
+  <string name="see_more_topic">Más temas</string>
+  <string name="see_more_user">Más usuarios</string>
   <string name="select_dest_folder">Seleccionar carpeta</string>
   <string name="select_image">Elegir fotos</string>
   <string name="select_interest_str">Seleccione los temas que quieras</string>
@@ -653,6 +669,7 @@
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Siguiendo</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
+  <string name="topic_title">Temas</string>
   <string name="transfer_done">Archivos movidos correctamente.</string>
   <string name="transfer_private_data">Moviendo carpetas ocultas de la tarjeta SD…</string>
   <string name="type_not_support">Este formato de archivo no está soportado. Revise su extensión o descomprima y vuelve a intentarlo.</string>
@@ -703,6 +720,7 @@
   <string name="uploading_video">Subiendo video…</string>
   <string name="usb_label">USB</string>
   <string name="used">Usado</string>
+  <string name="user">Usuarios</string>
   <string name="user_cancel">Cancelado</string>
   <string name="user_center_title">Inicio</string>
   <string name="user_desc_default_tip">Identificate para ganar puntos y coleccionar premios.</string>
@@ -789,7 +807,7 @@
   <string name="video_tag_search_hint">Personalizar tópico</string>
   <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Seleccionar tópico</string>
-  <string name="video_topic_hint">Buscar</string>
+  <string name="video_topic_hint">Buscar personas o temas</string>
   <string name="video_upload_btn">Siguiente</string>
   <string name="video_upload_btn_hint">Los vídeos MP$ deberán tener de 3s~10min de duración</string>
   <string name="video_upload_item_more">Más (%1$s)</string>
