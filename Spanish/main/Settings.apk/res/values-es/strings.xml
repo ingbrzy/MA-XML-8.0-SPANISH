@@ -1092,7 +1092,8 @@ Debes restablecer los datos de fábrica para volver a usar el teléfono. Cuando 
   <string name="current_use_ese_wallet">Está usando Mi Wallet. Le permite usar Mi Pay y tarjeta de transporte NFC.</string>
   <string name="current_use_hce_wallet">Está usando HCE Wallet</string>
   <string name="current_use_uicc_se">Usando elemento seguro en la SIM</string>
-  <string name="current_use_uicc_wallet">"Usted está utilizando SIM%1$s Wallet"</string> 
+  <string name="current_zone">(actual)</string>
+  <string name="current_use_uicc_wallet">"Usted está utilizando SIM%1$s Wallet"</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteronomalía (rojo-verde)</string>
   <string name="daltonizer_mode_disabled">Inhabilitado</string>
   <string name="daltonizer_mode_monochromacy">Acromatopsia</string>
@@ -3066,6 +3067,8 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="privacy_password_remind_bindaccount_title">Añadir Cuenta Mi</string>
   <string name="privacy_password_settings">Usar contraseña de privacidad</string>
   <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos y notas.</string>
+  <string name="privacy_password_settings_titles_elder_mode">La proteccion de privacidad por contraseña protege tus fotos, archivos y notas.</string>
+  <string name="privacy_password_settings_titles_second_space">La proteccion de privacidad por contraseña protege tus fotos, archivos y notas.</string>
   <string name="privacy_password_title">Contraseña de privacidad</string>
   <string name="privacy_password_visible_pattern">Mostrar patrón</string>
   <string name="privacy_protect_title">Protección de privacidad</string>
@@ -3487,7 +3490,7 @@ Para ello:
   <string name="se_route_uicc">Elemento seguro en la SIM</string>
   <string name="se_wallet_ese">Mi Pay y tarjeta de transporte NFC</string>
   <string name="se_wallet_hce">Usar cartera HCE</string>
-  <string name="se_wallet_uicc">Utilizar SIM%1$s Wallet</string> 
+  <string name="se_wallet_uicc">Utilizar SIM%1$s Wallet</string>
   <string name="search_about_settings">Acerca del teléfono;Número de modelo;Versión de Android;Versión de MIUI;CPU;RAM;Memoria interna;Versión de la banda base;Versión del Kernel;Número de compilación</string>
   <string name="search_accelerometer_title">Autorrotar pantalla;Rotar pantalla;Orientación;Retrato;Paisaje</string>
   <string name="search_access_control">Ajustes de Privacidad;Seguridad de Privacidad;Invitado;Modo invitado</string>
