@@ -14,6 +14,7 @@
   <string name="account_crop_user_avatar">Recortar foto</string>
   <string name="account_empty_user_name">Introduzca el nombre de usuario de tu Cuenta Mi</string>
   <string name="account_error_all_space_user_name">La casilla nombre no debe estar vacía</string>
+  <string name="account_error_invalid_user_name">"El nombre no puede contener &lt;, &gt;, /"</string>
   <string name="account_error_longer_user_name">El nombre no puede tener más de 20 caracteres</string>
   <string name="account_error_shorter_user_name">El nombre debe tener más de 2 caracteres</string>
   <string name="account_error_user_birthday">El cumpleaños introducido no es válido</string>

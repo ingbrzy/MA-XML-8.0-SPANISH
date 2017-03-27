@@ -88,7 +88,7 @@
   <string name="badPuk2">PUK2 incorrecto. Inténtelo de nuevo.</string>
   <string name="bad_pin">El PIN introducido es incorrecto.</string>
   <string name="bad_pin2">El PIN2 que ingresó es incorrecto.</string>
-  <string name="bad_pin2_old">El antiguo PIN2 introducido es incorrecto.</string> 
+  <string name="bad_pin2_old">El antiguo PIN2 introducido es incorrecto.</string>
   <string name="bad_puk">El PUK introducido es incorrecto.</string>
   <string name="bad_puk2">El PUK2 introducido es incorrecto.</string>
   <string name="bf_news_settings">Noticias financieras y comerciales</string>
@@ -1218,10 +1218,12 @@ Ponte en contacto con tu operador si el problema persiste."</string>
   <string name="voicemail_settings_with_label">Buzón de voz (%s)</string>
   <string name="voicemail_visual_voicemail_switch_title">Correo de voz visual</string>
   <string name="voip_setting">Ajustes VoIP</string>
+  <string name="volte_provision_notification_activate">Activar</string>
+  <string name="volte_provision_text">Detecta si el  VoLTE de tu sim no esta provisionada, ¿activar ahora?</string>
+  <string name="volte_provision_title">Provision VoLTE</string>
   <string name="volte_switch_summary">Utilice VoLTE para mejorar la calidad de las llamadas y videollamadas</string>
   <string name="volte_switch_title">VoLTE habilitado</string>
-  <string name="wait_prompt_str">"¿Enviar los siguientes tonos?
-"</string>
+  <string name="wait_prompt_str">"¿Enviar los siguientes tonos?"</string>
   <string name="wifi_calling">Llamada Wi-Fi</string>
   <string name="wifi_calling_call_assistant">Asistente de llamada</string>
   <string name="wifi_calling_call_assistant_configure">Configurar</string>
