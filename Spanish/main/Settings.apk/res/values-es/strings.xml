@@ -209,7 +209,6 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duración de animación</string>
   <string name="another_migration_already_in_progress">Hay otra migración en curso.</string>
-  <string name="anr_record_interval_title">Grabar intervalos entre ANR</string>
   <string name="anti_spam">Lista de bloqueo</string>
   <string name="aod_mode_summary">Mostrar siempre la hora, la fecha y los mensajes cuando la pantalla está apagada.</string>
   <string name="aod_mode_title">Modo siempre encendido</string>
@@ -2524,7 +2523,6 @@ Hay otros usuarios presentes en este dispositivo.
   <string name="move_app_to_sdcard">Mover a la tarjeta SD</string>
   <string name="move_error_device_admin">El identificador de dispositivos no se puede instalar en almacenamiento externo.</string>
   <string name="moving">Moviendo</string>
-  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Descargar driver</string>
   <string name="msd_driver_download_mac">OSX: Descargue el driver e instale AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Obtenga el driver en http://www.android.com/filetransfer/</string>
@@ -2790,9 +2788,8 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="one_userkey">una clave de usuario</string>
   <string name="onekey_migrate">Transferencia</string>
   <string name="online_resource_entry">Recursos online</string>
-  <string name="only_one_home_message">Los ajustes de la pantalla de inicio se ocultarán hasta que instales otra aplicación de pantalla de inicio.</string>
+  <string name="only_one_home_message">Los ajustes de la pantalla de inicio se ocultarán hasta que instale otra aplicación de pantalla de inicio.</string>
   <string name="onscreen_keyboard_settings_summary">Ajustes de teclado en pantalla</string>
-  <string name="open_anr_debug">Activar depuración de ANR</string>
   <string name="open_miui_optimization_title">Activar optimización MIUI</string>
   <string name="open_miui_optimization_warning_message">Su dispositivo se reiniciará para aplicar este cambio.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
@@ -3067,8 +3064,8 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="privacy_password_remind_bindaccount_title">Añadir Cuenta Mi</string>
   <string name="privacy_password_settings">Usar contraseña de privacidad</string>
   <string name="privacy_password_settings_titles">La contraseña de privacidad protege sus mensajes, fotos, archivos y notas.</string>
-  <string name="privacy_password_settings_titles_elder_mode">La proteccion de privacidad por contraseña protege tus fotos, archivos y notas.</string>
-  <string name="privacy_password_settings_titles_second_space">La proteccion de privacidad por contraseña protege tus fotos, archivos y notas.</string>
+  <string name="privacy_password_settings_titles_elder_mode">La proteccion de privacidad por contraseña protege sus fotos, archivos y notas.</string>
+  <string name="privacy_password_settings_titles_second_space">La proteccion de privacidad por contraseña protege sus fotos, archivos y notas.</string>
   <string name="privacy_password_title">Contraseña de privacidad</string>
   <string name="privacy_password_visible_pattern">Mostrar patrón</string>
   <string name="privacy_protect_title">Protección de privacidad</string>
@@ -3237,7 +3234,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="recommend_item_4">Auriculares</string>
   <string name="recommend_item_title">Recomendaciones</string>
   <string name="recompute_size">Recalculando tamaño…</string>
-  <string name="record_anr_in_background">Grabar casos de ANR en segundo plano</string>
   <string name="regulatory_information">Información regulatoria</string>
   <string name="remaining_length_format">%1$s restante</string>
   <string name="remove_account_failed">El administrador no permite este cambio</string>
