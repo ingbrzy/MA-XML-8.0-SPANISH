@@ -134,8 +134,6 @@
   <string name="cloud_welcome_message">Copiar canciones</string>
   <string name="cloud_welcome_summary">Copia tus canciones a Mi Cloud y escuchalas en otros dispositivos</string>
   <string name="comment_format" formatted="false">%s: %s</string>
-  <string name="confirm_delete_downloads_message">%d Se eliminaran las descargas.</string>
-  <string name="confirm_delete_the_download_item_message">Eliminar estas descargas?</string>
   <string name="confirm_download">Descargar</string>
   <string name="confirm_to_renew">Renovar</string>
   <string name="continue_backup">Continuar</string>
@@ -177,8 +175,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="dialog_button_scan_tracks">Busca música en este dispositivo</string>
   <string name="dialog_cannot_resume">Descarga interrumpida. No se puede reanudar.</string>
   <string name="dialog_confirm_delete_checkbox_message">Eliminar archivos locales</string>
-  <string name="dialog_confirm_delete_downloads_message">¿Borrar %d archivos?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">¿Eliminar estos archivos?</string>
   <string name="dialog_failed_body">¿Intentar descargar más tarde o eliminar el archivo de la cola?</string>
   <string name="dialog_file_already_exists">No se puede descargar. Este archivo ya existe.</string>
   <string name="dialog_file_missing_body">No se pudo encontrar el archivo descargado.</string>
@@ -243,7 +239,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_fail_to_fetch_info">Error en la descarga. Por favor inténtelo de nuevo.</string>
   <string name="download_filesize_unknown">Desconocido</string>
   <string name="download_in_process">DESCARGANDO</string>
-  <string name="download_info_count_deleted_tasks">%s descarga eliminada</string>
   <string name="download_info_start_deleted_tasks">Eliminar las descargas</string>
   <string name="download_list_get_free_vip">prueba Xunlei</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei acelerador de descargas esta encendido</string>
@@ -340,7 +335,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="file_not_found">El archivo no existe</string>
   <string name="filter_by_duration">Por duración</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">%d min</string>
+  <string name="filter_by_duration_max">%d mins</string>
   <string name="filter_by_duration_min">%d seg</string>
   <string name="filter_by_duration_prefix">"Ocultar archivos más cortos que "</string>
   <string name="filter_by_duration_summary">Ocultar archivos de audio cortos</string>
