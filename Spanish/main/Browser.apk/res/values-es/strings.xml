@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Página de inicio</string>
-  <string name="abc_action_bar_up_description">Arriba</string>
+  <string name="abc_action_bar_home_description">Ir a la Página de inicio</string>
+  <string name="abc_action_bar_up_description">Subir</string>
   <string name="abc_action_menu_overflow_description">Más</string>
   <string name="abc_action_mode_done">Hecho</string>
   <string name="abc_action_mode_select_all">Seleccionar todo</string>
@@ -120,9 +120,9 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Deslizar hacia abajo para cerrar</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Esta es la última pestaña</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslizar arriba para cerrar</string>
-  <string name="browserFrameFileErrorLabel">Problema de archivo</string>
+  <string name="browserFrameFileErrorLabel">Error de archivo</string>
   <string name="browserFrameFormResubmitMessage">"La página que estas tratando de ver contiene datos que han sido enviados por medio de (\"POSTDATA\"). Si quieres reenviar los datos, cualquier acción hecha en la página (por ejemplo una búsqueda o una compra en linea) se volverá a hacer."</string>
-  <string name="browserFrameNetworkErrorLabel">Problema de conexión</string>
+  <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
   <string name="cancel">Cancelar</string>
   <string name="cannot_download">Sólo puede descargar URLs \"http\" o \"https\"</string>
   <string name="choose_upload">Elija un Archivo para subir</string>
@@ -183,7 +183,7 @@
   <string name="contextmenu_openlink">Abrir</string>
   <string name="contextmenu_openlink_newwindow">Abrir en una pestaña nueva</string>
   <string name="contextmenu_openlink_newwindow_background">Abrir en una pestaña de fondo</string>
-  <string name="contextmenu_recognise_qr_code">Reconocer código QR</string>
+  <string name="contextmenu_recognise_qr_code">Escanear código QR</string>
   <string name="contextmenu_savelink">Guardar enlace</string>
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_set_wallpaper">Establecer como fondo</string>
@@ -354,7 +354,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
 ¿Está seguro de querer salir de esta página?"</string>
   <string name="js_dialog_before_unload_negative_button">Permanecer en esta Página</string>
   <string name="js_dialog_before_unload_positive_button">Abandonar esta Página</string>
-  <string name="js_dialog_before_unload_title">Confirmar Navegación</string>
+  <string name="js_dialog_before_unload_title">Dejar página</string>
   <string name="js_dialog_title">La página en \"%s\" dice:</string>
   <string name="js_disable_confirm_message">Desactivar JavaScript puede causar que algunos sitios web se visualicen incorrectamente.</string>
   <string name="js_disable_confirm_title">¿Desactivar JavaScript?</string>
@@ -641,8 +641,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="save_button_text">Guardar</string>
   <string name="save_dialog_title">Guardar</string>
   <string name="save_file">Guardar archivos %s</string>
-  <string name="save_file_already_exist_alert_message">Ya existe un archivo con el mismo nombre, ¿quiere sobrescribirlo?</string>
-  <string name="save_file_already_exist_alert_title">¿Sobrescribir archivo?</string>
+  <string name="save_file_already_exist_alert_message">Ya existe un archivo con el mismo nombre, ¿reemplázalo?</string>
+  <string name="save_file_already_exist_alert_title">¿Reemplazar el archivo?</string>
   <string name="save_form_data_confirm_message">Apagar esta característica puede afectar al uso.</string>
   <string name="save_image_failed">"No se pudo guardar la imagen"</string>
   <string name="save_image_success">Imagen guardada</string>
@@ -652,9 +652,9 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="save_password_never">Nunca</string>
   <string name="save_password_notnow">Ahora no</string>
   <string name="save_password_remember">Recordar</string>
-  <string name="save_to_camera">Guardar en cámara</string>
+  <string name="save_to_camera">Guardar en la galería</string>
   <string name="save_to_camera_failed">"No se puede guardar la imagen"</string>
-  <string name="save_to_camera_success">Guardado en cámara</string>
+  <string name="save_to_camera_success">Guardado en la galería</string>
   <string name="sdcard_error">Compruebe su tarjeta SD</string>
   <string name="search">Búsqueda</string>
   <string name="search_baidu">Baidu</string>
@@ -687,7 +687,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="send_comment_title">Comentario</string>
   <string name="senddesktop">Pantalla de inicio</string>
   <string name="sendstartpage">Página de inicio</string>
-  <string name="share_page_text">"Estoy disfrutando 【%1$s】 | %2$s"</string>
+  <string name="share_page_text">"Estoy disfrutando %1$s | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"La URL de esta web se enviará a los servidores de Xiaomi para verificar su seguridad. Puede desactivar esta característica en Ajustes en cualquier momento."</string>
   <string name="show_security_tip_dialog_title">Términos de Servicio</string>
   <string name="show_weather_location_getter_tip_dialog_description">Los servicios de tiempo necesitan tu localización para darte información actualizada del tiempo en tu navegador. Puedes desactivar esta característica en Ajustes.</string>
@@ -727,8 +727,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="suggest_open_app_failed">No se pudo abrir esta aplicación</string>
   <string name="switch_proxy_dialog_msg">Pirateo de red detectado. Utiliza la aplicación de Seguridad integrada en MIUI o informe a su operador móvil.</string>
   <string name="switch_proxy_dialog_title">Red pirateada</string>
-  <string name="tab_hotpage">Tendencia</string>
-  <string name="tab_quicklinks">Enlaces rápidos</string>
+  <string name="tab_hotpage">Noticias</string>
+  <string name="tab_quicklinks">Página de inicio</string>
   <string name="tab_yellowpage">Popular</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
