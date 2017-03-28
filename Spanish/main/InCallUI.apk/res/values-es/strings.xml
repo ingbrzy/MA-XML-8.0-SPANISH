@@ -78,6 +78,8 @@
   <string name="card_title_video_call_paused">Video pausado</string>
   <string name="card_title_video_conf_call">Videoconferencia</string>
   <string name="card_video_hold_swap">Cambiar</string>
+  <string name="close_camera_failed">"No se pudo cerrar la cámara"</string>
+  <string name="close_camera_requesting">Solicitar cerrar la cámara</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s personas</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
@@ -163,7 +165,6 @@
   <string name="keep_wait_call_back">Seguir esperando</string>
   <string name="livetalk_dial">Usar paquete de recarga</string>
   <string name="livetalk_hangup">Colgar</string>
-  <string name="livetalk_left_minute">%s mins restantes</string>
   <string name="manageConferenceLabel">Gestionar la llamada de conferencia</string>
   <string name="miprofile_stranger_card">Tarjeta de desconocido</string>
   <string name="modify_call_failure_str">"Petición de modificación de llamada fallida
