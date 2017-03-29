@@ -214,4 +214,48 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
     </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Añadidos %d juegos</item>
+        <item quantity="one">Añadido %d juego</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Hay disponibles actualizaciones para %d aplicaciones</item>
+        <item quantity="one">Hay disponible una actualizacion para %d aplicacion</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">Contactos accedidos %d veces</item>
+        <item quantity="one">Contacto accedido %d vez</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">Hechas %d llamadas</item>
+        <item quantity="one">Hecha %d llamada</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">Enviados %d SMS</item>
+        <item quantity="one">Enviado %d SMS</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">Leidos los  SMS %d veces</item>
+        <item quantity="one">Leido el  SMS %d vez</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">Leido el registro de llamadas %d veces</item>
+        <item quantity="one">Leido el registro de llamdas %d vez</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">Accedido %d vecess</item>
+        <item quantity="one">Accedido %d vez</item>
+    </plurals>
+    <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">Concecidos %d permisos</item>
+        <item quantity="one">Concedido %d permiso</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d veces</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Bloqueado %d veces</item>
+        <item quantity="one">Bloqueado %d vez</item>
+    </plurals>
 </resources>
