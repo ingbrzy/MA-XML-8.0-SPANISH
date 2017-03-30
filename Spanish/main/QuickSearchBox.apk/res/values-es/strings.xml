@@ -11,6 +11,12 @@
   <string name="baidu_search_url_from_minus_one">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_systemui">https://www.google.com/search?q=%s</string>
   <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="barcode_install_back">Atrás</string>
+  <string name="barcode_install_cancel">Cancelar</string>
+  <string name="barcode_install_confirm">Instalar</string>
+  <string name="barcode_system_unmatch">Actualizar MIUI antes de instalar Scanner</string>
+  <string name="barcode_to_install">Instalar el Escáner para continuar</string>
+  <string name="barcode_uninstalled">Se eliminó el Escáner</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="choose_search_engine">Seleccionar motor de búsqueda web predeterminado</string>
   <string name="clear_history">Borrar historial</string>
@@ -54,6 +60,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="local_setting">Ajustes</string>
   <string name="menu_help">Ayuda</string>
   <string name="menu_settings">Ajustes de búsqueda</string>
+  <string name="mina_name">Aplicaciones directas</string>
   <string name="network_unavailable">No se pudo conectar a la red</string>
   <string name="permission_prompt_detail">Búsqueda de películas, libros, música y mucho más.</string>
   <string name="permission_prompt_start">Permitir</string>
@@ -96,6 +103,9 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Buscar</string>
   <string name="send_secret_code">Enviar código</string>
+  <string name="setting_other">Otro</string>
+  <string name="setting_version">Version de aplicacion</string>
+  <string name="setting_version_title">Version de aplicacion</string>
   <string name="settings_description">Nombres de aplicaciones instaladas</string>
   <string name="show_more">Mostrar más</string>
   <string name="suggest_open_app_failed">No se puede abrir esta aplicación</string>

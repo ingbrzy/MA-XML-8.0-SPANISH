@@ -134,8 +134,8 @@
         <item quantity="one">%d riesgo encontrado, arreglar ahora</item>
     </plurals>
     <plurals name="virus_clean_num">
-        <item quantity="other">Todo se ve bien</item>
-        <item quantity="one">Todo se ve bien</item>
+        <item quantity="other">Solucionado %1$d problemas. Todo se ve bien ahora.</item>
+        <item quantity="one">Solucionado %1$d problema. Todo se ve bien ahora.</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
