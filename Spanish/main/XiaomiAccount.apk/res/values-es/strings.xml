@@ -123,8 +123,8 @@
   <string name="find_device_error_password_recently_changed">El los últimos tres días se hizo un cambio de contraseña. Por razones de seguridad aún no es posible desactivar la función Encontrar dispositivo.</string>
   <string name="find_device_interrupted">Se interrumpió la acción, espere un minuto o dos y vuelva a intentarlo</string>
   <string name="find_device_io_error">Error al conectar a la red</string>
-  <string name="find_device_locked_account_email" formatted="false">%s,correo electrónico asociado:%s</string>
-  <string name="find_device_locked_account_phone" formatted="false">%s,número teléfonico asociado:%s</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, correo electrónico asociado:%s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, número teléfonico asociado:%s</string>
   <string name="find_device_null_credential_error">Error al obtener información sobre el dispositivo, contacte con servicio al cliente de Xiaomi</string>
   <string name="find_device_operation_failed_error">Se produjo un error en el servidor, espere unos minutos y vuelva a intentarlo</string>
   <string name="find_device_operation_failed_error_unknown">Ha ocurrido un error, intente más tarde</string>
@@ -394,7 +394,7 @@ Para activar su cuenta, siga el
   <string name="search_user_detail_top_key_words">Información personal,Cambiar foto del Perfil,Cambiar nombre de usuario,Cambiar apodo,Cambiar cumpleaños,Cambiar género</string>
   <string name="security_question">Seleccionar pregunta</string>
   <string name="security_question_answer">Introduzca la respuesta</string>
-  <string name="security_question_notice_message">Añada su teléfono antes de configurar las preguntas de seguridad para poder restablecer las preguntas en caso de olvidar las respuestas.</string>
+  <string name="security_question_notice_message">Añada su número de teléfono antes de configurar las preguntas de seguridad para poder restablecer las preguntas en caso de olvidar las respuestas.</string>
   <string name="security_question_notice_title">Añadir teléfono</string>
   <string name="security_question_prompt">"Las preguntas de seguridad podrán utilizarse cuando se cambie o restablezca la contraseña.
 Asegúrese de recordar las respuestas a las preguntas."</string>

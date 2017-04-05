@@ -96,9 +96,9 @@
   <string name="loading_resource_detail_info">Un momento…</string>
   <string name="local_resouce_creator_name">Desarrollador: %1$s</string>
   <string name="lockscreen_apply_failured">"No se puede aplicar el fondo de pantalla de bloqueo"</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">"Fondo de pantalla de Inicio aplicado, pero no se puede aplicar Pantalla de bloqueo"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">Fondo de pantalla de Inicio aplicado. No se puede aplicar fondo de pantalla de Bloqueo.</string>
   <string name="lockscreen_apply_success">Fondo de pantalla de bloqueo aplicada</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">"Fondo de pantalla de bloqueo aplicado, pero no se puede aplicar Pantalla de inicio"</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">Fondo de pantalla de Bloqueo aplicado. No se puede aplicar fondo de pantalla de Inicio.</string>
   <string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
   <string name="lockscreen_magazine_summary">Consigue fondos de pantalla enviados directamente a tu pantalla de bloqueo cada día.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s fondos de pantalla</string>
@@ -320,7 +320,7 @@
   <string name="search_hint_header_text">Lo más buscado</string>
   <string name="selected_resource_file_invalid">No se puede utilizar el archivo de recurso seleccionado</string>
   <string name="settings">Ajustes</string>
-  <string name="the_picture_is_not_support">la imagen no es compatible</string>
+  <string name="the_picture_is_not_support">La imagen no es compatible</string>
   <string name="the_picture_is_too_small">La imagen es demasiado pequeña</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarma</string>
   <string name="theme_apply_audio_dialog_item_notification">Notificación</string>
@@ -416,5 +416,5 @@
   <string name="wallpaper_settings_change_wallpaper">Cambiar</string>
   <string name="wallpaper_settings_desktop_text">Pantalla de inicio</string>
   <string name="wallpaper_settings_lockscreen_text">Bloquear pantalla</string>
-  <string name="wallpaper_settings_page_title">fondos de escritorio</string>
+  <string name="wallpaper_settings_page_title">Fondos de escritorio</string>
 </resources>
