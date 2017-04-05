@@ -3608,7 +3608,7 @@ Para ello:
   <string name="search_screen_saver_settings">Salvapantallas</string>
   <string name="search_screen_timeout">Suspender;Pantalla de bloqueo automática;Pantalla de bloqueo</string>
   <string name="search_screenshot">Captura de pantalla</string>
-  <string name="search_second_space">Segundo espacio</string>
+  <string name="search_second_space">Segundo espacio;Dos espacios;2 espacios;Ocultar aplicaciones;Ocultar archivos;Ocultar fotos;Bloquear pantalla;Bloquear contraseña de pantalla;Privacidad;Modo de privacidad;Modo privado;Privado;Modo de invitado;Sesión de invitado;Acceso de invitado;Cuenta de invitado;Invitado</string>
   <string name="search_security_encryption_title">Cifrar dispositivo usando contraseña de bloqueo de pantalla;Cifrar;Cifrado;Cifrar dispositivo;Cifrar teléfono</string>
   <string name="search_security_passwords_title">Contraseña;Bloqueo de pantalla;PIN;Patrón</string>
   <string name="search_security_privacy_settings_title">Privacidad;Seguridad;Fuentes desconocidas;Mostrar contraseña;Firma de la aplicación;Firmas de las aplicaciones;Eliminar credenciales;Eliminar credencial</string>
@@ -3673,7 +3673,7 @@ Para ello:
   <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificado WAPI;Certificados WAPI;WAPI</string>
   <string name="search_wps_connect_title">Botón WPS;Conectar WPS;WPS</string>
   <string name="search_xiaomi_account">Cuenta Mi; Mi Account;Cuenta;ID de Cuenta</string>
-  <string name="search_xspace">Aplicaciones duplicadas;Duplicar aplicaciones</string>
+  <string name="search_xspace">Doble aplicación;Dobles aplicaciones;Aplicación doble;Aplicaciones dobles;Clonar la aplicación;Clonar aplicaciones;Clonar la aplicación;Clonar aplicaciones;Dos cuentas;2 cuentas</string>
   <string name="second_space">Segundo espacio</string>
   <string name="secure_keyguard_business_title">Establecer bloqueo de pantalla</string>
   <string name="secure_lock_encryption_warning">Has activado un servicio de accesibilidad, por lo que el dispositivo no utilizará el bloqueo de pantalla para mejorar el cifrado de datos.</string>
@@ -4047,7 +4047,7 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
   <string name="status_bar_settings_show_carrier_summary">El nombre del operador se sigue mostrando en la pantalla de bloqueo y en el panel de notificaciones cuando esta función está desactivada</string>
   <string name="status_bar_settings_show_floating_notification">Notificaciones flotantes</string>
   <string name="status_bar_settings_show_floating_notification_summary">Las notificaciones flotantes desaparecerán automáticamente después de que se muestren en la parte superior de la pantalla</string>
-  <string name="status_bar_settings_show_flow_info">Mostrar detalles del flujo</string>
+  <string name="status_bar_settings_show_flow_info">Mostrar uso de datos</string>
   <string name="status_bar_settings_show_home_message">Distintivo de icono de aplicación</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificaciones en la pantalla de bloqueo</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidad de conexión</string>
@@ -4185,9 +4185,9 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
  Una vez que se formatee, tu ^1 solo funcionará en este dispositivo."</string>
   <string name="storage_wizard_format_confirm_next">Borrar y formatear</string>
   <string name="storage_wizard_format_confirm_public_body">"Esto require que el ^1 sea formateado.
-
 "<b>Al formatear tu ^1, se borrarán todos los datos que tengas almacenados.</b>" Te recomendamos que hagas una copia de seguridad de los datos para no perderlos."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatear como almacen. portátil</string>
+  <string name="storage_wizard_format_confirm_third_body">El ^1 se está formateando</string>
   <string name="storage_wizard_format_confirm_third_body">Tu ^1 está siendo formateada</string>
   <string name="storage_wizard_format_confirm_title">Formatear como almacen. interno</string>
   <string name="storage_wizard_format_progress_body">No extraigas tu ^1 mientras se esté formateando.</string>
@@ -4198,7 +4198,6 @@ Tu ^1 se ha formateado para que solo funcione en este dispositivo."</string>
   <string name="storage_wizard_init_internal_title">Utilizar como almacenamiento interno</string>
   <string name="storage_wizard_init_title">Configurar tu ^1</string>
   <string name="storage_wizard_migrate_body">"Puedes mover tus fotos, tus archivos y algunas aplicaciones al nuevo dispositivo de almacenamiento ^1.
-
 La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio de almacenamiento interno. Algunas aplicaciones no funcionarán hasta que finalice el proceso."</string>
   <string name="storage_wizard_migrate_confirm_body">
     <b>La migración durará ^1 y permitirá liberar ^2 de espacio de almacenamiento en ^3.</b>
@@ -4214,7 +4213,7 @@ La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio
   <string name="storage_wizard_migrate_progress_title">Moviendo datos…</string>
   <string name="storage_wizard_migrate_title">Mover a nuevo almacenamiento</string>
   <string name="storage_wizard_move_confirm_body">"La migración de ^1 y de sus datos a tu ^2 solo durará un momento. No podrás utilizar la aplicación hasta que finalice el proceso.
-
+    
 No extraigas tu ^2 durante la migración."</string>
   <string name="storage_wizard_move_confirm_title">Mover ^1</string>
   <string name="storage_wizard_move_progress_body">"No extraigas tu ^1 durante la migración
