@@ -117,7 +117,7 @@
   <string name="dlg_remove_whitelist_title">Quitar</string>
   <string name="dlg_retore">¿Restaurar al buzón de mensajes?</string>
   <string name="dlg_retore_ok">Restaurar</string>
-  <string name="dlg_title_not_open_stranger_identify">Identificar extraños</string>
+  <string name="dlg_title_not_open_stranger_identify">Identificador de llamada apagado</string>
   <string name="dlg_white_address_antispam_message">¿Agregar esta ubicación a las excepciones?</string>
   <string name="dlg_white_antispam_hint">Excepciones</string>
   <string name="dlg_white_antispam_message">¿Añadir este número a las excepciones?</string>
@@ -297,7 +297,7 @@ Bloquee sólo números de los que no quiere recibir llamadas jamás."</string>
   <string name="st_sub_title_whiteblack_list_group">Lista de bloqueo</string>
   <string name="st_sum_call_wait">Tu mensaje de ausente también se mostrará como señal de ocupado para las llamadas entrantes.</string>
   <string name="st_summary_blacklist_numbers">Bloquear llamadas y mensajes de números y áreas específicos</string>
-  <string name="st_summary_blacklist_numbers_international">Bloquear llamadas y mensajes de números específicos</string> 
+  <string name="st_summary_blacklist_numbers_international">Bloquear llamadas y mensajes de números específicos</string>
   <string name="st_summary_keywords_blacklist">Añadir palabras clave para bloquear mensajes</string>
   <string name="st_summary_special_numbers">Bloquear números de teléfono marcados</string>
   <string name="st_summary_whitelist_numbers">Permitir las llamadas y los mensajes de los números y las prefijos específicas</string>
@@ -351,7 +351,7 @@ Bloquee sólo números de los que no quiere recibir llamadas jamás."</string>
   <string name="two_address_choose_hint">%1$s, %2$s2 ubicaciones</string>
   <string name="user_define_title">Agregar reglas</string>
   <string name="website">Sitio web</string>
-  <string name="whitelist_prefix_add_hint">Añadir todos los números con prefijo a excepciones</string>
+  <string name="whitelist_prefix_add_hint">Añadir todos los números con este prefijo a excepciones</string>
   <string name="wl_no_whitelist">No hay excepciones</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
