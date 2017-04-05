@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">¿Desea eliminar %1$s conversaciones?</item>
-        <item quantity="one">¿Desea eliminar esta conversación?</item>
+        <item quantity="other">¿Desea eliminar %1$s conversaciones seleccionadas?</item>
+        <item quantity="one">¿Desea eliminar %1$s conversación seleccionada?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d segs</item>
@@ -22,6 +22,19 @@
         <item quantity="other">%1$s personas</item>
         <item quantity="one">%1$s persona</item>
     </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">¿Borrar %1$s mensajes?</item>
+        <item quantity="one">¿Borrar %1$s mensaje?</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d mensajes</item>
+        <item quantity="zero">%d mensajes</item>
+        <item quantity="one">%d mensaje</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+         <item quantity="other">%d mensajes no han sido sincronizados</item>
+         <item quantity="one">%d mensaje no ha sido sincronizado</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mensajes</item>
         <item quantity="one">%1$s mensaje</item>
@@ -29,5 +42,6 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d seleccionados</item>
         <item quantity="zero">Seleccione elementos</item>
+        <item quantity="one">%d seleccionado</item>
     </plurals>
 </resources>

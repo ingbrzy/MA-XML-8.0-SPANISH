@@ -396,6 +396,7 @@
   <string name="pref_delivery_ringtone">Sonido de entrega</string>
   <string name="pref_edit_smsc_address">Número de centro de SMS</string>
   <string name="pref_forward_title">Reenviar</string>
+  <string name="pref_hide_verification_code_summary">Ocultar automáticamente contraseñas de un solo uso en notificaciones de mensajes en la pantalla de bloqueo protegida</string>
   <string name="pref_messages_to_save">Establecer numero de mensajes a guardar</string>
   <string name="pref_mms_settings_title">Mensajes multimedia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Mensajes eliminados recientemente</string>
@@ -422,7 +423,7 @@
   <string name="pref_summary_send_delivery_reports">Enviar mensaje de confirmación de entrega al remitente cuando reciba un mensaje multimedia</string>
   <string name="pref_summary_show_recent_contacts">Mostrar contactos recientes al redactar un nuevo mensaje</string>
   <string name="pref_summary_wake_up_screen">Activar la pantalla cada vez que se recibe un nuevo mensaje</string>
-  <string name="pref_switch_sdk_setting">Cambiar al motor inteligente SMS</string>
+  <string name="pref_switch_sdk_setting">Cambiar proveedor de motor inteligente SMS</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">No está soportado en el tamaño de fuente actual</string>
   <string name="pref_time_auto_group_summary">Agrupar mensajes recibidos en menos de un minuto dentro del mismo hilo</string>
@@ -627,6 +628,7 @@
   <string name="timed_message_to">Para</string>
   <string name="title_allow_network_access">Actualizar información de forma automática</string>
   <string name="title_collapse_sp_messages">Agrupar mensajes del operador</string>
+  <string name="title_hide_verification_code">Auto ocultar OTP en pantalla de bloqueo</string>
   <string name="title_recv_red_package">Recibe el paquete rojo</string>
   <string name="title_red_package">¡Tener un buen año!</string>
   <string name="title_send_red_package">Enviar el paquete rojo</string>
