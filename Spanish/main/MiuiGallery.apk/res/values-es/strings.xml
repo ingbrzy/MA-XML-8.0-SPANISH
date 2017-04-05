@@ -76,6 +76,7 @@
   <string name="app_name_view_picture">Ver fotos</string>
   <string name="app_name_view_video">Ver vídeos</string>
   <string name="apply">Aplicar</string>
+  <string name="aspect_ratio_format">%d:%d</string>
   <string name="aspect_ratio_free">Personalizado</string>
   <string name="aspect_ratio_origin">Original</string>
   <string name="aspect_ratio_square">1:1</string>
@@ -255,10 +256,10 @@
   <string name="custom_select_title_quickly_share">Compartir</string>
   <string name="custom_select_title_select_all">Seleccionar todos</string>
   <string name="custom_select_title_select_item">Seleccionar elementos</string>
+  <string name="debugging_tip">Generando datos de la depuración</string>
   <string name="default_album_name">Nuevo álbum</string>
   <string name="default_relation_name">Nuevo grupo</string>
   <string name="define_by_user">Personalizado</string>
-  <string name="debugging_tip">Generando datos de la depuración</string>
   <string name="delete">Eliminar</string>
   <string name="delete_album_failed">No se pudo eliminar el archivo</string>
   <string name="delete_album_msg_format">¿Eliminar el álbum \"%2$s\" %1$s %3$s?</string>
@@ -472,6 +473,8 @@
   <string name="loading_fail">No se pudo descargar</string>
   <string name="loading_fail_sync_off">Active la sincronización con Mi Cloud para descargar</string>
   <string name="loading_fail_sync_off_message">No se pudieron cargar las fotos, la sincronización con Mi Cloud está desactivada.</string>
+  <string name="loading_fail_sync_without_network">Conecte a la red para descargar los metadatos</string>
+  <string name="loading_fail_syncing">Espere hasta que los metadatos hayan sido descargados completamente e inténtelo otra vez</string>
   <string name="loading_failure">No se pudo cargar la foto</string>
   <string name="loading_gif">Descargando GIF…</string>
   <string name="loading_gif_thumbnail">Descargando miniatura del GIF…</string>
@@ -480,6 +483,8 @@
   <string name="loading_members">Cargando miembros026</string>
   <string name="loading_suspend">Descarga en pausa. Se descargará cuando esté conectado por Wi-Fi.</string>
   <string name="loading_video">Descargando vídeo…</string>
+  <string name="loading_video_fail_sync_without_network">Conecte a la red para descargar los metadatos</string>
+  <string name="loading_video_fail_syncing">Espere hasta que los metadatos hayan sido descargados completamente e inténtelo otra vez</string>
   <string name="loading_video_thumbnail">Descargando caratula del vídeo…</string>
   <string name="local_space_full_button_text">Limpiar el espacio</string>
   <string name="login_and_enable_service">Iniciar sesión con Cuenta Mi</string>
@@ -516,7 +521,7 @@
   <string name="new_album_invalid_prefix">No use \".\" o \"_\" como inicio del nombre del álbum.</string>
   <string name="new_relation_invalid_char">"Los nombres de grupo no pueden contener \"%s\", introduzca una letras o números o cáracteres."</string>
   <string name="new_relation_invalid_name">“%s” el grupo ya existe, renombre este grupo.</string>
- <string name="new_relation_invalid_prefix">"Los nombres de grupo no pueden empezar por “.” o “_”"</string>
+  <string name="new_relation_invalid_prefix">"Los nombres de grupo no pueden empezar por “.” o “_”"</string>
   <string name="next">Siguiente</string>
   <string name="no">No</string>
   <string name="no_map_app">No se ha encontrado ninguna aplicación para esta acción</string>
