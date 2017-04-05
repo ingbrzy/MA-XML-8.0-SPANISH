@@ -109,8 +109,6 @@ También puede importarlas por separado."</string>
   <string name="import_photo_desc">Ver los elementos compartidos en el Segundo espacio</string>
   <string name="import_photo_suc">Fotos importadas</string>
   <string name="invalid_qr_code">Código QR no válido</string>
-  <string name="keywords_sspace">Segundo espacio;Dos espacios;2 espacios;Ocultar aplicaciones;Ocultar archivos;Ocultar fotos;Bloquear pantalla;Bloquear contraseña de pantalla;Privacidad;Modo de privacidado;Modo privado;Privado;Modo de invitado;Sesión de invitado;Acceso de invitado;Cuenta de invitado;Invitado</string>
-  <string name="keywords_xspace">Aplicación doble;Aplicaciones dobles;Doble aplicación;Dobles aplicaciones;Aplicación de clonar;Aplicaciones de clonar;Clon de aplicación;Clones de aplicación;Dos cuentas;2 cuentas</string>
   <string name="list_empty_text">Vacío</string>
   <string name="loading">Justo un segundo…</string>
   <string name="loading_apps">Cargando aplicaciones…</string>
@@ -147,8 +145,6 @@ También puede importarlas por separado."</string>
   <string name="otherSettings">Otros ajustes</string>
   <string name="passWordGuardSummary">Ingresar al Segundo espacio desde la Pantalla de bloqueo mediante una contraseña</string>
   <string name="passwordProtect">Contraseña</string>
-  <string name="path_sspace">Ajustes/Segundo espacio</string>
-  <string name="path_xspace">Ajustes/Aplicaciones duales</string>
   <string name="please_diff_finger_print">"Asegúrese de establecer huellas diferentes para cada espacio.
 De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de bloqueo."</string>
   <string name="privacyContactsSummary">Mostrar elementos privados en el Segundo espacio</string>
@@ -162,8 +158,6 @@ De otra manera, no será capaz de entrar al Segundo espacio desde la Pantalla de
   <string name="removingSpace">Eliminando…</string>
   <string name="repeat_scanner_fingerprint">Añadir nuevo</string>
   <string name="reset_passwd_success">La contraseña se restableció correctamente.</string>
-  <string name="resource_sspace">Segundo espacio</string>
-  <string name="resource_xspace">Aplicaciones dobles</string>
   <string name="restore_normal_show">No mostrar mensajes privados</string>
   <string name="restore_show_desc">No mostrar mensajes privados en el Segundo espacio. Seguirán estando disponibles en el Primer espacio.</string>
   <string name="restore_show_toast">No mostrar mensajes privados</string>
@@ -213,6 +207,7 @@ para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="show_private_msg">Mostrar mensajes privados</string>
   <string name="show_private_msg_summary">Mostrar mensajes privados en el Segundo espacio</string>
   <string name="spaceSetting">Ajustes</string>
+  <string name="space_deleted">Este espacio fue eliminado</string>
   <string name="space_des_default">Espacio aislado con datos cifrados</string>
   <string name="space_name_default">Espacio de trabajo</string>
   <string name="startSet">Configurar</string>
