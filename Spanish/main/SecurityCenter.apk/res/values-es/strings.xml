@@ -397,6 +397,9 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="card_main_deepclean_action">Limpiar</string>
   <string name="card_main_deepclean_summary">Eliminar archivos innecesarios</string>
   <string name="card_main_deepclean_title">Limpieza profunda</string>
+  <string name="card_main_deepclean_wechat_action">Limpiar</string>
+  <string name="card_main_deepclean_wechat_summary">Borrar el caché de WeChat para liberar espacio de almacenamiento</string>
+  <string name="card_main_deepclean_wechat_title">Caché de WeChat</string>
   <string name="card_main_gamebooster_summary">Aumentar velocidad y mejorar la experiencia de juego</string>
   <string name="card_main_gamebooster_title">Aumentar la velocidad de juego</string>
   <string name="card_main_hbassistant_summary">Utilice esta herramienta para agarrar los sobres más rápido</string>
@@ -876,11 +879,11 @@ responda</string>
   <string name="network_diagnostics">Comprobar la red</string>
   <string name="network_mobile_exception_detail">"El dispositivo no puede conectarse a Internet:
 
-           1. Asegúrese de que no ha superado el límite de datos móviles del plan de su compañía.
+           1. Asegúrese de no haber excedido el límite del plan de datos móviles.
 
            2. Si recargó el saldo de su plan, reinicie el dispositivo y vuelva a intentarlo.
 
-           3. La señal de la red de su operador puede ser débil en su ubicación actual."</string>
+           3. La señal de red de su proveedor puede ser débil en su ubicación actual."</string>
   <string name="network_not_available">"No se puede conectar a la red"</string>
   <string name="network_operator_exception_summary">No se pudo activar la tarjeta SIM. Asegúrese de que su tarjeta SIM está insertada
         correctamente y de que su plan de telefonía móvil se ha activado por su compañía.</string>
@@ -1695,9 +1698,8 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
         formato actualizado será subido a nuestros servidores.</string>
   <string name="tc_sms_report_tips_dialog_title">SMS de uso de datos</string>
   <string name="tc_sms_report_title">Reportar error de uso de datos</string>
-  <string name="tc_sms_report_title_bill">Informe de error de uso de datos</string>
-  <string name="tc_sms_report_title_calltime">Informe de error de uso de datos</string>
   <string name="tc_sms_report_toast_text">Obteniendo información…</string>
+  <string name="tc_sms_report_type">Tipo de informe</string>
   <string name="tc_sms_report_upload_success">SMS de informe de uso de datos enviado. ¡Vamos a trabajar en ello!</string>
   <string name="tc_sms_report_upload_when_net">¡Gracias por sus comentarios!</string>
   <string name="temperature_formatted_text">%s℃</string>
@@ -1827,7 +1829,7 @@ Exceso de datos transferidos</string>
   <string name="traffic_correction_success">Uso de datos actualizados</string>
   <string name="traffic_correction_success_notify_message">Pulse para ver los detalles.</string>
   <string name="traffic_limit_error_alert_body">Sus datos restantes de este mes (%1$s) son más elevados que los de su plan
-        mensual (%2$s). ¿Marcar datos adicionales como paquete de recarga?</string>
+        mensual (%2$s). ¿Se cambió el plan mensual?</string>
   <string name="traffic_limit_error_alert_package">
 
 Los datos restantes incluyen datos transferidos desde
@@ -1845,6 +1847,7 @@ Los datos restantes incluyen datos transferidos desde
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancelar</string>
   <string name="traffic_setting_fragment_button2_text">Guardar</string>
+  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿No está seguro de la compañía?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">No se pudo conectar a la red. Compruebe su conexión de datos y vuelva a intentarlo.</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">No mostrar de nuevo</string>
   <string name="traffic_setting_fragment_loading_text">Obteniendo información de la red…</string>
