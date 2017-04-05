@@ -4436,7 +4436,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="tts_status_title">Estado del idioma predeterminado</string>
   <string name="turn_off_common_password_confirm_msg">También se desactivará el bloqueo de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Las funciones de protección del dispositivo no funcionarán sin el patrón.</string>
+  <string name="turn_off_keyguard_password_confirm_msg">"Algunas funciones de seguridad no funcionarán sin su contraseña."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podrá desbloquear el dispositivo con su huella digital después de desactivar la contraseña."</string>
   <string name="turn_off_radio">Desactivar señal móvil</string>
   <string name="turn_off_security_lock">Desactivar bloqueo</string>
@@ -5348,8 +5348,8 @@ Asistente de Wi‑Fi"</string>
   <string name="work_profile_confirm_remove_title">¿Eliminar perfil de trabajo?</string>
   <string name="work_profile_usage_access_warning">Al desactivar el acceso de uso de esta aplicación, no evitarás que el administrador realice un seguimiento del uso de datos de las aplicaciones en tu perfil de trabajo.</string>
   <string name="work_sim_title">SIM de trabajo</string>
-  <string name="work_space_delete">Eliminar espacio de trabajo</string>
-  <string name="work_space_delete_confirm">Confirmar borrado</string>
+  <string name="work_space_delete">Eliminar Espacio de trabajo</string>
+  <string name="work_space_delete_confirm">Elimina ahora</string>
   <string name="work_space_delete_description">"No podrá entrar en el espacio de trabajo después de borrarlo. Todos los datos se moverán o borrarán."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Asegúrate de que el router inalámbrico es compatible con WPS</string>
@@ -5366,6 +5366,9 @@ Asistente de Wi‑Fi"</string>
   <string name="wrong_pin_code_pukked">Código PIN de la tarjeta SIM incorrecto. Debes ponerte en contacto con tu operador para desbloquear el dispositivo.</string>
   <string name="xiaomi_account">Cuenta Mi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud sincroniza tus contactos y fotos, hace una copia de seguridad de tus aplicaciones y ajustes, y le ayudará a encontrar su teléfono usando Buscar dispositivo.</string>
+  <string name="xiaomi_cloud_service_disabled">Apagado</string>
+  <string name="xiaomi_cloud_service_unknown">Desconocido</string>
   <string name="xiaomi_money_service">Mi Credit</string>
   <string name="xiaomi_router_available_notif_summary">Pulse para obtener más información.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>
