@@ -269,8 +269,8 @@
         <item quantity="one">Día %1$s</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">Usted tiene &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> puntos</item>
-        <item quantity="one">Usted tiene &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> punto</item>
+        <item quantity="other">Usted tiene &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> puntos</item>
+        <item quantity="one">Usted tiene &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> punto</item>
     </plurals>
     <plurals name="clockin_day_count">
         <item quantity="other">Comprobado %1$s días consecutivos, ¡sigue adelante!</item>
