@@ -1303,7 +1303,7 @@ El uso de datos determinado por el teléfono puede variar del recuento realizado
   <string name="device_name">Nombre de dispositivo</string>
   <string name="device_name_input_error">No se pudo guardar el nombre del dispositivo</string>
   <string name="device_name_input_hint">Introducir nombre</string>
-  <string name="device_name_input_overlength">Más allá del límite de palabras</string>
+  <string name="device_name_input_overlength">Ha superado el límite de caracteres</string>
   <string name="device_name_usage_point">Otros dispositivos cercanos pueden ver este nombre.</string>
   <string name="device_picker">Seleccionar dispositivo Bluetooth</string>
   <string name="device_rear_camera">Cámara trasera</string>
@@ -1859,6 +1859,8 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="home_key">Inicio</string>
   <string name="home_settings">Inicio</string>
   <string name="home_work_profile_not_supported">No admite perfiles de trabajo</string>
+  <string name="http_invoke_app">Aplicaciones web</string>
+  <string name="http_invoke_app_summary">Abrir aplicaciones más rápido sin instalarlas</string>
   <string name="ignore_optimizations_off">Optimizar</string>
   <string name="ignore_optimizations_off_desc">Recomendado para mejorar la duración de la batería</string>
   <string name="ignore_optimizations_on">No optimizar</string>
@@ -4437,6 +4439,7 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Algunas funciones de seguridad no funcionarán sin su contraseña."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podrá desbloquear el dispositivo con su huella digital después de desactivar la contraseña."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Después de desactivar la contraseña de la pantalla de bloqueo, las huellas digitales grabadas se eliminarán. Usted no será capaz de desbloquear el dispositivo mediante su huella digital."</string>
   <string name="turn_off_radio">Desactivar señal móvil</string>
   <string name="turn_off_security_lock">Desactivar bloqueo</string>
   <string name="turn_on_keyguard_password">Activar la contraseña de la pantalla de bloqueo</string>
