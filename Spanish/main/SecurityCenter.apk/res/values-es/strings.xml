@@ -613,7 +613,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="goto_set">Establecer</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Operadora incorrecta?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">Su operadora actual: </string>
-  <string name="guide_primary_text">Encienda Asistente de red
+  <string name="guide_primary_text">"Usar la aplicación de seguridad
 para gestionar el uso de datos móviles</string>
   <string name="guide_quck_open">Encender</string>
   <string name="guide_second_text">Después de establecer su operadora, MIUI monitorizará su uso diario de datos móviles mediante el envío de SMS de operadora gratuitos. Cuando MIUI detecte que usted está superando su límite de datos, se desconectará de la red y se lo notificará.</string>
@@ -739,7 +739,8 @@ Su operadora podría cargarle costos adicionales si usa la conexión de datos m�
   <string name="list_empty_text">Vacío</string>
   <string name="load_fail">No se pudo cargar</string>
   <string name="load_only_under_wlan">Cargar usando sólo Wi-Fi</string>
-  <string name="local_ip_exception_summary">No se pudo obtener la dirección IP local. Para informar este problema a MIUI, vaya a la aplicación Informe de error y envíe un registro de su dispositivo.</string>
+  <string name="local_ip_exception_summary">"No se pudo obtener la dirección IP local. Para informar de este problema a MIUI, vaya al
+         aplicación Feedback y envíe un registro desde su dispositivo</string>
   <string name="lock_mode_title">Ajustes de bloqueo</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s utilizado en la pantalla de bloqueo</string>
   <string name="lock_screen_traffic_guide_notification_title">Toque para gestionar el uso de datos.</string>
@@ -1014,7 +1015,7 @@ responda</string>
   <string name="path_antispam">Aplicaciones del sistema/Seguridad/Lista de bloqueo</string>
   <string name="path_antivirus">Aplicaciones del sistema/Seguridad de exploración/Virus</string>
   <string name="path_app_permissions">Aplicaciones de sistema/Seguridad/Permisos/Permisos de aplicación</string>
-  <string name="path_auto_restart">Aplicaciones del sistema/Seguridad/Permisos/Administrar inicio automático</string>
+  <string name="path_auto_restart">Aplicaciones del sistema/Seguridad/Permisos/Inicio automático</string>
   <string name="path_buy_flow">Aplicaciones del sistema/Seguridad/Uso de datos/Comprar datos móviles</string>
   <string name="path_cleanmaster">Aplicaciones del sistema/Seguridad/Limpiador</string>
   <string name="path_networkassistant_1">Aplicaciones del sistema/Seguridad/Uso de datos</string>
@@ -1369,7 +1370,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="protection_category_recommend_title">Cambios recomendados (%d)</string>
   <string name="protection_category_security_title">Limpiar (%d)</string>
   <string name="protocol_exception_title">Diagnósticos de protocolo de red</string>
-  <string name="protocol_loop_back_exception_summary">Prueba de loopback local falló. Para informar este problema a MIUI, vaya a la aplicación Informe de error y envíe un registro de su dispositivo.</string>
+  <string name="protocol_loop_back_exception_summary">Prueba de loopback local falló. Para informar este problema a MIUI, vaya a la aplicación Feedback y envíe un registro de su dispositivo.</string>
   <string name="quick_optimize_checking">Escaneando</string>
   <string name="quick_optimize_no_fix_issue_subtitle">No se pudo prolongar la duración de la batería</string>
   <string name="quick_optimize_no_fix_issue_title">No se pudieron solucionar los problemas con la batería</string>
@@ -1659,7 +1660,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_status_updating">Comprobando…</string>
   <string name="tc_diagnostic_success_notification_summary">Reporte este problema para ayudar a las herramientas de diagnostico de MIUI</string>
   <string name="tc_diagnostic_success_notification_title">La red del operador y la marca son correctos</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Red del operador y marca establecidos correctamente&lt;br/&gt;&lt;br/&gt;No se pudo completar el ajuste:&lt;br/&gt;1. Las estadísticas del operador pueden no ser confiables al principio y final del mes&lt;br/&gt;2. El asistente del operador no se ha actualizado.&lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herramientas de mejoramiento de MIUI&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Red del operador y marca establecidos correctamente&lt;br/&gt;&lt;br/&gt;No se pudo completar el ajuste:&lt;br/&gt;1. Las estadísticas del operador pueden no ser confiables al principio y final del mes&lt;br/&gt;2. No se actualizaron las funciones de las aplicaciones de seguridad.&lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herramientas de mejoramiento de MIUI&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Diagnósticos de la compañía operadora</string>
   <string name="tc_diagnostic_upload_button">Reportar</string>
   <string name="tc_diagnostic_upload_no_network">¡Gracias por su comentario! Su reporte será enviado cuando se conecte a la red.</string>
