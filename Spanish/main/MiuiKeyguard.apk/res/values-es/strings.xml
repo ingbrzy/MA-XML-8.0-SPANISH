@@ -22,8 +22,9 @@
   <string name="fingerprint_enter_second_psw_msg_oldman">No puede entrar en Segundo Espacio mientras esté en Modo Reducido</string>
   <string name="fingerprint_enter_second_psw_title">Introduzca la contraseña del Segundo espacio</string>
   <string name="fingerprint_lockout_msg">Espere un minuto y luego trate de desbloquear con su huella dactilar de nuevo</string>
-  <string name="fingerprint_not_identified_msg">Para desbloquear tu dispositivo, introduzca su contraseña.</string>
+  <string name="fingerprint_not_identified_msg">"No se pudo verificar la huella digital, introduzca la contraseña."</string>
   <string name="fingerprint_not_identified_title">No se puede leer la huella dactilar</string>
+  <string name="fingerprint_try_again_msg">"No se pudo verificar la huella digital, intente de nuevo."</string>
   <string name="fingerprint_try_again_text">Inténtelo de nuevo</string>
   <string name="forget_password_string">Olvidé la contraseña</string>
   <string name="incorrect_pincode">Código PIN erróneo</string>
