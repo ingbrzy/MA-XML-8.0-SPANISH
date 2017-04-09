@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="preferred_network_mode_choices">
-        <item>4G / WCDMA</item>
-        <item>4G</item>
-        <item>Global</item>
-        <item>GSM/WCDMA/4G</item>
-        <item>CDMA + 4G/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo auto</item>
-        <item>GSM/WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Global</item>
         <item>4G / CDMA</item>
