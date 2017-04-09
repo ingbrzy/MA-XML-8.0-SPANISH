@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>4G / CDMA</item>
+        <item>4G / GSM / UMTS</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>4G</item>
+        <item>Modo triple</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>4G</item>
+        <item>Modo triple</item>
+    </string-array>
+</resources>
