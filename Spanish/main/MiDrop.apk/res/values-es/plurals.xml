@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Esperando %1$d archivos</item>
+        <item quantity="one">Esperando %1$d archivo</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d archivos de %1$s</item>
+        <item quantity="one">%2$d archivo de %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
++        <item quantity="other">Receiving %2$d files from %1$s</item>
++        <item quantity="one">Receiving %2$d file from %1$s</item>
++    </plurals>
++    <plurals name="receiver_pic_file_num">
++        <item quantity="other">%2$d imágenes de %1$s</item>
++        <item quantity="one">%2$d imágen de %1$s</item>
++    </plurals>
++    <plurals name="receiver_pic_file_current">
++        <item quantity="other">Receiving %2$d images from %1$s</item>
++        <item quantity="one">Receiving %2$d image from %1$s</item>
++    </plurals>
++    <plurals name="receiver_audio_file_num">
++        <item quantity="other">%2$d songs from %1$s</item>
++        <item quantity="one">%2$d song from %1$s</item>
++    </plurals>
++    <plurals name="receiver_audio_file_current">
++        <item quantity="other">Receiving %2$d songs from %1$s</item>
++        <item quantity="one">Receiving %2$d song from %1$s</item>
++    </plurals>
++    <plurals name="receiver_video_file_num">
++        <item quantity="other">%2$d videos from %1$s</item>
++        <item quantity="one">%2$d video from %1$s</item>
++    </plurals>
++    <plurals name="receiver_video_file_current">
++        <item quantity="other">Receiving %2$d videos from %1$s</item>
++        <item quantity="one">Receiving %2$d video from %1$s</item>
++    </plurals>
++    <plurals name="receiver_apk_file_num">
++        <item quantity="other">%2$d apps from %1$s</item>
++        <item quantity="one">%2$d app from %1$s</item>
++    </plurals>
++    <plurals name="receiver_apk_file_current">
++        <item quantity="other">Receiving %2$d apps from %1$s</item>
++        <item quantity="one">Receiving %2$d app from %1$s</item>
++    </plurals>
++    <plurals name="notif_receive_progress">
++        <item quantity="other">Receiving %1$s files…</item>
++        <item quantity="one">Receiving %1$s file…</item>
++    </plurals>
++    <plurals name="notif_receive_cancel">
++        <item quantity="other">%1$s files not transferred</item>
++        <item quantity="one">%1$s file not transferred</item>
++    </plurals>
++    <plurals name="notif_receive_success">
++        <item quantity="other">Received files from %1$s</item>
++        <item quantity="one">Received file from %1$s</item>
++    </plurals>
++</resources>
