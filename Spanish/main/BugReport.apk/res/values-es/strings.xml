@@ -182,9 +182,9 @@
   <string name="min_error">El título debe ser más largo.</string>
   <string name="modem_tool_log">Recuperar registros del módem</string>
   <string name="modem_tool_log_start">Empezar</string>
-  <string name="modem_tool_log_start_toast">Empezar a volcar los registros del módem a %s</string>
+  <string name="modem_tool_log_start_toast">Almacenamiento del registro del módem en %s</string>
   <string name="modem_tool_log_stop">Parar</string>
-  <string name="modem_tool_log_stop_toast">Parar de volcar los registros del módem de %s</string>
+  <string name="modem_tool_log_stop_toast">Se detuvo guardando el registro del módem en %s</string>
   <string name="module_communication">Comunicación</string>
   <string name="module_data">Almacenamiento y Aplicaciones Duales</string>
   <string name="module_desktop">Pantalla de inicio y ajustes</string>
@@ -225,7 +225,7 @@
   <string name="pic_not_exist">Esta imagen no existe</string>
   <string name="plus_one_submit_dialog_content">Su comentario, junto con los registros de error, serán enviados a los servidores de Mi.</string>
   <string name="plus_one_submit_dialog_not_show_again">Recordar preferencia</string>
-  <string name="post_miui_bbs_failed">Error al enviar al Foro</string>
+  <string name="post_miui_bbs_failed">No se pudo publicar en MIUI Forum</string>
   <string name="pull_to_refresh_pull_label">Deslice hacia abajo para refrescar</string>
   <string name="pull_to_refresh_refreshing_label">Refrescando…</string>
   <string name="pull_to_refresh_release_label">Soltar para refrescar</string>
