@@ -308,7 +308,7 @@
   <string name="download_retry_title">No se pudo descargar los archivos</string>
   <string name="download_tip">Descargas</string>
   <string name="download_title">Preparando archivos…</string>
-  <string name="download_without_wifi_msg">Usar su conexión de datos para descargar fotos aumentará su consumo de datos. Si supera el límite de su plan de datos, su operadora podría cobrarle gastos adicionales.</string>
+  <string name="download_without_wifi_msg">"El uso de la conexión de datos móviles para descargar archivos aumentará el uso de datos. Si supera el límite de datos de su plan, su compañía podría cobrarle cargos adicionales."</string>
   <string name="download_without_wifi_title">Aviso de uso de datos</string>
   <string name="duotone">Bitono</string>
   <string name="early_bird">Amanecer</string>
@@ -608,7 +608,6 @@
   <string name="picker_full_format">Puedes seleccionar hasta %d fotos</string>
   <string name="picker_image_need_download">%d de las fotos seleccionadas no están el dispositivo. ¿Deseas descargarlas usando datos móviles?</string>
   <string name="picker_image_will_download">%d de las fotos seleccionadas no están en el dispositivo. Se descargarán.</string>
-  <string name="picker_mobile_data_video">No se pueden descargar vídeos usando datos móviles, omitido %d.</string>
   <string name="picker_no_network_message">Conectarse a la red para descargar</string>
   <string name="picker_origin_need_download">%1$d de la(s) foto(s) seleccionada(s) (%2$dMB) no esta(n) en el dispositivo. ¿Deseas descargarlas usando datos móviles?</string>
   <string name="picker_title_format">Puede seleccionar %d fotos</string>
@@ -762,11 +761,11 @@
   <string name="slim_after_backuped_summary">Substituir las fotos de alta resolución en local por la versión optimizada una vez se hayan copiado en Mi Cloud. Las imágenes de alta resolución se almacenarán en Mi Cloud. Esto puede ahorrar una gran cantidad de espacio local.</string>
   <string name="slim_after_backuped_title">Optimizar el almacenamiento local después del respaldo</string>
   <string name="slim_introduce">Substituir fotos de alta resolución en el dispositivo por la versión optimizada, después de que se hayan copiado en Mi Cloud. Las imágenes de alta resolución se encuentran disponibles en Mi Cloud.</string>
-  <string name="slim_introduce_with_specific_size">Substituir fotos de alta resolución en el dispositivo por la versión optimizada, después de que se hayan copiado en Mi Cloud. Las imágenes de alta resolución se almacenarán en Mi Cloud. Esto puede ahorrar hasta %1$s de almacenamiento local (será necesaria una Cuenta Mi).</string>
+  <string name="slim_introduce_with_specific_size">Substituir archivos de alta resolución en el dispositivo por la versión optimizada, después de que se hayan copiado en Mi Cloud. Las imágenes de alta resolución se almacenarán en Mi Cloud. Esto puede ahorrar hasta %1$s de almacenamiento local (será necesaria una Cuenta Mi).</string>
   <string name="slim_now">Optimizar ahora</string>
   <string name="slim_result_size">Se ahorró %1$s</string>
   <string name="slim_result_title">Optimización correcta</string>
-  <string name="slim_tip_msg">Las fotos se optimizarán cuando el dispositivo este conectado a Wi-Fi. Descarga las fotos en alta resolución pulsando \"Descargar foto\" en los detalles de la foto.</string>
+  <string name="slim_tip_msg">Los archivos se optimizarán cuando el dispositivo este conectado a Wi-Fi. Descarga las fotos en alta resolución pulsando \"Descargar file\" en los detalles de la foto.</string>
   <string name="slim_tip_title">Optimizando el almacenamiento</string>
   <string name="slimming">Optimizando…</string>
   <string name="square">Cuadrado</string>
