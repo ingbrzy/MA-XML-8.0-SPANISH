@@ -217,6 +217,19 @@
         <item>Domingo</item>
         <item>Lunes</item>
     </string-array>
+    <string-array name="fortune_random_birthday">
+        <item>01-01-1992</item>
+        <item>04-02-2013</item>
+        <item>05-04-1995</item>
+        <item>06-08-1999</item>
+        <item>21-06-1996</item>
+        <item>18-01-2014</item>
+        <item>23-01-2006</item>
+        <item>13-01-2012</item>
+        <item>17-01-1993</item>
+        <item>08-01-1980</item>
+        <item>10-01-1982</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Siempre</item>
         <item>Sólo cuando el timbre se silencia</item>
@@ -247,5 +260,65 @@
         <item>1 día antes</item>		
         <item>2 días antes</item>		
         <item>1 semana antes</item>		
-    </string-array>	
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Aries</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>tauro</item>
+        <item>Tauro</item>
+        <item>29/4 - 20/5</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>géminis</item>
+        <item>Géminis</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cáncer</item>
+        <item>Cáncer</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Leo</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Virgo</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Libra</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>escorpio</item>
+        <item>Escorpio</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagitario</item>
+        <item>Sagitario</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricornio</item>
+        <item>Capricornio</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>acuario</item>
+        <item>Acuario</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>piscis</item>
+        <item>Piscis</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
  </resources>
