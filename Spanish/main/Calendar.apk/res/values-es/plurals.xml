@@ -2,15 +2,15 @@
 <resources>
     <plurals name="Nminutes">
         <item quantity="other">%d minutos antes</item>
-        <item quantity="one">1 minuto antes</item>
+        <item quantity="one">%d minuto antes</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d horas antes</item>
-        <item quantity="one">1 hora antes</item>
+        <item quantity="one">%d hora antes</item>
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d días antes</item>
-        <item quantity="one">1 día antes</item>
+        <item quantity="one">%d día antes</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">%d SEMANA</item>
@@ -18,14 +18,6 @@
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
-    </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">%d eventos</item>
-        <item quantity="one">1 evento</item>
-    </plurals>
-    <plurals name="N_remaining_events">
-        <item quantity="other">+%d eventos</item>
-        <item quantity="one">+1 evento</item>
     </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">Hace %1$d días en %2$s</item>
@@ -37,7 +29,7 @@
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d semanas antes</item>
-        <item quantity="one">1 semana antes</item>
+        <item quantity="one">%d semana antes</item>
     </plurals>
 	<plurals name="anniversary_notify_title">
         <item quantity="other">Aniversario: %2$d años desde %1$s</item>
