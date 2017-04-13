@@ -2160,9 +2160,9 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="lock_screen_notifications_summary_show">Mostrar contenido de notificaciones</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostrar todo el contenido de las notificaciones de trabajo</string>
   <string name="lock_screen_notifications_title">En la pantalla de bloqueo</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Contraseña requerida inmediatamente.</string>
-  <string name="lock_screen_secure_after_timeout_summary">Contraseña requerida en %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Contraseña requerida</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Solicitar contraseña inmediatamente.</string>
+  <string name="lock_screen_secure_after_timeout_summary">Solicitar contraseña: %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Solicitar contraseña</string>
   <string name="lock_screen_signature_summary">Este mensaje se mostrará en la Pantalla de bloqueo</string>
   <string name="lock_screen_signature_title">Información del propietario en la Pantalla de bloqueo</string>
   <string name="lock_screen_unlock_show">Ocultar pantalla de bloqueo</string>
@@ -2607,7 +2607,7 @@ Seleccione su sistema operativo:"</string>
   <string name="music_mi_effect_summary">Usar potenciador Mi Sound cuando se utilicen altavoces</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
-  <string name="music_unsupport_effect_summary">Auriculares USB no compatibles</string>
+  <string name="music_unsupport_effect_summary">"Los auriculares USB no son compatibles"</string>
   <string name="musicfx_title">Efectos de música</string>
   <string name="mvno_match_data">Valor de OMV</string>
   <string name="mvno_type">Tipo de OMV</string>
