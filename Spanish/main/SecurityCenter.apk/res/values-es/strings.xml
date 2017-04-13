@@ -1221,7 +1221,7 @@ responda</string>
   <string name="power_save_mode_end_time">Fin</string>
   <string name="power_save_mode_ontime_enabled">Programar tiempo para cambiar entre los modos</string>
   <string name="power_save_mode_start_time">Comienzo</string>
-  <string formatted="false" name="power_save_mode_summary">Supervisar los procesos en segundo plano, y desactivar la sincronización.El economizador de batería se apagará automáticamente cuando la batería este entre el 60% y el 100% de la carga.</string>
+  <string name="power_save_mode_summary" formatted="false">Supervise los procesos de fondo y desactive la sincronización. El protector de batería se apagará automáticamente cuando la batería esté cargada al 60% o al 100%.</string>
   <string name="power_save_on_time_auto_save_title">Programar cambio de perfil</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary">Terminar</string>
