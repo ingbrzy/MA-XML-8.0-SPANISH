@@ -22,6 +22,7 @@
   <string name="acessibility_selected_marker_description">Evento seleccionado</string>
   <string name="acessibility_snooze_notification">Notificación de repetición</string>
   <string name="action_label">Regresar</string>
+  <string name="action_text_card_manager">Suscribirse Canal</string>
   <string name="action_text_online">Suscribirse</string>
   <string name="action_text_today">Hoy</string>
   <string name="ad_card_connecting">Conexión</string>
@@ -78,6 +79,15 @@
   <string name="can_not_modify_allday_event">Los eventos de todo el día no se pueden modificar</string>
   <string name="can_not_modify_event">No se puede modificar</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Los eventos periódicos no se pueden modificar</string>
+  <string name="card_detail_dialog_message">“%1$s se actualizará todos los días, podrá comprobar los contenidos más recientes una vez que se suscriba correctamente. ¡No te pierdas ningún gran contenido!</string>
+  <string name="card_detail_dialog_negative">Suscribirse más tarde</string>
+  <string name="card_detail_dialog_positive">Suscríbase ahora</string>
+  <string name="card_detail_dialog_title">¿Quiere suscribirse ahora?</string>
+  <string name="card_detail_hint">El contenido se mostrará en la página de inicio y se actualizará todos los días una vez que se suscriba correctamente</string>
+  <string name="card_detail_title">Detalles de la Suscripción</string>
+  <string name="card_manager">Suscripción al administrador</string>
+  <string name="card_manager_no_data">No hay Tarjeta de Suscripción :)</string>
+  <string name="card_title_change">Más</string>
   <string name="card_manager">Administrador de tarjeta</string>
   <string name="card_title_change">Cambiar</string>
   <string name="change_response_title">Cambiar respuesta</string>
@@ -117,10 +127,10 @@
   <string name="day_view">Día</string>
   <string name="day_view_new_event_hint">Nuevo evento</string>
   <string name="default_reminder_mode">Recordatorios</string>
-  <string name="delete_calendar">Anular suscripción</string>
+  <string name="delete_calendar">Anular la suscripción</string>
   <string name="delete_recurring_event_title">¿Eliminar %s?</string>
   <string name="delete_this_event_title">¿Eliminar este evento?</string>
-  <string name="deleting_calendar">Darse de baja en</string>
+  <string name="deleting_calendar">Cancelar la suscripción</string>
   <string name="departure">Salida</string>
   <string name="description_calendar">Aplicaciones del Sistema/Calendario</string>
   <string name="description_calendar_edit_event">Aplicaciones del Sistema/Calendario/Agenda</string>  
@@ -204,6 +214,7 @@
   <string name="from_google_group_calendar">Calendario de Google</string>
   <string name="gadget_no_events">No hay eventos de calendario próximos</string>
   <string name="gadget_title">Calendario</string>
+  <string name="global_action_text_card_manager">Calendario más interesante</string>
   <string name="goto_today">Hoy</string>
   <string name="guide_card_hint_text">Importar cumpleaños de contactos</string>
   <string name="hide_controls">Ocultar controles</string>
@@ -218,7 +229,7 @@
   <string name="horoscope_card_financial">Financiero：</string>
   <string name="horoscope_card_love">Amor:</string>
   <string name="horoscope_card_working">Trabajo：</string>
-  <string name="horoscope_select_activity_label">Seleccione la constelación</string>
+  <string name="horoscope_select_activity_label">Seleccione Horóscopo</string>
   <string name="huangli_bad_type">Evitar</string>
   <string name="huangli_good_type">Yo</string>
   <string name="import_action">Importar</string>
@@ -270,7 +281,8 @@
   <string name="new_event_dialog_label">Nuevo evento</string>
   <string name="new_event_dialog_option">Nuevo evento</string>
   <string name="no_contact_birthday_hint">No hay cumpleaños para importar</string>
-  <string name="no_network">No hay red, por favor intente actualizar la red de nuevo :)</string>
+  <string name="no_network">"No se pudo conectar a la red.
+Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="no_network_btn">Try again</string>
   <string name="no_title_label">(Sin título)</string>
   <string name="no_visiable_calendar_message">Es necesario seleccionar una cuenta de calendario. Toque Seleccionar cuenta para continuar.</string>
@@ -372,6 +384,21 @@
   <string name="sms_import_description">Una mejor gestión de los mensajes de eventos relacionados con el tiempo</string>
   <string name="snooze_all_label">Repetir todos</string>
   <string name="snooze_label">Repetir</string>
+  <string name="subscribe_card">Suscríbase ahora</string>
+  <string name="subscribe_card_success">¡Suscrito correcto! Verifique los detalles en la página principal</string>
+  <string name="subscribe_card_success_for_homepage">Suscrito“%1$s”correcto</string>
+  <string name="subscribe_channel_bottom_hint">—— Calendario de Xiaomi ——</string>
+  <string name="subscribe_channel_click_hint">Leer una vez suscrito</string>
+  <string name="subscribe_channel_footer_button">Gestión de suscripciones</string>
+  <string name="subscribe_channel_footer_desc">Revise las tarjetas suscritas o cancele la suscripción de la tarjeta en la administración</string>
+  <string name="subscribe_channel_footer_title">Suscritos</string>
+  <string name="subscribe_channel_footer_view">Comprobar</string>
+  <string name="subscribe_channel_hint">"Suscríbese a las funciones y servicios que te correspondan, se mostrarán en la página de inicio una vez que hayas suscripto la tarjeta.
+ ¡También puede añadir recordatorios para no perder ningún gran contenido!"</string>
+  <string name="subscribe_channel_subscribe">Suscribir</string>
+  <string name="subscribe_channel_subscribing">Suscribirse</string>
+  <string name="subscribe_channel_title">Suscribirse Canal</string>
+  <string name="subscribing_card">Suscribirse</string>
   <string name="synced">sincronizado</string>
   <string name="taishen">taishen</string>
   <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
@@ -414,6 +441,9 @@
   <string name="travel_seat_number_text">Asiento</string>
   <string name="travel_train_number_text">Tren</string>
   <string name="travel_train_station">Estación de tren</string>
+  <string name="unsubscribe_card">Anular la suscripción</string>
+  <string name="unsubscribe_card_success">Anulada la suscripción“%1$s”con éxito</string>
+  <string name="unsubscribing_card">Cancelar la suscripción</string>
   <string name="user_notice_button_exit">Salir</string>
   <string name="user_notice_button_ok">Aceptar</string>
   <string name="user_notice_declaration_ignore">No mostrar de nuevo</string>
