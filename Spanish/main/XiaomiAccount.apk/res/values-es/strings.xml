@@ -20,7 +20,7 @@
   <string name="account_error_user_birthday">El cumpleaños introducido no es válido</string>
   <string name="account_has_been_set">Cambiar</string>
   <string name="account_limit_update_birthday">No puede actualizar el cumpleaños ahora</string>
-  <string name="account_mipay_info">Mi pay</string>
+  <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Ninguna</string>
   <string name="account_none">Ninguna</string>
   <string name="account_none_binded_info">Ninguno</string>
@@ -28,9 +28,9 @@
   <string name="account_protection">Protección de la cuenta</string>
   <string name="account_protection_off">Apagado</string>
   <string name="account_protection_on">Encendido</string>
-  <string name="account_secure_info_pref_title">Informacion de la Cuenta</string>
-  <string name="account_security">Seguridad de la Cuenta</string>
-  <string name="account_security_info_pref_title">Información de Seguridad</string>
+  <string name="account_secure_info_pref_title">Informacion de la cuenta</string>
+  <string name="account_security">Seguridad de la cuenta</string>
+  <string name="account_security_info_pref_title">Información de seguridad</string>
   <string name="account_user_avatar">Foto de perfil</string>
   <string name="account_user_avatar_from_album">Elegir foto</string>
   <string name="account_user_avatar_from_camera">Tomar una foto</string>
@@ -154,7 +154,7 @@
   <string name="mipay_bank_card">tarjeta bancaria</string>
   <string name="mipay_identity">Identidad</string>
   <string name="mipay_others">Otros</string>
-  <string name="mipay_transit_card">Tarjeta de tránsito</string>
+  <string name="mipay_transit_card">Tarjeta de transporte</string>
   <string name="multi_user_not_show_sync_activity_message_1">Parece que usted está utilizando su cuenta de Primer espacio.</string>
   <string name="multi_user_not_show_sync_activity_message_2">Por esta razón, todos los datos se sincronizarán con el segundo espacio. Para evitar esto, no activar la sincronización con Mi Cloud.</string>
   <string name="multi_user_not_show_sync_activity_title">No activar la sincronización con Mi Cloud</string>
@@ -404,6 +404,7 @@ Para activar su cuenta, siga el
   <string name="verified_devices">Dispositivos verificados</string>
   <string name="verify_phone_prompt">Selecciona un número de teléfono para verificar</string>
   <string name="verify_phone_title">Verificar número de teléfono</string>
-  <string name="vip_account_settings">Ajustes Vip</string>
+  <string name="vip_account_settings">Ajustes VIP</string>
   <string name="vip_more_info">Más información Vip</string>
+  <string name="xiao_mi_vip">VIP Mi</string>
 </resources>
