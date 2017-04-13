@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">Introduzca la ubicación</string>
-  <string name="act_find_city_hot_title">Añadir</string>
-  <string name="act_set_city_find_side">Ubicando…</string>
+  <string name="act_find_city_hot_attractions_title">Sitios populares</string>
+  <string name="act_find_city_hot_city_title">Ciudades populares</string>
+  <string name="act_set_city_find_side">Localización</string>
   <string name="act_set_city_find_side_error">No se puede ubicar el dispositivo</string>
   <string name="act_weather_find_city_added">Añadida</string>
   <string name="act_weather_find_city_click_retry">Inténtalo de nuevo</string>
@@ -63,7 +64,7 @@
   <string name="change_alert">Compruebe su conexión de red y vuelve a intentarlo</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Un momento…</string>
-  <string name="connect_fail">La conexión a la red no es estable. Por favor inténtelo más tarde.</string>
+  <string name="connect_fail">"No se pudo conectar a la red, intente de nuevo"</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Pronóstico para %1$s días</string>
   <string name="daily_forcast_no_stable_direction">Brisa</string>
@@ -77,7 +78,7 @@
 Tire hacia abajo para actualizar o comprobar los ajustes de red"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Administrar alertas</string>
-  <string name="edit_city">Editar ciudad</string>
+  <string name="edit_city">Administrar la ciudad</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Para obtener la información del tiempo, es necesario conectarse a Internet.</string>
   <string name="first_start_network_title">Alerta de conexión</string>
@@ -123,10 +124,10 @@ Tire hacia abajo para actualizar o comprobar los ajustes de red"</string>
   <string name="international_details_wind_title">VIENTO</string>
   <string name="locate_fail_detail_err">No se puede localizar el dispositivo
 Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
-  <string name="location_management">Ubicaciones</string>
   <string name="location_tag">Localizar</string>
   <string name="menu_add_city">Añadir o borrar la ciudad</string>
   <string name="menu_location">Ubicaciones</string>
+  <string name="menu_speeker">Difusión de voz</string>
   <string name="more_details">Más detalles</string>
   <string name="network_not_available">No se puede conectar a la red.</string>
   <string name="network_unavailable">No se puede conectar a la red.</string>
