@@ -5,6 +5,31 @@
         <item>4G / CDMA</item>
         <item>4G / GSM / UMTS</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA, 4G, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA and EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA and 4G</item>
+        <item>TD-SCDMA, WCDMA and 4G</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM and 4G</item>
+        <item>TD-SCDMA and GSM</item>
+        <item>TD-SCDMA and 4G</item>
+        <item>TD-SCDMA and WCDMA</item>
+        <item>TD-SCDMA only</item>
+        <item>4G/WCDMA</item>
+        <item>4G only</item>
+        <item>4G/GSM/CDMA auto (PRL)</item>
+        <item>4G/GSM auto (PRL)</item>
+        <item>4G/CDMA auto (PRL)</item>
+        <item>GSM/CDMA auto (PRL)</item>
+        <item>EvDo only</item>
+        <item>CDMA only</item>
+        <item>CDMA auto (PRL)</item>
+        <item>GSM auto (PRL)</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>WCDMA preferred</item>
+    </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
         <item>TD-SCDMA</item>
