@@ -51,5 +51,24 @@
         <item quantity="other">días que quedan</item>
         <item quantity="one">día que queda</item>
     </plurals>
-
-</resources>
+    <plurals name="work_days">
+        <item quantity="other">%d días laborables</item>
+        <item quantity="one">%d día laborable</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">Hacia adelante %1$d días</item>
+        <item quantity="one">Hacia adelante %1$d día</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">Hacia atrás %1$d días</item>
+        <item quantity="one">Hacia atrás %1$d día</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">Hace %1$d días</item>
+        <item quantity="one">Hace %1$d día</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d días despues</item>
+        <item quantity="one">%1$d día despues</item>
+    </plurals>
+    </resources>
