@@ -34,7 +34,10 @@
   <string name="ad_card_installing">Instalando</string>
   <string name="ad_card_network_error">No hay conexión a la red, por favor intente de nuevo ¡más tarde!</string>
   <string name="ad_card_spread">Divulgación</string>
+  <string name="add_anniversary">Añadir Aniversario</string>
   <string name="add_card">Añadir tarjeta</string>
+  <string name="add_countdown">Añadir cuenta atrás</string>
+  <string name="add_event">Añadir evento</string>
   <string name="agenda_today">HOY, %1$s</string>
   <string name="agenda_tomorrow">MAÑANA, %1$s</string>
   <string name="agenda_view">Agenda</string>
@@ -56,12 +59,14 @@
   <string name="birthday_event_description_day_before_yesterday">Anteayer</string>
   <string name="birthday_event_description_days_ago">Hace %1$s días</string>
   <string name="birthday_event_description_days_later">Dentro de %1$s días</string>
+  <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">%1$s %3$s %4$s %5$s de %2$s</string>
   <string name="birthday_event_description_today">Hoy es</string>
   <string name="birthday_event_description_tomorrow">Mañana es</string>
   <string name="birthday_event_description_yesterday">Ayer fue</string>
-  <string name="birthday_metric">" años"</string>
   <string name="birthday_event_title_suffix">"el cumpleaños de"</string>
+  <string name="birthday_metric">" años"</string>
+  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">%1$s días para el %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">No olvides felicitarle</string>
   <string name="birthday_notification_title_days_later">Pronto será el %2$s de %1$s</string>
@@ -73,6 +78,7 @@
   <string name="button_day">Día</string>
   <string name="button_month">Mes</string>
   <string name="button_week">Sem.</string>
+  <string name="calculate_result">Calcular resultado</string>
   <string name="calendar_network_error">Error de red</string>
   <string name="calendar_refresh">Actualizar</string>
   <string name="can_not_create_long_event">El nombre del evento es demasiado largo</string>
@@ -100,7 +106,7 @@
   <string name="countdown_event_title">Cuenta atrás: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Cuenta atrás: %1$s en 3 días</string>
   <string name="countdown_notify_title">Cuenta atrás: %1$s</string>
-   <string name="countdown_today">Hoy</string>
+  <string name="countdown_today">Hoy</string>
   <string name="create_an_account_desc">"El calendario funciona mejor con una Cuenta Mi.
 
 • Acceso desde cualquier navegador
@@ -121,7 +127,22 @@
   <string name="credit_event_title">Factura de la tarjeta de crédito</string>
   <string name="custom">Personalizado (no se puede personalizar en el teléfono)</string>
   <string name="daily">Diario</string>
+  <string name="date_calculate">Calcular fecha</string>
+  <string name="date_calculate_days">Por favor, introduzca un número de días</string>
+  <string name="date_calculate_description">Calcular la fecha antes o después de unos pocos días</string>
+  <string name="date_calculate_direction"Direccíon de cálculo de fecha</string>
+  <string name="date_calculate_result">Resultado de calcular fecha</string>
+  <string name="date_calculate_tab">Calcular fecha</string>
+  <string name="date_calculate_today">0 días</string>
+  <string name="date_calculate_when">Cuando</string>
+  <string name="date_interval_description">Calcular el intervalo entre dos fechas</string>
+  <string name="date_interval_end">A</string>
+  <string name="date_interval_start">Desde</string>
+  <string name="date_interval_tab">Intervalo de fechas</string>
+  <string name="date_interval_text_to">A %1$s</string>
   <string name="date_pattern_mm_dd">ddíaMMes</string>
+  <string name="date_time_fmt">%s, %s</string>
+  <string name="date_today">(hoy)</string>
   <string name="day_view">Día</string>
   <string name="day_view_new_event_hint">Nuevo evento</string>
   <string name="default_reminder_mode">Recordatorios</string>
@@ -131,7 +152,7 @@
   <string name="deleting_calendar">Cancelar la suscripción</string>
   <string name="departure">Salida</string>
   <string name="description_calendar">Aplicaciones del Sistema/Calendario</string>
-  <string name="description_calendar_edit_event">Aplicaciones del Sistema/Calendario/Agenda</string>  
+  <string name="description_calendar_edit_event">Aplicaciones del Sistema/Calendario/Agenda</string>
   <string name="description_label">Descripción</string>
   <string name="directory_searching_fmt">Buscando %s…</string>
   <string name="discard_label">Cancelar</string>
@@ -143,16 +164,20 @@
   <string name="downloading">Descargando</string>
   <string name="downloading_wallpaper">Descargando imagen</string>
   <string name="dropdown_delete_button_desc">Quitar %s de destinatarios</string>
+  <string name="edit_date_calculate_days_backward_error_hint">No puede ser calculado hacia atrás</string>
+  <string name="edit_date_calculate_days_empty_hint">El número de días no puede estar vacío</string>
+  <string name="edit_date_calculate_days_error_hint">Por favor, introduzca los días correctos dentro de %1$d</string>
+  <string name="edit_date_calculate_days_forward_error_hint">No puede ser calculado hacia adelante</string>
   <string name="edit_event_all_day_label">Todo el día</string>
   <string name="edit_event_anniversary_name_empty_hint">Introduzca el nombre del evento</string>
   <string name="edit_event_anniversary_name_hint">Evento</string>
   <string name="edit_event_birthday_3_days_before">Y recordar 3 días antes</string>
-  <string name="edit_event_birthday_reminder_summary">Ese día en %1$s</string>
-  <string name="edit_event_birthday_reminder_summary_3_days_before">Recordar 3 días antes y ese día en %1$s</string>
   <string name="edit_event_birthday_import_from_contact">Importar cumpleaños de los contactos</string>
   <string name="edit_event_birthday_name_empty_hint">Ingresa un nombre</string>
   <string name="edit_event_birthday_name_hint">Nombre</string>
   <string name="edit_event_birthday_reminder_3_days_before">Recordar 3 días antes</string>
+  <string name="edit_event_birthday_reminder_summary">Ese día en %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">Recordar 3 días antes y ese día en %1$s</string>
   <string name="edit_event_birthday_reminder_time">Tiempo de aviso</string>
   <string name="edit_event_calendar_label">Calendario</string>
   <string name="edit_event_choose_date">Elegir fecha</string>
@@ -162,6 +187,7 @@
   <string name="edit_event_from_label">Desde</string>
   <string name="edit_event_input_year">Introduzca el año</string>
   <string name="edit_event_label">Detalles</string>
+  <string name="edit_event_no_reminder_value">No lo recuerdes</string>
   <string name="edit_event_reminder_3_days_before">Recordármelo con 3 días de antelación</string>
   <string name="edit_event_reminder_summary">En ese día a las %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">Con 3 días de antelación, y ese día a las %1$s</string>
@@ -221,7 +247,6 @@
   <string name="hint_what">Nombre del evento</string>
   <string name="hint_where">Ubicación</string>
   <string name="holiday_card_title">Festivo</string>
-  <string name="path_calendar_settings">Aplicaciones del Sistema/Calendario/Ajustes</string>
   <string name="holiday_label">Festivales chinos</string>
   <string name="horoscope_card_comprehensive">Integral：</string>
   <string name="horoscope_card_financial">Financiero：</string>
@@ -287,8 +312,10 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="no_visiable_calendar_select_account">Seleccione cuenta</string>
   <string name="no_visiable_calendar_title">Seleccione una cuenta de calendario</string>
   <string name="not_synced">no sincronizado</string>
+  <string name="olympic_vs">VS</string>
   <string name="online_reminder_header_text">Recordar</string>
   <string name="path_calendar">Aplicaciones del sistema/Calendario/Ajustes</string>
+  <string name="path_calendar_settings">Aplicaciones del Sistema/Calendario/Ajustes</string>
   <string name="pengzu">pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
   <string name="pref_error_no_ringtone_select">Tono de llamada predeterminado</string>
@@ -300,10 +327,10 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="preferences_alerts_ringtone_title">Sonido</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
   <string name="preferences_alerts_vibrate_title">Vibración y tonos</string>
+  <string name="preferences_build_version">Versión</string>
   <string name="preferences_default_allday_reminder_title">Tiempo de recordatorio de todo el día predeterminado</string>
   <string name="preferences_default_reminder_dialog">Tiempo de recordatorio predeterminado</string>
   <string name="preferences_default_reminder_title">Tiempo de recordatorio predeterminado</string>
-  <string name="preferences_build_version">Versión</string>
   <string name="preferences_home_tz_title">Zona horaria propia</string>
   <string name="preferences_import_credit_repayment">Pagos con tarjeta de crédito</string>
   <string name="preferences_notification_ringtone_title">Sonido</string>
@@ -382,6 +409,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="sms_import_description">Una mejor gestión de los mensajes de eventos relacionados con el tiempo</string>
   <string name="snooze_all_label">Repetir todos</string>
   <string name="snooze_label">Repetir</string>
+  <string name="start_date_calculate">Comenzar a calcular</string>
   <string name="subscribe_card">Suscríbase ahora</string>
   <string name="subscribe_card_success">¡Suscrito con éxito! Compruebe los detalles en la página de inicio.</string>
   <string name="subscribe_card_success_for_homepage">Se ha suscrito a “%1$s” correctamente</string>
@@ -452,6 +480,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="view_event_calendar_label">Calendario:</string>
   <string name="view_event_organizer_label">Organizador:</string>
   <string name="view_event_response_label">¿Asistirá?</string>
+  <string name="view_in_month_view">Ver en vista mensual</string>
   <string name="week_view">Semana</string>
   <string name="week_view_today_toast">Ahora está viendo esta semana</string>
   <string name="weekly">Semanal (cada %s)</string>
