@@ -34,7 +34,7 @@
   <string name="ad_card_installing">Instalando</string>
   <string name="ad_card_network_error">No hay conexión a la red, por favor intente de nuevo ¡más tarde!</string>
   <string name="ad_card_spread">Divulgación</string>
-  <string name="add_anniversary">Añadir Aniversario</string>
+  <string name="add_anniversary">Añadir aniversario</string>
   <string name="add_card">Añadir tarjeta</string>
   <string name="add_countdown">Añadir cuenta atrás</string>
   <string name="add_event">Añadir evento</string>
@@ -78,7 +78,7 @@
   <string name="button_day">Día</string>
   <string name="button_month">Mes</string>
   <string name="button_week">Sem.</string>
-  <string name="calculate_result">Calcular resultado</string>
+  <string name="calculate_result">Resultado</string>
   <string name="calendar_network_error">Error de red</string>
   <string name="calendar_refresh">Actualizar</string>
   <string name="can_not_create_long_event">El nombre del evento es demasiado largo</string>
@@ -128,17 +128,17 @@
   <string name="custom">Personalizado (no se puede personalizar en el teléfono)</string>
   <string name="daily">Diario</string>
   <string name="date_calculate">Calcular fecha</string>
-  <string name="date_calculate_days">Por favor, introduzca un número de días</string>
-  <string name="date_calculate_description">Calcular la fecha antes o después de unos pocos días</string>
-  <string name="date_calculate_direction">Direccíon de cálculo de fecha</string>
-  <string name="date_calculate_result">Resultado de calcular fecha</string>
+  <string name="date_calculate_days">Introduzca el número de días</string>
+  <string name="date_calculate_description">Aprenda qué fecha es antes o después de un cierto día</string>
+  <string name="date_calculate_direction">Dirección</string>
+  <string name="date_calculate_result">Resultado</string>
   <string name="date_calculate_tab">Calcular fecha</string>
   <string name="date_calculate_today">0 días</string>
-  <string name="date_calculate_when">Cuando</string>
-  <string name="date_interval_description">Calcular el intervalo entre dos fechas</string>
+  <string name="date_calculate_when">Comenzar</string>
+  <string name="date_interval_description">Aprende cuántos días hay entre 2 fechas</string>
   <string name="date_interval_end">A</string>
   <string name="date_interval_start">Desde</string>
-  <string name="date_interval_tab">Intervalo de fechas</string>
+  <string name="date_interval_tab">Intervalo</string>
   <string name="date_interval_text_to">A %1$s</string>
   <string name="date_pattern_mm_dd">ddíaMMes</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
@@ -164,10 +164,10 @@
   <string name="downloading">Descargando</string>
   <string name="downloading_wallpaper">Descargando imagen</string>
   <string name="dropdown_delete_button_desc">Quitar %s de destinatarios</string>
-  <string name="edit_date_calculate_days_backward_error_hint">No puede ser calculado hacia atrás</string>
-  <string name="edit_date_calculate_days_empty_hint">El número de días no puede estar vacío</string>
-  <string name="edit_date_calculate_days_error_hint">Por favor, introduzca los días correctos dentro de %1$d</string>
-  <string name="edit_date_calculate_days_forward_error_hint">No puede ser calculado hacia adelante</string>
+  <string name="edit_date_calculate_days_backward_error_hint">"No se puede calcular hacia delante"</string>
+  <string name="edit_date_calculate_days_empty_hint">Introduzca el número de días</string>
+  <string name="edit_date_calculate_days_error_hint">Introduzca los días dentro de %1$d</string>
+  <string name="edit_date_calculate_days_forward_error_hint">"No se puede calcular hacia atrás"</string>
   <string name="edit_event_all_day_label">Todo el día</string>
   <string name="edit_event_anniversary_name_empty_hint">Introduzca el nombre del evento</string>
   <string name="edit_event_anniversary_name_hint">Evento</string>
@@ -409,7 +409,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="sms_import_description">Una mejor gestión de los mensajes de eventos relacionados con el tiempo</string>
   <string name="snooze_all_label">Repetir todos</string>
   <string name="snooze_label">Repetir</string>
-  <string name="start_date_calculate">Comenzar a calcular</string>
+  <string name="start_date_calculate">Calcular</string>
   <string name="subscribe_card">Suscríbase ahora</string>
   <string name="subscribe_card_success">¡Suscrito con éxito! Compruebe los detalles en la página de inicio.</string>
   <string name="subscribe_card_success_for_homepage">Se ha suscrito a “%1$s” correctamente</string>
@@ -480,7 +480,7 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="view_event_calendar_label">Calendario:</string>
   <string name="view_event_organizer_label">Organizador:</string>
   <string name="view_event_response_label">¿Asistirá?</string>
-  <string name="view_in_month_view">Ver en vista mensual</string>
+  <string name="view_in_month_view">Ver mes</string>
   <string name="week_view">Semana</string>
   <string name="week_view_today_toast">Ahora está viendo esta semana</string>
   <string name="weekly">Semanal (cada %s)</string>

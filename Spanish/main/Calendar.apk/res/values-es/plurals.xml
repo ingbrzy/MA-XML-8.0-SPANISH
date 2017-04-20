@@ -56,16 +56,16 @@
         <item quantity="one">%d día laborable</item>
     </plurals>
     <plurals name="date_calculate_direction_forward">
-        <item quantity="other">Hacia adelante %1$d días</item>
-        <item quantity="one">Hacia adelante %1$d día</item>
+        <item quantity="other">%1$d días antes</item>
+        <item quantity="one">%1$d día antes</item>
     </plurals>
     <plurals name="date_calculate_direction_backward">
-        <item quantity="other">Hacia atrás %1$d días</item>
-        <item quantity="one">Hacia atrás %1$d día</item>
+        <item quantity="other">%1$d días despues</item>
+        <item quantity="one">%1$d día despues</item>
     </plurals>
     <plurals name="date_calculate_days_ago">
-        <item quantity="other">Hace %1$d días</item>
-        <item quantity="one">Hace %1$d día</item>
+        <item quantity="other">%1$d días antes</item>
+        <item quantity="one">%1$d día antes</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d días despues</item>

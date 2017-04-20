@@ -535,7 +535,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="block_list_qcom_dialog_content">Esta acción desconectará a “%s” desde este dispositivo y lo agregara a la lista de bloqueo</string>
   <string name="block_list_remove_dialog_content">Este dispositivo “%s” será capaz de conectarse a este punto de acceso</string>
   <string name="block_list_remove_dialog_title">Eliminar a “%s” de la lista de bloqueo</string>
-  <string name="block_list_summary">Ver dispositivos que no están autorizados a conectarse a este punto de acceso</string>
+  <string name="block_list_summary">"Ver dispositivos que no están autorizados a conectarse a este hotspot"</string>
   <string name="block_list_title">Lista de bloqueo</string>
   <string name="bluetooth">Ajustes de Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Conectado al audio del medio</string>
@@ -3955,7 +3955,7 @@ Es posible que el PIN no sea correcto."</string>
   <string name="sim_status_title">Estado SIM</string>
   <string name="simulate_color_space">Simular espacio de color</string>
   <string name="single_key_use">Tecla de un solo uso</string>
-  <string name="single_key_use_summary">Tecla Inicio en vez de los otros dos botones para operaciones normales</string>
+  <string name="single_key_use_summary">Utilice el botón de inicio para las funciones realizadas por los otros 2 botones</string>
   <string name="skip_anyway_button_label">Saltar de todas formas</string>
   <string name="skip_label">Saltar</string>
   <string name="skip_lock_screen_confirm_msg">Notificaciones, controles del reproductor de música, cámara, y Mi Home serán desactivados en la pantalla de bloqueo.</string>

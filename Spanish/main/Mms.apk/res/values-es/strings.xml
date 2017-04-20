@@ -297,7 +297,7 @@
   <string name="multimedia_message">Mensajes multimedia</string>
   <string name="multimedia_notification">Notificación de mensaje multimedia</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">Puede ser necesario un mensaje SMS saliente para activar el servicio de texto y voz gratuito. Su operadora le cobrará por este mensaje. Además, este servicio usará la Red.</string>
+  <string name="mx_activate_allow_notice">Puede ser necesario un mensaje SMS saliente para activar el servicio de texto y voz gratuito. Su operador le cobrará por este mensaje. Además, este servicio necesita acceso a datos móviles para funcionar normalmente.</string>
   <string name="mx_activate_dlg_title">Activar Mensajes Mi</string>
   <string name="mx_activate_dlg_title_ex">Activate Mensajes Mi y Voz Mi</string>
   <string name="mx_activate_error_malformed_info">Tienes que reactivar Mensajes Mi.</string>
@@ -310,7 +310,7 @@
   <string name="mx_activate_int_hint_malformed_info">Puede ser necesario un mensaje SMS internacional saliente para reactivar Mensajes Mi. Su operadora le cobrará por este mensaje.</string>
   <string name="mx_activate_int_hint_server">Puede ser necesario un mensaje SMS internacional saliente para reactivar Mensajes Mi. Su operadora le cobrará por este mensaje.</string>
   <string name="mx_activate_int_hint_sim_change">Parece que has cambiado las tarjetas SIM. Puede ser necesario un mensaje SMS saliente para reactivar Mensajes Mi. Su operadora le cobrará por este mensaje.</string>
-  <string name="mx_activate_network_allow_notice">Este servicio usará la Red.</string>
+  <string name="mx_activate_network_allow_notice">Este servicio necesita acceso a datos móviles para funcionar normalmente.</string>
   <string name="mx_activate_notice">El sistema enviará un mensaje de texto para activar el servicio de sincronización, ¿desea continuar?</string>
   <string name="mx_activate_status_desc_activating_now">Activando…</string>
   <string name="mx_activate_status_desc_check_net_connection">No se pudo conectar a la red</string>
