@@ -80,4 +80,16 @@
         <item quantity="other">(%1$d archivos vacíos) %2$s</item>
         <item quantity="one">(%1$d archivos vacío) %2$s</item>
     </plurals>
+        <plurals name="app_usage_day">
+        <item quantity="other">"No lo ha usado durante %d días"</item>
+    <item quantity="one">"No lo ha usado durante %d día"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"No lo ha usado durante %d meses"</item>
+        <item quantity="one">"No lo ha usado durante %d mes"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"No lo ha usado durante %d años"</item>
+        <item quantity="one">"No lo ha usado durante %d año"</item>
+    </plurals>
 </resources>
