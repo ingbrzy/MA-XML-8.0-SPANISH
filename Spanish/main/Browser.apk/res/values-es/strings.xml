@@ -67,6 +67,7 @@
   <string name="add_shortcut_success">Añadido con éxito el acceso directo</string>
   <string name="add_to_bookmark">Añadir a marcadores</string>
   <string name="add_to_desk">Añadido a la pantalla Inicio</string>
+  <string name="add_to_desk_lite_mode_toast">"No se pudo agregar a la Pantalla de inicio en el modo básico"</string>
   <string name="add_to_desk_success">Añadir a la pantalla Inicio</string>
   <string name="add_to_quicklink">Agregar a la página de inicio</string>
   <string name="added_to_bookmarks">Agregado a marcadores</string>
@@ -91,6 +92,7 @@
   <string name="autologin_bar_login_text">Iniciar sesión</string>
   <string name="autologin_bar_text">Iniciar sesión como</string>
   <string name="back">Atrás</string>
+  <string name="back_description">Atrás</string>
   <string name="block">Bloquear</string>
   <string name="block_ads_choice_block">Bloquear</string>
   <string name="block_ads_choice_continue">Continuar</string>
@@ -161,6 +163,7 @@
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturación</string>
   <string name="comment_app_menu">Comentario</string>
+  <string name="comment_description">Comentario</string>
   <string name="comment_hint">Comentario</string>
   <string name="comment_menu">Comentario</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.es</string>
@@ -313,6 +316,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="force_quick_search_title">Buscar</string>
   <string name="force_touch_bookmark_history_title">Marcadores e historial</string>
   <string name="force_touch_infoflow_title">Noticias</string>
+  <string name="forward_description">Adelante</string>
   <string name="geolocation_permissions_prompt_dont_share">Declinar</string>
   <string name="geolocation_permissions_prompt_message">%s quiere saber su ubicación</string>
   <string name="geolocation_permissions_prompt_remember">Recordar preferencia</string>
@@ -332,6 +336,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="have_sent_bookmark_to_home_screen">Puesto en la pantalla de inicio</string>
   <string name="hint">Pista</string>
   <string name="history_saved_webpage">Páginas guardadas</string>
+  <string name="home_description">Página principal</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Borrar</string>
   <string name="homepage_get_location">Obtener localización</string>
@@ -455,6 +460,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Se necesita el almacenamiento USB para modificar esta ruta</string>
   <string name="month_picker_dialog_title">Fijar en este mes</string>
+  <string name="more_description">Menú</string>
   <string name="more_option">Más opciones</string>
   <string name="nav_bottom_bar_back">Atrás</string>
   <string name="nav_bottom_bar_close_all">Cerrar todo</string>
@@ -711,6 +717,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="ssl_warnings_header">Hay problemas con el certificado de seguridad de este sitio.</string>
   <string name="start_save_page_capture">Guardando captura de pantalla…</string>
   <string name="storage_internal">Almacenamiento interno</string>
+  <string name="storage_permission_request_toast">Descargar necesita permiso de almacenamiento, ábralo</string>
   <string name="storage_sd_card">Tarjeta SD</string>
   <string name="storage_usb">Almacenamiento USB</string>
   <string name="suggest_access_appstore">Mi App Store</string>
@@ -731,6 +738,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="tab_hotpage">Noticias</string>
   <string name="tab_quicklinks">Página de inicio</string>
   <string name="tab_yellowpage">Popular</string>
+  <string name="tabs_description">Pestañas</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
