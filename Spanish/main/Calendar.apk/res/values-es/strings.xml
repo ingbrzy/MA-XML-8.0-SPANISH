@@ -65,8 +65,6 @@
   <string name="birthday_event_description_tomorrow">Mañana es</string>
   <string name="birthday_event_description_yesterday">Ayer fue</string>
   <string name="birthday_event_title_suffix">"el cumpleaños de"</string>
-  <string name="birthday_metric">" años"</string>
-  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">%1$s días para el %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">No olvides felicitarle</string>
   <string name="birthday_notification_title_days_later">Pronto será el %2$s de %1$s</string>
@@ -239,6 +237,7 @@
   <string name="gadget_no_events">No hay eventos de calendario próximos</string>
   <string name="gadget_title">Calendario</string>
   <string name="global_action_text_card_manager">Un calendario más interesante</string>
+  <string name="global_cricket_no_match">No hay partido de cricket hoy, y usted puede revisar los aspectos más destacados de las competiciones pasadas o probar otro partido. !Maravilloso evento, vale la pena la espera!</string>
   <string name="goto_today">Hoy</string>
   <string name="guide_card_hint_text">Importar cumpleaños de contactos</string>
   <string name="hide_controls">Ocultar controles</string>
@@ -275,6 +274,7 @@
   <string name="marketing_activity_text_flower">Enviar flores</string>
   <string name="marketing_activity_text_header">Enviar un regalo</string>
   <string name="menu_about_preferences">Acerca de Calendario</string>
+  <string name="match_select_activity_label">Seleccionar partidos</string>
   <string name="menu_general_preferences">Configuración general</string>
   <string name="menu_preferences">Ajustes</string>
   <string name="menu_reminder_preferences">Recordatorios</string>
@@ -354,8 +354,10 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="repeat_end_label">Dejar de repetir después de</string>
   <string name="repeat_end_times_unit">" veces"</string>
   <string name="repeat_interval_dialog_title">Cada %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$s</string>
-  <string name="repeat_interval_frequency_single">%1$s</string>
+  <string name="repeat_interval_frequency_day_single">día</string>
+  <string name="repeat_interval_frequency_month_single">mes</string>
+  <string name="repeat_interval_frequency_week_single">semana</string>
+  <string name="repeat_interval_frequency_year_single">año</string>
   <string name="repeat_label_choose_day">Elija día</string>
   <string name="repeat_label_choose_month">Elija mes</string>
   <string name="repeat_label_choose_time">Elija hora para el recordatorio</string>

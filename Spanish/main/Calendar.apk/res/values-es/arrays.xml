@@ -153,12 +153,6 @@
         <item>mes</item>
         <item>año</item>
     </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>días</item>
-        <item>semanas</item>
-        <item>meses</item>
-        <item>años</item>
-    </string-array>
     <string-array name="repeat_choose_weekday">
         <item>Lun</item>
         <item>Mar</item>
@@ -229,6 +223,12 @@
         <item>17-01-1993</item>
         <item>08-01-1980</item>
         <item>10-01-1982</item>
+    </string-array>
+    <string-array name="global_criket_match">
+        <item>IPL</item>
+        <item>Internacional</item>
+        <item>Nacional</item>
+        <item>Ligas T20</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Siempre</item>

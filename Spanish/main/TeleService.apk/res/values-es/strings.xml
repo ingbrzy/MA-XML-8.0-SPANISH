@@ -1111,6 +1111,7 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="sum_cfu_disabled">Desactivado</string>
   <string name="sum_cfu_enabled">Desviando todas las llamadas a {0}</string>
   <string name="sum_cfu_enabled_indicator">Desviar todas las llamadas</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">Todas las llamadas a SIM %s serán reenviadas</string>
   <string name="sum_cfu_enabled_no_number">Número no disponible</string>
   <string name="sum_cw_disabled">Notificarme de las llamadas entrantes durante las llamadas</string>
   <string name="sum_cw_enabled">Notificarme de llamadas entrantes durante una llamada</string>
@@ -1182,6 +1183,7 @@ El próximo período comienza en %2$d días (%3$s)"</string>
   <string name="time_start">De</string>
   <string name="time_start_hour">Hora de comienzo</string>
   <string name="time_start_minute">Minuto de comienzo</string>
+  <string name="title_cfu_enabled">El desvío de llamadas está activado</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="transport_title">Tipo de transporte</string>
   <string name="tty_mode_not_allowed_video_call">No se permite el cambio del modo TTY durante una videollamada</string>
