@@ -37,7 +37,7 @@ esta característica se añadirá al Segundo espacio de forma automática."</str
   <string name="confirmCloseSpaceDes">Usted no será capaz de entrar en el Segundo Espacio después de eliminarlo. Todos los datos serán movidos o eliminados.</string>
   <string name="confirmDelete">Eliminar</string>
   <string name="confirmSecondSpacePassword">Confirmar la contraseña del Segundo espacio</string>
-  <string name="confirm_airspace_password">Confirmar contraseña de espacio de trabajo</string>
+  <string name="confirm_airspace_password">Confirmar contraseña %s</string>
   <string name="confirm_main_space_password">Confirmar la contraseña del Primer espacio</string>
   <string name="confirm_restore">No mostrar</string>
   <string name="contactData">Contactos</string>
@@ -53,6 +53,7 @@ para poder verlos en cualquier momento"</string>
   <string name="create_space_loading">Creando Segundo espacio…</string>
   <string name="create_work_space">Crear espacio de trabajo</string>
   <string name="creating_app_icon">Creando icono…</string>
+  <string name="current_space">Espacio actual</string>
   <string name="dataSafe">Usar el Segundo espacio es como tener dos dispositivos.</string>
   <string name="declare_dialog_title">Acerca de las aplicaciones duplicadas</string>
   <string name="deleteAll">Eliminar todo</string>
@@ -85,6 +86,7 @@ para poder verlos en cualquier momento"</string>
   <string name="finger_print_num">Huella dactilar %d</string>
   <string name="finger_print_of_use">Use la huella dactilar</string>
   <string name="fingerprint_removal_failed">No se pudo borrar la huella dactilar</string>
+  <string name="function_not_support">No es compatible con este espacio</string>
   <string name="goToSecondSpacce">Ir al Segundo espacio</string>
   <string name="go_on_import">Mantener la importación</string>
   <string name="guide_contact_sub_title_desc">"Los contactos añadidos al Segundo espacio se mantendrán privados.
@@ -217,7 +219,7 @@ para ingresar al Segundo espacio desde la pantalla de bloqueo"</string>
   <string name="start_new_fingerprint_tips">"Utilice la huella del Segundo espacio para entrar
 al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="start_setting_guide_desc_title">Hay algunas cosas por establecer</string>
-  <string name="summary_switch_apps_settings">Seleccione las aplicaciones que se utilizan en el Segundo espacio</string>
+  <string name="summary_switch_apps_settings">Seleccionar aplicaciones utilizadas en Espacio actual</string>
   <string name="sure_to_use">Confirmar</string>
   <string name="switchDataSummary">Mover elementos entre los espacios</string>
   <string name="switch_apps_settings">Ajustes de la aplicación</string>
@@ -228,12 +230,12 @@ al Segundo espacio desde la Pantalla de bloqueo"</string>
   <string name="switch_file_success">Archivos movidos correctamente</string>
   <string name="switch_in_contacts">Importar contactos</string>
   <string name="switch_in_files">Importar archivos</string>
-  <string name="switch_in_hidden_space">Importar al Segundo espacio</string>
+  <string name="switch_in_hidden_space">Importar a Espacio actual</string>
   <string name="switch_in_photos">Importar fotos</string>
   <string name="switch_in_privacy_contacts">Importar contactos privados</string>
   <string name="switch_out_contacts">Exportar contactos</string>
   <string name="switch_out_files">Exportar archivos</string>
-  <string name="switch_out_hidden_space">Exportar datos del Segundo espacio</string>
+  <string name="switch_out_hidden_space">Exportar datos del Espacio actual</string>
   <string name="switch_out_photos">Exportar fotos</string>
   <string name="switch_out_privacy_contacts">Exportar contactos privados</string>
   <string name="switch_success">Movido correctamente</string>
