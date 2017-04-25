@@ -31,6 +31,7 @@
   <string name="account_settings_action">Configuración de cuenta</string>
   <string name="account_settings_background_attachments_label">Descargar adjuntos</string>
   <string name="account_settings_background_attachments_summary">Descargar adjuntos usando Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary_inter">Descargar adjuntos usando Wi-Fi</string>
   <string name="account_settings_data_usage">Ajustes de sincronización</string>
   <string name="account_settings_description_label">Nombre de la cuenta</string>
   <string name="account_settings_edit_quick_responses_label">Respuesta rápida</string>
@@ -526,7 +527,7 @@
   <string name="import_button_text">Importar</string>
   <string name="import_from_other_account">Importar desde otras couentas</string>
   <string name="info_actionbar_normal_detail">Promoción</string>
-  <string name="info_item_hide">Ocultar</string>
+  <string name="info_item_hide">Borrar</string>
   <string name="info_switch_summary">Mostrar promociones al principio de la bandeja de entrada</string>
   <string name="info_switch_title">Promoción</string>
   <string name="inline_picture_deleted">Descargar imagen ausente…</string>
@@ -785,7 +786,8 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="policy_dont_allow_text_messaging">No permitir mensajes de texto</string>
   <string name="policy_dont_allow_unsigned_apps">No permitir aplicaciones sin firmar</string>
   <string name="policy_dont_allow_unsigned_installers">No permitir la instalación de aplicaciones sin firmar</string>
-  <string name="policy_dont_allow_wifi">No permitir Wi-Fi</string>
+  <string name="policy_dont_allow_wifi">"No permitir Wi-Fi"</string>
+  <string name="policy_dont_allow_wifi_inter">"No permitir Wi-Fi"</string>
   <string name="policy_email_age">Limitar el número de correos sincronizados</string>
   <string name="policy_html_truncation">Restringir el tamaño del correo HTML</string>
   <string name="policy_max_attachment_size">Restringir el tamaño del archivo adjunto</string>
