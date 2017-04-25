@@ -69,7 +69,7 @@
   <string name="add_to_desk">Añadido a la pantalla Inicio</string>
   <string name="add_to_desk_lite_mode_toast">"No se pudo agregar a la Pantalla de inicio en el modo básico"</string>
   <string name="add_to_desk_success">Añadir a la pantalla Inicio</string>
-  <string name="add_to_quicklink">Agregar a la página de inicio</string>
+  <string name="add_to_quicklink">Añadir</string>
   <string name="added_to_bookmarks">Agregado a marcadores</string>
   <string name="adjust_text_zoom_toast">Cambiar el tamaño del texto puede causar que algunas páginas se visualicen incorrectamente</string>
   <string name="alert_tips">Este sitio puede suponer un riesgo para la seguridad</string>
@@ -85,6 +85,7 @@
   <string name="aqi_quality_index_moderate">Moderado</string>
   <string name="aqi_quality_index_pure">Excelente</string>
   <string name="aqi_quality_index_unhealthy">Insalubre</string>
+  <string name="autoSwithcingSearchEngineTips">Ha cambiado el motor de búsqueda por su hábito</string>
   <string name="autofill_keyboard_accessory_content_description">Sugerencias disponibles</string>
   <string name="autofill_popup_content_description">Mostrando ventana de relleno automático</string>
   <string name="autologin_bar_error">"Hubo un error al conectarte a la cuenta"</string>
@@ -312,6 +313,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="find_on_page_next">Siguiente</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Buscar anterior</string>
+  <string name="firstUsingSearchEngineTips">Si desea cambiar la búsqueda</string>
   <string name="fling_on_border_gesture_hint">Puede elegir la función de este gesto en Ajustes</string>
   <string name="force_quick_search_title">Buscar</string>
   <string name="force_touch_bookmark_history_title">Marcadores e historial</string>
@@ -509,6 +511,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_adblock_counts">%d bloqueado</string>
   <string name="pref_adblock_title">Filtro de publicidad</string>
   <string name="pref_auto_update_under_wifi">Actualizar automáticamente con Wi-Fi</string>
+  <string name="pref_automatic_matching_searchengines_title">Motores de búsqueda automáticos por hábitos de búsqueda</string>
   <string name="pref_category_hint">Categoría</string>
   <string name="pref_check_security_url_summary">"Enviar las URL de los sitios web a los servidores de Xiaomi para validación"</string>
   <string name="pref_check_security_url_title">Comprobar seguridad de la URL</string>
@@ -604,6 +607,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="qr_code_title">Código QR</string>
   <string name="quicklink_bookmark_save">UBICACIÓN DE MARCADOR</string>
   <string name="quicklink_not_saved">"No se puede agregar a la página de inicio"</string>
+  <string name="quicklink_cannot_save_url">"No se puede agregar esta URL."</string>
+  <string name="quicklink_folder_text">Aplicaciones más importantes</string>
   <string name="quicklink_saved">Añadido a la página de inicio</string>
   <string name="quicklink_saved_before">Ya se ha agregado este sitio</string>
   <string name="quicklink_user_define_webpage_title">Nombre</string>
@@ -733,6 +738,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="suggest_access_music">Mi Música</string>
   <string name="suggest_item_delete_text">Borrar</string>
   <string name="suggest_open_app_failed">No se pudo abrir esta aplicación</string>
+  <string name="switchText">SI</string>
   <string name="switch_proxy_dialog_msg">Pirateo de red detectado. Utiliza la aplicación de Seguridad integrada en MIUI o informe a su operador móvil.</string>
   <string name="switch_proxy_dialog_title">Red pirateada</string>
   <string name="tab_hotpage">Noticias</string>
@@ -748,6 +754,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="title_bar_loading">Cargando…</string>
   <string name="too_many_windows_dialog_message">"El navegador no puede abrir una nueva pestaña hasta que cierres otra"</string>
   <string name="too_many_windows_dialog_title">Limite de pestañas alcanzado</string>
+  <string name="unSwitchText">NO</string>
+  <string name="undo">Deshacer</string>
   <string name="unknown_title">Desconocido</string>
   <string name="unsecurity_url_toast">Esta web no es segura</string>
   <string name="up_to_loading_tips">Soltar para refrescar</string>
