@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="select_items">
+        <item quantity="other">%1$d seleccionado</item>
+        <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d aplicaciones</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
     <plurals name="power_config_ultimate_on_count">
         <item quantity="other">Está a %1$d pasos de cambiar al modo extremo</item>
         <item quantity="one">Está a %1$d paso de cambiar al modo extremo</item>

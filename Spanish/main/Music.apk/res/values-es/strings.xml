@@ -59,6 +59,7 @@
   <string name="artist_gender_female">Femenino</string>
   <string name="artist_gender_group">Grupo</string>
   <string name="artist_gender_male">Masculino</string>
+  <string name="artist_home_search_hint">Búsqueda de artistas</string>
   <string name="artist_is_empty">El nombre del artista no puede estar vacío.</string>
   <string name="artist_name">Artista</string>
   <string name="artist_news">Noticias</string>
@@ -107,6 +108,7 @@
   <string name="can_not_find_resource">No se encuentra el recurso</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_running_download">Cancel</string>
+  <string name="change_download_quality">Cambiar la calidad de la descarga</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="chinese_female">Artistas femeninas (China)</string>
   <string name="chinese_group">Bandas (China)</string>
@@ -211,6 +213,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="doc_filter">Documentos</string>
   <string name="done">Hecho</string>
   <string name="download">Descargar</string>
+  <string name="download_added_to_list">Añadido a la lista de descargas</string>
   <string name="download_all_song">Descargar todo</string>
   <string name="download_apk_desktop_installing">Instalando…</string>
   <string name="download_apk_desktop_pause">Pausado</string>
@@ -265,10 +268,20 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="download_success">Completo</string>
   <string name="download_title_sorted_by_date">Descargas - Ordenar por fecha</string>
   <string name="download_title_sorted_by_size">Descargas - Ordenar por tamaño</string>
+  <string name="download_toast">Uso de datos móviles para descargar canciones</string>
+  <string name="download_toast_with_beyond_data">Uso de datos móviles para descargar canciones. Límite excedido por %s</string>
+  <string name="download_toast_with_data">Uso de datos móviles para descargar canciones, %s restante</string>
   <string name="download_traffic_dialog_buy_package">Comprar plan Música</string>
-  <string name="download_traffic_dialog_msg">El uso de la conexión de datos móvil para descargar música puede aumentar los costes del uso de datos</string>
+  <string name="download_traffic_dialog_msg">Tiene %s de datos móviles. ¿Utilizar datos móviles para descargar canciones?</string>
+  <string name="download_traffic_dialog_msg_beyond">"Ya ha superado su límite de datos móviles %s. ¿Utilizar datos móviles para descargar canciones?"</string>
+  <string name="download_traffic_dialog_msg_serious">Solo tienes %s de datos móviles. ¿Utilizar datos móviles para descargar canciones?</string>
+  <string name="download_traffic_dialog_msg_without_data">"Estás utilizando datos móviles para descargar canciones. ¿Descargar de todos modos?"</string>
   <string name="download_traffic_dialog_negative_button">Esperando por Wi-Fi</string>
-  <string name="download_traffic_dialog_position_button">Descargar a la vez</string>
+  <string name="download_traffic_dialog_position_button">Descargar</string>
+  <string name="download_traffic_dialog_position_button_serious">Todavía en descarga</string>
+  <string name="download_traffic_dialog_title">Advertencia de uso de datos</string>
+  <string name="download_traffic_dialog_title_beyond">Se superó el uso de datos</string>
+  <string name="download_traffic_dialog_title_serious">Quedan muy pocos datos móviles</string>
   <string name="download_unknown_title">&lt;Sin título&gt;</string>
   <string name="download_wait_connect">Esperando conexión</string>
   <string name="download_when_network_connected">Descargar cuando se conecte a Internet</string>
@@ -335,7 +348,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="file_not_found">El archivo no existe</string>
   <string name="filter_by_duration">Por duración</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">%d min</string>
+  <string name="filter_by_duration_max">%d mins</string>
   <string name="filter_by_duration_min">%d seg</string>
   <string name="filter_by_duration_prefix">"Ocultar archivos más cortos que "</string>
   <string name="filter_by_duration_summary">Ocultar archivos de audio cortos</string>
@@ -465,6 +478,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="metered_alert_msg">"Está usando datos móviles para reproducir canciones. ¿Reproducir de todos modos?"</string>
   <string name="metered_alert_msg_with_data">Le quedan %s de datos móviles. ¿Usar datos para reproducir canciones?</string>
   <string name="metered_allow">Reproducir</string>
+  <string name="metered_beyond_alert">Se superó el uso de datos</string>
   <string name="metered_disallow">Ahora no</string>
   <string name="metered_play_toast">Se están usando los datos móviles para reproducir canciones</string>
   <string name="metered_play_toast_with_beyond_data">Se están usando los datos móviles para reproducir canciones. Se ha excedido el límite por %s</string>
@@ -696,6 +710,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="search_for_album">Álbum</string>
   <string name="search_for_artist">Artista</string>
   <string name="search_hint">Búsqueda de artistas, canciones, álbumes y recomendaciones</string>
+  <string name="search_hint_not_support_online">Búsqueda de artistas, canciones y álbumes</string>
   <string name="search_history_clear_all">Limpiar</string>
   <string name="search_instant_online_music">En línea</string>
   <string name="search_lyric">Buscar letras</string>
@@ -826,6 +841,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="title_online_artist">Artistas de moda</string>
   <string name="title_online_billboard">Listas</string>
   <string name="title_online_fm">Radio</string>
+  <string name="title_online_fm_recommend">FM destacados</string>
   <string name="title_online_recommend">Listas de reproducción recomendadas</string>
   <string name="title_online_release">Nuevos álbumes</string>
   <string name="title_online_song">Canciones populares</string>

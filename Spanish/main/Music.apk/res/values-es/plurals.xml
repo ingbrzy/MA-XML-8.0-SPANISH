@@ -28,8 +28,8 @@
     <item quantity="one">El reproductor parará en %d minuto</item>
   </plurals>
   <plurals name="dialog_remove_from_cloud_descript">
-    <item quantity="other">¿Eliminar %d canciones de Mi Cloud?</item>
-    <item quantity="one">¿Eliminar %d canción de Mi Cloud?</item>
+    <item quantity="other">¿Eliminar %d canciones de Mi Cloud? También se eliminarán de las listas de reproducción locales.</item>
+    <item quantity="one">¿Eliminar %d canción de Mi Cloud? También se eliminará de las listas de reproducción locales.</item>
   </plurals>
   <plurals name="Ntracks_add_to_playlist">
     <item quantity="other">%d canciones añadidas a la lista de reproducción</item>
