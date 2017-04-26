@@ -9,10 +9,10 @@
   <string name="Phonepass">Permitir llamadas</string>
   <string name="SMS_ADRESS">Lista de bloqueo por ubicación</string>
   <string name="SMS_BLACKLIST">Lista de bloqueo de mensajes</string>
-  <string name="SMS_DEFAULT" traducir="a currar">Smart blocklist</string>
+  <string name="SMS_DEFAULT">Lista de bloqueo inteligente</string>
   <string name="SMS_KEYWORDS">Lista de bloqueo por palabras clave</string>
   <string name="SMS_PREFIX">Lista de bloqueo por prefijo</string>
-  <string name="SMS_SERVICE" traducir="a currar">Service blocklist</string>
+  <string name="SMS_SERVICE">Lista de bloqueo del servicio</string>
   <string name="SMS_and_MMS">SMS y MMS</string>
   <string name="SMSpass">Permitir SMS</string>
   <string name="STRANGER_BLOCK">Lista de bloqueo de desconocidos</string>
@@ -99,7 +99,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="after_the_lock_screen">La Aplicación está bloqueada junto con la pantalla. Puede cambiar esto en los ajustes de bloqueo de Aplicaciones.</string>
   <string name="all_address_choose_hint">Todos los números de esta provincia</string>
   <string name="antispam_notificaiton_type_show_all">Todos los números</string>
-  <string name="antispam_notificaiton_type_show_except_blacklist" traducir="a currar">Non-blocklist numbers</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Números que no están en la lista de bloqueo</string>
   <string name="antispam_notificaiton_type_show_none">Nunca</string>
   <string name="antispam_notification_setting_title">Notificaciones</string>
   <string name="antispam_xpace_text">Cambie a su Primer espacio para establecer la Lista de bloqueo</string>
@@ -296,7 +296,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back">Atrás</string>
   <string name="background_traffic">Segundo plano %s</string>
-  <string name="backsound_set_hint" traducir="a currar">Set your away message to %s?</string>
+  <string name="backsound_set_hint">¿Establecer su respuesta automática a %s?</string>
   <string name="battery_capacity_title">Capacidad de la batería</string>
   <string name="battery_charge_estimating">Calculando…</string>
   <string name="battery_charge_full">Cargado</string>
@@ -422,11 +422,11 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="byteShort">B</string>
   <string name="cache_header_title">Limpiar %1$d archivos en caché para liberar %2$s de espacio</string>
   <string name="call_and_contact">Llamadas y contactos</string>
-  <string name="call_delete_hint" traducir="a currar">Delete all blocked calls from this number?</string>
+  <string name="call_delete_hint">¿Borrar todas las llamadas bloqueadas de este número?</string>
   <string name="call_delete_title">Eliminar Llamada</string>
-  <string name="call_transfer_block" traducir="a currar">Block forwarded calls</string>
-  <string name="call_transfer_block_type" traducir="a currar">Block forwarded calls</string>
-  <string name="call_transfer_info" traducir="a currar">Block calls forwarded from unknown numbers</string>
+  <string name="call_transfer_block">Bloquear llamadas desviadas</string>
+  <string name="call_transfer_block_type">Bloquear llamadas desviadas</string>
+  <string name="call_transfer_info">Bloquear llamadas desviadas desde números desconocidos</string>
   <string name="cancal_to_setting_fingerprint">Cancelar</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
@@ -517,9 +517,9 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">" Ha superado el límite diario de datos."</string>
   <string name="daily_pkg_traffic">Límite de datos máximo</string>
-  <string name="daily_sim_over_limit_dialog_message" traducir="a currar">"You've already used %s daily data limits.
+  <string name="daily_sim_over_limit_dialog_message">"Ya ha usado %s del límite de datos diario.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</string>
+Si activa sus datos móviles otra vez, su operador podría cobrarle por los datos adicionales."</string>
   <string name="daily_sim_over_limit_notify_title">Ya ha usado %s límites de datos diario.</string>
   <string name="data_network_blocked_notification_title">Sin conexión a Internet</string>
   <string name="data_usage_correction_timeout_body">Pulse para actualizar manualmente.</string>
@@ -593,8 +593,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="dlg_add_keyword">Añadir palabras clave</string>
   <string name="dlg_antispam_mode_delete_message">No puede recuperar reglas después de que hayan sido borradas.</string>
   <string name="dlg_antispam_mode_delete_title">¿Borrar reglas?</string>
-  <string name="dlg_antispam_using_mode_delete_message" traducir="a currar">"Delete the rules you're currently using and switch to back to blocklist's default rules?"</string>
-  <string name="dlg_antispam_using_mode_international_delete_message" traducir="a currar">"Delete the rules you're currently using and switch to back to blocklist's default rules?"</string>
+  <string name="dlg_antispam_using_mode_delete_message">¿Borrar las reglas que estaba actualmente usando y cambiar a las reglas por defecto de la lista de bloqueo?</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">¿Borrar las reglas que estaba actualmente usando y cambiar a las reglas por defecto de la lista de bloqueo?</string>
   <string name="dlg_black_address_antispam_message">¿Añadir esta ubicación a la lista de bloqueo?</string>
   <string name="dlg_black_antispam_hint">Lista de bloqueo</string>
   <string name="dlg_black_antispam_message">¿Añadir este número a la lista de bloqueo?</string>
@@ -950,8 +950,8 @@ responda</string>
   <string name="mark_number_info">Tenga en cuenta que algunas veces estas llamadas pueden ser útiles (p.e. cuando usted está buscando un apartamento). Sólo bloquee números desde los que nunca quiera recibir llamadas.</string>
   <string name="mark_number_sell" >Vendedor telefónico</string>
   <string name="mark_number_setting_guide_content1">¿Bloquear llamadas de números informados?</string>
-  <string name="mark_number_setting_guide_content2" traducir="a currar">Automatically block calls from numbers that have reported by other users</string>
-  <string name="mark_number_setting_guide_content3" traducir="a currar">You reported a number as %1$s. Do you want to block calls from numbers reported as %2$s?</string>
+  <string name="mark_number_setting_guide_content2">Bloquear llamadas automáticamente desde números que haya sido informados por otros usuarios</string>
+  <string name="mark_number_setting_guide_content3">Ha informado un número como %1$s. ¿Quiere bloquear llamadas de números informados como %2$s?</string>
   <string name="mark_number_setting_guide_forward">Ajustes de lista de bloqueo</string>
   <string name="mark_number_setting_guide_title">Bloquear números informados</string>
   <string name="mark_sell">Bloquear vendedores telefónicos informados</string>
@@ -1464,7 +1464,7 @@ responda</string>
   <string name="pref_free_traffic_exceed_limit">Notificarme cuando el uso de datos alcanza el límite</string>
   <string name="pref_free_traffic_limit_warn">Aviso de uso de datos fuera de hora punta</string>
   <string name="pref_free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
-  <string name="pref_key_daily_package_summary" traducir="a currar">Turn on to reset data plan daily</string>
+  <string name="pref_key_daily_package_summary">Activar para reiniciar el plan de datos diario</string>
   <string name="pref_key_daily_package_switch">Plan de datos diarios</string>
   <string name="pref_key_daily_package_value">Plan de datos diario</string>
   <string name="pref_key_direction_traffic">Datos móviles designados</string>
@@ -1500,7 +1500,7 @@ Pasado el máximo: %2$s</string>
   <string name="pref_setting_operators_message">Editar el mensaje que su dispositivo enviará a su compañía para sincronizar las estadísticas de uso de datos</string>
   <string name="pref_show_mobile_traffic">Mostrar las estadísticas de uso de datos durante el desbloqueo después de que el dispositivo está bloqueado durante más de 5 minutos</string>
   <string name="pref_special_package_setting">Plan de datos a medida</string>
-  <string name="pref_special_package_setting_summary" traducir="a currar">Manage off-peak data, top-up packages, daily data plans, and designated data</string>
+  <string name="pref_special_package_setting_summary">Gestionar datos en horas valle, paquetes de prepago, planes de datos diarios y datos delimitados</string>
   <string name="pref_special_traffic_exceed_limit">Avisarme cuando los datos alcancen el límite</string>
   <string name="pref_special_traffic_limit_warn">Establecer alerta de uso de datos</string>
   <string name="pref_specified_adjust">Establezca límite de datos personalizados</string>
@@ -1580,7 +1580,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="report_error">No pudo informar sobre el mensaje</string>
   <string name="report_only">Elija un mensaje sobre el que informar</string>
   <string name="report_success">Mensaje informado</string>
-  <string name="report_warning" traducir="a currar">"Report %1$s SMS to Mi? These messages and the phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+  <string name="report_warning">¿Informar %1$s SMS a Mi? Estos mensajes y los números de teléfono desde los que hayan sido enviados serán subidos a los servidores de Mi para ser revisados. Cualquier datos personal asociado con estos mensajes siempre serán mantenido en el anonimato.</string>
   <string name="report_warning_title">Informar SMS</string>
   <string name="resource_antispam">Lista de bloqueo</string>
   <string name="resource_antivirus">Búsqueda de virus</string>
@@ -1795,12 +1795,12 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_block_private_call_button">Bloquear números privados</string>
   <string name="st_block_setting_group">Ajustes de lista de bloqueo</string>
   <string name="st_block_setting_title">Llamadas y mensajes</string>
-  <string name="st_block_title" traducir="a currar">Divert to blocked log</string>
+  <string name="st_block_title">Desviar al log de bloqueos</string>
   <string name="st_block_unknown_call">Bloquear llamantes desconocidos</string>
   <string name="st_block_unknown_sms">Bloquear mensajes desconocidos</string>
   <string name="st_call_group">Llamadas</string>
   <string name="st_common_setting_group">Ajustes de filtrado</string>
-  <string name="st_filter_keywords_setting_summary1" traducir="a currar">Messages from unknown numbers that contain the words in this list will be blocked.</string>
+  <string name="st_filter_keywords_setting_summary1">Los mensajes desde números desconocidos que contengan las palabras de esta lista serán bloqueados.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Use una coma para separar múltiples palabras clave)"</string>
   <string name="st_filter_keywords_setting_title">Configurar filtro por palabra clave</string>
@@ -1816,31 +1816,31 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_mute_title">No sonar ni vibrar</string>
   <string name="st_other_setting_group">Otros ajustes</string>
   <string name="st_settings_name">Ajustes de lista de bloqueo</string>
-  <string name="st_show_block_notification" traducir="a currar">Show blocked notification</string>
+  <string name="st_show_block_notification">Mostrar notificación de bloqueado</string>
   <string name="st_show_num_keyword">" palabras clave"</string>
   <string name="st_show_num_number">" números"</string>
   <string name="st_sms_group">Mensajes</string>
   <string name="st_sub_title_customize_mode_name">Nombre</string>
   <string name="st_sub_title_whiteblack_list_group">Lista de bloqueo</string>
-  <string name="st_sum_call_wait" traducir="a currar">Your away message will also be played as a busy signal for incoming calls.</string>
-  <string name="st_summary_blacklist_numbers" traducir="a currar">Block calls and messages from specific numbers and areas</string>
-  <string name="st_summary_blacklist_numbers_international" traducir="a currar">Block calls and messages from specific numbers</string>
-  <string name="st_summary_keywords_blacklist" traducir="a currar">Add keywords to block messages</string>
-  <string name="st_summary_special_numbers" traducir="a currar">Block flagged phone numbers</string>
-  <string name="st_summary_whitelist_numbers" traducir="a currar">Allow calls and messages from specific numbers and areas</string>
-  <string name="st_summary_whitelist_numbers_international" traducir="a currar">Allow calls and messages from specific numbers</string>
+  <string name="st_sum_call_wait">Su respuesta automática será también reproducida como señal de ocupado para la llamadas entrantes.</string>
+  <string name="st_summary_blacklist_numbers">Bloquear llamadas y mensajes desde números y áreas específicas</string>
+  <string name="st_summary_blacklist_numbers_international">Bloquear llamadas y mensajes desde números específicos</string>
+  <string name="st_summary_keywords_blacklist">Añadir palabras clave para bloquear mensajes</string>
+  <string name="st_summary_special_numbers">Bloquear números de teléfono marcados</string>
+  <string name="st_summary_whitelist_numbers">Permitir llamadas y mensajes desde números y áreas específicas</string>
+  <string name="st_summary_whitelist_numbers_international">Permitir llamadas y mensajes desde números específicos</string>
   <string name="st_title_addblacklist">Añadir a lista de bloqueo</string>
   <string name="st_title_addwhitelist">Añadir a excepciones</string>
   <string name="st_title_adress">Añadir ubicaciones</string>
   <string name="st_title_adress_num">%d seleccionados</string>
-  <string name="st_title_anticomintcall_backsound_setting" traducir="a currar">Message played to blocked numbers</string>
+  <string name="st_title_anticomintcall_backsound_setting">Mensaje reproducido a los números bloqueados</string>
   <string name="st_title_antispam_mode">Reglas</string>
   <string name="st_title_back_sound_busy">Ocupado</string>
-  <string name="st_title_back_sound_choose" traducir="a currar">Away message</string>
+  <string name="st_title_back_sound_choose">Respuesta automática</string>
   <string name="st_title_back_sound_closed">Apagado</string>
   <string name="st_title_back_sound_none">El número no existe</string>
-  <string name="st_title_back_sound_stop" traducir="a currar">Not in service</string>
-  <string name="st_title_backsound_group" traducir="a currar">Away message</string>
+  <string name="st_title_back_sound_stop">Sin servicio</string>
+  <string name="st_title_backsound_group">Respuesta automática</string>
   <string name="st_title_blacklist_numbers">Números bloqueados</string>
   <string name="st_title_call_wait">Notificación de llamada en espera</string>
   <string name="st_title_call_wait_setting">Llamada en espera</string>
