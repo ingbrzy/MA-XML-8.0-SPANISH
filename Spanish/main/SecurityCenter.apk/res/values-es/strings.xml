@@ -346,12 +346,12 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="bind_xiaomi_account_summary">Utilice Cuenta Mi para restablecer su contraseña</string>
   <string name="bind_xiaomi_account_title">Añadir Cuenta Mi</string>
   <string name="birthday">Cumpleaños</string>
-  <string name="bl_no_blacklist" traducir="a currar">No blocked numbers.</string>
-  <string name="bl_no_block_call" traducir="a currar">No blocked calls.</string>
-  <string name="bl_no_block_sms" traducir="a currar">No blocked SMS.</string>
-  <string name="blacklist_prefix_add_hint" traducir="a currar">Block all numbers that begin with this prefix</string>
-  <string name="block_message_number" traducir="a currar">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-  <string name="block_phone_number" traducir="a currar">Calls: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="bl_no_blacklist">Sin números bloqueados.</string>
+  <string name="bl_no_block_call">Sin llamadas bloqueadas.</string>
+  <string name="bl_no_block_sms">Sin SMS bloqueados.</string>
+  <string name="blacklist_prefix_add_hint">Bloquear todos los números que comiencen con este prefijo</string>
+  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Llamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="booster_immediately">Aumentar</string>
   <string name="boot_reminder">Enciende tu dispositivo a una hora programada</string>
   <string name="boot_time">Encender: %1$s</string>
@@ -1771,7 +1771,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_antispam_des_uesless">Apagado</string>
   <string name="st_antispam_mode_add_new" >Añadir reglas</string>
   <string name="st_antispam_mode_blacklist">Números bloqueados</string>
-  <string name="st_antispam_mode_blacklist_sum" traducir="a currar">"Block calls and SMS from numbers you've added manually to the blocklist"</string>
+  <string name="st_antispam_mode_blacklist_sum">Bloquear llamadas y SMS de números que haya añadido manualmente a la lista de bloqueo</string>
   <string name="st_antispam_mode_denyownself_sum">Reglas personalizadas</string>
   <string name="st_antispam_mode_only_all_deny">Bloquear cualquier cosa</string>
   <string name="st_antispam_mode_only_all_deny_sum">Bloquear todas las llamadas y mensajes</string>
@@ -1780,7 +1780,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_antispam_mode_only_whitelist">Sólo permitir excepciones</string>
   <string name="st_antispam_mode_only_whitelist_sum">Permitir sólo llamadas y mensajes de números en la lista de excepciones</string>
   <string name="st_antispam_mode_smart">Números informados</string>
-  <string name="st_antispam_mode_smart_sum" traducir="a currar">"Block numbers you've added manually and numbers that have been reported by other users"</string>
+  <string name="st_antispam_mode_smart_sum">Bloquear números que haya añadido manualmente y números que hayan sido informados por otros usuarios</string>
   <string name="st_antispam_notification_sum">Mostrar notificaciones cuando una llamada o mensaje es bloqueado</string>
   <string name="st_antispam_title_anoy_incoming">Llamadas de desconocidos</string>
   <string name="st_antispam_title_anoy_sms">Mensajes de desconocidos</string>
@@ -1837,7 +1837,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_title_antispam_mode">Reglas</string>
   <string name="st_title_back_sound_busy">Ocupado</string>
   <string name="st_title_back_sound_choose" traducir="a currar">Away message</string>
-  <string name="st_title_back_sound_closed" traducir="a currar">Powered off</string>
+  <string name="st_title_back_sound_closed">Apagado</string>
   <string name="st_title_back_sound_none">El número no existe</string>
   <string name="st_title_back_sound_stop" traducir="a currar">Not in service</string>
   <string name="st_title_backsound_group" traducir="a currar">Away message</string>
