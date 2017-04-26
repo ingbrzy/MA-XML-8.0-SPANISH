@@ -16,7 +16,6 @@
   <string name="alter_message_switch_mode_message">Al cambiar los modos, la configuración anterior ya no se aplicará a esta aplicación.</string>
   <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Seleccionar aplicaciones</string>
-  <string name="app_list_total">%d aplicaciones</string>
   <string name="app_name">Ahorro de batería</string>
   <string name="background">Aplicación ejecutándose en segundo plano</string>
   <string name="config_description">MIUI puede identificar aplicaciones especificas con procesos en segundo plano (p. ej. aplicaciones de mensajería y navegación, reproductores multimedia), y aplicar el ahorro de batería de una manera que no influya de forma importante en la actividad que se ejecute en segundo plano.</string>
@@ -60,7 +59,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="mode_import">Importar</string>
   <string name="mode_settings">Ajustes</string>
   <string name="movie">Película</string>
-  <string name="new_group_name">Modo cliente</string>
+  <string name="new_group_name">Modo personalizado</string>
   <string name="no_applications">Vacío</string>
   <string name="none">No hay procesos</string>
   <string name="normal">Modo predeterminado</string>
@@ -160,7 +159,6 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="screen_off">La pantalla está apagada</string>
   <string name="screen_off_10_min">La pantalla está apagada durante más de 10 minutos</string>
   <string name="screen_on">La pantalla está activada</string>
-  <string name="select_items">%d seleccionado</string>
   <string name="set_brightness">Brillo máximo de la pantalla</string>
   <string name="set_cpu_powermode">Uso de CPU</string>
   <string name="set_cpufreq_max">Frecuencia máxima de la CPU</string>
