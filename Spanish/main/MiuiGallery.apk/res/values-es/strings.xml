@@ -88,8 +88,8 @@
   <string name="auto_upload_before_share_message">Respalde este álbum en Mi Cloud antes de compartirlo</string>
   <string name="auto_upload_before_share_title">Sugerencia</string>
   <string name="auto_upload_disable_tip">La sincronización con Mi Cloud está desactivada</string>
-  <string name="auto_upload_disable_toast_long_press_menu">La sincronización con Mi Cloud está desactivada, vaya a Otros álbumes para verlo</string>
-  <string name="auto_upload_enable_toast_long_press_menu">La sincronización con Mi Cloud está activa, vaya al Álbum para verlo</string>
+  <string name="auto_upload_disable_toast_long_press_menu">La sincronización con Mi Cloud está desactivada</string>
+  <string name="auto_upload_enable_toast_long_press_menu">La sincronización con Mi Cloud está activa</string>
   <string name="autofix">Auto-ajuste</string>
   <string name="baby_album">Álbum del bebé</string>
   <string name="baby_album_change_background">Cambiar la imagen de fondo de pantalla</string>
@@ -285,7 +285,7 @@
   <string name="delete_to_trash_tips">Puede ver las fotos eliminadas recientemente en Ajustes y Papelera</string>
   <string name="deny">Rechazar</string>
   <string name="detail_title">Info. detallada</string>
-  <string name="disable_auto_upload_tip">"Las fotos nuevas y eliminadas no serán sincronizadas Mi Cloud. Este álbum será movido a otros álbumes."</string>
+  <string name="disable_auto_upload_tip">¿Desactivar la sincronización con Mi Cloud para este álbum?</string>
   <string name="disable_auto_upload_title">Desactivar la sincronización con Mi Cloud</string>
   <string name="do_not_remind_me">No mostrar de nuevo</string>
   <string name="do_not_save">No guardar</string>
@@ -320,7 +320,7 @@
   <string name="empty_recommend_back">Atrás</string>
   <string name="empty_recommend_face_page_view">No más recomendaciones</string>
   <string name="empty_relation">"El nombre del grupo no puede estar en blanco"</string>
-  <string name="enable_auto_upload_tip">Este álbum será eliminado de otros álbumes una vez lo actives.</string>
+  <string name="enable_auto_upload_tip">¿Activar la sincronización con Mi Cloud para este álbum?</string>
   <string name="enable_auto_upload_title">Activar la sincronización con Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Activa álbumes de Mi Cloud para ver las fotos compartidas.</string>
   <string name="enable_face_album_summary">Ordenar automáticamente las fotos por las personas que aparecen en ellas</string>
@@ -512,7 +512,7 @@
   <string name="more_album_hint">, etc.</string>
   <string name="more_face">Más personas que se parecen</string>
   <string name="more_face_album_name">Más personas</string>
-  <string name="move_to_other_albums_tip">La sincronización con Mi Cloud se desactivará si mueve este álbum a otros álbumes. ¿Mover ahora?</string>
+  <string name="move_to_other_albums_tip">¿Mover este álbum a Otros álbumes?</string>
   <string name="must_pick_file">Seleccionar foto</string>
   <string name="need_to_turn_on_network">El dispositivo no está conectado a Internet</string>
   <string name="need_to_turn_on_sync">Activar sincronización con Mi Cloud</string>
@@ -653,7 +653,7 @@
   <string name="remove_from_album_message">Esta foto ya no se mostrará aquí</string>
   <string name="remove_from_album_title">Eliminar de este álbum</string>
   <string name="remove_from_current_album">Eliminar de este álbum</string>
-  <string name="remove_from_other_albums_tip">Active sincronizar con Mi Cloud para mover elementos de otros álbumes. ¿Mover ahora?</string>
+  <string name="remove_from_other_albums_tip">¿Mover este álbum de Otros álbumes?</string>
   <string name="remove_from_secret_fail">No se pudo eliminar del álbum oculto</string>
   <string name="remove_from_secret_failed_with_reason">No se pudo eliminar del álbum oculto. %1$s.</string>
   <string name="remove_from_secret_failed_with_reason_and_count">%2$s elementos no pueden ser eliminados del álbum oculto. %1$s.</string>
@@ -760,6 +760,8 @@
   <string name="sharer_quota_fulfiled">Ya ha compartido este álbum con el máximo número de personas posible.</string>
   <string name="sharpen">Enfocar</string>
   <string name="show_hidden_album_title">Mostrar álbumes ocultos</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">Movido correctamente, vaya a Otros álbumes para ver</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">Movido correctamente, vaya a Álbumes para ver</string>
   <string name="slideshow_interval_dialog_title">Definir intervalo</string>
   <string name="slideshow_interval_invalid">El intervalo debe estar entre 3 y 3600 segundos</string>
   <string name="slideshow_interval_title">Mostrar cada diapositiva por</string>

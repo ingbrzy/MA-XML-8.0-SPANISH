@@ -529,6 +529,7 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="block_list_connected_devices">Dispositivos conectados</string>
   <string name="block_list_diaglog_cancle">Cancelar</string>
   <string name="block_list_diaglog_ok">Aceptar</string>
+  <string name="block_list_dialog_content">Esta acción desconectará a “%s” de este dispositivo y lo agregará a la lista de bloqueo</string>
   <string name="block_list_dialog_title">¿Desconectar ahora?</string>
   <string name="block_list_mtk_dialog_content">Esta acción desconectará a “%s” desde este dispositivo </string>
   <string name="block_list_no_device">No hay dispositivos conectados en la lista de bloqueo</string>
@@ -2885,7 +2886,15 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="page_layout_page2_title">Vista previa</string>
   <string name="page_layout_small_title">Extra pequeño</string>
   <string name="palm_enabled">Cubrir la pantalla para apagarlo</string>
+  <string name="paper_mode_auto_twilight_summary">modo de lectura en modo penumbra</string>
+  <string name="paper_mode_auto_twilight_title">Modo penumbra</string>
+  <string name="paper_mode_customize_time_summary">programa de modo de lectura con tiempo personalizado</string>
+  <string name="paper_mode_customize_time_title">personalizar el tiempo</string>
   <string name="paper_mode_end_time_title">Hora de finalización</string>
+  <string name="paper_mode_get_location_dlg_msg">Obtener horas exactas de salida y puesta de sol necesita obtener su ubicación de acuerdo a la red, ¿Abrir ajustes de localización?</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">Cancelar</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Ajustes</string>
+  <string name="paper_mode_get_location_dlg_title">Establecer Ubicación</string>
   <string name="paper_mode_start_time_title">Hora de inicio</string>
   <string name="passpoint_content">Credenciales de %1$s</string>
   <string name="passpoint_label">Guardada a través de</string>
@@ -3400,7 +3409,8 @@ Esta configuración afecta a todos los usuarios de este teléfono."</string>
   <string name="screen_paper_mode_range_title">Ajustes</string>
   <string name="screen_paper_mode_set_apps_title">Aplicaciones de modo de lectura</string>
   <string name="screen_paper_mode_summary">Reducir el brillo de fondo de la pantalla</string>
-  <string name="screen_paper_mode_time_title">Programado</string>
+  <string name="screen_paper_mode_time_summary">modo de lectura programada con su tiempo establecido</string>
+  <string name="screen_paper_mode_time_title">Programar el tiempo</string>
   <string name="screen_paper_mode_title">Modo lectura</string>
   <string name="screen_paper_mode_turn_off">Apagado</string>
   <string name="screen_paper_mode_turn_on">Encendido</string>
