@@ -40,7 +40,6 @@
   <string name="apps_sort_type_item_size">Tamaño</string>
   <string name="apps_sort_type_item_time">Usado frecuentemente</string>
   <string name="apps_sort_type_title">Ordenar</string>
-  <string name="authorize_detail">Bloqueadas %d aplicaciones</string>
   <string name="auto_clean_switch_off">Apagado</string>
   <string name="auto_clean_switch_on">Encendido</string>
   <string name="auto_cleaner_open">Activar</string>
@@ -103,7 +102,6 @@
   <string name="connecting">Conectando…</string>
   <string name="deep_clean_completed_tips">Limpiado con éxito</string>
   <string name="deep_clean_data_path_clean_title">Limpiar cache</string>
-  <string name="deep_clean_normal_clean_progress_desc">Limpiado %1$s archivos</string>
   <string name="deep_clean_uninstall_completed_tips">Desinstalado correctamente</string>
   <string name="deepclean_apk_content">Eliminar APK en aplicaciones innecesarias</string>
   <string name="deepclean_apk_summary_empty">Todo parece estar bien; no hay APK para eliminar</string>
@@ -178,13 +176,11 @@
   <string name="flow_rank_title">Uso de datos</string>
   <string name="function_app_lock_title">%d aplicaciones contienen riesgos de privacidad</string>
   <string name="garbage_clean_detail">Detalles</string>
-  <string name="garbage_cleanup_detail">%1$d veces, limpiado %2$s</string>
   <string name="garbage_month">Limpiado %s este mes</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Continuar</string>
   <string name="goto_set">Ajustar</string>
   <string name="grabage_rank_title">Limpiado hoy</string>
-  <string name="harass_detail">Bloqueadas %1$d SMS y %2$d llamadas</string>
   <string name="header_optimizer">Al usar esta función, acepta los %s.</string>
   <string name="hint_clean_select_items">Eliminación de duplicados…</string>
   <string name="hints_ad_header_left">Archivos obsoletos</string>
@@ -289,8 +285,6 @@
   <string name="name_debuglog_dir">Registro Debug Bsp</string>
   <string name="name_optimizer">Política de privacidad</string>
   <string name="nb_clear_set">Limpiar caché, ver la información de la batería y la lista de bloqueo en la pantalla de notificaciones</string>
-  <string name="net_assistant_detail">Usado %1$s, guardado %2$s</string>
-  <string name="net_assistant_title">Usados %s datos móviles este mes</string>
   <string name="network_not_available">No se puede conectar a la red</string>
   <string name="news_change">Cambiar</string>
   <string name="no_network">No ha sido posible conectarse a la red, inténtelo más tarde</string>
@@ -355,8 +349,6 @@
   <string name="recommend_news">Fuentes recomendados</string>
   <string name="recommend_the_following">Lleve a cabo las siguientes acciones para obtener el máximo provecho de su dispositivo</string>
   <string name="recommended">Destacado</string>
-  <string name="safety_check_detail">%1$d veces, ganados %2$d puntos</string>
-  <string name="safety_rank">Por delante de %d%% usuarios de MIUI en términos de seguridad</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">¿Permitir a esta app conectarse a Internet para recibir actualizaciones?</string>
   <string name="scanning">Escaneando…</string>
@@ -430,10 +422,8 @@
   <string name="toast_uninstall_success">Desinstalación completa</string>
   <string name="total_clean">Total eliminado: %s</string>
   <string name="total_clean_text">Limpiar</string>
-  <string name="traffic_top">Aplicaciones que consumen más datos</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Análisis de virus</string>
-  <string name="wechat_add_to_cleanlist">Limpiado con éxito</string>
   <string name="wechat_cache_files">Caché de WeChat</string>
   <string name="wechat_chat_clean_done">Todo se ve bien</string>
   <string name="wechat_chat_data_type_cache">Caché de WeChat</string>
