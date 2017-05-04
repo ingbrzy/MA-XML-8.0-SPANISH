@@ -436,6 +436,7 @@
   <string name="other_user_liked_topic_tip">No hay temas</string>
   <string name="other_user_no_follow_tip">"Aún no has seguido a nadie."</string>
   <string name="other_user_no_liked_video_tip">Ningún vídeo te gusta.</string>
+  <string name="overwrite_msg">\"%s\" ya existe. Toque para sustituirlo por el nuevo archivo.</string>
   <string name="partial_cancel_successful">No se pudieron quitar algunos archivos. El resto fueron movidos a %s.</string>
   <string name="partial_delete_failure">No se pudieron eliminar algunos archivos, intenta de nuevo</string>
   <string name="partial_encrypt_success">No se pudieron ocultar algunos archivos, intenta de nuevo</string>
@@ -623,6 +624,7 @@
   <string name="shortcut_exists">El acceso directo ya existe</string>
   <string name="shortcut_hotvideos">Vídeos populares</string>
   <string name="shortcut_msg">Añade un acceso directo para acceder a los vídeos populares</string>
+  <string name="skip_file">Omitir</string>
   <string name="smb_loading">Un momento…</string>
   <string name="sort_size_asc">Menor a mayor</string>
   <string name="sort_size_desc">Mayor a menor</string>
@@ -731,7 +733,7 @@
   <string name="user_guide_continue_use">Aceptar</string>
   <string name="user_guide_more_login">Otras maneras de iniciar sesión</string>
   <string name="user_icon">Foto de perfil</string>
-  <string name="user_id_tip">ID: </string>
+  <string name="user_id_tip">ID: %1$s</string>
   <string name="user_info_setting">Editar información</string>
   <string name="user_liked_video_title">Vídeos que me han gustado</string>
   <string name="user_login_dialog_cancle">Cancelar</string>
