@@ -20,12 +20,12 @@
         <item quantity="one">+1</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">Hace %1$d días en %2$s</item>
-        <item quantity="one">Hace %1$d día en %2$s</item>
+        <item quantity="other">%1$d días antes a las %2$s</item>
+        <item quantity="one">%1$d día antes a las %2$s</item>
     </plurals>
     <plurals name="Ndays_after_at">
-        <item quantity="other">En %1$d días en %2$s</item>
-        <item quantity="one">En %1$d día en %2$s</item>
+        <item quantity="other">En %1$d días a las %2$s</item>
+        <item quantity="one">En %1$d día a las %2$s</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d semanas antes</item>
