@@ -159,10 +159,13 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_dlg_ok">Aceptar</string>
   <string name="app_manager_force_stop_dlg_text">Si fuerza el cierre de una aplicación, puede comportarse mal.</string>
   <string name="app_manager_force_stop_dlg_title">¿Forzar cierre?</string>
+  <string name="app_manager_go_to_manger_app">Gestionar</string>
+  <string name="app_manager_have_not_consume">No</string>
   <string name="app_manager_loading_data">Cargando datos…</string>
   <string name="app_manager_more_times">Accedido 100000+ veces</string>
   <string name="app_manager_my_app">Mis aplicaciones</string>
-  <string name="app_manager_not_record">No hay elementos aquí</string>
+  <string name="app_manager_not_record">"No se encontraron aplicaciones que requieren permisos"</string>
+  <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_perm_monitor_make_calls">Hacer llamadas telefónicas</string>
   <string name="app_manager_perm_monitor_read_call_history">Leer el historial de llamadas</string>
   <string name="app_manager_perm_monitor_read_contacts">Leer sus contactos</string>
@@ -181,7 +184,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_permission_send_mms_over">Enviar SMS 100000+ veces</string>
   <string name="app_manager_permission_startself_summary">Las aplicaciones que comienzan automáticamente ocupan RAM y drenan la batería más rápidamente</string>
   <string name="app_manager_permission_startself_title">Autoencendido</string>
-  <string name="app_manager_power">Permisos</string>
   <string name="app_manager_rebide_wakepath">Restringir</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimizar el inicio de la cadena</string>
   <string name="app_manager_reduce_wakepath_summary">La restricción del inicio automático minimizará el inicio de la cadena. ¿Restringir el inicio automático de %s?</string>
@@ -201,9 +203,12 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">¿Desinstalar la aplicación doble?</string>
   <string name="app_manager_unstall_application">Desinstalar</string>
   <string name="app_manager_update_label_text">Nuevo</string>
+  <string name="app_manager_usage_record_title">Uso de la aplicación</string>
   <string name="app_manager_wake_path_card_title">Historial de inicio de la cadena (2 días)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Entendido</string>
   <string name="app_manager_wakepath_dialog_summary">El inicio de la cadena ocurre cuando una aplicación inicia otra aplicación en segundo plano. Puede drenar la batería y bajar el rendimiento del sistema. MIUI normalmente bloquearía el inicio de la cadena.</string>
+  <string name="app_usage_never">No usada recientemente</string>
+  <string name="app_usage_recently">Usada recientemente</string>
   <string name="app_manager_wakepath_dialog_title">Acerca del inicio de la cadena</string>
   <string name="app_mobile">Móvil</string>
   <string name="app_name">Bloqueo de Aplicaciones</string>
@@ -527,10 +532,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="daily_limit_network_available_body">Toque para ver las estadísticas de uso de datos.</string>
   <string name="daily_limit_over_message">" Ha superado el límite diario de datos."</string>
   <string name="daily_pkg_traffic">Límite de datos máximo</string>
-  <string name="daily_sim_over_limit_dialog_message">"Ya ha usado %s del límite de datos diario.
-
-Si activa sus datos móviles otra vez, su operador podría cobrarle por los datos adicionales."</string>
-  <string name="daily_sim_over_limit_notify_title">Ya ha usado %s que es el límite de datos diario.</string>
   <string name="data_network_blocked_notification_title">Sin conexión a Internet</string>
   <string name="data_usage_correction_timeout_body">Pulse para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Tiempo agotado de sincronización de uso de datos</string>
@@ -540,8 +541,6 @@ Si activa sus datos móviles otra vez, su operador podría cobrarle por los dato
   <string name="data_usage_leisure_warning_body">Pulse para ver los detalles de uso de datos.</string>
   <string name="data_usage_leisure_warning_title">Límite de uso de datos fuera de pico</string>
   <string name="data_usage_limit_body">Pulse para activar los datos móviles.</string>
-  <string name="data_usage_limit_snoozed_body">Se superó el límite de datos para este mes.</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Uso de datos excedido</string>
   <string name="data_usage_mobile_limit_title">" Límite de datos móviles alcanzado"</string>
   <string name="data_usage_no_total_package_body">Pulse para establecer el límite de datos</string>
   <string name="data_usage_no_total_package_body_dual">Sin límite de datos establecido para %s</string>
@@ -552,7 +551,6 @@ Si activa sus datos móviles otra vez, su operador podría cobrarle por los dato
   <string name="data_usage_warning_body_notify">Tocar para ver detalles</string>
   <string name="data_usage_warning_title">Advertencia de uso de datos</string>
   <string name="data_usage_warning_title_notify">Ha sobrepasado su límite de datos</string>
-  <string name="datausage_ignore_app_list_count">Ignorando uso de datos de %d aplicaciones</string>
   <string name="declaration_dialog_msg">Esta característica puede ayudar a realizar un seguimiento de su uso, pero no garantiza que no se apliquen cargos adicionales. Para obtener mejores resultados, establezca un límite razonable.</string>
   <string name="deep_clean_disconnect_data_title">Desactiva el plan de datos cuando el dispositivo está bloqueado</string>
   <string name="deep_clean_memory_clean_title">Borrar el caché cuando el dispositivo está bloqueado</string>
@@ -718,8 +716,6 @@ Si activa sus datos móviles otra vez, su operador podría cobrarle por los dato
   <string name="goto_set">Establecer</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Operadora incorrecta?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">Su operadora actual: </string>
-  <string name="guide_primary_text">"Usar la aplicación de seguridad
-para gestionar el uso de datos móviles</string>
   <string name="guide_quck_open">Encender</string>
   <string name="guide_second_text">Después de establecer su operadora, MIUI monitorizará su uso diario de datos móviles mediante el envío de SMS de operadora gratuitos. Cuando MIUI detecte que usted está superando su límite de datos, se desconectará de la red y se lo notificará.</string>
   <string name="guide_wait_setting">No ahora</string>
@@ -807,7 +803,6 @@ para gestionar el uso de datos móviles</string>
   <string name="installed">Instalado</string>
   <string name="installing">Instalando</string>
   <string name="international_roaming_setting">Roaming de datos</string>
-  <string name="international_roaming_whitelist_count">%d aplicaciones pueden utilizar datos móviles en roaming</string>
   <string name="ip_address_exception_summary">No se pudo obtener la dirección IP. Si se encuentra con este problema de nuevo, trate de usar
         una dirección IP estática.</string>
   <string name="item_app_permission">Permisos de apps</string>
@@ -900,7 +895,6 @@ Su operadora podría cargarle costos adicionales si usa la conexión de datos m�
   <string name="main_activity_content_summary_root">Acceso root</string>
   <string name="main_activity_content_summary_update">Actualización del sistema</string>
   <string name="main_activity_content_title_scanning">Escaneado…</string>
-  <string name="main_alert_message_month_limit_error">Límite de datos incorrecto</string>
   <string name="main_alert_message_no_imsi">No se detectó ninguna SIM</string>
   <string name="main_alert_message_no_mobile_package">Establecer límite de datos</string>
   <string name="main_alert_message_open_traffic_ctrl">Le recomendamos la restricción del uso de datos</string>
@@ -1430,7 +1424,6 @@ responda</string>
   <string name="power_subtitle_lowbattery">Perfiles de energía cambiados para ahorrar energía.</string>
   <string name="power_subtitle_ontime">Se cambió de perfil como estaba programado.</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="pref_about">Acerca de</string>
   <string name="pref_about_traffic_title">Ajustes de uso de datos</string>
   <string name="pref_add_traffic_pkg">Datos adquiridos adicionalmente</string>
   <string name="pref_adjust_data_usage">Plantilla de mensaje de la compañía operadora</string>
@@ -1454,7 +1447,6 @@ responda</string>
   <string name="pref_category_title_securitycenter_settings">General</string>
   <string name="pref_category_title_virus_lib_auto_update">Actualizar las definiciones automáticamente</string>
   <string name="pref_category_title_virus_white_list">Excepciones</string>
-  <string name="pref_check_network_diagnostics">Probar la conexión a Internet del dispositivo</string>
   <string name="pref_confirm_operator_setting">Asegúrese de que la información introducida es correcta</string>
   <string name="pref_connect_settings_enable_background">Permitir datos en segundo plano</string>
   <string name="pref_connect_settings_enable_background_hint">Permitir a las aplicaciones utilizar datos móviles cuando no las utilice</string>
@@ -1478,17 +1470,13 @@ responda</string>
   <string name="pref_key_daily_package_switch">Plan de datos diarios</string>
   <string name="pref_key_daily_package_value">Plan de datos diario</string>
   <string name="pref_key_direction_traffic">Datos móviles designados</string>
-  <string name="pref_key_extra_package_switch">Paquete de recarga mensual</string>
   <string name="pref_key_extra_package_value">Tamaño de paquete</string>
   <string name="pref_key_half_year_package_start">Día de comienzo</string>
   <string name="pref_key_half_year_package_switch">Paquete de datos de medio año</string>
   <string name="pref_key_half_year_package_value">Tamaño de paquete</string>
-  <string name="pref_leisure_no_overlay">Activado</string>
-  <string name="pref_leisure_not_opened">Desactivado</string>
   <string name="pref_leisure_traffic_limit">Cuando se utilizan datos fuera del máximo</string>
   <string name="pref_manual_adjust">Establecer las estadísticas de uso de datos de forma manual</string>
   <string name="pref_mi_sim_settings">Ajustes SIM Mi</string>
-  <string name="pref_month_begin_date">Fecha de reinicio de uso</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_month_traffic_limit">Límite mensual de uso de datos</string>
   <string name="pref_more_settings">Ajustes adicionales</string>
@@ -1498,8 +1486,6 @@ responda</string>
   <string name="pref_operator_not_set">Operadora no establecida</string>
   <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Cuando supera su plan de datos</string>
-  <string name="pref_package_traffic_leisure">%1$s
-Pasado el máximo: %2$s</string>
   <string name="pref_package_traffic_normal">Máximo: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Adicional: %2$s</string>
   <string name="pref_package_traffic_settings">Límite de datos móviles</string>
@@ -1522,14 +1508,12 @@ Pasado el máximo: %2$s</string>
   <string name="pref_title_lock_screen_memory_clean">Limpiar en pantalla de bloqueo</string>
   <string name="pref_title_manual_check_virus_db_update">Buscar actualizaciones</string>
   <string name="pref_title_mobile_traffic">Mostrar el uso de datos mientras está bloqueado</string>
-  <string name="pref_title_network_diagnostics">Comprobar la red</string>
   <string name="pref_title_over_traffic_limit_warning">Cuando se ha excedido</string>
   <string name="pref_title_traffic_limit_number">Tamaño</string>
   <string name="pref_title_traffic_speed_state">Mostrar velocidad de la red</string>
   <string name="pref_title_update_notification">Notificación de uso de datos</string>
   <string name="pref_title_virus_white_list">Excepciones</string>
   <string name="pref_traffic_manage_title">Uso de datos</string>
-  <string name="pref_version">Versión %s</string>
   <string name="pref_warning_values">Nivel de advertencia de uso de datos</string>
   <string name="pref_whitelist_setting">Excepciones en el roaming de datos</string>
   <string name="preferred_app_entries_browser">Navegador</string>
@@ -1540,7 +1524,6 @@ Pasado el máximo: %2$s</string>
   <string name="preferred_app_entries_launcher">Lanzador</string>
   <string name="preferred_app_entries_messaging">Mensajes</string>
   <string name="preferred_app_entries_music">Música</string>
-  <string name="privacy_declare_dialog_message">Al utilizar este servicio, usted está de acuerdo con los &lt;a href=%s&gt; Términos de servicio&lt;/a&gt; de Opera.</string>
   <string name="privacy_declare_dialog_title">Términos de Servicio</string>
   <string name="privacy_mode_dialog_title">Modo de invitado</string>
   <string name="privacy_prompt_tc_sms_report_message">Su número de teléfono y los detalles del operador serán encriptados y
@@ -1548,8 +1531,6 @@ Pasado el máximo: %2$s</string>
   <string name="privacy_prompt_traffic_adjust_message">Después de comenzar la calibración, MIUI se conectará a la red, codificará la información de su operadora, número de teléfono, IMEI, y la Cuenta MI, y subirá estos elementos a los servidores Mi. Esto se hace para obtener la plantilla de calibración de la operadora y aprender si es posible comprar datos en su ubicación.
 
 Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para recibir la plantilla de calibración.</string>
-  <string name="privacy_prompt_traffic_purchase_message">Su número de teléfono y los detalles del operador serán cifrados y
-        cargados a los servidores Mi para obtener más información acerca de las opciones de compra de datos.</string>
   <string name="privacy_prompt_upload">Subir</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Servidor multimedia</string>
@@ -2028,9 +2009,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="three_percent_total_pkg">%s (3%% de los datos mensuales)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
-  <string name="timeshow_h_m">%1$dh %2$dm</string>
   <string name="timeshow_m">%dm</string>
-  <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">¿No conoce su límite?</string>
   <string name="tips_message">Para ver los detalles de su plan de datos, marque %2$s (%1$s).</string>
@@ -2161,7 +2140,6 @@ Los datos restantes incluyen datos transferidos desde
   <string name="traffic_over_purchase_title">Límite de datos excedido</string>
   <string name="traffic_purchase_body">Pulse para recargar su saldo.</string>
   <string name="traffic_purchse_suggestion">Comprar datos móviles</string>
-  <string name="traffic_setting_app_count">%d aplicación(es)</string>
   <string name="traffic_setting_fragment_area">Ubicación</string>
   <string name="traffic_setting_fragment_area_dual">%s Ubicación</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
