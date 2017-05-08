@@ -7,10 +7,7 @@
   <string name="addBlackList">Añadir a la lista de bloqueo</string>
   <string name="add_attachment">Añadir archivos adjuntos</string>
   <string name="add_contact">Contacto</string>
-  <string name="add_festival">Respuestas rápidas</string>
   <string name="add_music">Añadir música</string>
-  <string name="add_nickname">Apodo</string>
-  <string name="add_nickname_title">Editar apodo</string>
   <string name="add_number_to_sender">Agregar numero a %s</string>
   <string name="add_picture">Añadir imagen</string>
   <string name="add_private_contact">Agregar contacto privado</string>
@@ -66,7 +63,6 @@
   <string name="card_insert_to_contact">Import contact</string>
   <string name="change_duration_activity">Cambiar duración</string>
   <string name="check_all">Seleccionar todo</string>
-  <string name="chenghu_disable_mms">No puede utilizar apodos en MMS</string>
   <string name="class_0_message_activity">Mensaje de clase 0</string>
   <string name="close">Cerrar</string>
   <string name="cloud_recommend_msg">Tocar para sincronizar mensajes con Mi Cloud.</string>
@@ -120,7 +116,6 @@
   <string name="copy_to_sdcard">Guardar archivo adjunto</string>
   <string name="copy_to_sdcard_fail">No se pudo guardar archivo adjunto</string>
   <string name="copy_to_sdcard_success">Archivo adjunto guardado como %s</string>
-  <string name="database_corruption">Reparando…</string>
   <string name="delete">Eliminar</string>
   <string name="delete_bookmark">Quitar de destacados</string>
   <string name="delete_message">Eliminar</string>
@@ -147,8 +142,6 @@
   <string name="duration_selector_title">Duración de la diapositiva</string>
   <string name="duration_zero">La duración debe ser mayor que 0 segundos</string>
   <string name="edit">Editar</string>
-  <string name="edit_nickname_for_nocontact">Es necesario agregar a un destinatario primero</string>
-  <string name="edit_nickname_for_nocontact_by_robot">Es necesario agregar un destinatario primero</string>
   <string name="edit_phrase">Editar respuestas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivas</string>
   <string name="edit_slideshow_activity">Editar diapositivas</string>
@@ -174,16 +167,9 @@
   <string name="fake_cell_safe_hint">Este mensaje es seguro</string>
   <string name="fake_cell_timeout_hint">No se pudo comprobar la seguridad</string>
   <string name="fdn_check_failure">Sólo puede enviar mensajes a sus números de Marcación fija.</string>
-  <string name="festival">Respuestas rápidas</string>
-  <string name="festival_continue">Aceptar</string>
-  <string name="festival_networking_desc">Esta función necesita conectarse a Internet para funcionar.</string>
-  <string name="festival_networking_title">Aviso</string>
-  <string name="festival_never_remind">No mostrar de nuevo.</string>
-  <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Cargando…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Tiempo creado:</string>
-  <string name="file_share_message_description">Quiero compartir algunos archivos contigo.</string>
   <string name="file_size">Tamaño:</string>
   <string name="file_title">Nombre:</string>
   <string name="file_width_height">Tamaño:</string>
@@ -364,7 +350,6 @@
   <string name="new_message_arrived">Tienes un mensaje nuevo</string>
   <string name="new_phrase">Añadir respuesta</string>
   <string name="new_phrase_hint">Introduzca la nueva respuesta</string>
-  <string name="nickname_placeholder">Apodo</string>
   <string name="no">Cancelar</string>
   <string name="no_block_button_msg">Desbloquear</string>
   <string name="no_conversations">No hay conversaciones</string>
@@ -412,7 +397,6 @@
   <string name="pref_summary_delete_limit">%1$s mensajes por conversación</string>
   <string name="pref_summary_delivery_reports">Mostrar el estado de entrega para cada mensaje que envía</string>
   <string name="pref_summary_delivery_ringtone">Recibir notificaciones de sonido para los mensajes entregados.</string>
-  <string name="pref_summary_hide_festival">Ocultar la pestaña \"Recomendado\" para los idiomas que no sean chino</string>
   <string name="pref_summary_manage_sim_messages">Administrar los mensajes almacenados en la tarjeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Recuperar automáticamente MMS</string>
   <string name="pref_summary_mms_read_reports">Solicitar un reporte de lectura para cada mensaje enviado</string>
@@ -433,9 +417,7 @@
   <string name="pref_title_allow_si_sl_push">Permitir WAP automático</string>
   <string name="pref_title_card_format">Formatear tarjeta compartida</string>
   <string name="pref_title_delivery_reports">Estado de entrega</string>
-  <string name="pref_title_festival_networking">Notificación de conexión</string>
   <string name="pref_title_fwd_sender_info">Reenviar información del remitente</string>
-  <string name="pref_title_hide_festival">Ocultar la pestaña \"Recomendado\"</string>
   <string name="pref_title_manage_sim_messages">Administrar mensajes de tarjeta SIM</string>
   <string name="pref_title_miui_card">Enviar a través de tarjeta</string>
   <string name="pref_title_mms_auto_retrieval">Auto-recuperación MMS</string>
@@ -486,8 +468,6 @@
   <string name="recording_failed">No se puede grabar</string>
   <string name="red_package_btn">Abrir</string>
   <string name="refill_now">Recarga ahora</string>
-  <string name="refresh">Actualizar</string>
-  <string name="refresh_failed">Fallo al actualizar</string>
   <string name="refreshing">Actualizando…</string>
   <string name="release_cancel">Suelte para cancelar</string>
   <string name="remove">Quitar</string>
