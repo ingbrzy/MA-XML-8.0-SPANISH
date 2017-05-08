@@ -2034,7 +2034,7 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="later">MÁS TARDE</string>
   <string name="lattice_smartcover_title">Tapa frontal de celosía</string>
   <string name="launcher_auto_fill_empty_title">Rellenar celdas vacías</string>
-  <string name="launcher_title">Pantalla de inicio</string>
+  <string name="launcher_title">Pantalla de inicio y Paneles recientes</string>
   <string name="launching_cit">Ejecutando CIT</string>
   <string name="launching_pho">Enviando información del teléfono, por favor espere.</string>
   <string name="launching_rep">Notificando…</string>
@@ -3259,6 +3259,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="receiver_clean">Liberar espacio</string>
   <string name="recent_location_requests_summary">Ver aplicaciones que soliciten acceso a su ubicación</string>
   <string name="recent_location_requests_title">Acceso a ubicación</string>
+  <string name="recents_config_title">Ajustes del panel de Tareas recientes</string>
   <string name="recommend_item_1">Carcasa para el teléfono</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -3875,6 +3876,7 @@ Nota: su huella dactilar puede ser menos segura que un patrón complejo o un PIN
   <string name="show_ime">Mostrar teclado virtual</string>
   <string name="show_ime_summary">Mantenerlo en pantalla mientras el teclado físico está activo</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
+  <string name="show_mem_info_title">Mostrar Información sobre la memoria</string>
   <string name="show_non_rect_clip">Depurar operaciones de recorte no rectangulares</string>
   <string name="show_owner_info_on_lockscreen_label">Mostrar información del propietario en la Pantalla de bloqueo</string>
   <string name="show_password">Mostrar las contraseñas</string>
@@ -4740,6 +4742,7 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="user_restrictions_controlled_by">Controladas por %1$s</string>
   <string name="user_restrictions_title">Acceso a contenido y aplicaciones</string>
   <string name="user_set_lock_button">Establecer bloqueo</string>
+  <string name="user_settings_forbidden">"No se puede cambiar los ajustes del administrador en el espacio actual. Volver a Primer espacio."</string>
   <string name="user_settings_title">Usuarios</string>
   <string name="user_setup_button_setup_later">Ahora no</string>
   <string name="user_setup_button_setup_now">Configurar ahora</string>
