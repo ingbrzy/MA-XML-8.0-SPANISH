@@ -209,8 +209,8 @@
         <item quantity="many">%1$s vistas</item>
     </plurals>
     <plurals name="video_count">
-         <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> vídeos</item>
-         <item quantity="one">&amp;lt;font color=#fc7050>%d&amp;lt;/font> vídeo</item>
+         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> vídeos</item>
+         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> vídeo</item>
     </plurals>
     <plurals name="number_of_comment_flow">
          <item quantity="other">%1$s comentarios</item>
@@ -233,20 +233,20 @@
          <item quantity="many"> %1$d elementos</item>
     </plurals>
     <plurals name="original_user_days">
-         <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> días</item>
-         <item quantity="one">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> día</item>
+         <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> días</item>
+         <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> día</item>
     </plurals>
     <plurals name="original_user_play_1">
-         <item quantity="other">• Usted subió &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> vídeos.</item>
-         <item quantity="one">• Usted subió &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> vídeo.</item>
+         <item quantity="other">• Usted subió &lt;font color=#fc7050>%1$s&lt;/font> vídeos.</item>
+         <item quantity="one">• Usted subió &lt;font color=#fc7050>%1$s&lt;/font> vídeo.</item>
     </plurals>
     <plurals name="original_user_play_2">
-         <item quantity="other">¡Usted ha hecho feliz a &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> personas!</item>
-         <item quantity="one">¡Usted ha hecho feliz a &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> una persona!</item>
+         <item quantity="other">¡Usted ha hecho feliz a &lt;font color=#fc7050>%1$s&lt;/font> personas!</item>
+         <item quantity="one">¡Usted ha hecho feliz a &lt;font color=#fc7050>%1$s&lt;/font> una persona!</item>
     </plurals>
     <plurals name="original_user_fans">
-         <item quantity="other">• ¡Usted tiene &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> seguidores!</item>
-         <item quantity="one">• ¡Usted tiene &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> un seguidor!</item>
+         <item quantity="other">• ¡Usted tiene &lt;font color=#fc7050>%1$s&lt;/font> seguidores!</item>
+         <item quantity="one">• ¡Usted tiene &lt;font color=#fc7050>%1$s&lt;/font> un seguidor!</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
          <item quantity="other">Obtener %1$d seguidores más para actualizar tu estado</item>
@@ -261,16 +261,16 @@
         <item quantity="one">%1$s gema</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Coleccione &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> más gemas para participar en el sorteo</item>
-        <item quantity="one">Coleccione &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> una gema para participar en el sorteo</item>
+        <item quantity="other">Coleccione &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> más gemas para participar en el sorteo</item>
+        <item quantity="one">Coleccione &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> una gema para participar en el sorteo</item>
     </plurals>
     <plurals name="clockin_days">
         <item quantity="other">Consultado en %1$s dias seguidos</item>
         <item quantity="one">Consultado %1$s dia seguido</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">Usted tiene &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> puntos</item>
-        <item quantity="one">Usted tiene &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> punto</item>
+        <item quantity="other">Usted tiene &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> puntos</item>
+        <item quantity="one">Usted tiene &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> punto</item>
     </plurals>
     <plurals name="clockin_day_count">
         <item quantity="other">Comprobado %1$s días consecutivos, ¡sigue adelante!</item>
