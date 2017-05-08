@@ -19,6 +19,9 @@
   <string name="cloud_trash_bin_title">Eliminar notas en Mi Cloud</string>
   <string name="cta_reminder">Esta aplicación debe conectarse a Internet para realizar copias de seguridad de notas a Mi Cloud, así como leer los contactos para etiquetar las notas que toma durante las llamadas.</string>
   <string name="delete_folder_dialog_tile">Eliminar carpeta</string>
+  <string name="dialog_share_as_pic">Compartir nota como imagen</string>
+  <string name="dialog_share_as_text">Compartir nota como texto</string>
+  <string name="dialog_share_title">Compartir nota</string>
   <string name="dlg_btn_set_password">Establecer contraseña</string>
   <string name="dlg_check_reminder">"No mostrar de nuevo"</string>
   <string name="dlg_delete_message">Eliminando…</string>
@@ -35,6 +38,7 @@
   <string name="dlg_title_set_password">Establecer contraseña</string>
   <string name="dlg_title_use_privacy_password">Utilizar la contraseña de privacidad</string>
   <string name="dlg_unhide_message">Desocultando…</string>
+  <string name="done">Hecho</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">¿Sincronizar las notas con tu Cuenta Mi (%1$s)?</string>
   <string name="error_contact_not_exist">El Contacto no existe</string>
@@ -48,6 +52,8 @@
   <string name="error_widget_exist_for_send_to_desktop">Esta nota ya existe en el escritorio</string>
   <string name="folder_exist">Ya existe una carpeta con ese nombre</string>
   <string name="force_touch_menu_add">Añadir nota</string>
+  <string name="format_move_note_out_folder">Se ha movido</string>
+  <string name="format_move_note_to_folder">Se ha movido a %1$s</string>
   <string name="format_move_notes_out_folder">Se ha movido %1$s</string>
   <string name="format_move_notes_to_folder">Se ha movido %1$s a %2$s</string>
   <string name="hidden_notes_fragment_title">Notas ocultas</string>
@@ -56,6 +62,7 @@
   <string name="info_note_enter_desktop">Nota añadida al escritorio</string>
   <string name="loading_text">Espere un segundo…</string>
   <string name="login_sync">Acceder y sincronizar</string>
+  <string name="menu_add_folder">Añadir a la carpeta</string>
   <string name="menu_create_folder">Nueva carpeta</string>
   <string name="menu_delete">Borrar</string>
   <string name="menu_delete_forever">Borrar permanentemente</string>
