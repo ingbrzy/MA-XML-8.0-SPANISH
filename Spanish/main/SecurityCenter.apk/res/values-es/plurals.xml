@@ -16,6 +16,22 @@
         <item quantity="other">Seguimiento del uso de los datos para %d aplicaciones</item>
         <item quantity="one">Seguimiento del uso de los datos para %d aplicación</item>
     </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d aplicaciones</item>
+        <item quantity="one">%d aplicación</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">"Ya ha usado los límites de datos diarios de %s."</item>
+        <item quantity="one">"Ya ha usado el límite de datos diarios de %s."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Ya ha usado los límites de datos diarios de %s.
+
+Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adicionales."</item>
+        <item quantity="one">"Ya ha usado el límite de datos diarios de %s.
+
+Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adicionales."</item>
+    </plurals>
     <plurals name="hints_install_apps_interval">
         <item quantity="other">Usado hace %d días</item>
         <item quantity="one">Usado ayer</item>
@@ -265,5 +281,17 @@
     <plurals name="app_manager_reject_count">
         <item quantity="other">Bloqueado %d veces</item>
         <item quantity="one">Bloqueado %d vez</item>
+    </plurals>
+    <plurals name="app_usage_day">
+         <item quantity="other">"No se ha utilizado durante %d días"</item>
+         <item quantity="one">"No se ha utilizado durante %d día"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"No se ha utilizado durante %d meses"</item>
+        <item quantity="one">"No se ha utilizado durante %d mes"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"No se ha utilizado durante %d años"</item>
+        <item quantity="one">"No se ha utilizado durante %d año"</item>
     </plurals>
 </resources>
