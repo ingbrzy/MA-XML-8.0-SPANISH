@@ -124,12 +124,12 @@
         <item>Todos</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>Después de 15 segundos</item>
-        <item>Después de 30 segundos</item>
-        <item>Después de 1 minuto</item>
-        <item>Después de 2 minutos</item>
-        <item>Después de 5 minutos</item>
-        <item>Después de 10 minutos</item>
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="dream_timeout_entries">
@@ -656,7 +656,7 @@
     <string-array name="wfd_status">
         <item>Iniciando sesión…</item>
         <item>Sesión iniciada</item>
-        <item>Terminando sesión…</item>
+        <item>Desactivando el servicio…</item>
         <item>No es posible iniciar sesión</item>
         <item>Sesión fuera de tiempo. Reintentando…</item>
         <item>Dispositivo conectado</item>
@@ -672,7 +672,7 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>2 Siga las instrucciones en pantalla</item>
+        <item>2. Siga las instrucciones en pantalla</item>
         <item></item>
         <item></item>
         <item></item>
