@@ -66,10 +66,10 @@
   <string name="add_shortcut">Añadir atajo</string>
   <string name="add_shortcut_success">Añadido con éxito el acceso directo</string>
   <string name="add_to_bookmark">Añadir a marcadores</string>
-  <string name="add_to_desk">Añadido a la pantalla Inicio</string>
+  <string name="add_to_desk">Añadir a la Pantalla de Inicio</string>
   <string name="add_to_desk_lite_mode_toast">"No se pudo agregar a la Pantalla de inicio en el modo básico"</string>
-  <string name="add_to_desk_success">Añadir a la pantalla Inicio</string>
-  <string name="add_to_quicklink">Añadir</string>
+  <string name="add_to_desk_success">Añadir a la Pantalla de Inicio</string>
+  <string name="add_to_quicklink">Página de inicio</string>
   <string name="added_to_bookmarks">Agregado a marcadores</string>
   <string name="adjust_text_zoom_toast">Cambiar el tamaño del texto puede causar que algunas páginas se visualicen incorrectamente</string>
   <string name="alert_tips">Este sitio puede suponer un riesgo para la seguridad</string>
@@ -85,7 +85,7 @@
   <string name="aqi_quality_index_moderate">Moderado</string>
   <string name="aqi_quality_index_pure">Excelente</string>
   <string name="aqi_quality_index_unhealthy">Insalubre</string>
-  <string name="autoSwithcingSearchEngineTips">Ha cambiado el motor de búsqueda por su hábito</string>
+  <string name="autoSwithcingSearchEngineTips">Se ha cambiado al motor de búsqueda que utiliza con frecuencia</string>
   <string name="autofill_keyboard_accessory_content_description">Sugerencias disponibles</string>
   <string name="autofill_popup_content_description">Mostrando ventana de relleno automático</string>
   <string name="autologin_bar_error">"Hubo un error al conectarte a la cuenta"</string>
@@ -105,8 +105,8 @@
   <string name="bookmark_cannot_save_url">"Esta URL no se pudo agregar marcadores."</string>
   <string name="bookmark_folder_needs_title">Introduzca un nombre de carpeta</string>
   <string name="bookmark_group_lable">Grupo</string>
-  <string name="bookmark_needs_title">Marcador debe tener un nombre.</string>
-  <string name="bookmark_needs_url">Marcador debe contener una URL.</string>
+  <string name="bookmark_needs_title">Marcador debe tener un nombre</string>
+  <string name="bookmark_needs_url">Marcador debe contener una URL</string>
   <string name="bookmark_not_saved">"No se pudo guardar en favoritos"</string>
   <string name="bookmark_rename_group">Cambiar el nombre de grupo</string>
   <string name="bookmark_saved">Guardado en favoritos</string>
@@ -114,9 +114,9 @@
   <string name="bookmark_title_lable">Título</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"Ya ha marcado esta URL"</string>
-  <string name="bookmark_url_can_not_null">Por favor, introduzca la URL.</string>
+  <string name="bookmark_url_can_not_null">Introduzca la URL</string>
   <string name="bookmark_url_lable">URL</string>
-  <string name="bookmark_url_not_valid">"Esta URL no es válida."</string>
+  <string name="bookmark_url_not_valid">"Esta URL no es válida"</string>
   <string name="bookmarks_content_is_null">No hay favoritos</string>
   <string name="bookmarks_management">Favoritos</string>
   <string name="bookmarks_root_folder">Carpeta raíz</string>
@@ -313,7 +313,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="find_on_page_next">Siguiente</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Buscar anterior</string>
-  <string name="firstUsingSearchEngineTips">Si desea cambiar la búsqueda</string>
+  <string name="firstUsingSearchEngineTips">¿Cambiar de buscador?</string>
   <string name="fling_on_border_gesture_hint">Puede elegir la función de este gesto en Ajustes</string>
   <string name="force_quick_search_title">Buscar</string>
   <string name="force_touch_bookmark_history_title">Marcadores e historial</string>
@@ -511,7 +511,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_adblock_counts">%d bloqueado</string>
   <string name="pref_adblock_title">Filtro de publicidad</string>
   <string name="pref_auto_update_under_wifi">Actualizar automáticamente con Wi-Fi</string>
-  <string name="pref_automatic_matching_searchengines_title">Motores de búsqueda automáticos por hábitos de búsqueda</string>
+  <string name="pref_automatic_matching_searchengines_title">Cambiar al motor de búsqueda que utiliza con frecuencia</string>
   <string name="pref_category_hint">Categoría</string>
   <string name="pref_check_security_url_summary">"Enviar las URL de los sitios web a los servidores de Xiaomi para validación"</string>
   <string name="pref_check_security_url_title">Comprobar seguridad de la URL</string>
@@ -605,7 +605,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pull_to_refresh_refreshing_label">Cargando…</string>
   <string name="pull_to_refresh_release_label">Dejar para recomendar y refrescar</string>
   <string name="qr_code_title">Código QR</string>
-  <string name="quicklink_bookmark_save">UBICACIÓN DE MARCADOR</string>
+  <string name="quicklink_bookmark_save">Salvar a</string>
   <string name="quicklink_not_saved">"No se puede agregar a la página de inicio"</string>
   <string name="quicklink_cannot_save_url">"No se puede agregar esta URL."</string>
   <string name="quicklink_folder_text">Aplicaciones más importantes</string>
@@ -708,7 +708,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="skip_current_version">Omitir esta versión</string>
   <string name="snapshot_failed">"No se pudo guardar para lectura offline"</string>
   <string name="snapshot_successed">Guardar para lectura offline completado</string>
-  <string name="ssl_bad_clock_date_settings">Ajustes para la fecha</string>
+  <string name="ssl_bad_clock_date_settings">Establece la fecha</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Una conexión privada con %s1 no se puede establecer porque la fecha y la hora del dispositivo (%s2) son incorrectas."</string>
   <string name="ssl_certificate">Certificado de Seguridad</string>
   <string name="ssl_certificate_is_valid">Este certificado es válido.</string>
@@ -724,7 +724,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="ssl_warnings_header">Hay problemas con el certificado de seguridad de este sitio.</string>
   <string name="start_save_page_capture">Guardando captura de pantalla…</string>
   <string name="storage_internal">Almacenamiento interno</string>
-  <string name="storage_permission_request_toast">Descargar necesita permiso de almacenamiento, ábralo</string>
+  <string name="storage_permission_request_toast">"Las descargas requieren acceso al almacenamiento del dispositivo"</string>
   <string name="storage_sd_card">Tarjeta SD</string>
   <string name="storage_usb">Almacenamiento USB</string>
   <string name="suggest_access_appstore">Mi App Store</string>

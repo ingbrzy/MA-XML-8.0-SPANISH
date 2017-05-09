@@ -2,11 +2,15 @@
 <resources>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%d llamadas</item>
-        <item quantity="one">1 llamada</item>
+        <item quantity="one">%d llamada</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d SMS</item>
-        <item quantity="one">1 SMS</item>
+        <item quantity="other">%d mensajes</item>
+        <item quantity="one">%d mensaje</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d usuarios lo marcaron como</item>
+        <item quantity="one">%d usuario lo marcó como</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">No monitorizar el uso de datos para %d aplicaciones</item>
