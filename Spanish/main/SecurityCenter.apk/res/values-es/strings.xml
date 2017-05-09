@@ -365,7 +365,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="bl_no_block_call">Sin llamadas bloqueadas.</string>
   <string name="bl_no_block_sms">Sin SMS bloqueados.</string>
   <string name="blacklist_prefix_add_hint">Bloquear todos los números que comiencen con este prefijo</string>
-  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_message_number">Mensajes: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Llamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="booster_immediately">Aumentar</string>
   <string name="boot_reminder">Enciende tu dispositivo a una hora programada</string>
@@ -596,8 +596,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="disable_air_mode">Primero desactive el modo avión</string>
   <string name="dlg_add_blacklist">¿Bloquear este número?</string>
   <string name="dlg_add_blacklist_title">Añadir a lista de bloqueo</string>
-  <string name="dlg_add_blacklist_warn_conflict_content">%1$s y otros %2$s contactos ya están en su lista de excepciones.</string>
-  <string name="dlg_add_blacklist_warn_conflict_title">Conflicto de excepciones</string>
   <string name="dlg_add_keyword">Añadir palabras clave</string>
   <string name="dlg_antispam_mode_delete_message">No puede recuperar reglas después de que hayan sido borradas.</string>
   <string name="dlg_antispam_mode_delete_title">¿Borrar reglas?</string>
@@ -964,7 +962,6 @@ responda</string>
   <string name="mark_sell_time_setting">Bloquear los números que han sido reportados como teleoperadores un número especificado de veces</string>
   <string name="mark_time_setting_dialog_title">Informar sobre número</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_others">"otros %d usuarios lo marcaron como "</string>
   <string name="marked_by_user">"lo marcó como "</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">Mb/s</string>
