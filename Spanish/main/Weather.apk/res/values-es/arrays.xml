@@ -85,6 +85,15 @@
         <item>mph</item>
         <item>kn</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Bueno</item>
+        <item>Satisfactorio</item>
+        <item>Moderadamente contaminado</item>
+        <item>Pobre</item>
+        <item>Muy pobre</item>
+        <item>Grave</item>
+        <item>Tabla de ráfagas</item>
+    </string-array>
     <string-array name="breeze">
         <item>&lt;Fuerza 2</item>
         <item>&lt;6.0km/h</item>
@@ -110,5 +119,14 @@
         <item>Fuerte</item>
         <item>Moderado</item>
         <item>Ligero</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excelente</item>
+        <item>Bueno</item>
+        <item>Ligeramente Contaminado</item>
+        <item>Moderadamente Contaminado</item>
+        <item>Altamente Contaminado</item>
+        <item>Severamente Contaminado</item>
+        <item>Más allá del Índice</item>
     </string-array>
 </resources>
