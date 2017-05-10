@@ -169,29 +169,9 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
         <item quantity="one">%d aplicación tiene riesgo de privacidad</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">La contraseña debe contener al menos %d letras.</item>
-        <item quantity="one">La contraseña debe contener al menos una letra.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">La contraseña debe contener al menos %d letras minúsculas.</item>
-        <item quantity="one">La contraseña debe contener al menos una letra minúscula.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">La contraseña debe contener al menos %d letras mayúsculas.</item>
-        <item quantity="one">La contraseña debe contener al menos una letra mayúscula.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">La contraseña debe contener al menos %d números.</item>
-        <item quantity="one">La contraseña debe contener al menos un número.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">La contraseña debe contener al menos %d caracteres especiales.</item>
-        <item quantity="one">La contraseña debe contener al menos un carácter especial.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">La contraseña debe contener al menos %d caracteres diferentes a letra.</item>
-        <item quantity="one">La contraseña debe contener al menos un carácter diferente a letra.</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Espere %d segundos e inténtelo de nuevo. "</item>
+        <item quantity="one">"Espere %d segundo e inténtelo de nuevo. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicaciones bloqueadas</item>
