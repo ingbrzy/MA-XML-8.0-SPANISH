@@ -136,7 +136,7 @@
   <string name="cloud_welcome_message">Copiar canciones</string>
   <string name="cloud_welcome_summary">Copia tus canciones a Mi Cloud y escuchalas en otros dispositivos</string>
   <string name="comment_format" formatted="false">%s: %s</string>
-  <string name="confirm">Confirmar</string>
+  <string name="confirm">Aceptar</string>
   <string name="confirm_download">Descargar</string>
   <string name="confirm_to_renew">Renovar</string>
   <string name="continue_backup">Continuar</string>
@@ -608,18 +608,18 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="online_music_enabled_summary">Escuche y descargue sus canciones favoritas. ¡Consulte las mejores canciones y listas de reproducción recomendadas esté donde esté!</string>
   <string name="online_music_enabled_title">El streaming gratuito está aquí</string>
   <string name="online_my">Mi</string>
-  <string name="online_play_tips">La canción es un contenido en línea, y debe activar el interruptor en línea en los ajustes de música</string>
+  <string name="online_play_tips">Esta canción solo está disponible en línea. Active los servicios en línea en los ajustes para escucharlo.</string>
   <string name="online_playlist_is_empty">La lista de reproducción está vacía</string>
   <string name="online_recommend">Lista de reproducción</string>
-  <string name="online_service_open_tip">El servicio en línea de la música está activado</string>
-  <string name="online_service_title">Servicio en línea</string>
+  <string name="online_service_open_tip">Servicios de música en línea</string>
+  <string name="online_service_title">Servicios en línea</string>
   <string name="online_special">Especial</string>
-  <string name="online_switch">Servicio de contenido en línea</string>
-  <string name="online_switch_message">¿Cerrar todo el servicio en línea?</string>
+  <string name="online_switch">Servicios de contenido en línea</string>
+  <string name="online_switch_message">Desactivar los servicios en línea afectará a los servicios y recomendaciones VIP. ¿Desactivar de todos modos?</string>
   <string name="online_switch_setting">Ajustes de contenido en línea</string>
   <string name="open_download">Abrir</string>
-  <string name="open_online_service">Necesita abrir el servicio de música en línea，¿abrir ahora?</string>
-  <string name="open_service">Abrir</string>
+  <string name="open_online_service">Es necesario activar los servicios en línea para utilizar esta función. ¿Activar ahora?</string>
+  <string name="open_service">Activar</string>
   <string name="order_pending">Esperando confirmación</string>
   <string name="order_process_fail">No se pudo autorizar su cuenta. Espere unos minutos y vuelva a intentarlo.</string>
   <string name="other_filter">Otro</string>
@@ -800,6 +800,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="sort_by_time">Fecha</string>
   <string name="source_from">Fuente: %1$s</string>
   <string name="start_download_music">Empezar a descargar el paquete de actualización de la música.</string>
+  <string name="start_to_backup">Copia de seguridad…</string>
   <string name="start_to_download">Descargando…</string>
   <string name="start_to_play">Reproducir</string>
   <string name="start_to_use">Comience a disfrutar</string>
@@ -911,8 +912,8 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="vip_renew_notification_message">No podrás escuchar música en streaming de alta calidad cuando tu suscripción expire.</string>
   <string name="vip_renew_notification_title">La suscripción expira mañana</string>
   <string name="vip_renew_title">Suscripción expirada</string>
-  <string name="vip_required">Lo siento, VIP requerido</string>
-  <string name="vip_required_with_song">Obtener Paquete canción mejorada para jugar \"% s\". Hemos saltado por usted.</string>
+  <string name="vip_required">Obtenga Paquete de Canciones Premium para reproducir esta canción. Se saltó la canción por ahora.</string>
+  <string name="vip_required_with_song">Obtenga Paquete de Canciones Premium para escuchar “%s”. Se saltó la canción por ahora.</string>
   <string name="warning_tip_cancel">Descargar</string>
   <string name="warning_tip_content">Ya no tienes conexión mediante red Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="warning_tip_ok">Pausar</string>
