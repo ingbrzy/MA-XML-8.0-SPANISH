@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="mibi_app_name">Mi Credit</string>
+  <string name="mibi_applock_dialog_cancel">Not now</string>
+  <string name="mibi_applock_dialog_content">Due to system upgrade, your current pattern lock has been expired. Please set a new pattern lock.</string>
+  <string name="mibi_applock_dialog_ok">Set up</string>
+  <string name="mibi_applock_dialog_title">Set a new Patten lock</string>
   <string name="mibi_balance_payment_title">Mi Credit</string>
   <string name="mibi_balance_title">Balance</string>
   <string name="mibi_bill_delete_dialog_title">Delete %1$s</string>
@@ -41,6 +45,7 @@
   <string name="mibi_deduct_order_price">Price</string>
   <string name="mibi_deduct_pay_group_title">Select deduction method</string>
   <string name="mibi_deduct_payment_title">Automatic deductions</string>
+  <string name="mibi_deduct_query_error">"Couldn't sign renewal agreement. Wait a minute or two and try again."</string>
   <string name="mibi_deduct_success">Automatic payment protocol activated</string>
   <string name="mibi_deduct_success_sub">Deduction method:%1$s</string>
   <string name="mibi_deduct_type">Payment method</string>
@@ -134,29 +139,9 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_license_message_span">Mi Credit User Agreement</string>
   <string name="mibi_license_title">Terms and conditions</string>
   <string name="mibi_list_item_bottom_hint">"You've reached the bottom of this list"</string>
-  <string name="mibi_lockpassword_choose_your_pattern_header">Choose your pattern</string>
-  <string name="mibi_lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
-  <string name="mibi_lockpassword_input_your_pattern_header">Confirm your pattern</string>
-  <string name="mibi_lockpattern_confirm_button_text">Confirm</string>
-  <string name="mibi_lockpattern_continue_button_text">Continue</string>
-  <string name="mibi_lockpattern_need_to_confirm">Draw pattern again to confirm:</string>
-  <string name="mibi_lockpattern_need_to_confirm_wrong">"Patterns don't match. Try again:"</string>
-  <string name="mibi_lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password wrong,you can enter %d times more&lt;/font&gt;</string>
-  <string name="mibi_lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
-  <string name="mibi_lockpattern_pattern_entered_header">Pattern recorded.</string>
-  <string name="mibi_lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again:</string>
-  <string name="mibi_lockpattern_recording_inprogress">Release finger when done.</string>
-  <string name="mibi_lockpattern_recording_intro_header">Draw an unlock pattern:</string>
-  <string name="mibi_lockpattern_retry_text">&lt;u&gt;Reset pattern password&lt;/u&gt;</string>
-  <string name="mibi_lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
-  <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
-  <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
-  <string name="mibi_lockpattern_tutorial_cancel_label">Cancel</string>
-  <string name="mibi_lockpattern_tutorial_continue_label">Next</string>
-  <string name="mibi_lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="mibi_login">Login</string>
   <string name="mibi_memu_refresh">Refresh</string>
-  <string name="mibi_menu_lock">Pattern lock</string>
+  <string name="mibi_menu_lock">Add App lock</string>
   <string name="mibi_menu_qa">FAQ</string>
   <string name="mibi_menu_shotcut">Place on Home screen</string>
   <string name="mibi_mili_center">Mi Credit</string>
@@ -199,6 +184,7 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_paytool_alipay">Alipay</string>
   <string name="mibi_paytool_error_install">Failed to install %1$s mobile security plugin</string>
   <string name="mibi_paytool_error_msp">%1$s failed</string>
+  <string name="mibi_paytool_mipay">Mipay</string>
   <string name="mibi_paytool_msp_not_installed">You have not installed %1$s mobile security plugin, install it now?</string>
   <string name="mibi_paytool_paypal">Paypal</string>
   <string name="mibi_paytool_tenpay">Tenpay</string>
@@ -268,35 +254,38 @@ Customer service center：400-100-5678"</string>
   <string name="mibi_recharge_other">View other methods</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d added %2$s Mi Credits to your account</string>
   <string name="mibi_recharge_push_notification_sub_title">Top-up complete.</string>
+  <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Credits</string>
+  <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Credits</string>
+  <string name="mibi_recharge_value_money_with_tip">"Purchase CNY %s worth of Mi Credits &lt;font color=red&gt;(Can't spend Mi Credits at Mi.com)&lt;/font&gt;"</string>
+  <string name="mibi_recharge_value_money_with_tip_special_unit">"Purchase %1$s %2$s worth of Mi Credits &lt;font color=red&gt;(Can't spend Mi Credits at Mi.com)&lt;/font&gt;"</string>
   <string name="mibi_scan_prompt_number">Scan %1$s prepaid card number</string>
   <string name="mibi_scan_prompt_password">Scan %1$s prepaid card password</string>
   <string name="mibi_scan_prompt_voucher">Scan Mi Credit password</string>
   <string name="mibi_security_setting">Settings</string>
   <string name="mibi_shurtcut_create_success">Placed on Home screen</string>
+  <string name="mibi_signing_pay_group_title">Select payment method</string>
+  <string name="mibi_signing_success_sub">Renewable payments will be made using %1$s</string>
+  <string name="mibi_signing_success_title">Selected successfully</string>
   <string name="mibi_sms_code_empty">Enter the verification code sent to your phone.</string>
   <string name="mibi_sms_code_error">Mobile phone verification code error, please get again</string>
   <string name="mibi_sms_code_hint">Enter 3 ~ 6 digit verification code</string>
   <string name="mibi_string_with_bracket">(%s)</string>
   <string name="mibi_summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
   <string name="mibi_summary_custom_service_phone">Tel:</string>
-  <string name="mibi_summary_lockpattern">Require a unique pattern lock for Mi Credit</string>
   <string name="mibi_summary_sms_code">Enter the verification code sent to %1$s，and then finish payment</string>
   <string name="mibi_tianyi_create_order">China Unicom SMS</string>
   <string name="mibi_title_bill_record">Payment history</string>
   <string name="mibi_title_bind_phone">Binding mobile phone No.</string>
-  <string name="mibi_title_change_lockpattern">Configure pattern lock</string>
   <string name="mibi_title_custom_service_phone">Contact customer support</string>
   <string name="mibi_title_discounts">Discounts</string>
-  <string name="mibi_title_gesture">Pattern lock</string>
-  <string name="mibi_title_lockpattern">Require pattern lock</string>
   <string name="mibi_title_mili_center">Mi Credits</string>
   <string name="mibi_title_nopassword">"Don't require for small payments"</string>
   <string name="mibi_title_nopassword_dialog">Daily limit</string>
   <string name="mibi_title_password">Password</string>
   <string name="mibi_title_password_threshold">Daily limit = ￥%1$s</string>
   <string name="mibi_title_sms_code">Please enter the mobile phone verification code</string>
-  <string name="mibi_title_visible_pattern">Make pattern visible</string>
   <string name="mibi_unit">Mi Credit</string>
+  <string name="mibi_unit_value">%1$s Mi Credit</string>
   <string name="mibi_voucher_card_text">Please scratch off the coat</string>
   <string name="mibi_voucher_error_password">Code invalid.</string>
   <string name="mibi_voucher_input_password_prompt">Enter code</string>
@@ -377,7 +366,7 @@ To activate your account, follow the
   <string name="passport_login">Sign in</string>
   <string name="passport_login_failed">"Can't sign in"</string>
   <string name="passport_login_instead_reg">Use this number</string>
-  <string name="passport_login_instead_reg_with_email">Use this email</string>
+  <string name="passport_login_instead_reg_with_email">Use this Email</string>
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Other ways to sign in&lt;/u&gt;</string>
@@ -406,7 +395,7 @@ To activate your account, follow the
   <string name="passport_reg_using_other_phone">&lt;u&gt;Use alternate phone number&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">Create account using phone number</string>
-  <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
+  <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="passport_reging">Creating account…</string>
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>
@@ -445,9 +434,9 @@ To activate your account, follow the
   <string name="passport_use_generated_pwd_message">Make sure you remember your password. You can use it to sign in to other Mi services.</string>
   <string name="passport_use_generated_pwd_title">Remember your password</string>
   <string name="passport_user_agreement">User Agreement</string>
-  <string name="passport_user_agreement_p1">Agree to </string>
+  <string name="passport_user_agreement_p1">Agree to </string>
   <string name="passport_user_agreement_p2">User Agreement</string>
-  <string name="passport_user_agreement_p3"> and </string>
+  <string name="passport_user_agreement_p3"> and </string>
   <string name="passport_user_agreement_p4">Privacy Policy</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>

@@ -36,6 +36,7 @@
   <string name="album_detail_page_empty">Sin fotos o vídeos</string>
   <string name="album_faces_name">Personas</string>
   <string name="album_from_format">Desde %s</string>
+  <string name="album_jump_failed">Espere hasta que los álbumes se sincronicen con Mi Cloud e inténtelo de nuevo</string>
   <string name="album_member">Miembros de este álbum %s</string>
   <string name="album_name">Nombre de álbum</string>
   <string name="album_name_recent_discovery">Reciente</string>
@@ -180,6 +181,7 @@
   <string name="cannot_send_message_reason">Su mensaje no tiene destinatario(s) válido(s)</string>
   <string name="change_to_face_mode">Mostrar sólo la cara</string>
   <string name="change_to_photo_mode">Mostrar visualizaciones completas</string>
+  <string name="change_to_visible">¿Restaurar a esta persona?</string>
   <string name="choose_baby_sexy">Género</string>
   <string name="choose_owner_relation">Relación</string>
   <string name="choose_people">Elija un álbum de persona</string>
@@ -272,6 +274,7 @@
   <string name="delete_from_devices">Todos los dispositivos sincronizados</string>
   <string name="delete_from_devices_album">Todos los dispositivos con los que se sincroniza este álbum</string>
   <string name="delete_from_homepage_album">Álbumes mostrados en la Galería</string>
+  <string name="delete_from_local_and_cloud">desde este dispositivo y Mi Cloud</string>
   <string name="delete_from_this_album_and_cloud">desde este álbum y de Mi Cloud</string>
   <string name="delete_from_web">Álbumes web</string>
   <string name="delete_in_album">Cuando eliminas fotos o vídeos del álbum, también se eliminarán de:</string>
@@ -283,6 +286,7 @@
   <string name="delete_third_party_photo">¿Eliminar esta foto?</string>
   <string name="delete_third_party_video">¿Eliminar este vídeo?</string>
   <string name="delete_to_trash_tips">Puede ver las fotos eliminadas recientemente en Ajustes y Papelera</string>
+  <string name="delete_unsynced">Eliminar elementos que no se han copiado</string>
   <string name="deny">Rechazar</string>
   <string name="detail_title">Info. detallada</string>
   <string name="disable_auto_upload_tip">¿Desactivar la sincronización con Mi Cloud para este álbum?</string>
@@ -440,8 +444,9 @@
   <string name="hybrid_service_unavailiable">Servicio no disponible</string>
   <string name="hybrid_try_again">Intente de nuevo</string>
   <string name="ignore_album">No mostrar</string>
-  <string name="ignore_alert_title">¿No mostrar este álbum?</string>
+  <string name="ignore_alert_title">"¿No mostrar este álbum? Toque la esquina superior derecha para ver las fotos que ha ignorado."</string>
   <string name="ignore_face">Ignorar a esta persona</string>
+  <string name="ignore_faces_title">Ignorado</string>
   <string name="image_decode_failed">No se puede decodificar la imagen</string>
   <string name="image_download_item_title">Descargar archivo original (%s)</string>
   <string name="image_invalid_path">Ruta inválida</string>
@@ -473,7 +478,11 @@
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">La altura debe ser &gt; 0</string>
   <string name="limit_width">El ancho debe ser &gt; 0</string>
+  <string name="load_complete">No hay más elementos aquí</string>
+  <string name="load_failed">"No se pudo cargar información, pulse para intentarlo de nuevo."</string>
   <string name="load_relations">Un momento…</string>
+  <string name="loading">Un momento</string>
+  <string name="loading_dots">Un momento…</string>
   <string name="loading_dual_tip">Cargando doble foto…</string>
   <string name="loading_fail">No se pudo descargar</string>
   <string name="loading_fail_sync_off">Active la sincronización con Mi Cloud para descargar</string>
@@ -529,6 +538,7 @@
   <string name="new_relation_invalid_prefix">"Los nombres de grupo no pueden empezar por “.” o “_”"</string>
   <string name="next">Siguiente</string>
   <string name="no">No</string>
+  <string name="no_ignore_faces">No hay gente aquí</string>
   <string name="no_map_app">No se ha encontrado ninguna aplicación para esta acción</string>
   <string name="no_network_connected">No se detecta red</string>
   <string name="not_ask_any_more">No preguntar de nuevo por \"%s\" respuestas</string>
@@ -583,6 +593,7 @@
   <string name="other_album">Otros álbumes</string>
   <string name="other_settings">Ajustes adicionales</string>
   <string name="owner_album_subtitle">Compartido con %1$s personas</string>
+  <string name="people_jump_failed">Espere hasta que las fotos con la gente se sincronicen con Mi Cloud y vuelva a intentarlo</string>
   <string name="paint_brush">Pincel</string>
   <string name="paint_cancel_context">¿Descartar los cambios realizados en esta imagen?</string>
   <string name="paint_cancel_title">Descartar cambios</string>
@@ -614,6 +625,7 @@
   <string name="picker_full_format">Puedes seleccionar hasta %d fotos</string>
   <string name="picker_image_need_download">%d de las fotos seleccionadas no están el dispositivo. ¿Deseas descargarlas usando datos móviles?</string>
   <string name="picker_image_will_download">%d de las fotos seleccionadas no están en el dispositivo. Se descargarán.</string>
+  <string name="picker_mobile_data_video">"No se pueden descargar vídeos con datos móviles, omitidos %d."</string>
   <string name="picker_no_network_message">Conectarse a la red para descargar</string>
   <string name="picker_origin_need_download">%1$d de la(s) foto(s) seleccionada(s) (%2$dMB) no esta(n) en el dispositivo. ¿Deseas descargarlas usando datos móviles?</string>
   <string name="picker_title_format">Puede seleccionar %d fotos</string>
@@ -637,6 +649,10 @@
   <string name="quotation">\"%s\"</string>
   <string name="recommanded_face_abandon_tip">Eliminado de las sugerencias</string>
   <string name="recommanded_face_added_tip">Añadido a \"%s\"</string>
+  <string name="recovery_merge">Combinar</string>
+  <string name="recovery_merge_or_rename">Combinar álbumes</string>
+  <string name="recovery_merge_or_rename_message">"Hay un álbum con este nombre. ¿Combinar ahora?"</string>
+  <string name="recovery_rename">Renombrar</string>
   <string name="redeye">Ojos rojos</string>
   <string name="redeye_tooltip">Toque para eliminar los ojos rojos</string>
   <string name="relation_text_empty_alert">Añadir información de la relación</string>
@@ -694,24 +710,22 @@
   <string name="search_backup_now">Activar</string>
   <string name="search_backup_sub_title">Activar para encontrar más imágenes</string>
   <string name="search_backup_title">Sincronizar con Mi Cloud</string>
+  <string name="search_clear_histories">Limpiar</string>
   <string name="search_connection_error">"No se pudo conectar a la red"</string>
   <string name="search_connection_error_and_set">Toque para activar los ajustes de red</string>
   <string name="search_error">Ocurrió un error</string>
   <string name="search_error_and_retry">Se produjo un error, toque para volver a intentarlo</string>
   <string name="search_hint">Buscar imágenes</string>
   <string name="search_image_result_title">Resultados de la búsqueda</string>
-  <string name="search_load_complete">No hay más elementos aquí</string>
-  <string name="search_load_failed">"No se pudo cargar información, toque para intentar de nuevo"</string>
-  <string name="search_loading">Un momento</string>
-  <string name="search_loading_dots">Un momento…</string>
   <string name="search_login_now">Ingrese</string>
   <string name="search_login_sub_title">Inicie sesión para encontrar más fotos</string>
   <string name="search_login_title">Cuenta Mi</string>
   <string name="search_login_title_full_screen">Inicie sesión con su Cuenta Mi para encontrar más objetos y personas</string>
-  <string name="search_people_jump_failed">Espere hasta que las fotos con personas se sincronicen con Mi Cloud e inténtelo de nuevo</string>
+  <string name="search_album_jump_failed">Espere hasta que los álbumes se sincronicen con Mi Cloud e inténtelo de nuevo</string>
   <string name="search_result_empty">"No se pudo encontrar nada"</string>
   <string name="search_retry">Inténtalo de nuevo</string>
   <string name="search_set_network_connection">Ajustes de red</string>
+  <string name="search_title_history">Historial de búsquedas</string>
   <string name="search_title_location">Ubicaciones</string>
   <string name="search_title_others">Todos los resultados</string>
   <string name="search_title_people">Gente</string>
@@ -733,6 +747,7 @@
   <string name="secret_reason_too_large">El archivo es demasiado grande</string>
   <string name="secret_reason_type_not_support">Tipo de archivo no admitido</string>
   <string name="secret_reason_unknow_reasons">Error desconocido</string>
+  <string name="see_ignore_faces">"Ver personas que has ignorado"</string>
   <string name="select_item_face">"¿Es este(a) '%s'?"</string>
   <string name="select_origin_tip">Archivo original (%s)</string>
   <string name="send_multiple_files_hint_format">Enviar (%s)</string>

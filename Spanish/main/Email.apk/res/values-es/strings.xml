@@ -223,6 +223,7 @@
   <string name="auto_remind_text">Recordatorios automaticos</string>
   <string name="auto_remind_unbind">Parar</string>
   <string name="auto_sync_off">La sincronización automática está desactivada.</string>
+  <string name="automatic_remind_text">recordar</string>
   <string name="bank_card_detail">Detalles de la tarjeta de credito</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Ahorro de batería</string>
@@ -247,6 +248,7 @@
   <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_action">Cancelar</string>
+  <string name="cancel_pop3_attchemt_downloading">La cancelación de cualquier archivo adjunto que se está descargando no está disponible para un tipo de cuenta POP3.</string>
   <string name="cant_move_or_change_labels">"No se puede mover los elementos de varias cuentas."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
@@ -391,7 +393,7 @@
   <string name="download_message_failed_for_too_large">El mensaje es demasiado grande para descargar.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Estado de las cuentas bancarias</string>
-  <string name="drawer_bill_title">Facturas</string>
+  <string name="drawer_classification">Intelligent classification</string>
   <string name="drawer_close">Cerrar el panel de navegación</string>
   <string name="drawer_contacts">Contactos</string>
   <string name="drawer_open">Abrir el panel de navegación</string>
@@ -687,6 +689,8 @@ Prueba cambiando a una cuenta de correo diferente."</string>
   <string name="no_conversations">Sin mensajes</string>
   <string name="no_filtrable_email_account">Sin cuentas para filtrar</string>
   <string name="no_mails">No hay correo.</string>
+  <string name="no_recognize_describe">"No se han podido encontrar correos electrónicos que contengan entradas o reservas.
+Prueba una bandeja de entrada diferente."</string>
   <string name="no_matched_attachment">Sin resultados.</string>
   <string name="no_remind">No recordar</string>
   <string name="not_subject">(Sin asunto)</string>
@@ -736,6 +740,7 @@ Prueba cambiando a una cuenta de correo diferente."</string>
   <string name="overlays_title">Abrir permisos de Windows flotantes</string>
   <string name="parase_setup_data">Obteniendo datos…</string>
   <string name="parse_bill_discribe">Procesando facturas de tarjeta de credito…</string>
+  <string name="parse_recognize_describe">Analizando el correo electrónico…</string>
   <string name="password_expire_warning_content_title">Contraseña de de bloqueo de pantalla caducada</string>
   <string name="password_expire_warning_dialog_content_fmt">Debe cambiar su contraseña o PIN de bloqueo pronto, o la información de %s será eliminada. ¿Quiere cambiarla ahora?</string>
   <string name="password_expire_warning_dialog_title">Contraseña de bloqueo de pantalla a punto de caducar</string>
@@ -853,7 +858,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="quick_3">Lo leeré más tarde y te digo algo.</string>
   <string name="quick_4">Fijemos una reunión para hablar de esto.</string>
   <string name="quick_reply_dialog_title">Elegir respuesta</string>
-  <string name="quick_reply_hint">Contestar a las %1$d personas</string>
+  <string name="quick_reply_hint">Responder a %1$d personas</string>
   <string name="quick_reply_hint_bcc">(En BCC)</string>
   <string name="quick_reply_hint_cc">(En CC)</string>
   <string name="quick_reply_hint_reply_only_from">Respuesta rápida (sólo el remitente)</string>
@@ -886,6 +891,30 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="read_string">conversación leída</string>
   <string name="recipient_needed">Añada al menos 1 destinatario.</string>
   <string name="recipient_needed_title">Atención</string>
+  <string name="recognize_hotel_check_in_date">Hora de entrada</string>
+  <string name="recognize_hotel_hotel_money">Precio %1$s</string>
+  <string name="recognize_hotel_notification_content">¡Disfruta tu estancia!</string>
+  <string name="recognize_hotel_notification_title">Has reservado una habitación en %1$s empezando desde %2$s/%3$s. Verifique su reserva antes de llegar allí.</string>
+  <string name="recognize_hotel_order_money">Total</string>
+  <string name="recognize_hotel_other_money">Otros gastos %1$s</string>
+  <string name="recognize_hotel_reverse_date">Registrarse antes %1$s:%2$s %3$s</string>
+  <string name="recognize_hotel_room_type">Habitación</string>
+  <string name="recognize_hotel_title">Reserva de hotel</string>
+  <string name="recognize_hotel_user_names">Huésped</string>
+  <string name="recognize_setting_title">Ajustes del viaje</string>
+  <string name="recognize_ticket_air_notification_content">¡Disfrute su vuelo!</string>
+  <string name="recognize_ticket_air_notification_title">Vuelo %3$s (%1$s/%2$s) despegará pronto. Revise su información de vuelo.</string>
+  <string name="recognize_ticket_air_state_stopover">Escala</string>
+  <string name="recognize_ticket_air_state_transfer">Transferir</string>
+  <string name="recognize_ticket_air_user_name">Pasajero:</string>
+  <string name="recognize_ticket_title">Billetes de avión y tren</string>
+  <string name="recognize_ticket_train_alter">Cambiado</string>
+  <string name="recognize_ticket_train_depart_date">Salida a %3$s:%4$s en %1$s/%2$s</string>
+  <string name="recognize_ticket_train_notification_content">¡Buen viaje!</string>
+  <string name="recognize_ticket_train_notification_title">Tren %3$s (%1$s/%2$s) saldrá pronto. Vuelva a comprobar su billete.</string>
+  <string name="recognize_ticket_train_return">Devuelto</string>
+  <string name="recognize_ticket_train_user_name">Pasajero: %1$s</string>
+  <string name="recognize_title">Información del viaje</string>
   <string name="reduce_the_receiving_frequencye_summary">Sincronizar con menos frecuencia cuando la opción de No molestar esté activada</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronizar con menos frecuencia</string>
   <string name="refresh">Actualizar</string>
@@ -1033,7 +1062,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="turn_auto_sync_on_dialog_body">"Los cambios que realice en todas las aplicaciones y cuentas, no sólo Gmail, se sincronizarán en la web, otros dispositivos y en su %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">¿Activar sincronización automática?</string>
-  <string name="unbind_dialog_text">"No recibirar mas avisos si dejas de analizar facturas.
+  <string name="unbind_dialog_text">"No podrá recibir recordatorios después de dejar de analizar.
 ¿Parar ahora?"</string>
   <string name="undo">Deshacer</string>
   <string name="unknow">Desconocido</string>
