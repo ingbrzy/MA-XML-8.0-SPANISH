@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="switch_apps_entries">
-        <item>Utilizado en Primer espacio</item>
-        <item>Utilizado en Espacio actual</item>
+        <item>Se utiliza en primer espacio</item>
+        <item>Se utiliza en el espacio actual</item>
         <item>Se utilizaran ambos espacios</item>
     </string-array>
     <string-array name="switch_apps_title_confirms">
@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="switch_apps_msg_confirms">
         <item>Los datos de la aplicación se perderán después de que se muevan al Primer espacio.</item>
-        <item>Los datos de la aplicación se perderán después de que las aplicaciones se muevan al Espacio actual.</item>
+        <item>Los datos de la aplicación se perderán después de que las aplicaciones se muevan al espacio actual.</item>
         <item>Las aplicaciones se utilizan en ambos espacios.</item>
     </string-array>
 </resources>
