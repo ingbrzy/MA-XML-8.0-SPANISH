@@ -78,13 +78,6 @@
         <item>O</item>
         <item>NO</item>
     </string-array>
-    <string-array name="wind_unit_simple">
-        <item>Escala de Beaufort</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
-    </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
         <item>Satisfactorio</item>
@@ -92,7 +85,14 @@
         <item>Pobre</item>
         <item>Muy pobre</item>
         <item>Grave</item>
-        <item>Tabla de ráfagas</item>
+        <item>Más allá del índice</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Escala de Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
     </string-array>
     <string-array name="breeze">
         <item>&lt;Fuerza 2</item>
@@ -123,10 +123,10 @@
     <string-array name="pollution_level_desc_arr">
         <item>Excelente</item>
         <item>Bueno</item>
-        <item>Ligeramente Contaminado</item>
-        <item>Moderadamente Contaminado</item>
-        <item>Altamente Contaminado</item>
-        <item>Severamente Contaminado</item>
-        <item>Más allá del Índice</item>
+        <item>Ligeramente contaminado</item>
+        <item>Moderadamente contaminado</item>
+        <item>Altamente contaminado</item>
+        <item>Severamente contaminado</item>
+        <item>Más allá del índice</item>
     </string-array>
 </resources>
