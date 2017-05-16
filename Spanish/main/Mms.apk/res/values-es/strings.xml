@@ -194,8 +194,6 @@
   <string name="has_invalid_recipient">Destinatarios no válidos: &lt; %1$s &gt;</string>
   <string name="hidden_sender_address">Remitente oculto</string>
   <string name="hint_search_sms">%d mensajes</string>
-  <string name="hms_add_image_progress_message">Procesando…</string>
-  <string name="hms_first_use_tips">Para recibir mensajes de servicio, usted necesita estar conectado a una red Wi-Fi</string>
   <string name="hms_uri_param_err">La URL no puede estar vacía</string>
   <string name="hold_to_talk">Mantenga presionado para hablar</string>
   <string name="hybrid_check_network">Ajustes de red</string>
@@ -241,7 +239,6 @@
   <string name="menu_send_as_common">Enviar como SMS</string>
   <string name="menu_unlock">Desbloquear</string>
   <string name="menu_view_contact">Ver contacto</string>
-  <string name="menu_yellowpage">Ver %s</string>
   <string name="message_class_label">"Clase de mensaje: "</string>
   <string name="message_contact">Contacto:</string>
   <string name="message_details_title">Detalles del mensaje</string>
@@ -271,8 +268,6 @@
   <string name="msg_type_hint_mms">Mensajes multimedia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mensajes en la nube</string>
-  <string name="msg_type_hint_mx_b2c">Notificación de red</string>
-  <string name="msg_type_hint_mx_b2c_omit">Notificación de red</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Mensaje de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -312,9 +307,6 @@
   <string name="mx_auto_resend_mms_summary">Se envía como MMS mediante conexión de datos móviles cuando no estás conectado a Wi-Fi (se aplican cargos normales por el uso de datos).</string>
   <string name="mx_auto_resend_sms">Enviar como MMS</string>
   <string name="mx_auto_resend_sms_summary">Se envía como MMS mediante conexión de datos móviles cuando no estás conectado a Wi-Fi (se aplican cargos normales por el uso de datos).</string>
-  <string name="mx_b2c_message_desc">Notificaciones de red</string>
-  <string name="mx_b2c_message_resend_not_online">No se puede reenviar el mensaje. Mensajes Mi está fuera de línea.</string>
-  <string name="mx_b2c_message_server">Servidor</string>
   <string name="mx_btn_enable">Activar</string>
   <string name="mx_btn_enable_now">Activar</string>
   <string name="mx_count_dspt">Has enviado %1$d SMS y %2$d MMS</string>
@@ -389,6 +381,7 @@
   <string name="pref_notification_settings_title">Notificaciones</string>
   <string name="pref_other_title">Otros</string>
   <string name="pref_show_blocked_messages_summary">Mostrar los SMS bloqueados en la lista de conversaciones</string>
+  <string name="pref_show_list_avatar_summary">Mostrar fotos y otros datos del contacto en la vista de la lista</string>
   <string name="pref_show_sms_template_in_summary">Detectar automáticamente OTP en mensajes SMS</string>
   <string name="pref_show_sms_template_summary">Activar para utilizar las funciones inteligentes de Mi Mensaje, tales como códigos de copiado, balance de comprobación, etc.</string>
   <string name="pref_smart_messages_settings">Mensajes inteligentes</string>
@@ -486,7 +479,6 @@
   <string name="restore_blocked_message">Restaurar</string>
   <string name="restore_to_phone_memory_failed">No se pudo restaurar</string>
   <string name="restored_to_phone_memory">Restaurado</string>
-  <string name="retrive_hms_tips">Recuperar…</string>
   <string name="save">Guardar</string>
   <string name="save_ringtone">Guardar como tono de llamada</string>
   <string name="save_to_sim">Guardar en la tarjeta SIM</string>
@@ -522,7 +514,6 @@
   <string name="select_recipient">Seleccionar destinatarios</string>
   <string name="select_top_text">Texto en la parte superior</string>
   <string name="send">Enviar</string>
-  <string name="send_hms_editor_hints">Mensajes Mi</string>
   <string name="send_message_dlg_check_hint">No mostrar de nuevo</string>
   <string name="send_message_dlg_mgs">Aviso CMCC: tenemos que registrar su plataforma de administración de dispositivos para proporcionar el servicio gratuito de post (post-service es una plataforma de CMCC que permite administrar los terminales. Te ofrece el servicio de configuración remota y actualización de la aplicación). Se enviará un mensaje gratis de información de los dispositivos de registro. El mensaje será enviado una vez y no es necesario los datos personales (no mandar de Hong Kong, Macao, Taiwan e itinerancia internacional). Seleccione \"Aceptar\" si está de acuerdo con registrar y utilizar el servicio. Seleccione \"Cancelar\" para volver y no se proporcionará ningún servicio de CMCC.</string>
   <string name="send_message_dlg_title">Administración de dispositivos</string>
@@ -614,6 +605,7 @@
   <string name="title_red_package">¡Tener un buen año!</string>
   <string name="title_send_red_package">Enviar el paquete rojo</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
+  <string name="title_show_list_avatar">Mostrar fotos e información</string>
   <string name="title_show_sms_template">Compruebe los SMS para los códigos de verificación</string>
   <string name="title_show_sms_template_in">Comprobar OTP en SMS</string>
   <string name="title_timed_message_dialog">Establecer mensaje programado</string>
@@ -659,8 +651,6 @@ Intentos realizados: %s"</string>
   <string name="user_agreement5">Al tocar Aceptar, usted acepta los términos expuestos en este documento.</string>
   <string name="view">Ver</string>
   <string name="view_bookmark">Ver mensaje original</string>
-  <string name="view_hms_attachment_fail">No se pudo descargar la imagen</string>
-  <string name="view_hms_details">Detalles</string>
   <string name="view_message_details">Ver detalles</string>
   <string name="voip_enable">Mensajes Mi y Voz Mi</string>
   <string name="voip_enable_popup_msg">Hacer llamadas a otros usuarios de MIUI sin incurrir en gastos con tu proveedor. VoIP desarrollada por Weihui. Ver Política de Privacidad de Weihui.</string>
@@ -669,7 +659,6 @@ Intentos realizados: %s"</string>
   <string name="warning_show">Mandar %ds</string>
   <string name="wild_msg_processing">procesando…</string>
   <string name="wild_msg_title">Elije los números de teléfono para sincronizar</string>
-  <string name="xiaomi_service_number">Número de servicio</string>
   <string name="yellowpage_recommend_msg">Comprueba las características de la mensajería MIUI</string>
   <string name="yes">Aceptar</string>
 </resources>

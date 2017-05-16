@@ -129,6 +129,8 @@
   <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
   <string name="cancel">Cancelar</string>
   <string name="cannot_download">Sólo puede descargar URLs \"http\" o \"https\"</string>
+  <string name="check_permission_of_current_location">Información de ubicación actual</string>
+  <string name="check_permission_of_current_url">URL de los sitios web que visita</string>
   <string name="choose_upload">Elija un Archivo para subir</string>
   <string name="choosertitle_sharevia">Compartir a través de</string>
   <string name="clear">Limpiar</string>
@@ -192,6 +194,7 @@
   <string name="contextmenu_savelink">Guardar enlace</string>
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_set_wallpaper">Establecer como fondo</string>
+  <string name="contextmenu_share_image">Compartir imagen</string>
   <string name="contextmenu_sharelink">Compartir enlace</string>
   <string name="contextmenu_view_image">Ver imagen</string>
   <string name="contextmenu_webpage_capture">Guardar como captura de pantalla</string>
@@ -290,7 +293,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="empty_history_hint">Historial vacío</string>
   <string name="empty_snapshot_hint">Vacío</string>
   <string name="empty_snapshots_folder">No hay páginas guardadas.</string>
-  <string name="enable_geolocation_confirm_message">Apagar esta característica puede hacer que algunas webs funcionen mal.</string>
+  <string name="enable_geolocation_confirm_message">La desactivación de los servicios de ubicación afectará las recomendaciones que reciba.</string>
   <string name="enter_developer_mode">Entrar en modo desarrollador</string>
   <string name="enter_incongnito_mode">Entrar en modo incógnito</string>
   <string name="error_console_eval_button_text">Evaluar</string>
@@ -487,6 +490,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="older">Anterior</string>
   <string name="open_app_confirm_message">¿Permitir que esta página abra %s?</string>
   <string name="open_file_explorer_failed">No se puede abrir el Explorador</string>
+  <string name="open_voice_permission">Permiso para abrir la red de voz</string>
   <string name="opening_file_error">"No se puede abrir el archivo"</string>
   <string name="page_info">Información de la página</string>
   <string name="page_info_address">Dirección:</string>
@@ -514,7 +518,9 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_automatic_matching_searchengines_title">Cambiar al motor de búsqueda que utiliza con frecuencia</string>
   <string name="pref_category_hint">Categoría</string>
   <string name="pref_check_security_url_summary">"Enviar las URL de los sitios web a los servidores de Xiaomi para validación"</string>
+  <string name="pref_check_security_url_summary_international">Para proporcionar un mejor servicio de referencia, permita que el navegador obtenga su URL de acceso</string>
   <string name="pref_check_security_url_title">Comprobar seguridad de la URL</string>
+  <string name="pref_check_security_url_title_international">Obtener la URL</string>
   <string name="pref_clear_adblock_statistics">Limpiar historial del filtro de publicidad</string>
   <string name="pref_clear_adblock_statistics_dlg">¿Limpiar cuenta de publicidad bloqueada?</string>
   <string name="pref_clear_all_data_dlg">¿Borrar todos los datos guardados arriba?</string>
@@ -574,7 +580,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_privacy_clear_passwords_summary">Borrar todas las contraseñas guardadas</string>
   <string name="pref_privacy_cookies_title">Cookies</string>
   <string name="pref_privacy_enable_geolocation">Activar ubicación</string>
-  <string name="pref_privacy_enable_geolocation_summary">Permitir sitios solicitar acceso a su localización</string>
+  <string name="pref_privacy_enable_geolocation_summary">Permitir que el navegador solicite acceso a su ubicación</string>
   <string name="pref_privacy_formdata_title">Datos de formulario</string>
   <string name="pref_privacy_location_title">Ubicación</string>
   <string name="pref_privacy_security_title">Privacidad y seguridad</string>
@@ -593,8 +599,6 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="pref_ua_string">Cadena de agente de usuario</string>
   <string name="pref_version_info">Versión</string>
   <string name="pref_volume_key_action">Botones de volumen: página anterior/siguiente</string>
-  <string name="pref_weather_location_summary">Usado por el plugin de tiempo del navegador</string>
-  <string name="pref_weather_location_title">Localización del tiempo</string>
   <string name="private_browsing_warning">Esta funcionalidad no está soportada en esta versión de Android.</string>
   <string name="profiler_error_toast">"No se puede iniciar el administrador de perfiles"</string>
   <string name="profiler_no_storage_toast">"No puede iniciar el administrador de perfiles porque almacenamiento externo no está listo"</string>
@@ -652,7 +656,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="same_folder_name_warning">Ya existe una carpeta con el mismo nombre</string>
   <string name="save_button_text">Guardar</string>
   <string name="save_dialog_title">Guardar</string>
-  <string name="save_file">Guardar archivos %s</string>
+  <string name="save_file">Guardar %s archivo</string>
   <string name="save_file_already_exist_alert_message">Ya existe un archivo con el mismo nombre, ¿reemplazar?</string>
   <string name="save_file_already_exist_alert_title">¿Reemplazar el archivo?</string>
   <string name="save_form_data_confirm_message">Apagar esta característica puede afectar al uso.</string>
@@ -667,6 +671,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="save_to_camera">Guardar en la galería</string>
   <string name="save_to_camera_failed">"No se puede guardar la imagen"</string>
   <string name="save_to_camera_success">Guardado en la galería</string>
+  <string name="scanner_uninstalled_text">Continuar usando, por favor instale el escáner</string>
+  <string name="scanner_uninstalled_title">El escáner se ha desinstalado</string>
   <string name="sdcard_error">Compruebe su tarjeta SD</string>
   <string name="search">Búsqueda</string>
   <string name="search_baidu">Baidu</string>
@@ -699,10 +705,12 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="send_comment_title">Comentario</string>
   <string name="senddesktop">Pantalla de inicio</string>
   <string name="sendstartpage">Página de inicio</string>
+  <string name="share_image_text">"Estoy disfrutando de una foto muy maravillosa"</string>
   <string name="share_page_text">"Estoy disfrutando %1$s | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"La URL de esta web se enviará a los servidores de Xiaomi para verificar su seguridad. Puede desactivar esta característica en Ajustes en cualquier momento."</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Para mejorar la seguridad de sus navegadores y recibir recomendaciones relevantes, permita que el navegador acceda a estos elementos:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Para recibir las recomendaciones pertinentes, permita que el navegador acceda a estos elementos:</string>
   <string name="show_security_tip_dialog_title">Términos de Servicio</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Los servicios de tiempo necesitan tu localización para darte información actualizada del tiempo en tu navegador. Puedes desactivar esta característica en Ajustes.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Para la seguridad de su sitio y para proporcionar un servicio de referencias de información basada en la ubicación y servicio meteorológico, el navegador debe obtener la siguiente información:</string>
   <string name="sign_in_to" formatted="false">Iniciar sesión en %s1 \"%s2\"</string>
   <string name="skip_button_label">Saltar</string>
   <string name="skip_current_version">Omitir esta versión</string>
@@ -842,6 +850,11 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="video_unknown_duration">Duración desconocida</string>
   <string name="view_certificate">Ver certificado</string>
   <string name="view_document_downloaded_files">Ver archivos descargados en Descargas</string>
+  <string name="voice_check_network">Compruebe la red e inténtelo de nuevo</string>
+  <string name="voice_connect_network">No se puede conectar a la red</string>
+  <string name="voice_network_connection">El uso de la búsqueda por voz necesita red, por favor autorice la conexión de red</string>
+  <string name="voice_search_permission">La búsqueda por voz requiere privilegios de voz, vaya a ajustes del navegador para abrir los permisos de voz</string>
+  <string name="voice_semantic_analysis">Análisis semántico después de la creación de redes</string>
   <string name="voice_sub_title">"¿No sé que decir? Trate de abrir mi.com!"</string>
   <string name="voice_title">Diga sus órdenes…</string>
   <string name="voice_title_distinguish">Procesando…</string>
