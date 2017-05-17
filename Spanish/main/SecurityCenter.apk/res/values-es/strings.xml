@@ -1673,9 +1673,8 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="settings_title_permission">Ajustes de permisos</string>
   <string name="share">Compartir</string>
   <string name="show_system_app">Mostrar aplicaciones del sistema</string>
-  <string name="show_traffic_dialog_message">Su información de uso de datos será mostrada en el panel de notificaciones.
-        Puede desactivar esta característica en cualquier momento en Uso de datos &gt; Ajustes</string>
-  <string name="show_traffic_dialog_title">Mostrar uso en el panel de notificaciones</string>
+  <string name="show_traffic_dialog_message">Su información de uso de datos será mostrada en el panel de notificaciones. Puede activar o desactivar esta característica en cualquier momento en Uso de datos &gt; Ajustes</string>
+  <string name="show_traffic_dialog_title">Mostrar uso en el panel de Notificaciones</string>
   <string name="showpattern">Mostrar patrón</string>
   <string name="shutdown_cancel_reminder">No se apagó</string>
   <string name="shutdown_cancel_reminder_detail">El dispositivo no se apagó porque estaba en mitad de una llamada</string>
@@ -1686,8 +1685,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="signal_exception_summary">No se puede conectar a la red en esta área.</string>
   <string name="signal_exception_title">Probar intensidad de la señal</string>
   <string name="sim_location_diagnostic">Diagnósticos de ubicación</string>
-  <string name="sim_location_error_dialog_message">La tarjeta SIM que está utilizando es de %1$s. Esto es diferente de la
-        ubicación que configuró manualmente (%2$s). ¿Cambiar la ubicación de SIM a %3$s?</string>
+  <string name="sim_location_error_dialog_message">La tarjeta SIM que está utilizando es de %1$s. Esto es diferente de la ubicación que configuró manualmente (%2$s). ¿Cambiar la ubicación de SIM a %3$s?</string>
   <string name="sim_location_error_notify_message">Toque para cambiar la ubicación SIM.</string>
   <string name="sim_location_error_notify_title">Error de tarjeta SIM</string>
   <string name="sim_not_ready">La tarjeta SIM no está lista</string>
@@ -1697,7 +1695,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="skin_change_close_btn_text">Definir como fondo predeterminado</string>
   <string name="skin_change_close_toast">Los cambios se aplicarán la próxima vez que lance Seguridad</string>
   <string name="sms_delete_hint">¿Borrar todos los mensajes bloqueados de este número?</string>
-  <string name="sms_delete_title">Eliminar Mensaje</string>
+  <string name="sms_delete_title">Borrar mensajes</string>
   <string name="sms_smart_engine_update">Actualizar automáticamente filtro SMS</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_back_title_text_zero">Seguro</string>
@@ -1798,7 +1796,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_mute_title">No sonar ni vibrar</string>
   <string name="st_other_setting_group">Otros ajustes</string>
   <string name="st_settings_name">Ajustes de lista de bloqueo</string>
-  <string name="st_show_block_notification">Mostrar notificación de bloqueado</string>
+  <string name="st_show_block_notification">Notificar elementos bloqueados</string>
   <string name="st_show_num_keyword">" palabras clave"</string>
   <string name="st_show_num_number">" números"</string>
   <string name="st_sms_group">Mensajes</string>
@@ -1918,10 +1916,8 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Marca del operador errónea&lt;br/&gt;&lt;br/&gt;Establecer marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Aceptar</string>
   <string name="tc_diagnostic_fragment_default">Acerca de diagnósticos
-1. El dispositivo se conectará a la la red
-        de la operadora, enviará un mensaje gratis, y esperará a la respuesta de la operadora. Esto puede costar hasta 5 minutos.
-2. Usted puede
-        dejar esta página durante los diagnósticos, será llevado a cabo en segundo plano.</string>
+1. El dispositivo se conectará a la la red de la operadora, enviará un mensaje gratuito, y esperará a la respuesta de la operadora. Esto puede costar hasta 5 minutos.
+2. Usted puede abandonar esta página durante los diagnósticos, será llevado a cabo en segundo plano.</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar la ubicación</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicación errónea</string>
   <string name="tc_diagnostic_notification_sumarry">Pulse para ver los resultados</string>
@@ -1937,7 +1933,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_repair_success_toast">Cambiado con éxito</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultado: No se pudo completar el diagnóstico &lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herramientas de mejoramiento de MIUI&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Ubicación errónea&lt;br/&gt;&lt;br/&gt;Establecer ubicación: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Ubicación actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_error_brand">Red del operador no encontrada</string>
+  <string name="tc_diagnostic_status_error_brand">No se pudo encontrar la red del operador</string>
   <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Sin conexión a la red&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;No se pudo obtener la información&lt;/font&gt;"</string>
@@ -1954,8 +1950,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_upload_success">¡Gracias por su comentario!</string>
   <string name="tc_sms_report_direction">Código de consulta SMS</string>
   <string name="tc_sms_report_do_report">Enviar</string>
-  <string name="tc_sms_report_get_default">Usted no incurrirá en gastos por los mensajes SMS para obtener el balance de
-        uso de datos de su operadora.</string>
+  <string name="tc_sms_report_get_default">Usted no incurrirá en gastos por los mensajes SMS para obtener el balance de uso de datos de su operadora.</string>
   <string name="tc_sms_report_get_sms">Obtener SMS</string>
   <string name="tc_sms_report_get_sms2">Obtener SMS</string>
   <string name="tc_sms_report_get_sms_again">Actualizar SMS</string>
@@ -1964,26 +1959,22 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_sms_report_get_sms_failure">No se pudo conseguir el nuevo formato SMS para el uso de datos</string>
   <string name="tc_sms_report_get_sms_successs">Formato de SMS para el uso de datos actualizado</string>
   <string name="tc_sms_report_get_sms_timeout">Tiempo de espera agotado</string>
-  <string name="tc_sms_report_get_success">Se ha recibido el SMS con el informe de uso de datos enviado por su operador. Asegúrese de que está bien para después
-        enviárnoslo a nosotros.</string>
+  <string name="tc_sms_report_get_success">Se ha recibido el SMS con el informe de uso de datos enviado por su operador. Asegúrese de que está bien para después enviárnoslo a nosotros.</string>
   <string name="tc_sms_report_get_success_notify_body">Asegúrese de que el informe es correcto para enviarlo después a MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Se ha recibido el SMS con el informe de uso de datos</string>
   <string name="tc_sms_report_geting_sms">Obteniendo información de SMS…</string>
   <string name="tc_sms_report_notify_correction_body">Vaya a la aplicación de uso de datos en el Centro de Seguridad y vuelva a intentarlo manualmente.</string>
   <string name="tc_sms_report_notify_correction_failure_title">No es posible actualizar la información de uso de datos</string>
-  <string name="tc_sms_report_notify_get_failure_body">"No se pudo enviar el informe de uso de datos. Asegúrese de que está 
-        conectado a una red móvil."</string>
+  <string name="tc_sms_report_notify_get_failure_body">No se pudo enviar el informe de uso de datos. Asegúrese de que está conectado a una red móvil.</string>
   <string name="tc_sms_report_notify_get_failure_title">No se puede obtener SMS de uso de datos</string>
   <string name="tc_sms_report_notify_get_timeout_body">Proceso fuera de tiempo. Pregunte a su operador si el código de consulta SMS que ingresó es correcto.</string>
   <string name="tc_sms_report_notify_get_timeout_title">No se puede obtener SMS de uso de datos</string>
   <string name="tc_sms_report_receive_content">Informe de uso de datos por contenido en SMS (Confirmar estadísticas de uso de datos)</string>
-  <string name="tc_sms_report_receive_content_null">¡Ayude a mejorar esta característica!&lt;br/&gt;Aquí cómo:&lt;br/&gt;1. Ir a \"Comprobar comando SMS\" y \"Número de destinatario\"&lt;br/&gt;2. Pulse \"Obtener plantilla SMS\"&lt;br/&gt;3. Espere a recibir un mensaje SMS de su operador &lt;br/&gt;4. Pulse \"Subir a MIUI\"</string>
+  <string name="tc_sms_report_receive_content_null">¡Ayúdenos a mejorar esta característica!&lt;br/&gt;Aquí está cómo:&lt;br/&gt;1. Ir a \"Comprobar comando SMS\" y \"Número de destinatario\"&lt;br/&gt;2. Pulse \"Obtener plantilla SMS\"&lt;br/&gt;3. Espere a recibir un mensaje SMS de su operador &lt;br/&gt;4. Pulse \"Subir a MIUI\"</string>
   <string name="tc_sms_report_receive_num">Número del destinatario</string>
   <string name="tc_sms_report_send_num">Número de teléfono del operador</string>
-  <string name="tc_sms_report_summary">Ayúdenos a mejorar esta característica enviando un informe cuando su uso de datos tiene un error o falla para actualizar</string>
-  <string name="tc_sms_report_tips_dialog_message">El uso de datos utiliza un SMS con un formato especial para conseguir su última utilización de los
-        datos de su compañía. Si esta función no está funcionando normalmente, intente actualizar el formato de SMS para el uso de datos. El nuevo
-        formato actualizado será subido a nuestros servidores.</string>
+  <string name="tc_sms_report_summary">Ayúdenos a mejorar esta característica enviando un informe cuando su uso de datos tiene un error o falla para actualizar.</string>
+  <string name="tc_sms_report_tips_dialog_message">El uso de datos utiliza un SMS con un formato especial para conseguir su última utilización de los datos de su compañía. Si esta función no está funcionando normalmente, intente actualizar el formato de SMS para el uso de datos. El nuevo formato actualizado será subido a nuestros servidores.</string>
   <string name="tc_sms_report_tips_dialog_title">SMS de uso de datos</string>
   <string name="tc_sms_report_title">Reportar error de uso de datos</string>
   <string name="tc_sms_report_toast_text">Obteniendo información…</string>
@@ -2095,35 +2086,28 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
 
 ¿Es eso correcto?"</string>
   <string name="traffic_config_alert_body_extra">
-Ha comprado %1$s de datos extras este mes. Esto es distinto
-        a los %2$s que ha añadido manualmente.</string>
+Ha comprado %1$s de datos extras este mes. Esto es distinto a los %2$s que ha añadido manualmente.</string>
   <string name="traffic_config_alert_body_extra_notset">
-Ha comprado %s de datos extras este mes. Esto no está
-        reflejado en el límite de datos mensuales que configuró manualmente.</string>
+Ha comprado %s de datos extras este mes. Esto no está reflejado en el límite de datos mensuales que configuró manualmente.</string>
   <string name="traffic_config_alert_body_leisure">
-Su límite de datos mensual fuera de hora pico es %1$s. Éste es
-        distinto al del límite de %2$s que ha configurado manualmente.</string>
+Su límite de datos mensual fuera de hora pico es %1$s. Éste es distinto al del límite de %2$s que ha configurado manualmente.</string>
   <string name="traffic_config_alert_body_leisure_notset">
-Su límite de datos mensual fuera de hora pico es %1$s.
-        No ha configurado ningún límite de datos fuera de pico de forma manual.</string>
+Su límite de datos mensual fuera de hora pico es %1$s. No ha configurado ningún límite de datos fuera de pico de forma manual.</string>
   <string name="traffic_config_alert_body_normal">"
-Su límite de datos mensual en hora pico es %1$s. Éste es
-        distinto al del límite de %2$s que ha configurado manualmente.</string>
+Su límite de datos mensual en hora pico es %1$s. Éste es distinto al del límite de %2$s que ha configurado manualmente.</string>
   <string name="traffic_config_alert_package">
 Exceso de datos transferidos</string>
   <string name="traffic_config_alert_setted">Ajustes aplicados</string>
-  <string name="traffic_config_alert_title">%s Corrección</string>
+  <string name="traffic_config_alert_title">%s corrección</string>
   <string name="traffic_correction_failed">No se pudo obtener información</string>
   <string name="traffic_correction_start_correction">Hablando con los servidores de la compañía…</string>
-  <string name="traffic_correction_start_correction_failed">Solicitud fallida, verifique los ajustes del operador</string>
+  <string name="traffic_correction_start_correction_failed">No se pudo enviar la petición. Verifique los ajustes de su operador.</string>
   <string name="traffic_correction_success">Uso de datos actualizados</string>
   <string name="traffic_correction_success_notify_message">Pulse para ver los detalles.</string>
-  <string name="traffic_limit_error_alert_body">Sus datos restantes de este mes (%1$s) son más elevados que los de su plan
-        mensual (%2$s). ¿Se cambió el plan mensual?</string>
+  <string name="traffic_limit_error_alert_body">Sus datos restantes de este mes (%1$s) son más elevados que los de su plan mensual (%2$s). ¿Se cambió el plan mensual?</string>
   <string name="traffic_limit_error_alert_package">
 
-Los datos restantes incluyen datos transferidos desde
-        el mes anterior.</string>
+Los datos restantes incluyen datos transferidos desde el mes anterior.</string>
   <string name="traffic_limit_error_alert_title">Recordatorio de límite de datos %s</string>
   <string name="traffic_none">Ninguno</string>
   <string name="traffic_over_purchase_body">Toque para ver los detalles.</string>
@@ -2180,11 +2164,9 @@ Los datos restantes incluyen datos transferidos desde
   <string name="usb_adb_input_apply_step_2">Los desarrolladores pueden utilizar un software especial para imitar gestos, cambiar la configuración y conceder permisos a través de USB.</string>
   <string name="usb_adb_input_apply_step_3">¿Permitir ahora?</string>
   <string name="usb_install_desc">¿Instalar esta aplicación vía USB?</string>
-  <string name="usbsharenet_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe
-        la conexión USB de su dispositivo y reinicie Mi PC Suite.</string>
+  <string name="usbsharenet_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe la conexión USB de su dispositivo y reinicie Mi PC Suite.</string>
   <string name="usbsharenet_exception_title">Probar Internet compartida a través de USB</string>
-  <string name="usbsharenet_pc_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe
-        la conexión a Internet de su computadora.</string>
+  <string name="usbsharenet_pc_exception_summary">No se puede conectar a Internet mediante conexión USB compartida. Compruebe la conexión a Internet de su ordenador.</string>
   <string name="use_immediately">Utilizar</string>
   <string name="user_define_title">Añadir reglas</string>
   <string name="virus_ad_icon_text">Aviso</string>
