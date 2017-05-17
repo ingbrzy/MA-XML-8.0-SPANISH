@@ -60,7 +60,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="activity_title_permissions_manager">Permisos</string>
   <string name="activity_title_power_manager">Uso de batería</string>
   <string name="activity_title_risk">Riesgos</string>
-  <string name="activity_title_risk_detail">Detalle del riesgo</string>
+  <string name="activity_title_risk_detail">Detalles del riesgo</string>
   <string name="activity_title_root_acquired">Permitir el acceso root</string>
   <string name="activity_title_root_manager">Acceso root</string>
   <string name="activity_title_root_note">Permitir el acceso root</string>
@@ -69,7 +69,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="activity_title_system">Sistema</string>
   <string name="activity_title_trash">Caché</string>
   <string name="activity_title_virus">Virus</string>
-  <string name="activity_title_virus_detail">Detalle del virus</string>
+  <string name="activity_title_virus_detail">Detalles del virus</string>
   <string name="activity_title_virus_settings">Ajustes</string>
   <string name="activity_title_white_list">Excepciones</string>
   <string name="ad_btn_default_text">Aprenda más</string>
@@ -82,8 +82,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="adb_install_reject_notiy_desc">Puede permitir la instalación a través de USB en opciones de Desarrollador</string>
   <string name="adb_login_xiaomi_account">Iniciar sesión primero en su Cuenta Mi</string>
   <string name="add_game_notification_summary">Toque para iniciar y aumentar la velocidad</string>
-  <string name="add_miservice_dialog_content">%s requiere que usted agregue la estructura de servicios de MIUI a la lista de excepciones.
-        Puede recibir notificaciones de aplicaciones incorporadas de MIUI y otras aplicaciones de terceros.</string>
+  <string name="add_miservice_dialog_content">%s requiere que se agregue el marco de servicio MIUI a las excepciones. Es posible que reciba notificaciones de las aplicaciones integradas de MIUI y de otras aplicaciones de terceros.</string>
   <string name="add_miservice_dialog_title">Estructura de servicios MIUI</string>
   <string name="add_to_whitelist_button">Excepciones en el roaming de datos</string>
   <string name="add_white_list">Añadir</string>
@@ -438,7 +437,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="cache_header_title">Limpiar %1$d archivos en caché para liberar %2$s de espacio</string>
   <string name="call_and_contact">Llamadas y contactos</string>
   <string name="call_delete_hint">¿Borrar todas las llamadas bloqueadas de este número?</string>
-  <string name="call_delete_title">Eliminar Llamada</string>
+  <string name="call_delete_title">Eliminar historial de llamadas</string>
   <string name="call_transfer_block">Bloquear llamadas desviadas</string>
   <string name="call_transfer_block_type">Bloquear llamadas desviadas</string>
   <string name="call_transfer_info">Bloquear llamadas desviadas desde números desconocidos</string>
@@ -535,8 +534,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="data_network_blocked_notification_title">Sin conexión a Internet</string>
   <string name="data_usage_correction_timeout_body">Pulse para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Tiempo agotado de sincronización de uso de datos</string>
-  <string name="data_usage_disabled_dialog">Usted ha alcanzado el límite de uso de datos de su plan. Si pasa su límite,
-        su compañía puede cobrarle cargos adicionales.</string>
+  <string name="data_usage_disabled_dialog">"Ha alcanzado el límite de uso de datos de su plan. Si supera su límite, su compañia puede cobrarle cargos adicionales".</string>
   <string name="data_usage_disabled_dialog_enable">Activar datos</string>
   <string name="data_usage_leisure_warning_body">Pulse para ver los detalles de uso de datos.</string>
   <string name="data_usage_leisure_warning_title">Límite de uso de datos fuera de pico</string>
@@ -599,8 +597,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dlg_add_keyword">Añadir palabras clave</string>
   <string name="dlg_antispam_mode_delete_message">No puede recuperar reglas después de que hayan sido borradas.</string>
   <string name="dlg_antispam_mode_delete_title">¿Borrar reglas?</string>
-  <string name="dlg_antispam_using_mode_delete_message">¿Borrar las reglas que estaba actualmente usando y cambiar a las reglas por defecto de la lista de bloqueo?</string>
-  <string name="dlg_antispam_using_mode_international_delete_message">¿Borrar las reglas que estaba actualmente usando y cambiar a las reglas por defecto de la lista de bloqueo?</string>
+  <string name="dlg_antispam_using_mode_delete_message">"¿Eliminar las reglas que está utilizando actualmente y volver a las reglas predeterminadas de la lista de bloqueo?"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"¿Eliminar las reglas que está utilizando actualmente y volver a las reglas predeterminadas de la lista de bloqueo?"</string>
   <string name="dlg_black_address_antispam_message">¿Añadir esta ubicación a la lista de bloqueo?</string>
   <string name="dlg_black_antispam_hint">Lista de bloqueo</string>
   <string name="dlg_black_antispam_message">¿Añadir este número a la lista de bloqueo?</string>
@@ -628,7 +626,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dlg_remove_whitelist_title">Eliminar</string>
   <string name="dlg_retore">¿Restaurar mensajes a la bandeja de entrada?</string>
   <string name="dlg_retore_ok">Restaurar</string>
-  <string name="dlg_title_not_open_stranger_identify">Identificar Desconocidos</string>
+  <string name="dlg_title_not_open_stranger_identify">Identificador de llamadas</string>
   <string name="dlg_white_address_antispam_message">¿Añadir esta ubicación a las excepciones?</string>
   <string name="dlg_white_antispam_hint">Excepciones</string>
   <string name="dlg_white_antispam_message">¿Añadir este número a excepciones?</string>
@@ -681,7 +679,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
   <string name="firewall_network_allow">%1$s tiene permiso para usar la conexión %2$s</string>
   <string name="firewall_network_restrict_notify_message">Pulse para cambiar los ajustes.</string>
-  <string name="firewall_network_restrict_notify_mobile">datos móviles</string>
+  <string name="firewall_network_restrict_notify_mobile">Datos móviles</string>
   <string name="firewall_network_restrict_notify_title">%1$s no puede usar la red</string>
   <string name="firewall_restrict_android_dialog_content">Para asegurarse de que su dispositivo funciona con normalidad, algunas aplicaciones del sistema Android seguirán conectándose a Internet. Estas aplicaciones usarán su conexión de datos móviles y podrían generar cobros menores de su compañía.</string>
   <string name="firewall_restrict_android_dialog_title">Advertencia</string>
@@ -801,8 +799,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="installed">Instalado</string>
   <string name="installing">Instalando</string>
   <string name="international_roaming_setting">Roaming de datos</string>
-  <string name="ip_address_exception_summary">No se pudo obtener la dirección IP. Si se encuentra con este problema de nuevo, trate de usar
-        una dirección IP estática.</string>
+  <string name="ip_address_exception_summary">"No se pudo obtener la dirección IP. Si se ejecuta en este problema de nuevo, intente usar una dirección IP estática."</string>
   <string name="item_app_permission">Permisos de apps</string>
   <string name="item_dev_mode">Opciones de desarrollador</string>
   <string name="item_install_monitor">Monitor de instalación</string>
@@ -848,8 +845,7 @@ Su operadora podría cargarle costos adicionales si usa la conexión de datos m�
   <string name="list_empty_text">Vacío</string>
   <string name="load_fail">No se pudo cargar</string>
   <string name="load_only_under_wlan">Cargar usando sólo Wi-Fi</string>
-  <string name="local_ip_exception_summary">"No se pudo obtener la dirección IP local. Para informar de este problema a MIUI, vaya al
-         aplicación Feedback y envíe un registro desde su dispositivo</string>
+  <string name="local_ip_exception_summary">"No se pudo obtener la dirección IP local Para informar de este problema a MIUI, vaya a la aplicación Comentarios y envíe un registro desde su dispositivo."</string>
   <string name="lock_mode_title">Ajustes de bloqueo</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s utilizado en la pantalla de bloqueo</string>
   <string name="lock_screen_traffic_guide_notification_title">Toque para gestionar el uso de datos.</string>
@@ -948,7 +944,7 @@ responda</string>
   <string name="mark_number_agent">Agente</string>
   <string name="mark_number_fraud">Fraude</string>
   <string name="mark_number_harass">Acoso</string>
-  <string name="mark_number_info">Tenga en cuenta que algunas veces estas llamadas pueden ser útiles (p.e. cuando usted está buscando un apartamento). Sólo bloquee números desde los que nunca quiera recibir llamadas.</string>
+  <string name="mark_number_info">"Tenga en cuenta que a veces estas llamadas pueden ser útiles (p.e. cuando usted está buscando un apartamento). Sólo bloquee números desde los que nunca quiera recibir llamadas.</string>
   <string name="mark_number_sell" >Vendedor telefónico</string>
   <string name="mark_number_setting_guide_content1">¿Bloquear llamadas de números informados?</string>
   <string name="mark_number_setting_guide_content2">Bloquear llamadas automáticamente desde números que haya sido informados por otros usuarios</string>
@@ -1043,14 +1039,13 @@ responda</string>
   <string name="network_diagnostics">Comprobar la red</string>
   <string name="network_mobile_exception_detail">"El dispositivo no puede conectarse a Internet:
 
-           1. Asegúrese de no haber excedido el límite del plan de datos móviles.
+1. Asegúrese de no haber excedido el límite del plan de datos móviles.
 
-           2. Si recargó el saldo de su plan, reinicie el dispositivo y vuelva a intentarlo.
+2. Si recargó el saldo de su plan, reinicie el dispositivo y vuelva a intentarlo.
 
-           3. La señal de red de su proveedor puede ser débil en su ubicación actual."</string>
+3. La señal de red de su proveedor puede ser débil en su ubicación actual."</string>
   <string name="network_not_available">"No se puede conectar a la red"</string>
-  <string name="network_operator_exception_summary">No se pudo activar la tarjeta SIM. Asegúrese de que su tarjeta SIM está insertada
-        correctamente y de que su plan de telefonía móvil se ha activado por su compañía.</string>
+  <string name="network_operator_exception_summary">"No se pudo activar la tarjeta SIM. Asegúrese de que la tarjeta SIM esté insertada correctamente y que su plan móvil haya sido activado por su compañía."</string>
   <string name="network_permission_exception_tips">No se pueden utilizar datos móviles para conectarse a la red</string>
   <string name="network_roaming_exception_tips">No se pueden utilizar datos móviles en roaming para conectarse a la red.</string>
   <string name="network_route_exception_detail">"Puede haber un problema con el router al que está conectado:
@@ -1068,21 +1063,21 @@ responda</string>
 "</b>"Lea las instrucciones que vienen con el router y restaure las configuraciones de fábrica.
 
 "<b>"5. Asegúrese de que el router está conectado correctamente
-"</b>"Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, póngase en contacto con su proveedor de servicios de Internet. "</string>
+"</b>"Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, póngase en contacto con su proveedor de servicios de Internet."</string>
   <string name="network_sim_exception_detail">"Puede haber un problema con la tarjeta SIM:
 
-           1. Asegúrese de que su cuenta está en buenos términos con su compañía. Trate de usar la tarjeta SIM de un amigo y vea si puede conectar con normalidad.
+1. Asegúrese de que su cuenta está en buenos términos con su compañía. Trate de usar la tarjeta SIM de un amigo y vea si puede conectar con normalidad.
 
-           2. Si utiliza dos tarjetas SIM, trate de cambiar a la otra tarjeta y ver si puede conectar con normalidad.
+2. Si utiliza dos tarjetas SIM, trate de cambiar a la otra tarjeta y ver si puede conectar con normalidad.
 
-           3. Asegúrese de que su tarjeta SIM y la ranura SIM de su dispositivo no se dañen. Confirme que la tarjeta SIM que está utilizando se ha insertado correctamente en la bandeja SIM de su dispositivo."</string>
+3. Asegúrese de que su tarjeta SIM y la ranura SIM de su dispositivo no se dañen. Confirme que la tarjeta SIM que está utilizando se ha insertado correctamente en la bandeja SIM de su dispositivo."</string>
   <string name="network_speed_for_apps_close">Forzar detención</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">¿Forzar la interrupción de esta aplicación?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">No se puede obligar a detener a las aplicaciones del sistema.</string>
   <string name="network_speed_for_apps_others">Otros</string>
   <string name="network_speed_for_apps_title">Conexión</string>
   <string name="network_speed_for_apps_total">Velocidad de conexión</string>
-  <string name="networkchanged_exception_summary">La conexión de red ha cambiado. Por favor pruebe de nuevo.</string>
+  <string name="networkchanged_exception_summary">La conexión de red ha cambiado. Prueba de nuevo.</string>
   <string name="networkchanged_exception_title">Cambió la conexión</string>
   <string name="never">Una vez</string>
   <string name="news_change">Cambiar</string>
@@ -1523,8 +1518,7 @@ responda</string>
   <string name="preferred_app_entries_music">Música</string>
   <string name="privacy_declare_dialog_title">Términos de Servicio</string>
   <string name="privacy_mode_dialog_title">Modo de invitado</string>
-  <string name="privacy_prompt_tc_sms_report_message">Su número de teléfono y los detalles del operador serán encriptados y
-        cargados a los servidores Mi para actualizar la información de su uso de datos.</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Su número de teléfono y los datos de su compañia se cifrarán y se cargarán en los servidores de Mi para actualizar su información de uso de datos".</string>
   <string name="privacy_prompt_traffic_adjust_message">Después de comenzar la calibración, MIUI se conectará a la red, codificará la información de su operadora, número de teléfono, IMEI, y la Cuenta MI, y subirá estos elementos a los servidores Mi. Esto se hace para obtener la plantilla de calibración de la operadora y aprender si es posible comprar datos en su ubicación.
 
 Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para recibir la plantilla de calibración.</string>
