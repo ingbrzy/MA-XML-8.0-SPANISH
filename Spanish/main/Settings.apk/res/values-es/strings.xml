@@ -3271,6 +3271,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="remove_account_failed">El administrador no permite este cambio</string>
   <string name="remove_account_label">Quitar cuenta</string>
   <string name="remove_and_uninstall_device_admin">Desactivar y Desinstalar</string>
+  <string name="remove_continue">Desinstalar</string>
   <string name="remove_device_admin">Desactivar este administrador de dispositivo</string>
   <string name="remove_from_frequently_fragment">¿Quitar %s de ajustes rápidos?</string>
   <string name="remove_managed_profile_label">Eliminar perfil de trabajo</string>
@@ -3441,7 +3442,6 @@ Para ello:
   <string name="screen_pinning_unlock_password">Solicitar contraseña para desactivar</string>
   <string name="screen_pinning_unlock_pattern">Solicitar patrón de desbloqueo para desactivar</string>
   <string name="screen_pinning_unlock_pin">Solicitar PIN para desactivar</string>
-  <string name="screen_recorder">Grabador de pantalla</string>
   <string name="screen_resolution_confirm">Reiniciar</string>
   <string name="screen_resolution_dialog_title">Resolución del interruptor</string>
   <string name="screen_resolution_high_format">Alta (%1$s)</string>
@@ -4483,6 +4483,8 @@ un servicio de Google que te permite sincronizar datos para que puedas acceder a
   <string name="uninstall_device_admin">Desinstalar aplicación</string>
   <string name="uninstall_dlg_msg">Al desinstalar borrará todos los datos de las aplicaciones.</string>
   <string name="uninstall_dlg_title">¿Desinstalar ahora?</string>
+  <string name="uninstall_protected_dlg_msg">Desinstalar las aplicaciones del sistema puede impedir que algunos componentes MIUI funcionen correctamente. ¿Desinstalar de todos modos?</string>
+  <string name="uninstall_protected_dlg_title">Desinstalación de aplicaciones del sistema</string>
   <string name="uninstall_text">Desinstalar</string>
   <string name="uninstall_wifi_master_key">Desinstalar clave maestra Wi-Fi</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Las aplicaciones duplicadas correspondientes se eliminarán junto a los datos de la aplicación.</string>
