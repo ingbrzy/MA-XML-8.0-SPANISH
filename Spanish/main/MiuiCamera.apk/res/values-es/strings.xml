@@ -7,6 +7,7 @@
   <string name="accessibility_flash_mode_button">Botón flash</string>
   <string name="accessibility_hdr">Botón activar HDR</string>
   <string name="accessibility_peak">Botón de pico de enfoque</string>
+  <string name="accessibility_portrait_button">Modo retrato</string>
   <string name="accessibility_review_thumbnail">Foto más reciente</string>
   <string name="accessibility_seek_bar_line">Deslizador</string>
   <string name="accessibility_setting_button">Botón ajustes adicionales</string>
@@ -16,6 +17,7 @@
   <string name="accessibility_video_capture_button">Botón de captura de vídeo</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">Botón de pausar vídeo</string>
+  <string name="accessibility_zoom_button">Modo zoom</string>
   <string name="audio_focus_exit_button_text">Cerrar enfoque de audio</string>
   <string name="burst_shoot_exit_button_text">Cerrar disparo en ráfaga</string>
   <string name="button_fisheye_camera_title">Ojo de pez</string>
@@ -84,6 +86,7 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="face_beauty_smart">Inteligente</string>
   <string name="groupshot_mode_use_hint">"Se tomarán varias fotos para seleccionar la mejor expresión 
 facial para sintetizar en una foto"</string>
+  <string name="hibernate_hint">Toca cualquier lugar para despertar</string>
   <string name="flash">Flash</string>
   <string name="height">Altura</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
@@ -101,6 +104,11 @@ facial para sintetizar en una foto"</string>
   <string name="pano_how_to_use_prompt_to_move">Comience lentamente la panorámica</string>
   <string name="path">Ruta</string>
   <string name="path_settings">Aplicaciones del sistema/Cámara/Ajustes</string>
+  <string name="portrait_mode_depth_effect_success_hint">Efecto de profundidad</string>
+  <string name="portrait_mode_lowlight_hint">Se requiere más luz</string>
+  <string name="portrait_mode_too_close_hint">Moverse más lejos</string>
+  <string name="portrait_mode_too_far_hint">Colocar el sujeto dentro de 2,5 metros</string>
+  <string name="portrait_with_facebeauty_hint">La preferencia de belleza en el modo de retrato ya está disponible.</string>
   <string name="pref_advance_settings">Ajustes adicionales</string>
   <string name="pref_audio_focus_entry_front">Enfrente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -124,7 +132,6 @@ facial para sintetizar en una foto"</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Promedio del fotograma</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medición puntual</string>
   <string name="pref_camera_autoexposure_title">Ajustes de exposición automática</string>
-  <string name="pref_camera_beautify_entry_auto">Automática</string>
   <string name="pref_camera_beautify_entry_close">Apagado</string>
   <string name="pref_camera_beautify_entry_high">Alta</string>
   <string name="pref_camera_beautify_entry_low">Baja</string>
@@ -251,6 +258,12 @@ facial para sintetizar en una foto"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Pantalla completa 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Estándar 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Formato de cámara</string>
+  <string name="pref_camera_portrait_mode_entry_off">Modo retrato desactivado</string>
+  <string name="pref_camera_portrait_mode_entry_on">Modo retrato activado</string>
+  <string name="pref_camera_portrait_mode_title">Modo retrato</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Embellecer en modo retrato</string>
+  <string name="pref_camera_proximity_lock_summary">Bloquear gestos táctiles cuando se coloca en un bolsillo</string>
+  <string name="pref_camera_proximity_lock_title">Modo de bolsillo</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Apagado</string>
   <string name="pref_camera_recordlocation_entry_on">Encendido</string>
@@ -279,10 +292,14 @@ facial para sintetizar en una foto"</string>
   <string name="pref_camera_show_gender_age_entry_off">Apagado</string>
   <string name="pref_camera_show_gender_age_entry_on">Mostrar edad y género</string>
   <string name="pref_camera_show_gender_age_title">Edad y género</string>
+  <string name="pref_camera_show_gender_age_label_alias">Edad</string>
+  <string name="pref_camera_show_gender_age_label_on">Edad y género</string>
   <string name="pref_camera_snap_enable_title">Modo disparo rápido</string>
   <string name="pref_camera_snap_entry_off">Apagado</string>
   <string name="pref_camera_snap_entry_take_movie">Modo de movimiento rápido (vídeo)</string>
   <string name="pref_camera_snap_entry_take_picture">Modo de movimiento rápido (foto)</string>
+  <string name="pref_camera_snap_label_take_movie">Vídeo</string>
+  <string name="pref_camera_snap_label_take_picture">Foto</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">No se puede usar Modo de movimiento rápido mientras \"Encender con botones de Volumen\" está activado.</string>
   <string name="pref_camera_sound_title">Sonidos de cámara</string>
   <string name="pref_camera_square_mode_title">Cuadro</string>
@@ -311,6 +328,11 @@ facial para sintetizar en una foto"</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Medida</string>
   <string name="pref_camera_whitebalance_title">Balance de blancos</string>
+  <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
+  <string name="pref_camera_zoom_mode_entry_wide">Amplio</string>
+  <string name="pref_camera_zoom_mode_entryvalue_tele">tele</string>
+  <string name="pref_camera_zoom_mode_entryvalue_wide">amplio</string>
+  <string name="pref_camera_zoom_mode_title">Lente</string>
   <string name="pref_camera_zsl_entry_off">Apagado</string>
   <string name="pref_camera_zsl_entry_on">Encendido</string>
   <string name="pref_capture_settings">Cámara</string>
@@ -323,7 +345,7 @@ facial para sintetizar en una foto"</string>
   <string name="pref_front_mirror_entry_off">Apagado</string>
   <string name="pref_front_mirror_entry_on">Encendido</string>
   <string name="pref_front_mirror_title">Cámara frontal espejo</string>
-  <string name="pref_groupshot_with_primitive_title">Guardar foto original en el modo foto de grupo</string>
+  <string name="pref_groupshot_with_primitive_title">Guardar fotos originales, así como en el modo selfies de grupo</string>
   <string name="pref_manual_exposure_title">Exposición manual</string>
   <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocar</string>
@@ -369,6 +391,13 @@ facial para sintetizar en una foto"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">Intervalos de 3 segundos (90 veces)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Intervalos de 30 segundos (900 veces)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalo de lapso de tiempo</string>
+  <string name="pref_watermark_style_entry_dualcamera">Cámara doble</string>
+  <string name="pref_watermark_style_entry_off">Apagado</string>
+  <string name="pref_watermark_style_entry_timestamp">Marca del tiempo</string>
+  <string name="pref_watermark_style_entryvalue_dualcamera">cámara doble</string>
+  <string name="pref_watermark_style_entryvalue_off">apagado</string>
+  <string name="pref_watermark_style_entryvalue_timestamp">marca del tiempo</string>
+  <string name="pref_watermark_style_title">Añadir marca de agua en la foto</string>
   <string name="preparing_sd">Preparando almacenamiento interno…</string>
   <string name="record_back_pressed_hint">Toque otra vez para detener la grabación</string>
   <string name="search_settings">Ajustes de la cámara;Calidad;Calidad de la imagen;Ubicación de la imagen;Ubicación de la foto;Detección de rostros;Sonido Cámara</string>
