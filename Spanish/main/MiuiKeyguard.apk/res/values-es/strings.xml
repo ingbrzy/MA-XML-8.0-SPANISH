@@ -34,15 +34,15 @@
   <string name="invalid_sim_puk_hint">El código PUK debería tener 8 números o más</string>
   <string name="keyguard_charging_info_battery_temperature_text">Temperatura de la batería</string>
   <string name="keyguard_charging_info_battery_used_time_text">En la batería</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Alrededor de %dhr para llenar</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">Alrededor de %dmin para llenar​</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Alrededor de %dhr %dmin para llenar</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Faltan %dhr horas para cargar</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Faltan %dmin minutos para cargar​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Faltan %dhr horas %dmin minutos para cargar</string>
   <string name="keyguard_charging_info_charging_text">Cargando</string>
   <string name="keyguard_charging_info_charging_voltage_text">Voltaje</string>
   <string name="keyguard_charging_info_click_to_detail">Ver detalles</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">Alrededor de %dhr dejado</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">Alrededor de %dmin dejado</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Alrededor de %dhr %dmin dejado</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Faltan %dhr horas</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Faltan %dmin minutos</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Faltan %dhr horas %dmin minutos</string>
   <string name="keyguard_charging_info_current_now_text">Monitor en tiempo real</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
