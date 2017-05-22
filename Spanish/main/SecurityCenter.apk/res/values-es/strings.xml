@@ -147,6 +147,10 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_appupdate_remind">Notificar acerca de las actualizaciones</string>
   <string name="app_manager_bipartition">Aplicaciones dobles</string>
   <string name="app_manager_card_permission_title">Permisos</string>
+  <string name="app_manager_clear_data_dlg_message">Todos los datos de esta aplicación se eliminarán de forma permanente. Esto incluye todos los archivos, ajustes, cuentas, bases de datos, etc.</string>
+  <string name="app_manager_clear_data_dlg_title">¿Eliminar datos de la aplicación?</string>
+  <string name="app_manager_clear_failed_dlg_message">No se han podido borrar los datos de la aplicación.</string>
+  <string name="app_manager_clear_failed_dlg_title">Eliminar datos</string>
   <string name="app_manager_default_close_summary">No se han establecido valores predeterminados.</string>
   <string name="app_manager_default_open">Abrir por defecto</string>
   <string name="app_manager_default_open_summary">Ha elegido lanzar esta aplicación de forma predeterminada para algunas acciones.</string>
@@ -159,8 +163,10 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_force_stop_dlg_text">Si fuerza el cierre de una aplicación, puede comportarse mal.</string>
   <string name="app_manager_force_stop_dlg_title">¿Forzar cierre?</string>
   <string name="app_manager_go_to_manger_app">Gestionar</string>
-  <string name="app_manager_have_not_consume">No</string>
+  <string name="app_manager_have_not_consume">Ninguna</string>
   <string name="app_manager_loading_data">Cargando datos…</string>
+  <string name="app_manager_manage_space">Administrar espacio</string>
+  <string name="app_manager_menu_clear_data">Eliminar datos</string>
   <string name="app_manager_more_times">Accedido 100000+ veces</string>
   <string name="app_manager_my_app">Mis aplicaciones</string>
   <string name="app_manager_not_record">"No se encontraron aplicaciones que requieren permisos"</string>
@@ -444,7 +450,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="cancal_to_setting_fingerprint">Cancelar</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
-  <string name="cancle">Cancelar</string>
   <string name="card_main_applock_action">Activar</string>
   <string name="card_main_applock_summary">Proteger los elementos privados con el bloqueo de aplicaciones</string>
   <string name="card_main_applock_title">Bloqueo de aplicaciones</string>
@@ -584,7 +589,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dialog_msg_auto_start_declare">Algunas aplicaciones podrían indicar incorrectamente que MIUI ha evitado que se iniciaran. Comprueba los permisos que se le han dado a cada aplicación en Ajustes &gt; aplicaciones.</string>
   <string name="dialog_msg_stop_paysafety_scan">¿Detener la comprobación de seguridad cuando haga pagos?</string>
   <string name="dialog_msg_stop_virus_scan">¿Detener escaneo de virus antes de haber terminado?</string>
-  <string name="dialog_roaming_apps_sorted_title">Ordenar por</string>
   <string name="dialog_roaming_message">Su compañía podría cobrarle cargos adicionales por el uso de datos en roaming.</string>
   <string name="dialog_roaming_title">¿Permitir roaming de datos?</string>
   <string name="dialog_title_attention">Advertencia</string>
@@ -737,8 +741,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="hints_handle_item_text_safe">Seguros</string>
   <string name="hints_handle_item_text_virus">Virus: %d</string>
   <string name="hints_input_roaming_daily_limit">Introduzca límite de uso de datos</string>
-  <string name="hints_install_apps_new">Nunca usado</string>
-  <string name="hints_install_apps_today">Usado hoy</string>
   <string name="hints_last_virus_scan_none">No escaneado con anterioridad</string>
   <string name="hints_last_virus_scan_risk">Escaneado hace %d días: Sospechoso</string>
   <string name="hints_last_virus_scan_safe">Escaneado hace %d días: Seguro</string>
@@ -1494,6 +1496,7 @@ responda</string>
   <string name="pref_specified_adjust">Establezca límite de datos personalizados</string>
   <string name="pref_specified_traffic_settings">Ajustes del límite de datos</string>
   <string name="pref_summary_lock_screen_memory_clean">Limpiar automáticamente cuando el dispositivo esté bloqueado</string>
+  <string name="pref_summary_upload_data_usage">Informe de sus estadísticas de uso de datos para ayudarnos a mejorar MIUI. Los informes se realizan de acuerdo con nuestra Política de privacidad.</string>
   <string name="pref_summary_virus_white_list">Evitar que las aplicaciones seleccionadas sean limpiadas</string>
   <string name="pref_title_declaration">Aviso legal importante</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificaciones flotantes</string>
@@ -1504,6 +1507,7 @@ responda</string>
   <string name="pref_title_traffic_limit_number">Tamaño</string>
   <string name="pref_title_traffic_speed_state">Mostrar velocidad de la red</string>
   <string name="pref_title_update_notification">Notificación de uso de datos</string>
+  <string name="pref_title_upload_data_usage">Informar sobre las estadísticas del uso de datos</string>
   <string name="pref_title_virus_white_list">Excepciones</string>
   <string name="pref_traffic_manage_title">Uso de datos</string>
   <string name="pref_warning_values">Nivel de advertencia de uso de datos</string>
@@ -1797,8 +1801,6 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_other_setting_group">Otros ajustes</string>
   <string name="st_settings_name">Ajustes de lista de bloqueo</string>
   <string name="st_show_block_notification">Notificar elementos bloqueados</string>
-  <string name="st_show_num_keyword">" palabras clave"</string>
-  <string name="st_show_num_number">" números"</string>
   <string name="st_sms_group">Mensajes</string>
   <string name="st_sub_title_customize_mode_name">Nombre</string>
   <string name="st_sub_title_whiteblack_list_group">Lista de bloqueo</string>

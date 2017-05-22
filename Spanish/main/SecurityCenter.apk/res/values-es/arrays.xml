@@ -54,17 +54,9 @@
         <item>"Uso de datos móviles "</item>
         <item>"Uso de Wi-Fi "</item>
     </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>Obtener automáticamente</item>
-        <item>Establecer manualmente</item>
-    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostrar advertencia</item>
         <item>Advertir y desactivar los datos móviles</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-        <item>Más utilizados</item>
-        <item>Nombre</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Siempre</item>
