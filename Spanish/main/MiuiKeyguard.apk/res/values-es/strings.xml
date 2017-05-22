@@ -34,34 +34,30 @@
   <string name="invalid_sim_puk_hint">El código PUK debería tener 8 números o más</string>
   <string name="keyguard_charging_info_battery_temperature_text">Temperatura de la batería</string>
   <string name="keyguard_charging_info_battery_used_time_text">En la batería</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Faltan %dhr horas para cargar</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">Faltan %dmin minutos para cargar​</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Faltan %dhr horas %dmin minutos para cargar</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Falta %dhr para cargar</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Falta %dmin para cargar</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Faltan %dhr %dmin para cargar</string>
   <string name="keyguard_charging_info_charging_text">Cargando</string>
   <string name="keyguard_charging_info_charging_voltage_text">Voltaje</string>
   <string name="keyguard_charging_info_click_to_detail">Ver detalles</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">Faltan %dhr horas</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">Faltan %dmin minutos</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Faltan %dhr horas %dmin minutos</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Falta %dhr</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Falta %dmin</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Falta %dhr %dmin</string>
   <string name="keyguard_charging_info_current_now_text">Monitor en tiempo real</string>
-  <string name="keyguard_charging_info_data_c">%s℃</string>
-  <string name="keyguard_charging_info_data_ma">%smA</string>
-  <string name="keyguard_charging_info_data_percent">%s%%</string>
-  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_hour_time_format">%dhr</string>
   <string name="keyguard_charging_info_drained_min_time_format">%dmin</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Agotado</string>
   <string name="keyguard_charging_info_drained_time_format" formatted="false">%dhr %dmin</string>
   <string name="keyguard_charging_info_finished_charging_text">Cargado completamente</string>
-  <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Hoy %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Ayer %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Última carga</string>
-  <string name="keyguard_charging_info_tip_text1">Mantenga su dispositivo al menos un 10% cargado todo el tiempo para prolongar la duración de la batería.</string>
+  <string name="keyguard_charging_info_tip_text1">Mantenga su dispositivo cargado al menos un 10% para prolongar la duración de la batería.</string>
   <string name="keyguard_charging_info_tip_text2">"No sobrecargue el dispositivo. Múltiples cargas cortas son mejores que una carga durante la noche."</string>
   <string name="keyguard_charging_info_tip_text3">Evite cargar el dispositivo cuando la temperatura ambiente es inferior a 0℃.</string>
   <string name="keyguard_charging_info_tip_text4">"No utilice demasiado el dispositivo mientras se está cargando para evitar el sobrecalentamiento."</string>
-  <string name="keyguard_charging_info_tip_text5">Las baterías cargan en más tiempo cuando se ponen más calientes que de costumbre.</string>
+  <string name="keyguard_charging_info_tip_text5">Las baterías tardan más tiempo en cargar cuando se ponen más calientes que de costumbre.</string>
   <string name="keyguard_charging_info_tip_text6">Apague la pantalla y ponga su dispositivo lejos para refrescarlo.</string>
   <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, toque el botón de encendido</string>
   <string name="lock_screen_date">EEEE, d \'de\' MMMM</string>
