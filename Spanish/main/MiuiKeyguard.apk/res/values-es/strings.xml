@@ -7,14 +7,6 @@
   <string name="default_lockscreen_unlock_hint_text">Deslice hacia arriba para desbloquear</string>
   <string name="delete">Eliminar</string>
   <string name="emergency_call_string">Emergencia</string>
-  <string name="experimental_try_string">Probar</string>
-  <string name="experimental_validate">Validar</string>
-  <string name="experimental_validate_fail">No se ha podido iniciar sesión</string>
-  <string name="experimental_validate_password">Contraseña</string>
-  <string name="experimental_validate_progress">Iniciando sesión…</string>
-  <string name="experimental_validate_thanks">¡Gracias!</string>
-  <string name="experimental_validate_username">Nombre de usuario</string>
-  <string name="experimental_validate_warning">¡Gracias por ayudar a mejorar MIUI!</string>
   <string name="find_device_turn_off_flight_mode">Desactivar el modo avión</string>
   <string name="fingerprint_add_text">Se actualizó la interfaz de huellas dactilares. Agregue de nuevo su huella dactilar.</string>
   <string name="fingerprint_add_title">Añadir huella dactilar</string>
@@ -40,6 +32,37 @@
   <string name="invalid_confirm_pin_hint">Los PIN no coinciden</string>
   <string name="invalid_sim_pin_hint">Introduzca un PIN que tenga entre 4 y 8 números</string>
   <string name="invalid_sim_puk_hint">El código PUK debería tener 8 números o más</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Temperatura de la batería</string>
+  <string name="keyguard_charging_info_battery_used_time_text">En la batería</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Alrededor de %dhr para llenar</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Alrededor de %dmin para llenar​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Alrededor de %dhr %dmin para llenar</string>
+  <string name="keyguard_charging_info_charging_text">Cargando</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Voltaje</string>
+  <string name="keyguard_charging_info_click_to_detail">Ver detalles</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Alrededor de %dhr dejado</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Alrededor de %dmin dejado</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Alrededor de %dhr %dmin dejado</string>
+  <string name="keyguard_charging_info_current_now_text">Monitor en tiempo real</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%dhr</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%dmin</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Agotado</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%dhr %dmin</string>
+  <string name="keyguard_charging_info_finished_charging_text">Cargado completamente</string>
+  <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Hoy %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Ayer %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Última carga</string>
+  <string name="keyguard_charging_info_tip_text1">Mantenga su dispositivo al menos un 10% cargado todo el tiempo para prolongar la duración de la batería.</string>
+  <string name="keyguard_charging_info_tip_text2">"No sobrecargue el dispositivo. Múltiples cargas cortas son mejores que una carga durante la noche."</string>
+  <string name="keyguard_charging_info_tip_text3">Evite cargar el dispositivo cuando la temperatura ambiente es inferior a 0℃.</string>
+  <string name="keyguard_charging_info_tip_text4">"No utilice demasiado el dispositivo mientras se está cargando para evitar el sobrecalentamiento."</string>
+  <string name="keyguard_charging_info_tip_text5">Las baterías cargan en más tiempo cuando se ponen más calientes que de costumbre.</string>
+  <string name="keyguard_charging_info_tip_text6">Apague la pantalla y ponga su dispositivo lejos para refrescarlo.</string>
   <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, toque el botón de encendido</string>
   <string name="lock_screen_date">EEEE, d \'de\' MMMM</string>
   <string name="lock_screen_date_12">EEEE, d \'de\' MMMM</string>
@@ -61,7 +84,6 @@ Inténtelo de nuevo en %d segundos."</string>
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
   <string name="login_website_in_case_forget_password">Para restablecer su contraseña, vaya a to www.mi.com/micloud</string>
-  <string name="missed_call_text">%d llamada(s) perdida(s)</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear con el dispositivo Bluetooth</string>
   <string name="open_camera_hint_text">Deslizar a la izquierda para abrir %s</string>
   <string name="open_remote_center_hint_text">Deslizar a la derecha para abrir %s</string>
@@ -77,7 +99,6 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %s minuto(s)</string>
   <string name="phone_locked_timeout_seconds_string">Inténtelo de nuevo en %s segundo(s)</string>
-  <string name="unlock_sim_string">Desbloquear SIM</string>
   <string name="unlock_string">Desbloquear</string>
   <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>
   <string name="unlockscreen_low_battery">Conecte el cargador</string>
