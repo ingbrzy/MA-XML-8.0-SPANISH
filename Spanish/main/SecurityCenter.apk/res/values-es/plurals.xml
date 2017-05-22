@@ -12,6 +12,14 @@
         <item quantity="other">%d usuarios lo marcaron como</item>
         <item quantity="one">%d usuario lo marcó como</item>
     </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d palabras clave</item>
+        <item quantity="one">%d palabra clave</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d números</item>
+        <item quantity="one">%d número</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">No monitorizar el uso de datos para %d aplicaciones</item>
         <item quantity="one">No monitorizar el uso de datos para %d aplicación</item>
@@ -35,10 +43,6 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="one">"Ya ha usado el límite de datos diarios de %s.
 
 Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adicionales."</item>
-    </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">Usado hace %d días</item>
-        <item quantity="one">Usado ayer</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Buscar %d aplicaciones</item>
