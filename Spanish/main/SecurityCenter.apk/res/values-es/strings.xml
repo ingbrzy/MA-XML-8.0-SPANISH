@@ -189,6 +189,11 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_permission_send_mms_over">Enviar SMS 100000+ veces</string>
   <string name="app_manager_permission_startself_summary">Las aplicaciones que comienzan automáticamente ocupan RAM y drenan la batería más rápidamente</string>
   <string name="app_manager_permission_startself_title">Autoencendido</string>
+  <string name="app_manager_permission_summary_reject">Restringir todo</string>
+  <string name="app_manager_powerkeeper_miui_auto">Protector de batería MIUI</string>
+  <string name="app_manager_powerkeeper_no_bg">Restringir actividad en segundo plano</string>
+  <string name="app_manager_powerkeeper_no_restrict">Sin restricciones</string>
+  <string name="app_manager_powerkeeper_restrict_bg">Restringir aplicaciones en segundo plano</string>
   <string name="app_manager_rebide_wakepath">Restringir</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimizar el inicio de la cadena</string>
   <string name="app_manager_reduce_wakepath_summary">La restricción del inicio automático minimizará el inicio de la cadena. ¿Restringir el inicio automático de %s?</string>
@@ -887,6 +892,13 @@ Su operadora podría cargarle costos adicionales si usa la conexión de datos m�
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Mantenga los resultados en la lista para agregarlos a las excepciones</string>
   <string name="long_click_dialog_title">Atención</string>
+  <string name="low_memory_clean_dialog_msg">Borrar primero al menos 100MB de archivos</string>
+  <string name="low_memory_clean_dialog_ok_button">Aceptar</string>
+  <string name="low_memory_clean_dialog_title">No hay suficiente espacio libre</string>
+  <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
+  <string name="low_memory_warning_dialog_msg">Liberar espacio en el dispositivo para continuar</string>
+  <string name="low_memory_warning_dialog_ok_button">Limpiar</string>
+  <string name="low_memory_warning_dialog_title">No hay suficiente espacio libre</string>
   <string name="main_activity_content_summary_root">Acceso root</string>
   <string name="main_activity_content_summary_update">Actualización del sistema</string>
   <string name="main_activity_content_title_scanning">Escaneado…</string>
