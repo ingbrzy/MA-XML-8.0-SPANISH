@@ -12,4 +12,8 @@
         <item quantity="other">La acción seleccionada no esta disponible mientras esté en modo Llamada de Emergencia. El teléfono permanecerá en este modo por %s minutos. Quiere salir ahora?</item>
         <item quantity="one">La acción seleccionada no esta disponible mientras esté en modo Llamada de Emergencia. El teléfono permanecerá en este modo por %s minuto. Quiere salir ahora?</item>
     </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Puede agregar hasta %s personas, seleccione otra vez.</item>
+        <item quantity="one">Puede agregar hasta %s persona, seleccione otra vez.</item>
+    </plurals>
 </resources>
