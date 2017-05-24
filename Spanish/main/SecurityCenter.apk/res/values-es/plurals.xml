@@ -258,10 +258,14 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">Accedido %d veces</item>
         <item quantity="one">Accedido %d vez</item>
     </plurals>
-    <plurals name="app_manager_permission_manager_summary">
-        <item quantity="other">Concecidos %d permisos</item>
-        <item quantity="one">Concedido %d permiso</item>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Permitido %d permisos</item>
+        <item quantity="one">Permitido %d permiso</item>
     </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Solicitar %d permisos</item>
+        <item quantity="one">Solicitar %d permiso</item>
+     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d veces</item>
         <item quantity="one">%d vez</item>
