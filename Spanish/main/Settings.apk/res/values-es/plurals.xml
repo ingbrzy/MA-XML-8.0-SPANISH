@@ -28,9 +28,29 @@
     <item quantity="other">Siempre desactivar para %d aplicaciones</item>
     <item quantity="one">Siempre desactivar para 1 aplicación</item>
   </plurals>
+  <plurals name="virus_scan_app_find_risk">
+    <item quantity="other">%d riesgos encontrados</item>
+    <item quantity="one">%d riesgo encontrado</item>
+  </plurals>
+  <plurals name="auto_startup_count">
+    <item quantity="other">%d aplicaciones están autorizadas a autoiniciarse</item>
+    <item quantity="one">%d aplicación está autorizada a autoiniciarse</item>
+  </plurals>
+  <plurals name="lockpassword_pin_fixed_length">
+    <item quantity="other">El PIN debe tener %d dígitos</item>
+    <item quantity="one">El PIN debe tener %d dígito</item>
+  </plurals>
+  <plurals name="wifi_share_count">
+    <item quantity="other">%d redes compartidas</item>
+    <item quantity="one">%d red compartida</item>
+  </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d dispositivos</item>
     <item quantity="one">%d dispositivo</item>
+  </plurals>
+  <plurals name="free_wifi_connected_count">
+    <item quantity="other">%1$d personas conectadas</item>
+    <item quantity="one">%1$d persona conectada</item>
   </plurals>
   <plurals name="data_saver_unrestricted_summary">
     <item quantity="other">%1$d aplicaciones autorizadas a utilizar datos sin restricciones cuando el Ahorro de Datos está activado</item>
