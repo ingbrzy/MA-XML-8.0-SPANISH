@@ -84,9 +84,9 @@ El objeto no debe estar a más de 2 metros."</string>
   <string name="face_beauty_intelligent_level_2">Media</string>
   <string name="face_beauty_intelligent_level_3">Alta</string>
   <string name="face_beauty_smart">Inteligente</string>
-  <string name="groupshot_mode_use_hint">"Se tomarán varias fotos para seleccionar la mejor expresión 
-facial para sintetizar en una foto"</string>
-  <string name="hibernate_hint">Toca cualquier lugar para despertar</string>
+  <string name="groupshot_mode_use_hint">"La cámara tomará varias fotos
+y luego creara una escena en la que todo el mundo se verá mejor".</string>
+  <string name="hibernate_hint">Toque la pantalla para despertar la Cámara</string>
   <string name="flash">Flash</string>
   <string name="height">Altura</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
@@ -105,10 +105,10 @@ facial para sintetizar en una foto"</string>
   <string name="path">Ruta</string>
   <string name="path_settings">Aplicaciones del sistema/Cámara/Ajustes</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecto de profundidad</string>
-  <string name="portrait_mode_lowlight_hint">Se requiere más luz</string>
-  <string name="portrait_mode_too_close_hint">Moverse más lejos</string>
+  <string name="portrait_mode_lowlight_hint">"Ahora está demasiado oscuro"</string>
+  <string name="portrait_mode_too_close_hint">Alejarse del objeto</string>
   <string name="portrait_mode_too_far_hint">Colocar el sujeto dentro de 2,5 metros</string>
-  <string name="portrait_with_facebeauty_hint">La preferencia de belleza en el modo de retrato ya está disponible.</string>
+  <string name="portrait_with_facebeauty_hint">Embellecer ya está disponible en el modo de retrato</string>
   <string name="pref_advance_settings">Ajustes adicionales</string>
   <string name="pref_audio_focus_entry_front">Enfrente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -174,7 +174,7 @@ facial para sintetizar en una foto"</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Automático</string>
-  <string name="pref_camera_face_info_watermark_title">Añadir estampa de la edad en la foto</string>
+  <string name="pref_camera_face_info_watermark_title">Añadir marca de la edad en las fotos</string>
   <string name="pref_camera_facedetection_title">Detección facial</string>
   <string name="pref_camera_flashmode_entry_auto">Automático</string>
   <string name="pref_camera_flashmode_entry_off">Apagado</string>
@@ -258,10 +258,10 @@ facial para sintetizar en una foto"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Pantalla completa 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Estándar 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Formato de cámara</string>
-  <string name="pref_camera_portrait_mode_entry_off">Modo retrato desactivado</string>
-  <string name="pref_camera_portrait_mode_entry_on">Modo retrato activado</string>
+  <string name="pref_camera_portrait_mode_entry_off">El modo de retrato está desactivado</string>
+  <string name="pref_camera_portrait_mode_entry_on">El modo de retrato está activado</string>
   <string name="pref_camera_portrait_mode_title">Modo retrato</string>
-  <string name="pref_camera_portrait_with_facebeauty_title">Embellecer en modo retrato</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Embellecimiento en modo Retrato</string>
   <string name="pref_camera_proximity_lock_summary">Bloquear gestos táctiles cuando se coloca en un bolsillo</string>
   <string name="pref_camera_proximity_lock_title">Modo de bolsillo</string>
   <string name="pref_camera_raw_title">RAW</string>
@@ -319,7 +319,7 @@ facial para sintetizar en una foto"</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volumen</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Funciones de los botones de volumen</string>
-  <string name="pref_camera_watermark_title">Marca de tiempo</string>
+  <string name="pref_camera_watermark_title">Añadir marca de tiempo en fotos</string>
   <string name="pref_camera_whitebalance_entry_auto">Automático</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nublado</string>
   <string name="pref_camera_whitebalance_entry_daylight">Luz del día</string>
@@ -343,7 +343,7 @@ facial para sintetizar en una foto"</string>
   <string name="pref_front_mirror_entry_off">Apagado</string>
   <string name="pref_front_mirror_entry_on">Encendido</string>
   <string name="pref_front_mirror_title">Cámara frontal espejo</string>
-  <string name="pref_groupshot_with_primitive_title">Guardar fotos originales, así como en el modo selfies de grupo</string>
+  <string name="pref_groupshot_with_primitive_title">Guardar las fotos originales también en el modo Selfies de grupo</string>
   <string name="pref_manual_exposure_title">Exposición manual</string>
   <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocar</string>
@@ -391,7 +391,7 @@ facial para sintetizar en una foto"</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalo de lapso de tiempo</string>
   <string name="pref_watermark_style_entry_dualcamera">Cámara doble</string>
   <string name="pref_watermark_style_entry_off">Apagado</string>
-  <string name="pref_watermark_style_entry_timestamp">Marca del tiempo</string>
+  <string name="pref_watermark_style_entry_timestamp">Añadir marca de agua en las fotos</string>
   <string name="pref_watermark_style_title">Añadir marca de agua en la foto</string>
   <string name="preparing_sd">Preparando almacenamiento interno…</string>
   <string name="record_back_pressed_hint">Toque otra vez para detener la grabación</string>
