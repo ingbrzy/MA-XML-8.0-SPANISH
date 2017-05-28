@@ -3294,12 +3294,6 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="reset_network_button_text">Restablecer ajustes</string>
   <string name="reset_network_complete_toast">Se han restablecido los ajustes de red</string>
   <string name="reset_network_confirm_title">¿Restablecer?</string>
-  <string name="reset_network_desc">"Esto restablecerá todos los ajustes de la red, incluyendo:
-
- "<li>Wi-Fi</li>"
- "<li>Datos del celular</li>"
- "<li>Bluetooth</li>
-  </string>
   <string name="reset_network_final_button_text">Restablecer ajustes</string>
   <string name="reset_network_final_desc">¿Quieres restablecer todos los ajustes de red? Esta acción no se puede deshacer.</string>
   <string name="reset_network_title">Restablecer ajustes de red</string>
@@ -4950,14 +4944,7 @@ Añada una palabra pulsando el botón (+) añadir"</string>
   <string name="wifi_alert_lockdown_by_device_owner">%1$s administra tu dispositivo y no permite modificar ni eliminar esta red Wi-Fi. Para obtener más información, ponte en contacto con el administrador.</string>
   <string name="wifi_allow_scan_with_traffic">Permitir siempre búsquedas de Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/No permitir búsquedas de Wi-Fi basadas en la cantidad de tráfico de datos presente en la interfaz</string>
-  <string name="wifi_and_mobile_skipped_message">"Si te saltas el paso de la conexión Wi-fi:
-
- "<li>Tu teléfono no tendrá conexión a Internet.</li>"
-
- "<li>No recibirás actualizaciones de software hasta que te conectes a Internet.</li>"
-
- "<li>No podrás activar las funciones de protección del dispositivo en este momento.</li>
-  </string>
+  <string name="wifi_and_mobile_skipped_message">El teléfono no podrá verificar que el software esté actualizado</string>
   <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
