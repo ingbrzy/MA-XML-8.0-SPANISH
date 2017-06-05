@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
   <string name="add_done">Añadido con éxito</string>
   <string name="add_game">Añadir juego</string>
@@ -23,6 +23,15 @@
   <string name="dont_bore_text">Silenciando notificaciones y apagando botones para eliminar distracciones</string>
   <string name="dont_bore_title">Modo DND</string>
   <string name="empty">" "</string>
+  <string name="fastboot_locked_answer_1">Fastboot es el método tradicional para flashear dispositivos Mi. Cuando el dispositivo está en modo Fastboot, todos los datos almacenados en él pueden ser accedidos y borrados directamente. Hemos cerrado Fastboot para hacer seguros sus datos en caso de que pierda el dispositivo, así como a garantizar la fiabilidad de las características de Find device.</string>
+  <string name="fastboot_locked_answer_2">En caso de que pierda su dispositivo, Fastboot garantiza la seguridad de los ítems almacenados en él. Si desbloquea Fastboot, no será capaz de bloquear su dispositivo remotamente o borrar los datos usando Find device. Es por esto que no recomendamos desbloquear Fastboot en su dispositivo.</string>
+  <string name="fastboot_locked_answer_3">Debería usar la herramienta de desbloqueo de la web de MIUI. Para desbloquear el dispositivo, necesitamos asegurarnos que el dispositivo le pertenece. Es por esto que debería identificarse con su Cuenta Mi y encender Find device.</string>
+  <string name="fastboot_locked_question_1">¿Por qué debería estar bloqueado Fastboot?</string>
+  <string name="fastboot_locked_question_2">¿Hay riesgos relacionados con desbloquear Fastboot?</string>
+  <string name="fastboot_locked_question_3">Conozco los riesgos, pero todavía necesito desploquear mi dispositivo. ¿Qué debería hacer?</string>
+  <string name="fastboot_status_locked_info">Fastboot no está desbloqueado en este dispositivo</string>
+  <string name="fastboot_status_locked_summary">No se puede conseguir acceso root</string>
+  <string name="fastboot_unlock_web_title">Ir a la página oficial de MIUI para conseguir la herramienta de desbloqueo.</string>
   <string name="function_close">Apagar</string>
   <string name="game_booster">Acelerador de velocidad de Juegos</string>
   <string name="game_booster_intro">Sobre el acelerador de velocidad de Juegos</string>

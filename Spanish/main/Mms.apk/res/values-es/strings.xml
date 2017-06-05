@@ -194,7 +194,6 @@
   <string name="has_invalid_recipient">Destinatarios no válidos: &lt; %1$s &gt;</string>
   <string name="hidden_sender_address">Remitente oculto</string>
   <string name="hint_search_sms">%d mensajes</string>
-  <string name="hms_uri_param_err">La URL no puede estar vacía</string>
   <string name="hold_to_talk">Mantenga presionado para hablar</string>
   <string name="hybrid_check_network">Ajustes de red</string>
   <string name="hybrid_data_error">Ocurrió un error</string>
@@ -245,7 +244,7 @@
   <string name="message_download_failed_title">Mensaje no descargado</string>
   <string name="message_expired">Caducado</string>
   <string name="message_failed">Error</string>
-  <string name="message_failed_body">Toque para revisar el mensaje e inténtelo de nuevo</string>
+  <string name="message_failed_body">Toque para revisar el mensaje e inténtelo de nuevo.</string>
   <string name="message_number">Número de teléfono:</string>
   <string name="message_pending">Enviando</string>
   <string name="message_queued">Ahora no puedes enviar tu mensaje. Se enviará cuando servicio este disponible.</string>
@@ -381,7 +380,7 @@
   <string name="pref_notification_settings_title">Notificaciones</string>
   <string name="pref_other_title">Otros</string>
   <string name="pref_show_blocked_messages_summary">Mostrar los SMS bloqueados en la lista de conversaciones</string>
-  <string name="pref_show_list_avatar_summary">Mostrar fotos y otros datos del contacto en la vista de la lista</string>
+  <string name="pref_show_list_avatar_summary">Mostrar fotos de perfil e información del contacto en la vista de lista</string>
   <string name="pref_show_sms_template_in_summary">Detectar automáticamente OTP en mensajes SMS</string>
   <string name="pref_show_sms_template_summary">Activar para utilizar las funciones inteligentes de Mi Mensaje, tales como códigos de copiado, balance de comprobación, etc.</string>
   <string name="pref_smart_messages_settings">Mensajes inteligentes</string>
@@ -512,6 +511,7 @@
   <string name="select_local_video">Seleccionar vídeo</string>
   <string name="select_message_send_sim">Choose SIM card</string>
   <string name="select_recipient">Seleccionar destinatarios</string>
+  <string name="select_sim">Seleccionar tarjeta SIM</string>
   <string name="select_top_text">Texto en la parte superior</string>
   <string name="send">Enviar</string>
   <string name="send_message_dlg_check_hint">No mostrar de nuevo</string>
@@ -556,8 +556,11 @@
   <string name="sms_full_title">Memoria de mensajes de texto completa</string>
   <string name="sms_rejected_body">Mensaje entrante rechazado.</string>
   <string name="sms_rejected_title">Mensaje de texto rechazado</string>
+  <string name="sms_report_dialog_content">No se pudo enviar el informe, inténtelo otra vez.</string>
+  <string name="sms_report_dialog_retry">Inténtelo otra vez</string>
+  <string name="sms_report_dialog_title">Inténtelo otra vez</string>
   <string name="sms_report_failed">No se pudo enviar el informe</string>
-  <string name="sms_report_success">Reporte enviado</string>
+  <string name="sms_report_success">Informe enviado con éxito</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[imagen]</string>
   <string name="snippet_red_package">[Paquete Rojo]</string>
@@ -592,6 +595,8 @@
   <string name="storage_unavailable">No hay espacio disponible</string>
   <string name="subject_hint">Asunto</string>
   <string name="subject_label">"Asunto: "</string>
+  <string name="switch_to_editor">Modo editor</string>
+  <string name="switch_to_menu">Modo menú</string>
   <string name="text_in_popup_saved_to_clipboard">Copiado al portapapeles</string>
   <string name="text_message">Mensaje de texto</string>
   <string name="timed_message_expired_title">%d mensajes programados no fueron enviados</string>
@@ -605,7 +610,7 @@
   <string name="title_red_package">¡Tener un buen año!</string>
   <string name="title_send_red_package">Enviar el paquete rojo</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
-  <string name="title_show_list_avatar">Mostrar fotos e información</string>
+  <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
   <string name="title_show_sms_template">Compruebe los SMS para los códigos de verificación</string>
   <string name="title_show_sms_template_in">Comprobar OTP en SMS</string>
   <string name="title_timed_message_dialog">Establecer mensaje programado</string>

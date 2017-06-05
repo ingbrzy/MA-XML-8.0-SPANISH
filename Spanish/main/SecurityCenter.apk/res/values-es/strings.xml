@@ -97,6 +97,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="adjust_traffic_data">Establecer uso de datos</string>
   <string name="after_the_lock_screen">La Aplicación está bloqueada junto con la pantalla. Puede cambiar esto en los ajustes de bloqueo de Aplicaciones.</string>
   <string name="all_address_choose_hint">Todos los números de esta provincia</string>
+  <string name="antispam_mode_details">Detalles de la lista de bloqueo</string>
   <string name="antispam_notificaiton_type_show_all">Todos los números</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Números que no están en la lista de bloqueo</string>
   <string name="antispam_notificaiton_type_show_none">Nunca</string>
@@ -217,8 +218,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_manager_wake_path_card_title">Historial de inicio de la cadena (2 días)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Entendido</string>
   <string name="app_manager_wakepath_dialog_summary">El inicio de la cadena ocurre cuando una aplicación inicia otra aplicación en segundo plano. Puede drenar la batería y bajar el rendimiento del sistema. MIUI normalmente bloquearía el inicio de la cadena.</string>
-  <string name="app_usage_never">No usada recientemente</string>
-  <string name="app_usage_recently">Usada recientemente</string>
   <string name="app_manager_wakepath_dialog_title">Acerca del inicio de la cadena</string>
   <string name="app_mobile">Móvil</string>
   <string name="app_name">Bloqueo de Aplicaciones</string>
@@ -227,6 +226,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_name_securitycenter">Seguridad</string>
   <string name="app_name_select">Opciones de desbloqueo</string>
   <string name="app_not_installed_toast">Aplicación no instalada en tu dispositivo.</string>
+  <string name="app_usage_never">No usada recientemente</string>
+  <string name="app_usage_recently">Usada recientemente</string>
   <string name="app_version">Versión</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="applock_add_account">Añadir</string>
@@ -285,6 +286,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="auto_task_main_title">Tareas programadas</string>
   <string name="auto_task_mamange_activity_title">Ajustes</string>
   <string name="auto_task_manage_delete_prompt">¿Eliminar tareas seleccionadas?</string>
+  <string name="auto_task_manage_new_task">Nueva tarea automatizada</string>
   <string name="auto_task_manager_group_title">Tareas programadas</string>
   <string name="auto_task_notify_do_task_title">Tarea programada iniciada</string>
   <string name="auto_task_notify_exit_task_title">Tarea programada finalizada</string>
@@ -445,7 +447,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="buy_immediately">Comprar</string>
   <string name="buy_traffic_pack">Comprar más datos</string>
   <string name="byteShort">B</string>
-  <string name="cache_header_title">Limpiar %1$d archivos en caché para liberar %2$s de espacio</string>
   <string name="call_and_contact">Llamadas y contactos</string>
   <string name="call_delete_hint">¿Borrar todas las llamadas bloqueadas de este número?</string>
   <string name="call_delete_title">Eliminar historial de llamadas</string>
@@ -662,12 +663,11 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="enable_network">Activar primero la red</string>
   <string name="every_day">Todos los días</string>
   <string name="examination_score_100">¡Todo parece estar bien!</string>
-  <string name="examination_score_100_with_recommend">%d elementos pueden ser optimizados</string>
   <string name="examination_score_60_0">Analizar ahora</string>
   <string name="examination_score_80_100">Varios elementos pueden optimizarse</string>
-  <string name="examination_score_80_100_with_recommend">%d elementos pueden ser optimizados</string>
   <string name="examination_score_80_60">Algunos elementos pueden optimizarse</string>
   <string name="examination_score_has_virus">Se detectaron algunas apps sospechosas.</string>
+  <string name="exit">Salir</string>
   <string name="finger_remind_message">También puede usar su huella dactilar para el Bloqueo de aplicaciones.</string>
   <string name="fingerprint_identify_msg">Escanear huella dactilar</string>
   <string name="fingerprint_not_identified_msg">Para desbloquear su dispositivo, escriba su contraseña.</string>
@@ -736,7 +736,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="help_label">Ayuda</string>
   <string name="hide_mode_app_background_setting_text">Ahorrar batería en las aplicaciones</string>
   <string name="hide_mode_summary_text">Administrar aplicaciones en segundo plano para ahorrar batería</string>
-  <string name="hide_mode_title_text">Modo Oculto</string>
+  <string name="hide_mode_title_text">Ahorrador de batería</string>
   <string name="hide_system_app">Ocultar aplicaciones del sistema</string>
   <string name="hint_antispam_mode_edit">Modo personalizado</string>
   <string name="hints_auto_start_warning_info">Si restringes el inicio automático, algunas aplicaciones y servicios no podrán recibir notificaciones.</string>
@@ -838,8 +838,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="last_check_date_today">"Analizado hoy "</string>
   <string name="last_check_date_yesterday">"Analizado ayer "</string>
   <string name="last_check_never_checked">Analizar ahora</string>
-  <string name="last_checked_date2">Analizado hace %d días</string>
-  <string name="last_checked_default">Escaneado hace %s días</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Día laborable</string>
   <string name="legal_workday_invalidate">Lun-Vie (información de día laborable caducada)</string>
@@ -942,7 +940,6 @@ responda</string>
   <string name="manual_input_traffic">Establecer uso de datos</string>
   <string name="manual_item_white_list_summary">Evitar que las aplicaciones seleccionadas sean optimizadas</string>
   <string name="manual_item_white_list_title">Excepciones</string>
-  <string name="manual_white_list_header">%d excepciones</string>
   <string name="mark_agent">Bloquear informados como agencias</string>
   <string name="mark_agent_block">Informado como agencia</string>
   <string name="mark_agent_block_large">Agencias</string>
@@ -959,7 +956,7 @@ responda</string>
   <string name="mark_number_fraud">Fraude</string>
   <string name="mark_number_harass">Acoso</string>
   <string name="mark_number_info">"Tenga en cuenta que a veces estas llamadas pueden ser útiles (p.e. cuando usted está buscando un apartamento). Sólo bloquee números desde los que nunca quiera recibir llamadas.</string>
-  <string name="mark_number_sell" >Vendedor telefónico</string>
+  <string name="mark_number_sell">Vendedor telefónico</string>
   <string name="mark_number_setting_guide_content1">¿Bloquear llamadas de números informados?</string>
   <string name="mark_number_setting_guide_content2">Bloquear llamadas automáticamente desde números que haya sido informados por otros usuarios</string>
   <string name="mark_number_setting_guide_content3">Ha informado un número como %1$s. ¿Quiere bloquear llamadas de números informados como %2$s?</string>
@@ -995,7 +992,7 @@ responda</string>
   <string name="menu_item_app_permissions_control">Gestor de permisos</string>
   <string name="menu_item_control_app_permissions">Pedir permiso antes de permitir que las aplicaciones lean tus contactos, vean tu historial de llamadas, cambien configuraciones del sistema o tengan acceso a la cámara y otros recursos del dispositivo</string>
   <string name="menu_item_force_stop">Forzar cierre</string>
-  <string name="menu_item_install_debug_package">instalar el paquete de depuración</string>
+  <string name="menu_item_install_debug_package">Instalar el paquete de depuración</string>
   <string name="menu_item_notification_antispam_text_avail">Lista de bloqueo</string>
   <string name="menu_item_notification_antispam_text_normal">Lista de bloqueo</string>
   <string name="menu_item_notification_garbage_text">%s</string>
@@ -1038,6 +1035,8 @@ responda</string>
   <string name="mian_page_primary_txt">Roaming de datos</string>
   <string name="modify_password_mode">&lt;u&gt;Cambiar estilo de contraseña&lt;u&gt;</string>
   <string name="modifypassword">Cambiar contraseña</string>
+  <string name="monitor_app_add">añadir</string>
+  <string name="monitor_app_more">más</string>
   <string name="monitor_requests_from_pc">Administrar la instalación de las aplicaciones vía USB</string>
   <string name="month_report_month_report_switch">Mostrar informe mensual</string>
   <string name="msg_update_error_code_success">Terminado</string>
@@ -1119,7 +1118,6 @@ responda</string>
   <string name="notification_summary_cmcc_app_check">Pulsa para ver detalles.</string>
   <string name="notification_sysapp_cracked_text">La versión actual de MIUI ha sido modificada</string>
   <string name="notification_sysapp_cracked_title">Se ha detectado un riesgo en la seguridad</string>
-  <string name="notification_title_cmcc_app_check">%d días desde el último chequeo</string>
   <string name="notification_title_firewall_blocked">Bloqueados</string>
   <string name="notify_daily_data_usage_body">Para limitar el uso de datos de forma automática, configure su plan de datos mensual.</string>
   <string name="notify_daily_limit_body">Toque para establecer el límite de datos.</string>
@@ -1383,7 +1381,7 @@ responda</string>
   <string name="power_optimize_disable_start_other_app">Evitar que las aplicaciones puedan abrir otras aplicaciones</string>
   <string name="power_optimize_loading">Cargando</string>
   <string name="power_optimize_manual_catagory_title">Manual</string>
-  <string name="power_optimize_open_hide_mode">Activar el Modo ocultar</string>
+  <string name="power_optimize_open_hide_mode">Activar el Ahorrador de batería</string>
   <string name="power_optimize_save_mode_not_opened">Ahorro de batería apagado</string>
   <string name="power_optimize_save_on_lockscreen">Ahorrar energía cuando el dispositivo está bloqueado</string>
   <string name="power_phone">Llamadas de voz</string>
@@ -1405,7 +1403,7 @@ responda</string>
   <string name="power_save_mode_end_time">Fin</string>
   <string name="power_save_mode_ontime_enabled">Programar tiempo para cambiar entre los modos</string>
   <string name="power_save_mode_start_time">Comienzo</string>
-  <string name="power_save_mode_summary" formatted="false">Supervise los procesos de fondo y desactive la sincronización. El protector de batería se apagará automáticamente cuando la batería esté cargada al 60% o al 100%.</string>
+  <string formatted="false" name="power_save_mode_summary">Supervise los procesos de fondo y desactive la sincronización. El protector de batería se apagará automáticamente cuando la batería esté cargada al 60% o al 100%.</string>
   <string name="power_save_on_time_auto_save_title">Programar cambio de perfil</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary">Terminar</string>
@@ -1554,7 +1552,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="quick_optimize_no_issue">No hay problemas con la batería</string>
   <string name="quick_optimize_no_issue_subtitle">Todo parece estar bien</string>
   <string name="quick_optimize_no_issue_title">No se encontraron problemas con la batería</string>
-  <string name="quick_optimize_sub_summary_text">La batería durará %s más</string>
+  <string name="quick_optimize_sub_summary_text">Añadido %s a la vida de la batería</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">El teléfono está drenando la batería, solucionarlo</string>
   <string name="quick_optimize_suggest_battery_over_heat">El teléfono está sobrecalentándose, solucionarlo</string>
   <string name="reach_daily_limit_value_body">Reduzca su uso de datos móviles.</string>
@@ -1765,7 +1763,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_antispam_des_permit_nokeyword">Permitir</string>
   <string name="st_antispam_des_smart_anti">Filtrar</string>
   <string name="st_antispam_des_uesless">Apagado</string>
-  <string name="st_antispam_mode_add_new" >Añadir reglas</string>
+  <string name="st_antispam_mode_add_new">Añadir reglas</string>
   <string name="st_antispam_mode_blacklist">Números bloqueados</string>
   <string name="st_antispam_mode_blacklist_sum">Bloquear llamadas y SMS de números que haya añadido manualmente a la lista de bloqueo</string>
   <string name="st_antispam_mode_denyownself_sum">Reglas personalizadas</string>
@@ -1881,7 +1879,6 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="summary_flow_notification">Mostrar la estadísticas de uso de datos mensuales en el panel de notificación</string>
   <string name="summary_flow_purchase">"Parece que ya no tiene suficientes datos. Compre más datos para seguir conectado."</string>
   <string name="summary_flow_purchase_beyond">Has excedido el límite del plan de datos mensual de tu operador por %sMB</string>
-  <string name="summary_flow_verify">No se han sincronizado las estadísticas de uso de datos del operador en %d días</string>
   <string name="summary_flow_verify_failed">Ajuste automático de uso de datos para evitar cargos adicionales</string>
   <string name="summary_garbage_clean">Borrar caché para liberar espacio</string>
   <string name="summary_garbage_lib">Usar las últimas definiciones para eliminar spyware, adware y otra basura no deseada</string>
@@ -1916,7 +1913,6 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="system_app">Aplicaciones del sistema</string>
   <string name="system_application">Aplicaciones del sistema</string>
   <string name="system_check_content_none">Seguro</string>
-  <string name="system_header_title">Limpiar %1$d procesos para liberar %2$s de memoria</string>
   <string name="system_info_remind">"Añade un bloqueo seguro a tus aplicaciones "</string>
   <string name="tab_blacklist">Lista de bloqueo</string>
   <string name="tab_block_log_unKnowNumber">Número privado</string>
@@ -2024,7 +2020,6 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="title_cloud_space_almost_full">Almacenamiento en la nube casi al máximo, los elementos podrían no sincronizarse</string>
   <string name="title_cloud_space_full">Almacenamiento en la nube al máximo</string>
   <string name="title_cmcc_app_check">Verificación incompleta</string>
-  <string name="title_consume_power">Se encontraron problemas con la batería</string>
   <string name="title_consume_power_rank">Uso de la batería</string>
   <string name="title_data_flow">Establecer alerta de uso de datos</string>
   <string name="title_default_app">MIUI %s no esta establecido como por defecto</string>

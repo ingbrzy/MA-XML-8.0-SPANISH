@@ -22,7 +22,7 @@
   <string name="fingerprint_enter_second_psw_msg">Introduzca la contraseña del Segundo espacio después de reiniciar el dispositivo para poder utilizar el reconocimiento de huellas dactilares</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">No puede entrar en Segundo Espacio mientras esté en Modo Reducido</string>
   <string name="fingerprint_enter_second_psw_title">Introduzca la contraseña del Segundo espacio</string>
-  <string name="fingerprint_not_identified_msg">Demasiados intentos fallidos. Introduzca la contraseña ahora o pruebe a usar su huella digital en unos segundos.</string>
+  <string name="fingerprint_not_identified_msg">Demasiados intentos fallidos. Introduzca la contraseña ahora o pruebe a usar su huella digital en %d segundos.</string>
   <string name="fingerprint_not_identified_title">No se puede leer la huella dactilar</string>
   <string name="fingerprint_try_again_msg">"No se pudo verificar la huella digital, intente de nuevo."</string>
   <string name="fingerprint_try_again_text">Inténtelo de nuevo</string>
@@ -67,6 +67,8 @@
   <string name="keyguard_charging_info_tip_text4">"No utilice demasiado el dispositivo mientras se está cargando para evitar el sobrecalentamiento."</string>
   <string name="keyguard_charging_info_tip_text5">Las baterías tardan más tiempo en cargar cuando se ponen más calientes que de costumbre.</string>
   <string name="keyguard_charging_info_tip_text6">Apague la pantalla y ponga su dispositivo lejos para refrescarlo.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Toque para ver detalles.Tap to view details.</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Carga rápida…</string>
   <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, toque el botón de encendido</string>
   <string name="lock_screen_date">EEEE, d \'de\' MMMM</string>
   <string name="lock_screen_date_12">EEEE, d \'de\' MMMM</string>
@@ -106,7 +108,6 @@ Inicie sesión en i.mi.com, vaya a "Buscar dispositivo", seleccione el dispositi
   <string name="unlock_string">Desbloquear</string>
   <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>
   <string name="unlockscreen_low_battery">Conecte el cargador</string>
-  <string name="unlockscreen_quick_charging_message">Carga rápida %d%%</string>
   <string name="unlockscreen_recharge_completed">Batería cargada</string>
   <string name="unlockscreen_recharging_message">Cargando %d%%</string>
   <string name="wrong_password">Contraseña incorrecta</string>
