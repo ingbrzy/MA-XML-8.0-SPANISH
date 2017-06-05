@@ -291,6 +291,8 @@ y luego creara una escena en la que todo el mundo se verá mejor".</string>
   <string name="pref_camera_show_gender_age_entry_alias">Mostrar edad</string>
   <string name="pref_camera_show_gender_age_entry_off">Apagado</string>
   <string name="pref_camera_show_gender_age_entry_on">Mostrar edad y género</string>
+  <string name="pref_camera_show_gender_age_label_alias">Edad</string>
+  <string name="pref_camera_show_gender_age_label_on">Edad y género</string>
   <string name="pref_camera_show_gender_age_title">Edad y género</string>
   <string name="pref_camera_show_gender_age_label_alias">Edad</string>
   <string name="pref_camera_show_gender_age_label_on">Edad y género</string>
@@ -298,6 +300,8 @@ y luego creara una escena en la que todo el mundo se verá mejor".</string>
   <string name="pref_camera_snap_entry_off">Apagado</string>
   <string name="pref_camera_snap_entry_take_movie">Modo de movimiento rápido (vídeo)</string>
   <string name="pref_camera_snap_entry_take_picture">Modo de movimiento rápido (foto)</string>
+  <string name="pref_camera_snap_label_take_movie">Vídeo</string>
+  <string name="pref_camera_snap_label_take_picture">Foto</string>
   <string name="pref_camera_snap_label_take_movie">Vídeo</string>
   <string name="pref_camera_snap_label_take_picture">Foto</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">No se puede usar Modo de movimiento rápido mientras \"Encender con botones de Volumen\" está activado.</string>
@@ -343,6 +347,7 @@ y luego creara una escena en la que todo el mundo se verá mejor".</string>
   <string name="pref_front_mirror_entry_off">Apagado</string>
   <string name="pref_front_mirror_entry_on">Encendido</string>
   <string name="pref_front_mirror_title">Cámara frontal espejo</string>
+  <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_groupshot_with_primitive_title">Guardar las fotos originales también en el modo Selfies de grupo</string>
   <string name="pref_manual_exposure_title">Exposición manual</string>
   <string name="pref_priority_storage_title">Guardar en la tarjeta SD</string>

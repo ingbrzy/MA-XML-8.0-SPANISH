@@ -29,7 +29,8 @@
   <string name="adjust_saturation">Saturación</string>
   <string name="adjust_sharpen">Enfoque</string>
   <string name="adjust_vignette">Viñeta</string>
-  <string name="album_already_exists">Ya existe un álbum con el mismo nombre</string>
+  <string name="album_already_exists_check">Ver</string>
+  <string name="album_already_exists_msg">El álbum \"%s\" ya existe</string>
   <string name="album_already_forced_top">Ya se encuentra arriba</string>
   <string name="album_camera_name">Cámara</string>
   <string name="album_detail_clear_local_page_empty">No hay copias de fotos o vídeos para eliminar</string>
@@ -625,7 +626,6 @@
   <string name="picker_full_format">Puedes seleccionar hasta %d fotos</string>
   <string name="picker_image_need_download">%d de las fotos seleccionadas no están el dispositivo. ¿Deseas descargarlas usando datos móviles?</string>
   <string name="picker_image_will_download">%d de las fotos seleccionadas no están en el dispositivo. Se descargarán.</string>
-  <string name="picker_mobile_data_video">"No se pueden descargar vídeos con datos móviles, omitidos %d."</string>
   <string name="picker_no_network_message">Conectarse a la red para descargar</string>
   <string name="picker_origin_need_download">%1$d de la(s) foto(s) seleccionada(s) (%2$dMB) no esta(n) en el dispositivo. ¿Deseas descargarlas usando datos móviles?</string>
   <string name="picker_title_format">Puede seleccionar %d fotos</string>
