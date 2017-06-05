@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="accessibility_calllog_detail">Detalles de registro la llamada</string>
+  <string name="accessibility_contact_detail">Detalles del contacto</string>
   <string name="account_container_title">Importado de</string>
   <string name="account_default">Teléfono</string>
   <string name="account_phone">Sólo teléfono, desincronizado</string>
@@ -168,7 +169,7 @@
   <string name="clearFrequentsProgress_title">Borrando contactos frecuentes…</string>
   <string name="clear_copy_number_description">Borrado número copiado</string>
   <string name="clear_default">Borrar predeterminado</string>
-  <string name="clear_digits">Borrar numero telefónico</string>
+  <string name="clear_digits">Eliminar número de teléfono</string>
   <string name="click_close">Tocar para cerrar</string>
   <string name="clip_dialog_title">¿Marcar número copiado?</string>
   <string name="close_dial_pad_description">Cerrar marcador</string>
@@ -201,7 +202,8 @@
   <string name="contactPickerActivityTitle">Seleccione un contacto</string>
   <string name="contactSavedErrorToast">No se pueden guardar los cambios del contacto</string>
   <string name="contactSavedToast">Contacto guardado</string>
-  <string name="contact_delete_toast">Contacto eliminado</string>
+  <string name="contact_clear_search_history">Borrar historial</string>
+  <string name="contact_delete_toast">Contacto eliminado correctamente</string>
   <string name="contact_detail_action_item_calllog">Historial de llamadas</string>
   <string name="contact_detail_action_item_nocalllog">No hay historial</string>
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
@@ -245,6 +247,7 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="contact_list_loading">Cargando…</string>
   <string name="contact_pick_photo">Foto</string>
   <string name="contact_read_only">No se puede editar desde esta aplicación.</string>
+  <string name="contact_search_history">Historial</string>
   <string name="contact_status_update_attribution">través de %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s través de %2$s</string>
   <string name="contact_unfavorite_toast">Eliminado de favoritos</string>
@@ -299,7 +302,10 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="description_add_contact">Agregar contacto</string>
   <string name="description_call">Llamar a %1$s</string>
   <string name="description_call_log_incoming_call">Llamadas entrantes</string>
+  <string name="description_call_log_incoming_forwarding_call">Llamada entrante de reenvío</string>
   <string name="description_call_log_missed_call">Llamadas perdidas</string>
+  <string name="description_call_log_missed_forwarding_call">Falta la llamada de reenvío</string>
+  <string name="description_call_log_new_contact">Nuevo contacto</string>
   <string name="description_call_log_outgoing_call">Llamadas salientes</string>
   <string name="description_call_log_play_button">Reproducir mensaje de voz</string>
   <string name="description_call_log_unheard_voicemail">Mensajes de voz sin escuchar</string>
@@ -701,6 +707,7 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="miprofile_nick_name_edit_dialog_message">El sobrenombre se mostrará en el registro de llamadas y detalles</string>
   <string name="miprofile_nick_name_edit_dialog_title">Editar sobrenombre</string>
   <string name="miprofile_notice_text">Tocar para ver la foto de perfil del contacto</string>
+  <string name="miprofile_notice_close">Cerrar</string>
   <string name="miprofile_request_agenda_date">%1$s quiere intercambiar tarjetas de contacto</string>
   <string name="miprofile_request_agenda_today">%1$s quiere intercambiar tarjetas de contacto</string>
   <string name="miprofile_request_agenda_yesterday">%1$s quiere intercambiar tarjetas de contacto</string>
@@ -1043,6 +1050,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="profileSavedErrorToast">"No se han podido guardar los cambios de mi perfil"</string>
   <string name="profileSavedToast">Perfil guardado</string>
   <string name="profile_binded_numbers">%s</string>
+  <string name="profile_delete_toast">Perfil eliminado correctamente</string>
   <string name="profile_display_name">Configurar mi perfil</string>
   <string name="profile_name">Mi perfil</string>
   <string name="profile_name_photo">Foto</string>
