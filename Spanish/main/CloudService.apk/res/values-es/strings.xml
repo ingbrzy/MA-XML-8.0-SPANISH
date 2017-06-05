@@ -438,12 +438,12 @@ Esta característica cifra y envía tu ID de dispositivo a los servidores de Mi.
   <string name="share_weibo_not_installed">Weibo no está instalado.</string>
   <string name="share_weixin_not_installed">WeChat no está instalado.</string>
   <string name="short_cut_desc">¿Añadir icono de Mi Cloud a la pantalla de inicio?</string>
-  <string name="sina_share_fail">Fallo al enviar</string>
-  <string name="sina_share_fail_content_repeat">No es posible compartir el contenido, ya existía anteriormente…</string>
+  <string name="sina_share_fail">"No se pudo enviar"</string>
+  <string name="sina_share_fail_content_repeat">"Ya has compartido esto."</string>
   <string name="sina_share_pendding">Enviando…</string>
   <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">La cuenta Weibo ha expirado: Vuelve a vincularla</string>
-  <string name="sina_token_invalid_warning">La cuenta Weibo no es válida: Vuelve a vincularla</string>
+  <string name="sina_token_expired_warning">Weibo expiró, agregue la cuenta de nuevo.</string>
+  <string name="sina_token_invalid_warning">La cuenta de Weibo no es válida, agregue la cuenta nuevamente.</string>
   <string name="sms">Mensajes</string>
   <string name="soundrecorder_sync_only_in_wifi">Solo usar Wi-Fi para sincronizar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">La Grabadora no usará datos móviles para descargar o subir grabaciones</string>
