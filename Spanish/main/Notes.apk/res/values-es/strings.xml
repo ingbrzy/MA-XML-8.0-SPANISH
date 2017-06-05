@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="action_folder_description">Ver carpetas</string>
+  <string name="action_mode_switcher_grid_description">Vista de rejilla</string>
+  <string name="action_mode_switcher_list_description">Vista de lista</string>
+  <string name="action_settings_description">Abrir Ajustes</string>
   <string name="add_account_desc">¿Sincronizar las notas con tu Cuenta Mi?</string>
   <string name="alarm_bar_title">Recordatorio</string>
   <string name="alert_action_edit_anyway">Continuar editando</string>
@@ -16,8 +20,10 @@
   <string name="app_name">Notas</string>
   <string name="app_widget">Notas</string>
   <string name="call_folder_name">Llamadas grabadas</string>
+  <string name="cancel_alarm_description">Cancelar alarma</string>
   <string name="cloud_trash_bin_title">Eliminar notas en Mi Cloud</string>
   <string name="cta_reminder">Esta aplicación debe conectarse a Internet para realizar copias de seguridad de notas a Mi Cloud, así como leer los contactos para etiquetar las notas que toma durante las llamadas.</string>
+  <string name="default_folder_name">Carpeta sin nombre</string>
   <string name="delete_folder_dialog_tile">Eliminar carpeta</string>
   <string name="dialog_share_as_pic">Compartir nota como imagen</string>
   <string name="dialog_share_as_text">Compartir nota como texto</string>
@@ -39,6 +45,8 @@
   <string name="dlg_title_use_privacy_password">Utilizar la contraseña de privacidad</string>
   <string name="dlg_unhide_message">Desocultando…</string>
   <string name="done">Hecho</string>
+  <string name="edit_header_done_description">Hecho</string>
+  <string name="edit_header_home_description">Atrás</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">¿Sincronizar las notas con tu Cuenta Mi (%1$s)?</string>
   <string name="error_contact_not_exist">El Contacto no existe</string>
@@ -62,7 +70,9 @@
   <string name="info_note_enter_desktop">Nota añadida al escritorio</string>
   <string name="loading_text">Un segundo…</string>
   <string name="login_sync">Acceder y sincronizar</string>
+  <string name="menu_add_description">Añadir nota</string>
   <string name="menu_add_folder">Añadir a la carpeta</string>
+  <string name="menu_add_folder_description">Añadir carpeta</string>
   <string name="menu_create_folder">Nueva carpeta</string>
   <string name="menu_delete">Borrar</string>
   <string name="menu_delete_forever">Borrar permanentemente</string>
@@ -116,18 +126,20 @@
   <string name="search_path_notes">Aplicaciones del sistema/Notas</string>
   <string name="search_setting_description">Busque texto en sus notas</string>
   <string name="select_account_prompt">Active la sincronización de notas</string>
-  <string name="sina_share_fail">Fallo al enviar</string>
-  <string name="sina_share_fail_content_repeat">No es posible compartir el contenido, ya existía anteriormente…</string>
+  <string name="set_alarm_description">Establecer alarma</string>
+  <string name="sina_share_fail">No se pudo enviar</string>
+  <string name="sina_share_fail_content_repeat">Ya ha compartido esto.</string>
   <string name="sina_share_pendding">Enviando…</string>
   <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">La cuenta Weibo ha expirado: Vuelve a vincularla</string>
-  <string name="sina_token_invalid_warning">La cuenta Weibo no es válida: Vuelve a vincularla</string>
+  <string name="sina_token_expired_warning">Cuenta Weibo expirada, añada la cuenta otra vez.</string>
+  <string name="sina_token_invalid_warning">La cuenta Weibo es inválida, añada la cuenta otra vez.</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[Imagen %1$s ]</string>
   <string name="sns_action_send">Enviar</string>
   <string name="sns_choose_quality_high">Alta (%1$s)</string>
   <string name="sns_choose_quality_low">Baja</string>
   <string name="sns_choose_quality_title">Selecciona la calidad de imagen</string>
+  <string name="sns_content_default">Compartir foto</string>
   <string name="sns_desc_image_preview">Vista previa del mensaje</string>
   <string name="sns_desc_preview_weibo">Vista previa del mensaje en Weibo</string>
   <string name="sns_footer_text">Creado con Notas Mi</string>
@@ -139,16 +151,22 @@
   <string name="sns_toast_empty">No se puede enviar un mensaje vacío</string>
   <string name="sns_toast_over_limit">Enviar como imagen</string>
   <string name="sync_tips">Toca para sincronizar notas con Mi Cloud.</string>
+  <string name="theme_blue_description">Azul</string>
+  <string name="theme_green_description">Verde</string>
+  <string name="theme_red_description">Rojo</string>
   <string name="theme_title_antique">Otoño</string>
   <string name="theme_title_arty">Floral</string>
   <string name="theme_title_blue">Azul</string>
   <string name="theme_title_candy">Caramelo</string>
   <string name="theme_title_dark">Oscuro</string>
+  <string name="theme_title_default">Defecto</string>
   <string name="theme_title_green">Verde</string>
   <string name="theme_title_invitation">Invitación</string>
   <string name="theme_title_red">Rojo</string>
   <string name="theme_title_star">Estrellas</string>
   <string name="theme_title_yellow">Amarillo</string>
+  <string name="theme_white_description">Blanco</string>
+  <string name="theme_yellow_description">Amarillo</string>
   <string name="toast_message_add_image_fail">Fallo al insertar imagen</string>
   <string name="toast_notes_delete_success">Borrado exitosamente</string>
   <string name="toast_notes_hidden">Ocultado con éxito</string>
@@ -157,6 +175,14 @@
   <string name="toast_notes_unhidden_count">Desocultado %1$s exitosamente</string>
   <string name="toast_reach_text_limit_attachment">El contenido de la nota es demasiado grande para añadir nuevos archivos adjuntos</string>
   <string name="toast_reach_text_limit_truncate">Esta nota es demasiado larga. Parte del texto final se ha cortado.</string>
+  <string name="toolbar_check_description">Añadir checkbox</string>
+  <string name="toolbar_delete_description">Borrar esta nota</string>
+  <string name="toolbar_gallery_description">Añadir imagen</string>
+  <string name="toolbar_more_description">Más</string>
+  <string name="toolbar_redo_description">Rehacer</string>
+  <string name="toolbar_share_description">Compartir esta nota</string>
+  <string name="toolbar_theme_description">Elegir tema</string>
+  <string name="toolbar_undo_description">Deshacer</string>
   <string name="trash_folder_name">Papelera</string>
   <string name="trash_folder_reminder">Las notas que elimine serán borradas permanentemente en 30 días.</string>
   <string name="undo">Deshacer</string>
