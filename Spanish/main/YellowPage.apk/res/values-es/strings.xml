@@ -55,8 +55,6 @@
   <string name="data_error">Ha ocurrido un error</string>
   <string name="data_error_show">Ha ocurrido un error</string>
   <string name="delete">Eliminar</string>
-  <string name="didi_back">Atrás</string>
-  <string name="didi_close">Cerrar</string>
   <string name="do_not_remind_me">No mostrar de nuevo</string>
   <string name="dont_enable">Desactivar</string>
   <string name="download_completed">Descarga guardada para %s</string>
@@ -141,12 +139,6 @@ Comprueba el número de rastreo."</string>
   <string name="express_inquiry_status_return">Volver</string>
   <string name="express_inquiry_status_sign_out">Rechazado</string>
   <string name="express_inquiry_status_unknown">Desconocido</string>
-  <string name="express_inquiry_trace">Rastrear</string>
-  <string name="express_inquiry_trace_device_login_notice">Usted está utilizando este servicio en otro dispositivo. Si desea recibir el estado del pedido de este dispositivo, es necesario verificar su Cuenta Mi.</string>
-  <string name="express_inquiry_trace_success">Rastreo</string>
-  <string name="express_inquiry_trace_user_notice_content">Nosotros te avisaremos cuando cambie el estado de tu pedido.</string>
-  <string name="express_inquiry_untrace">No rastrear</string>
-  <string name="express_inquiry_untrace_success">Parar de rastrear</string>
   <string name="express_install_cainiao_description_1">Comprobar los detalles del pedido requiere la instalación de Cainiao. ¿Instalar ahora?</string>
   <string name="express_install_cainiao_description_2">Comprobar el código de entrega requiere la instalación de Cainiao. ¿Instalar ahora?</string>
   <string name="express_install_cainiao_description_3">Los servicios de entrega requieren la instalación de Cainiao. ¿Instalar ahora?</string>
@@ -220,7 +212,7 @@ Comprueba el número de rastreo."</string>
   <string name="express_setting_verification_code_failed">"No se pudo enviar SMS"</string>
   <string name="express_setting_verification_code_hint">Código de SMS</string>
   <string name="express_setting_verification_code_success">Código SMS enviado</string>
-  <string name="express_setting_verify_failed">"No se pudo verificar el error"</string>
+  <string name="express_setting_verify_failed">"No se pudo verificar"</string>
   <string name="express_setting_verify_success">Verificado correctamente</string>
   <string name="express_shortcut_name">Envío o seguimiento de la entrega express</string>
   <string name="express_show_all_inquiry_history">Mostrar todo el historial de consultas</string>
@@ -425,12 +417,12 @@ Total: DÓL %3$s"</string>
   <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
-  <string name="sina_share_fail">Fallo al enviar</string>
-  <string name="sina_share_fail_content_repeat">No es posible compartir el contenido, ya existía anteriormente…</string>
+  <string name="sina_share_fail">"No se pudo enviar"</string>
+  <string name="sina_share_fail_content_repeat">"Ya has compartido esto."</string>
   <string name="sina_share_pendding">Enviando…</string>
   <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">La cuenta Weibo ha expirado: Vuelve a vincularla</string>
-  <string name="sina_token_invalid_warning">La cuenta Weibo no es válida: Vuelve a vincularla</string>
+  <string name="sina_token_expired_warning">Weibo expiró, agregue la cuenta de nuevo.</string>
+  <string name="sina_token_invalid_warning">La cuenta de Weibo no es válida, agregue la cuenta nuevamente.</string>
   <string name="smart_antispam">Identificar números desconocidos</string>
   <string name="toast_finish_delete_call_log">Historial de llamadas eliminado</string>
   <string name="toast_text_copied">Texto copiado</string>
