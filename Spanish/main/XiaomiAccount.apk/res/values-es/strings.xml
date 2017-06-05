@@ -41,7 +41,7 @@
   <string name="account_user_email">Correo electrónico</string>
   <string name="account_user_gender">Género</string>
   <string name="account_user_id">ID de Cuenta Mi</string>
-El número de teléfono enestá enlazado a la cuenta  <string name="account_user_income">Ingresos</string>
+  <string name="account_user_income">Ingresos</string>
   <string name="account_user_location">Ubicación</string>
   <string name="account_user_location_title">Seleccione la ubicación actual</string>
   <string name="account_user_name">Nombre</string>
@@ -68,7 +68,7 @@ El número de teléfono enestá enlazado a la cuenta  <string name="account_user
   <string name="bind_sns_description">Iniciar sesión con %s</string>
   <string name="bind_weibo_description">Añadir amigos de Sina Weibo</string>
   <string name="binded">Conectado</string>
-  <string formatted="false" name="binded_description">%s ha sido añadida a tu Cuenta Mi. Tu perfil ha sido actualizado con información de tu cuenta %s.</string>
+  <string name="binded_description" formatted="false">%s ha sido añadida a tu Cuenta Mi. Tu perfil ha sido actualizado con información de tu cuenta %s.</string>
   <string name="button_unbind">Desconectar</string>
   <string name="change_activate_email">Cambiar correo electrónico</string>
   <string name="change_email_address">Cambiar correo electrónico</string>
@@ -85,7 +85,7 @@ El número de teléfono enestá enlazado a la cuenta  <string name="account_user
   <string name="confirm_phone_number_dialog_message">El código de verificación se enviará a: %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirmar número de teléfono</string>
   <string name="confirm_unbind">¿Borrar esta cuenta?</string>
-  <string name="confirm_unbundled_phone_dialog_message">El número de teléfono en %1$s está enlazado a la cuenta %2$s，Continuar trabajando con %3$s desenlazado，¿Estás seguro de que quieres continuar?</string>
+  <string name="confirm_unbundled_phone_dialog_message">El número de teléfono %1$s está enlazado a la cuenta %2$s，Continuar trabajando con %3$s desenlazado，¿Estás seguro de que quieres continuar?</string>
   <string name="continue_action">Continuar</string>
   <string name="cta_declaration_agree_and_continue">Aceptar</string>
   <string name="cta_declaration_exit">Salir</string>
