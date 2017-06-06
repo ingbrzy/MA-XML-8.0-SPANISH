@@ -303,6 +303,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="error_not_acceptable">Se ha desactivado la sincronización.</string>
   <string name="error_title">"No se pudo sincronizar"</string>
   <string name="error_unauthorized">La sincronización se ha desactivado debido a demasiados intentos de iniciar sesión.</string>
+  <string name="exit">Salir</string>
   <string name="exit_browser_warning">¿Salir del navegador?</string>
   <string name="file_dir">Cambiar carpeta</string>
   <string name="file_name">"Nombre: "</string>
@@ -710,10 +711,10 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="sendstartpage">Página de inicio</string>
   <string name="share_image_text">¡Mira lo que he encontrado!</string>
   <string name="share_page_text">Mira lo que he encontrado: %1$s | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Para mejorar la seguridad y recibir recomendaciones más relevantes, permita que el Navegador acceda a estos elementos:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Para recibir recomendaciones más relevantes, permita que el Navegador acceda a estos elementos:</string>
+  <string name="show_check_security_url_check_tip_dialog_description">El navegador necesita conectarse a Internet para funcionar normalmente. Para mejorar la seguridad y recibir recomendaciones más relevantes, permita que el navegador obtenga las URL de los sitios web que visita y acceda a su ubicación.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">El navegador necesita conectarse a Internet para funcionar normalmente. Para recibir recomendaciones más relevantes, permita que el navegador obtenga las URL de los sitios web que visita y acceda a su ubicación.</string>
   <string name="show_security_tip_dialog_title">Términos de Servicio</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Para mejorar la seguridad y recibir recomendaciones más relevantes e información meteorológica específica para su ubicación, permita que el Navegador acceda a estos elementos:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">El navegador necesita conectarse a Internet para funcionar normalmente. Para mejorar la seguridad, recibir recomendaciones más relevantes y proporcionar servicio meteorológico, permita que el navegador obtenga las URL de los sitios web que visita y acceda a su ubicación.</string>
   <string name="sign_in_to" formatted="false">Iniciar sesión en %s1 \"%s2\"</string>
   <string name="skip_button_label">Saltar</string>
   <string name="skip_current_version">Omitir esta versión</string>
