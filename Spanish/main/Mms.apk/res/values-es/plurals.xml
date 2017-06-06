@@ -26,6 +26,11 @@
         <item quantity="other">¿Borrar %1$s mensajes?</item>
         <item quantity="one">¿Borrar %1$s mensaje?</item>
     </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d mensajes</item>
+        <item quantity="zero">%d mensajes</item>
+        <item quantity="one">%d mensaje</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d mensajes</item>
         <item quantity="zero">%d mensajes</item>
