@@ -139,6 +139,7 @@ Si cambia de tarjeta SIM, se le enviará automáticamente otro SMS para reactiva
   <string name="micloud_battery_low_notification_message">Conecte el cargador para sincronizar</string>
   <string name="micloud_battery_low_notification_title">Batería baja</string>
   <string name="micloud_buy_member">Compre afiliación a Mi Cloud</string>
+  <string name="micloud_buy_member_safe">Comprar membresía Mi Cloud</string>
   <string name="micloud_check_sim_notify_text">"Parece que ha cambiado de tarjeta SIM. Inicie sesión
 con su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
@@ -355,6 +356,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_sync_alert_dialog_positive">Aceptar</string>
   <string name="micloud_sync_alert_dialog_title">Usar Mi Cloud</string>
   <string name="micloud_sync_off">La sincronización con Mi Cloud está apagada</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sincronizar sólo en Contactos, Calendario y Notas, para sincronizar más elementos, vaya al ajuste Mi Cloud.</string>
   <string name="micloud_title_dspt" formatted="false">"%s en total
  %s usados | %s restantes"</string>
   <string name="micloud_title_dspt_remain">%s restantes</string>

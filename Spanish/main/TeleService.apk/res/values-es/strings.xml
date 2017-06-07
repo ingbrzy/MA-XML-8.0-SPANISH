@@ -57,7 +57,6 @@
   <string name="auto_answer_scenario_enteries_headset_only">Sólo auriculares</string>
   <string name="auto_answer_scenario_title">Configuración de respuesta automática</string>
   <string name="auto_answer_setting_title">Configuración de respuesta automática</string>
-  <string name="auto_answer_summary_delay">" (retraso: %s segundos)"</string>
   <string name="auto_answer_summary_not_enabled">Desactivado</string>
   <string name="auto_record_yellowpage">Directorio</string>
   <string name="auto_redial_pref_summary">Volver a marcar automáticamente si la línea está ocupada</string>
@@ -138,8 +137,6 @@
   <string name="call_record_auto_unknown_number">Números desconocidos</string>
   <string name="call_record_auto_whitelist">Lista personalizada</string>
   <string name="call_record_auto_whitelist_no_item">Agregar un número presionando el botón de agregar (+)</string>
-  <string name="call_record_auto_whitelist_summary">%d números</string>
-  <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
   <string name="call_record_loading_content">Cargando…</string>
   <string name="call_record_off_summary">Apagado</string>
   <string name="call_record_on_summary">Encendido</string>
@@ -153,7 +150,6 @@
   <string name="call_recording_notification_title_error">No se pudo grabar la llamada</string>
   <string name="call_recording_notification_toggle_title">Notificación de grabación de llamadas</string>
   <string name="call_recording_setting">Grabación de llamadas</string>
-  <string name="call_remove_exception_numbers_confirm">%d números serán eliminados.</string>
   <string name="call_settings">Teléfono</string>
   <string name="call_settings_category">Llamadas</string>
   <string name="call_settings_primary_user_only">La configuración de llamadas solo puede ser modificada por el usuario principal.</string>
@@ -829,8 +825,6 @@ Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente 
   <string name="phone_number_hint_text">Número de teléfono</string>
   <string name="pick_outgoing_call_phone_type">Aceptar llamada</string>
   <string name="pick_outgoing_sip_phone">"Usando cuenta de llamadas por Internet "</string>
-  <string name="pin2_attempts">"
-Usted tiene %d intentos restantes."</string>
   <string name="pin2_changed">Código PIN2 cambiado correctamente.</string>
   <string name="pin2_error_exception">Error de red o de tarjeta SIM</string>
   <string name="pin2_invalid">El FDN no fue actualizado porque has introducido un PIN incorrecto.</string>
