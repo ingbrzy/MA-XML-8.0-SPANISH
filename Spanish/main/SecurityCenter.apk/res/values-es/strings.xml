@@ -691,9 +691,11 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="firewall_network_allow">%1$s tiene permiso para usar la conexión %2$s</string>
   <string name="firewall_network_restrict_notify_message">Pulse para cambiar los ajustes.</string>
   <string name="firewall_network_restrict_notify_mobile">Datos móviles</string>
-  <string name="firewall_network_restrict_notify_title">%1$s no puede usar la red</string>
   <string name="firewall_restrict_android_dialog_content">Para asegurarse de que su dispositivo funciona con normalidad, algunas aplicaciones del sistema Android seguirán conectándose a Internet. Estas aplicaciones usarán su conexión de datos móviles y podrían generar cobros menores de su compañía.</string>
   <string name="firewall_restrict_android_dialog_title">Advertencia</string>
+  <string name="firewall_restrict_data">Restringir el uso de datos móviles</string>
+  <string name="firewall_restrict_notify_title">"%s no puede utilizar la red"</string>
+  <string name="firewall_restrict_wlan">Restringir el uso de la conexión Wi-Fi</string>
   <string name="firewall_rule_group_title_mobile">Móvil</string>
   <string name="firewall_rule_group_title_roaming">Roaming de datos</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
