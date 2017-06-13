@@ -121,12 +121,15 @@
   <string name="delete_message">Eliminar</string>
   <string name="delete_phrase">Eliminar respuesta</string>
   <string name="delete_unlocked">Eliminar mensajes bloqueados</string>
+  <string name="delete_verification_code_sms_message">¿Eliminar todas las contraseñas de una sola vez?</string>
+  <string name="delete_verification_code_sms_title">Limpiar las contraseñas de una sola vez</string>
   <string name="delete_wild_sims">Eliminar números</string>
   <string name="delete_wild_sims_confirm">Todos los mensajes que pertenecen a los números seleccionados se eliminarán en este teléfono. Puede restaurarlos en i.mi.com.</string>
   <string name="delete_wild_sims_title">Eliminar los números seleccionados</string>
   <string name="delivery_report_activity">Informe de entrega</string>
   <string name="delivery_toast_body">Mensaje recibido de %s</string>
   <string name="disable_notifications_dialog_message">¿Parar notificaciones de mensaje de texto duplicado en aplicación de mensajes predeterminada?</string>
+  <string name="disabled">Inhabilitado</string>
   <string name="discard">Descartar</string>
   <string name="discard_message">Descartar</string>
   <string name="discard_message_reason">Su mensaje se descartará porque no tiene ningún destinatarios válidos.</string>
@@ -141,10 +144,12 @@
   <string name="duration_sec">Duración (%s seg)</string>
   <string name="duration_selector_title">Duración de la diapositiva</string>
   <string name="duration_zero">La duración debe ser mayor que 0 segundos</string>
+  <string name="earlier">Más temprano</string>
   <string name="edit">Editar</string>
   <string name="edit_phrase">Editar respuestas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivas</string>
   <string name="edit_slideshow_activity">Editar diapositivas</string>
+  <string name="enabled">Habilitado</string>
   <string name="english_subject_limit">límite de 40 caracteres</string>
   <string name="enter_edit_mode">Editar mensajes</string>
   <string name="error_code_label">"Código de error: "</string>
@@ -166,6 +171,7 @@
   <string name="fake_cell_detection_entry">Detección de estación base falsa</string>
   <string name="fake_cell_safe_hint">Este mensaje es seguro</string>
   <string name="fake_cell_timeout_hint">No se pudo comprobar la seguridad</string>
+  <string name="favorite_at_time">Miró fijamente a: %1s</string>
   <string name="fdn_check_failure">Sólo puede enviar mensajes a sus números de Marcación fija.</string>
   <string name="festival_sms_loading">Cargando…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -188,6 +194,8 @@
   <string name="group_message">Mensaje de grupo</string>
   <string name="group_message_failed_title">No se puede enviar a %d contactos</string>
   <string name="group_resend_message">Reenviar (%d)</string>
+  <string name="group_verification_codes_summary">Agrupar automáticamente las contraseñas únicas</string>
+  <string name="group_verification_codes_title">Grupo de mensajes de OTP</string>
   <string name="guild_add_attachments">Toque para agregar emoticones y otros elementos</string>
   <string name="guild_add_recipients">Toque para añadir destinatarios de los contactos</string>
   <string name="guild_msim_switcher">Toque para intercambiar las tarjetas SIM</string>
@@ -380,6 +388,7 @@
   <string name="pref_other_title">Otros</string>
   <string name="pref_show_blocked_messages_summary">Mostrar los SMS bloqueados en la lista de conversaciones</string>
   <string name="pref_show_list_avatar_summary">Mostrar fotos de perfil e información del contacto en la vista de lista</string>
+  <string name="pref_show_sms_template_entry_summary">Detectar las contraseñas de un solo uso en SMS</string>
   <string name="pref_show_sms_template_in_summary">Detectar automáticamente OTP en mensajes SMS</string>
   <string name="pref_show_sms_template_summary">Activar para utilizar las funciones inteligentes de Mi Mensaje, tales como códigos de copiado, balance de comprobación, etc.</string>
   <string name="pref_smart_messages_settings">Mensajes inteligentes</string>
@@ -397,13 +406,9 @@
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicación de terceros para enviar y recibir MMS</string>
   <string name="pref_summary_on_system_mms_priority">Establecer app de mensajería de MIUI como la app para enviar y recibir MMS predeterminado</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensaje de confirmación de entrega al remitente cuando reciba un mensaje multimedia</string>
-  <string name="pref_summary_show_recent_contacts">Mostrar contactos recientes al redactar un nuevo mensaje</string>
   <string name="pref_summary_wake_up_screen">Activar la pantalla cada vez que se recibe un nuevo mensaje</string>
   <string name="pref_switch_sdk_setting">Cambiar proveedor de motor inteligente SMS</string>
   <string name="pref_system_title">Sistema</string>
-  <string name="pref_time_auto_group_disabled_summary">No está soportado en el tamaño de fuente actual</string>
-  <string name="pref_time_auto_group_summary">Agrupar mensajes recibidos en menos de un minuto dentro del mismo hilo</string>
-  <string name="pref_time_auto_group_title">Agrupar por tiempo</string>
   <string name="pref_title_about_smart_sms">Acerca del socio para los Mensajes inteligentes</string>
   <string name="pref_title_allow_si_sl_push">Permitir WAP automático</string>
   <string name="pref_title_card_format">Formatear tarjeta compartida</string>
@@ -420,7 +425,6 @@
   <string name="pref_title_ringtone_repeat">Número de sonidos de notificación</string>
   <string name="pref_title_ringtone_repeat_summary">"Número de veces que suenan los sonidos de notificación cuando se recibe un mensaje SMS mientras la pantalla está apagada: "</string>
   <string name="pref_title_send_delivery_reports">Enviar mensajes de entrega</string>
-  <string name="pref_title_show_recent_contacts">Mostrar contactos recientes</string>
   <string name="pref_title_sms_delete">Límite de mensajes de texto</string>
   <string name="pref_title_sms_validity_period">Periodo validez SMS</string>
   <string name="pref_title_storage_status">Estado de almacenamiento de mensajes</string>
@@ -452,6 +456,7 @@
   <string name="prvate_contact">Contactos privados</string>
   <string name="quick_reply">Responder</string>
   <string name="rate_limit_surpassed">Aceptar</string>
+  <string name="received_at_time">Recibido en: %1s</string>
   <string name="received_label">"Recibido: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Destinatario: "</string>
@@ -525,6 +530,7 @@
   <string name="send_to">Para:</string>
   <string name="send_to_count">Enviados %1$s mensajes</string>
   <string name="send_to_index_contact">%1$s%2$s</string>
+  <string name="sent_at_time">Enviado a: %1s</string>
   <string name="sent_label">"Enviado: "</string>
   <string name="service_message_not_found">Mensaje expirado o no disponible</string>
   <string name="service_network_problem">No enviado por problema de red</string>
@@ -618,6 +624,7 @@
   <string name="to_count">%d destinatarios</string>
   <string name="to_label">"Para "</string>
   <string name="to_send_wrapper">Serán enviados a %s</string>
+  <string name="today">Hoy</string>
   <string name="too_many_attachments">Hay un límite de %1$s para archivos adjuntos. Sólo el primer %2$s se agregará.</string>
   <string name="too_many_recipients">El mensaje tiene demasiados destinatarios (%1$s). No puedes tener más de %2$s destinatarios.</string>
   <string name="too_many_unsent_mms">"No se puede enviar mensaje. Demasiados mensajes multimedia no enviados."</string>
@@ -653,6 +660,8 @@ Intentos realizados: %s"</string>
   <string name="user_agreement3">" y la "</string>
   <string name="user_agreement4">Política de Privacidad</string>
   <string name="user_agreement5">Al tocar Aceptar, usted acepta los términos expuestos en este documento.</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Códigos de verificación</string>
   <string name="view">Ver</string>
   <string name="view_bookmark">Ver mensaje original</string>
   <string name="view_message_details">Ver detalles</string>
@@ -665,4 +674,5 @@ Intentos realizados: %s"</string>
   <string name="wild_msg_title">Elije los números de teléfono para sincronizar</string>
   <string name="yellowpage_recommend_msg">Comprueba las características de la mensajería MIUI</string>
   <string name="yes">Aceptar</string>
+  <string name="yesterday">Ayer</string>
 </resources>
