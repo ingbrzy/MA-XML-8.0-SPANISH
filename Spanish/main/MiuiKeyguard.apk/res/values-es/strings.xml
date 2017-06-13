@@ -15,7 +15,6 @@
   <string name="experimental_validate_thanks">¡Gracias!</string>
   <string name="experimental_validate_username">Nombre de usuario</string>
   <string name="experimental_validate_warning">¡Gracias por ayudar a hacer mejor MIUI!</string>
-  <string name="find_device_turn_off_flight_mode">Desactivar el modo avión</string>
   <string name="fingerprint_add_text">Se actualizó la interfaz de huellas dactilares. Agregue de nuevo su huella dactilar.</string>
   <string name="fingerprint_add_title">Añadir huella dactilar</string>
   <string name="fingerprint_again_identified_msg">Su huella digital está activa ahora. Úselo para desbloquear el dispositivo, o ingrese la contraseña.</string>
@@ -32,6 +31,7 @@
   <string name="incorrect_pukcode">Código PUK erróneo</string>
   <string name="incorrect_pukcode_remaining_attempts">Código PUK erróneo, %d intento(s) restante(s)</string>
   <string name="input_password_after_boot_msg">Para desbloquear el dispositivo, introduzca su contraseña</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"No se puede cambiar de espacio durante una llamada"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Debe introducir el Primer espacio después de reiniciar el dispositivo.</string>
   <string name="input_password_hint_text">Introduzca su contraseña</string>
   <string name="input_pattern_hint_text">Dibuje su patrón de desbloqueo</string>
@@ -85,15 +85,9 @@
 
 Inténtelo de nuevo en %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Ha intentado desbloquear incorrectamente el teléfono %d veces. El teléfono se reiniciará ahora a valores de fábrica.</string>
-  <string name="lockscreen_glogin_checking_password">Comprobando…</string>
-  <string name="lockscreen_glogin_invalid_input">Contraseña o nombre de usuario no válido.</string>
-  <string name="lockscreen_glogin_password_hint">Contraseña</string>
-  <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
-  <string name="login_website_in_case_forget_password">Para restablecer su contraseña, vaya a to www.mi.com/micloud</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear con el dispositivo Bluetooth</string>
   <string name="open_camera_hint_text">Deslizar a la izquierda para abrir %s</string>
   <string name="open_remote_center_hint_text">Deslizar a la derecha para abrir %s</string>
-  <string name="open_wifi_settings">Conexión a red abierta</string>
   <string name="phone_locked_foget_password">¿Olvidó su contraseña?</string>
   <string name="phone_locked_foget_password_content">"Puede iniciar sesión en i.mi.com utilizando la Cuenta Mi que está asociada con este dispositivo y borrar todos los datos. Esto borrará todos los datos personales almacenados en este dispositivo. Después de esto, puede reiniciar el dispositivo y restaurar contactos, mensajes, fotos y otros elementos de Mi Cloud.
 
