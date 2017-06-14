@@ -302,9 +302,9 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="description_add_contact">Agregar contacto</string>
   <string name="description_call">Llamar a %1$s</string>
   <string name="description_call_log_incoming_call">Llamadas entrantes</string>
-  <string name="description_call_log_incoming_forwarding_call">Llamada entrante de reenvío</string>
+  <string name="description_call_log_incoming_forwarding_call">Llamada entrante reenviada</string>
   <string name="description_call_log_missed_call">Llamadas perdidas</string>
-  <string name="description_call_log_missed_forwarding_call">Falta la llamada de reenvío</string>
+  <string name="description_call_log_missed_forwarding_call">Llamada reenviada perdida</string>
   <string name="description_call_log_new_contact">Nuevo contacto</string>
   <string name="description_call_log_outgoing_call">Llamadas salientes</string>
   <string name="description_call_log_play_button">Reproducir mensaje de voz</string>
@@ -363,18 +363,17 @@ Las tarjetas de contacto están apagadas"</string>
   <string name="device_paired_dialog_title">Combinando contactos…</string>
   <string name="device_pairing_dialog_message">Emparejando…</string>
   <string name="device_pairing_dialog_title">Dispositivos emparejados</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Por favor, active la función de \"Bluetooth\" encendido;
+  <string name="device_transfer_by_bluetooth_message">"1. Activar Bluetooth en el otro dispositivo.
 
 
-- Los dispositivos Android suelen encontrar el \"Bluetooth\" bajo la sección de red
+- Bluetooth se puede encontrar en ajustes de red en los dispositivos Android.
 
-- Los dispositivos iOS deben buscar \"Bluetooth\" dentro de Ajustes
-
-
-2. Los dispositivos Android también deben estar \"Visible\" optión activo;
+- En dispositivos iOS, Bluetooth está en ajustes.
 
 
-3. Hacer clic \"Siguiente\", y permite a los contactos acceder a permiso en el siguiente paso."</string>
+2. El modo detectable también debe activarse en los dispositivos Android.
+
+3. Toque \"Siguiente\", Y dar a los contactos los permisos necesarios."</string>
   <string name="device_transfer_by_sim_message">"1. Guardar los contactos del otro dispositivo en la tarjeta SIM;
 
 
@@ -1355,8 +1354,7 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowpage_navigation_search_history">Historial</string>
   <string name="yellowpage_navigation_search_offline_hint">Sin conexión</string>
   <string name="yellowpage_navigation_search_result_average_price">Promedio %d RMB</string>
-  <string name="yellowpage_navigation_search_result_network_error">"No se puede conectar a la
-        red."</string>
+  <string name="yellowpage_navigation_search_result_network_error">"No se puede conectar a la red"</string>
   <string name="yellowpage_navigation_search_result_no_more">No hay más resultados</string>
   <string name="yellowpage_navigation_search_result_service_error">Servicio no disponible</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Error desconocido</string>

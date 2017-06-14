@@ -522,6 +522,9 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="bind_xiaomi_account_confirm">Añadir</string>
   <string name="bind_xiaomi_account_dialog_summery">"Estás a punto de añadir la Cuenta Mi %s. Si olvida su contraseña, puede usar esta cuenta para restablecerla."</string>
   <string name="bind_xiaomi_account_success">Cuenta Mi añadida correctamente</string>
+  <string name="biometric_weak_improve_matching_title">Mejorar la apariencia facial</string>
+  <string name="biometric_weak_liveliness_summary">Requiere que los ojos parpadeen mientras se desbloquea</string>
+  <string name="biometric_weak_liveliness_title">Reconocimiento facial</string>
   <string name="biometric_weak_improve_matching_title">Mejorar el reconocimiento facial</string>
   <string name="biometric_weak_liveliness_summary">Solicitar parpadeo durante desbloqueo</string>
   <string name="biometric_weak_liveliness_title">Reconocimiento facial</string>
@@ -4526,6 +4529,8 @@ Sus huellas dactilares guardadas también serán eliminadas de este perfil y no 
   <string name="unlock_set_do_later_title">Ahora no</string>
   <string name="unlock_set_enter_system">Omitir bloqueo de pantalla</string>
   <string name="unlock_set_enter_system_summary">Ir directamente a la pantalla de inicio al activar</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Bajo nivel de seguridad, experimental</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Desbloqueo de la cara</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Seguridad baja, experimental</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloqueo facial</string>
   <string name="unlock_set_unlock_disabled_summary">Desactivado por el administrador, política de cifrado o almacenamiento de credenciales</string>
