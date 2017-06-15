@@ -70,7 +70,7 @@
   <string name="aqi_short_desc">ICA %1$s</string>
   <string name="aqi_sub_desc">ICA</string>
   <string name="aqi_top_pollution">Principales contaminantes</string>
-  <string name="button_abandon">Anular cambios</string>
+  <string name="button_abandon">Descartar los cambios</string>
   <string name="button_add_city">Añadir ciudad</string>
   <string name="button_allow">Aceptar</string>
   <string name="button_confirm">Permitir</string>
@@ -226,7 +226,7 @@ Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="view_indexes_item_tommorrow">Mañana</string>
   <string name="weather_alert">Alertas meteorológicas</string>
   <string name="wind_direction_no_data">Viento</string>
-  <string name="xiaomi_weather_description_content">Xiaomi Weather APP puede proporcionar información exacta del pronóstico del tiempo, traer más comodidad para su viaje diario. La desinstalación afectará a las funciones de la barra de estado, el reloj del tiempo del escritorio y así sucesivamente. ¿Desea continuar desinstalando los componentes del sistema?</string>
-  <string name="xiaomi_weather_description_title">Xiaomi Weather APP Descripción</string>
+  <string name="xiaomi_weather_description_content">"Weather te proporciona información meteorológica exacta Sin esta aplicación, la barra de estado y el widget de tiempo de la pantalla de inicio no funcionarán correctamente, asegúrate de que puedas prescindir de estas funciones antes de desinstalar la aplicación".</string>
+  <string name="xiaomi_weather_description_title">Acerca del tiempo</string>
   <string name="yes_vote_ratio">A favor %1$s%%</string>
 </resources>
