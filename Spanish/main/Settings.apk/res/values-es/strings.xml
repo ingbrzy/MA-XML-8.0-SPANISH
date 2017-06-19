@@ -1925,13 +1925,6 @@ Al activar la copia de seguridad automática, los datos del dispositivo y de las
   <string name="intent_sender_resource_label">Resource:</string>
   <string name="intent_sender_sendbroadcast_text">Enviar broadcast</string>
   <string name="intent_sender_startactivity_text">Iniciar activity</string>
-  <string name="internal_format">Borrar el almacenamiento interno</string>
-  <string name="internal_format_summary">Borrar todos los datos del almacenamiento interno del dispositivo</string>
-  <string name="internal_media_format_button_text">Borrar el almacenamiento interno</string>
-  <string name="internal_media_format_desc">
-    <b>Todos</b> sus datos se borrarán permanentemente. El teléfono se reiniciará después de haber borrado el almacenamiento interno. ¿Borrar almacenamiento interno?.</string>
-  <string name="internal_media_format_final_desc">¿Borrar el almacenamiento interno? ¡No podrá revertir esta acción! El teléfono se reiniciará después de haber borrado el almacenamiento interno.</string>
-  <string name="internal_media_format_title">Borrar el almacenamiento interno</string>
   <string name="internal_memory">Almacenamiento interno</string>
   <string name="internal_storage">Almacenamiento interno</string>
   <string name="internal_storage_sentence">almacenamiento interno</string>
@@ -3253,6 +3246,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="radio_info_voice_network_type_label">Tipo de Red de Voz:</string>
   <string name="rank_title">Clasificaciones</string>
   <string name="rarely_running">Apenas en ejecución (%s)</string>
+  <string name="reading_data">Obteniendo información…</string>
   <string name="really_remove_account_message">Si quitas esta cuenta, se eliminarán todos sus mensajes, contactos y otros datos del teléfono.</string>
   <string name="really_remove_account_title">¿Quitar cuenta?</string>
   <string name="rebootiing_for_updates">Reiniciando…</string>
@@ -5198,7 +5192,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_setting_category">Redes disponibles</string>
   <string name="wifi_setting_connect_type_error">Hubo un problema estableciendo el tipo de conexión.</string>
   <string name="wifi_setting_frequency_band_error">Error al establecer la banda de frecuencia</string>
-  <string name="wifi_setting_frequency_band_summary">Especificar intervalo frecuencia de funcionamiento</string>
+  <string name="wifi_setting_frequency_band_summary">Especificar intervalo de frecuencia de funcionamiento</string>
   <string name="wifi_setting_frequency_band_title">Banda de frecuencia de Wi-Fi</string>
   <string name="wifi_setting_on_during_sleep_title">Wi‑Fi activado en suspensión</string>
   <string name="wifi_setting_sleep_policy_error">Error al cambiar los ajustes</string>
