@@ -205,6 +205,14 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">Solucionado %1$d problemas. Todo se ve bien ahora.</item>
         <item quantity="one">Solucionado %1$d problema. Todo se ve bien ahora.</item>
     </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Aplicaciones peligrosas: %d</item>
+        <item quantity="one">Aplicación peligrosa: %d</item>
+    </plurals>
+        <plurals name="white_list_trojan_header">
+        <item quantity="other">Troyanos: %d</item>
+        <item quantity="one">Troyano: %d</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
         <item quantity="one">%d aplicación tiene riesgo de privacidad</item>
