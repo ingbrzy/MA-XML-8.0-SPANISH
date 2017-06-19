@@ -182,6 +182,16 @@
   <string name="pm_root_success_title">Acceso root habilitado</string>
   <string name="previous">Anterior</string>
   <string name="progress_title_checking">Comprobando actualizaciones…</string>
+  <string name="provision_activate_device">Activando dispositivo…</string>
+  <string name="provision_check_sim">Detectar la tarjeta SIM</string>
+  <string name="provision_connect_wifi">Conectarse a Wi-Fi</string>
+  <string name="provision_have_sim">Tarjeta SIM insertada</string>
+  <string name="provision_no_network_extra">Conéctese a Wi-Fi, o inserte su tarjeta SIM y utilice datos móviles para activar su dispositivo. No puede activar tu dispositivo sin conectarte a la red.</string>
+  <string name="provision_no_network_title">Conectarse a la red</string>
+  <string name="provision_retry">Inténtalo de nuevo</string>
+  <string name="provision_toast_no_network">Conéctese primero a la red</string>
+  <string name="provision_toast_server_error">No se pudo conectar al servidor. Espere un minuto o dos e inténtelo de nuevo.</string>
+  <string name="provision_toast_timeout">Tiempo de conexión agotado. Compruebe los ajustes de red.</string>
   <string name="reboot">Reiniciar</string>
   <string name="reboot_to_new_system">Reiniciar nuevo sistema</string>
   <string name="recovery_failed_button">Aceptar</string>
@@ -189,9 +199,10 @@
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">No puede entrar en modo Recuperación</string>
   <string name="recovery_failed_title">Utilizar Mi PC Suite para actualizar el sistema</string>
-  <string name="recovery_power_not_enough_msg">Conecte el cargador para actualizar si queda menos del 30% de batería</string>
-  <string name="recovery_power_not_enough_msg_plugged">La batería debe tener más del 30% para actualizar el dispositivo</string>
+  <string name="recovery_power_need_plugged">Conectar el cargador para actualizar</string>
+  <string name="recovery_power_not_enough_msg">Cargue su dispositivo al menos al 15% para actualizar</string>
   <string name="recovery_power_not_enough_title">Batería baja</string>
+  <string name="recovery_power_plugged_warning">Asegúrese de que el cargador esté conectado a su dispositivo durante la actualización</string>
   <string name="repeat">Reintentar</string>
   <string name="root_acquired">Permitir acceso root</string>
   <string name="root_agree_check_box_title">Entiendo los riesgos del acceso root</string>
