@@ -7,16 +7,23 @@
   <string name="application_desc">Aplicación</string>
   <string name="application_search_label">Apps</string>
   <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
+  <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="barcode_install_back">Atrás</string>
   <string name="barcode_install_cancel">Cancelar</string>
   <string name="barcode_install_confirm">Instalar</string>
   <string name="barcode_system_unmatch">Actualizar MIUI antes de instalar Scanner</string>
   <string name="barcode_to_install">Instalar el Escáner para continuar</string>
-  <string name="barcode_uninstalled">Escáner está desinstalado</string>
+  <string name="barcode_uninstalled">Se eliminó el escáner</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="choose_search_engine">Seleccionar motor de búsqueda web predeterminado</string>
   <string name="clear_history">Borrar historial</string>
+  <string name="clear_history_cancel">Cancelar</string>
+  <string name="clear_history_confirm">¿Eliminar todos los registros de historial?</string>
+  <string name="clear_history_ok">Aceptar</string>
   <string name="clear_shortcuts">Borrar accesos directos</string>
   <string name="clear_shortcuts_agree">Borrar accesos directos</string>
   <string name="clear_shortcuts_disagree">"No borrar accesos directos"</string>
