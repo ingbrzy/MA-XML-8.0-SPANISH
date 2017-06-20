@@ -31,24 +31,39 @@
 
 Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="clear_shortcuts_summary">Borrar accesos directos a las sugerencias de búsqueda recientemente elegidas</string>
+  <string name="common_category_entrance">Tarjetas</string>
+  <string name="common_category_entrance_subtitle">No verá tarjetas con categorías cuando esta función está desactivada.</string>
+  <string name="common_history">Historial de búsquedas</string>
+  <string name="common_history_first">Priorizar el historial de búsquedas</string>
+  <string name="common_history_first_subtitle">El historial de búsqueda se mostrará primero cuando esta función esté desactivada</string>
+  <string name="common_history_subtitle">No verás sugerencias de tu historial de búsqueda cuando esta función esté desactivada./string>
+  <string name="common_hot">Consultas populares</string>
+  <string name="common_hot_subtitle">No verá consultas y sugerencias populares cuando esta función esté desactivada.</string>
+  <string name="common_personal">Personalización</string>
+  <string name="common_recent_apps">Sugerencias de aplicaciones</string>
+  <string name="common_recent_apps_first">Priorizar sugerencias de aplicaciones</string>
+  <string name="common_recent_apps_first_subtitle">Las aplicaciones utilizadas recientemente se mostrarán primero cuando esta función esté activada</string>
+  <string name="common_recent_apps_subtitle">No verá las aplicaciones utilizadas recientemente cuando esta función esté desactivada.</string>
   <string name="common_setting">Ajustes</string>
   <string name="connect_and_retry">Conéctese a Internet y vuelva a intentarlo</string>
   <string name="corpus_description_apps">Aplicaciones instaladas</string>
-  <string name="corpus_description_web">Marcadores</string>
+  <string name="corpus_description_web">Aplicaciones, videos y contenido web</string>
   <string name="corpus_hint_apps">Aplicaciones de búsqueda</string>
   <string name="corpus_label_apps">Aplicaciones</string>
   <string name="corpus_label_global">Todo</string>
-  <string name="corpus_label_web">Resultados web</string>
+  <string name="corpus_label_web">Recomendaciones</string>
   <string name="corpus_selection_heading">Búsqueda</string>
-  <string name="cta_declaration">Para todas las características de búsqueda, tenemos que conectar la red, el posicionamiento, la lectura de los registros de llamadas, leer la libreta de direcciones, etc. ¿Está de acuerdo?</string>
+  <string name="cta_declaration">"Esta función necesita conectarse a Internet, acceder a la ubicación de su dispositivo y ver su historial de llamadas, contactos y mensajes para que funcione normalmente".</string>
   <string name="cta_declaration_ignore">No mostrar de nuevo</string>
   <string name="cta_declaration_negative_text">No permitir</string>
   <string name="cta_declaration_positive_text">Aceptar y continuar</string>
   <string name="cta_declaration_title">Términos del Servicio</string>
   <string name="default_hint">Buscar aplicaciones, música, videos, libros…</string>
+  <string name="delete_history">Eliminar este elemento</string> 
   <string name="device_settings_category_title">Borrar accesos directos</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="download_toast">Ruta de descarga: /sdcard/%s</string>
   <string name="entrance_setting">Abrir búsqueda</string>
   <string name="google_app_label">Google Search</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
