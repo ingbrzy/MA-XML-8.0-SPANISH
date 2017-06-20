@@ -7,16 +7,23 @@
   <string name="application_desc">Aplicación</string>
   <string name="application_search_label">Apps</string>
   <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
+  <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_minus_one">https://m.baidu.com/s?from=1013672k&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="barcode_install_back">Atrás</string>
   <string name="barcode_install_cancel">Cancelar</string>
   <string name="barcode_install_confirm">Instalar</string>
   <string name="barcode_system_unmatch">Actualizar MIUI antes de instalar Scanner</string>
   <string name="barcode_to_install">Instalar el Escáner para continuar</string>
-  <string name="barcode_uninstalled">Escáner está desinstalado</string>
+  <string name="barcode_uninstalled">Se eliminó el escáner</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="choose_search_engine">Seleccionar motor de búsqueda web predeterminado</string>
   <string name="clear_history">Borrar historial</string>
+  <string name="clear_history_cancel">Cancelar</string>
+  <string name="clear_history_confirm">¿Eliminar todos los registros de historial?</string>
+  <string name="clear_history_ok">Aceptar</string>
   <string name="clear_shortcuts">Borrar accesos directos</string>
   <string name="clear_shortcuts_agree">Borrar accesos directos</string>
   <string name="clear_shortcuts_disagree">"No borrar accesos directos"</string>
@@ -24,24 +31,39 @@
 
 Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="clear_shortcuts_summary">Borrar accesos directos a las sugerencias de búsqueda recientemente elegidas</string>
+  <string name="common_category_entrance">Tarjetas</string>
+  <string name="common_category_entrance_subtitle">No verá tarjetas con categorías cuando esta función está desactivada.</string>
+  <string name="common_history">Historial de búsquedas</string>
+  <string name="common_history_first">Priorizar el historial de búsquedas</string>
+  <string name="common_history_first_subtitle">El historial de búsqueda se mostrará primero cuando esta función esté desactivada</string>
+  <string name="common_history_subtitle">No verás sugerencias de tu historial de búsqueda cuando esta función esté desactivada./string>
+  <string name="common_hot">Consultas populares</string>
+  <string name="common_hot_subtitle">No verá consultas y sugerencias populares cuando esta función esté desactivada.</string>
+  <string name="common_personal">Personalización</string>
+  <string name="common_recent_apps">Sugerencias de aplicaciones</string>
+  <string name="common_recent_apps_first">Priorizar sugerencias de aplicaciones</string>
+  <string name="common_recent_apps_first_subtitle">Las aplicaciones utilizadas recientemente se mostrarán primero cuando esta función esté activada</string>
+  <string name="common_recent_apps_subtitle">No verá las aplicaciones utilizadas recientemente cuando esta función esté desactivada.</string>
   <string name="common_setting">Ajustes</string>
   <string name="connect_and_retry">Conéctese a Internet y vuelva a intentarlo</string>
   <string name="corpus_description_apps">Aplicaciones instaladas</string>
-  <string name="corpus_description_web">Marcadores</string>
+  <string name="corpus_description_web">Aplicaciones, videos y contenido web</string>
   <string name="corpus_hint_apps">Aplicaciones de búsqueda</string>
   <string name="corpus_label_apps">Aplicaciones</string>
   <string name="corpus_label_global">Todo</string>
-  <string name="corpus_label_web">Resultados web</string>
+  <string name="corpus_label_web">Recomendaciones</string>
   <string name="corpus_selection_heading">Búsqueda</string>
-  <string name="cta_declaration">Para todas las características de búsqueda, tenemos que conectar la red, el posicionamiento, la lectura de los registros de llamadas, leer la libreta de direcciones, etc. ¿Está de acuerdo?</string>
+  <string name="cta_declaration">"Esta función necesita conectarse a Internet, acceder a la ubicación de su dispositivo y ver su historial de llamadas, contactos y mensajes para que funcione normalmente".</string>
   <string name="cta_declaration_ignore">No mostrar de nuevo</string>
   <string name="cta_declaration_negative_text">No permitir</string>
   <string name="cta_declaration_positive_text">Aceptar y continuar</string>
   <string name="cta_declaration_title">Términos del Servicio</string>
   <string name="default_hint">Buscar aplicaciones, música, videos, libros…</string>
+  <string name="delete_history">Eliminar este elemento</string> 
   <string name="device_settings_category_title">Borrar accesos directos</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="download_toast">Ruta de descarga: /sdcard/%s</string>
   <string name="entrance_setting">Abrir búsqueda</string>
   <string name="google_app_label">Google Search</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
@@ -51,7 +73,17 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Búsqueda en Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="history_clear">Borrar</string>
+  <string name="history_earlier">Más temprano</string>
+  <string name="history_fragment_none_text">No hay registros de historial</string>
+  <string name="history_group">dd \'de\' MMMM, yyyy</string>
+  <string name="history_list_title">Historial de búsquedas</string>
+  <string name="history_no_more">No hay más artículos</string>
+  <string name="history_none">No hay registros de historial</string>
   <string name="hot_search">Popular</string>
+  <string name="hot_word_refresh">refrescar</string>
+  <string name="item_history_clear">Borrar historial</string>
+  <string name="item_history_more">Historial de búsquedas</string>
   <string name="loading">Un momento…</string>
   <string name="local_app">Aplicaciones</string>
   <string name="local_setting">Ajustes</string>
@@ -63,9 +95,11 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="permission_prompt_start">Permitir</string>
   <string name="permission_prompt_started_info">"Has permitido la búsqueda global"</string>
   <string name="permission_prompt_title">¿Quieres más?</string>
+  <string name="pull_to_exit">Tire hacia abajo para salir</string>
   <string name="pull_to_input">Tire hacia abajo para mostrar la barra de búsqueda</string>
   <string name="recent_apps">Aplicaciones recientes</string>
   <string name="recent_apps_filter">"Ocultar las aplicaciones que no utiliza"</string>
+  <string name="recent_calls">Llamadas recientes</string>
   <string name="recent_close_content">"¿Desactivar esta función ahora?
  Puede cambiar esto en Ajustes &gt; Aplicaciones instaladas &gt; Buscar"</string>
   <string name="recent_close_title">Desactivar función</string>
@@ -79,9 +113,11 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="recent_edit_done">Terminar</string>
   <string name="recent_function">Funciones</string>
   <string name="recently_shortcut_label">Accesos directos recientes</string>
+  <string name="release_to_exit">Suelta para salir</string>
   <string name="release_to_input">Suelta para mostrar la barra de búsqueda</string>
   <string name="remove_from_history">¿Quiere borrar esta entrada del historial de búsqueda?</string>
   <string name="remove_from_history_failed">No se puede borrar el elemento del historial.</string>
+  <string name="right_protection_title">Declaración especial</string>
   <string name="search_apps">Buscar aplicaciones</string>
   <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_button">Buscar</string>
@@ -92,6 +128,7 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="search_in_web">Buscar en Internet</string>
   <string name="search_keyword_quicksearchbox">Buscar</string>
   <string name="search_path_quicksearchbox">Ajustes/Aplicaciones instaladas/Buscar</string>
+  <string name="search_result_button">mostrar más resultados</string>
   <string name="search_settings">Ajustes de búsqueda</string>
   <string name="search_sources">Elementos rastreables</string>
   <string name="search_sources_summary">Escoger qué buscar en el teléfono</string>
@@ -100,12 +137,20 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Buscar</string>
   <string name="send_secret_code">Enviar código</string>
+  <string name="setting_category_edit">Editar categorías</string>
+  <string name="setting_common">Ajustes generales</string>
+  <string name="setting_entrance">Abrir búsqueda global</string>
   <string name="setting_other">Otro</string>
+  <string name="setting_right_protection">Declaración especial</string>
+  <string name="setting_search_items">Elementos buscados</string>
   <string name="setting_version">Version de aplicacion</string>
   <string name="setting_version_title">Version de aplicacion</string>
   <string name="settings_description">Nombres de aplicaciones instaladas</string>
   <string name="show_more">Mostrar más</string>
   <string name="suggest_open_app_failed">No se puede abrir esta aplicación</string>
+  <string name="suggestion_tab_btn">comenzar</string>
+  <string name="suggestion_tab_detail">Haga clic aquí para seleccionar la búsqueda de la categoría apropiada, los resultados serán más precisos</string>
+  <string name="suggestion_tab_title">Buscar en las siguientes categorías</string>
   <string name="swipe_up_summary">Deslizar hacia arriba para abrir la búsqueda global</string>
   <string name="swipe_up_title">Deslizar hacia arriba</string>
   <string name="switch_application">Aplicaciones</string>
@@ -134,4 +179,8 @@ Para borrar su historial de navegación, use los ajustes del navegador"</string>
   <string name="voice_search_hint_title">Prueba diciendo: </string>
   <string name="web_search_results">Resultados web</string>
   <string name="xiaomi_search_label">Resultados</string>
+  <string name="xiaomi_source_url">https://search.browser.miui.com/v5/</string>
+  <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/v5/alpha/</string>
+  <string name="xiaomi_source_url_file_cdn_prefix">file://ssl-cdn.static.browser.mi-img.com/</string>
+  <string name="xiaomi_source_url_file_prefix">file://search.browser.miui.com/</string>
 </resources>
