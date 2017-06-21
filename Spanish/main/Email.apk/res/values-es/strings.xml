@@ -7,6 +7,7 @@
   <string name="accessibility_guide_second">Luego haga clic en el interruptor en la esquina superior derecha, haga clic en \"Confirmar\" y continuar.</string>
   <string name="account_duplicate_dlg_message_fmt">"Ya está usando este nombre de usuario para la cuenta \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Cuenta duplicada</string>
+  <string name="account_failure">Error de cuenta</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
   <string name="account_manager_type_legacy_imap">com.android.email</string>
@@ -257,6 +258,7 @@
   <string name="change_folders_selection_dialog_title">Cambiar carpetas</string>
   <string name="change_sync_settings">Cambiar ajustes de sincronización</string>
   <string name="changepw_dialog_tips">Reintroduzca la contraseña para %s</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Compruebe el código de verificación %s y vuelva a iniciar sesión</string>
   <string name="chat_item_msg_people_unit">personas</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"    Validando configuración del servidor…"</string>
@@ -361,12 +363,13 @@
   <string name="device_admin_label">Correo</string>
   <string name="device_not_activiey_lint1">El administrador de dispositivos no está activado</string>
   <string name="device_not_activiey_lint2">El servicio de Correo no funciona con Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">No puede auto-recibir nuevos mensajes. La sincronización está desactivada.</string>
-  <string name="dialog_auto_sync_setting_no_open">No puede auto-recibir nuevos mensajes. La sincronización está desactivada.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Ha modificado la sincronización manual, necesita actualizar manualmente para recibir correo</string>
   <string name="dialog_change_sync_lookback">El correo recibido hace %s se eliminará automáticamente. Toque para cambiar.</string>
   <string name="dialog_gmail_proxy_server_is_error">Error en el servidor proxy de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">Imposible descargar adjunto. No hay espacio de almacenamiento externo suficiente.</string>
   <string name="dialog_insufficient_space_on_internal">No hay espacio de almacenamiento interno suficiente.</string>
+  <string name="dialog_system_auto_sync_account_no_open">La sincronización de cuenta no está habilitada y los mensajes no se pueden sincronizar automáticamente</string>
+  <string name="dialog_system_auto_sync_master_no_open">La sincronización del sistema no está habilitada y los mensajes no se pueden sincronizar automáticamente</string>
   <string name="disable_admin_warning">"ADVERTENCIA: Desactivar el permiso de la aplicación de correo electrónico para administrar su dispositivo, conducirá a que se eliminen todas las cuentas de correo y los mensajes, contactos, eventos de calendario y otros datos."</string>
   <string name="discard">Descartar</string>
   <string name="discard_drafts">Descartar borradores</string>
@@ -393,7 +396,7 @@
   <string name="download_message_failed_for_too_large">El mensaje es demasiado grande para descargar.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Estado de las cuentas bancarias</string>
-  <string name="drawer_classification">Intelligent classification</string>
+  <string name="drawer_classification">Categorías</string>
   <string name="drawer_close">Cerrar el panel de navegación</string>
   <string name="drawer_contacts">Contactos</string>
   <string name="drawer_open">Abrir el panel de navegación</string>
@@ -556,6 +559,8 @@
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">Correo</string>
   <string name="mail_body_turncated">Este correo es demasiado grande para cargar, sólo se mostrará parte del mensaje. Acceda más tarde a través de un PC</string>
+  <string name="mail_description_content">El correo electrónico es un cliente de correo que puede administrar varios buzones, admite enviar y recibir, etiquetar correo y proporcionar servicios como modo de sesión, correo de facturación, clasificación de correo y otros servicios. Después de desinstalar el correo, los datos de correo se eliminarán.</string>
+  <string name="mail_description_title">Introducción de correo electrónico</string>
   <string name="mail_header_network_not_available">No tiene conexión de red.</string>
   <string name="mailbox_list_account_selector_combined_view">Cuenta combinada</string>
   <string name="mailbox_name_display_ad">Anuncios y notificaciones</string>
@@ -1023,6 +1028,9 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">No es posible sincronizar.</string>
   <string name="sync_error_message">Su dispositivo no tiene espacio de almacenamiento suficiente para sincronizar.</string>
+  <string name="syncing_wait_restart">Haga clic en Reintentar</string>
+  <string name="syncing_wait_restart_title">"La conexión del servidor ha caducado
+ No puede cargar el mensaje"</string>
   <string name="system_account_create_failed">No se ha podido crear la cuenta. Inténtelo de nuevo.</string>
   <string name="system_folders_sent_dlg">Seleccione carpeta de elementos enviados de su servidor</string>
   <string name="system_folders_sent_summary">Seleccione carpeta de elementos enviados de su servidor</string>
@@ -1031,6 +1039,7 @@ para recibir recordatorios sobre pagos y viajes"</string>
   <string name="system_folders_trash_dlg">Seleccione la carpeta de Papelera del servidor</string>
   <string name="system_folders_trash_summary">Seleccione la carpeta de Papelera del servidor</string>
   <string name="system_folders_trash_title">Carpeta de papelera</string>
+  <string name="system_setup_open_error">"No se puede activar la sincronización de la cuenta. Por favor, active el sistema "en ajustes" en la cuenta de correo de sincronización"</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Pulse para configurar.</string>
   <string name="tap_to_enable_sync">Pulse para activarla.</string>
