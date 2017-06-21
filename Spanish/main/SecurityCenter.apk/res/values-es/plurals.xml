@@ -134,8 +134,8 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="one">"%s aplicación no está protegida</item>
     </plurals>
     <plurals name="scan_result_description">
-        <item quantity="other">Encontrados %d riesgos de pago</item>
-        <item quantity="one">Encontrado %d riesgo de pago</item>
+        <item quantity="other">Encontrados %d riesgos para los pagos</item>
+        <item quantity="one">Encontrado %d riesgo para el pago</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elementos de seguridad</item>
