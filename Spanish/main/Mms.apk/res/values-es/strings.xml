@@ -81,7 +81,7 @@
   <string name="confirm_delete_message">¿Eliminar este mensaje?</string>
   <string name="confirm_dialog_locked_title">¿Eliminar mensajes bloqueados?</string>
   <string name="confirm_dialog_title">¿Eliminar?</string>
-  <string name="confirm_dlg__msg">Aviso CMCC: el servicio de correo gratuito CMCC no será proporcionado si usted cancela el servicio. ¿Está seguro de cancelar?</string>
+  <string name="confirm_dlg__msg">Aviso CMCC: Los servicios gratuitos de CMCC y el soporte no serán proporcionados si lo cancela. ¿Cancelar de todos modos?</string>
   <string name="confirm_dlg_title">Administración de dispositivos</string>
   <string name="confirm_export_dialog_description">Conversaciones anteriores con este contacto no volverán a ser ocultadas.</string>
   <string name="confirm_export_dialog_title">Retirar de contactos privados</string>
@@ -129,7 +129,7 @@
   <string name="delivery_report_activity">Informe de entrega</string>
   <string name="delivery_toast_body">Mensaje recibido de %s</string>
   <string name="disable_notifications_dialog_message">¿Parar notificaciones de mensaje de texto duplicado en aplicación de mensajes predeterminada?</string>
-  <string name="disabled">Inhabilitado</string>
+  <string name="disabled">Apagado</string>
   <string name="discard">Descartar</string>
   <string name="discard_message">Descartar</string>
   <string name="discard_message_reason">Su mensaje se descartará porque no tiene ningún destinatarios válidos.</string>
@@ -149,7 +149,7 @@
   <string name="edit_phrase">Editar respuestas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivas</string>
   <string name="edit_slideshow_activity">Editar diapositivas</string>
-  <string name="enabled">Habilitado</string>
+  <string name="enabled">Encendido</string>
   <string name="english_subject_limit">límite de 40 caracteres</string>
   <string name="enter_edit_mode">Editar mensajes</string>
   <string name="error_code_label">"Código de error: "</string>
@@ -519,7 +519,7 @@
   <string name="select_top_text">Texto en la parte superior</string>
   <string name="send">Enviar</string>
   <string name="send_message_dlg_check_hint">No mostrar de nuevo</string>
-  <string name="send_message_dlg_mgs">Aviso CMCC: tenemos que registrar su plataforma de administración de dispositivos para proporcionar el servicio gratuito de post (post-service es una plataforma de CMCC que permite administrar los terminales. Te ofrece el servicio de configuración remota y actualización de la aplicación). Se enviará un mensaje gratis de información de los dispositivos de registro. El mensaje será enviado una vez y no es necesario los datos personales (no mandar de Hong Kong, Macao, Taiwan e itinerancia internacional). Seleccione \"Aceptar\" si está de acuerdo con registrar y utilizar el servicio. Seleccione \"Cancelar\" para volver y no se proporcionará ningún servicio de CMCC.</string>
+  <string name="send_message_dlg_mgs">Notificación de CMCC: Necesitamos registrar su dispositivo en nuestra plataforma de administración de dispositivos para proporcionar servicios y soporte de atención al cliente gratuitos. Esta plataforma CMCC gestiona los dispositivos móviles y le permite cambiar los ajustes y actualizar el software de forma remota. Se enviará un mensaje de texto gratuito con la información acerca de su dispositivo para su registro. El mensaje sólo se enviará una vez y no contendrá sus datos personales. Este mensaje no puede ser enviado por clientes de Hong Kong, Macao, Taiwán y en el extranjero. Seleccione \ "Aceptar \" para aceptar y registrar su dispositivo. Seleccione \ "Cancelar" si no está de acuerdo con los términos. Los servicios no se le proporcionarán en este caso.</string>
   <string name="send_message_dlg_title">Administración de dispositivos</string>
   <string name="send_message_notification_msg">Pulse para ver detalles.</string>
   <string name="send_message_notification_tickerText">Solicitando permiso</string>
