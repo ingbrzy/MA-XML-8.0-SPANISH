@@ -662,7 +662,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="bluetooth_pairing_shares_phonebook">Permitir que %1$s acceda a tus contactos y al historial de llamadas</string>
   <string name="bluetooth_pairing_will_share_phonebook">La vinculación permite acceder a tus contactos y al historial de llamadas cuando el dispositivo está conectado.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Compartiendo conexión a Internet con el dispositivo</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Usar para acceder a Internet</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Usar para acceder a internet</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Conectado para acceso a Internet</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s quiere acceder a tus contactos y a tu historial de llamadas. ¿Quieres permitir el acceso a %2$s?</string>
   <string name="bluetooth_pb_remember_choice">No volver a preguntar</string>
@@ -1000,6 +1000,7 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="confirm_reset_aaid">Aceptar</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">¿Restablecer los contadores limitadores del Gestor de Accesos Directos?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">¿Restablecer los limitadores del Gestor de Accesos Directos?</string>
+  <string name="connect_mode">Modo de conexión</string>
   <string name="connect_to_internet">Conectarse a la red</string>
   <string name="connected_via_passpoint">Conectado a través de %1$s</string>
   <string name="connected_via_wfa">Conectado a través de asistente Wi‑Fi</string>
@@ -3251,7 +3252,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="receiver_clean">Liberar espacio</string>
   <string name="recent_location_requests_summary">Ver aplicaciones que soliciten acceso a su ubicación</string>
   <string name="recent_location_requests_title">Acceso a ubicación</string>
-  <string name="recents_config_title">Ajustes recientes</string>
+  <string name="recents_config_title">Recientes</string>
   <string name="recommend_item_1">Carcasa para el teléfono</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -4231,7 +4232,7 @@ La operación puede tardar aproximadamente ^2 y permitirá liberar ^3 de espacio
   <string name="storage_wizard_migrate_progress_title">Moviendo datos…</string>
   <string name="storage_wizard_migrate_title">Mover a nuevo almacenamiento</string>
   <string name="storage_wizard_move_confirm_body">"La migración de ^1 y de sus datos a tu ^2 solo durará un momento. No podrás utilizar la aplicación hasta que finalice el proceso.
-    
+
 No extraigas tu ^2 durante la migración."</string>
   <string name="storage_wizard_move_confirm_title">Mover ^1</string>
   <string name="storage_wizard_move_progress_body">"No extraigas tu ^1 durante la migración
@@ -4274,6 +4275,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
   <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
   <string name="supl_not_set">&lt;No definido&gt;</string>
   <string name="supplicant_state_label">Estado de la solicitud:</string>
+  <string name="sure_sync_now">¿Sincronizar ítems ahora?</string>
   <string name="suspend_gesture_enabled">Deslice el teléfono para desactivar la pantalla</string>
   <string name="suspension_ball_enable">Mirror buttons</string>
   <string name="suspension_ball_enable_desc">Mirror Back and Menu buttons</string>
@@ -4300,6 +4302,7 @@ Considera usar una ^1 para mejorar el rendimiento."</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancelar sincronización</string>
   <string name="sync_menu_sync_now">Sincronizar ahora</string>
+  <string name="sync_now">Sincronizar</string>
   <string name="sync_one_time_sync">"Tocar para realizar la sincronización ahora
 %1$s"</string>
   <string name="sync_plug">
@@ -4987,7 +4990,7 @@ Asistente de Wi‑Fi"</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">No mostrar de nuevo</string>
   <string name="wifi_connect_cmcc_dialog_title">Notificación de uso de datos</string>
   <string name="wifi_connect_failed_message">No es posible conectarse a la red Wi-Fi</string>
-  <string name="wifi_connected_no_internet">Conexión sin Internet</string>
+  <string name="wifi_connected_no_internet">Conexión sin internet</string>
   <string name="wifi_context_menu_change_password">Cambiar contraseña</string>
   <string name="wifi_context_menu_change_wapi_certificate">Cambiar certificado WAPI</string>
   <string name="wifi_context_menu_connect">Conectar</string>

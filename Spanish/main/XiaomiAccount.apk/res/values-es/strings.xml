@@ -78,14 +78,14 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Todo listo</string>
   <string name="confirm_activate_email">Verificado</string>
-  <string name="confirm_bundled_phone_dialog_title">Confirmar el número de teléfono incluido</string>
+  <string name="confirm_bundled_phone_dialog_title">Confirmar el número de teléfono asociado</string>
   <string name="confirm_delete_app_message">"Después de borrar esta aplicación, tendrás que verificar tu número de teléfono la próxima vez que entres en tu Cuenta Mi."</string>
   <string name="confirm_delete_browser_message">"Después de borrar este navegador, tendrás que verificar tu número de teléfono la próxima vez que entres en tu Cuenta Mi."</string>
   <string name="confirm_delete_device_message">"Después de borrar este dispositivo, tendrás que verificar tu número de teléfono la próxima vez que entres en tu Cuenta Mi."</string>
-  <string name="confirm_phone_number_dialog_message">El código de verificación se enviará a: %s.</string>
+  <string name="confirm_phone_number_dialog_message">El código de verificación se enviará a %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirmar número de teléfono</string>
   <string name="confirm_unbind">¿Borrar esta cuenta?</string>
-  <string name="confirm_unbundled_phone_dialog_message">El número de teléfono %1$s está enlazado a la cuenta %2$s，Continuar trabajando con %3$s desenlazado，¿Estás seguro de que quieres continuar?</string>
+  <string name="confirm_unbundled_phone_dialog_message">El número de teléfono %1$s está asociado con la Cuenta Mi %2$s. No seguirá estando asociado con la Cuenta Mi %3$s si continúa. ¿Continuar?</string>
   <string name="continue_action">Continuar</string>
   <string name="cta_declaration_agree_and_continue">Aceptar</string>
   <string name="cta_declaration_exit">Salir</string>
@@ -134,7 +134,7 @@
   <string name="find_device_unknown_error">"No se puede obtener el estado del dispositivo, espere un minuto o dos y vuelva a intentarlo"</string>
   <string name="first_login_time">Primer intento de inicio: %s</string>
   <string name="get_device_list_failed">No se pudieron encontrar dispositivos</string>
-  <string name="get_phone_bind_exceed_limit">El número de teléfono móvil vinculado al número de cuenta ha alcanzado el máximo(3), ya no puede enlazar la nueva cuenta</string>
+  <string name="get_phone_bind_exceed_limit">No puede asociar más de tres Cuentas Mi con un número de teléfono. No se puede añadir nuevas cuentas.</string>
   <string name="get_phone_verifycode_exceed_limit">Se han enviado demasiados códigos de verificación a este número. Espera 24 horas y vuelve a intentarlo.</string>
   <string name="guest_account_label">Cuenta Mi de Invitado</string>
   <string name="input_email_address_notice">Utilizaremos este correo electrónico para verificar su cuenta</string>
@@ -212,7 +212,7 @@ Para activar su cuenta, siga el
   <string name="passport_error_device_id">No se puede obtener la id del dispositivo</string>
   <string name="passport_error_dup_email">La dirección de correo electrónico introducida ya ha sido asociada a otra cuenta.</string>
   <string name="passport_error_email">La dirección de correo electrónico introducida es inválida</string>
-  <string name="passport_error_empty_captcha_code">Introduzca el código captcha</string>
+  <string name="passport_error_empty_captcha_code">Introduzca el captcha</string>
   <string name="passport_error_empty_email">Introducir dirección de correo electrónico</string>
   <string name="passport_error_empty_phone_num">Introducir número de teléfono</string>
   <string name="passport_error_empty_pwd">Introduzca su contraseña</string>

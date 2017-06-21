@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
+  <string name="about_hide_mode">Acerca del Ahorrador de Batería MIUI</string>
   <string name="action_bar_delete">Eliminar</string>
   <string name="action_settings">Ajustes</string>
   <string name="action_title_optimize">Optimiza ahora</string>
@@ -26,12 +27,17 @@
   <string name="config_restrict_function_title">Restringir aplicaciones en segundo plano</string>
   <string name="config_restrict_running_description">Las aplicaciones se cerrarán para ahorrar batería</string>
   <string name="config_restrict_running_title">Restringir actividad en segundo plano</string>
+  <string name="config_restrict_running_warning">La aplicación se cerrará cuando pase a segundo plano, puede que no pueda funcionar normalmente</string>
+  <string name="config_scenario_policies_title">Escenarios</string>
   <string name="config_suggest_description">"Identificar las aplicaciones y actividades para mantener los procesos importantes activos.
 El economizador de batería tratará de forma selectiva las aplicaciones importantes."</string>
   <string name="config_suggest_suffix_title">Economizador de batería MIUI (recomendado)</string>
   <string name="config_suggest_title">Economizador de batería MIUI</string>
+  <string name="disable_hide_mode">Deshabilitar el Ahorrador de Batería MIUI</string>
+  <string name="disable_hide_mode_warning">Deshabilitar el Ahorrador de Batería MIUI puede causar más consumo de energía</string>
   <string name="disabled">Apagado</string>
   <string name="empty_title_apps_container_list">Sin aplicaciones</string>
+  <string name="enable_hide_mode">Habilitar el Ahorrador de Batería MIUI</string>
   <string name="error_filename_too_long">Nombre de archivo demasiado largo.</string>
   <string name="foreground_change">Aplicación ejecutándose en primer plano</string>
   <string name="fragment_nonesys_listempty">No hay aplicaciones instaladas</string>
@@ -42,8 +48,10 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="google_base_app_install_choice">\"%s\" requiere de las aplicaciones Marco de Servicio de Google para trabajar con normalidad, desea descargarlas e instalarlas?</string>
   <string name="hide_mode_desc">Cuando una aplicación se ejecute en segundo plano, se supervisarán sus actividades para reducir el uso de batería.</string>
   <string name="hide_mode_ultimate_desc">El modo extremo está activo. Las aplicaciones en segundo plano se congelarán. Desactive el ahorro de batería para salir del modo extremo.</string>
+  <string name="hide_system_app">Ocultar aplicaciones del sistema</string>
   <string name="high">Rendimiento</string>
   <string name="hints_loading_text">Un momento…</string>
+  <string name="invalid_size_value">No se pudo obtener el tamaño del paquete.</string>
   <string name="location_disable_description">Las aplicaciones en segundo plano solo pueden acceder a los servicios de localización por períodos cortos de tiempo, mientras que el acceso permanente está restringido</string>
   <string name="location_disable_title">Limitar</string>
   <string name="location_enable_description">Las aplicaciones pueden utilizar los servicios de ubicación en segundo plano</string>
@@ -91,7 +99,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="power_config_app_background_title">Segundo plano</string>
   <string name="power_config_app_full_screen_title">Pantalla completa</string>
   <string name="power_config_app_launch_title">Primer plano</string>
-  <string name="power_config_apps">Ahorro de energía en segundo plano</string>
+  <string name="power_config_apps">Ahorrador de Batería MIUI</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Seleccione el horario de restricción de dados en segundo plano</string>
   <string name="power_config_bg_data_delay_time_title">Restringir datos en segundo plano</string>
   <string name="power_config_choose_apps">Seleccionar aplicaciones</string>
@@ -140,7 +148,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="power_dialog_screen_brightness_title">Brillo</string>
   <string name="power_event_user_define_title">Nuevos eventos</string>
   <string name="power_event_view_event_title">Activadores</string>
-  <string name="power_hide_mode_app_list_summary">Configuración de aplicaciones</string>
+  <string name="power_hide_mode_app_list_summary">Ahorrador de energía en segundo plano</string>
   <string name="power_hide_mode_summary">Ahorre energía de la batería mediante la restricción de procesos en segundo plano, conexiones WLAN, de datos móviles y GPS</string>
   <string name="power_hide_mode_title">Administrar uso de batería de las aplicaciones</string>
   <string name="power_keeper">Ahorro de batería</string>
@@ -156,6 +164,8 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="power_optimize_activity_profile_file_error">Error de economizador de batería</string>
   <string name="ragment_sys_listempty">No hay aplicaciones del sistema</string>
   <string name="reading">Modo lectura</string>
+  <string name="scenario_policies_summary">Ahorro de energía según el escenario</string>
+  <string name="scenario_policies_title">Políticas de ahorro de energía de escenario</string>
   <string name="screen_off">La pantalla está apagada</string>
   <string name="screen_off_10_min">La pantalla está apagada durante más de 10 minutos</string>
   <string name="screen_on">La pantalla está activada</string>
@@ -164,12 +174,14 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="set_cpufreq_max">Frecuencia máxima de la CPU</string>
   <string name="set_lcd_mode">Modo de pantalla</string>
   <string name="settings_safetylegal_activity_loading">Un momento…</string>
-  <string name="sleep_config_disable_description">"MIUI no mejorará el ahorro de batería por la noche"</string>
-  <string name="sleep_config_disable_title">Apagado</string>
-  <string name="sleep_config_enhance_description">MIUI mejorará el modo de espera nocturno</string>
-  <string name="sleep_config_enhance_title">Encendido</string>
-  <string name="sleep_config_mode_title">Modos de ahorro de sueño</string>
+  <string name="show_system_app">Mostrar aplicaciones del sistema</string>
+  <string name="sleep_config_enhance_description">MIUI mejorará el uso de energía en espera por la noche</string>
+  <string name="sleep_config_enhance_title">Modos de ahorro nocturno</string>
   <string name="still">Imagen</string>
   <string name="ui">Estándar</string>
   <string name="user_define_mode">Nombre</string>
+  <string name="vip_feedback">Vip Feedback</string>
+  <string name="vip_feedback_apply">Enviar solicitud de Vip Feedback</string>
+  <string name="vip_feedback_apply_msg">Por favor contacte con qiufeng@xiaomi.com para solicitar Vip Feedback</string>
+  <string name="vip_feedback_enable">Habilitar Vip Auto Feedback</string>
 </resources>
