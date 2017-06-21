@@ -60,16 +60,16 @@
         <item quantity="one">%1$d año</item>
     </plurals>
     <plurals name="anniversary_year">
-        <item quantity="other">%1$saños</item>
-        <item quantity="one">%1$saño</item>
+        <item quantity="other">%1$s años</item>
+        <item quantity="one">%1$s año</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="other">%1$sdías</item>
-        <item quantity="one">%1$sdía</item>
+        <item quantity="other">%1$s días</item>
+        <item quantity="one">%1$s día</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">%1$sdías que quedan</item>
-        <item quantity="one">%1$sdía que queda</item>
+        <item quantity="other">Quedan %1$s días</item>
+        <item quantity="one">Queda %1$s día</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d días laborables</item>
