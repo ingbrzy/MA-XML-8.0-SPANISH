@@ -135,9 +135,9 @@
   <string name="bluetooth_pairing_pin_error_message">"No se pudo vincular con %1$s debido a que el PIN o la clave de acceso es incorrecta."</string>
   <string name="bluetooth_pairing_rejected_error_message">Vinculación rechazada por %1$s.</string>
   <string name="bluetooth_pairing_will_share_phonebook">La vinculación permite el acceso a los contactos y al historial de llamadas cuando está conectado.</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Compartiendo conexión Internet local con el dispositivo</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Usar para el acceso a Internet</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Conectado al dispositivo para el acceso a Internet</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Compartiendo conexión internet local con el dispositivo</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Usar para el acceso a internet</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Conectado al dispositivo para el acceso a internet</string>
   <string name="bluetooth_profile_a2dp">Audio multimedia</string>
   <string name="bluetooth_profile_dun">Se utiliza para acceder a redes de acceso telefónico</string>
   <string name="bluetooth_profile_headset">Audio del teléfono</string>
@@ -584,7 +584,7 @@ Desliza hacia abajo para bloquear"</string>
   <string name="wifi_aggressive_handover_summary">Cuando está activado, el Wi-Fi será más agresivo en la entrega de la conexión de datos a móvil, cuando la señal Wi-Fi es baja</string>
   <string name="wifi_allow_scan_with_traffic">Permitir siempre los escaneos Wi-fi con señal baja</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/inhabilitar exploraciones de itinerancia Wi-Fi basadas en la cantidad de tráfico de datos presente en la interfaz</string>
-  <string name="wifi_connected_no_internet">Conectado, sin Internet</string>
+  <string name="wifi_connected_no_internet">Conectado, sin internet</string>
   <string name="wifi_disabled_generic">Desactivado</string>
   <string name="wifi_disabled_network_failure">"No se pudo configurar la IP"</string>
   <string name="wifi_disabled_password_failure">Problema de autenticación</string>

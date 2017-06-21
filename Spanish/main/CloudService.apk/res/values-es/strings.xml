@@ -186,7 +186,7 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_force_sync">sincronizar ahora</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
   <string name="micloud_detail_lastest_with_off">Sincronizado</string>
-  <string name="micloud_detail_need_charge_or_sleep">Conecte el cargador y apague la pantalla para reanudar la sincronización</string>
+  <string name="micloud_detail_need_charge_or_sleep">Conectar el cargador y desactivar la pantalla para sincronizar</string>
   <string name="micloud_detail_not_sync">%d esperando para sincronizar</string>
   <string name="micloud_detail_not_synced">No sincronizado</string>
   <string name="micloud_detail_ok">Aceptar</string>
@@ -241,7 +241,7 @@ Cuando su nube se llene, sus datos antiguos no irán a ninguna parte. Sin embarg
 Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a los nuevos, o puede comprar espacio de almacenamiento adicional."</string>
   <string name="micloud_full_influence_title">Cuando se llene su Mi Cloud…</string>
   <string name="micloud_main_battery_low">No hay batería suficiente para realizar la sincronización</string>
-  <string name="micloud_main_battery_message">Conecte el dispositivo a una fuente de energía para sincronizar</string>
+  <string name="micloud_main_battery_message">Conectar el cargador a la sincronización</string>
   <string name="micloud_main_cancel_sync">Cancelar la sincronización</string>
   <string name="micloud_main_clear_now">Borrar</string>
   <string name="micloud_main_detail">Ver detalles</string>
@@ -269,7 +269,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_sync_exception">Error de sincronización</string>
   <string name="micloud_main_sync_init">Obteniendo información</string>
   <string name="micloud_main_sync_need_charge">Cargue su dispositivo</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">Cargue su dispositivo y desactive la pantalla</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Conectar el cargador y desactivar la pantalla para sincronizar</string>
   <string name="micloud_main_sync_now">Sincronizar ahora</string>
   <string name="micloud_main_sync_on">Sincronización activada</string>
   <string name="micloud_main_sync_on_wifi">Esperando conexión Wi-Fi</string>
@@ -356,7 +356,7 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_sync_alert_dialog_positive">Aceptar</string>
   <string name="micloud_sync_alert_dialog_title">Usar Mi Cloud</string>
   <string name="micloud_sync_off">La sincronización con Mi Cloud está apagada</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">Sincronizar sólo en Contactos, Calendario y Notas, para sincronizar más elementos, vaya al ajuste Mi Cloud.</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Contactos, Calendario y Notas se sincronizan automáticamente. Vaya a la configuración de Mi Cloud para sincronizar más elementos.</string>
   <string name="micloud_title_dspt" formatted="false">"%s en total
  %s usados | %s restantes"</string>
   <string name="micloud_title_dspt_remain">%s restantes</string>
