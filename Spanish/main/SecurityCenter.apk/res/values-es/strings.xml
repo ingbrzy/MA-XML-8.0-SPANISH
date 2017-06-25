@@ -305,6 +305,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="auto_task_notify_do_task_title">Tarea programada iniciada</string>
   <string name="auto_task_notify_exit_task_title">Tarea programada finalizada</string>
   <string name="auto_task_notify_task_cancel_count_down">La acción automatizada será cancelada en 5 segundos</string>
+  <string name="auto_task_notify_task_exit_task">Tarea de salida</string>
   <string name="auto_task_notify_task_cancel_do">Cancelar la acción</string>
   <string name="auto_task_notify_task_canceled_summary">Puede hacer y recibir llamadas</string>
   <string name="auto_task_notify_task_canceled_summary2">"Parece que estás jugando a un juego ahora"</string>
@@ -1278,6 +1279,7 @@ responda</string>
   <string name="power_center_time_to_boot">Hora de encendido</string>
   <string name="power_center_time_to_shutdown">Hora de apagado</string>
   <string name="power_center_title">Gestión de la batería</string>
+  <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_chooser_check_box_summary">Seleccionar un perfil para mejorar la duración de la batería</string>
   <string name="power_chooser_check_box_title">Seleccionar perfil</string>
   <string name="power_chooser_mine_summary">Añadir perfil</string>
@@ -1295,8 +1297,7 @@ responda</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Aplicaciones</string>
   <string name="power_consume_rank_title">Uso de la batería</string>
-  <string name="power_consume_total_hardware">Hardware: %s</string>
-  <string name="power_consume_total_software">Aplicaciones: %s</string>
+  <string name="power_consume_software_total_format">Aplicaciones: %s</string>
   <string name="power_customize_giveup_change">¿Descartar cambios?</string>
   <string name="power_customizer_cancel">Cancelar</string>
   <string name="power_customizer_delete">Eliminar</string>
