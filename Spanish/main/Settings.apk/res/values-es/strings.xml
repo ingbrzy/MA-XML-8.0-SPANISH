@@ -1591,6 +1591,7 @@ Esta opción ayuda a proteger los datos en dispositivos perdidos o robados."</st
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Además de desbloquear este dispositivo con tu huella dactilar, puedes protegerlo aún más haciendo que sea necesario introducir un PIN cuando se inicia. Hasta que el dispositivo se inicie, no podrá recibir llamadas, mensajes ni notificaciones, y tampoco sonarán las alarmas.
 
 Esto te permitirá proteger los datos del dispositivo en caso de pérdida o robo."</string>
+  <string name="encryption_progress_summary">"Encriptando, no reinicie su dispositivo."</string>
   <string name="enforce_read_external_confirm_message">"Cuando la tarjeta SD está protegida, las aplicaciones deben solicitar permiso para leer los datos del almacenamiento externo.
 
 Es posible que algunas aplicaciones no funcionen hasta que los desarrolladores las actualicen."</string>
@@ -2610,9 +2611,6 @@ Seleccione su sistema operativo:"</string>
   <string name="music_hifi_volume">Volumen Hi-Fi</string>
   <string name="music_mi_effect_summary">Usar potenciador Mi Sound cuando se utilicen altavoces</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_notification_headset_custom">Descartar</string>
-  <string name="music_notification_headset_info">Toca para ver los ajustes.</string>
-  <string name="music_notification_headset_settings">Auriculares conectados</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"Los auriculares USB no son compatibles"</string>
   <string name="musicfx_title">Efectos de música</string>
@@ -2827,6 +2825,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ninguno</string>
   <string name="owner_info_settings_title">Información del propietario en la Pantalla de bloqueo</string>
+  <string name="owner_space">Primer espacio</string>
   <string name="packages_subtitle">Paquetes incluidos</string>
   <string name="page_layout_1">Domingo, 16 Agosto</string>
   <string name="page_layout_10">Configuración</string>
@@ -3936,6 +3935,7 @@ Es posible que el PIN no sea correcto."</string>
   <string name="sim_lock_settings_category">Configurar bloqueo SIM</string>
   <string name="sim_lock_settings_title">Bloqueo SIM</string>
   <string name="sim_management_title">Tarjetas SIM y redes móviles</string>
+  <string name="sim_management_title_cr_kolbi">Tarjeta SIM y redes móviles</string>
   <string name="sim_missing">missing or error</string>
   <string name="sim_multi_sims_summary">Selecciona la SIM que prefieras usar para datos móviles.</string>
   <string name="sim_multi_sims_title">Varias SIM encontradas</string>

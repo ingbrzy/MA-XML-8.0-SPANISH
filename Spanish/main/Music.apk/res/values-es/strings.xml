@@ -407,7 +407,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="global_search_title_radar">Reconocimiento de música</string>
   <string name="group_artist">Bandas</string>
   <string name="handle_later">No ahora</string>
-  <string name="headset_settings">Ajustes de auriculares</string>
   <string name="higher_quality_music">Música de alta calidad</string>
   <string name="higher_quality_music_summary">Escuchar y descargar música a mayor tasa de bits</string>
   <string name="home_tab_local">Mi música</string>
@@ -446,7 +445,7 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="load_shuffle">Cargando…</string>
   <string name="loadercontainer_loading">Un momento…</string>
   <string name="loading_hint">Un momento…</string>
-  <string name="local_music">Local</string>
+  <string name="local_music">Música local</string>
   <string name="local_music_empty">La lista de reproducción local está vacía</string>
   <string name="local_music_empty_goto_online">No se encontraron canciones</string>
   <string name="local_music_is_not_available">La música local no está disponible</string>
@@ -587,9 +586,6 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="notification_download_success_more">%1$d downloaded</string>
   <string name="notification_favorite_summary">Reciba notificaciones acerca de nuevos lanzamientos y noticias de éxitos</string>
   <string name="notification_favorite_title">Notificación sobre los artistas favoritos</string>
-  <string name="notification_headset_custom">Descartar</string>
-  <string name="notification_headset_info">Pulse para configurar.</string>
-  <string name="notification_headset_settings">Auriculares conectados</string>
   <string name="notification_need_wifi_for_size">Tamaño del archivo requiere Wi-Fi.</string>
   <string name="notification_play_summary">Ver canción actual y la siguiente, mostrar letras de las canciones en la Pantalla de inicio.</string>
   <string name="notification_play_title">Widget de panel de notificaciones</string>
@@ -905,16 +901,16 @@ es proporcionado principalmente por Ultimate Inc."</string>
   <string name="upgrade_waringing">Sólo podrás escuchar la música almacenada en el dispositivo.</string>
   <string name="valid_period">Válido: %s</string>
   <string name="version_info">Versión</string>
+  <string name="vip_after_tomorrow_auto_renew_message">Su suscripción de Música se renovará automáticamente la noche del día después de mañana. Asegúrese de tener suficientes Mi Credits en su cuenta para completar este pago.</string>
+  <string name="vip_after_tomorrow_renew_message">"No será capaz de escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad regular."</string>
   <string name="vip_auto_renew_message">Tu suscripción de Música será renovada automáticamente esta noche. Asegúrate de tener suficientes Créditos Mi en tu cuenta para completar el pago.</string>
-  <string name="vip_auto_renew_notification_message">Añade Créditos Mi para renovar tu suscripción de Música.</string>
-  <string name="vip_auto_renew_notification_title">Pago de suscripción</string>
   <string name="vip_auto_renew_title">Renovación de suscripción</string>
   <string name="vip_renew_message">No podrás escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad normal.</string>
-  <string name="vip_renew_notification_message">No podrás escuchar música en streaming de alta calidad cuando tu suscripción expire.</string>
-  <string name="vip_renew_notification_title">La suscripción expira mañana</string>
   <string name="vip_renew_title">Suscripción expirada</string>
   <string name="vip_required">Obtenga Paquete de Canciones Premium para reproducir esta canción. Se saltó la canción por ahora.</string>
   <string name="vip_required_with_song">Obtenga Paquete de Canciones Premium para escuchar “%s”. Se saltó la canción por ahora.</string>
+  <string name="vip_tomorrow_auto_renew_message">Su suscripción de Música se renovará automáticamente mañana por la noche. Asegúrese de tener suficientes Mi Credits en su cuenta para completar este pago.</string>
+  <string name="vip_tomorrow_renew_message">"No será capaz de escuchar música en streaming de alta calidad, pero algunas canciones estarán disponibles en calidad regular."</string>
   <string name="warning_tip_cancel">Descargar</string>
   <string name="warning_tip_content">Ya no tienes conexión mediante red Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="warning_tip_ok">Pausar</string>
