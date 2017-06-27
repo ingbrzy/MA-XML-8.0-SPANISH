@@ -38,6 +38,7 @@
   <string name="add_card">Añadir tarjeta</string>
   <string name="add_countdown">Añadir cuenta atrás</string>
   <string name="add_event">Añadir evento</string>
+  <string name="agenda_month_empty_hint">Hoy no hay eventos</string>
   <string name="agenda_today">HOY, %1$s</string>
   <string name="agenda_tomorrow">MAÑANA, %1$s</string>
   <string name="agenda_view">Agenda</string>
@@ -268,6 +269,7 @@
   <string name="item_num_selected">%1$d seleccionado</string>
   <string name="joke_card_icon_text">%1$s las personas ríen</string>
   <string name="jump_date_full">Ir a fecha</string>
+  <string name="load_more_hint">Actualizar eventos de %1$d</string>
   <string name="loading">Cargando…</string>
   <string name="local_calendar_display_name">Calendario local</string>
   <string name="local_owner_account_name">Guardado en este dispositivo</string>
@@ -307,6 +309,7 @@
   <string name="new_event_dialog_label">Nuevo evento</string>
   <string name="new_event_dialog_option">Nuevo evento</string>
   <string name="no_contact_birthday_hint">No hay cumpleaños para importar</string>
+  <string name="no_events_hint">No hay eventos</string>
   <string name="no_network">"No se pudo conectar a la red.
 Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="no_network_btn">Try again</string>
@@ -363,9 +366,11 @@ Compruebe la configuración de la red y vuelva a intentarlo."</string>
   <string name="preferences_use_home_tz_title">Usar zona horaria propia</string>
   <string name="preferences_week_start_day_dialog">La semana comienza en</string>
   <string name="preferences_week_start_day_title">La semana comienza en</string>
+  <string name="pull_to_refresh_hint">Tire para actualizar los eventos de %1$d</string>
   <string name="presence_label">Estado</string>
   <string name="privacy_label">Privacidad</string>
   <string name="refresh">Actualizar</string>
+  <string name="refreshing_hint">Actualizando</string>
   <string name="reminders_label">Añadir recordatorio</string>
   <string name="repeat_activity_label">Repetir</string>
   <string name="repeat_custom_activity_label">Personalizar</string>
