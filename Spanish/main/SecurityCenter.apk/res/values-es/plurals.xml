@@ -113,6 +113,14 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="few">%1$d visitas</item>
         <item quantity="many">%1$d visitas</item>
     </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Se encontraron %d virus y aplicaciones inseguras</item>
+        <item quantity="one">Se ha encontrado una virus en una aplicación</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Se encontraron %d aplicaciones no oficiales</item>
+        <item quantity="one">Se encontró una aplicación no oficial</item>
+    </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d ítems</item>
         <item quantity="one">1 ítem</item>
