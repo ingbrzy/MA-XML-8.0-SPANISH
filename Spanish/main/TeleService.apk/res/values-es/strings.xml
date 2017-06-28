@@ -118,6 +118,7 @@
   <string name="callFailed_userBusy">Línea ocupada</string>
   <string name="callUnanswered_forwarded">Llamada perdida y reenviada</string>
   <string name="call_advanced_setting_title">Ajustes avanzados</string>
+  <string name="call_background_default">Por defecto</string>
   <string name="call_background_lock_wallpaper">Fondo de pantalla de bloqueo</string>
   <string name="call_background_setting">Llamada en segundo plano</string>
   <string name="call_barring">Restricción de llamadas</string>
@@ -851,6 +852,7 @@ Su teléfono se bloqueará automáticamente después del último intento fallido
   <string name="preference_category_ringtone">Tono y vibración</string>
   <string name="preference_data_usage_summary">Establecer el plan de datos para controlar el uso de datos móviles</string>
   <string name="preference_data_usage_title">Ajustes de uso de datos</string>
+  <string name="preference_dial_pad_touch_tone_default">Por defecto</string>
   <string name="preference_dial_pad_touch_tone_off">Apagado</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Tonos del teclado de llamada</string>
@@ -1029,6 +1031,12 @@ Su tarjeta SIM podría eliminarse después del último intento fallido."</string
   <string name="ruim_unlock_success">RUIM desbloqueada correctamente.</string>
   <string name="save">Guardar</string>
   <string name="saving_account">Guardando…</string>
+  <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
+  <string name="screen_zoom_summary_default">Por defecto</string>
+  <string name="screen_zoom_summary_extremely_large">Super grande</string>
+  <string name="screen_zoom_summary_large">Grande</string>
+  <string name="screen_zoom_summary_small">Pequeña</string>
+  <string name="screen_zoom_summary_very_large">Más grande</string>
   <string name="search_antispam_setting">Lista de bloqueos</string>
   <string name="search_app_name">Teléfono;Grabación de llamada;Redirigir llamada;redirección;Llamada en espera;Lista Negra;Código de país;Código de área;Códigos de país;Códigos de área;Record calls;Grabar llamada;Marcador;Llamada;Llamadas;Telefonía;VozIP;VoLTE;Llamada perdida;Llamadas perdidas;SIP;T9;IP Telefonía;FDN</string>
   <string name="search_networks">Buscar redes</string>
