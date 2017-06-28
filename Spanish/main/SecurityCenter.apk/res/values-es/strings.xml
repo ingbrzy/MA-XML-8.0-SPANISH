@@ -18,7 +18,7 @@
   <string name="STRANGER_BLOCK">Lista de bloqueo de desconocidos</string>
   <string name="Setting_lock">Ajustes</string>
   <string name="Settings_title_anti_spam">Ajustes de la lista de bloqueo</string>
-  <string name="Settings_title_anti_virus">Configuración de antivirus</string>
+  <string name="Settings_title_anti_virus">Ajustes de escaneo de seguridad</string>
   <string name="Settings_title_garbage_cleanup">Configuración del limpiador</string>
   <string name="Settings_title_network_assistants">Configuración de uso de datos</string>
   <string name="Settings_title_power_center">Ajustes de la batería</string>
@@ -42,7 +42,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="action_button_text_80_100">Optimizar</string>
   <string name="action_source_sms_title">SMS bloqueados</string>
   <string name="activity_title_antispam">Lista de bloqueo</string>
-  <string name="activity_title_antivirus">Escáner de virus</string>
+  <string name="activity_title_antivirus">Escaneo de seguridad</string>
   <string name="activity_title_apps_manager">Aplicaciones</string>
   <string name="activity_title_auto_start_manager">Inicio automático</string>
   <string name="activity_title_create_shortcut">Gestionar accesos directos</string>
@@ -607,13 +607,13 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dialog_app_roaming_title">%1$s no pudo utilizar el roaming de datos</string>
   <string name="dialog_msg_auto_start_declare">Algunas aplicaciones podrían indicar incorrectamente que MIUI ha evitado que se iniciaran. Comprueba los permisos que se le han dado a cada aplicación en Ajustes &gt; aplicaciones.</string>
   <string name="dialog_msg_stop_paysafety_scan">¿Detener la comprobación de seguridad cuando haga pagos?</string>
-  <string name="dialog_msg_stop_virus_scan">¿Detener escaneo de virus antes de haber terminado?</string>
+  <string name="dialog_msg_stop_virus_scan">"¿Detener la exploración de seguridad antes de que termine?"</string>
   <string name="dialog_roaming_message">Su compañía podría cobrarle cargos adicionales por el uso de datos en roaming.</string>
   <string name="dialog_roaming_title">¿Permitir roaming de datos?</string>
   <string name="dialog_title_attention">Advertencia</string>
   <string name="dialog_title_auto_start_declare">Acerca del inicio automático</string>
   <string name="dialog_title_stop_paysafety_scan">Detener</string>
-  <string name="dialog_title_stop_virus_scan">Detener escaneo de virus</string>
+  <string name="dialog_title_stop_virus_scan">Detener la exploración de seguridad</string>
   <string name="disable_air_mode">Primero desactive el modo avión</string>
   <string name="dlg_add_blacklist">¿Bloquear este número?</string>
   <string name="dlg_add_blacklist_title">Añadir a lista de bloqueo</string>
