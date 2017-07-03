@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">Pronóstico para %1$s días</item>
+        <item quantity="one">Pronóstico para %1$s día</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">hace %d minutos</item>
         <item quantity="one">hace %d minuto</item>
@@ -27,5 +31,9 @@
     <plurals name="no_vote_num">
         <item quantity="other">%1$s personas | </item>
         <item quantity="one">%1$s persona | </item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s segundos después del comentario</item>
+        <item quantity="one">%1$s segundo después del comentario</item>
     </plurals>
 </resources>
