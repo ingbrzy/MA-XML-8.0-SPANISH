@@ -66,7 +66,8 @@
   <string name="album_type_system">Álbumes del sistema</string>
   <string name="album_videos_name">Vídeos</string>
   <string name="alert_secret_album_enter">Continuar</string>
-  <string name="alert_secret_album_message">Desliza el dedo hacia abajo mientras estás en la pestaña Álbumes para ver el álbum oculto.</string>
+  <string name="alert_secret_album_message">Deslice el dedo hacia abajo mientras está en la pestaña Álbumes para ver el álbum oculto.</string>
+  <string name="alert_secret_album_message_lower_case"> deslice el dedo hacia abajo mientras está en la pestaña Álbumes para ver el álbum oculto.</string>
   <string name="alert_secret_album_title">Cómo ver un álbum oculto</string>
   <string name="all_faces">Las fotos con esta persona</string>
   <string name="all_items_synced">Todos los álbumes han sido copiados a Mi Cloud</string>
@@ -145,6 +146,9 @@
   <string name="backup_pause_title">Copia de seguiridad en %s</string>
   <string name="backup_pending">Se hará una copia de seguridad automáticamente</string>
   <string name="backup_stop">Detener copia de seguridad</string>
+  <string name="backup_sync_dialog_confirm">Activar</string>
+  <string name="backup_sync_dialog_tips">Active la sincronización con Mi Cloud para cambiar los ajustes de las copias de seguridad.</string>
+  <string name="backup_sync_dialog_title">La sincronización está desactivada</string>
   <string name="backup_sync_error_btn_text">Inténtalo de nuevo</string>
   <string name="backup_sync_error_desc">"No se puede conectar a Mi Cloud"</string>
   <string name="backup_sync_error_title">"No se pudieron sincronizar elementos"</string>
@@ -214,11 +218,11 @@
   <string name="cloudfolder_name_cannot_empty">Introduzca un nombre para el álbum</string>
   <string name="cloudfolder_name_reserved">El nombre del álbum está reservado</string>
   <string name="collaps_people">Ocultar</string>
-  <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">Zona QQ</string>
-  <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
-  <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">Momentos WeChat</string>
-  <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
+  <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Zona Q</string>
+  <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Momentos WeChat</string>
+  <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">OK</string>
   <string name="confirm_download_video_message">Acabe de descargar este vídeo para empezar a verlo. La descarga continuará cuando esté disponible una red Wi-Fi.</string>
   <string name="confirm_download_video_title">Descargar vídeo</string>
@@ -350,7 +354,7 @@
   <string name="exit">Salir</string>
   <string name="exit_share">Salir del álbum</string>
   <string name="exit_share_failed">Fallo al salir %1$s</string>
-  <string name="exit_share_in_process">Saliendo…</string>
+  <string name="exit_share_in_process">Saliendo del álbum \"%s\"…</string>
   <string name="exit_share_successfully">Cerrado %1$s</string>
   <string name="exit_video_play">Salir</string>
   <string name="expand_people">Mostrar más personas</string>
