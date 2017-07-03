@@ -3048,6 +3048,14 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="priority_storage_settings_summary">"Si no se detecta ninguna SD, los datos del usuario se guardarán automáticamente en la memoria interna de su dispositivo "</string>
   <string name="priority_storage_summary">Elija dónde guardar sus datos</string>
   <string name="priority_storage_title">Ajustes de almacenamiento</string>
+  <string name="privacy_close_dlg_button_ok">Apagado</string>
+  <string name="privacy_close_dlg_msg">Cuando la contraseña de protección de privacidad está desactivada, los elementos ya no estarán protegidos.</string>
+  <string name="privacy_close_dlg_title">Atención</string>
+  <string name="privacy_delete_space_dlg_message">Para cambiar la contraseña del Segundo espacio, debe eliminar su Segundo espacio actual y crear uno nuevo.</string>
+  <string name="privacy_dlg_button_cancel">Cancelar</string>
+  <string name="privacy_factory_reset_dlg_button_text">Reiniciar</string>
+  <string name="privacy_factory_reset_dlg_message">"Si olvida su contraseña, tendrá que realizar un restablecimiento de fábrica para establecer uno nuevo."</string>
+  <string name="privacy_factory_reset_dlg_title">Copia de seguridad de sus datos</string>
   <string name="privacy_childmode">Modo niño</string>
   <string name="privacy_file">Archivos</string>
   <string name="privacy_gallery">Fotos</string>
@@ -3086,6 +3094,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="privacy_password_settings_titles_elder_mode">La protección de privacidad por contraseña protege sus fotos, archivos y notas.</string>
   <string name="privacy_password_settings_titles_second_space">La protección de privacidad por contraseña protege sus fotos, archivos y notas.</string>
   <string name="privacy_password_title">Contraseña de privacidad</string>
+  <string name="privacy_password_toggle_summary">Requerir contraseña cada vez que se accede a elementos privados.</string>
   <string name="privacy_password_use_finger_dialog_mess">También puede utilizar su huella dactilar con la contraseña de protección de privacidad.</string>
   <string name="privacy_password_use_finger_dialog_open">Ajustes</string>
   <string name="privacy_password_use_finger_dialog_title">Desbloqueo de huellas dactilares</string>
