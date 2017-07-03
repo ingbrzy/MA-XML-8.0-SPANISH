@@ -40,7 +40,6 @@
   <string name="mibi_change_security_lock">More screen locks</string>
   <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Product</string>
-  <string name="mibi_deduct_open">Turn on</string>
   <string name="mibi_deduct_open_prompt">%1$s will be able to charge you automatically using %2$s without verification.You can turn this feature off in %1$s</string>
   <string name="mibi_deduct_order_price">Price</string>
   <string name="mibi_deduct_pay_group_title">Select deduction method</string>
@@ -69,7 +68,6 @@
   <string name="mibi_detail_recharge_order">Top-up Order No.</string>
   <string name="mibi_detail_recharge_time">Time</string>
   <string name="mibi_detail_recharge_title">Top-up records</string>
-  <string name="mibi_direct_pay_group_title">Choose payment method</string>
   <string name="mibi_direct_pay_novalid_method">No valid payment method.</string>
   <string name="mibi_direct_payment_title">Order info</string>
   <string name="mibi_enter_failed">Open failed</string>
@@ -171,6 +169,14 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>
   <string name="mibi_msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
   <string name="mibi_msg_telecom_sending">Contacting network provider…</string>
+  <string name="mibi_order_balance_lable">Mi Credits</string>
+  <string name="mibi_order_balance_lable_append">Mi Credits + coupon</string>
+  <string name="mibi_order_balance_title">My Mi Credits</string>
+  <string name="mibi_order_no_use_balance">Nonuse</string>
+  <string name="mibi_order_pay_back">Confirm</string>
+  <string name="mibi_order_pay_type">Payment method</string>
+  <string name="mibi_order_pay_type_title">Select payment method</string>
+  <string name="mibi_order_title">Payment</string>
   <string name="mibi_other_denomiantion">Select amount</string>
   <string name="mibi_partner_giftcard_payment_with_append">Apply %1$s</string>
   <string name="mibi_password_error">Password incorrect.</string>
