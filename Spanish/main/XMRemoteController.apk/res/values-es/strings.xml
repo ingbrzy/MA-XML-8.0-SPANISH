@@ -71,6 +71,13 @@
   <string name="app_frequency_normal">Alguna vez</string>
   <string name="app_install">Instalar en Mi TV</string>
   <string name="app_install_count">%1$s instaladas</string>
+  <string name="app_install_dialog_install_complete">Instalado correctamente</string>
+  <string name="app_install_dialog_install_failed">"No se pudo instalar"</string>
+  <string name="app_install_dialog_installing">Instalando…</string>
+  <string name="app_install_dialog_negative_text">Cancelar</string>
+  <string name="app_install_dialog_positive_text">Instalar</string>
+  <string name="app_install_dialog_search_failed">"No se pudo encontrar aplicaciones"</string>
+  <string name="app_install_dialog_searching">Buscando aplicaciones…</string>
   <string name="app_installing">Instalando…</string>
   <string name="app_lastest">Último</string>
   <string name="app_listitem_installing">Instalando</string>
@@ -119,13 +126,39 @@
   <string name="by">Soportado por </string>
   <string name="by_position">Por ubicación</string>
   <string name="camera_shoot">Obturador</string>
-  <string name="cancel">Cancelar</string>
+  <string name="cancel">Salir</string>
   <string name="cancel_select_all">Desmarcar todos</string>
   <string name="cancel_share">Dejar de compartir</string>
   <string name="cancel_share_done">Se ha dejado de compartir</string>
   <string name="cancel_timer">Cancelar temporizador</string>
   <string name="cannot_be_used_in_current_mode">No se puede usar &lt;%1$s&gt; en el modo actual</string>
   <string name="carrier_data">Información de la operadora</string>
+  <string name="catalyst_debugjs">Depurar en Chrome</string>
+  <string name="catalyst_debugjs_off">Detener la depuración de Chrome</string>
+  <string name="catalyst_element_inspector">Mostrar inspector</string>
+  <string name="catalyst_element_inspector_off">Ocultar el inspector</string>
+  <string name="catalyst_hot_module_replacement">Habilitar reemplazo de módulo caliente</string>
+  <string name="catalyst_hot_module_replacement_off">Desactivar reemplazo de módulo caliente</string>
+  <string name="catalyst_jsload_error">"No se puede descargar el paquete JS desde el servidor de dev.
+
+Intente lo siguiente para solucionar el problema:
+• Asegúrese de que el servidor se está ejecutando
+• Asegúrese de que su dispositivo / emulador está conectado a su máquina y tiene habilitada la depuración USB - ejecute 'adb devices' para ver una lista de dispositivos conectados
+• Si está en un dispositivo físico conectado a la misma máquina, ejecute 'adb reverse tcp:8081 tcp:8081' para reenviar solicitudes desde su dispositivo
+• Si su dispositivo se encuentra en la misma red Wi-Fi, configure 'Depurar servidor host y puerto para dispositivo' en 'Ajustes de desarrollador' en la dirección IP de su máquina y en el puerto del servidor de dev local - e.g. 10.0.1.1:8081"</string>
+  <string name="catalyst_jsload_message">Obtención del paquete JS</string>
+  <string name="catalyst_jsload_title">Por favor espera…</string>
+  <string name="catalyst_live_reload">Habilitar la recarga en vivo</string>
+  <string name="catalyst_live_reload_off">Inhabilitar la recarga en vivo</string>
+  <string name="catalyst_perf_monitor">Habilitar Perf Monitor</string>
+  <string name="catalyst_perf_monitor_off">Desactivar Monitor de rendimiento</string>
+  <string name="catalyst_reloadjs">Recargar JS</string>
+  <string name="catalyst_remotedbg_error">No se puede conectar con depurador remoto</string>
+  <string name="catalyst_remotedbg_message">Conexión al depurador remoto</string>
+  <string name="catalyst_settings">Ajustes del desarrollador</string>
+  <string name="catalyst_settings_title">Ajustes de Catalyst Dev</string>
+  <string name="catalyst_start_profile">Iniciar perfil</string>
+  <string name="catalyst_stop_profile">Detener perfil</string>
   <string name="change_to_channel">Cambiar de canal [%1$s] %2$s</string>
   <string name="channel">Canal</string>
   <string name="channel_added_to_fav">%1$s añadido a favoritos</string>
@@ -160,8 +193,9 @@
   <string name="cool_mode">Refrigeración</string>
   <string name="create_shortcut">Añadir acceso directo al escritorio</string>
   <string name="create_shortcut_cancel">No, gracias</string>
-  <string name="create_shortcut_confirm">Crear</string>
-  <string name="create_shortcut_done">Creado con éxito</string>
+  <string name="create_shortcut_confirm">Añadir</string>
+  <string name="create_shortcut_done">Agregado exitosamente</string>
+  <string name="create_shortcut_failed">"No se pudo agregar acceso directo Asegúrese de que Mi Remote tenga los permisos necesarios."</string>
   <string name="current_place">Ubicación actual: </string>
   <string name="current_play">Ahora reproduciendo: </string>
   <string name="current_stb">Actual: </string>
@@ -183,6 +217,19 @@
   <string name="device_model">Modelo</string>
   <string name="device_responsed">El dispositivo ha respondido</string>
   <string name="device_type">Tipo</string>
+  <string name="devicetype1">TV</string>
+  <string name="devicetype10">Proyector</string>
+  <string name="devicetype10001">Mi TV/Mi Box</string>
+  <string name="devicetype11">Tv por satélite</string>
+  <string name="devicetype12">Box</string>
+  <string name="devicetype13">DSLR</string>
+  <string name="devicetype14">Bombilla</string>
+  <string name="devicetype2">Decodificador</string>
+  <string name="devicetype3">AC</string>
+  <string name="devicetype4">DVD</string>
+  <string name="devicetype5">IPTV</string>
+  <string name="devicetype6">Ventilador</string>
+  <string name="devicetype8">Receptor A/V</string>
   <string name="diagnose">Probar control</string>
   <string name="diagnosis_intro">Prueba de red para problemas de conectividad</string>
   <string name="dialog_install_assistant_content">Instalar la transmisión de Mi Screen para sacar el máximo provecho de Mi TV o Mi Box</string>
