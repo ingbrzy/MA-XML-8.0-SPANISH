@@ -339,9 +339,16 @@ Intente lo siguiente para solucionar el problema:
   <string name="fav">Destacar</string>
   <string name="favorite_channel">Canales recientes</string>
   <string name="feedback">Comentarios</string>
+  <string name="feedback_desc_default">"Algunos botones no funcionan"</string>
+  <string name="feedback_desc_hint">Describa el problema</string>
   <string name="feedback_error">Notificar error</string>
   <string name="feedback_error_success_tip">Enviado con éxito</string>
   <string name="feedback_error_tips">Hay problemas con este control remoto, pulse para notificar un problema</string>
+  <string name="feedback_input_desc">Describa el problema aquí.</string>
+  <string name="feedback_issue_desc">Describa el problema</string>
+  <string name="feedback_keys">Comentarios</string>
+  <string name="feedback_keys_success">¡Gracias por tus comentarios!</string>
+  <string name="feedback_keys_tips">"Si los botones no funcionan, envíenos sus comentarios"</string>
   <string name="find_adb_frame">%1$d dispositivos ADB detectados</string>
   <string name="find_milink_frame">%1$d Mi dispositivos detectados</string>
   <string name="fix_keys">Reparar botones</string>
@@ -364,8 +371,11 @@ Intente lo siguiente para solucionar el problema:
   <string name="guid_two">· Los dispositivos se detectarán y se mostrarán en esta página</string>
   <string name="guid_zero">. Su dispositivo no soporta dispositivos infrarrojos, pero soporta controles remotos Wi-Fi.</string>
   <string name="guide">Guía</string>
+  <string name="guide_title_one">Su teléfono no es compatible con infrarrojos, no puede controlar dispositivos infrarrojos de control remoto</string>
+  <string name="guide_title_three">Instrucciones</string>
+  <string name="guide_title_two">Pero usted puede controlar Mi TV y Mi boxes con Wi-Fi</string>
   <string name="has_installed">Instalado</string>
-  <string name="hd_channel_preferred">Preferir vídeos HD</string>
+  <string name="hd_channel_preferred">Decodificador HD</string>
   <string name="help">Ayuda</string>
   <string name="history_none">No ha visto ningún vídeo.</string>
   <string name="history_title">Historia</string>
@@ -418,6 +428,7 @@ Intente lo siguiente para solucionar el problema:
   <string name="ir_device_sound">Altavoces</string>
   <string name="ir_device_stb">Decodificador</string>
   <string name="ir_device_tv">TV</string>
+  <string name="ir_device_water_heater">Calentador de agua</string>
   <string name="ir_device_wifi">Control remoto Wi-Fi</string>
   <string name="ir_not_supported_devices">* Mi TV 3/Mi TV Bar/Mi Box 3/Mi Box no suportan infrarrojos. Intente usar control remoto por Wi-Fi.</string>
   <string name="jump_to_mivideo">Ver en dispositivo móvil</string>
@@ -605,6 +616,7 @@ espere un momento después de la tarea."</string>
   <string name="oscillation">Oscilación</string>
   <string name="other">Otros</string>
   <string name="outdoor_temp_unknown">Desconocido</string>
+  <string name="pair_server_data_only">Recomendamos el uso de datos en línea para los controles remotos nuevos</string>
   <string name="partner">Asistencia</string>
   <string name="passport_access_denied">Acceso denegado</string>
   <string name="passport_account_hint_text">Correo electrónico o ID Cuenta MI</string>
@@ -679,7 +691,7 @@ link enviado a su correo electrónico.</string>
   <string name="passport_login">Iniciar session</string>
   <string name="passport_login_failed">No se pudo iniciar sesión</string>
   <string name="passport_login_instead_reg">Usar este número</string>
-  <string name="passport_login_instead_reg_with_email">Usar este Email</string>
+  <string name="passport_login_instead_reg_with_email">Usar este email</string>
   <string name="passport_login_prompt">Una Cuenta Mi. Todos los servicios Mi.</string>
   <string name="passport_login_title">Iniciar sesión con Cuenta Mi</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Otras formas de iniciar sesión&lt;/u&gt;</string>
@@ -708,7 +720,7 @@ link enviado a su correo electrónico.</string>
   <string name="passport_reg_using_other_phone">&lt;u&gt;Utilizar número de teléfono alternativo&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">Crear una nueva cuenta usando </string>
   <string name="passport_reg_using_phone_number_prompt">Crear cuenta usando un número de teléfono</string>
-  <string name="passport_reg_via_sms_alert">Su operador puede cobrar por un mensaje SMS usado para activar este servicio.</string>
+  <string name="passport_reg_via_sms_alert">Es posible que se requiera un mensaje SMS saliente para activar este servicio. Su operador le cobrará por este mensaje.</string>
   <string name="passport_reging">Creando cuenta…</string>
   <string name="passport_register">Crea una cuenta</string>
   <string name="passport_register_account_goto_email">Ir a su bandeja de entrada</string>
@@ -767,6 +779,7 @@ link enviado a su correo electrónico.</string>
   <string name="please_select_stb">Seleccione el decodificador</string>
   <string name="please_select_tv">Seleccionar TV</string>
   <string name="pm_2.5">PM2.5:</string>
+  <string name="pm_2.5_out">PM2.5 al aire libre:</string>
   <string name="popup_installed_app_no_app">Obteniendo aplicaciones, espere un minuto e inténtelo otra vez</string>
   <string name="popup_installed_app_title">Seleccione la aplicación que quiere abrir en la TV</string>
   <string name="popup_select_device">Seleccione el control remoto por Wi-Fi</string>
@@ -875,6 +888,7 @@ link enviado a su correo electrónico.</string>
   <string name="search_history">Historial de búsqueda</string>
   <string name="search_history_clear">Borrar historial</string>
   <string name="search_history_empty">Sin historial de búsquedas</string>
+  <string name="search_menu_title">Buscar/string>
   <string name="search_more_failed">No se pudo cargar resultados</string>
   <string name="search_no_result">Sin resultados</string>
   <string name="search_page_all_app_result">Ver todos</string>
@@ -1034,7 +1048,7 @@ link enviado a su correo electrónico.</string>
   <string name="upgrading">Actualizando…</string>
   <string name="use_tv_power_key">"Utilice el botón de encendido de %1$s
 Para cambiar, mantenga presionado el botón de encendido de TV"</string>
-  <string name="user_title">Perfil</string>
+  <string name="user_title">Mi cuenta</string>
   <string name="video">Vídeos</string>
   <string name="video_actor_label">"Reparto: "</string>
   <string name="video_all_category">Todas las categorías</string>
