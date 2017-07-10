@@ -60,6 +60,10 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">%d aplicaciones encontradas</item>
         <item quantity="one">%d aplicación encontrada</item>
     </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">"%d aplicaciones no funcionan correctamente y drenan la batería"</item>
+        <item quantity="one">"%d aplicación no funciona correctamente y drena la batería"</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d días "</item>
         <item quantity="one">"%d día "</item>
@@ -92,17 +96,10 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">Se encontraron %d problemas con la batería, arréglelos</item>
         <item quantity="one">Se encontró %d problema con la batería, arréglelo</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d problemas pueden ser arreglados</item>
-        <item quantity="one">%d problema puede ser arreglado</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">Descargado por %1$d personas</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Descargado por %1$d personas</item>
-    </plurals>
-    <plurals name="million">
         <item quantity="other">Descargado por %1$d personas</item>
     </plurals>
     <plurals name="view_num">
@@ -125,10 +122,6 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">%d ítems</item>
         <item quantity="one">1 ítem</item>
     </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s riesgos de pago</item>
-        <item quantity="one">%s riesgo de pago</item>
-    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s aplicaciones de pago están protegidas</item>
         <item quantity="one">%s aplicación de pago está protegida</item>
@@ -140,10 +133,6 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s aplicaciones no están protegidas</item>
         <item quantity="one">"%s aplicación no está protegida</item>
-    </plurals>
-    <plurals name="scan_result_description">
-        <item quantity="other">Encontrados %d riesgos para los pagos</item>
-        <item quantity="one">Encontrado %d riesgo para el pago</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elementos de seguridad</item>
@@ -201,18 +190,6 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">%d troyanos,</item>
         <item quantity="one">%d troyano,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d riesgos</item>
-        <item quantity="one">%d riesgo</item>
-    </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d riesgos encontrados, arreglar ahora</item>
-        <item quantity="one">%d riesgo encontrado, arreglar ahora</item>
-    </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">Solucionado %1$d problemas. Todo se ve bien ahora.</item>
-        <item quantity="one">Solucionado %1$d problema. Todo se ve bien ahora.</item>
-    </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicaciones peligrosas: %d</item>
         <item quantity="one">Aplicación peligrosa: %d</item>
@@ -220,10 +197,6 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <plurals name="white_list_trojan_header">
         <item quantity="other">Troyanos: %d</item>
         <item quantity="one">Troyano: %d</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d aplicaciones tienen riesgos de privacidad</item>
-        <item quantity="one">%d aplicación tiene riesgo de privacidad</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Espere %d segundos e inténtelo de nuevo. "</item>
@@ -262,34 +235,6 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="other">Añadidos %d juegos</item>
         <item quantity="one">Añadido %d juego</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Hay disponibles actualizaciones para %d aplicaciones</item>
-        <item quantity="one">Hay disponible una actualización para %d aplicación</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">Contactos accedidos %d veces</item>
-        <item quantity="one">Contacto accedido %d vez</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">Hechas %d llamadas</item>
-        <item quantity="one">Hecha %d llamada</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">Enviados %d SMS</item>
-        <item quantity="one">Enviado %d SMS</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">Leídos los  SMS %d veces</item>
-        <item quantity="one">Leído el  SMS %d vez</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">Leído el registro de llamadas %d veces</item>
-        <item quantity="one">Leído el registro de llamdas %d vez</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">Accedido %d veces</item>
-        <item quantity="one">Accedido %d vez</item>
-    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">Permitido %d permisos</item>
         <item quantity="one">Permitido %d permiso</item>
@@ -307,15 +252,15 @@ Si vuelve a activar los datos móviles, su operador puede cobrarle por datos adi
         <item quantity="one">Bloqueado %d vez</item>
     </plurals>
     <plurals name="app_usage_day">
-         <item quantity="other">"No se ha utilizado durante %d días"</item>
-         <item quantity="one">"No se ha utilizado durante %d día"</item>
+         <item quantity="other">Usado hace %d días</item>
+         <item quantity="one">Usado hace %d día</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">"No se ha utilizado durante %d meses"</item>
-        <item quantity="one">"No se ha utilizado durante %d mes"</item>
+        <item quantity="other">Usado hace %d meses</item>
+        <item quantity="one">Usado hace %d mes</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">"No se ha utilizado durante %d años"</item>
-        <item quantity="one">"No se ha utilizado durante %d año"</item>
+        <item quantity="other">Usado hace %d años</item>
+        <item quantity="one">Usado hace %d año</item>
     </plurals>
 </resources>
