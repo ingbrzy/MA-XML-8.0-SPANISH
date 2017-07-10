@@ -28,29 +28,11 @@
         <item>"Wi-Fi utilizado hoy "</item>
         <item>"Wi-Fi utilizado este mes "</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>Datos móviles utilizados ayer</item>
-        <item>Datos móviles utilizados hoy</item>
-        <item>Datos móviles utilizados este mes</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 segs</item>
-        <item>4 segs</item>
-        <item>5 segs</item>
-        <item>6 segs</item>
-        <item>7 segs</item>
-        <item>8 segs</item>
-        <item>9 segs</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"Uso de datos móviles "</item>
         <item>"Uso de Wi-Fi "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Uso de datos móviles "</item>
-        <item>"Uso de Wi-Fi "</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
         <item>"Uso de datos móviles "</item>
         <item>"Uso de Wi-Fi "</item>
     </string-array>
@@ -68,23 +50,25 @@
         <item>Bloquear después de salir de una aplicación</item>
         <item>Bloquear en 1 minuto después de salir de una aplicación</item>
     </string-array>
-     <string-array name="long_add_menu">
-        <item>Añadir a excepciones</item>
-    </string-array>
     <string-array name="sort_type">
-        <item>Ordenar por nombre</item>
-        <item>Ordenar por tamaño</item>
+        <item>Estado</item>
+        <item>Nombre de la aplicación</item>
+        <item>Frecuencia de uso</item>
+        <item>Almacenamiento usado</item>
+        <item>Uso de datos</item>
+        <item>Uso de la batería</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Ordenar por estado</item>
+        <item>Ordenar por nombre de aplicación</item>
+        <item>Ordenar por frecuencia de uso</item>
+        <item>Ordenar por almacenamiento usado</item>
+        <item>Ordenar por uso de datos</item>
+        <item>Ordenar por el uso de la batería</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Uso de Datos</item>
         <item>Saldo del teléfono</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Después de 1 minuto</item>
-        <item>Después de 5 minutos</item>
-        <item>Después de 10 minutos</item>
-        <item>Después de 30 minutos</item>
-        <item>Nunca</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vez</item>
