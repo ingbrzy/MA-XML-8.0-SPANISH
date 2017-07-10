@@ -719,7 +719,7 @@ Para evitar consultas frecuentes, actualizamos la información del saldo una vez
   <string name="missing_name">(Sin nombre)</string>
   <string name="missing_required_permission">Has desactivado un permiso requerido</string>
   <string name="mobile_equipment_identification">Identificación del equipo móvil</string>
-  <string name="more_call_logs">Ver registro detallado de llamadas en i.mi.com</string>
+  <string name="more_call_logs">Ver registro detallado de llamadas en &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="move_and_resize">Mover y cambiar el tamaño</string>
   <string name="multi_number_menu_call">Llamar</string>
   <string name="multi_number_menu_delete">Eliminar</string>
@@ -900,6 +900,7 @@ Para agregar un contacto a la lista de favoritos:
   <string name="openDialKeyboard">Teclado de marcación</string>
   <string name="open_contact">Ver contacto</string>
   <string name="open_dial_pad_description">Abrir marcador</string>
+  <string name="option_delete_batch_contacts">Eliminar lote</string>
   <string name="option_delete_contact">Eliminar</string>
   <string name="option_delete_group">Eliminar</string>
   <string name="option_edit_contact">Editar</string>
