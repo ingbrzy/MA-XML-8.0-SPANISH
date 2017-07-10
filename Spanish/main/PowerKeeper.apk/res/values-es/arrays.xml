@@ -49,6 +49,14 @@
         <item>No seleccionado</item>
         <item>Seleccionado en otros modos</item>
     </string-array>
+    <string-array name="thermal_entries">
+        <item>Modo de control de temperatura predeterminado</item>
+        <item>Primer modo de rendimiento</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>El modo actual de control de temperatura, la temperatura de experiencia es preferida</item>
+        <item>Se prefiere el modelo de rendimiento actual, la experiencia de rendimiento, las temperaturas podrían aumentar</item>
+    </string-array>
     <string-array name="hmode_app_groups">
         <item>Personalizado</item>
         <item>Economizador de batería</item>
