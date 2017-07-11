@@ -32,7 +32,6 @@
   <string name="album_already_exists_msg">El álbum \"%s\" ya existe</string>
   <string name="album_already_forced_top">Ya se encuentra arriba</string>
   <string name="album_camera_name">Cámara</string>
-  <string name="album_detail_clear_local_page_empty">No hay copias de fotos o vídeos para eliminar</string>
   <string name="album_detail_page_empty">Sin fotos o vídeos</string>
   <string name="album_faces_name">Personas</string>
   <string name="album_from_format">Desde %s</string>
@@ -66,7 +65,7 @@
   <string name="album_type_system">Álbumes del sistema</string>
   <string name="album_videos_name">Vídeos</string>
   <string name="alert_secret_album_enter">Continuar</string>
-  <string name="alert_secret_album_message">Deslice el dedo hacia abajo mientras está en la pestaña Álbumes para ver el álbum oculto.</string>
+  <string name="alert_secret_album_message">Desliza el dedo hacia abajo mientras estás en la pestaña Álbumes para ver el álbum oculto.</string>
   <string name="alert_secret_album_message_lower_case"> deslice el dedo hacia abajo mientras está en la pestaña Álbumes para ver el álbum oculto.</string>
   <string name="alert_secret_album_title">Cómo ver un álbum oculto</string>
   <string name="all_faces">Las fotos con esta persona</string>
@@ -122,8 +121,9 @@
   <string name="backup_cloud_space_low_btn_text">Obtener más</string>
   <string name="backup_cloud_space_low_desc">%1$s en Mi Cloud | Disponible %2$s</string>
   <string name="backup_cloud_space_low_title">No hay suficiente almacenamiento en Mi Cloud</string>
-  <string name="backup_cta_not_allow">"No se puede acceder a la red"</string>
   <string name="backup_cta_not_allow_btn_text">Permitir</string>
+  <string name="backup_cta_not_allow_desc">Aceptar copias de seguridad automáticamente</string>
+  <string name="backup_cta_not_allow_title">"No se puede acceder a la red"</string>
   <string name="backup_detail_page_empty">No hay fotos o videos en espera de copia de seguridad</string>
   <string name="backup_detail_page_title">Copias de seguridad de Mi Cloud</string>
   <string name="backup_device_space_low_btn_text">Limpiar</string>
@@ -134,8 +134,8 @@
   <string name="backup_immediately">Copia de seguridad</string>
   <string name="backup_need_sync_desc">Haga clic en el botón para continuar la copia de seguridad</string>
   <string name="backup_need_sync_title">Copia de seguridad detenida</string>
-  <string name="backup_no_network_btn_text">Ajustes de red</string>
-  <string name="backup_no_network_desc">Toque para continuar con la copia de seguridad</string>
+  <string name="backup_no_network_btn_text">Ajustes</string>
+  <string name="backup_no_network_desc">Conectarse a la red para realizar copias de seguridad de los elementos</string>
   <string name="backup_no_network_title">"No se puede conectar a Mi Cloud"</string>
   <string name="backup_no_wifi_btn_text">Utilizar datos</string>
   <string name="backup_no_wifi_desc">También puede realizar copias de seguridad de elementos mediante datos móviles</string>
@@ -190,7 +190,6 @@
   <string name="choose_owner_relation">Relación</string>
   <string name="choose_people">Elija un álbum de persona</string>
   <string name="choose_some_people">Elija álbum con %s</string>
-  <string name="clear_local_photo_direction">Si eliminas fotos o vídeos desde tu dispositivo, todavía estarán disponibles en Mi Cloud</string>
   <string name="click_download_gif">Toque para descargar el GIF</string>
   <string name="click_top_right">Pulse en este icono</string>
   <string name="cloud_camera_display_name">Fotos de la cámara</string>
@@ -201,6 +200,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Capturas</string>
   <string name="cloud_settings">Copias de seguridad de la Galería</string>
+  <string name="cloud_storage_extend">Ampliar el espacio en la nube</string>
   <string name="cloud_space_full_button_text">Obtener más almacenamiento</string>
   <string name="cloud_storage_ok_append_desc">Disponible %s</string>
   <string name="cloud_storage_ok_desc">Almacenamiento en Mi Cloud %s</string>
@@ -292,7 +292,6 @@
   <string name="delete_third_party_photo">¿Eliminar esta foto?</string>
   <string name="delete_third_party_video">¿Eliminar este vídeo?</string>
   <string name="delete_to_trash_tips">Puede ver las fotos eliminadas recientemente en Ajustes y Papelera</string>
-  <string name="delete_unsynced">Eliminar elementos que no se han copiado</string>
   <string name="deny">Rechazar</string>
   <string name="detail_title">Info. detallada</string>
   <string name="disable_auto_upload_tip">¿Desactivar la sincronización con Mi Cloud para este álbum?</string>
@@ -428,7 +427,7 @@
   <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Galería necesita acceso a
   %s
-  para trabajar con normalidad, toque Establecer para ir a Permisos."</string>
+  para trabajar con normalidad, toque \"Establecer\" para ir a Permisos."</string>
   <string name="grant_permission_title">Permitir acceso</string>
   <string name="grayscale">Escala de grises</string>
   <string name="has_invalid_recipient">Destinatarios no válidos: %1$s</string>
@@ -562,12 +561,10 @@
   <string name="operation_delete">Eliminar</string>
   <string name="operation_detail">Detalles</string>
   <string name="operation_disable_auto_upload">Desactivar la sincronización con Mi Cloud</string>
-  <string name="operation_do_delete_local_thumnail">Eliminar del dispositivo</string>
   <string name="operation_download">Descarga original (%s)</string>
   <string name="operation_edit">Editar</string>
   <string name="operation_edit_video">Editar</string>
   <string name="operation_enable_auto_upload">Activar la sincronización con Mi Cloud</string>
-  <string name="operation_enter_delete_local">Eliminar las copias de las fotos y vídeos de este dispositivo</string>
   <string name="operation_failed">No se pudo completar la operación</string>
   <string name="operation_force_top">Anclar</string>
   <string name="operation_hide">Ocultar</string>
@@ -669,7 +666,6 @@
   <string name="relation_text_maternal_grandmother">Abuela materna</string>
   <string name="relation_text_mother">Madre</string>
   <string name="relation_with_you">Escoge una relación</string>
-  <string name="release_space_finish_format">Se liberó %s de almacenamiento local</string>
   <string name="remind_face_recommend_confirm">Confirmar</string>
   <string name="remove_from_album_message">Esta foto ya no se mostrará aquí</string>
   <string name="remove_from_album_title">Eliminar de este álbum</string>
@@ -695,7 +691,6 @@
   <string name="reset">Restablecer</string>
   <string name="retry_to_create_album">Intente de nuevo</string>
   <string name="retry_to_request_qr_code">Intente de nuevo</string>
-  <string name="return_from_clear_local_file_fragment_toast">En el dispositivo se guardan las fotos optimizadas. Pulse sobre una foto para descargar el original de Mi Cloud.</string>
   <string name="revert">Revertir</string>
   <string name="rise">Cálido</string>
   <string name="rotate">Rotar</string>
