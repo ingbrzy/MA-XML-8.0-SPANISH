@@ -1173,7 +1173,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="power_save_mode_end_time">Fin</string>
   <string name="power_save_mode_ontime_enabled">Programar tiempo para cambiar entre los modos</string>
   <string name="power_save_mode_start_time">Comienzo</string>
-  <string name="power_save_mode_summary">Supervise los procesos de fondo y desactive la sincronización. El protector de batería se apagará automáticamente cuando la batería esté cargada al 60% o al 100%.</string>
+  <string name="power_save_mode_summary" formatted="false">Supervise los procesos de fondo y desactive la sincronización. El protector de batería se apagará automáticamente cuando la batería esté cargada al 60% o al 100%.</string>
   <string name="power_save_on_time_end_time_summary_na">A</string>
   <string name="power_save_on_time_start_time_summary_na">De</string>
   <string name="power_save_summary_text">Activar el ahorro de batería para reducir aplicaciones en segundo plano, detener la sincronización, y reducir al mínimo las animaciones del sistema.</string>
