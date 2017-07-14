@@ -32,7 +32,7 @@
   <string name="component_title_ringtone">Tonos de llamada</string>
   <string name="component_title_wallpaper">Fondos de pantalla</string>
   <string name="current_using_desktop_wallpaper_text">Fondo de pantalla</string>
-  <string name="current_using_lockscreen_wallpaper_text">Bloqueo de pantalla</string>
+  <string name="current_using_lockscreen_wallpaper_text">Pantalla de bloqueo</string>
   <string name="deleting">Borrando…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Diseñador</string>
@@ -95,10 +95,10 @@
   <string name="loading_resource_detail_fail">No se puede cargar el recurso</string>
   <string name="loading_resource_detail_info">Un momento…</string>
   <string name="local_resouce_creator_name">Desarrollador: %1$s</string>
-  <string name="lockscreen_apply_failured">"No se puede aplicar el fondo de pantalla de bloqueo"</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">Fondo de pantalla de Inicio aplicado. No se puede aplicar fondo de pantalla de Bloqueo.</string>
-  <string name="lockscreen_apply_success">Fondo de pantalla de bloqueo aplicada</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">Fondo de pantalla de Bloqueo aplicado. No se puede aplicar fondo de pantalla de Inicio.</string>
+  <string name="lockscreen_apply_failured">"No se puede aplicar el fondo a la Pantalla de bloqueo"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">Fondo de pantalla aplicado. No se puede aplicar el fondo a la Pantalla de bloqueo.</string>
+  <string name="lockscreen_apply_success">Fondo da la Pantalla de bloqueo aplicado</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">Fondo de la Pantalla de bloqueo aplicado. No se puede aplicar Fondo de pantalla.</string>
   <string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
   <string name="lockscreen_magazine_summary">Consigue fondos de pantalla enviados directamente a tu pantalla de bloqueo cada día.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s fondos de pantalla</string>
@@ -328,7 +328,7 @@
   <string name="theme_apply_audio_dialog_item_notification">Notificación</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Tono de llamada</string>
   <string name="theme_apply_failured">No se puede aplicar el fondo de la pantalla de bloqueo</string>
-  <string name="theme_apply_success">Pantalla de bloqueo aplicada</string>
+  <string name="theme_apply_success">Fondo de la Pantalla de bloqueo aplicado</string>
   <string name="theme_applying">Aplicando…</string>
   <string name="theme_batch_update_all">Actualizar todos</string>
   <string name="theme_batch_update_dlg_content">¿Actualizar %1$s y otros %2$d temas ahora?</string>
@@ -417,10 +417,10 @@
   <string name="wallpaper_scroll_type_tips">Fondo de pantalla de desplazamiento</string>
   <string name="wallpaper_set_as_both">Establecer ambos</string>
   <string name="wallpaper_set_as_destop">Establecer como Fondo de pantalla</string>
-  <string name="wallpaper_set_as_lockscreen">Establecer como Bloqueo de pantalla</string>
+  <string name="wallpaper_set_as_lockscreen">Establecer como fondo del Pantalla de bloqueo</string>
   <string name="wallpaper_settings">Configuración del fondo de pantalla</string>
   <string name="wallpaper_settings_change_wallpaper">Cambiar</string>
   <string name="wallpaper_settings_desktop_text">Pantalla de inicio</string>
-  <string name="wallpaper_settings_lockscreen_text">Bloqueo de pantalla</string>
+  <string name="wallpaper_settings_lockscreen_text">Pantalla de bloqueo</string>
   <string name="wallpaper_settings_page_title">Fondos de escritorio</string>
 </resources>
