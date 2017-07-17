@@ -46,9 +46,7 @@
   <string name="accessibility_phone_three_bars">Tres barras de teléfono</string>
   <string name="accessibility_phone_two_bars">Dos barras de teléfono</string>
   <string name="accessibility_recent">Aplicaciones recientes</string>
-  <string name="accessibility_recent_task_enter">Recientemente abiertas, aplicaciones disponibles: %d.</string>
   <string name="accessibility_recent_task_exit">Recientemente cerrados</string>
-  <string name="accessibility_recent_task_first_enter_tips">Recientemente abiertas, aplicaciones disponibles: %d. Desliza el dedo hacia arriba para eliminarlo, deslízalo hacia abajo para bloquearlo.</string>
   <string name="accessibility_recent_task_locked">Bloqueado, deslice hacia abajo para desbloquear</string>
   <string name="accessibility_recent_task_memory_info">Ram total: %2$s | RAM disponible: %1$s. Toca dos veces para limpiar.</string>
   <string name="accessibility_recent_task_unlocked">Desbloqueado</string>
@@ -100,7 +98,6 @@
   <string name="battery_profiles">Usar perfiles de batería</string>
   <string name="block_notification_content_text">"Las notificaciones de %1$s no se mostrarán de nuevo. Puede cambiar esto en Ajustes."</string>
   <string name="block_notification_text">Ocultar</string>
-  <string name="block_record_notification_more_text">Ocultando notificaciones de %1$s y %2$d aplicaciones.</string>
   <string name="block_record_notification_text">Ocultando notificaciones de %1$s.</string>
   <string name="block_record_notification_title">Notificaciones ocultas</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Conectado para el audio multimedia</string>
@@ -447,7 +444,6 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="settings_custom_notification">Gestionar notificaciones</string>
   <string name="settings_toggle_position">Personalizar controles</string>
   <string name="settings_toggle_position_divider_list">Accesos activos encima de la barra de tareas</string>
-  <string name="settings_toggle_position_divider_page">%1$d accesos activos encima de la barra de tareas</string>
   <string name="settings_toggle_position_reset">Resetear accesos</string>
   <string name="share">Compartir</string>
   <string name="show_all_anrs">Mostrar todos los ANR</string>
