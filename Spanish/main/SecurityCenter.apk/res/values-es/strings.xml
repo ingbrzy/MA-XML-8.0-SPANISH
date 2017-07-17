@@ -108,6 +108,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="apn_exception_title">Comprobar configuraciones APN</string>
   <string name="app_check_no_issue">Parece que no hay problemas con la batería. ¡Guay!</string>
   <string name="app_detail">Detalles</string>
+  <string name="app_error_tip_for_launcher">"Los componentes de hardware de su dispositivo o la versión del sistema Android pueden causar problemas de compatibilidad y hacer que algunas aplicaciones se comporten mal, se bloqueen o se detengan con fuerza. Si tiene problemas, comparta sus comentarios con los desarrolladores de aplicaciones."</string>
+  <string name="app_error_tip_for_store">"Los componentes de hardware de su dispositivo o la versión del sistema de Android pueden causar problemas de compatibilidad que pueden resultar en el fallo en la instalación de algunas aplicaciones. Si se encuentran con estos problemas o algunas aplicaciones se comportan mal, se congelan o se detienen, Intente instalar la aplicación de nuevo."</string>
   <string name="app_install_intercept">Bloquear instalación</string>
   <string name="app_install_tips_go_to">Abrir</string>
   <string name="app_install_tips_install_success">Instalado %1$s con éxito</string>
@@ -548,8 +550,9 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dlg_remove_address_whitelist">¿Eliminar esta ubicación de las excepciones?</string>
   <string name="dlg_remove_blacklist">¿Eliminar estos números de la lista de bloqueo?</string>
   <string name="dlg_remove_blacklist_ing">Eliminando…</string>
-  <string name="dlg_remove_blacklist_ok">Eliminar</string>
-  <string name="dlg_remove_whitelist_content">¿Eliminar estos números de las excepciones?</string>
+  <string name="dlg_remove_blacklist_title">Eliminar</string>
+  <string name="dlg_remove_ok">Eliminar</string>
+  <string name="dlg_remove_whitelist">¿Eliminar estos números de las excepciones?</string>
   <string name="dlg_remove_whitelist_ing">Eliminando…</string>
   <string name="dlg_remove_whitelist_title">Eliminar</string>
   <string name="dlg_title_not_open_stranger_identify">Identificador de llamadas</string>
@@ -686,7 +689,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="item_usb_debug">Depuración USB</string>
   <string name="item_virus_lib">Actualizar definiciones de virus automáticamente</string>
   <string name="keywords_antispam">Lista de bloqueo;Bloquear;Lista negra;Lista de bloqueo inteligente;Fraude;Ventas;Agentes;Lista de bloqueo de llamadas;Lista de bloqueo de mensajes;Lista de bloqueo de mensajería;Lista de bloquedo de SMS;Lista de bloqueo;Lista negra;Listadebloqueo;Lista de bloqueo;fraude;bloquear contactos;contactos bloqueados</string>
-  <string name="keywords_antivirus">Virus;Riesgos;Antivirus;Escanear</string>
+  <string name="keywords_antivirus">Virus;Riesgos;Antivirus;Escanear;comprobar la seguridad del pago;la seguridad del pago;el pago seguro;los pagos seguros;protección del pago;proteger los pagos;pagos protegidos;zona segura;zona de pago</string>
   <string name="keywords_app_permissions">Permisos;Ubicación;Contactos de acceso;Permisos;Permisos de aplicación</string>
   <string name="keywords_auto_restart">Autoencendido;Permisos;Inicio automático;Autoinicio;Administrar autoencendido;MIUI autoencendido;Autoinicio de la aplicación;Inicio automático de la cadena;arranque encadenado;arranque desencadenado</string>
   <string name="keywords_buy_flow">datos;datos móviles;comprar datos;comprar datos móviles;recargar datos;plan de datos</string>
@@ -694,7 +697,6 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="keywords_networkassistant_1">Datos;Trafico</string>
   <string name="keywords_networkassistant_2">Datos;Calibrar</string>
   <string name="keywords_networkassistant_4">Conexión;Internet;Prueba</string>
-  <string name="keywords_payment_security">Compruebe la seguridad del pago;seguridad del pago;pago seguro;pagos seguros;protección del pago;pagos;pagos protegidos;zona segura;zona de pago</string>
   <string name="keywords_powercenter">Ahorro de batería;Calentamiento;Encendido;Apagado;Batería;Drenaje;Batería:Problemas de batería;Energía;Drenaje;Calentamiento;Ahorro de batería;Ahorro de energía;Ahorrar energía;Ahorrar batería</string>
   <string name="keywords_powercenter_powerrank">Uso de la batería</string>
   <string name="keywords_securitycenter">Seguridad;Comprobar;Escanear</string>
@@ -1086,7 +1088,6 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="path_networkassistant_1">Aplicaciones del sistema/Seguridad/Uso de datos</string>
   <string name="path_networkassistant_2">Aplicaciones del sistema/Seguridad/Uso de datos</string>
   <string name="path_networkassistant_4">Aplicaciones del sistema/Seguridad/Uso de datos/Test de la red</string>
-  <string name="path_payment_security">Aplicaciones del sistema/Seguridad/Seguridad en pagos</string>
   <string name="path_powercenter">Aplicaciones del sistema/Seguridad/Uso de la batería</string>
   <string name="path_powercenter_powerrank">Batería y rendimiento/Uso de la batería</string>
   <string name="path_securitycenter">Aplicaciones del sistema/Seguridad</string>
@@ -1311,7 +1312,6 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="resource_networkassistant_1">Uso de datos</string>
   <string name="resource_networkassistant_2">Calibrar plan de datos</string>
   <string name="resource_networkassistant_4">Prueba de la red</string>
-  <string name="resource_payment_security">Seguridad de pagos</string>
   <string name="resource_powercenter">Uso de la batería</string>
   <string name="resource_powercenter_powerrank">Batería y rendimiento</string>
   <string name="resource_securitycenter">Seguridad</string>
