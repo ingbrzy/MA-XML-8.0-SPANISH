@@ -104,6 +104,10 @@
     <item quantity="other">Estás a %1$d pasos de acceder a la info cit.</item>
     <item quantity="one">Estás a %1$d paso de acceder a la info cit.</item>
   </plurals>
+  <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d accesos activos encima de la barra de tareas</item>
+        <item quantity="one">1 acceso activo encima de la barra de tareas</item>
+  </plurals>
   <plurals name="show_dev_countdown">
     <item quantity="other">Estás a %1$d pasos de ser desarrollador.</item>
     <item quantity="one">Estás a %1$d paso de ser desarrollador.</item>
