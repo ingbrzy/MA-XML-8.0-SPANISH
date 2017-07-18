@@ -420,6 +420,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuichromium_error_page_btn_close">Cerrar</string>
   <string name="miuichromium_error_page_btn_refresh">Refrescar</string>
   <string name="miuichromium_error_page_btn_report_issue">Informar problema</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">"No se pudo conectar a la red debido a una señal débil o una configuración de red incorrecta. Revise sus %s1ajustes de red%s2 e intente de nuevo."</string>
   <string name="miuichromium_error_page_diagnose">Diagnóstico de la red</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnóstico de la red</string>
   <string name="miuichromium_error_page_diagnose_certificate">No se pudo verificar el protocolo de red</string>
@@ -435,9 +436,57 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuichromium_error_page_network_hijack">La red actual no es segura</string>
   <string name="miuichromium_error_page_network_off">Activar el Wi-Fi o datos móviles</string>
   <string name="miuichromium_error_page_no_network">"No se puede conectar a la red"</string>
-  <string name="miuichromium_error_page_reload">Recargar</string>
+  <string name="miuichromium_error_page_problem_access_denied">El acceso a %s0 fue denegado</string>
+  <string name="miuichromium_error_page_problem_cache_miss">Esta página no se puede cargar desde la caché</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">"No se puede abrir la página"</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site">"El sitio no puede ser alcanzado"</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">Se interrumpió la conexión</string>
+  <string name="miuichromium_error_page_problem_file_not_found">"No se pudo encontrar el archivo"</string>
+  <string name="miuichromium_error_page_problem_gateway_timed_out">Se tomó demasiado tiempo para responder a %s0</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">El acceso a la red está restringido</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">"No se pudo conectar a Internet"</string>
+  <string name="miuichromium_error_page_problem_page_moved">Es posible que esta página %s0 se haya movido o eliminado</string>
+  <string name="miuichromium_error_page_problem_page_not_found">"No se pudo encontrar esta página en %s0"</string>
+  <string name="miuichromium_error_page_problem_page_not_working">"Esta página no funciona"</string>
+  <string name="miuichromium_error_page_problem_security_error">"Este sitio no puede proporcionar una conexión segura"</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 es actualmente incapaz de manejar esta solicitud</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">" porque %s0 no aceptó su certificado"</string>
+  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 no se adhiere a los estándares de seguridad"</string>
+  <string name="miuichromium_error_page_reason_blocked_by_response">. El acceso está bloqueado por %s0</string>
+  <string name="miuichromium_error_page_reason_connection_closed">. %s0 conexión interrumpida</string>
+  <string name="miuichromium_error_page_reason_connection_refused">. %s0 se negó a conectar</string>
+  <string name="miuichromium_error_page_reason_connection_reset">. se ha restablecido la conexión</string>
+  <string name="miuichromium_error_page_reason_device_slept">" cuando el dispositivo se fue a dormir"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" porque %s0 no envió ningún dato"</string>
+  <string name="miuichromium_error_page_reason_invalid_address">. la dirección IP o el número de puerto no es válido</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" porque %s0 envió una respuesta no válida"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" porque la URL no es válida"</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. Se puede mover o eliminar</string>
+  <string name="miuichromium_error_page_reason_name_collision">. Este sitio en la intranet tiene la misma URL que un sitio externo</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">". No se pudo encontrar la dirección DNS para %s0"</string>
+  <string name="miuichromium_error_page_reason_network_changed">" debido a un cambio de red"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Algo está mal con el servidor proxy, o la dirección proxy es incorrecta</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 es actualmente inaccesible</string>
+  <string name="miuichromium_error_page_reason_timed_out">". %s0 no responde por demasiado tiempo"</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" porque %s0 te ha redirigido demasiadas veces"</string>
+  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 está utilizando un número de puerto inseguro</string>
+  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 te está redirigiendo de una manera insegura</string>
+  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 utiliza un protocolo no compatible</string>
+  <string name="miuichromium_error_page_reload">Refrescar</string>
   <string name="miuichromium_error_page_safe_network">Modo seguro</string>
   <string name="miuichromium_error_page_server_error">Están intentando conectarse demasiados dispositivos</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">Compruebe los ajustes de las aplicaciones de proxy instaladas en su dispositivo.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">Comprueba tu conexión a Internet.</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Datos móviles) Restablecer su %s1ajustes APN%s2.</string>
+  <string name="miuichromium_error_page_suggestion_check_url">"Comprueba la URL que has ingresado."</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Revisar su %s1ajustes proxy%s2.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Borrar cache (%s1Ajustes%s2 - Borrar datos).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Borrar caché y cookies (%s1Ajustes%s2 - Borrar datos, la información de su cuenta se puede perder).</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Actualizar después de conectarse a Internet</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">Comuníquese con el administrador del sistema.</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">"Compruebe la dirección que ha introducido y vuelva a intentarlo utilizando la URL correcta."</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">Actualizar después de conceder permiso al navegador para acceder a Internet.</string>
+  <string name="miuichromium_error_page_suggestion_title">. Prueba esto:</string>
   <string name="miuichromium_error_page_title">Ocurrió un error</string>
   <string name="miuichromium_error_page_unknown_error">¡Vaya!, algo salió mal</string>
   <string name="miuichromium_error_page_wlan">Encender Wi-Fi</string>
