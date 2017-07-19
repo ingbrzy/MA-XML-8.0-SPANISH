@@ -96,38 +96,6 @@
         <item quantity="few">Hace %1$d días</item>
         <item quantity="many">Hace %1$d días</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="zero">%1$d segundos</item>
-        <item quantity="one">%1$d segundo</item>
-        <item quantity="two">%1$d segundos</item>
-        <item quantity="few">%1$d segundos</item>
-        <item quantity="many">%1$d segundos</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="zero">%1$d minutos</item>
-        <item quantity="one">%1$d minuto</item>
-        <item quantity="two">%1$d minutos</item>
-        <item quantity="few">%1$d minutos</item>
-        <item quantity="many">%1$d minutos</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d horas</item>
-        <item quantity="zero">%1$d horas</item>
-        <item quantity="one">%1$d hora</item>
-        <item quantity="two">%1$d horas</item>
-        <item quantity="few">%1$d horas</item>
-        <item quantity="many">%1$d horas</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d días</item>
-        <item quantity="zero">%1$d días</item>
-        <item quantity="one">%1$d día</item>
-        <item quantity="two">%1$d días</item>
-        <item quantity="few">%1$d días</item>
-        <item quantity="many">%1$d días</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Encontrados %1$d nuevos archivos</item>
         <item quantity="zero">Encontrados %1$d nuevos archivos</item>
@@ -136,30 +104,6 @@
         <item quantity="few">Encontrados %1$d nuevos archivos</item>
         <item quantity="many">Encontrados %1$d nuevos archivos</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Recibidos %1$d archivos de %2$s</item>
-        <item quantity="zero">Recibidos %1$d archivos de %2$s</item>
-        <item quantity="one">Recibido %1$d archivo de %2$s</item>
-        <item quantity="two">Recibidos %1$d archivos de %2$s</item>
-        <item quantity="few">Recibidos %1$d archivos de %2$s</item>
-        <item quantity="many">Recibidos %1$d archivos de %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Recibidos %1$d archivos de WeChat</item>
-        <item quantity="zero">Recibidos %1$d archivos de WeChat</item>
-        <item quantity="one">Recibido %1$d archivo de WeChat</item>
-        <item quantity="two">Recibidos %1$d archivos de WeChat</item>
-        <item quantity="few">Recibidos %1$d archivos de WeChat</item>
-        <item quantity="many">Recibidos %1$d archivos de WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d archivos de WeChat Vídeo expirarán</item>
-        <item quantity="zero">%1$d archivos de WeChat Vídeo expirarán</item>
-        <item quantity="one">%1$d archivo de WeChat Vídeo expirará</item>
-        <item quantity="two">%1$d archivos de WeChat Vídeo expirarán</item>
-        <item quantity="few">%1$d archivos de WeChat Vídeo expirarán</item>
-        <item quantity="many">%1$d archivos de WeChat Vídeo expirarán</item>
-    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
         <item quantity="zero">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
@@ -167,22 +111,6 @@
         <item quantity="two">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
         <item quantity="few">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
         <item quantity="many">%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d nuevas etiquetas en WeChat</item>
-        <item quantity="zero">%1$d nuevas etiquetas en WeChat</item>
-        <item quantity="one">%1$d nueva etiqueta en WeChat</item>
-        <item quantity="two">%1$d nuevas etiquetas en WeChat</item>
-        <item quantity="few">%1$d nuevas etiquetas en WeChat</item>
-        <item quantity="many">%1$d nuevas etiquetas en WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">Se realizó %1$d copias de seguridad de los vídeos en WeChat.</item>
-        <item quantity="zero">Se realizó %1$d copias de seguridad de los vídeos en WeChat.</item>
-        <item quantity="one">Se realizó 1 copia de seguridad de un vídeo en WeChat.</item>
-        <item quantity="two">Se realizó %1$d copias de seguridad de los vídeos en WeChat.</item>
-        <item quantity="few">Se realizó %1$d copias de seguridad de los vídeos en WeChat.</item>
-        <item quantity="many">Se realizó %1$d copias de seguridad de los vídeos en WeChat.</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Encontrados %1$s nuevos vídeos</item>
@@ -251,10 +179,6 @@
     <plurals name="video_publish_watchable_hint">
          <item quantity="other">Obtener %1$d seguidores más para actualizar tu estado</item>
          <item quantity="one">Obtener %1$d seguidor más para actualizar tu estado</item>
-    </plurals>
-    <plurals name="video_like_num">
-        <item quantity="other">%1$s me gusta</item>
-        <item quantity="one">%1$s me gusta</item>
     </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s gemas</item>
