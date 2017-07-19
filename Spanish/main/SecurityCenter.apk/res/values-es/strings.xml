@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="Phonepass">Permitir llamadas</string>
   <string name="SMS_and_MMS">SMS y MMS</string>
@@ -55,10 +55,13 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="adb_install_reject_notiy">"No permitir la instalación %s a través de USB"</string>
   <string name="adb_install_reject_notiy_desc">Puede permitir la instalación a través de USB en opciones de Desarrollador</string>
   <string name="adb_login_xiaomi_account">Iniciar sesión primero en su Cuenta Mi</string>
+  <string name="add_done">Añadido exitosamente</string>
+  <string name="add_game">Añadir juego</string>
   <string name="add_game_notification_summary">Toque para iniciar y aumentar la velocidad</string>
   <string name="add_miservice_dialog_content">%s requiere que se agregue el marco de servicio MIUI a las excepciones. Es posible que reciba notificaciones de las aplicaciones integradas de MIUI y de otras aplicaciones de terceros.</string>
   <string name="add_miservice_dialog_title">Estructura de servicios MIUI</string>
   <string name="add_to_whitelist_button">Excepciones en el roaming de datos</string>
+  <string name="add_whitelist">Añadir a excepciones</string>
   <string name="address">Dirección</string>
   <string name="address_choose_hint">%1$s, %2$s, y %3$d otras ubicaciones</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado hace más de 1 mes</string>
@@ -70,6 +73,9 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="adjust_traffic_data">Establecer uso de datos</string>
   <string name="after_the_lock_screen">La Aplicación está bloqueada junto con la pantalla. Puede cambiar esto en los ajustes de bloqueo de Aplicaciones.</string>
   <string name="all_address_choose_hint">Todos los números de esta provincia</string>
+  <string name="anim_gamebooster_text">Sólo un segundo…</string>
+  <string name="anti_disturb_msg_detail">Apagar todas las notificaciones excepto las de llamadas entrantes</string>
+  <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">detalles del modo de bloqueo</string>
   <string name="antispam_notificaiton_type_show_all">Todos los números</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Números que no están en la lista de bloqueo</string>
@@ -201,6 +207,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="app_usage_recently">Usado recientemente</string>
   <string name="app_version">Versión</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="application_item_already_permission">Permitido</string>
+  <string name="application_item_disable">Restringido</string>
   <string name="applock_add_account">Añadir</string>
   <string name="applock_add_account_info">"Añadir Mi Cuenta para poder restablecer su contraseña
         en caso de que lo olvides"</string>
@@ -230,6 +238,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="auto_atsk_condition_battery_level_text_down">Cuando la batería alcance el %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Cuando la batería se carga hasta el %s</string>
   <string name="auto_handle_title">GENERAL</string>
+  <string name="auto_import_games">Ponga todos sus juegos en un solo lugar</string>
   <string name="auto_task_condition_choose_battery_level_down">Cuando la batería alcanza un cierto nivel</string>
   <string name="auto_task_condition_choose_end_time">Hora de finalización</string>
   <string name="auto_task_condition_choose_ontime">Temporizador</string>
@@ -251,6 +260,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="auto_task_edit_condition_title">Añadir condición</string>
   <string name="auto_task_edit_my_custom_task">Nombre</string>
   <string name="auto_task_edit_operation_summary">Por ejemplo, \"Encender el Modo Avión\"</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Nombre</string>
   <string name="auto_task_main_title">Tareas programadas</string>
   <string name="auto_task_mamange_activity_title">Ajustes</string>
@@ -340,7 +351,11 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="blacklist_prefix_add_hint">Bloquear todos los números que comiencen con este prefijo</string>
   <string name="block_message_number">Mensajes: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Llamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="boost_done">Mejorado exitosamente</string>
   <string name="booster_immediately">Aumentar</string>
+  <string name="booster_suc">Mejorado exitosamente</string>
+  <string name="boostering">Mejorando velocidad…</string>
+  <string name="boosting">Mejorando velocidad…</string>
   <string name="boot_reminder">Enciende tu dispositivo a una hora programada</string>
   <string name="boot_time">Encender: %1$s</string>
   <string name="boot_time_day">Encender: %2$s %1$dd</string>
@@ -473,6 +488,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="cpu_usage_app_uninstalled_toast">Esta aplicación se ha desinstalado</string>
   <string name="cpu_usage_process_run_time_little_time">Menos de un minuto</string>
   <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
+  <string name="create_shortcut">Crear un acceso directo en la pantalla de Inicio para el acelerador de velocidad de Juegos</string>
   <string name="cta_dialog_msg">Seguridad requiere conexión a Internet para obtener actualizaciones, así como el acceso a la ubicación para funcionar normalmente.</string>
   <string name="cta_dialog_title">Avisos y términos de privacidad</string>
   <string name="cta_settings">Permitir conexión de la red</string>
@@ -515,10 +531,11 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dialog_app_roaming_message">%1$s no pudo utilizar datos móviles en roaming. Cuando esté en roaming, sólo aquellas aplicaciones que ha añadido a la lista de excepciones pueden utilizar datos móviles.</string>
   <string name="dialog_app_roaming_title">%1$s no pudo utilizar el roaming de datos</string>
   <string name="dialog_msg_auto_start_declare">Algunas aplicaciones podrían indicar incorrectamente que MIUI ha evitado que se iniciaran. Comprueba los permisos que se le han dado a cada aplicación en Ajustes &gt; aplicaciones.</string>
-  <string name="dialog_msg_stop_paysafety_scan">¿Detener la comprobación de seguridad cuando haga pagos?</string>  
+  <string name="dialog_msg_stop_paysafety_scan">¿Detener la comprobación de seguridad cuando haga pagos?</string>
   <string name="dialog_msg_stop_virus_scan">"¿Detener la exploración de seguridad antes de que termine?"</string>
   <string name="dialog_roaming_message">Su compañía podría cobrarle cargos adicionales por el uso de datos en roaming.</string>
   <string name="dialog_roaming_title">¿Permitir roaming de datos?</string>
+  <string name="dialog_text">Crear un acceso directo en la pantalla de Inicio para el acelerador de velocidad de Juegos</string>
   <string name="dialog_title_attention">Advertencia</string>
   <string name="dialog_title_auto_start_declare">Acerca del inicio automático</string>
   <string name="dialog_title_stop_virus_scan">Detener la exploración de seguridad</string>
@@ -544,7 +561,8 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dlg_import_blacklist">Añadiendo…</string>
   <string name="dlg_import_whitelist">Añadiendo…</string>
   <string name="dlg_keyword_ok">Guardar</string>
-  <string name="dlg_message_not_open_stranger_identify">Para enceder esta característica, vaya a Ajustes &gt; Teléfono.</string>  <string name="dlg_no_block">¿Desbloquear este número y restaurar las llamadas de este número al histórico de llamadas?</string>
+  <string name="dlg_message_not_open_stranger_identify">Para enceder esta característica, vaya a Ajustes &gt; Teléfono.</string>
+  <string name="dlg_no_block">¿Desbloquear este número y restaurar las llamadas de este número al histórico de llamadas?</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
   <string name="dlg_remove_address_blacklist">¿Eliminar esta ubicación de la lista de bloqueo?</string>
   <string name="dlg_remove_address_whitelist">¿Eliminar esta ubicación de las excepciones?</string>
@@ -562,6 +580,9 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="dns_exception_summary">Compruebe los ajustes del DNS del router</string>
   <string name="dns_exception_title">Compruebe los ajustes de DNS</string>
   <string name="domestic_roaming_setting">Roaming nacional</string>
+  <string name="dont_bore">No permitas que los botones y las notificaciones te distraigan</string>
+  <string name="dont_bore_text">Silencie notificaciones y apague botones para eliminar distracciones</string>
+  <string name="dont_bore_title">Modo No Molestar</string>
   <string name="download">Descargar</string>
   <string name="downloading">Descargando</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -626,16 +647,48 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="free_time_traffic_settings">Límite de datos pasado el máximo</string>
   <string name="free_time_traffic_title">Ingrese el límite de datos pasado el máximo</string>
   <string name="free_traffic_settings">Ajustes del uso de datos fuera de hora punta</string>
+  <string name="function_close">Apagar</string>
   <string name="fw_blocked">Lista de bloqueo</string>
   <string name="fw_blocked_count">"Bloqueado "</string>
   <string name="fw_blocked_join">" y "</string>
+  <string name="game_booster">Acelerador de velocidad de Juegos</string>
+  <string name="game_booster_intro">Acerca del acelerador de velocidad de Juegos</string>
+  <string name="game_booster_title">Acelerar</string>
+  <string name="game_improve_text1">Limpiar caché de segundo plano para liberar memoria para jugar</string>
+  <string name="game_improve_text2">Limpiar caché de segundo plano para liberar memoria para jugar y mejorar el rendimiento de la CPU</string>
+  <string name="game_improve_title">Optimizar rendimiento</string>
+  <string name="game_more_improve">Restringir actividades en segundo plano y velocidad de descarga para ahorrar batería y ancho de banda para jugar</string>
+  <string name="game_net_text1">Limitar la velocidad de descarga en segundo plano para reducir retrasos de la red</string>
+  <string name="game_net_text2">Aumente la velocidad de conexión del juego mientras limita la velocidad de descarga en segundo plano para reducir retrasos de la red</string>
+  <string name="game_net_title">Optimizar velocidad de conexión</string>
+  <string name="game_setting">Ajustes de Juegos</string>
+  <string name="gamebooster_network_dialog_message">¿Permitir a Seguridad conectarse a la red con el fin de usar todas las características del acelerador de velocidad de Juegos?</string>
+  <string name="gamebooster_network_dialog_title">Algunas características no están disponibles</string>
   <string name="gateway_exception_summary">Compruebe el router y vuelva a intentarlo.</string>
   <string name="gateway_exception_summary2">No es posible conectarse al servidor</string>
   <string name="gateway_exception_title">Probar el router</string>
+  <string name="get_sys_info">Obteniendo información…</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Proceder</string>
   <string name="go_to_setting_fingerprint">Ajustes</string>
-  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Operadora incorrecta?&lt;/U&gt;&lt;/font&gt;"</string>  <string name="guide_operator_text">Su operadora actual: </string>
+  <string name="gs_anto_clean_memory_whitelist">Excepciones</string>
+  <string name="gs_app_back_self_start">Ahorrador de batería</string>
+  <string name="gs_auto_clean_memory">Limpiar caché</string>
+  <string name="gs_auto_clean_memory_detail">Limpiar caché automáticamente para optimizar los juegos</string>
+  <string name="gs_dialog_confirm_close_msg">El acceso directo se eliminará de su pantalla de Inicio. Vaya a Seguridad &gt; Ajustes para restaurarlo.</string>
+  <string name="gs_dialog_confirm_close_title">Apagar</string>
+  <string name="gs_game_disturb_msg">No Molestar</string>
+  <string name="gs_game_duration">Tiempo</string>
+  <string name="gs_game_net_priority">Prioridad de conexión</string>
+  <string name="gs_game_net_priority_detail">Limitar la velocidad de descarga para tener suficiente ancho de banda para jugar</string>
+  <string name="gs_game_performance">Rendimiento</string>
+  <string name="gs_game_shortcut">Disfrute de una experiencia más fluida jugando</string>
+  <string name="gs_only_self_start_for_list">Restringir procesos en segundo plano para ahorrar batería para jugar</string>
+  <string name="gs_open_game_booster">Aumente la velocidad</string>
+  <string name="gs_performance_mode">Modo rendimiento</string>
+  <string name="gs_performance_mode_detail">Incremente el uso de la CPU para asegurar un rendimiento sin interrupciones</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;¿Operadora incorrecta?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="guide_operator_text">Su operadora actual: </string>
   <string name="guide_quck_open">Encender</string>
   <string name="guide_second_text">Después de establecer su operadora, MIUI monitorizará su uso diario de datos móviles mediante el envío de SMS de operadora gratuitos. Cuando MIUI detecte que usted está superando su límite de datos, se desconectará de la red y se lo notificará.</string>
   <string name="guide_wait_setting">No ahora</string>
@@ -662,6 +715,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="hints_virus_lib_update_default_summary">Hora de última actualización desconocida</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular hoy</string>
+  <string name="i_know">Lo tengo</string>
   <string name="im">IM</string>
   <string name="info_and_call">Llamadas y mensajes</string>
   <string name="info_antispam_close">AntiSpam Apagado</string>
@@ -681,11 +735,13 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="install_title">Instalar vía USB</string>
   <string name="installing">Instalando</string>
   <string name="international_roaming_setting">Roaming de datos</string>
+  <string name="intro_improve">Acelerar su experiencia de juego en el nivel del sistema</string>
+  <string name="intro_skip">Saltar</string>
   <string name="ip_address_exception_summary">"No se pudo obtener la dirección IP. Si se ejecuta en este problema de nuevo, intente usar una dirección IP estática."</string>
   <string name="item_app_permission">Permisos de apps</string>
   <string name="item_dev_mode">Opciones de desarrollador</string>
   <string name="item_install_monitor">Monitor de instalación</string>
-  <string name="item_mms">Filtrar mensajes indeseados</string>
+<  <string name="item_mms">Filtrar mensajes indeseados</string>
   <string name="item_usb_debug">Depuración USB</string>
   <string name="item_virus_lib">Actualizar definiciones de virus automáticamente</string>
   <string name="keywords_antispam">Lista de bloqueo;Bloquear;Lista negra;Lista de bloqueo inteligente;Fraude;Ventas;Agentes;Lista de bloqueo de llamadas;Lista de bloqueo de mensajes;Lista de bloqueo de mensajería;Lista de bloquedo de SMS;Lista de bloqueo;Lista negra;Listadebloqueo;Lista de bloqueo;fraude;bloquear contactos;contactos bloqueados</string>
@@ -718,6 +774,7 @@ Su operadora podría cargarle costos adicionales si usa la conexión de datos m�
   <string name="leisure_usage_dialog_title">Ha excedido el límite de datos en horario reducido, la conexión de datos está apagada</string>
   <string name="list_empty_text">Vacío</string>
   <string name="load_only_under_wlan">Cargar usando sólo Wi-Fi</string>
+  <string name="loading">Sólo un segundo…</string>
   <string name="local_ip_exception_summary">"No se pudo obtener la dirección IP local Para informar de este problema a MIUI, vaya a la aplicación Comentarios y envíe un registro desde su dispositivo."</string>
   <string name="lock_mode_title">Ajustes de bloqueo</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s utilizado en la pantalla de bloqueo</string>
@@ -795,6 +852,7 @@ responda</string>
   <string name="main_toolbar_purchase">Recarga</string>
   <string name="main_toolbar_statistic">Estadísticas del uso de datos</string>
   <string name="main_used_bill">%s CNY</string>
+  <string name="man_add_application">Añadir aplicaciones con autoarranque manualmente</string>
   <string name="manual_input_free_traffic">Establecer uso de datos fuera de hora punta</string>
   <string name="manual_input_traffic">Establecer uso de datos</string>
   <string name="manual_item_white_list_summary">Evitar que las aplicaciones seleccionadas sean optimizadas</string>
@@ -894,7 +952,9 @@ responda</string>
   <string name="monitor_app_add">Añadir</string>
   <string name="monitor_app_more">Más</string>
   <string name="monitor_requests_from_pc">Administrar la instalación de las aplicaciones vía USB</string>
+  <string name="more_game">Más juegos</string>
   <string name="name">Nombre</string>
+  <string name="net_delay_title">Retraso</string>
   <string name="network_blocked_connected_open_wifi">Conectado a la red pública</string>
   <string name="network_blocked_notification_summary">Comprobar la red</string>
   <string name="network_blocked_switch_wifi">Cambiar redes</string>
@@ -945,6 +1005,7 @@ responda</string>
   <string name="never">Una vez</string>
   <string name="news_change">Cambiar</string>
   <string name="nickname">Apodo</string>
+  <string name="no_game">No se pudo encontrar juegos</string>
   <string name="note">Nota</string>
   <string name="note_call_none">Sin llamadas</string>
   <string name="note_list_none">Lista vacía</string>
@@ -1006,6 +1067,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="om_media_scan_timeout_proc_detail">El servidor multimedia funciona en segundo plano. Puede restringir su actividad.</string>
   <string name="om_media_scan_timeout_proc_name">Servidor multimedia</string>
   <string name="om_memory_clean_cleaning_text">Optimizando velocidad…</string>
+  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Restringir la actividad de segundo plano para aumentar la velocidad</string>
   <string name="om_notify_cpu_load_too_high_title">El uso de CPU de %s es muy elevado</string>
   <string name="om_notify_need_clean_memory_summary">Limpia la cache para optimizar la velocidad</string>
@@ -1027,6 +1089,8 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="open_activity_err">No se encuentra la aplicación</string>
   <string name="open_app">Abrir</string>
   <string name="open_callwait">Encendido</string>
+  <string name="open_game">Abrir</string>
+  <string name="open_now">Permitir a las aplicaciones el uso de datos móviles</string>
   <string name="operator_diagnostic">Diagnósticos de la compañía operadora</string>
   <string name="operator_mi_sim">SIM Mi</string>
   <string name="optimize_manage_title">Aumentar velocidad</string>
@@ -1064,6 +1128,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="optmizingbar_title_security">Seguridad</string>
   <string name="optmizingbar_title_system">Seguridad del sistema</string>
   <string name="organization">Organización</string>
+  <string name="other">Otros ajustes</string>
   <string name="other_exception_summary">No tiene conexión a Internet</string>
   <string name="other_exception_title">Verificando otros problemas</string>
   <string name="package_change_notification_summary">Pulse para conocer más.</string>
@@ -1093,6 +1158,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="path_securitycenter">Aplicaciones del sistema/Seguridad</string>
   <string name="path_securitycenter_settings">Aplicaciones del sistema/Seguridad</string>
   <string name="path_usb_install">Aplicaciones del sistema/Seguridad/Permisos/Instalar via USB</string>
+  <string name="pc_activity_title">Optimizar batería</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instalar vía USB</string>
   <string name="pc_to_phone_install">Instalación bloqueada de %s vía USB</string>
@@ -1127,6 +1193,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="power_20s_shutdown">El dispositivo se apagará en %d segundos</string>
   <string name="power_analysis_consume_title">Uso de la batería</string>
   <string name="power_analysis_suggestion_need_optimize">Problemas detectados en el uso de la batería.</string>
+  <string name="power_autorun_apps_empty">Aplicaciones sin autoarranque</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analizar el uso de la batería</string>
   <string name="power_cell">Antena activada</string>
@@ -1174,7 +1241,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="power_save_mode_end_time">Fin</string>
   <string name="power_save_mode_ontime_enabled">Programar tiempo para cambiar entre los modos</string>
   <string name="power_save_mode_start_time">Comienzo</string>
-  <string name="power_save_mode_summary" formatted="false">Supervise los procesos de fondo y desactive la sincronización. El protector de batería se apagará automáticamente cuando la batería esté cargada al 60% o al 100%.</string>
+  <string formatted="false" name="power_save_mode_summary">Supervise los procesos de fondo y desactive la sincronización. El protector de batería se apagará automáticamente cuando la batería esté cargada al 60% o al 100%.</string>
   <string name="power_save_on_time_end_time_summary_na">A</string>
   <string name="power_save_on_time_start_time_summary_na">De</string>
   <string name="power_save_summary_text">Activar el ahorro de batería para reducir aplicaciones en segundo plano, detener la sincronización, y reducir al mínimo las animaciones del sistema.</string>
@@ -1291,6 +1358,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="reject_all">Restringir todo</string>
   <string name="reject_countdown">Denegar (%d)</string>
   <string name="reject_usb_install">Se denegó la instalación de estas aplicaciones vía USB</string>
+  <string name="release_memory">Limpiar caché</string>
   <string name="renew_ip">Reintentar</string>
   <string name="repair">Reparar</string>
   <string name="repair_loading_text">Espere un momento…</string>
@@ -1356,8 +1424,11 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="safe_result_item_info_system_version">MIUI esta actualizado a día de hoy</string>
   <string name="safepay_alert_dialog_button_continue">Continuar</string>
   <string name="safepay_alert_dialog_button_risk">Arreglar</string>
+  <string name="save_energy_text">Limite autoarranque y sincronización a las aplicaciones en segundo plano para conseguir lo mejor de la batería de su dispositivo</string>
+  <string name="save_energy_title">Optimizar batería</string>
   <string name="sc_allow_network_dialog_message">Esta aplicación necesita conectarse a Internet para funcionar con normalidad.</string>
   <string name="sc_allow_network_dialog_tiltle">No se puede utilizar esta función</string>
+  <string name="scan_installed_games">Chequeando juegos instalados…</string>
   <string name="scan_status_risk">Peligroso</string>
   <string name="scan_status_safe">Seguro</string>
   <string name="scanning_bar_number">%d%%</string>
@@ -1373,6 +1444,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="security_scan_optimizing">Optimizando…</string>
   <string name="see_detail">Detalles</string>
   <string name="set_applock_password">Establecer contraseña</string>
+  <string name="setting">Ajustes</string>
   <string name="setting_privacy_password">Establezca un patrón de bloqueo</string>
   <string name="settings">Ajustes de uso de datos</string>
   <string name="settings_battery_consume_abnormal_summary">Recibir notificaciones cuando la batería se esté drenando rápido</string>
@@ -1381,8 +1453,11 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="settings_category_overheat">Calentamiento</string>
   <string name="settings_choice_no_notification">Apagado</string>
   <string name="settings_power_save_ontime_title">Programar</string>
+  <string name="shield_keyboard_detail">Doble toque en los botones para volverlos a encender</string>
+  <string name="shield_keyboard_title">Apagar botones</string>
   <string name="show_system_app">Mostrar aplicaciones del sistema</string>
-  <string name="show_traffic_dialog_message">Su información de uso de datos será mostrada en el panel de notificaciones. Puede activar o desactivar esta característica en cualquier momento en Uso de datos &gt; Ajustes</string>  <string name="show_traffic_dialog_title">Mostrar uso en el panel de Notificaciones</string>
+  <string name="show_traffic_dialog_message">Su información de uso de datos será mostrada en el panel de notificaciones. Puede activar o desactivar esta característica en cualquier momento en Uso de datos &gt; Ajustes</string>
+  <string name="show_traffic_dialog_title">Mostrar uso en el panel de Notificaciones</string>
   <string name="showpattern">Mostrar patrón</string>
   <string name="shutdown_cancel_reminder">No se apagó</string>
   <string name="shutdown_cancel_reminder_detail">El dispositivo no se apagó porque estaba en mitad de una llamada</string>
@@ -1543,8 +1618,10 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="st_title_show_antispam_notification">Lista de notificaciones bloquedas</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Excepciones</string>
+  <string name="start">Empezar</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">Iniciando descarga: %1$s</string>
+  <string name="start_game">Empezar</string>
   <string name="start_tc_button">Calibrar</string>
   <string name="suggest_app_tolock">Sugerencias</string>
   <string name="suggest_scan_again">Se propone un escaneo completo para garantizar la seguridad.</string>
@@ -1584,6 +1661,7 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="summary_virus_cloudscan">Subir detalles y nombres de aplicaciones y escanear usando definiciones de virus en línea</string>
   <string name="summary_virus_update">Obtener automáticamente las últimas definiciones de virus</string>
   <string name="summary_xiaomi_roaming">CNY 0,01/MB para la itinerancia de datos móviles.</string>
+  <string name="support_game_booster_tips">Aumente la velocidad &amp; mejore su experiencia de juego</string>
   <string name="sys_app_prot_cracked_confirm">Lo tengo</string>
   <string name="sys_app_prot_cracked_login">Identifíquese con la Cuenta Mi</string>
   <string name="sys_app_prot_cracked_text_login">"La versión actual de MIUI ha sido modificada lo que pone a la seguridad de su dispositivo en riesgo.
@@ -1593,6 +1671,10 @@ Asegúrese de saber de dónde viene este dispositivo, y contacte con un centro d
 
 Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene este dispositivo y contacte con un centro de servicio autorizado Xiaomi en su zona."</string>
   <string name="sys_app_prot_cracked_title">Riesgo de seguridad</string>
+  <string name="sys_cpu_title">Uso de CPU</string>
+  <string name="sys_freememory_title">Disponible</string>
+  <string name="sys_title_gamebooster_unit_gb">G</string>
+  <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="system_app">Aplicaciones del sistema</string>
   <string name="system_application">Aplicaciones del sistema</string>
   <string name="tab_blacklist">Lista de bloqueo</string>
@@ -1604,7 +1686,8 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_all_error_notification_title">No se pudo completar el diagnostico</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Toque para ajustar el tipo de red</string>
   <string name="tc_diagnostic_brand_error_notification_title">Tipo de red incorrecta</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Marca del operador errónea&lt;br/&gt;&lt;br/&gt;Establecer marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>  <string name="tc_diagnostic_complete">Aceptar</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Marca del operador errónea&lt;br/&gt;&lt;br/&gt;Establecer marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_complete">Aceptar</string>
   <string name="tc_diagnostic_fragment_default">Acerca de diagnósticos
 1. El dispositivo se conectará a la la red de la operadora, enviará un mensaje gratuito, y esperará a la respuesta de la operadora. Esto puede costar hasta 5 minutos.
 2. Usted puede abandonar esta página durante los diagnósticos, será llevado a cabo en segundo plano.</string>
@@ -1616,7 +1699,7 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_onekey_repair_botton">Solucionar</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Pulse para cambiar los ajustes del operador</string>
   <string name="tc_diagnostic_operator_error_notification_title">Operador incorrecto</string>
-   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Resultado: Operador erróneo&lt;br/&gt;&lt;br/&gt;Establecer operador: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Operador actual: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Resultado: Operador erróneo&lt;br/&gt;&lt;br/&gt;Establecer operador: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Operador actual: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Solucionar y continuar</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnósticos completados, problemas de ubicación resueltos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnósticos completados, problemas de ubicación y operador resueltos.&lt;/font&gt;"</string>
@@ -1633,7 +1716,8 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_diagnostic_status_updating">Comprobando…</string>
   <string name="tc_diagnostic_success_notification_summary">Reporte este problema para ayudar a las herramientas de diagnostico de MIUI</string>
   <string name="tc_diagnostic_success_notification_title">La red del operador y la marca son correctos</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Red del operador y marca establecidos correctamente&lt;br/&gt;&lt;br/&gt;No se pudo completar el ajuste:&lt;br/&gt;1. Las estadísticas del operador pueden no ser confiables al principio y final del mes&lt;br/&gt;2. No se actualizaron las funciones de las aplicaciones de seguridad.&lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herramientas de mejoramiento de MIUI&lt;/font&gt;"</string>  <string name="tc_diagnostic_title">Diagnósticos de la compañía operadora</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Red del operador y marca establecidos correctamente&lt;br/&gt;&lt;br/&gt;No se pudo completar el ajuste:&lt;br/&gt;1. Las estadísticas del operador pueden no ser confiables al principio y final del mes&lt;br/&gt;2. No se actualizaron las funciones de las aplicaciones de seguridad.&lt;br/&gt;&lt;br/&gt;Reporte este problema para ayudar a las herramientas de mejoramiento de MIUI&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_title">Diagnósticos de la compañía operadora</string>
   <string name="tc_diagnostic_upload_button">Reportar</string>
   <string name="tc_diagnostic_upload_no_network">¡Gracias por su comentario! Su reporte será enviado cuando se conecte a la red.</string>
   <string name="tc_diagnostic_upload_success">¡Gracias por su comentario!</string>
@@ -1659,7 +1743,8 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="tc_sms_report_notify_get_timeout_body">Proceso fuera de tiempo. Pregunte a su operador si el código de consulta SMS que ingresó es correcto.</string>
   <string name="tc_sms_report_notify_get_timeout_title">No se puede obtener SMS de uso de datos</string>
   <string name="tc_sms_report_receive_content">Informe de uso de datos por contenido en SMS (Confirmar estadísticas de uso de datos)</string>
-  <string name="tc_sms_report_receive_content_null">¡Ayúdenos a mejorar esta característica!&lt;br/&gt;Aquí está cómo:&lt;br/&gt;1. Ir a \"Comprobar comando SMS\" y \"Número de destinatario\"&lt;br/&gt;2. Pulse \"Obtener plantilla SMS\"&lt;br/&gt;3. Espere a recibir un mensaje SMS de su operador &lt;br/&gt;4. Pulse \"Subir a MIUI\"</string>  <string name="tc_sms_report_receive_num">Número del destinatario</string>
+  <string name="tc_sms_report_receive_content_null">¡Ayúdenos a mejorar esta característica!&lt;br/&gt;Aquí está cómo:&lt;br/&gt;1. Ir a \"Comprobar comando SMS\" y \"Número de destinatario\"&lt;br/&gt;2. Pulse \"Obtener plantilla SMS\"&lt;br/&gt;3. Espere a recibir un mensaje SMS de su operador &lt;br/&gt;4. Pulse \"Subir a MIUI\"</string>
+  <string name="tc_sms_report_receive_num">Número del destinatario</string>
   <string name="tc_sms_report_send_num">Número de teléfono del operador</string>
   <string name="tc_sms_report_summary">Ayúdenos a mejorar esta característica enviando un informe cuando su uso de datos tiene un error o falla para actualizar.</string>
   <string name="tc_sms_report_tips_dialog_message">El uso de datos utiliza un SMS con un formato especial para conseguir su última utilización de los datos de su compañía. Si esta función no está funcionando normalmente, intente actualizar el formato de SMS para el uso de datos. El nuevo formato actualizado será subido a nuestros servidores.</string>
@@ -1746,6 +1831,9 @@ Si no ha modificado MIUI en modo alguno, asegúrese de saber de dónde viene est
   <string name="toast_root_apply_reject">Permiso root denegado a %s</string>
   <string name="toast_set_success">Activado con éxito</string>
   <string name="toast_show_notification">Acoplado al panel de notificación</string>
+  <string name="top_game">Top juegos</string>
+  <string name="top_load_fail_detail">No se pudo cargar, toque para intentarlo otra vez</string>
+  <string name="top_no_network_detial">No se pudo cargar, compruebe la conexión a la red e inténtelo otra vez</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Plan mensual cambiado a %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Plan de datos actualizado</string>
   <string name="traffic_alert_auto_modify_package_summary">Ajustar automáticamente el paquete de datos de acuerdo con la información del operador</string>
@@ -1794,6 +1882,7 @@ Los datos restantes incluyen datos transferidos desde el mes anterior.</string>
   <string name="traffic_setting_fragment_sms_content_tips">Escriba su mensaje aquí</string>
   <string name="traffic_setting_fragment_title">Consulta del uso de datos</string>
   <string name="traffic_warning_purchase_title">Aviso de uso de datos móviles</string>
+  <string name="try_game">Probar</string>
   <string name="try_recommended_function">Proteja su dispositivo con las nuevas funciones de seguridad</string>
   <string name="two_address_choose_hint">%1$s y %2$s</string>
   <string name="unable_connect_internet">Sin conexión a Internet</string>
@@ -1844,4 +1933,6 @@ Los datos restantes incluyen datos transferidos desde el mes anterior.</string>
   <string name="wifi_item_title_fake">Detectar Wi-Fi falsa</string>
   <string name="wifi_network_blocked_notification_title">Sin conexión a Internet</string>
   <string name="wl_no_whitelist">Sin excepciones.</string>
+  <string name="wlan_change_protection_detail">No cambiar a WLAN automáticamente cuando esté conectado a la red de datos móviles</string>
+  <string name="wlan_change_protection_title">Prevenir cambio de redes</string>
 </resources>
