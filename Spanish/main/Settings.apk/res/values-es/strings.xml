@@ -923,13 +923,10 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="close_gesture">Cerrar usando gesto</string>
   <string name="close_miui_optimization_title">Desactivar optimización MIUI</string>
   <string name="close_miui_optimization_warning_message">Su dispositivo se reiniciará para aplicar este cambio. Nota: desactivar esta función supondrá cambios importantes en el diseño y otros elementos de la interfaz de usuario.</string>
-  <string name="cloud_backup_section_title">Mi copia de seguridad en Mi Cloud</string>
-  <string name="cloud_backup_settings_section_title">Ajustes de copia de seguridad</string>
+  <string name="cloud_backup_settings_section_title">Ajustes de la copia de seguridad</string>
   <string name="cloud_restore_section_summary">Restaurar aplicaciones, Disposición de la pantalla principal y ajustes del sistema</string>
   <string name="cloud_restore_section_title">Restaurar desde Mi Cloud</string>
   <string name="cloud_backup_section_title">Copia de seguridad en Mi Cloud</string>
-  <string name="cloud_backup_settings_section_title">Ajustes de backup</string>
-  <string name="cloud_restore_section_summary">Restaurar aplicaciones, diseño de la pantalla de inicio, y la configuración del sistema</string>
   <string name="cloud_restore_section_title">Restaurar desde Mi Cloud</string>
   <string name="cmcc_hardware_version">Versión de hardware</string>
   <string name="collect_diagnostics_summary">Recoger datos de diagnóstico para solucionar problemas</string>
@@ -2289,9 +2286,7 @@ Puede configurar un nuevo bloqueo de pantalla común para su dispositivo y su pe
   <string name="lockscreen_glogin_checking_password">Comprobando…</string>
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
-  <string name="lockscreen_remote_input">Si el dispositivo está bloqueado, impedir que se tecleen respuestas u otros textos en las notificaciones</string>   <string name="login_account_dialog_message">Inicia sesión con tu Mi Cuenta y activa la sincronización con Mi Cloud.</string>
-  <string name="login_account_dialog_title">Iniciar sesión con mi cuenta</string>
-  <string name="login_action">Registrarse</string>
+  <string name="lockscreen_remote_input">Si el dispositivo está bloqueado, impedir que se tecleen respuestas u otros textos en las notificaciones</string>
   <string name="login_account_dialog_message">Inicie sesión con su Cuenta Mi y active la sincronización con Mi Cloud.</string>
   <string name="login_account_dialog_title">Iniciar sesión con una Cuenta Mi</string>
   <string name="login_action">Iniciar sesión</string>
