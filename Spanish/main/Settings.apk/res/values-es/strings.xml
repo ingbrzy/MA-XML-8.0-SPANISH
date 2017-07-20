@@ -319,8 +319,9 @@ El administrador podrá controlar y administrar los ajustes, el acceso, las apli
   <string name="application_item_disable">Denegar</string>
   <string name="application_item_permission">Permitir</string>
   <string name="application_lock_name">Bloqueo de aplicaciones</string>
-  <string name="application_manager_section_title">Ajustes de aplicaciones</string>
-  <string name="application_permission_manager">Permisos de aplicaciones</string>
+  <string name="application_manager_section_title">Ajustes de las aplicaciones</string>
+  <string name="application_permission_manager">Permisos de las aplicaciones</string>
+  <string name="application_permissions">Permisos de las aplicaciones</string>
   <string name="application_restrictions">Permitir aplicaciones y contenido</string>
   <string name="application_size_label">Aplicación</string>
   <string name="applications_settings">Aplicaciones instaladas</string>
@@ -922,7 +923,11 @@ Las emisiones utilizan señales de Bluetooth de baja energía."</string>
   <string name="close_gesture">Cerrar usando gesto</string>
   <string name="close_miui_optimization_title">Desactivar optimización MIUI</string>
   <string name="close_miui_optimization_warning_message">Su dispositivo se reiniciará para aplicar este cambio. Nota: desactivar esta función supondrá cambios importantes en el diseño y otros elementos de la interfaz de usuario.</string>
-  <string name="cloud_backup_section_title">Backup en Mi Cloud</string>
+  <string name="cloud_backup_section_title">Mi copia de seguridad en Mi Cloud</string>
+  <string name="cloud_backup_settings_section_title">Ajustes de copia de seguridad</string>
+  <string name="cloud_restore_section_summary">Restaurar aplicaciones, Disposición de la pantalla principal y ajustes del sistema</string>
+  <string name="cloud_restore_section_title">Restaurar desde Mi Cloud</string>
+  <string name="cloud_backup_section_title">Copia de seguridad en Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Ajustes de backup</string>
   <string name="cloud_restore_section_summary">Restaurar aplicaciones, diseño de la pantalla de inicio, y la configuración del sistema</string>
   <string name="cloud_restore_section_title">Restaurar desde Mi Cloud</string>
@@ -2284,7 +2289,9 @@ Puede configurar un nuevo bloqueo de pantalla común para su dispositivo y su pe
   <string name="lockscreen_glogin_checking_password">Comprobando…</string>
   <string name="lockscreen_glogin_password_hint">Contraseña</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
-  <string name="lockscreen_remote_input">Si el dispositivo está bloqueado, impedir que se tecleen respuestas u otros textos en las notificaciones</string>
+  <string name="lockscreen_remote_input">Si el dispositivo está bloqueado, impedir que se tecleen respuestas u otros textos en las notificaciones</string>   <string name="login_account_dialog_message">Inicia sesión con tu Mi Cuenta y activa la sincronización con Mi Cloud.</string>
+  <string name="login_account_dialog_title">Iniciar sesión con mi cuenta</string>
+  <string name="login_action">Registrarse</string>
   <string name="login_account_dialog_message">Inicie sesión con su Cuenta Mi y active la sincronización con Mi Cloud.</string>
   <string name="login_account_dialog_title">Iniciar sesión con una Cuenta Mi</string>
   <string name="login_action">Iniciar sesión</string>
@@ -2969,6 +2976,7 @@ Esto también dará a la aplicación la capacidad de activar y desactivar No Mol
   <string name="power_usage_summary">Consumo de la batería</string>
   <string name="power_usage_summary_title">Batería y rendimiento</string>
   <string name="power_wifi">Wi-Fi</string>
+  <string name="pre_installed_application">Aplicaciones preinstaladas</string>
   <string name="pref_button_light">Luz de los botones</string>
   <string name="pref_button_light_summary">Iluminar botones de Menú, Inicio y Volver</string>
   <string name="pref_edge_handgrip">Controles de borde</string>
