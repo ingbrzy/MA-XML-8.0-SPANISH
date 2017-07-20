@@ -188,14 +188,13 @@ su Cuenta Mi para reactivar Mi Cloud."</string>
   <string name="micloud_detail_lastest_with_off">Sincronizado</string>
   <string name="micloud_detail_need_charge_or_sleep">Conectar el cargador y desactivar la pantalla para sincronizar</string>
   <string name="micloud_detail_not_sync">%d esperando para sincronizar</string>
+  <string name="micloud_detail_not_syncable">No sincronizado</string>
   <string name="micloud_detail_not_synced">No sincronizado</string>
   <string name="micloud_detail_ok">Aceptar</string>
   <string name="micloud_detail_pause">Sincronización pausada</string>
   <string name="micloud_detail_pending">Esperando</string>
   <string name="micloud_detail_preference_sync_items">Elementos</string>
   <string name="micloud_detail_query_error">No se puede obtener el estado de sincronización</string>
-  <string name="micloud_detail_query_error_detail">No se puede comprobar el estado de sincronización. Por favor póngase en contacto con los desarrolladores.</string>
-  <string name="micloud_detail_query_error_title">No se puede obtener el estado de sincronización</string>
   <string name="micloud_detail_success">Sincronizado</string>
   <string name="micloud_detail_sync_now">Sincronizar ahora</string>
   <string name="micloud_detail_syncing">Sincronizando</string>
@@ -240,24 +239,33 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_full_influence_title">Cuando se llene su Mi Cloud…</string>
   <string name="micloud_main_battery_low">No hay batería suficiente para realizar la sincronización</string>
   <string name="micloud_main_battery_message">Conectar el cargador a la sincronización</string>
+  <string name="micloud_main_button_activate">Activar</string>
+  <string name="micloud_main_button_authorize">Autorizar</string>
+  <string name="micloud_main_button_set_internet">Ajustes</string>
   <string name="micloud_main_cancel_sync">Cancelar la sincronización</string>
   <string name="micloud_main_clear_now">Borrar</string>
   <string name="micloud_main_detail">Ver detalles</string>
+  <string name="micloud_main_error_activated_fail">Por favor active la tarjeta SIM.</string>
+  <string name="micloud_main_error_network_disallowed">Asegúrese de obtener el permiso de acceso a Internet.</string>
+  <string name="micloud_main_error_permission_limit">Autorice permiso de acceso a la base de datos para micloud.</string>
   <string name="micloud_main_last_sync_time">Última sincronización %s</string>
+  <string name="micloud_main_master_sync_on">Sincronizar en</string>
   <string name="micloud_main_memory_low_message">Para sincronizar, elimine algunos elementos que haya almacenado en la nube.</string>
   <string name="micloud_main_memory_low_title">No hay suficiente espacio de almacenamiento</string>
+  <string name="micloud_main_message_master_sync_off">El ajuste de sincronización automática está en la barra de notificación.</string>
   <string name="micloud_main_message_not_synced">%s datos no sincronizados</string>
-  <string name="micloud_main_multi_user_error_message">"Usted iniciado sesión con la misma cuenta provocó un error de Mi Cloud. Si desea realizar una copia de seguridad de archivos:
-
-1. Utilizar una cuenta diferente.
-2. Mover los elementos a Primera espacio."</string>
+  <string name="micloud_main_multi_user_error_message">"Usted iniciado sesión con la misma cuenta provocó un error de Mi Cloud.
+Utilizar una cuenta diferente."</string>
   <string name="micloud_main_multi_user_error_title">Error de Mi Cloud</string>
   <string name="micloud_main_network_abnormal">No es posible conectarse a la red</string>
   <string name="micloud_main_network_error">No es posible conectarse a la red</string>
+  <string name="micloud_main_query_again">Consulta</string>
   <string name="micloud_main_query_error_message">No se puede garantizar si la sincronización está terminada</string>
   <string name="micloud_main_query_error_title">No se puede obtener el estado de sincronización</string>
+  <string name="micloud_main_resume_sync_soon">Reanudar la sincronización cuanto antes</string>
   <string name="micloud_main_set_internet">Red</string>
   <string name="micloud_main_space_full">El almacenamiento en la nube está lleno</string>
+  <string name="micloud_main_space_full_message">Actualizar a miembro obtendrá más espacio de almacenamiento</string>
   <string name="micloud_main_space_full_title">No hay suficiente espacio de almacenamiento, sincronización pausada</string>
   <string name="micloud_main_space_low">Casi no queda espacio</string>
   <string name="micloud_main_stop_sync">Sincronización interrumpida</string>
@@ -266,7 +274,6 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_suggest_sync">No se pudo sincronizar todo</string>
   <string name="micloud_main_sync_exception">Error de sincronización</string>
   <string name="micloud_main_sync_init">Obteniendo información</string>
-  <string name="micloud_main_sync_need_charge">Cargue su dispositivo</string>
   <string name="micloud_main_sync_need_charge_or_sleep">Conectar el cargador y desactivar la pantalla para sincronizar</string>
   <string name="micloud_main_sync_now">Sincronizar ahora</string>
   <string name="micloud_main_sync_on">Sincronización activada</string>
@@ -283,6 +290,11 @@ Para solucionar esto, puede borrar algunos archivos antiguos para hacer sitio a 
   <string name="micloud_main_title_sync_off">Sincronización desactivada</string>
   <string name="micloud_main_title_sync_on_wifi">Usar Wi-Fi</string>
   <string name="micloud_main_update_space">Conseguir más espacio de almacenamiento.</string>
+  <string name="micloud_main_wait_charge">Esperando el cargador de conexión</string>
+  <string name="micloud_main_wait_charge_sleep">Esperando conectar el cargador y apagar la pantalla</string>
+  <string name="micloud_main_wait_wlan">Esperando Wi-Fi</string>
+  <string name="micloud_main_wait_wlan_charge">Esperando Wi-Fi, cargador de conexión</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Esperando Wi-Fi, conectando el cargador y apagando la pantalla</string>
   <string name="micloud_main_wlan_sync_data_count">Elementos esperando a sincronizar: %d</string>
   <string name="micloud_member">Afiliación a Mi Cloud</string>
   <string name="micloud_member_advantage">Conseguir más espacio de almacenamiento.</string>
