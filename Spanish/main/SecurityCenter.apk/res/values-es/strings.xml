@@ -528,13 +528,13 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="detail_app_button">Info de la aplicación</string>
   <string name="details_subtitle">Detalles de uso</string>
   <string name="diagnostic_attention_dialog_message">Diagnóstico para%1$s está en progreso. Espere a que termine e intente de nuevo.</string>
-  <string name="dialog_app_roaming_message">%1$s no pudo utilizar datos móviles en roaming. Cuando esté en roaming, sólo aquellas aplicaciones que ha añadido a la lista de excepciones pueden utilizar datos móviles.</string>
-  <string name="dialog_app_roaming_title">%1$s no pudo utilizar el roaming de datos</string>
+  <string name="dialog_app_roaming_message">%1$s no puede utilizar datos móviles en roaming. Cuando está en el extranjero, sólo las aplicaciones que ha agregado a las excepciones pueden utilizar datos móviles.</string>
+  <string name="dialog_app_roaming_title">"La itinerancia en el extranjero no está habilitada para %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Algunas aplicaciones podrían indicar incorrectamente que MIUI ha evitado que se iniciaran. Comprueba los permisos que se le han dado a cada aplicación en Ajustes &gt; aplicaciones.</string>
   <string name="dialog_msg_stop_paysafety_scan">¿Detener la comprobación de seguridad cuando haga pagos?</string>
   <string name="dialog_msg_stop_virus_scan">"¿Detener la exploración de seguridad antes de que termine?"</string>
-  <string name="dialog_roaming_message">Su compañía podría cobrarle cargos adicionales por el uso de datos en roaming.</string>
-  <string name="dialog_roaming_title">¿Permitir roaming de datos?</string>
+  <string name="dialog_roaming_message">¿Permitir que esta aplicación utilice datos móviles cuando se está roaming en el extranjero?</string>
+  <string name="dialog_roaming_title">Roaming en el extranjero</string>
   <string name="dialog_text">Crear un acceso directo en la pantalla de Inicio para el acelerador de velocidad de Juegos</string>
   <string name="dialog_title_attention">Advertencia</string>
   <string name="dialog_title_auto_start_declare">Acerca del inicio automático</string>
@@ -635,7 +635,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="firewall_restrict_notify_title">"%s no puede utilizar la red"</string>
   <string name="firewall_restrict_wlan">Restringir el uso de la conexión Wi-Fi</string>
   <string name="firewall_rule_group_title_mobile">Móvil</string>
-  <string name="firewall_rule_group_title_roaming">Roaming de datos</string>
+  <string name="firewall_rule_group_title_roaming">Roaming en el extranjero</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"La aplicación instalada no podrá conectarse a Internet mediante Wi-Fi si está desactivado.​"</string>
   <string name="five_percent_total_pkg">%s (5%% de los datos mensuales)</string>
@@ -734,7 +734,7 @@ o introduzca la contraseña de bloqueo de Aplicación"</string>
   <string name="install_sucess">Instalado %s con éxito</string>
   <string name="install_title">Instalar vía USB</string>
   <string name="installing">Instalando</string>
-  <string name="international_roaming_setting">Roaming de datos</string>
+  <string name="international_roaming_setting">Roaming en el extranjero</string>
   <string name="intro_improve">Acelerar su experiencia de juego en el nivel del sistema</string>
   <string name="intro_skip">Saltar</string>
   <string name="ip_address_exception_summary">"No se pudo obtener la dirección IP. Si se ejecuta en este problema de nuevo, intente usar una dirección IP estática."</string>
@@ -947,7 +947,7 @@ responda</string>
   <string name="menu_wh_remove">Eliminar de excepciones</string>
   <string name="mi_service_app_detail">Detalles del uso de datos</string>
   <string name="mi_service_traffic_detail">Detalles del Framework</string>
-  <string name="mian_page_primary_txt">Roaming de datos</string>
+  <string name="mian_page_primary_txt">Roaming en el extranjero</string>
   <string name="modifypassword">Cambiar contraseña</string>
   <string name="monitor_app_add">Añadir</string>
   <string name="monitor_app_more">Más</string>
@@ -973,20 +973,20 @@ responda</string>
   <string name="network_roaming_exception_tips">No se pueden utilizar datos móviles en roaming para conectarse a la red.</string>
   <string name="network_route_exception_detail">"Puede haber un problema con el router al que está conectado:
 
-"&lt;b&gt;1. Problemas de red Wi-Fi pública&lt;/b&gt;"
-Si está conectado a una red Wi-Fi pública, el numero de usuarios conectados a la red podrá estar haciéndola lenta o causando problemas de conectividad. Cambie a otra red e intente nuevamente.
+"&lt;b&gt;"1. Problemas de red Wi-Fi pública
+"&lt;/b&gt;"Si está conectado a una red Wi-Fi pública, el numero de usuarios conectados a la red podrá estar haciéndola lenta o causando problemas de conectividad. Cambie a otra red e intente nuevamente.
 
-"&lt;b&gt;2. Problemas de proveedores de servicios de Internet&lt;/b&gt;"
-Asegúrese de que su cuenta está en buen estado con su proveedor de servicios de Internet.
+"&lt;b&gt;"2. Problemas de proveedores de servicios de Internet
+"&lt;/b&gt;" Asegúrese de que su cuenta está en buenos términos con su proveedor de servicios de Internet.
 
-"&lt;b&gt;3. Problemas de hardware del router&lt;/b&gt;"
-Intente reiniciar el router o comprobar la configuración de administración de su router.
+"&lt;b&gt;"3. Problemas de hardware del router
+"&lt;/b&gt;"Intente reiniciar el router o comprobar la configuración de administración de su router.
 
-"&lt;b&gt;4. Otras cuestiones de router&lt;/b&gt;"
-Lea las instrucciones que vienen con el router y restaure las configuraciones de fábrica.
-
-"&lt;b&gt;5. Asegúrese de que el router está conectado correctamente&lt;/b&gt;"
-Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, póngase en contacto con su proveedor de servicios de Internet."</string>
+"&lt;b&gt;4. Other router issues&lt;/b&gt;"
+"&lt;/b&gt;Read the instructions that came with your router and restore your router to its factory settings.
+    
+"&lt;b&gt;"5. Asegúrese de que el router está conectado correctamente
+"&lt;/b&gt;"Intente usar otro cable Ethernet para conectar el router. Si sospecha que hay un problema con su conexión de casa, póngase en contacto con su proveedor de servicios de Internet."</string>
   <string name="network_sim_exception_detail">"Puede haber un problema con la tarjeta SIM:
 
 1. Asegúrese de que su cuenta está en buenos términos con su compañía. Trate de usar la tarjeta SIM de un amigo y vea si puede conectar con normalidad.
@@ -1259,7 +1259,7 @@ Esta actividad acorta la duración de la batería."</string>
   <string name="pref_adjust_data_usage_summary">Después de que cambie la plantilla de calibración, MIUI los usará para obtener estadísticas de uso de datos de su operador</string>
   <string name="pref_adjust_data_usage_value">Cambiado</string>
   <string name="pref_adjust_traffic_data">Establecer uso de datos</string>
-  <string name="pref_allow_connect_network_title">Datos de roaming</string>
+  <string name="pref_allow_connect_network_title">Roaming de datos en el extranjero</string>
   <string name="pref_auto_adjust_settings">Ajuste automático de la configuración de las estadísticas de uso de datos</string>
   <string name="pref_auto_adjust_traffic">Ajuste automático de las estadísticas de uso de datos</string>
   <string name="pref_automatic_adjust">Sincronización del uso de datos del operador</string>
@@ -1400,9 +1400,9 @@ Mientras se calibra, MIUI le enviará un mensaje de texto a su operadora para re
   <string name="roaming_limit_notification_title">Límite de datos de roaming diario alcanzado</string>
   <string name="roaming_limit_warning_notification_body">Pulse para ver el uso de datos.</string>
   <string name="roaming_not_start_body">Toque para ver las configuraciones de datos de roaming.</string>
-  <string name="roaming_not_start_title">Roaming de datos</string>
+  <string name="roaming_not_start_title">Roaming en el extranjero</string>
   <string name="roaming_start_body">Toque para ver las excepciones de datos de roaming.</string>
-  <string name="roaming_start_title">Datos de roaming</string>
+  <string name="roaming_start_title">Roaming en el extranjero</string>
   <string name="root">Acceso root</string>
   <string name="root_apply_step_1">¿Permitir a %s acceso root?</string>
   <string name="root_apply_step_2">Permitir acceso root puede hacer que tu dispositivo se vuelva inestable.</string>
