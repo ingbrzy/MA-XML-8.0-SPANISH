@@ -4,6 +4,7 @@
   <string name="add_frequent_phrases">Añadir frases frecuentes</string>
   <string name="all_call_livetalk_enable">Usar paquetes de recarga para llamadas nacionales e internacionales</string>
   <string name="all_call_livetalk_remain_mins">Minutos restantes: %1$s nacional o %2$s internacional</string>
+  <string name="always">Siempre</string>
   <string name="alwaysUsePrompt">Recordar mi elección</string>
   <string name="apply_password_action">Aceptar</string>
   <string name="apply_password_confirm_dlg_msg">Utilice su contraseña actual de la pantalla de bloqueo para acceder a la configuración de %s.</string>
@@ -28,9 +29,13 @@
   <string name="call_record_sample_prefix_miui">Llamada</string>
   <string name="caller_info_name_delimiter">" o "</string>
   <string name="cancel_action">Cancelar</string>
+  <string name="close">Apagado</string>
   <string name="configure_input_methods">Elija los teclados</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
+  <string name="default_name">Por defecto</string>
+  <string name="description_title">Modo silencioso</string>
+  <string name="eighthours">8 horas</string>
   <string name="enable_livetalk_summary">Ahorre hasta un 70% en sus llamadas</string>
   <string name="enable_livetalk_title">Volver al paquete de recarga</string>
   <string name="fc_dialog_body">¿Enviar informe de error a Mi para su análisis? Este reporte puede contener información de identificación personal. Tu informe será utilizado para ayudar a solucionar este error y nunca será compartida en cualquier contexto comercial.</string>
@@ -39,6 +44,7 @@
   <string name="fm_record_smaple_prefix_miui">Grabación FM</string>
   <string name="force_exit_message">Cierre forzado %1$s</string>
   <string name="force_exit_skip_message">No se puede cerrar %1$s porque lo requiere el sistema.</string>
+  <string name="fourhours">2 horas</string>
   <string name="fp_nav_center_action_choose_dlg_msg">Puede volver a la pantalla de inicio tocando ligeramente el botón Inicio. Puede activar esta función y desactivar en Ajustes &gt; Ajustes adicionales &gt; Botones &gt; Toque el botón Inicio para volver a la pantalla de inicio.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ahora no</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Activar</string>
@@ -72,6 +78,7 @@
   <string name="memory_clear_nothing_result">Nada que limpiar en caché</string>
   <string name="memory_clear_result">%1$sB eliminado</string>
   <string name="miui_upgrading_notification_title">El sistema está cargando, algunas características pueden estar limitadas</string>
+  <string name="onehour">30 minutos</string>
   <string name="package_delete_confirm_step_1">¿Eliminar %s?</string>
   <string name="package_delete_confirm_step_2">Al eliminar esta aplicación, el sistema puede volverse inestable.</string>
   <string name="package_delete_confirm_step_3">"No podrás abrir esta aplicación después de eliminarla."</string>
@@ -84,6 +91,7 @@
   <string name="reboot_info_auto_boot">El dispositivo está programado para encenderse a las %s</string>
   <string name="reboot_info_shutdown_alarm">Siguiente alarma: %s</string>
   <string name="reboot_progress">Reinicializando…</string>
+  <string name="remain">Restante:%s</string>
   <string name="replace">Reemplazar</string>
   <string name="resource_select">Seleccionar</string>
   <string name="screen_button_disabled_message">Botones de navegación desactivados. Para reactivarlos, toca el botón de Inicio y el botón de encendido simultáneamente.</string>
@@ -112,10 +120,14 @@
   <string name="set_password_title">Establecer contraseña</string>
   <string name="shutdown_confirm_title">¿Apagar el dispositivo ahora?</string>
   <string name="shutdown_progress">Apagando…</string>
+  <string name="silence_mode">Modo silencioso</string>
   <string name="sim_added_reboot_confirm">Reiniciar</string>
   <string name="sim_added_reboot_title">La SIM se activará después de que reinicies tu dispositivo.</string>
   <string name="softap_notifif_summary">%d conectado</string>
   <string name="softap_notifif_title">Punto de acceso \" %s \" está activo</string>
+  <string name="standard">Silencio</string>
+  <string name="standard_description">[Silencio] Silencio para llamadas entrantes y de notificación</string>
+  <string name="standard_title">Silenciando..</string>
   <string name="start_security_permission_verify_text">Compruebe los permisos con su Cuenta Mi</string>
   <string name="status_bar_toggle_auto_brightness">Brillo A.</string>
   <string name="status_bar_toggle_battery_saver">Ahorro batería</string>
@@ -139,10 +151,14 @@
   <string name="status_bar_toggle_vibrate">Vibrar</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Zona Wi-Fi</string>
+  <string name="total">MNM</string>
+  <string name="total_description">[MNM] Silencia el sonido y apaga la vibración de todos los elementos excepto el despertador</string>
+  <string name="total_title">MNM..</string>
   <string name="translation_more">Más</string>
   <string name="translation_query_error">No se encontraron resultados</string>
   <string name="translation_query_error_network">No se pudo obtener información, comprobar la conexión de red y volver a intentarlo</string>
   <string name="turn_off">Desactivar</string>
+  <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número desconocido</string>
   <string name="user_switching_dialog_text">Cambiando…</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicación</string>
