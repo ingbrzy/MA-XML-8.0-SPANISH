@@ -78,6 +78,8 @@
   <string name="apn_settings_not_available">Los ajustes de Nombre del Punto de acceso no están disponibles para este usuario</string>
   <string name="app_label">IU del sistema</string>
   <string name="app_process_limit_title">Límite de proceso en segundo plano</string>
+  <string name="as_important">Importante</string>
+  <string name="as_unimportant">Sin importancia</string>
   <string name="audio_effect_custom">Configurar</string>
   <string name="audio_effect_info">Optimizar audio</string>
   <string name="audio_effect_settings">Selecciona el tipo de auriculares</string>
@@ -167,6 +169,7 @@
   <string name="camera_key_action_shortcut_title">Capturar</string>
   <string name="camera_key_action_shortcut_wake">Bloquear/desbloquear dispositivo</string>
   <string name="camera_key_action_toggle_title">Alternar controles</string>
+  <string name="cancel">Cancelar</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Trabajo</string>
   <string name="charge_length_format">Hace %1$s</string>
@@ -279,6 +282,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="immediately_destroy_activities">No guarde actividades</string>
   <string name="immediately_destroy_activities_summary">Destruye todas las actividades tan pronto como el usuario la abandona</string>
+  <string name="important_desc">Todas las notificaciones importantes aparecerán directamente en la pantalla de Notificación.</string>
   <string name="inactive_app_active_summary">Activo. Toque para alternar.</string>
   <string name="inactive_app_inactive_summary">Inactivo. Toque para alternar.</string>
   <string name="inactive_apps_title">Aplicaciones inactivas</string>
@@ -425,7 +429,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="screenshot_dlg_cancel">Cancelar</string>
   <string name="screenshot_dlg_delete_button">Borrar</string>
   <string name="screenshot_edit">Editar</string>
-  <string name="screenshot_failed_text">No se pudo guardar la captura de pantalla. Puede que el almacenamiento esté en uso.</string>
+  <string name="screenshot_failed_text">"No se puede tomar una captura de pantalla debido a un espacio de almacenamiento limitado o que la aplicación no lo permite".</string>
   <string name="screenshot_long_screenshot">Desplazarse</string>
   <string name="screenshot_saved_text">Toque para ver su captura de pantalla.</string>
   <string name="screenshot_saved_title">Se guardó la captura de pantalla.</string>
@@ -529,6 +533,9 @@ Desliza hacia abajo para bloquear"</string>
   <string name="tts_status_ok">%1$s está totalmente soportado</string>
   <string name="tts_status_requires_network">%1$s requiere conexión de red</string>
   <string name="tts_status_title">Estado del idioma predeterminado</string>
+  <string name="un_important_notifications">Notificaciones sin importancia</string>
+  <string name="unimportant_desc">Todas las notificaciones sin importancia aparecerán en una carpeta aparte.</string>
+  <string name="unimportant_title">Sin importancia</string>
   <string name="unknown">Desconocido</string>
   <string name="usb_accessory_confirm_prompt">¿Abrir %1$s cuando este accesorio USB esté conectado?</string>
   <string name="usb_accessory_permission_prompt">¿Deseas que la aplicación %1$s acceda al accesorio USB?</string>
