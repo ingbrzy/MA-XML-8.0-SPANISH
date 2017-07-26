@@ -67,6 +67,10 @@
   <string name="keyguard_charging_info_tip_text4">"No utilice demasiado el dispositivo mientras se está cargando para evitar el sobrecalentamiento."</string>
   <string name="keyguard_charging_info_tip_text5">Las baterías tardan más tiempo en cargar cuando se ponen más calientes que de costumbre.</string>
   <string name="keyguard_charging_info_tip_text6">Apague la pantalla y ponga su dispositivo lejos para refrescarlo.</string>
+  <string name="keyguard_left_bankcard">Mi Pay</string>
+  <string name="keyguard_left_buscard">Tarjeta de transporte</string>
+  <string name="keyguard_left_remotecentral">Mi Remote</string>
+  <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Carga rápida. Toque para ver detalles.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Carga rápida…</string>
   <string name="keyguard_torch_cover_text">Para mantener la linterna encendida, toque el botón de encendido</string>
@@ -86,8 +90,8 @@
 Inténtelo de nuevo en %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Ha intentado desbloquear incorrectamente el teléfono %d veces. El teléfono se reiniciará ahora a valores de fábrica.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear con el dispositivo Bluetooth</string>
-  <string name="open_camera_hint_text">Deslizar a la izquierda para abrir %s</string>
-  <string name="open_remote_center_hint_text">Deslizar a la derecha para abrir %s</string>
+  <string name="open_camera_hint_text">Deslizar hacia la izquierda para abrir la cámara</string>
+  <string name="open_remote_center_hint_text">Desliza hacia la derecha para abrir mi remote</string>
   <string name="phone_locked_foget_password">¿Olvidó su contraseña?</string>
   <string name="phone_locked_foget_password_content">"Puede iniciar sesión en i.mi.com utilizando la Cuenta Mi que está asociada con este dispositivo y borrar todos los datos. Esto borrará todos los datos personales almacenados en este dispositivo. Después de esto, puede reiniciar el dispositivo y restaurar contactos, mensajes, fotos y otros elementos de Mi Cloud.
 
